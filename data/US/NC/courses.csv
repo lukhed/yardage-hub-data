@@ -1,0 +1,496 @@
+id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
+00802623-eee7-49ea-979b-058a41912880,way/281576350,Winston Lake Golf Course,,course,,,active,18,,,,,https://www.winstonlakegolf.com/,,3535 Winston Lake Road,Winston-Salem,NC,27105,US,36.1227863,-80.1994159,2026-10-11T15:12:07Z
+0188427e-076d-4664-b602-fbd5737b5913,relation/11587205,Stonebridge Golf Club,,course,,,active,18,72,,,,,,,,NC,,US,34.9401192,-80.6352136,2026-10-11T15:12:41Z
+02d7142c-b1e8-493a-a285-564751e2f889,node/10054905200,,,course,,,active,,,,,,,,,,NC,,US,34.7736524,-77.3756391,2026-10-11T13:29:32Z
+035f70be-63a4-451a-b770-65a44e55c002,relation/5253222,Bermuda Run West,,course,,,active,,63,,,,,,,,NC,,US,35.9933944,-80.4326982,2026-10-11T15:12:36Z
+03629260-d6cf-415a-b05e-36494cf4dfcd,way/1273875380,,,course,,,active,,,,,,,,,,NC,,US,34.8587537,-77.5008755,2026-10-11T13:31:12Z
+03e58b17-d318-45e8-bc87-d7d3ae815fd0,way/1122038193,The Pines,,course,,,active,,,,,,,,,,NC,,US,36.331457,-76.2384698,2026-10-11T15:12:24Z
+04159a9f-091b-4907-b6f2-af3615c2415a,way/1349240605,,,course,,,active,18,72,,,,,,,,NC,,US,35.2554487,-82.4441606,2026-10-11T13:31:14Z
+04e26fe4-7705-46f5-9ace-da1588a373c6,relation/6451891,Emerald Lake Golf Club,,course,,,active,18,71,,,+1 704 882 7888,https://www.emeraldlakegolfclub.com/,,9750 Tournament Drive,Matthews,NC,28104,US,35.1409702,-80.6109847,2026-10-11T15:12:36Z
+04fe1e61-4049-4bec-8a0a-3dedc21a8dce,relation/6389007,,,course,,,active,,,,,,,,,,NC,,US,35.0769655,-79.4827806,2026-10-11T15:12:36Z
+050f0aa8-0791-497f-88fc-49d2bd4dc2b0,way/424326669,Golfin Dolphin,,course,,,active,,,,,,,,,,NC,,US,34.6959596,-77.066987,2026-10-11T15:12:15Z
+061c0e84-da83-4405-923b-cab1efbbfdbb,way/192025819,Hound Ears Club,,course,,,active,,,,,,,,,,NC,,US,36.1739148,-81.7414539,2026-10-11T15:12:01Z
+0657938e-b7f5-4bd0-8e7b-804f9448c325,node/5547210080,Cashiers Resort Community,,course,,,active,,,,,,,,,,NC,,US,35.1212008,-83.1261529,2026-10-11T13:29:32Z
+078f60b6-4284-4b2d-814f-9e776ee27cea,relation/17848227,Bentwinds Country Club,,course,,,active,18,72,,,+1-919-552-5656,https://www.bentwinds.org/,,6536 Dornoch Place,Fuquay Varina,NC,27526,US,35.6249062,-78.7682276,2026-10-11T15:12:45Z
+0877c685-a82e-42b1-a632-cf27472a7098,way/466811038,Willow Springs Country Club,,course,,,active,,,,,+1 252 291 5171,https://www.willowspringscc.com/,,US 301,Wilson,NC,27893,US,35.683472,-77.9442777,2026-10-11T15:12:17Z
+08890b0e-a5e8-424e-ad42-e803d2955ab0,way/417264054,,,course,,,active,,,,,,,,,,NC,,US,35.3621141,-77.998303,2026-10-11T15:12:15Z
+09bba1bd-00b2-4fa5-af1e-88a75275a9ad,relation/6413045,Mill Creek Golf Club,,course,,,active,18,72,,,+1 919 563 4653,https://www.golfmillcreek.com/,,1700 Saint Andrews Drive,Mebane,NC,27302,US,36.1211469,-79.2663627,2026-10-11T15:12:36Z
+0a77628a-3986-4708-a146-fa5b1722dfbd,node/5547241012,Saphhire National Golf Club,,course,,,active,,,,,,,,,,NC,,US,35.1134231,-83.0251761,2026-10-11T13:29:32Z
+0bed29aa-db16-45c9-a144-95a5079e7241,way/435751277,Cabarrus Country Club,,course,,,active,,,,,+1 704 786 3104,https://www.cabarruscc.org/,,3247 Weddington Road Northwest,Concord,NC,28027,US,35.3956774,-80.6330615,2026-10-11T13:30:44Z
+0c200763-2140-4d2f-a743-fbcbb6c690c1,relation/14704626,Tanglewood Reynolds Course,,course,,,active,,36,,,,,,,,NC,,US,35.9981082,-80.4060662,2026-10-11T15:12:41Z
+0c460121-cdd4-42c4-afde-e80fa9b0b6da,way/317877963,New Bern Golf & Country Club,,course,,,active,,,,,+1-252-637-4061,https://www.nbgcc.com/,,4301 Country Club Road,New Bern,NC,28562,US,35.0787007,-77.0920971,2026-10-11T15:06:24Z
+0cb4b0fd-6d93-4eb1-85d3-989b4d7da59f,relation/6454273,Olde Sycamore Golf Plantation,,course,,,active,18,72,,,+1 704 573 1000,https://www.oldesycamoregolf.com/,,7500 Olde Sycamore Drive,Charlotte,NC,28227,US,35.164738,-80.6074638,2026-10-11T15:12:36Z
+0cc62ae6-7cc3-4629-9c56-242305ae063b,way/881174475,Catawba Creek Golf Course,,course,,,active,18,70,,,,https://www.cityofgastonia.com/catawba-creek-golf-course.html,,530 Niblick Drive,Gastonia,NC,28054,US,35.237989,-81.1779824,2026-10-11T15:12:23Z
+0cca5ba0-26ee-4d9b-8cfc-6958552f05a5,node/11480624099,,,course,,,active,,,,,,,,,,NC,,US,35.071338,-76.9499058,2026-10-11T13:29:32Z
+0d36b35c-5155-4f67-9ccf-a2477be74e0f,way/429782375,Chicora Golf Club,,course,,,active,,,,,+1 910 897 7366,https://www.chicoragolf.com/,,495 Chicora Club Drive,Dunn,NC,28334,US,35.2947877,-78.6801943,2026-10-11T15:12:15Z
+0d63abb8-6852-47dd-b67f-c9af82523b46,way/429125034,,,course,,,active,,,,,,,,,,NC,,US,35.2095551,-79.3469754,2026-10-11T15:12:15Z
+0dd6fce2-7b73-4ac3-ab78-61bf21294356,relation/18028381,,,course,,,active,,,,,,,,,,NC,,US,35.4866475,-83.0151996,2026-10-11T15:06:54Z
+0dfda892-9973-4c9d-9d7d-3bc11942a4c6,way/723774476,Apple Valley Golf Course,,course,,,active,18,72,,,,,,309 Winesap Road,Lake Lure,NC,28746,US,35.4564976,-82.1669799,2026-10-11T15:12:21Z
+0ed253c8-44c0-4744-a5f0-5d09bf13bf72,way/24487227,Hillandale Golf Course,,course,,,active,18,71,,,+1 919 286 4211,https://hillandalegolf.com/,,1600 Hillandale Road,Durham,NC,27705,US,36.0220231,-78.9385823,2026-10-11T15:11:49Z
+0f936b9b-7e56-4c7a-a7ff-6214c970fc65,relation/5242500,Country Club of Salisbury,,course,,,active,18,72,,,+1-704-637-3200,https://www.ccofsalisbury.com/,,747 Club Drive,Salisbury,NC,28144,US,35.6879106,-80.4649736,2026-10-11T15:12:36Z
+0fbfe2e7-3396-4422-9e59-074f838fabcc,relation/6388053,Pinehurst Course No. 9,,course,,,active,,14,,,,,,,,NC,,US,35.1917254,-79.4383043,2026-10-11T15:12:36Z
+0ff2831d-6419-4cd2-92b9-8b5a9ca3a0c1,relation/6430208,The Heritage Club,,course,,,active,18,73,,,+1 919 453 2020,https://www.playheritagegolf.com/,,1250 Heritage Club Avenue,Wake Forest,NC,27587,US,35.9524204,-78.495396,2026-10-11T15:12:36Z
+114157d6-f7b2-4aba-9404-2437bfa3bf10,way/464820137,Grassy Creek Golf & Country Club,,course,,,active,,,,,+1 828 765 7436,https://www.grassycreek.com/,,2360 Swiss Pine Lake Drive,Spruce Pine,NC,28777,US,35.8907404,-82.0704355,2026-10-11T15:12:17Z
+11614694-de21-4f7f-bbeb-9c74f2cedf33,relation/20058530,,,course,,,active,,,,,,,,,,NC,,US,35.0676598,-77.1463274,2026-10-11T13:31:51Z
+11687160-ba8b-4df0-b9fd-c4c5a87fee2e,relation/6891496,,,course,,,active,,,,,,,,,,NC,,US,35.827893,-77.0727179,2026-10-11T15:12:38Z
+1181b849-8214-4aae-9d64-2b2e5c2d476f,relation/21282811,The Pearl Golf Club,,course,,,active,,,,,,https://thepearlgolf.com/,,1300 Pearl Boulevard,Calabash,NC,28467,US,33.8960368,-78.5373837,2026-10-11T15:12:45Z
+1197cdff-d36e-42af-92f9-bf3d2ae807c0,way/429298978,Knollwood Fairways,,course,,,active,,,,,,,,,,NC,,US,35.194374,-79.4063398,2026-10-11T15:12:15Z
+11a8658e-9386-4757-82d5-87b9275cf847,way/343275319,Maple Chase Golf & Country Club,,course,,,active,,,,,,https://www.maplechasecc.com/,,,,NC,,US,36.1853445,-80.2545927,2026-10-11T15:12:14Z
+125c730b-7044-46c3-b6d7-1afa2231070b,relation/6386358,The Woods Golf Club,,course,,,active,18,72,,,+19109494653,https://www.thewoodsgolfclub.com/,,26 Sandpiper Drive,Whispering Pines,NC,28327,US,35.2375881,-79.3719642,2026-10-11T15:06:47Z
+12ac940e-1810-4e46-a56e-143bc5fb5316,way/1104673360,Tanglewood Championship Course,,course,,,active,,62,,,,,,,,NC,,US,35.991556,-80.4097126,2026-10-11T13:31:06Z
+13dc61b3-b711-4c96-8a5e-1c751ceeba1a,way/197420261,Hedingham Golf Club,,course,,,active,,,,,,,,,,NC,,US,35.804862,-78.5475748,2026-10-11T15:12:03Z
+14758f8a-121b-44a5-aece-fa5d6dfedbfd,way/859081041,,,course,,,active,,9,,,,,,,,NC,,US,35.3289891,-80.8020461,2026-10-11T15:12:23Z
+147f6033-22a8-4837-8212-72e5bb946737,way/316265418,,,course,,,active,,16,,,,,,,,NC,,US,35.4020292,-77.6179831,2026-10-11T15:12:12Z
+15e45bf0-4739-46ca-8550-6ddfd198e393,relation/7671380,Grandfather Golf & Country Club,,course,,,active,18,71,,,+1-828-898-4531,https://www.grandfatherclubnc.com/,,2120 NC Highway 105 South,Linville,NC,28646,US,36.100895,-81.8489216,2026-10-11T15:12:38Z
+16c8d2ea-27be-4df4-b85c-00fa461a0590,relation/3972773,High Hampton Golf Club,,course,,,active,18,,,,+1-800-334-2551,http://www.highhamptoninn.com/golf.aspx,,1525 Highway 107 South,Cashiers,NC,28717,US,35.1020883,-83.0813303,2026-10-11T15:06:45Z
+171407b0-9807-472e-bc17-cb4ae5f7e731,node/11762018913,,,course,,,active,,,,,,,,,,NC,,US,35.7894019,-79.6259702,2026-10-11T13:29:32Z
+1778b5d2-dcf6-43b8-9a41-72c52553f3bd,way/798995040,Eagles Chase Golf Club,,course,,,active,,,,,,,,,,NC,,US,35.0786394,-80.3948549,2026-10-11T15:12:21Z
+18210768-32f5-4baa-b744-4340da4adad8,node/9969113954,,,course,,,active,,,,,,,,,,NC,,US,34.3957712,-77.6516938,2026-10-11T13:29:32Z
+195d16ae-a46f-4ffb-aa88-a7bb2b5ef582,way/1509582683,Par 3 Course,,par3,,,active,,24,,,,,,,,NC,,US,34.2868814,-77.7553603,2026-10-11T15:12:29Z
+1a5f38c0-f2e4-49ee-893b-6b703f962b01,way/524540524,Landfall Country Club Golf Course,,course,,,active,,,,,,,,,,NC,,US,34.2314018,-77.8148906,2026-10-11T15:12:18Z
+1ac4054c-6527-4d17-a9b9-3a42ec7baff6,node/13688647102,,,course,,,active,,,,,,,,,,NC,,US,34.9976085,-78.3695516,2026-10-11T13:29:32Z
+1bb798fd-3773-4989-8b33-219da7f7e3c1,way/351918289,,,course,,,active,,,,,,,,,,NC,,US,35.7790375,-80.5224096,2026-10-11T15:12:14Z
+1bd6b822-b167-46ab-8bb6-61126fc5f752,relation/6384806,Holly,,course,,,active,,9,,,,,,,,NC,,US,35.1962849,-79.517497,2026-10-11T15:12:36Z
+1bd87553-2053-43a2-b917-5fbb9bda86a3,relation/6886112,Crystal Coast Country Club,,course,,,active,18,70,,,,https://crystalcoastcc.com/,,,,NC,,US,34.7015834,-76.7903569,2026-10-11T13:31:37Z
+1c8ac858-1d8a-4847-b428-4d4e83462374,relation/6488898,Mooresville Golf Course,,course,,,active,18,,,,+1 704 663 2539,http://mooresvillegolfcourse.com/,,800 Golf Course Drive,Mooresville,NC,28115,US,35.5727244,-80.8331498,2026-10-11T15:12:36Z
+1ce85f38-d031-405d-9b23-62f86b99a09b,way/506818224,,,course,,,active,,,,,,,,,,NC,,US,36.1081815,-75.7340342,2026-10-11T13:30:51Z
+1ceeedf0-2a56-484e-8c95-a98e5a0d8e29,way/33139720,Finley Golf Course,,course,,public,active,18,72,,,,,,,,NC,,US,35.900307,-79.0200305,2026-10-11T15:11:51Z
+1d2600ad-3242-48c1-8227-958442555605,way/1554369793,Pinehurst No. 10,,course,,,active,,7,,,,,,1075 Sand Mines Crossing,Aberdeen,NC,28315,US,35.1508424,-79.460168,2026-10-11T15:12:30Z
+1d33b2e4-3b35-4d49-9a67-095c3e8841b5,way/1333029139,,,course,,,active,,,,,,,,,,NC,,US,36.1642001,-79.3054562,2026-10-11T15:12:29Z
+1e32799f-daed-401f-bfc7-9a2a7ea0a34b,relation/9045324,Broadmoor Golf Links,,course,,,active,,,,,+1 800 238-5795,http://broadmoorlinks.com/,,101 French Broad Lane,Fletcher,NC,28732,US,35.4171889,-82.5321115,2026-10-11T15:12:38Z
+1effbe5e-4ca0-4937-941b-914deaf932f9,way/403391505,,,practice,,,active,,,,,,,,,,NC,,US,34.1868968,-77.901065,2026-10-11T15:12:15Z
+1f22cb77-d1bd-4718-82bb-6a20b79c4cc7,way/923410945,Wildcat Cliffs Country Club,,course,,,active,,43,,,,,,,,NC,,US,35.0872754,-83.1523932,2026-10-11T13:31:02Z
+2025a8f2-f39c-4ec6-8f36-c24ede750d03,relation/6542700,"Sedgefield Country Club, Dye Course",,course,,,active,,,,,+1 336 668 2746,https://www.sedgefieldcc.com/,,5700 Cardinal Way,Greensboro,NC,27407,US,36.1338468,-79.9175491,2026-10-11T15:12:38Z
+20b13c24-89d3-461f-bf1e-9e9fc3f8cbf7,relation/6430115,TPC Wakefield Plantation,,course,,,active,,59,,,+1 919 488 5100,https://www.ccwakefieldplantation.com/,,2201 Wakefield Plantation Drive,Raleigh,NC,27614,US,35.9576835,-78.5600355,2026-10-11T13:31:32Z
+211697b9-a6ed-40dd-baa5-1dae30f2e4e3,relation/6490542,Cowan's Ford Golf Club,,course,,,active,18,72,,,+1 704 827 3088,https://www.cowansford.com/,,761 Club Drive,Lake Norman,NC,28164,US,35.4447981,-80.9682426,2026-10-11T15:12:38Z
+21f22794-2fce-4929-9378-14c27adf4bca,way/315998261,,,course,,,active,18,72,,,,,,,,NC,,US,36.1199487,-77.7945909,2026-10-11T13:30:33Z
+222e9f55-427a-4347-8954-e74b6cf30c68,way/435090269,,,course,,,active,,,,,,,,,,NC,,US,34.9457801,-80.0453796,2026-10-11T15:12:15Z
+22ecd26e-a7fd-4bdd-9c52-7ab534f02e5e,way/428977990,Dormie Club,,course,,,active,18,71,,,+1 910 215 4587,http://www.dormieclub.com/,,6033 Beulah Hill Church Road,West End,NC,27376,US,35.2633679,-79.4982098,2026-10-11T15:12:15Z
+22f9df75-547d-45fa-b253-3fb8ef20bdbf,way/37699515,,,course,,,active,,,,,,,,,,NC,,US,35.2813837,-77.6010595,2026-10-11T15:06:03Z
+23610185-1be2-44f6-bab9-4303e9fb6dfb,relation/12257076,Roaring Gap Club,,course,,,active,18,72,,,,https://www.roaringgapclub.com/,,2663 Roaring Gap Drive,Roaring Gap,NC,28668,US,36.4065491,-80.9742652,2026-10-11T15:06:51Z
+242f1ede-2b9e-4b3b-bc3b-69fffddffb1f,relation/6403267,Mountain Course,,course,,,active,,,,,,,,,,NC,,US,35.8502202,-79.0521733,2026-10-11T15:12:36Z
+265ce919-364f-4f49-a612-f153220973ba,way/352067732,Linville Falls Golf Club,,course,,,active,,,,,+1-828-756-4653,https://www.linvillefallsgolfclub.com/,,210 Blue Ridge Drive North,Marion,NC,28752,US,35.8870497,-81.9411204,2026-10-11T13:30:39Z
+27c161ef-5537-4081-93e0-3001e3fdd0a9,way/768400467,Forest City Municipal Golf Course,,course,,,active,,,,,,,,211 Clay Street,Forest City,NC,28043,US,35.3361691,-81.8779284,2026-10-11T15:12:21Z
+28d8899c-6864-4407-ba49-69e607854bff,relation/9075922,Beech Mountain Club,,course,,,active,,16,,,+1-828-387-4208,https://beechmtn.club/,,103 Lakeledge Road,Beech Mountain,NC,28604,US,36.2137994,-81.8846535,2026-10-11T15:12:38Z
+28ec5b3c-961c-4d67-8649-5643a635de8c,way/627467512,Par 3 Golf Course,,par3,,,active,,,,,,,,,,NC,,US,36.1662412,-79.868848,2026-10-11T15:12:20Z
+29528461-060c-491c-8a65-08a9a505ba68,way/286113630,Pinehurst Course No.1,,course,,,active,,,,,,,,,,NC,,US,35.1807824,-79.4602622,2026-10-11T15:12:07Z
+297fcdff-d768-4448-8fa5-a593e0926846,relation/4253216,Ironwood Golf & Country Club,,course,,,active,,,,,+1-252-752-4653,https://www.ironwoodgolf.com/,,200 Golf Club Wynd,Greenville,NC,27834,US,35.6420904,-77.4457167,2026-10-11T15:12:36Z
+299dac4d-30fb-4e75-a852-9c3623e34600,way/429556557,Carolina Lakes Golf Club,,course,,,active,18,,,,+1 919 499 5421,https://carolina-lakes.com,,55 Carolina Lakes Road,Sanford,NC,27332,US,35.2873581,-79.0539477,2026-10-11T15:12:15Z
+29f49c0d-dfec-4600-88ba-835455cf5c73,relation/9142335,Linville Land Harbor Golf Club,,course,,,active,18,69,,,,https://linvillelandharborgolf.com/,,1665 Goose Hollow Road,Newland,NC,28657,US,36.0428201,-81.9011593,2026-10-11T15:06:49Z
+2a02a419-4dfe-44e6-8e19-060cf75386e4,relation/6535267,High Vista Golf Club,,course,,,active,,,,,+1 828-891-1986,https://www.highvistagolf.com/,,88 Country Club Road,Mills River,NC,28759,US,35.4319074,-82.5812725,2026-10-11T15:12:38Z
+2a3375df-6d36-4d19-9a46-69a70b0f78f2,relation/6431570,Belmont Lake Golf Club,,course,,,active,,,,,+1 252 973 0800,https://www.belmontlakegolfclub.com/,,201 Belmont Club Way,Rocky Mount,NC,27804,US,36.0298542,-77.7834615,2026-10-11T13:31:32Z
+2ba87ecc-f849-4487-80a0-ad07c6bdc9dc,relation/6396830,12 Oaks,,course,,,active,18,72,,,,,,,,NC,,US,35.6675585,-78.8746513,2026-10-11T15:12:36Z
+2c1ac610-d15b-44b9-a9a6-5d4831f1c575,way/351673224,,,course,,,active,,,,,,,,,,NC,,US,35.6575656,-80.5102316,2026-10-11T15:12:14Z
+2c78a346-a6b3-42dd-9877-78206edda866,way/479961815,Greensboro Country Club Irving Park Golf Course,,course,,,active,,14,,,,,,,,NC,,US,36.0955994,-79.8011793,2026-10-11T15:12:17Z
+2d0c3719-24fd-4d6c-bdb6-d1d93ee2fc27,relation/14692302,Tanglewood Par 3 Course,,par3,,,active,18,54,,,,,,,,NC,,US,36.0016048,-80.4000244,2026-10-11T15:12:41Z
+2d989be2-2d8a-4977-8e5b-f3433f86632c,node/12766266516,,,course,,,active,,,,,,,,,,NC,,US,33.8939676,-78.5381996,2026-10-11T13:29:32Z
+2e6f6eaa-d5c4-4208-973e-ee7cb3db4211,node/5547074979,Headwaters Golf Course,,course,,,active,,,,,,,,,,NC,,US,35.0857344,-83.0727515,2026-10-11T13:29:32Z
+2f2cc909-7a74-4498-9548-f3522963fb6a,relation/6384809,South Course,,course,,,active,,65,,,,,,,,NC,,US,35.2238028,-79.4175125,2026-10-11T15:12:36Z
+30fcceef-8e74-4ec7-9e44-eeb2f406d223,relation/4255046,Umstead Pines Golf & Swim Club,,course,,,active,,,,,+1-919-383-1022,https://www.umsteadpines.com/,,253 Country Club Drive,Durham,NC,27712,US,36.0758048,-78.9653896,2026-10-11T15:06:47Z
+3176cee1-b7a0-4cb2-b0f0-e8134a1a35be,relation/6385055,The Pines Course,,course,,,active,,,,,,,,,,NC,,US,35.2515889,-79.3752904,2026-10-11T15:12:36Z
+319135ce-9878-4dfb-9f9b-c91763642c77,way/351271586,Twin Oaks Golf Course,,course,,,active,,,,,,,,,,NC,,US,35.774689,-80.8245634,2026-10-11T15:12:14Z
+31b72355-d9c1-4eab-bd02-d39c54380516,relation/6385379,Hyland Golf Club,,course,,,active,18,71,,,+1 910 692 6400,https://www.hylandgolfclub.com/,,115 Fairway Avenue,Southern Pines,NC,28387,US,35.2095551,-79.3469754,2026-10-11T15:12:36Z
+31cd2dae-9da8-4eea-b5aa-ffef833e8e2c,way/439094372,Meadowbrook Golf Club,,course,,,active,,,,,+1 828 863 2690,https://www.meadowbrookgolfclub.com/,,1211 Meadowbrook Road,Rutherfordton,NC,28139,US,35.2324325,-81.9829113,2026-10-11T15:12:15Z
+325de861-afbe-43c8-8252-814a3e22be00,way/438613662,Kings Mountain Country Club,,course,,,active,,4,,,,,,109 Country Club Road,Kings Mountain,NC,28086,US,35.2472284,-81.3637869,2026-10-11T15:06:28Z
+33b24cab-735b-4103-8e74-9e75252fd9d6,way/430436305,Lonnie Poole Golf Course,,course,,,active,,,,,+1 919 833 3338,https://www.lonniepoolegolfcourse.com/,,1509 Main Campus Drive,Raleigh,NC,27606,US,35.7581288,-78.6792347,2026-10-11T15:12:15Z
+33cc80d1-c0bb-4a1d-8ec1-d06bd4dd87a3,node/9969166618,,,course,,,active,,,,,,,,,,NC,,US,34.2926792,-77.7585011,2026-10-11T13:29:32Z
+33ce0b15-5664-408d-8a9a-c9642e48f84d,node/10129417110,,,course,,,active,,,,,,,,,,NC,,US,33.9382186,-78.4888595,2026-10-11T13:29:32Z
+3540ad17-98b5-4025-8b8d-61fe446c9e22,way/31294445,Forsyth Country Club,,course,,,active,18,71,,,,https://www.forsythcc.org/,,,,NC,,US,36.1012026,-80.2997619,2026-10-11T13:29:34Z
+367faf35-6429-4957-baab-99054f719c4a,relation/15814698,Chowan Golf and Country Club,,course,,,active,,,,,,,,,,NC,,US,36.0138086,-76.541208,2026-10-11T15:12:43Z
+36e083a2-edbe-4d2a-bfd1-052ca4b7ee08,way/1456132658,Gillespie Golf Course,,course,,,active,9,,,,+1-336-373-5850,https://www.greensboro-nc.gov/departments/parks-recreation/golf-courses/gillespie-golf-course,,306 East Florida Street,,NC,,US,36.0469809,-79.7809257,2026-10-11T15:12:29Z
+38dd7b48-3e44-4de3-9a55-2ec4c15860dd,relation/7095638,,,course,,,active,,56,,,,,,,,NC,,US,35.4011357,-77.6095691,2026-10-11T15:12:38Z
+38e2cee9-9c10-4afe-921e-63678ec9a0df,way/33112165,Wedgewood Golf Course,,course,,,active,,,,,+1 252 237 4761,https://www.wilsonnc.org/parks-and-recreation/wedgewood-golf-course/,,3201 Old Stantonsburg Road,Wilson,NC,27893,US,35.6829301,-77.8768774,2026-10-11T15:11:51Z
+390f8bb1-4451-4a64-ae25-794a80daa047,way/1000504279,Deep Springs Golf Club,,course,,,active,18,72,,,,,,,,NC,,US,36.4055081,-79.8821928,2026-10-11T15:06:36Z
+394843d8-ad50-4bda-b58a-547d021d492d,node/13502372489,Grip It Virtual Golf,,course,,,active,,,,,,https://gripitvirtualgolf.com/,,,,NC,,US,36.0096661,-80.4419904,2026-10-11T13:29:32Z
+39ed70d4-b07b-46b0-88ee-4d86a4d30f77,way/529821198,Linville Golf Club,,course,,,active,,,,,,,,,,NC,,US,36.0598459,-81.8717726,2026-10-11T15:12:18Z
+3a092f97-6b2e-4aab-a4ee-ae9947534e41,way/568350024,Covington Golf Course,,course,,,active,,,,,,,,,,NC,,US,35.504126,-80.8398651,2026-10-11T15:12:18Z
+3a2e8e2e-195f-49fd-9d43-d3d47bad1cd4,way/189311992,Hedingham Golf Club,,course,,,active,9,36,,,,,,,,NC,,US,35.8099739,-78.5466579,2026-10-11T13:30:03Z
+3a47979a-4268-445e-8289-b6d773cbbb20,relation/6415306,Brier Creek Country Club,,course,,,active,18,72,,,+1 919 206 4600,https://www.briercreekcc.com/,,9400 Club Hill Drive,Raleigh,NC,27617,US,35.9095181,-78.7987062,2026-10-11T15:12:36Z
+3a9a91ec-8cb1-462b-8ebe-70beb1a670a3,relation/6377450,Gates Four Golf & Country Club,,course,,,active,18,72,,,+1 910 425 6667,https://www.gatesfour.com/,,6775 Irongate Drive,Fayetteville,NC,28306,US,34.9943265,-79.0126597,2026-10-11T15:12:36Z
+3ac4ee6f-2221-4d15-b90e-d6c78e2e15e5,way/471995629,Wilshire Golf Club,,course,,,active,,,,,,,,,,NC,,US,36.0158113,-80.2557353,2026-10-11T15:12:17Z
+3bdb6374-ed96-48ed-976e-68115ec2f974,way/511819252,Pebble Creek Golf Golf Course,,par3,,,active,18,54,,,,,,,Indian Trail,NC,28079,US,35.0709332,-80.6498505,2026-10-11T15:12:18Z
+3c1e752e-a7c4-4c2d-81e9-318904e34792,way/434825887,Downback,,course,,private,active,18,72,,,,,,,,NC,,US,35.1270551,-78.8657854,2026-10-11T13:30:44Z
+3ca81a9b-b1da-4d7f-bb02-3c43492d1ecc,way/170263538,Carolina Country Club,,course,,,active,18,71,,,,,,,,NC,,US,35.8215968,-78.6580953,2026-10-11T15:12:01Z
+3d3c60e0-64ce-4d83-8c14-1eb54fb59148,way/430081591,Lake Course,,course,,,active,18,72,,,,,,,,NC,,US,35.4113158,-79.1100779,2026-10-11T15:12:15Z
+3e54893b-f803-4d2f-8fec-f23312baa898,relation/6429256,The Hasentree Club,,course,,,active,,,,,+1 919 556 3429,https://www.hasentreecountryclub.com/,,1200 Keith Road,Wake Forest,NC,27587,US,35.9943383,-78.5952569,2026-10-11T15:12:36Z
+3e748757-364a-48b5-9e67-d8dcefd11f13,way/237389187,,,course,,,active,,,,,,,,,,NC,,US,34.654855,-78.5389182,2026-10-11T15:12:03Z
+3f070eee-4b21-43d8-871b-1397569d78e4,way/344919092,Knight's Play Golf Center,,par3,,,active,9,,,,,,,,,NC,,US,35.7113564,-78.8140588,2026-10-11T15:12:14Z
+3fb479b8-975d-46aa-ba1f-dac2105c8595,way/1110274044,,,course,,,active,,,,,,,,,,NC,,US,35.2814861,-82.4714615,2026-10-11T15:12:24Z
+404f2a79-ccd2-41cf-950e-809c669ad809,relation/4525118,Ballantyne Country Club,,course,,,active,,,,,+1-704-544-1404,https://www.ballantyneclub.com/,,11120 Ballantyne Crossing Avenue,Charlotte,NC,28277,US,35.0478081,-80.8490431,2026-10-11T13:31:32Z
+40e8867c-e5ed-4283-be01-b002750dd7d3,way/1316156915,,,course,,,active,,,,,,,,,,NC,,US,35.0021364,-76.8542453,2026-10-11T15:12:29Z
+4138e3a9-993a-4e01-8e5d-fd0df8c0b143,relation/6392871,Anderson Creek Club,,course,,,active,18,72,,,+1 910 814 2115,https://andersoncreekclub.com,,125 Whispering Pines Drive,Spring Lake,NC,28390,US,35.2904294,-78.9697015,2026-10-11T15:12:36Z
+414f5a94-5dbb-428a-9b66-bb538feec644,node/5547225570,Golf Pro Shop at Trillium,,course,,,active,,,,,,,,,,NC,,US,35.1439108,-83.1353344,2026-10-11T13:29:32Z
+4164c178-395f-44b1-8be1-e13f549b05e5,way/1339714702,Reems Creek Golf Club,,course,,,active,18,,,,,,,,,NC,,US,35.6972274,-82.5260478,2026-10-11T15:12:29Z
+41c77565-f475-4019-8ee5-12c15a29b3d4,node/7185141394,Orchard Hills Golf Course,,course,,,active,,,,,,,,,,NC,,US,35.8101881,-81.5338362,2026-10-11T13:29:32Z
+4217ec3c-bd9d-4642-a01e-76236c9ccf49,way/737906245,,,course,,,active,,,,,,,,,,NC,,US,36.3537002,-77.2942525,2026-10-11T13:30:58Z
+42a4405b-2fa0-49c3-ab99-0c225a2957ab,way/1496333307,,,course,,,active,,,,,,,,,,NC,,US,36.358784,-81.0979531,2026-10-11T13:31:14Z
+431949d3-ad8d-4c73-9cbe-6407b8b462c9,relation/6537726,Asheville Municipal Golf Course,,course,,,active,,,,,+1 828 298 1867,https://www.ashevillenc.gov/Departments/ParksRecreation/ParksFacilitiesInventory/MunicipalGolfCourse.aspx,,226 Fairway Drive,Asheville,NC,28805,US,35.5810562,-82.5015959,2026-10-11T15:06:49Z
+4377fe14-7465-4f52-8093-eea1c8a6ead3,way/757323888,,,course,,,active,,,,,,,,,,NC,,US,35.1596224,-79.3897622,2026-10-11T13:30:58Z
+4421a202-9da9-4059-938d-1db697672f48,relation/6384808,North Course,,course,,,active,,65,,,,,,,,NC,,US,35.234567,-79.428003,2026-10-11T15:12:36Z
+459eb22c-f79e-40db-a369-de8c01394c20,node/13160083593,Top Golf,,practice,,,active,,,,,+1-743-249-3625,https://topgolf.com/us/greensboro/,,609 Guilford College Road,,NC,,US,36.0633288,-79.9043016,2026-10-11T15:05:59Z
+471dd16f-6958-45cb-a54f-caed6b3cd86a,way/137262911,Rocky River Golf Club,,course,,,active,,,,,,,,6900 Bruton Smith Boulevard,,NC,28027,US,35.3661701,-80.6909685,2026-10-11T13:29:58Z
+4722e9dd-f779-4dbc-9aa2-67e09b343f4a,node/4216462855,Sedgefield Country Club,,course,,,active,,,,,+1-336-299-5324,https://www.sedgefieldcc.com/,,3201 Forsyth Drive,,NC,,US,36.0130646,-79.8873397,2026-10-11T13:29:32Z
+479f6b1d-f821-44f3-85c7-a920696be567,way/652924457,Trillium Links,,course,,,active,,,,,,,,1 Trillium Center,Cashiers,NC,28717,US,35.1395837,-83.1388171,2026-10-11T13:30:54Z
+486c518a-069c-4cb3-8506-2354ecdfee96,way/727270850,Lynrock Golf Course,,course,,,active,,7,,,,,,,,NC,,US,36.4856463,-79.7525237,2026-10-11T15:12:21Z
+488b2017-29b2-4525-9986-f33b298af559,node/14245717376,Fore Real 24,,course,,,active,,,,,+1-336-298-8234,https://forereal24.com/,,3403 Horse Pen Creek Road,,NC,,US,36.1466065,-79.8704336,2026-10-11T13:29:32Z
+495d1303-9836-4ffd-a62a-6ac04e0f0210,way/429532934,Ryder Golf Course,,course,,,active,,,,,+1 910 907 4653,https://bragg.armymwr.com/us/bragg/programs/ryder-golf-course,,,,NC,,US,35.1429616,-78.986726,2026-10-11T15:12:15Z
+49815db0-9823-4aea-badf-1f6426f45971,node/5549198257,Old Edwards Club,,course,,,active,,,,,,,,,,NC,,US,35.1534038,-83.3128497,2026-10-11T13:29:32Z
+4a3cb05e-ac2b-48a4-9bfb-a939aa81726a,relation/6400453,Quail Ridge Golf Club,,course,,,active,18,71,,,+1 919 776 6623,https://www.quailridgegolfcourse.com/,,5634 Quail Ridge Drive,Sanford,NC,27332,US,35.3928789,-79.2379271,2026-10-11T15:12:36Z
+4aa6a799-f8ac-4894-afc4-d27841f9806b,way/439440039,Etowah Valley Golf & Resort,,course,,,active,9,36,,,+1 828 891 7022,https://www.etowahvalley.com/,,470 Brickyard Road,Etowah,NC,28729,US,35.3258723,-82.6062992,2026-10-11T15:12:15Z
+4b5e7510-7373-4abc-957e-0495f9bda212,way/546696194,Olde Fort Golf Course,,course,,,active,18,73,,,,,,,,NC,,US,34.1217068,-77.9878326,2026-10-11T15:12:18Z
+4b9b7df7-5368-495e-803b-7c8449fa3eb3,way/435092677,Rolling Hills Country Club,,course,,,active,,,,,+1 704 289 4561,https://www.rollinghillscountryclub.org/,,2722 West Roosevelt Boulevard,Monroe,NC,28110,US,35.0235311,-80.5715915,2026-10-11T15:12:15Z
+4c686176-cc7c-4049-b545-7f357132df92,relation/6384807,Magnolia,,course,,,active,,63,,,,,,,,NC,,US,35.2020079,-79.5108881,2026-10-11T15:12:36Z
+4d8408a6-58e7-448c-9e93-5e81bc58f8e7,way/266857289,Carolina Pines Golf and Country Club,,course,,,active,,,,,+1-252-444-1000,https://www.carolinapinesgolf.com/,,465 Carolina Pines Boulevard,New Bern,NC,28560,US,34.965688,-76.9260625,2026-10-11T15:12:05Z
+4d8aab4f-6e57-40d7-9733-6a4ae81fe2d0,way/995056562,,,course,,,active,,,,,,,,,,NC,,US,35.3387544,-82.2730028,2026-10-11T15:12:24Z
+4de3cf72-0745-47d6-a5ab-f944273edef2,relation/6867457,,,course,,,active,18,72,,,,,,,,NC,,US,36.1747225,-80.6620656,2026-10-11T15:12:38Z
+4e4d9f2b-9df4-48c2-9e49-a2a3662d2f7a,relation/6411268,Alamance Country Club,,course,,,active,,,,,+1 336 584 0345,https://www.alamancecountryclub.com/,,2402 Pineway Drive,Burlington,NC,27215,US,36.0915899,-79.489963,2026-10-11T15:12:36Z
+4eca5ce6-9c4c-4006-ad24-63f6c192782c,way/188354718,Myers Park Country Club,,course,,,active,18,71,,,+1 704 376 0741,https://www.myersparkcc.com/,,2415 Roswell Avenue,Charlotte,NC,28209,US,35.1751711,-80.8293818,2026-10-11T15:12:01Z
+4f63b4f8-f4ab-4618-971c-fe8692c00862,way/867906942,,,course,,,active,,5,,,,,,,,NC,,US,35.0008694,-80.8261859,2026-10-11T15:12:23Z
+4f792137-1824-4f15-aad4-d20da089d415,way/428889122,,,course,,,active,,,,,,,,,,NC,,US,34.9570322,-79.1171483,2026-10-11T15:12:15Z
+50597e13-fa18-4218-bffe-60c675534c94,way/432675592,Wendell Country Club,,course,,,active,18,71,,,+1 919 365 7337,http://www.wendellcc.com/,,180 Jake May Drive,Wendell,NC,27591,US,35.7701689,-78.3873196,2026-10-11T15:12:15Z
+519a85ad-46e5-4073-850a-4779d332c33d,way/1097408907,Sound of Freedom Golf Course,,course,,,active,,,,,,,,,,NC,,US,34.9445094,-76.8933402,2026-10-11T15:12:24Z
+52d5fcac-0ecb-436b-aa34-abf534a78713,way/350174822,Lake Hickory Country Club,,course,,,active,,,,,+1-828-328-2981,https://lakehickorycc.com/,,430 17th Avenue Northwest,Hickory,NC,28601,US,35.7606812,-81.3443089,2026-10-11T15:06:26Z
+5371868d-8d3b-433a-87c4-b49eed0df176,node/5533699137,Red Bird Golf Links,,course,,,active,,,,,,,,67 Cherokee Trail,Sapphire,NC,28774,US,35.1234532,-83.0571509,2026-10-11T13:29:32Z
+540e98a7-be80-4257-b98a-7a96dea53b2f,way/510328053,,,course,,,active,,,,,,,,,,NC,,US,35.795249,-80.2485511,2026-10-11T15:12:18Z
+5444ec72-8f3f-485f-a1d6-33ca3e290e7a,way/50882053,Chockoyotte Country Club,,course,,,active,,,,,+1-252-536-3166,https://www.chockoyottecountryclub.com/,,800 Country Club Road,Weldon,NC,27890,US,36.4206985,-77.621881,2026-10-11T15:11:53Z
+55018035-3c7d-48e1-96a1-c19431c8b47d,way/375327006,Brevofield Golf Links,,course,,,active,18,72,,,,,,,,NC,,US,36.0046603,-78.5701335,2026-10-11T15:12:14Z
+55608cb6-c47c-4449-8aab-f1aeda133ec1,relation/6487368,Mallard Head Country Club,,course,,,active,18,72,,,+1 704 664 7031,http://www.mallardheadcc.com/,,185 Mallard Way,Mooresville,NC,28117,US,35.5651573,-80.8954245,2026-10-11T15:12:36Z
+55b4800e-5d3c-4dbe-a6ef-32a9288df472,way/845405482,Pinehurst No. 4,,course,,,active,,4,,,,,,,,NC,,US,35.1873346,-79.4585813,2026-10-11T15:12:23Z
+55ef93ca-dade-4002-b261-220de5651812,way/722999470,Sequoyah National Golf Club,,course,,,active,18,72,,,+1-828-497-3000,https://www.sequoyahnational.com/,,79 Cahons Road,Whittier,NC,28789,US,35.4317299,-83.3357763,2026-10-11T15:12:21Z
+55ff1e25-1e6a-411f-b696-f9b069c95f75,node/5547220920,Trillium Links and Lake Club,,course,,,active,,,,,,,,,,NC,,US,35.1441653,-83.1394864,2026-10-11T13:29:32Z
+5690cb8b-bb33-49dd-9980-230a6423233e,relation/12506159,,,course,,,active,,,,,,,,,,NC,,US,35.0775078,-83.1638704,2026-10-11T15:06:51Z
+57e089b6-fcf6-4d84-92a9-ec05dd636ecf,node/12349511167,Golf Village,,course,,,active,,,,,,,,,,NC,,US,35.0888662,-80.8852923,2026-10-11T13:29:32Z
+5802a4ca-2ff3-4978-8248-35472b46d385,node/9969118636,,,course,,,active,,,,,,,,,,NC,,US,34.5105888,-77.4326798,2026-10-11T13:29:32Z
+589fc397-a741-4c67-9663-78dc96a773a8,node/10129301298,,,course,,,active,,,,,,,,,,NC,,US,33.962364,-78.3697369,2026-10-11T13:29:32Z
+599254da-d3b6-4ee2-b560-9dafdf37ed99,relation/6388052,Mid South Club,,course,,,active,18,,,,,https://talamoregolfresort.com/resort-golf/mid-south/,,,,NC,,US,35.1883213,-79.4213652,2026-10-11T15:12:36Z
+5a7ad73f-b7fb-4711-a4c8-4fbac913f89d,way/1545506615,Occano,,course,,,active,18,72,,,,,,,,NC,,US,35.9992941,-76.6916072,2026-10-11T15:12:30Z
+5aded833-9f42-4719-848d-7ae0ef3f29be,way/429298983,Talamore Golf Club,,course,,,active,,64,,,+1 800 552 6292,https://talamoregolfresort.com/,,48 Talamore Drive,Southern Pines,NC,28387,US,35.2059269,-79.4091806,2026-10-11T15:12:15Z
+5bc1d9da-785d-40ea-a854-ed03df6ef943,node/10006297533,,,course,,,active,,,,,,,,,,NC,,US,34.9744475,-76.8046232,2026-10-11T13:29:32Z
+5c4a9d57-328c-4cc3-99e7-af8356f49252,relation/5242586,,,course,,,active,,12,,,,,,,,NC,,US,35.6512362,-80.4457553,2026-10-11T13:31:32Z
+5c7018c5-95a8-48cd-9938-8bfa9708a87c,node/14076966763,Twenty Fore Golf,,course,,,active,,,,,+19107254719,https://twentyfore.golf/,,237 Davis Street,Southern Pines,NC,28387,US,35.1623564,-79.4253983,2026-10-11T13:29:32Z
+5ce04b47-1699-4b2b-8f6c-e13b05b5b259,way/189279367,Wildwood Green Golf Club,,course,,,active,,,,,+1-919-846-8376,https://www.wildwoodgreen.com/,,3000 Bullybunion Way,Raleigh,NC,27613,US,35.9094609,-78.6888589,2026-10-11T15:12:01Z
+5d18e20a-b74d-4c2e-b29a-e4aa8a8be769,relation/11010501,Royster Memorial Golf Course,,course,,,active,,,,,,,,850 West Sumter Street,Shelby,NC,28150,US,35.2988104,-81.5589233,2026-10-11T15:12:38Z
+5d192cd7-e955-4e51-8d7d-98363e1e195e,way/1075632933,Cramer Mountain Club,,course,,,active,18,72,,,,,,,,NC,,US,35.2303227,-81.0846842,2026-10-11T15:12:24Z
+5dab164f-93d0-44cf-9e41-31f1a397b2a7,relation/18392487,Blowing Rock Country Club,,course,,private,active,,69,,,,https://www.blowingrockcountryclub.com/Club/Scripts/Home/home.asp,,,,NC,,US,36.12522,-81.6615956,2026-10-11T15:12:45Z
+5db21289-6112-448e-90b1-928287cac5dd,way/189312039,Raleigh Country Club,,course,,,active,,,,,+1-919-231-5501,https://www.raleighcc.com/,,400 Donald Ross Drive,Raleigh,NC,27610,US,35.7761091,-78.5981646,2026-10-11T15:12:01Z
+5e23ddea-73da-43fb-8153-a40f104cea81,way/316078177,Brook Valley Country Club,,course,,,active,,,,,,https://www.brookvalleycc.com/,,311 Oxford Road,Greenville,NC,27858,US,35.585015,-77.3281199,2026-10-11T15:12:12Z
+5f87ab12-723e-473e-96f3-afcd2487d009,way/207486501,Boone Golf Club,,course,,,active,18,71,,,+1-828-264-8760,https://www.boonegolfclub.com/,,433 Fairway Drive,Boone,NC,28607,US,36.1963933,-81.6450847,2026-10-11T15:12:03Z
+5faa984d-348f-42af-9cc7-e1c7059faa9f,way/435184326,Charlotte National Golf Club,,course,,,active,18,72,,,+1-704-882-8282,https://www.charlottenationalgc.com/,,6920 Howey Bottoms Road,Indian Trail,NC,28079,US,35.1277702,-80.5836697,2026-10-11T15:12:15Z
+5fdf1785-1f2a-446c-808c-57ef9166e520,relation/6390097,7 Lakes Golf Club,,course,,,active,18,72,,,+1 910 673 4653,https://golf7lakes.com/,,174 Devonshire Drive,Seven Lakes,NC,27376,US,35.266493,-79.5690847,2026-10-11T15:12:36Z
+604f94c2-0d13-4f09-beb0-4f5125634e88,way/471334508,,,course,,,active,,,,,,,,,,NC,,US,35.1845184,-83.3541794,2026-10-11T15:06:29Z
+607530ec-58a8-469f-a49a-56cd03aa0f4a,relation/6406052,Eagle Ridge Golf Club,,course,,,active,18,71,,,+1 919 661 6300,http://www.rgac.com/er-golf.cfm,,565 Competition Road,Raleigh,NC,27603,US,35.670582,-78.6687748,2026-10-11T15:06:47Z
+61cc8263-7aaf-49b1-9f52-5c67f4da56c9,way/435238113,Pine Lake Country Club,,course,,,active,18,72,,,+1-704-545-4513,https://www.pinelakecountryclub.com/,,5504 Lebanon Road,Charlotte,NC,28227,US,35.1629833,-80.6836059,2026-10-11T15:12:15Z
+62069a98-77c0-4e7e-80d2-1cee374128f7,way/298827526,,,par3,,,active,9,27,,,,,,,,NC,,US,35.0837612,-83.0719998,2026-10-11T15:12:10Z
+622644c5-7092-4b7b-881a-d77b2b12181b,node/5547141065,Cullasaja Club,,course,,,active,,,,,,,,,,NC,,US,35.0867151,-83.1657763,2026-10-11T13:29:32Z
+622a8de9-7f13-4568-9cc4-c8126573c781,way/308221093,,,course,,,active,,,,,,,,,,NC,,US,35.0954512,-79.4191276,2026-10-11T13:30:33Z
+62854b24-21fd-435a-8343-3af4abdc5370,relation/3756257,Lake Toxaway Golf Club,,course,,,active,,,,,,,,,,NC,,US,35.1368689,-82.9555039,2026-10-11T15:06:43Z
+62fc6306-d6c1-4a92-a70f-278bdde51dd5,way/547432927,Northwoods Disc Golf Course,,disc,,,active,,,,,,,,,,NC,,US,35.3037923,-80.9646453,2026-10-11T15:06:30Z
+63122217-54cb-4d5e-a3aa-cf7ec0840c80,way/1118933887,,,course,,,active,,,,,,,,,,NC,,US,36.1151634,-75.8187628,2026-10-11T15:12:24Z
+63493f1d-9fb9-4dc5-a38f-43b2cacc9d8b,relation/21282673,River's Edge Golf Club,,course,,,active,18,74,,,,,,2000 Arnold Palmer Drive,Shallotte,NC,28470,US,33.9560278,-78.3728674,2026-10-11T15:12:45Z
+6425c9f1-71a1-4509-bf9e-b9a3859d3e12,relation/8339700,Highlands Country Club,,course,,,active,,,,,+1 828 526 2181,https://www.highlandscountryclub.com/,,981 Dillard Road,Highlands,NC,28741,US,35.0505116,-83.2167846,2026-10-11T15:12:38Z
+64515a63-8f05-4f3b-b530-d2d728e79910,node/11466405579,,,course,,,active,,,,,,,,,,NC,,US,34.7466203,-77.9286687,2026-10-11T13:29:32Z
+64759a54-6f59-45ad-bac7-ff83c37a4192,way/428004784,Carolina Plantation Golf Club,,course,,,active,,,,,+1 910 738 9400,http://www.carolinaplantationgolfclub.com/,,3811 Martin Luther King Jr Drive,Lumberton,NC,28358,US,34.5856205,-79.0364352,2026-10-11T15:12:15Z
+64934dd5-43af-4e1d-831a-26625251869c,relation/6534626,Champion Hills,,course,,,active,18,71,,,+1 800 633 5122,https://www.championhills.com/,,,,NC,,US,35.2898335,-82.5198031,2026-10-11T15:12:38Z
+655c379f-b139-47d0-a91f-c4a548c30b88,way/652556726,Stone Mountain Golf Club,,course,,,active,18,71,,,,,,155 View Point Drive,Traphill,NC,28685,US,36.3500276,-81.0800835,2026-10-11T15:06:32Z
+656821e9-a6ac-4f5f-a83e-4ada5ff44402,way/316078175,Ayden Golf & Country Club,,course,,,active,9,34,,,+1-252-746-3389,https://www.aydengolf.com/,,4343 Ayden Golf Club Road,Ayden,NC,28513,US,35.4607308,-77.3898389,2026-10-11T13:30:33Z
+65975573-c5aa-42f0-ad25-3e85c14be38d,way/1373151328,Peachtree Hills Country Club,,course,,,active,,,,,,,,,,NC,,US,35.9859931,-78.130958,2026-10-11T15:12:29Z
+6600dbd0-4033-4d5c-b932-f8f7da372f0a,relation/6390098,,,course,,,active,,,,,,,,,,NC,,US,35.2498019,-79.6141371,2026-10-11T15:12:36Z
+666196d7-4cd5-48f7-9e52-393348abf943,way/230128910,Southern Pines Golf Club,,course,,,active,18,71,,,+1 910 692 6551,https://southernpinesgc.com/,,290 Country Club Circle,Southern Pines,NC,28387,US,35.1592293,-79.3970586,2026-10-11T15:12:03Z
+66acf256-2a57-48a2-80ec-376a19ac4647,way/652536132,Jefferson Landing,,course,,,active,18,72,,,,https://www.visitjeffersonlanding.com/,,184 West Landing Drive,Jefferson,NC,28640,US,36.4112661,-81.4158239,2026-10-11T15:12:20Z
+66bf0dae-88af-4228-9ed4-426b47bf4128,relation/6572796,Lincoln Country Club,,course,,,active,,,,,+1 704 735 1382,http://www.lincolncountryclub.net/,,2052 Country Club Road,Lincolnton,NC,28092,US,35.4669584,-81.222191,2026-10-11T15:12:38Z
+6714df54-4a13-4bb7-a0da-71afd417b663,way/430227508,Tobacco Road Golf Club,,course,,,active,18,71,,,+1 877 284 3762,https://tobaccoroadgolf.com/,,442 Tobacco Road,Sanford,NC,27332,US,35.3985866,-79.2138551,2026-10-11T15:12:15Z
+6762b8a8-ff4c-40ac-8847-7f53a10746ca,way/1168981258,Meadowlands,,course,,,active,,,,,,,,,,NC,,US,36.0043497,-80.1560412,2026-10-11T15:12:27Z
+67abcd8f-d3c8-4be9-9b10-9a65816e9da6,way/1545511574,Cutter Creek Golf Club,,course,,,active,,,,,,,,,,NC,,US,35.4011436,-77.6103659,2026-10-11T15:12:30Z
+67f4aaeb-0235-4ead-a9f0-e1b5e0cb9290,way/1232992857,,,course,,,active,,,,,,,,,,NC,,US,35.7848544,-78.7794464,2026-10-11T15:12:28Z
+69784428-e529-47ea-ab74-f177107fc756,relation/21276882,Lockwood Folly Country Club,,course,,,active,18,72,,,,,,19 Clubhouse Drive Southwest,Supply,NC,28462,US,33.9349828,-78.230395,2026-10-11T15:12:45Z
+6991f71f-fc68-4dad-bcbc-22b34f2852e1,node/8561710569,Cross Creek Country Club,,course,,,active,,,,,,,,,,NC,,US,36.5385014,-80.6196504,2026-10-11T13:29:32Z
+69f2c4f0-f570-4b76-8eb9-70102f445487,way/464635976,Black Mountain Golf Course,,course,,,active,,,,,+1 828 669 2710,https://www.blackmountaingolf.org/,,17 Ross Drive,Black Mountain,NC,28711,US,35.6275655,-82.3348642,2026-10-11T13:30:48Z
+6a1347d7-7841-458d-b23c-8cf3458578d8,relation/3201769,Country Club of Asheville,,course,,,active,18,71,,,,,,,,NC,,US,35.6427092,-82.5530598,2026-10-11T15:12:33Z
+6a4fd6b4-c6a7-49bf-81a4-6e7586dfbdac,way/32880249,Highland Country Club,,course,,,active,18,72,,,,,,,,NC,,US,35.0438296,-78.9106212,2026-10-11T15:06:03Z
+6a96d527-aa22-4dea-9468-dcfee4661f93,way/1168604742,,,course,,,active,,,,,,,,,,NC,,US,36.0131648,-76.5344476,2026-10-11T13:31:09Z
+6af79680-4405-4df8-a479-8c0f1a675c05,way/1446821767,Jacksonville Country Club,,course,,,active,,,,,,,,,,NC,,US,34.7744521,-77.3765355,2026-10-11T15:12:29Z
+6bb53434-0bee-43e9-890f-69e8de6c7e78,way/467027285,,,course,,,active,,,,,,,,,,NC,,US,35.8963698,-77.5503466,2026-10-11T15:12:17Z
+6c572cac-daae-467c-8100-44cc344b90ec,way/292129109,Oak Island Golf Club,,course,,,active,18,72,,,+1-910-278-5275,https://oakislandgolf.com/,,928 Caswell Beach Road,Caswell Beach,NC,28465,US,33.9057018,-78.0662534,2026-10-11T15:12:07Z
+6c708db8-0957-47ae-96c1-650ab56de203,relation/7419614,Holly Ridge Golf Course,,course,,,active,,,,,,,,,,NC,,US,36.09513,-75.8157812,2026-10-11T13:31:37Z
+6c7b1183-3efb-4437-b661-e23016d429d6,way/627467854,Bur-Mil Driving Range,,practice,,,active,,,,,,,,,,NC,,US,36.1653559,-79.8718105,2026-10-11T15:12:20Z
+6c914a11-70ea-4905-b377-a43e8a5a3530,node/12903905768,MacGregor Downs Chipping Green,,course,,,active,,,,,,,,,,NC,,US,35.7412632,-78.7932763,2026-10-11T13:29:32Z
+6cdc03ad-4aa3-4f68-9e29-22fbd3c70f28,node/1949623198,,,course,,,active,,,,,,,,,,NC,,US,35.8826156,-78.6130636,2026-10-11T13:29:32Z
+6d150e89-df00-4297-a79a-2ee9480acc4d,way/467033286,The Links at Cotton Valley,,course,,,active,,,,,+1 252 824 0818,https://thelinksatcottonvalley.com/,,2681 US 258,Tarboro,NC,27886,US,35.8701907,-77.5457718,2026-10-11T15:12:17Z
+6d9e80b7-3a22-41a7-b9da-e66a3797615c,way/352327747,,,course,,,active,,,,,,,,,,NC,,US,36.2177566,-80.870199,2026-10-11T15:12:14Z
+6df9a64c-48e1-4af1-a5ee-e8cd916d6e25,way/1284978175,,,course,,,active,,,,,,,,,,NC,,US,34.7352358,-77.0939089,2026-10-11T15:12:28Z
+6e138087-df20-49fc-8399-a28b0c94d0b1,relation/6890799,Lane Tree Golf Club,,course,,,active,18,,,,+1 919 734 1245,https://www.lanetree.com/,,2317 Salem Church Road,Goldsboro,NC,27530,US,35.4229416,-78.0077702,2026-10-11T13:31:37Z
+70253363-9472-4f33-9554-134119c89192,way/1273875379,,,course,,,active,,,,,,,,,,NC,,US,34.8558252,-77.4940436,2026-10-11T15:12:28Z
+702e7742-621e-48d0-a88a-bf5bd8ae053b,relation/19997249,Taberna Country Club,,course,,,active,,,,,,https://tabernacc.com/,,401 Taberna Way,New Bern,NC,28562,US,35.0497975,-77.0304946,2026-10-11T13:31:51Z
+704a50d5-ed8f-4cc5-9f8e-e4709408d634,way/206778365,Old Chatham Golf Club,,course,,,active,18,72,,,+1-919-361-1400,https://www.oldchathamgolf.org/,,1480 O'Kelly Chapel Road,Durham,NC,27713,US,35.8421331,-78.934505,2026-10-11T15:12:03Z
+71603552-e710-4e50-b0fd-cc7a8445c621,way/1548090086,The Reserve Club at St. James,,course,,,active,18,72,,,,,,,,NC,,US,33.9492607,-78.1074239,2026-10-11T15:12:30Z
+723d2627-6c02-4743-83f3-fb651a4522fe,relation/15066796,Wolf Laurel Country Club,,course,,,active,18,70,,,,,,,,NC,,US,35.9605596,-82.5040068,2026-10-11T15:06:53Z
+72961209-ca26-47ce-bfc8-ad5827ba1d01,way/466806137,,,course,,,active,,,,,,,,,,NC,,US,35.7126761,-77.873661,2026-10-11T15:06:29Z
+73297c25-1241-4bd9-8ee5-d951633933c3,node/12285968620,Scothurst Golf Course,,course,,,active,,,,,,,,,,NC,,US,34.880517,-79.0603999,2026-10-11T13:29:32Z
+7439215b-3feb-4f15-860e-cca78444b645,relation/6538502,Legacy Golf Links,,course,,,active,18,71,,,+1 910 944 8825,https://www.legacygolfnc.com/,,12615 US 15-501,Aberdeen,NC,28805,US,35.0954512,-79.4191276,2026-10-11T13:31:37Z
+75161fd3-41ff-4645-a9cb-40a0add3af3f,relation/6541185,Oak Island Par Three Golf Course at South Harbour,,par3,,,active,18,54,,,+1 910 454 0905,https://www.oakislandparthreesouthharbour.com/,,4166 Vanessa Drive,Southport,NC,28465,US,33.9288841,-78.0652553,2026-10-11T15:06:49Z
+75866b0f-5646-420f-9905-adc59d3bcffa,way/316078186,Greenville Country Club,,course,,,active,,,,,+1-252-756-1237,https://www.greenvillecountryclub.com/,,216 Country Club Drive,Greenville,NC,27834,US,35.5818672,-77.4035503,2026-10-11T15:12:12Z
+75b4b36a-d260-4546-948c-cbe1381f5f04,way/428004798,Pinecrest Country Club,,course,,,active,,,,,+1 910 738 6541,https://www.golfcoursesoni95.com/,,110 Nigel Drive,Lumberton,NC,28360,US,34.63208,-79.0762223,2026-10-11T15:06:28Z
+75c4ca84-1170-4eb3-b197-9bab0ce3da06,way/566740090,Paschal Golf Club,,course,,,active,9,36,,,,,,,,NC,,US,35.9822051,-78.5217772,2026-10-11T15:12:18Z
+7627d034-b29e-4ca9-8a3b-82a01ab6369e,relation/7391765,,,course,,,active,18,71,,,,,,,,NC,,US,35.9300633,-75.6143644,2026-10-11T15:12:38Z
+770195e6-18c3-46cd-8ca0-2a311c6d8545,relation/20411636,Brunswick Plantation & Golf Resort,,course,,,active,,,,,,https://www.brunswickplantation.com/,,380 Brunswick Drive,Calabash,NC,28467,US,33.9461886,-78.5767584,2026-10-11T15:12:45Z
+775394df-c484-4ed8-a93b-c9e53f2eab64,way/995713262,Knobbs Creek Golf Course,,course,,,active,,,,,,,,,,NC,,US,36.3117579,-76.2182646,2026-10-11T13:31:06Z
+77865b31-3ab9-41ef-a5df-0ae044502767,way/31274551,Old Town Country Club,,course,,,active,,63,,,,,,,,NC,,US,36.1266953,-80.2693167,2026-10-11T15:11:49Z
+7798c475-ed3f-4125-bb26-e7ff572f9b47,node/8000100203,Mountaineer Golf Center - Driving Range,,practice,,,active,,,,,,http://www.mountaineergolfcenter.com/,,115 Beverly Heights Avenue,Boone,NC,28607,US,36.2111726,-81.6666404,2026-10-11T15:05:59Z
+7879798d-e22c-450c-aa66-c3476ff5b758,way/435851149,Carolina Golf Club,,course,,,active,18,71,,,,,,,,NC,,US,35.2174293,-80.8989077,2026-10-11T15:12:15Z
+78d942a4-acf0-4ce6-bce7-928129b5d821,relation/6406268,Siler City Country Club,,course,,,active,,,,,+1 919 742 3721,https://www.silercitycountryclub.com/,,150 Country Club Drive,Siler City,NC,27344,US,35.7028203,-79.4665194,2026-10-11T15:12:36Z
+79b442ac-c984-4b09-93b8-caaa1c851ed1,way/1334851007,,,course,,,active,18,72,,,,,,,,NC,,US,34.7064601,-77.5936198,2026-10-11T15:12:29Z
+79c57dc8-d63d-43fa-b3b2-e3f6cbfd85cd,way/323919332,The Farm,,course,,,active,,,,,+1 336 288 3415,https://www.greensborocc.org/,,5121 Hedrick Drive,Greensboro,NC,27410,US,36.1511269,-79.8828996,2026-10-11T15:12:12Z
+79d9be10-a12e-4c4c-979a-cb7cc947403b,relation/6883862,Oak Hills Golf and Event Center,,course,,,active,,,,,+1 336 623 6381,https://www.oakhillsgolfandeventcenter.com/,,436 East Stadium Drive,Eden,NC,27288,US,36.4975082,-79.7277314,2026-10-11T15:12:38Z
+7a3427bb-77ba-4536-affc-e0735bb621af,way/227971180,Benvenue Country Club Course,,course,,,active,18,72,,,,,,,,NC,,US,35.9811049,-77.8177683,2026-10-11T15:12:03Z
+7c11db93-9ed4-4f34-9c62-808bdbc9385c,way/298827605,Burlingame Country Club,,course,,,active,,,,,+1-828-966-9200,https://burlingameccwnc.com/,,19387 Rosman Highway,Sapphire,NC,28774,US,35.1076869,-82.9818511,2026-10-11T15:12:10Z
+7c45bcc5-7f3c-4a50-b721-596c26211197,way/466208006,High Point Country Club,,course,,,active,,,,,+1 336 889 0818,https://www.hpcountryclub.com/,,800 Country Club Drive,High Point,NC,27262,US,35.965663,-80.0289667,2026-10-11T15:12:17Z
+7c920fc0-252d-4b71-84e4-4b06449e3d44,relation/6387132,Longleaf Golf & Family Club,,course,,,active,,65,,,+1 910 692 6100,https://www.longleafgfc.com/,,10 Knoll Road,Southern Pines,NC,28387,US,35.2067153,-79.419913,2026-10-11T15:12:36Z
+7d29bcc3-b251-414d-9f54-2b21e8d80671,relation/6387133,Midland Country Club,,course,,,active,,,,,+1 910 295 3241,http://www.knollwood-midland.com/golf.html,,2205 Midland Drive,Pinehurst,NC,28374,US,35.204966,-79.4305524,2026-10-11T15:12:36Z
+7ddc0a56-040b-4a01-aa6c-07cf1d9cd9fd,relation/5242598,The Revival at the Crescent,,course,,,active,,,,,+1-704-397-4269,https://therevivalgolf.com/,,220 Laurel Valley Way,Salisbury,NC,28144,US,35.7009567,-80.496515,2026-10-11T15:12:36Z
+7ec51b75-69b4-4478-986b-2f62ebe0931d,way/430675118,Southwick Golf Course,,course,,,active,18,70,,,+1 336 227 2582,http://www.southwickgolf.com/,,3136 Southwick Drive,Graham,NC,27253,US,36.0062628,-79.3672495,2026-10-11T15:12:15Z
+7fa2148b-6358-4e35-8577-71c98c960afa,way/1196861933,Greesnboro National Golf Course,,course,,,active,18,72,,,,,,,,NC,,US,36.2580373,-79.825871,2026-10-11T15:12:27Z
+80055c19-e8d3-4688-bd0b-fafa014beb24,relation/6490122,Verdict Ridge Golf & Country Club,,course,,,active,18,72,,,+1 704 257 0100,https://www.verdictridge.com/,,7332 Kidville Road,Denver,NC,28037,US,35.4813474,-81.0314918,2026-10-11T15:12:36Z
+809c374a-b5bc-4c69-99bc-2338b19e58b3,way/1452741110,,,course,,,active,,,,,,,,,,NC,,US,34.9835096,-78.4922289,2026-10-11T13:31:14Z
+83624cf0-5684-4d9f-a32f-97ea686783f9,way/428977993,Pinehurst Course No. 8,,course,,,active,18,72,,,,https://www.pinehurst.com/golf/courses/no-8/,,,,NC,,US,35.2156919,-79.468976,2026-10-11T13:30:44Z
+836f48c3-3d4b-42ff-9e9f-4c8bcfb9d2e2,node/5547079791,Wade Hampton Golf Club,,course,,,active,,,,,,,,,,NC,,US,35.0902512,-83.0749831,2026-10-11T13:29:32Z
+83a455f3-4d7c-47f7-a551-9912708f9e28,way/440484529,McCanless Golf Club,,course,,,active,,,,,+1 704 637 1235,https://themacgc.com/,,3515 Stokes Ferry Road,Salisbury,NC,28146,US,35.6283196,-80.4324068,2026-10-11T13:30:44Z
+83a98a10-baff-4c20-afc8-047d43926ff4,node/4059209842,Mallard Head Country Club,,course,,,active,,,,,,,,185 Mallard Way,Mooresville,NC,28117,US,35.5683477,-80.894576,2026-10-11T13:29:32Z
+843bbd57-1b26-4085-98f1-7d26beb22290,way/1555149379,Old North State Club,,course,,,active,18,72,,,,,,,,NC,,US,35.470717,-80.0992862,2026-10-11T15:06:41Z
+8565cf65-6d63-4dea-b406-ebed663b61e5,way/429792864,White Course,,course,,,active,9,35,,,+1-910-893-1371,https://www.keithhills.com/,,216 Country Club Drive,Lillington,NC,27546,US,35.4027289,-78.7590446,2026-10-11T15:12:15Z
+856764e8-4fba-41fe-9b98-d039bf4d6f40,relation/7389629,Sea Scape Golf Links,,course,,,active,,,,,,,,,,NC,,US,36.0854232,-75.7094265,2026-10-11T13:31:37Z
+85718fee-77e0-4e0a-ba7e-960457506caa,way/282286564,Reynolds Park Golf Course,,course,,,active,,,,,,,,,,NC,,US,36.0878974,-80.2056258,2026-10-11T15:12:07Z
+8799f191-5071-443e-8f73-1175b135ea8d,relation/6427901,Olde Liberty Golf Club,,course,,,active,18,72,,,+1-919-554-4690,https://www.oldelibertygolfnc.com/,,100 Commonwealth Drive,Youngsville,NC,27596,US,36.0775489,-78.5142174,2026-10-11T15:12:36Z
+87a2b1c0-3b87-4692-94b4-00730773301a,way/431048268,,,course,,,active,,,,,,,,,,NC,,US,36.0450672,-79.4304049,2026-10-11T15:12:15Z
+88384c54-3e7e-43e6-bbda-b65919de0911,way/651639775,Ironplay,,course,,,active,,,,,,,,,,NC,,US,36.2091538,-79.84614,2026-10-11T15:06:32Z
+894110bc-faab-4dc1-9b55-bff1f10d1084,way/1557225437,Founders Club at St James,,course,,,active,18,72,,,,,,,,NC,,US,33.9337474,-78.1106741,2026-10-11T15:12:30Z
+89495ec6-d1e0-4794-a177-31ab3d67b145,way/623273811,Sunset Hills,,course,,,active,,,,,,https://www.charlottepublicgolf.com/update/,,800 Radio Road,Charlotte,NC,28216,US,35.3067484,-80.8862602,2026-10-11T15:12:20Z
+89d3368f-1eeb-4be5-bd23-a3d6bf6f135c,way/466847929,,,course,,,active,,,,,,,,,,NC,,US,35.6084912,-77.5856705,2026-10-11T15:12:17Z
+8bb3979c-4b9c-4a20-a738-6e5fcc69adab,relation/6396551,Devils Ridge Golf Club,,course,,,active,,4,,,+1 919 557 6100,https://www.clubcorp.com/Clubs/Devils-Ridge-Golf-Club/,,5107 Linksland Drive,Holly Springs,NC,27540,US,35.6536847,-78.802631,2026-10-11T15:12:36Z
+8c239b94-09ca-406c-b85f-715adccdee35,way/844109202,,,course,,,active,18,71,,,,,,,,NC,,US,36.159035,-79.6462149,2026-10-11T15:12:23Z
+8d28b1f3-a934-4975-b423-c8e2050525d2,relation/16887283,,,course,,,active,,62,,,,,,,,NC,,US,35.461296,-82.6014914,2026-10-11T15:12:43Z
+8d4d3c3b-3b83-4a34-8c5e-ed3da11fccec,relation/6408646,The Challenge Golf Club,,course,,,active,,,,,+1 336 578 5070,https://www.challengegolf.net/,,1179 Challenge Drive,Graham,NC,27253,US,36.0778387,-79.3646435,2026-10-11T15:12:36Z
+8dbecfce-7b32-40b8-9352-d72c0b1ee53f,relation/4869578,Providence Country Club,,course,,,active,,69,,,+1-704-846-8475,https://www.providencecc.com/,,6001 Providence Country Club Drive,Charlotte,NC,28277,US,35.0406998,-80.7806326,2026-10-11T15:06:47Z
+8e00677d-dc04-4c5f-b2c0-0279b1b2ccc5,relation/4253215,Bradford Creek Public Golf Course,,course,,,active,18,72,,,+1-252-329-4653,https://www.greenvillenc.gov/government/recreation-parks/bradford-creek-public-golf-course,,4950 Old Pactolus Road,Greenville,NC,27858,US,35.6137766,-77.2891345,2026-10-11T15:12:36Z
+8edc90e5-16a9-4b1e-b700-137aab17788d,relation/6151569,Sea Trail Golf Links,,course,,,active,,,,,+1 888 321 9076,https://www.seatrail.com/,,75 Clubhouse Road,Sunset Beach,NC,28468,US,33.9024235,-78.5137285,2026-10-11T15:12:36Z
+8f891d88-79ec-43b1-bc17-72c9e04a0a4a,way/1509582682,Main Course,,course,,,active,,68,,,,,,,,NC,,US,34.2863414,-77.7617928,2026-10-11T15:12:29Z
+8fc745fb-c3ca-4464-a5eb-09a4377e3cd6,way/298827609,The Country Club of Sapphire Valley,,course,,,active,,,,,+1-828-743-1991,https://sapphirevalley.com/Red_Bird_Golf.php,,127 Cherokee Trail,Sapphire,NC,28774,US,35.1160648,-83.0500118,2026-10-11T15:12:10Z
+9055c746-e95f-4ae5-bd7b-f5faa5a13f0f,relation/12253409,High Meadows Golf & Country Club,,course,,,active,18,72,,,,https://highmeadowscountryclub.com/,,1288 Country Club Road,Roaring Gap,NC,28668,US,36.4058418,-81.0029992,2026-10-11T13:31:42Z
+90ba2637-a264-4e12-8736-1b91346d7ba5,way/298827612,Sapphire National Golf Club,,course,,,active,,,,,+1-828-743-1174,https://www.sapphirenational.com/,,50 Slicers Avenue,Sapphire,NC,28774,US,35.117495,-83.028294,2026-10-11T15:12:10Z
+912f41e9-41c0-4a75-ad7f-32ce0c8cc6c4,relation/12506160,Highlands Falls Country Club,,course,,,active,,,,,,,,,,NC,,US,35.0720258,-83.1816312,2026-10-11T15:12:41Z
+926d7fe2-db33-41bb-9ada-e20f730780d5,way/429077347,Azalea,,course,,,active,,,,,,https://www.pinewildcc.com/,,85 Glasgow Drive,Pinehurst,NC,28374,US,35.1984808,-79.5043088,2026-10-11T15:12:15Z
+92db8b9c-e9d2-4a73-b9f5-d9b8e27f6939,way/464841280,Lenoir Golf Course,,course,,,active,,,,,+1 828 754 5093,https://www.lenoirgolfclubinc.com/,,701 Norwood Street Southwest,Lenoir,NC,28645,US,35.9101999,-81.5230724,2026-10-11T15:12:17Z
+93618fb6-2f97-4a76-a59b-559b93e2d80a,node/11339108777,Cherryville Golf and Country Club,,course,,,active,,,,,,,,,,NC,,US,35.3940783,-81.3562525,2026-10-11T13:29:32Z
+9390f870-d355-44e9-9062-51cc38f9c039,way/430087361,Sanford Municipal Golf Course,,course,,,active,18,71,,,+1 919 775 8320,https://www.sanfordnc.net/golf/golf.htm,,600 Golf Course Lane,Sanford,NC,27332,US,35.5162591,-79.1741677,2026-10-11T15:12:15Z
+941dddc6-ce16-4bf4-a4e4-adfbc5cb8620,way/621356530,Golf Range & Pro Shop,,practice,,,active,,,,,,,,,,NC,,US,35.14507,-78.8568896,2026-10-11T15:12:20Z
+956ad860-4663-4fc8-bacc-0eb766110483,way/1311249269,"Minnesott Golf, Yatch, and Country Club",,course,,,active,,,,,,,,,,NC,,US,34.9787908,-76.8164556,2026-10-11T13:31:14Z
+960d2c04-c703-45d8-bc47-eebfead6f443,relation/5226114,,,course,,,active,,,,,,,,,,NC,,US,35.8054879,-81.3232872,2026-10-11T15:12:36Z
+96b969f7-bb47-4fbc-a2ac-ffe4ee46d52a,relation/4084444,MacGregor Downs Country Club,,course,,,active,,,,,+1-919-467-0146,https://www.macgregordowns.org/,,430 Saint Andrews Lane,Cary,NC,27511,US,35.7459907,-78.793588,2026-10-11T13:31:27Z
+987e5fed-99bf-4a2c-9645-f15d24c7a8ec,relation/6423700,Kerr Lake Country Club,,course,,,active,18,72,,,+1 252 492 1895,https://www.kerrlakecountryclub.com/,,600 Hedrick Drive,Henderson,NC,27536,US,36.4045728,-78.3769566,2026-10-11T15:12:36Z
+98aec279-3275-41b1-994a-8c05b7cb9915,way/205858996,Grove Park Country Club,,course,,,active,18,70,,,,,,,,NC,,US,35.6169321,-82.5459379,2026-10-11T15:12:03Z
+98bc19e9-a5e0-4ad2-9d33-578ac8167fce,relation/9046750,Linville Ridge,,course,,,active,,,,,,https://www.linvilleridge.com/,,700 Ridge Drive,Linville,NC,28646,US,36.1092164,-81.8614364,2026-10-11T15:12:38Z
+98caa89a-badc-432e-8225-5b0e21ec0b93,way/1273875377,,,course,,,active,,,,,,,,,,NC,,US,34.8534932,-77.4918963,2026-10-11T15:12:28Z
+99d30031-25ba-43c8-a267-dedc945c6724,relation/13797660,Bear Lake Reserve Golf Club,,course,,,active,,,,,,,,1536 Grandview Drive,Tuckasegee,NC,28783,US,35.2211404,-83.0579881,2026-10-11T15:12:41Z
+99f9d971-2705-4e92-9ffc-6766b1b886f6,relation/6535237,Cummings Cove Golf and Country Club,,course,,,active,,,,,+1 828 891 9412,https://www.cummingscove.com/golf/,,Cummings Road,Hendersonville,NC,,US,35.3102032,-82.5610778,2026-10-11T15:06:49Z
+9a550885-c4e3-46e7-ade6-5fafe66dbcce,relation/18032848,,,course,,,active,,63,,,,,,,,NC,,US,35.4951851,-77.0523341,2026-10-11T15:12:45Z
+9a626623-8556-430e-8b3f-1500782a92f2,way/1560528758,Carolina National Golf Club,,course,,,active,,,,,+1-910-755-5200,https://carolinanationalgolfclub.com/,,1643 Goley Hewett Road SE,Bolivia,NC,28422,US,33.9788408,-78.241909,2026-10-11T15:12:30Z
+9a7aa8cc-82f1-4190-8524-dd189ae1f496,relation/4869458,Raintree Country Club,,course,,,active,,11,,,+1-704-542-8150,http://www.raintreecountryclub.com/,,8600 Raintree Lane,Charlotte,NC,28277,US,35.0807198,-80.7898794,2026-10-11T15:12:36Z
+9c1eaaa2-ad3e-4b9a-bac5-9f6a163b87d0,relation/1682976,Riverbend YMCA Golf Club,,course,,,active,18,72,,,+1 704 482 4286,https://www.riverbendymcagolf.com/,,3005 Longwood Drive,Shelby,NC,28151,US,35.2477022,-81.5845609,2026-10-11T15:12:30Z
+9d200170-f7a4-48ea-a1d3-3da98858e742,relation/5252016,Lake Louise Golf Club,,course,,,active,,,,,+1-336-998-8746,http://www.lakelouisegolfclubnc.com/,,2251 Highway 64 East,Mocksville,NC,27028,US,35.8904095,-80.4879419,2026-10-11T15:12:36Z
+9da725fe-c366-4843-9392-51184422f7de,way/1334902352,The Golf Village,,par3,,,active,9,27,,,,,,,,NC,,US,35.0902036,-80.8837508,2026-10-11T15:12:29Z
+9e458414-1f9c-47fc-99bf-5af2175afb73,way/316157762,Occoneechee Golf Club,,course,,,active,18,71,,,+1-919-732-3435,https://www.occoneechee.com/,,1500 Lawrence Road,Hillsborough,NC,27278,US,36.0640778,-79.0597169,2026-10-11T15:12:12Z
+9e8e0a05-96cf-4399-9d89-f42fb9ee04da,node/9461644635,Carolina Colours Golf Club,,course,,,active,,,,,,,,,,NC,,US,35.0203789,-77.0152361,2026-10-11T13:29:32Z
+9ed082a1-67b5-4eb1-b272-4775f005c06c,way/844710542,The Cradle,,course,,,active,,,,,,,,,,NC,,US,35.1870648,-79.4683057,2026-10-11T13:31:02Z
+9f1022b0-f043-4fb5-a7dd-2a54f7c9e255,relation/5253221,Bermuda Run Country Club,,course,,,active,,60,,,+1-336-998-8155,https://www.clubcorp.com/Clubs/Bermuda-Run-Country-Club,,324 Bermuda Run Drive,Advance,NC,27006,US,36.0017665,-80.42603,2026-10-11T13:31:32Z
+9fb0ddfa-c54a-4413-8296-dc781d5da9ef,way/1554946857,Rock Creek Golf Club,,course,,,active,18,70,,,,,,825 Little Mtn Church Road,North Wilkesboro,NC,28659,US,36.2541775,-81.0756624,2026-10-11T15:12:30Z
+a0a81105-d716-4d57-b2cb-8d524efec08f,way/757323887,,,course,,,active,,,,,,,,,,NC,,US,35.161179,-79.3934801,2026-10-11T15:12:21Z
+a1c4a439-df62-42bd-9f08-9807e54156c8,way/439967101,Badin Inn Golf Club,,course,,,active,,,,,+1 704 422 3683,http://badininn.com/,,107 Spruce Street,Badin,NC,28009,US,35.3969407,-80.1144126,2026-10-11T15:12:15Z
+a2251679-9aac-4b87-ba38-b6d8ba2eb9a3,relation/6486625,Highland Creek Golf Club,,course,,,active,18,72,,,+1 704 875 9000,https://highlandcreekgolfclub.com/,,7101 Highland Creek Parkway,Charlotte,NC,28269,US,35.386046,-80.7647259,2026-10-11T15:12:36Z
+a2bda529-4813-408a-9bb5-b5d4077301b6,node/12591317469,Crow Creek Golf,,course,,,active,,,,,,https://crowcreekgolf.com,,490 South Crow Creek Drive,Calabash,NC,28467,US,33.9346995,-78.578633,2026-10-11T13:29:32Z
+a2c85be6-b408-4173-b56b-99f1a58ed6c6,relation/5253286,Salem Glen Country Club,,course,,,active,18,71,,,+1-336-712-1010,https://www.salemglen.com/,,1000 Glen Day Drive,Clemmons,NC,27012,US,35.9766381,-80.3877992,2026-10-11T15:12:36Z
+a2ca0708-d3eb-48c0-882b-9c0bc0928c1d,relation/17270860,Cedar Rock Country Club,,course,,,active,,,,,,,,,,NC,,US,35.945012,-81.460106,2026-10-11T15:12:43Z
+a2db2484-bae2-43b8-90e0-013e7b96e260,relation/6403268,,,course,,,active,,,,,,,,,,NC,,US,35.8591833,-79.0189869,2026-10-11T15:12:36Z
+a358a947-490a-438d-9d10-3df200743e4e,way/1026675410,Twin Oaks Golf Course,,course,,,active,,,,,,,,320 Twin Oaks Road,Statesville,NC,28625,US,35.7733128,-80.8287848,2026-10-11T15:12:24Z
+a38f6fc5-5cb1-40e8-ab52-e47424bae127,relation/21284722,Oyster Bay Golf Links,,course,,,active,,,,,,https://www.legendsgolf.com/oyster-bay,,614 Lakeshore Drive,Sunset Beach,NC,28468,US,33.8837987,-78.5329201,2026-10-11T15:12:45Z
+a4164f1d-27d1-4ac1-a864-fed72981de69,relation/5231592,Rock Barn,,course,,,active,,4,,,,,,,,NC,,US,35.7358157,-81.1774009,2026-10-11T15:12:36Z
+a4fa9d40-510d-46a6-aca4-475ee12c3d14,way/491709230,Renaissance Park Golf Course,,course,,,active,18,72,,,,,,1525 West Tyvola Road,Charlotte,NC,28217,US,35.1721612,-80.9120768,2026-10-11T15:12:17Z
+a617e343-0f4b-459f-b47f-7198a0a5cfd4,node/10078964118,,,course,,,active,,,,,,,,,,NC,,US,34.7641124,-76.6429427,2026-10-11T13:29:32Z
+a694d928-d3c3-4e2f-8e70-8e6ffa31d7b2,way/652546866,New River Country Club,,course,,,active,18,71,,,,http://www.sparta-nc.com/newrivergolf/,,611 Golf Course Road,Sparta,NC,28675,US,36.536563,-81.1727293,2026-10-11T15:12:20Z
+a6c54b46-1b2e-4571-bfee-50a22145f3af,way/697048527,,,course,,,active,,,,,,,,,,NC,,US,35.8999738,-80.103256,2026-10-11T15:12:21Z
+a72e61fd-153a-4987-ad4f-cee5708d2534,way/298827616,Wade Hampton Golf Club,,course,,,active,18,72,,,+1-828-743-5465,https://www.wadehamptongc.com/,,68 Golf Drive,Cashiers,NC,28717,US,35.0922017,-83.0718254,2026-10-11T13:30:27Z
+a739b6ea-7689-40e2-bc15-06467ea27ac8,relation/6432538,Riverwood Golf Club,,course,,,active,,19,,,+1 919 550 1919,http://www.rgac.com/rw-golf.cfm,,400 Riverwood Drive,Clayton,NC,27527,US,35.6637791,-78.4105505,2026-10-11T15:12:36Z
+a74d4269-d674-4862-b78b-f91e7861d562,way/441545114,Glen Oaks Golf Club,,course,,,active,,,,,+1 828 428 2451,https://glenoaksgolf.com/,,245 Golf Course Road,Maiden,NC,28650,US,35.5568282,-81.2135803,2026-10-11T15:12:15Z
+a7dcb5cf-a841-449c-8020-e790d09c5fe1,relation/16827624,River Ridge Golf Club,,course,,,active,18,72,,,+19196618374,,,3224 Auburn Knightdale Rd,Raleigh,NC,27610,US,35.7258873,-78.522666,2026-10-11T15:12:43Z
+a9bbc51f-f6eb-49e1-8109-95538cbab6ef,way/1030828964,,,course,,,active,,,,,,,,,,NC,,US,35.2199206,-83.0585405,2026-10-11T15:06:36Z
+aa750e20-0ca2-42e2-9625-c2fa6b141601,relation/6432589,Pine Hollow Golf Club,,course,,,active,,,,,+1 919 553 4554,https://www.pinehollowgolf.com/,,3300 Garner Road,Clayton,NC,27520,US,35.6785259,-78.504898,2026-10-11T13:31:32Z
+aaf62f02-d297-4923-a1a7-ddbd05cf902c,way/312019503,,,course,,,active,,,,,,,,,,NC,,US,35.2896907,-77.5897426,2026-10-11T15:12:12Z
+ab22fc1c-3d93-4802-b903-f20037dd6249,way/1096155485,Paradise Valley,,course,,,active,18,,,,,https://www.charlottepublicgolf.com/courses/paradise-valley-par-3-gc/,,110 Barton Creek Drive,Charlotte,NC,28262,US,35.3170798,-80.7435159,2026-10-11T13:31:06Z
+ac73f436-0f0f-491e-bb5f-5375a1b7df42,way/530118417,Mountain Glen Golf Club,,course,,,active,,,,,+1-828-733-5804,https://www.mountainglengolfclub.com/,,1 Club House Drive,Newland,NC,28657,US,36.1250143,-81.9402556,2026-10-11T15:06:30Z
+ad34ad98-e2de-404d-9416-0c8eb93ed3fb,relation/4287244,The Emerald Golf Club,,course,,,active,,,,,+1-252-633-4440,https://www.emeraldgc.com/,,5000 Clubhouse Drive,New Bern,NC,28562,US,35.1153051,-77.115314,2026-10-11T15:12:36Z
+ad3b3624-871a-47bc-bea5-ca67e5fd016e,way/548191779,Warrenton Golf Club,,course,,,active,,,,,,,,,,NC,,US,36.3878315,-78.1202636,2026-10-11T15:12:18Z
+ad7e38db-060e-434a-8dfc-fadffa2bf859,way/486541799,,,course,,,active,,,,,,,,,,NC,,US,35.2551325,-77.9714801,2026-10-11T15:12:17Z
+adadf087-4eca-4515-9bb3-88c64309d599,relation/6402187,,,course,,,active,,,,,,,,,,NC,,US,35.3180586,-79.1287359,2026-10-11T15:12:36Z
+adfbc03a-7ca9-4caf-87b5-c30462065c77,relation/6386359,,,course,,,active,,,,,,,,,,NC,,US,35.2303998,-79.3880626,2026-10-11T15:06:47Z
+aed0dc28-352a-4f4a-917a-9f887c058d1d,way/1509166537,Softgolf,,course,,,active,,,,,,https://www.softgolf.net/,,4035 Clemmons Road,Clemmons,NC,27012,US,36.0171117,-80.4058088,2026-10-11T15:12:29Z
+af4eb893-0193-474a-9410-e1e0d86c542a,way/352559788,Pilot Knob Park,,course,,,active,18,70,,,+1-336-368-2828,https://www.pkpgolf.com/,,450 Club House Drive,Pilot Mountain,NC,27041,US,36.3658472,-80.4696612,2026-10-11T15:06:26Z
+b00467d6-0e71-4413-85c9-1303d21468b9,relation/6452143,The Divide Golf Club,,course,,,active,18,72,,,+1 704 628 6438,https://www.thedividegolfclub.com/,,6803 Stevens Mill Road,Matthews,NC,28104,US,35.1320493,-80.6399254,2026-10-11T15:06:47Z
+b1433406-f2e6-46c1-aeea-0c85e6102092,way/1466956155,,,course,,,active,,,,,,,,,,NC,,US,36.3159303,-80.0549127,2026-10-11T15:12:29Z
+b16a2152-6ff8-4a92-9fa4-57c1a3b6ea06,way/286683082,Lochmere Golf Course,,course,,,active,18,71,,,,http://www.clubcorp.com/Clubs/Lochmere-Golf-Club/Amenities/Golf,,,,NC,,US,35.7228527,-78.7685522,2026-10-11T15:06:19Z
+b29b8460-ff0f-420d-a78b-670955e71009,relation/6566482,Oakwoods Country Club,,course,,,active,18,72,,,+1 336 838 3011,https://www.oakwoodscc.com/,,541 Clubhouse Road,Wilkesboro,NC,28697,US,36.1156928,-81.1512346,2026-10-11T15:12:38Z
+b316c53b-1007-46a8-8fd9-3baa42731eac,way/435414027,Charles T. Myers Golf Club,,course,,,active,18,72,,,+1 704 536 1692,https://www.myersparkcc.com/,,7817 Harrisburg Road,Charlotte,NC,28215,US,35.2213588,-80.6927788,2026-10-11T15:12:15Z
+b36b467f-b43f-4936-a00b-f2059ab45f56,relation/6492125,Birkdale Golf Club,,course,,,active,,,,,+1 704 895 8038,https://birkdale.com/,,16500 Birkdale Commons Parkway,Huntersville,NC,28078,US,35.4366169,-80.8819375,2026-10-11T15:06:49Z
+b4b124e3-d314-48be-8ee1-584fa12f0c3c,relation/16549890,Pine Island Country Club,,course,,,active,18,71,,,,,,1701 Stoneyridge Drive,Charlotte,NC,28214,US,35.2994584,-80.9695887,2026-10-11T15:06:53Z
+b5b8034e-5234-4102-8a3c-ba17b68ca712,node/10129417519,,,course,,,active,,,,,,,,,,NC,,US,33.9216394,-78.5120755,2026-10-11T13:29:32Z
+b5c20f98-11a8-4074-a6d4-930cc7030082,relation/3972774,NorthStone Country Club,,course,,,active,,,,,+1-704-948-4286,https://www.northstoneclub.com/,,15801 Northstone Drive,Huntersville,NC,28078,US,35.4313093,-80.8232194,2026-10-11T15:12:35Z
+b60c165c-b980-4c89-8d26-b3c631400b13,way/429532921,,,course,,,active,18,72,,,+1 910 396 3980,https://bragg.armymwr.com/us/bragg/programs/stryker-golf-course,,,,NC,,US,35.125974,-78.9667924,2026-10-11T15:12:15Z
+b6f7d08c-0102-499f-958d-3e50804fc7a5,relation/6383258,Pinehurst Course No. 6,,course,,,active,18,73,,,,https://www.pinehurst.com/golf/courses/no-6/,,,,NC,,US,35.2189374,-79.4406407,2026-10-11T15:12:36Z
+b71db218-771f-4c29-8cb1-d48a0c48530d,relation/6889717,Wilson Country Club,,course,,,active,,,,,+1 252 291 3815,https://www.wilsoncc.org/,,4509 Country Club Drive,Wilson,NC,27896,US,35.7854243,-77.9387493,2026-10-11T15:12:38Z
+b8064377-9aa9-4799-b0d0-39d2729cb23c,relation/5252748,Oak Valley Golf Club,,course,,,active,,,,,+1-336-940-2000,https://oakvalleygolfclub.com/,,261 Oak Valley Boulevard,Advance,NC,27006,US,35.9838747,-80.439111,2026-10-11T13:31:32Z
+b8651dba-ea45-44f5-9474-5301e98915bc,way/1509573612,Eagle Point Golf Club,,course,,,active,,,,,,,,,,NC,,US,34.2863414,-77.760819,2026-10-11T15:12:29Z
+b9acc7f5-a5c6-4ccf-8804-625b5a4f3784,way/436810461,The Tradition Golf Club,,course,,,active,18,72,,,+1 704 503 7529,https://thetraditiongolfclub.com/,,3800 Prosperity Church Road,Charlotte,NC,28269,US,35.3491125,-80.7679412,2026-10-11T15:12:15Z
+ba4141ea-2372-412c-a84f-e3c987fe663d,relation/6390218,Palmer,,course,,,active,,,,,,,,,,NC,,US,35.2297353,-79.2072935,2026-10-11T15:12:36Z
+bac02ee7-fe19-444d-87c2-ad057cc23fdb,relation/6417964,Roxboro Country Club,,course,,,active,,,,,+1 336 599 2332,http://www.roxborocountryclub.com/,,260 Club House Road,Roxboro,NC,27574,US,36.4521674,-78.9973163,2026-10-11T13:31:32Z
+bae6b2f7-7aaf-4597-b3e1-7cf795ebadb0,relation/1017197,Croasdaile Country Club,,course,,,active,18,72,,,,,,,,NC,,US,36.0323297,-78.9458034,2026-10-11T15:12:30Z
+bba91b1e-6621-4f2a-87e0-729b5b7c614d,way/675848624,Dan Valley Golf Course,,course,,,active,18,71,,,+1-336-548-6808,,,,Stoneville,NC,27048,US,36.4144826,-79.9277177,2026-10-11T13:30:54Z
+bbbe4232-9886-4642-8de0-e9f0f326436d,relation/16000433,Bald Head Island Country Club,,course,,,active,18,69,,,,,,301 South Bald Head Wynd,Bald Head Island,NC,28461,US,33.8641511,-77.9994167,2026-10-11T15:12:43Z
+bc49cdf9-24e0-4fef-9e18-22516f3c13fa,node/10129368700,,,course,,,active,,,,,,,,,,NC,,US,33.9044255,-78.5452855,2026-10-11T13:29:32Z
+bd6bc9df-b4d0-4c9d-9876-033eb678cd6c,way/659436484,Carmel Country Club,,course,,,active,,,,,+1-704-945-9630,https://www.carmelcountryclub.org/,,4735 Carmel Road,Charlotte,NC,28226,US,35.099524,-80.8184112,2026-10-11T15:12:20Z
+bd973694-1b7f-48ec-a5fe-977107345e35,way/995053164,,,par3,,,active,18,54,,,,,,,,NC,,US,35.3480702,-82.3870131,2026-10-11T15:12:24Z
+be2b60bd-7006-48bc-8a8b-1c46b2a72346,way/998199584,Elk River Club,,course,,,active,18,71,,,,,,,,NC,,US,36.1564082,-81.8954923,2026-10-11T15:12:24Z
+be5d1bbe-c114-4542-9fa0-05a0dd7f6ece,node/12830337640,,,course,,,active,,,,,,,,,,NC,,US,33.9094508,-78.4049676,2026-10-11T13:29:32Z
+beb8e065-d1ef-4914-85a0-c1520dd36254,way/1550646771,Mill Creek,,course,,,active,,,,,,,,,Mebane,NC,,US,36.1210384,-79.2653663,2026-10-11T13:31:18Z
+bfc59914-bc08-4795-b033-bcffc1d9b347,relation/6446031,Baywood Golf Club,,course,,,active,,,,,+1 910 483 4330,https://www.baywoodgc.com/,,904 Four Wood Drive,Fayetteville,NC,28312,US,35.0588872,-78.7595211,2026-10-11T15:12:36Z
+c0c70c5a-4036-4530-96da-6bdfcc35d22c,way/721195485,Plymouth Country Club,,course,,,active,,,,,,,,,,NC,,US,35.8553139,-76.7612348,2026-10-11T15:12:21Z
+c2ab10b8-f0f6-4851-bd3d-7a7736369837,way/911711494,Cleghorn Golf & Sports Club,,course,,,active,18,71,,,,,,,,NC,,US,35.3031048,-81.9754928,2026-10-11T15:12:23Z
+c3744c4f-d0c7-4e93-96f9-87ede8452002,relation/16031387,Heather Hills Golf Course,,course,,,active,,,,,,,,,,NC,,US,36.0505192,-80.2908038,2026-10-11T15:06:53Z
+c54b40d4-d066-45bb-b512-a50396efbff1,relation/6497587,The Peninsula Club,,course,,,active,,,,,+1 704 896 7080,https://www.thepeninsulaclub.com/,,19101 Peninsula Club Drive,Cornelius,NC,28031,US,35.469266,-80.914754,2026-10-11T15:12:38Z
+c55baeb9-b810-479b-8e47-59b7935da073,way/352856783,Asheboro Country Club,,course,,,active,,,,,+1-800-697-2143,https://www.asheborocc.com/,,5105 Old Lexington Road,Asheboro,NC,27205,US,35.7259215,-79.9210447,2026-10-11T15:12:14Z
+c5eb5319-233d-4c95-84b8-4ff777823d23,way/768697554,Cleveland Country Club,,course,,,active,18,72,,,+1-704-482-1764,https://www.clevelandcountryclub.net/,,1360 East Marion Street,Shelby,NC,28150,US,35.2927497,-81.5026603,2026-10-11T15:12:21Z
+c5f4cbba-d79e-46a6-bb68-3971256d2ad5,node/10129424059,,,course,,,active,,,,,,,,,,NC,,US,33.9259032,-78.6007154,2026-10-11T13:29:32Z
+c6693b29-ad6d-4a86-a777-7f8899cce9d6,relation/6432537,Neuse Golf Club,,course,,,active,18,72,,,+1 919 550 0550,https://www.clubcorp.com/Clubs/Neuse-Golf-Club/,,918 Birkdale Drive,Clayton,NC,27527,US,35.6375211,-78.3946707,2026-10-11T15:12:36Z
+c6f77fca-228e-41a7-9789-1fed1aaab184,way/351271658,Lakewood Golf Club,,course,,,active,,,,,+1-704-873-6441,https://www.lakewoodgolfclub.net/,,273 Old Airport Road,Statesville,NC,28677,US,35.763084,-80.9428723,2026-10-11T13:30:39Z
+c720abb1-e16c-4300-848b-11b57b4b4656,way/215422671,Lake Junaluska Golf Course,,course,,,active,,,,,,,,,,NC,,US,35.5170761,-82.9758183,2026-10-11T13:30:07Z
+c767bed0-f00d-4428-9d6a-b35c8e02b22f,way/905877392,Randy's Golf Center and Range,,course,,,active,,,,,,,,,,NC,,US,36.0693909,-79.3320504,2026-10-11T15:12:23Z
+c7b78961-66a8-41cb-bad5-7a0cb9286d6a,way/430438893,,,course,,,active,,,,,,,,,,NC,,US,35.6753036,-78.6505516,2026-10-11T13:30:44Z
+c7f634ae-74a7-4687-8fe7-d55a40178e0c,node/4812438960,Eagle Pointe Golf Club,,course,,,active,,,,,,,,8131 Bald Eagle Lane,Wilmington,NC,28411,US,34.284665,-77.754468,2026-10-11T13:29:32Z
+c876a950-e4a0-45b1-a2e5-f99adb0d26b3,node/10153190931,,,course,,,active,,,,,,,,,,NC,,US,34.3857359,-77.675257,2026-10-11T13:29:32Z
+c943f528-45c5-4544-ad53-5ac420298852,relation/7573808,Landfall Country Club Golf Course,,course,,,active,,,,,,,,,,NC,,US,34.244092,-77.8068611,2026-10-11T15:12:38Z
+c9f834df-be7d-4f65-a50f-bb80d731f84f,relation/6446970,King's Grant Golf and Country Club,,course,,,active,18,,,,+1 910 630 1111,http://www.kingsgrantlife.com/,,347 Shawcroft Road,Fayetteville,NC,28311,US,35.1442306,-78.8886512,2026-10-11T15:12:36Z
+ca11f58d-3544-4f8a-b5b6-aeda8e151eee,way/259882288,Monroe Country Club,,course,,,active,18,72,,,+1 704 282 4661,https://www.monroecountryclubgolf.com/,,1680 Pageland Highway,Monroe,NC,28112,US,34.9690967,-80.5101205,2026-10-11T15:12:05Z
+caaf2301-9917-4b22-aa80-be6ba1f9fe84,way/376781664,Mid Pines,,course,,,active,18,72,,,+1 910 692 2114,http://www.pineneedles-midpines.com/mid-pines/,,1010 Midland Road,Southern Pines,NC,28387,US,35.1917644,-79.3961287,2026-10-11T15:12:14Z
+cb979c83-d66c-4d2d-b25c-d4c52ab2441f,way/31270261,Haddock Golf Center,,course,,,active,,,,,,,,,,NC,,US,36.1324654,-80.2710207,2026-10-11T13:29:34Z
+cbee22d8-7e62-45a9-945b-1300f04ef912,relation/6377786,Bayonet at Puppy Creek,,course,,,active,18,72,,,+1 888 229 6638,https://www.bayonetgolf.com/,,349 South Parker Church Road,Raeford,NC,28376,US,35.0138211,-79.1259852,2026-10-11T15:12:36Z
+cc3ccf85-e973-42a8-b8aa-595f933bac72,way/466573527,,,course,,,active,,,,,,,,,,NC,,US,34.5515481,-77.9025438,2026-10-11T15:12:17Z
+ccbfa3af-b10f-470b-bc0d-49d173dc8e8d,relation/13969631,Pinehurst,,course,,,active,18,68,,,,,,,,NC,,US,35.1832207,-79.4755962,2026-10-11T15:12:41Z
+cd84c987-5e12-4bac-8a4a-b96b87ef0a8d,way/1118217095,Corolla Adventure Part,,course,,,active,,,,,,,,808 Ocean Trail,Corolla,NC,27927,US,36.3276747,-75.8187583,2026-10-11T15:12:24Z
+cd88a7be-1882-4ef0-845f-b77de839313c,relation/6385056,The River Course,,course,,,active,,,,,,,,,,NC,,US,35.263552,-79.386849,2026-10-11T15:12:36Z
+ce7c616f-c7f7-473e-a0e9-e989432fdd05,relation/6406053,Raleigh Golf Association,,course,,,active,,4,,,+1 919 772 9987,https://www.rgagolf.net/,,1527 Tryon Road,Raleigh,NC,27603,US,35.7376481,-78.6648803,2026-10-11T15:12:36Z
+cef30635-520e-4b04-a162-e7f15e51603a,relation/3972776,Deer Brook Golf Club,,course,,,active,,63,,,+1 704 482 4653,http://www.deerbrookgolf.net/,,210 Deer Brook Drive,Shelby,NC,28150,US,35.340394,-81.4948868,2026-10-11T15:12:35Z
+cf1ad443-187c-4eba-9448-41033b6de947,way/440877830,Bushy Mountain Golf Club,,course,,,active,18,72,,,+1 828 632 4804,https://www.brushymountaingolf.com/,,300 Golf Course Lane,Taylorsville,NC,28681,US,35.9116193,-81.2087964,2026-10-11T15:06:28Z
+cf8648f3-9837-427d-a3b6-e62c2d98654b,relation/6384851,Little River Golf Course,,course,,,active,,,,,,https://littlerivernc.com/portfolio/little-river-golf-course-2/,,,,NC,,US,35.2680736,-79.4260824,2026-10-11T13:31:32Z
+cfc84174-24e8-4ae5-ae1c-5f04c127393c,relation/8690137,Members Club at St James,,course,,,active,9,36,,,,https://www.stjamesplantation.com/lifestyle/championship-golf/members-club-golf/,,,,NC,,US,33.9386031,-78.1207028,2026-10-11T13:31:37Z
+cfd5a25d-65cc-4c10-b451-20933cf3d740,relation/17392712,The Palisades Country Club,,course,,,active,18,72,,,,https://thepalisadescc.com/,,13704 Grand Palisades Parkway,Charlotte,NC,28278,US,35.0669387,-81.0384089,2026-10-11T15:12:45Z
+d0342ff5-aa6b-4938-b692-c117a2bc6ecf,way/643124259,Falls Village Golf Club,,course,,,active,18,72,,,,,,,,NC,,US,35.9821511,-78.7724588,2026-10-11T13:30:54Z
+d06eb812-b173-4f54-98e4-7a41e2d489b3,way/1358696570,Pinehurst No. 2,,course,,,active,,10,,,,,,,,NC,,US,35.1917072,-79.4607309,2026-10-11T15:06:40Z
+d171c1a2-30df-44ef-9c7b-072a4fb0d85c,way/560378403,Tryon Country Club,,course,,,active,,,,,,,,,,NC,,US,35.2166444,-82.2555221,2026-10-11T15:12:18Z
+d1908c48-2d2b-44d4-b7c6-a6363b41a84a,way/316078191,Maccripine Country Club,,course,,,active,,,,,+1-252-827-5636,http://www.maccripine.com/,,1332 Maccripine Road,Pinetops,NC,27864,US,35.7804819,-77.6709826,2026-10-11T13:30:33Z
+d1b7b023-5907-4ba9-a7d7-2b22f9e4900d,relation/6398380,Creek Course,,course,,,active,,,,,,,,,,NC,,US,35.4247913,-79.1093171,2026-10-11T15:12:36Z
+d206ca1e-9947-4c70-a88a-746e2b7a9a75,way/428040964,Scotch Meadows Country Club,,course,,,active,,,,,+1 910 276 0169,https://www.scotchmeadowscountryclub.com/,,8000 Tartan Drive,Laurinburg,NC,28352,US,34.6918242,-79.5093087,2026-10-11T15:12:15Z
+d24f3f69-909e-49e9-bc80-e4788b9e76f3,way/47015294,,,course,,,active,9,,,,,,,,,NC,,US,35.8585813,-79.8962848,2026-10-11T15:11:53Z
+d3125d36-18ea-4f28-8edf-ce613a54f181,relation/4869579,The Club at Longview,,course,,,active,,7,,,+1-704-443-2500,https://www.theclubatlongview.com/,,8801 Longview Club Drive,Charlotte,NC,28173,US,35.0260976,-80.786153,2026-10-11T15:12:36Z
+d3ed5340-b5a0-4033-9a1c-7b5ddb3aa558,relation/4255090,Westport Golf Club,,course,,,active,,,,,+1-704-489-8088,https://www.westportgc.com/,,7494 Golf Course Road South,Denver,NC,28037,US,35.5036534,-80.9861966,2026-10-11T15:12:36Z
+d44a200b-4bae-4e00-bde3-47b97336cdf6,way/228723964,Northgreen Country Club Golf Course,,course,,,active,,,,,,,,,,NC,,US,35.9885417,-77.7988834,2026-10-11T15:12:03Z
+d4d3075f-5d2a-4f1e-acce-7716e649d66e,way/479644879,Cape Fear Country Club Golf Course,,course,,,active,,,,,,,,1518 Country Club Road,Wilmington,NC,,US,34.2168576,-77.9198951,2026-10-11T15:12:17Z
+d563aa5b-0def-43db-837c-1f3dd6591f61,relation/21520124,Land-O-Lakes Golf Club,,course,,,active,18,72,,,,,,2950 Bill Hooks Road,Whiteville,NC,28472,US,34.4171563,-78.7625422,2026-10-11T15:12:45Z
+d6d28485-fca6-4c14-8a78-09d1d7edfd75,relation/5265140,Pinewood Country Club,,course,,,active,18,72,,,+1 336 629 4266,https://www.pinewoodclub.com/,,247 Pinewood Road,Asheboro,NC,27205,US,35.6189944,-79.8172275,2026-10-11T15:12:36Z
+d7782c82-33e8-42b3-9848-2fa7f242a5be,relation/12313607,Mountain Aire Golf Course,,course,,,active,18,72,,,,,,1396 Fairway Ridge Drive,West Jefferson,NC,28694,US,36.3799252,-81.5278009,2026-10-11T15:06:51Z
+d7a9d2bb-e1ff-4ebd-87b8-21b8fbca0f36,way/189678859,Cape Fear National at Brunswick Forest,,course,,,active,,68,,,,,,,,NC,,US,34.1680225,-78.0264054,2026-10-11T15:12:01Z
+d880188e-2baa-4df4-8c2e-58f0e8ddcc52,node/12201441456,,,course,,,active,,,,,,,,,,NC,,US,35.2067527,-82.1411048,2026-10-11T13:29:32Z
+d8826575-1261-496c-9aff-b11a6965ad43,relation/6876532,Pudding Ridge Golf Club,,course,,,active,18,71,,,+1 336 940 4653,https://www.puddingridge.com/,,224 Cornwallis Drive,Mocksville,NC,27028,US,35.9831419,-80.5517644,2026-10-11T15:06:49Z
+d94ecf3b-755e-4464-a01c-61889b1134e1,relation/19008532,,,course,,,active,18,,,,,,,,,NC,,US,33.9312865,-78.4789981,2026-10-11T15:12:45Z
+d98079fa-771c-4a9d-a857-8c16b319f3dc,relation/6414706,Treyburn Country Club,,course,,,active,18,72,,,+1 919 620 0184,https://www.treyburncc.com/,,1 Old Trail Drive,Durham,NC,27712,US,36.1189144,-78.8633329,2026-10-11T15:12:36Z
+d986dece-0f25-46ab-9ebe-fb6fc4d0bfc3,relation/6394268,Black Course,,course,,,active,,20,,,+1-910-893-1371,https://www.keithhills.com/,,216 Country Club Drive,Lillington,NC,27546,US,35.3917021,-78.7537181,2026-10-11T15:12:36Z
+d98716ea-d148-4e51-ad97-827f78f2525d,relation/13183954,Crossings Golf Club,,course,,,active,,,,,,,,,,NC,,US,35.9827729,-78.806387,2026-10-11T13:31:42Z
+da26ea13-8002-4de6-aa4e-8ffe1595b52c,way/432828186,Reedy Creek Golf Course,,course,,,active,18,72,,,+1 919 934 7502,https://www.reedycreekgolf.com/,,585 Reedy Creek Road,Four Oaks,NC,27524,US,35.4893878,-78.5163374,2026-10-11T15:12:15Z
+daa08594-0072-4c1b-9ca6-86e2334d8316,way/215648877,Cedarwood Country Club,,course,,,active,,59,,,+1-704-542-0250,https://www.cedarwoodcc.com/,,4100 Pineville-Matthews Road,Charlotte,NC,28226,US,35.0969455,-80.7939203,2026-10-11T15:06:16Z
+daab7eac-4012-481d-a578-4293e207e271,way/877659537,Quail Hollow Club,,course,,,active,18,71,,,,https://www.quailhollowclub.com/,,3700 Gleneagles Road,Charlotte,NC,28210,US,35.1140645,-80.8423428,2026-10-11T15:12:23Z
+db159764-7e4c-4af5-864a-cb065dab72fe,way/257146072,Challenger 3 Golf Course,,course,,,active,,9,,,,,,,,NC,,US,35.3366582,-81.4997144,2026-10-11T15:12:05Z
+db285cac-f39d-4f0a-9b6a-adf4f22617e7,relation/6411269,Stoney Creek Golf Club,,course,,,active,18,71,,,+1 336 449 5688,https://stoneycreekgolf.com/,,911 Golf House Road,Stoney Creek,NC,27377,US,36.0707198,-79.6024255,2026-10-11T15:12:36Z
+db8dc2ba-5098-4e0a-9a74-f5ccb2839e4c,way/570398442,Starmount Forest Country Club,,course,,,active,18,,,,,https://www.starmountforest.com/,,1 Sam Sneed Drive,Greensboro,NC,27410,US,36.076617,-79.8548418,2026-10-11T13:30:51Z
+dbb49be5-1c08-4da6-b16b-125966405eae,relation/6433505,Country Club of Johnston County,,course,,,active,,,,,+1 919 934 4166,https://www.ccjohnstoncounty.com/,,694 Country Club Road,Smithfield,NC,27577,US,35.4729904,-78.3974224,2026-10-11T15:12:36Z
+dc21eebe-c87f-4182-8de9-cdb8e99f1db6,way/1034946285,Mill Creek Country Club,,course,,,active,18,72,,,,,,341 Country Club Drive,Franklin,NC,28734,US,35.1745339,-83.4639888,2026-10-11T15:12:24Z
+dc321aeb-cb15-45ea-9226-400bdc0ba137,way/238287750,Vineland Golf Course,,course,,,active,,42,,,,,,2333 James B White Highway North,Whiteville,NC,28472,US,34.3680222,-78.7189383,2026-10-11T15:12:03Z
+dc349a98-7296-4199-944a-25db9027acb4,node/5547261462,Lake Toxaway Country Club,,course,,,active,,,,,,,,,,NC,,US,35.1376206,-82.9550241,2026-10-11T13:29:32Z
+dc60335b-558e-4ebd-b87d-0b561df75cbb,way/1273875378,,,course,,,active,,,,,,,,,,NC,,US,34.8523674,-77.4993513,2026-10-11T15:12:28Z
+dc73e784-9a1e-4343-944b-9799a185b760,way/430254310,Foothills Course,,course,,,active,,,,,,,,,,NC,,US,35.8473278,-79.0376772,2026-10-11T15:12:15Z
+dd309500-5eae-4456-a21f-80ed01ebde87,way/621357182,Golf Practice Range,,practice,,,active,,,,,,,,,,NC,,US,35.0809141,-78.949427,2026-10-11T15:12:20Z
+dd53e867-682d-431f-abc6-d8f80f7dd4ed,way/844687890,Star Hill,,course,,,active,,,,,,,,,,NC,,US,34.703182,-77.0579761,2026-10-11T15:06:35Z
+dd6bb10f-c702-4d59-9c40-92694ade4c77,way/352859928,Asheboro Municipal Golf Course,,course,,,active,,,,,+1-336-625-4158,https://www.ci.asheboro.nc.us/Recreation/golfcourse.html,,421 Country Club Drive,Asheboro,NC,27205,US,35.6848217,-79.8205735,2026-10-11T15:12:14Z
+de034896-6ed7-4f2e-83d5-210c93764a0d,node/9983237685,Vineyard Golf,,course,,,active,,,,,+19102476132,,,4723 US-701,Elizabethtown,NC,28337,US,34.6497408,-78.5338718,2026-10-11T13:29:32Z
+de24d859-862b-4610-be3e-59383e15b868,way/32921522,Duke University Golf Club,,course,,,active,18,72,,,,,,,,NC,,US,35.9901551,-78.9511232,2026-10-11T15:11:51Z
+de81bdf7-a142-4e7e-8a2c-f136d22fa73b,relation/6876624,Colonial Country Club,,course,,,active,18,71,,,+1-336-472-7501,https://www.ccc-nc.com/,,7047 Colonial Club Drive,Thomasville,NC,27360,US,35.8770997,-80.0365192,2026-10-11T15:12:38Z
+de923411-2e79-4bbb-a270-fdd0e3a51ab4,relation/6479184,River Run Country Club,,course,,,active,18,72,,,+1 704 892 4633,https://www.clubcorp.com/Clubs/River-Run-Country-Club,,19125 River Falls Drive,Davidson,NC,28036,US,35.4688447,-80.7995462,2026-10-11T15:06:47Z
+ded98998-bd86-449d-86e4-a836c4f4afa7,way/403391515,Pine Valley Country Club,,course,,,active,,,,,,,,,,NC,,US,34.187493,-77.8978106,2026-10-11T15:12:15Z
+deeeb609-2510-4858-aad7-a3d6c5479d94,relation/6502140,Trump National Golf Club Charlotte,,course,,,active,,,,,+1 704 799 7300,https://www.trumpnationalcharlotte.com/,,120 Trump Square,Mooresville,NC,28117,US,35.533203,-80.9220185,2026-10-11T15:06:49Z
+df3e38f2-c71b-4773-a099-fa50b5408ea5,relation/6483297,Skybrook Golf Course,,course,,,active,9,36,,,+1 704 948 6611,https://www.skybrookgolf.com/,,14720 Northgreen Drive,Huntersville,NC,28078,US,35.409424,-80.7672865,2026-10-11T15:12:36Z
+dfc67a58-2fe4-4ff8-bbb7-66d4f4468841,way/120522552,Charlotte Country Club,,course,,,active,18,71,,,,https://www.charlottecountryclub.org/,,2465 Mecklenburg Avenue,Charlotte,NC,28205,US,35.2279963,-80.7892445,2026-10-11T15:11:57Z
+e0829fd7-439f-44f9-9fef-909033488d37,relation/12506161,,,course,,,active,18,70,,,,,,,,NC,,US,35.1201265,-83.1361146,2026-10-11T15:12:41Z
+e0ff031f-2f3c-46a2-a546-198e2d751bbc,way/439392038,Hendersonville Country Club,,course,,,active,,,,,+1 828 692 2261,https://www.hendersonvillecc.com/,,,,NC,,US,35.3038331,-82.4846941,2026-10-11T15:12:15Z
+e12efcb2-710c-43b5-acc1-650589e9d427,way/286194275,Pinehurst Course No.7,,course,,,active,,40,,,,,,,,NC,,US,35.1907396,-79.4507984,2026-10-11T15:12:07Z
+e1442a8e-4353-481f-835c-36b86c90ad84,relation/6388539,Country Club of North Carolina - Dogwood,,course,,,active,,45,,,+1-910-692-6565,https://www.ccofnc.com/public/home-597.html,,1600 Morganton Road,Pinehurst,NC,28374,US,35.1647959,-79.4374069,2026-10-11T15:12:36Z
+e16f21a3-3ea1-4f19-8540-39bd6654ef58,relation/6423266,Henderson Country Club,,course,,,active,,,,,+1 252 438 3095,https://www.hendersoncc.org/,,300 Country Club Drive,Henderson,NC,27536,US,36.320922,-78.4411291,2026-10-11T15:12:36Z
+e1bdf11f-50db-4d15-830b-b3d3ea68a7d2,relation/6876570,The 500 Club Golf Course,,course,,,active,18,,,,,,,,,NC,,US,35.7480716,-80.8704726,2026-10-11T15:12:38Z
+e1d6044a-d1cf-4f6e-89e3-9e4d80ad1e8c,relation/6389765,Grey Fox,,course,,,active,,52,,,,,,,,NC,,US,35.1707586,-79.5648968,2026-10-11T15:12:36Z
+e24899c4-75b9-4e76-8210-b49b7710ea1e,way/894380050,,,course,,,active,18,70,,,,,,,,NC,,US,35.3777289,-83.1216653,2026-10-11T13:31:02Z
+e2bdd9bc-2ed0-4d93-9006-bcb796c45a41,way/428122054,,,course,,,active,,,,,,,,,,NC,,US,34.7544966,-79.4120856,2026-10-11T15:12:15Z
+e2be6e70-120e-4270-9a3f-d0de9e371396,relation/4084162,Prestonwood Country Club,,course,,,active,,,,,+1-919-467-2566,https://prestonwood.com/,,300 Prestonwood Parkway,Cary,NC,27513,US,35.8037149,-78.8338313,2026-10-11T15:12:35Z
+e4591e26-dc13-4e7c-8c51-fb90e6f7f42f,way/1324234643,Sandy Ridge Country Club,,course,,,active,,,,,,,,,,NC,,US,35.2265239,-78.5328193,2026-10-11T15:06:40Z
+e46f6f4b-c85c-461f-b0d2-cadcf69ae4de,way/1420847006,Tot Hill Farm,,course,,,active,18,72,,,,,,3185 Tot Hill Farm Rd,Asheboro,NC,27205,US,35.6360988,-79.9098108,2026-10-11T15:12:29Z
+e4af7b9d-b9f8-4ed3-81ef-a169ce0897d7,way/529335387,Sugar Mountain Golf Course,,course,,,active,,,,,+1-828-898-6464,,,1054 Sugar Mountain Drive,Sugar Mountain,NC,28604,US,36.1320961,-81.854315,2026-10-11T15:12:18Z
+e61c17de-c168-4a76-b6ab-2d54b81f2886,relation/13291620,,,course,,,active,,,,,,,,,,NC,,US,36.2086508,-81.7345653,2026-10-11T15:12:41Z
+e64e2136-d01a-4c6a-890a-3b291ace1b02,relation/12256811,Olde Beau Resort & Golf Club,,course,,,active,,,,,,https://www.oldebeauresort.com/,,729 Olde Beau Boulevard,Roaring Gap,NC,28668,US,36.4158995,-80.9873436,2026-10-11T15:06:51Z
+e69b5b2f-8aad-420c-af77-644a48eca8fc,way/439502955,Biltmore Forest Country Club,,course,,,active,,,,,+1-828-274-1261,https://www.biltmoreforestcc.com/,,31 Stuyvesant Road,Asheville,NC,28803,US,35.5313814,-82.535582,2026-10-11T15:12:15Z
+e6cfc960-73ec-471f-8684-e74fc32c1439,relation/14987261,,,course,,,active,,5,,,,,,,,NC,,US,36.30126,-75.8086827,2026-10-11T15:12:43Z
+e70a2d6e-0f39-4118-a3a8-d51df3046273,relation/18028366,,,course,,,active,,,,,,,,,,NC,,US,35.4672003,-82.9938834,2026-10-11T13:31:51Z
+e81c5835-f7ca-4069-ad71-a389e9cf937e,node/5549184508,Trillium Club,,course,,,active,,,,,,,,,,NC,,US,35.1187181,-83.0886069,2026-10-11T13:29:32Z
+e8b77bcb-eee9-431e-9df8-261b46d06e2b,relation/3972775,Oak Hollow Golf Course,,course,,,active,18,72,,,+1-336-883-3260,https://www.oakhollowgc.com/,,3400 North Centennial Street,High Point,NC,27265,US,36.0108432,-79.9964022,2026-10-11T13:31:27Z
+e8dfb5e2-b996-4f49-a3d5-0ae2b7137867,way/470446507,,,course,,,active,,,,,,,,,,NC,,US,35.2287581,-83.401493,2026-10-11T15:12:17Z
+e8f1ceb7-7b96-4200-8210-02594a530d9e,way/307246161,Chatuga Shores Golf Course,,course,,,active,,,,,,,,,,NC,,US,34.998632,-83.8142039,2026-10-11T15:12:12Z
+ecba5c28-f117-432d-9126-6d37b3b939bf,way/466206910,Pennrose Park Country Club,,course,,,active,9,36,,,+1 336 349 5245,https://www.pennrosepark.com/,,1622 Country Club Road,Reidsville,NC,27323,US,36.3389439,-79.6726301,2026-10-11T15:12:17Z
+ece31bc3-2778-44ec-9bac-22cb359a0533,relation/4869863,TPC Piper Glen,,course,,,active,18,72,,,+1-704-846-1212,https://www.clubcorp.com/Clubs/TPC-Piper-Glen/,,4300 Piper Glen Drive,Charlotte,NC,28277,US,35.0718272,-80.8127774,2026-10-11T13:31:32Z
+ed0882bd-19b6-4837-9896-e08bd6ffb879,way/441714927,,,course,,,active,,,,,,,,,,NC,,US,35.318795,-81.0654238,2026-10-11T15:12:15Z
+ed7d95d0-719d-441f-9252-27d5873d0197,way/350229092,Catawba Country Club,,course,,,active,,,,,+1-828-294-3727,https://www.catawbacc.org/,,1154 Country Club Road,Newton,NC,28658,US,35.6558697,-81.3028718,2026-10-11T15:12:14Z
+eebecfca-1ec7-407c-9dfa-bfb2b5c86624,way/923410948,Old Edward's Club,,course,,,active,,,,,,,,,,NC,,US,35.1094478,-83.1595811,2026-10-11T15:12:23Z
+ef24c658-dca5-4e77-9624-b04b58496dae,relation/7910038,Chapel Hill Country Club,,course,,,active,18,,,,,,,,,NC,,US,35.9195253,-79.0107779,2026-10-11T15:06:49Z
+ef2bde5b-81eb-4d2e-befe-60add88bc470,way/432639742,Birchwood Country Club,,course,,,active,,,,,+1 252 459 3910,http://www.birchwoodcc.net/,,901 East Birchwood Drive,Nashville,NC,27856,US,35.9634911,-77.951903,2026-10-11T15:12:15Z
+efbcb3ff-6f7c-48f2-91ad-fc17a56d7c4c,relation/6388538,Country Club of North Carolina - Cardinal,,course,,,active,,45,,,+1-910-692-6565,https://www.ccofnc.com/public/home-597.html,,1600 Morganton Road,Pinehurst,NC,28374,US,35.1679943,-79.4508046,2026-10-11T15:12:36Z
+efc3c078-eee1-43fb-97fd-b5b2df9864f3,way/188326120,North Ridge Country Club,,course,,,active,,,,,,,,,,NC,,US,35.8824467,-78.6096267,2026-10-11T15:12:01Z
+efdf919e-cb08-4047-aa60-b284a2812490,relation/20053932,Bald Mountain Golf Course,,course,,,active,18,72,,,,https://www.rumblingbald.com/spectacular-mountain-golf/bald-mountain/,,,,NC,,US,35.4675903,-82.1946658,2026-10-11T15:12:45Z
+f039ade5-a800-4373-8ba4-774c4289885e,relation/6394269,Orange Course,,course,,,active,,19,,,+1-910-893-1371,https://www.keithhills.com/,,216 Country Club Drive,Lillington,NC,27546,US,35.3931531,-78.7573781,2026-10-11T15:06:47Z
+f0881a32-d495-4d69-943c-1e9c5202d097,way/727270851,Lynrock Golf Course,,course,,,active,,28,,,,,,,,NC,,US,36.4795641,-79.7478224,2026-10-11T15:06:33Z
+f0fdf324-e060-406f-a32d-231390fddbae,way/352421921,,,course,,,active,9,36,,,,,,,,NC,,US,36.2855129,-80.9409459,2026-10-11T13:30:39Z
+f1c2a016-0dc7-4d67-bcf4-37950caea72b,way/434840119,Pine Burr Golf Course,,course,,,active,,,,,,,,,,NC,,US,35.3655211,-78.812196,2026-10-11T15:12:15Z
+f230a980-c7b6-4694-894f-694b55b56b6f,relation/6413356,The Valley Golf Course,,course,,,active,18,,,,+1 336 584 7871,https://www.burlingtonnc.gov/1309/Golf-Course,,1005 Indian Valley Drive,Burlington,NC,27217,US,36.1414661,-79.4448084,2026-10-11T15:12:36Z
+f2a1e386-e5b7-401a-b20f-7b2d529df3d6,node/9517342676,1st Tee,,course,,,active,,,,,,,,,,NC,,US,36.0906093,-79.4895521,2026-10-11T13:29:32Z
+f2b44399-0f40-4dfc-8781-6adf6a9cbecf,node/11807073513,,,course,,,active,,,,,,,,,,NC,,US,35.1200905,-82.9370971,2026-10-11T13:29:32Z
+f33dc656-c625-45b3-88b5-c6a548f7eb67,way/467002902,,,course,,,active,,,,,,,,,,NC,,US,35.9742112,-76.9517388,2026-10-11T15:12:17Z
+f3c25d46-5af8-4429-90b9-e70150cc6dc2,way/466426939,Morehead City Country Club,,course,,,active,,,,,+1 252 726 4917,https://www.moreheadcitycc.com/,,2900 Country Club Road,Morehead City,NC,28557,US,34.7449018,-76.7480662,2026-10-11T15:12:17Z
+f3d9f809-2df9-42ab-83e2-c8bb1eeadb32,relation/14003355,,,course,,,active,,4,,,,,,,,NC,,US,35.1944209,-79.4569565,2026-10-11T15:12:41Z
+f4077842-6be0-4a0c-af77-ebe50b687969,relation/12580941,,,course,,,active,18,70,,,,,,,,NC,,US,36.010336,-79.8843245,2026-10-11T15:12:41Z
+f45d6e0d-e7dc-4222-836a-2a3ee958613b,relation/5151264,Mimosa Hills Country Club,,course,,,active,,,,,,,,,,NC,,US,35.7257029,-81.7095174,2026-10-11T15:12:36Z
+f45e7513-335e-48a3-bd26-b2e2918d1a21,relation/2789076,Hope Valley Country Club,,course,,private,active,18,70,,,,https://www.hvcc.org/,,,,NC,,US,35.9465211,-78.9482194,2026-10-11T15:12:33Z
+f98375c4-ba31-44c1-84b8-2ca98323ec32,relation/6385380,Pine Needles,,course,,,active,18,71,,,+1 910 692 7111,http://www.pineneedles-midpines.com/pine-needles/,,1005 Midland Road,Southern Pines,NC,28387,US,35.2010013,-79.3878334,2026-10-11T15:12:36Z
+f989e4ef-5b96-4f80-804f-39366e304ccd,way/988176951,Dr. Charles L. Sifford Golf Course,,course,,,active,9,35,,,,,,1225 Remount Road,Charlotte,NC,28208,US,35.2093091,-80.8793317,2026-10-11T15:12:24Z
+fa0d3fad-3c10-428d-8142-2c504d29c574,relation/6389766,Red Fox,,course,,,active,,23,,,,,,,,NC,,US,35.1753666,-79.5825051,2026-10-11T13:31:32Z
+fae7f9c5-293d-413b-bc9e-3d47f2c85ce9,relation/6403695,The Preserve at Jordan Lake Golf Club,,course,,,active,,,,,+1 919 542 5501,https://thepreservegolf.com/,,840 The Preserve Trail,Chapel Hill,NC,27517,US,35.7817827,-79.0563609,2026-10-11T15:12:36Z
+fafbe251-a305-4b0a-8b45-30ba09f6218a,way/430799519,Walnut Woods Golf Course,,course,,,active,,,,,,,,,,NC,,US,35.9798229,-79.6458497,2026-10-11T15:12:15Z
+fd176896-9e35-42bc-845f-9bf53198d389,relation/6403266,Lakes Course,,course,,,active,,,,,,,,,,NC,,US,35.8429265,-79.0365828,2026-10-11T15:12:36Z
+fd23992f-7309-4616-a8dc-6b503a8fe0b9,way/351674356,Statesville Country Club,,course,,,active,18,72,,,+1-704-873-7240,https://statesvillecc.com/,,635 Deauville Road,Statesville,NC,28625,US,35.7911996,-80.8173885,2026-10-11T15:06:26Z
+fd34ed2c-8004-48d1-9fca-fb9f5ce15073,node/5548330223,Mountaintop Golf and Lake Club,,course,,,active,,,,,,,,,,NC,,US,35.1231907,-83.1380284,2026-10-11T13:29:32Z
+fd525c28-3fae-4868-983b-bd2307e09156,way/1070457270,,,course,,,active,18,71,,,,,,,,NC,,US,35.2089671,-81.1458004,2026-10-11T15:12:24Z
+fda147f0-7497-4d78-bbee-86d6bafb571b,node/5547111887,Mountaintop Golf and Lake Club,,course,,,active,,,,,,,,,,NC,,US,35.1062063,-83.0972115,2026-10-11T13:29:32Z
+fdf3dbef-31a9-49d5-a497-2fae855cff6c,way/894766284,Lake Winds Golf Course,,course,,,active,,,,,,,,,,NC,,US,36.2132517,-78.9081908,2026-10-11T15:12:23Z
+fdfce632-06e2-460f-b79f-4fe6a078f64d,relation/12326801,Diamond Creek,,course,,,active,18,70,,,,,,25 Rockrose Road,Banner Elk,NC,28604,US,36.15036,-81.8364629,2026-10-11T15:12:41Z
+fe65e8a5-3967-4d1d-bdf7-ef2b7240afab,relation/6390217,Maples,,course,,,active,,,,,,,,,,NC,,US,35.2448792,-79.195036,2026-10-11T15:12:36Z
+ffa1bdcd-9a9a-428f-ad43-25ea40140b20,way/430799524,Brookwood Golf Course,,course,,,active,,,,,+1 336 449 5544,https://brookwoodgolfcourse.com/,,1753 NC 61,Whitsett,NC,27377,US,36.0101602,-79.5739607,2026-10-11T15:12:15Z
+ffa27677-e28b-443a-9fb5-39548e6aaa2b,relation/21283499,Thistle Golf Club,,course,,,active,,71,,,,https://thistlegolf.com,,1815 Olde Thistle Club Road,Sunset Beach,NC,28468,US,33.9070467,-78.5457052,2026-10-11T15:12:45Z
+ffb37bc4-86dd-4e0b-a28c-6af03efaec94,way/432509556,,,course,,,active,,12,,,,,,,,NC,,US,35.9643875,-78.5523841,2026-10-11T15:12:15Z

@@ -1,0 +1,31 @@
+name: A course is missing
+description: A golf course that isn't in the data at all. (To fix a course that is, use the site.)
+title: "Missing course: "
+labels: ["missing course"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Check [lukeheide.com/sports/yardage-hub](https://lukeheide.com/sports/yardage-hub) first: if the course is there, fix it on its page instead.
+  - type: input
+    id: name
+    attributes:
+      label: Course name
+    validations:
+      required: true
+  - type: input
+    id: place
+    attributes:
+      label: City and state
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Website or scorecard link
+      description: A link to its published scorecard helps most.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      description: e.g. number of holes, or that it's part of a facility with several courses.

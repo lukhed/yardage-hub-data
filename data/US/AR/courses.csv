@@ -1,0 +1,144 @@
+id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
+05acb8b6-3533-43ed-9a4d-2ae703f4b4ec,way/223993859,The Links at Rainbow Curve Golf and Country Club,,course,,,active,,,,,,,,,,AR,,US,36.3406586,-94.2336156,2026-10-11T15:06:16Z
+05f7809d-e37f-4350-a199-fc994a651822,way/623233725,Harbor Oaks Golf Club,,course,,,active,,,,,,,,,,AR,,US,34.2511613,-91.989039,2026-10-11T15:06:32Z
+0629bac1-d04c-4aa4-ac49-30612fe11572,node/6313677105,Texarkana Country Club,,course,,,active,,,,,,,,,,AR,,US,33.4061651,-94.0179288,2026-10-11T13:29:32Z
+0b23f452-5182-456a-b1c1-93a5dd9dd723,way/452312880,Forrest City Country Club,,course,,,active,,,,,,,,,,AR,,US,35.0047344,-90.7753584,2026-10-11T15:06:29Z
+0b7455d3-d353-4c30-b7ef-ba4a0872aa4a,way/501724834,Harrison Country Club,,course,,,active,,,,,,,,,,AR,,US,36.2635869,-93.1287372,2026-10-11T15:12:18Z
+0bc3d80c-a78e-4464-9ba1-f4eeb323caec,way/452158676,,,course,,,active,,,,,,,,,,AR,,US,35.598889,-91.2610305,2026-10-11T15:12:17Z
+0f1ae33e-7dd0-4454-82af-26ff64c1e15d,way/296944937,Thunderbird Golf Course,,course,,,active,,,,,,,,,,AR,,US,35.525292,-92.0366776,2026-10-11T15:12:10Z
+0fee5074-0633-498a-a2f3-06858fb96675,way/624230231,Highland Golf Course,,course,,,active,,,,,+1 870 574-9080,https://highlandgolfcamden.com/,,707 AR 274,Camden,AR,71701,US,33.6153946,-92.7387518,2026-10-11T15:12:20Z
+11646c12-d94b-422a-b6d3-35b761390e93,way/1165421497,,,course,,,active,18,72,,,,,,,,AR,,US,34.7495531,-92.1208361,2026-10-11T15:12:27Z
+12842e84-5ca4-467f-9cd0-124f93a32c4b,relation/9382374,Dogwood Golf Course,,course,,,active,,,,,+1 479 855 8160,https://bellavistapoa.com/thingstodo/golf/#dogwood,,1 Euston Road,Bella Vista,AR,72714,US,36.4556174,-94.1805421,2026-10-11T15:12:38Z
+1598974a-4f54-4f93-8d01-f82ec466bb92,relation/3373895,Scotsdale Golf Course,,course,,,active,,,,,+1 479-855-8140,https://bellavistapoa.com/golf/scotsdale.asp,,10 Scotsdale Lane,Bella Vista,AR,72715,US,36.48453,-94.3065673,2026-10-11T15:12:33Z
+19fa0510-ea13-472a-b55d-7e94fe38c6b9,way/1463971104,,,course,,,active,,,,,,,,,,AR,,US,36.3442533,-94.2362278,2026-10-11T15:12:29Z
+1a11f347-4c94-4702-93aa-d5fb4623d81c,way/452158677,,,course,,,active,,,,,,,,,,AR,,US,35.6045491,-91.2179173,2026-10-11T15:12:17Z
+1ac47336-f00f-471c-9796-07e2ace7d51e,way/1220117262,,,course,,,active,,39,,,,,,,,AR,,US,36.3506773,-92.3522107,2026-10-11T15:12:27Z
+1b27bf4e-dfd2-41b2-b86d-c6874c0a7f16,way/241268576,Thunder Bayou Golf Links,,course,,,active,18,72,,,,,,1229 Perimeter Rd.,Blytheville,AR,72315,US,35.9574835,-89.9239454,2026-10-11T15:12:05Z
+1dfc22ab-32e1-48ae-94c4-0d87f1879aa2,way/618046691,Searcy Country Club,,course,,,active,,,,,+1 501-268-8577,https://searcycountryclub.com/,,2729 West Country Club Road,Searcy,AR,72143,US,35.2324431,-91.7801566,2026-10-11T15:12:20Z
+237ba370-65c2-45c6-a95c-6dd6dc1ab8a6,relation/3949170,Magellan Golf Course,,course,,,active,,,,,+1 501-922-4497,http://hsvpoa.org/golf/courses/magellan-golf-course/,,451 Ponce de Leon Drive,Hot Springs Village,AR,71909,US,34.6228637,-92.8908976,2026-10-11T15:12:35Z
+250e7563-5d1e-4c0a-9fcd-a3b7ddbf5205,way/961896926,Centennial Valley,,course,,,active,,7,,,,,,,,AR,,US,35.1029284,-92.5222084,2026-10-11T15:06:35Z
+2822797c-c9b2-44bf-8fe1-bc4993884397,way/961896923,Centennial Valley,,course,,,active,,4,,,,,,,,AR,,US,35.1009885,-92.5170193,2026-10-11T15:12:23Z
+2a2a3616-0205-47f0-bd2d-6cc2b091dde3,relation/3949165,Cortez Golf Course,,course,,,active,18,72,,,+1 501-922-1590,http://hsvpoa.org/golf/courses/cortez-golf-course/,,299 Cortez Way,Hot Springs Village,AR,71909,US,34.6948485,-92.9832239,2026-10-11T15:12:35Z
+2af90f18-b8f6-49d4-8d1e-1effdddc6269,way/451486420,,,course,,,active,,,,,,,,,,AR,,US,35.8776153,-92.0984583,2026-10-11T15:12:17Z
+2cbdab8f-0776-436b-9be0-63de01deb67e,way/451615906,Stuttgart Country Club,,course,,,active,,,,,+1 870 673 8421,https://stuttgartcountryclub.com/,,2103 East 22nd Street,Stuttgart,AR,72160,US,34.4826,-91.5275006,2026-10-11T15:12:17Z
+2d0c2c9f-2ab9-4ef3-b2e8-9619ca29f249,way/115439242,Fayetteville Country Club,,course,,,active,18,70,,,,,,,,AR,,US,36.0261407,-94.1592514,2026-10-11T15:11:57Z
+2eccdd77-8aff-4995-aa30-54d13e5b1129,way/1346911937,Brush Creek Golf Course,,course,,,active,9,,,,,,,,,AR,,US,36.1883039,-94.2008409,2026-10-11T15:12:29Z
+3164d7de-72a3-401d-9a54-9f9de81388c5,relation/3368455,,,course,,,active,,,,,,,,,,AR,,US,34.5503068,-93.0113188,2026-10-11T15:12:33Z
+318a5d20-2dc7-4016-8482-0d0c779d40af,way/296932153,Texarkana Country Club,,course,,,active,18,72,,,+1 870-772-8221,https://www.texarkanacc.com/,,1 Country Club Lane,Texarkana,AR,71854,US,33.4026787,-94.0194715,2026-10-11T15:12:10Z
+323aeb39-e7c9-4aaf-a68d-31e32a45ef66,way/672948392,,,course,,,active,,,,,,,,,,AR,,US,35.1786884,-90.7140988,2026-10-11T15:12:20Z
+3ae336e7-556e-4280-8016-b79309a74ad0,way/451871145,The Greens at North Hills,,course,,,active,,,,,+1 501 833 3790,https://www.thegreensatnorthhills.net/,,7400 Highway 107,Sherwood,AR,72120,US,34.8221226,-92.228757,2026-10-11T15:12:17Z
+3b53159f-ceb9-4b83-b22c-e39526373b2d,way/626728468,Ben Geren Golf Course,,course,,,active,,,,,,,,,,AR,,US,35.3127348,-94.3742768,2026-10-11T15:12:20Z
+3ba8eb70-bf8a-4550-88cd-4808734a4ec9,way/452301889,,,course,,,active,,,,,,,,,,AR,,US,34.7905545,-90.7715627,2026-10-11T15:12:17Z
+3c29c9bc-8ef7-4224-a421-ca83cc1af8be,way/342773715,,,course,,,active,18,,,,,,,,,AR,,US,33.240881,-92.6430179,2026-10-11T15:06:26Z
+3c828b21-4cf2-4f92-9879-57ce71567df4,way/450889652,Diamond Hills Country Club,,course,,,active,18,71,,,+1 870 422 7613,http://www.diamondhillscountryclub.com/,,20701 Highway 7 North,Diamond City,AR,72630,US,36.4398124,-92.9178921,2026-10-11T15:06:29Z
+3cebfed4-7336-448b-8252-7f912ae53586,way/296944931,Batesville Municipal Golf Course,,course,,,active,,,,,,https://www.cityofbatesville.com/departmentsparks_recreation.php,,1850 Chaney Drive,Batesville,AR,,US,35.7561006,-91.6316777,2026-10-11T15:12:10Z
+41d86464-37b8-4462-9092-9ac4ea478f58,way/296944935,The First Tee of Central Arkansas,,course,,,active,,,,,+1-501-379-8727,https://www.firstteegolfcourselr.com/,,1 First Tee Way,Little Rock,AR,72204,US,34.7108236,-92.352951,2026-10-11T15:12:10Z
+43a83d26-ec52-4fec-9d21-339d1d90e85a,way/1427592258,,,course,,,active,,,,,,,,,,AR,,US,35.9519204,-89.9145798,2026-10-11T13:31:14Z
+440fd8d9-bf0b-4aeb-8b96-748a22c23f56,way/604419704,Ben Geren Golf Course,,course,,,active,,,,,,,,,,AR,,US,35.3162212,-94.3617566,2026-10-11T15:12:20Z
+46996802-f6ec-4ad4-9e9e-3dacaef2400a,way/961896925,Centennial Valley,,course,,,active,,4,,,,,,,,AR,,US,35.1060919,-92.5159815,2026-10-11T15:06:35Z
+483d52f9-0207-4280-9deb-8b4653c5acfc,way/650345237,,,course,,,active,,,,,,,,,,AR,,US,34.6034384,-92.5284013,2026-10-11T15:12:20Z
+48da0d58-da68-4fc6-87f1-6d3cfdfbc9fe,way/250816543,Hot Springs Country Club,,course,,,active,18,72,,,+1 501 623 4981,https://www.hotspringscc.com/,,101 Country Club Drive,Hot Springs,AR,71901,US,34.4790659,-93.0347715,2026-10-11T15:06:18Z
+49c2547b-c7c5-4ab7-94ec-e595afbc0b61,way/961896922,Centennial Valley,,course,,,active,,16,,,,,,,,AR,,US,35.1023679,-92.5078,2026-10-11T15:12:23Z
+4e318979-592a-4ca8-be43-b0f2bd881822,way/296932138,New Haven Golf Club,,course,,,active,,,,,+1 870-774-5771,http://www.newhavengc.com/,,2321 Line Ferry Road,Texarkana,AR,71854,US,33.3958112,-94.0337063,2026-10-11T15:12:10Z
+4e918642-0742-4cbc-a256-88b0523e467b,way/1153921858,,,course,,,active,,,,,,,,,,AR,,US,35.6207862,-92.2469737,2026-10-11T15:12:27Z
+50b4f761-2467-4840-9895-dc77f1c7fd1e,way/439252145,,,course,,,active,,,,,,,,,,AR,,US,34.6770609,-92.4259295,2026-10-11T15:12:15Z
+518d4696-7f61-465f-b804-1f477608147b,way/296932131,Gurdon Golf Course,,course,,,active,,,,,,,,,,AR,,US,33.8734367,-93.1456053,2026-10-11T15:12:10Z
+51a5b992-72ca-493c-adfa-b20e99478ece,way/1018564696,Lost Springs Golf & Athletic Club,,course,,,active,18,72,,,,,,3024 N 22nd St,Rogers,AR,72756,US,36.3627692,-94.1492042,2026-10-11T15:12:24Z
+5315c3fa-8c54-486e-9072-057946362597,way/342773720,El Dorado Golf & Country Club,,course,,,active,18,71,,,+1 870-862-5516,https://eldocountryclub.com/,,101 Shady Side Street,El Dorado,AR,71730,US,33.2401776,-92.6612423,2026-10-11T15:12:14Z
+54d50ff0-0ce7-4c7e-b1b2-37953211f9c2,way/296932134,Lions Club Golf Course,,course,,,active,,,,,,,,,,AR,,US,34.5678113,-94.2518707,2026-10-11T15:12:10Z
+5803a3b6-0899-4a0e-acc3-c63df2bac124,way/416414177,Delta Country Club and Golf Course,,course,,,active,,,,,,,,,,AR,,US,33.6032972,-91.3507387,2026-10-11T13:30:44Z
+593a2151-8588-47c4-a0d3-7e0803054650,way/680115593,Chenal Country Club,,course,,,active,,68,,,,,,,,AR,,US,34.7782162,-92.4761192,2026-10-11T13:30:54Z
+59ae305d-27f9-4349-9c34-dfc84c48fb45,way/1153921860,,,course,,,active,,,,,,,,,,AR,,US,35.6243144,-92.246435,2026-10-11T15:12:27Z
+59df8f87-7323-407b-b3a2-64fa76a7b478,way/452065461,,,course,,,active,,,,,,,,,,AR,,US,36.4084622,-90.5701893,2026-10-11T15:12:17Z
+5aa1f779-e4d2-4051-b159-c2b066900d11,way/501724835,Harrison Country Club,,course,,,active,,,,,,,,,,AR,,US,36.2697898,-93.1225329,2026-10-11T15:12:18Z
+5e535475-7e3e-4126-a1d4-e132bcf76580,way/465027211,Cedars Country Club,,course,,,active,,,,,,,,,,AR,,US,35.4528373,-94.3450553,2026-10-11T15:12:17Z
+5e5ab90f-6b57-4e16-be65-042594df025e,way/486823283,Rolling Hills Country Club,,course,,,active,18,72,,,,,,,,AR,,US,34.9323964,-91.9830005,2026-10-11T13:30:48Z
+5ef66b78-1e5b-4d8b-b21d-6210cbb18c68,way/296945603,Pine Valley Golf Course,,course,,,active,,,,,,,,,,AR,,US,34.9107855,-92.2094077,2026-10-11T15:12:10Z
+60047259-156e-4f83-8f48-95f2d63fcab9,way/348066933,Jonesboro Country Club,,course,,,active,,,,,+1 870-932-2371,https://www.jcclub.com/,,1408 East Nettleton Avenue,Jonesboro,AR,72401,US,35.8320898,-90.6860537,2026-10-11T15:12:14Z
+623d719a-ce57-4bbe-a52d-fe96e5cdd40a,node/6397391316,Granada Golf Course,,course,,,active,,,,,,,,,,AR,,US,34.6497406,-92.8613987,2026-10-11T13:29:32Z
+625079eb-f722-4968-99f3-fa41c81ec4c2,way/1125429939,Magnolia Country Club,,course,,,active,18,,,,,,,1711 US-79,Magnolia,AR,71753,US,33.1939524,-93.2080517,2026-10-11T13:31:06Z
+63836cb8-6443-4021-a4c2-fb5c835ed898,way/262000527,Helena Country Club,,course,,,active,,,,,,,,,,AR,,US,34.5344061,-90.6327684,2026-10-11T13:30:12Z
+64f73242-cd6a-4019-aeb4-e995bcb5e396,relation/3869056,,,course,,,active,,,,,,,,,,AR,,US,36.2812769,-91.5941321,2026-10-11T15:12:35Z
+685569f2-457f-4276-b7f1-8d1fdb7594c3,way/889653505,Greystone Country Club,,course,,,active,18,72,,,,,,,,AR,,US,35.0205406,-92.0580915,2026-10-11T15:06:35Z
+68c4ef54-d921-4adf-afbc-6f32a752fc7c,relation/9510054,Pleasant Valley Country Club,,course,,,active,18,72,,,,,,1 Pleasant Valley Drive,Little Rock,AR,72212,US,34.7798801,-92.41173,2026-10-11T13:31:37Z
+6b8bd5ba-2f72-4eee-a6fb-0365ed288b83,way/1153925286,,,course,,,active,,,,,,,,,,AR,,US,35.6262177,-92.2459791,2026-10-11T13:31:09Z
+6d4de8b1-7950-42b4-9de2-08a8c136d47b,way/469484970,,,course,,,active,,,,,,,,,,AR,,US,35.5869546,-92.4459155,2026-10-11T15:12:17Z
+6de8af14-a7e3-46d8-aa5a-a08de99b3016,way/77018704,Rebsamen Golf Course,,course,,,active,18,72,,,+15016667965,https://www.rebsamengolf.com/,,3400 Rebsamen Park Road,Little Rock,AR,72202,US,34.7806003,-92.3197144,2026-10-11T15:11:55Z
+6ef0c033-fc25-4122-82e9-3dc5e2a73c42,way/342773722,Mystic Creek Golf Club,,course,,,active,18,72,,,+1 870-312-0723,https://mysticcreekgolf.com/,,191 Club House Drive,El Dorado,AR,71730,US,33.2255666,-92.7399291,2026-10-11T15:12:14Z
+6f2c3599-649a-4ed8-8c5a-6847855728c5,way/251437095,The Greens on Blossom Way,,course,,,active,9,,,,,,,,,AR,,US,36.292938,-94.1675291,2026-10-11T15:12:05Z
+70dcb5a8-969d-4c32-b7c0-30c356f60b0f,relation/3949164,Coronado Golf Course,,course,,,active,18,61,,,+1 501-922-2355,http://hsvpoa.org/golf/courses/coronado-golf-course/,,199 Surtidor Lane,Hot Springs Village,AR,71909,US,34.6431353,-92.9467323,2026-10-11T15:12:35Z
+715f0c9f-a796-4eec-9d19-efb8c14ceebd,way/1223913785,,,course,,,active,,,,,,,,,,AR,,US,34.8302343,-92.2895593,2026-10-11T15:06:38Z
+73cf1b96-62ea-483f-a787-a68904ebfbf2,way/1124908416,,,course,,,active,,,,,,,,,,AR,,US,35.2010535,-94.2278727,2026-10-11T15:12:24Z
+73f07545-d6a6-4d13-bbc7-b16f0749c015,way/143314431,Hardscrabble Country Club,,course,,,active,18,70,,,,,,,,AR,,US,35.3529185,-94.3795554,2026-10-11T15:12:00Z
+755a942a-50ee-47c7-a1e6-2ba4f8a3a9d1,way/642438117,The Links at Fort Smith Golf & Athetic Club,,course,,,active,,,,,,,,,,AR,,US,35.3221702,-94.3769281,2026-10-11T13:30:54Z
+7758f995-951c-4fc6-8f61-1d448928ef92,relation/16095912,Big Creek,,course,,,active,18,,,,,,,,,AR,,US,36.3183558,-92.4225613,2026-10-11T15:12:43Z
+7863a140-4589-41e0-b848-02fccba9e7b7,way/1360720041,,,course,,,active,,,,,,,,,,AR,,US,34.8930929,-92.0807906,2026-10-11T15:12:29Z
+7a008eb3-f818-44e0-b46d-77fc99f7e97a,relation/19981180,,,course,,,active,,,,,,,,,,AR,,US,34.6027117,-92.5209151,2026-10-11T15:12:45Z
+7a4ec9ec-a281-4070-9e7c-ab3233a9d448,way/684163803,Crowley's Ridge Country Club,,course,,,active,,,,,,,,,,AR,,US,35.2387809,-90.7286291,2026-10-11T13:30:54Z
+7b62405b-bb45-40a0-b87e-19f170e6f889,way/70658664,Conway Country Club,,course,,,active,18,,,,+1 501-513-3444,http://www.conwaycountryclub.com/,,555 Country Club Road,Conway,AR,72034,US,35.0888271,-92.4848174,2026-10-11T13:29:49Z
+7be7b152-0a6b-48b5-95f2-58aabd03c510,relation/3949162,Branchwood Disc Golf Course,,disc,,,active,,,,,+1 479-855-8181,https://bellavistapoa.com/golf/branchwood.asp,,,,AR,,US,36.4899228,-94.3497303,2026-10-11T15:12:35Z
+7bff373b-63a2-4bb3-b5e4-497d41bae621,way/1488079104,River Valley Golf Course,,course,,,active,,11,,,,,,,,AR,,US,35.4912674,-94.1514757,2026-10-11T15:12:29Z
+7d8e24b8-f1a6-45cb-a8c2-14ded5d3b100,relation/21100257,Brownstone Country Club & Resort,,course,,,active,18,,,,,,,,,AR,,US,35.1975068,-90.2051651,2026-10-11T15:12:45Z
+81365122-5761-46c8-986d-ce10cd22c576,relation/15596312,Turkey Mountain Golf Course,,course,,,active,18,73,,,,https://www.arkansas.com/horseshoe-bend/sports-recreation/turkey-mountain-golf-course,,3 Club Road,Horseshoe Bend,AR,72512,US,36.2274775,-91.7544698,2026-10-11T15:12:43Z
+8375b32b-7af1-4ee9-8cc5-584667b0470c,way/364211701,Holiday Island Executive Course,,course,,,active,9,,,,+1 479 253 9511,,,,,AR,,US,36.4904515,-93.7699334,2026-10-11T15:12:14Z
+893f8768-b9c3-410e-afc7-89fc3eee7803,way/318162401,The Country Club of Little Rock,,course,,,active,18,71,,,+1 501-664-1531,https://www.cclr1902.org/,,4200 Country Club Boulevard,Little Rock,AR,72207,US,34.7748869,-92.3214819,2026-10-11T15:12:12Z
+89b0c3ea-a8d4-45f0-82ed-5d2eaf493111,way/296944934,The Course at Eagle Mountain,,course,,,active,,,,,+1 870-612-8000,http://www.thecourseateaglemountain.com/,,800 Gap Road,Batesville,AR,72501,US,35.7443455,-91.5848599,2026-10-11T15:12:10Z
+8ab1bc1a-4cd7-4149-8f64-f36c19fca0a9,way/1001932782,Diamante Country Club,,course,,,active,18,72,,,,,,2000 Country Club Dr,Hot Springs Village,AR,71909,US,34.6425058,-92.872984,2026-10-11T13:31:06Z
+8ddde621-1ec1-485b-8d53-fc83631c066a,way/318162400,Burns Park Golf Course,,course,,,active,18,71,,,+1 501-758-5800,,,,,AR,,US,34.791724,-92.3062278,2026-10-11T15:12:12Z
+8deac2d7-6344-4d21-83e5-ffbb5667cf9d,way/1500311945,The Links at Jonesboro Golf & Athletic Club,,course,,,active,,,,,+1 870-932-2578,https://www.linksatjonesboro.apartments/custompage.aspx,,1424 Links Drive,Jonesboro,AR,72401,US,35.7941725,-90.6821576,2026-10-11T15:12:29Z
+9206ebd4-07a2-4da0-bee4-b1bd75c2c54c,way/323162232,The Course at River Oaks,,course,,,active,,,,,+1 501-279-4653,https://www.thecourseatriveroaks.com/,,1 Golf Course Drive,Searcy,AR,72143,US,35.2624432,-91.6989188,2026-10-11T15:12:12Z
+92120f97-8f78-46d2-a643-5d79e9c69f23,way/860284480,Lakeside Village Golf Course,,par3,,,active,9,27,,,,,,,,AR,,US,36.1011812,-94.1591145,2026-10-11T15:12:23Z
+94372040-4040-4212-b273-c116c4a286a3,way/1020479138,Millwood Country Club,,course,,,active,18,71,,,,,,,,AR,,US,33.7178689,-94.0118856,2026-10-11T13:31:06Z
+94613328-ae56-474a-9b8f-9828b3d72e33,way/296932145,Paradise Valley Golf and Athletic Club,,course,,,active,18,71,,,+1-479-521-5841,http://www.paradisegolfac.com/,,3728 North Old Missouri Road,Fayetteville,AR,72703,US,36.1166757,-94.1248789,2026-10-11T15:12:10Z
+95932638-8502-4c6d-b529-08b13ce0bc73,way/221200065,,,course,,,active,,,,,,,,,,AR,,US,35.6884938,-90.0142351,2026-10-11T15:06:16Z
+98538336-37fa-4c24-a673-70f15827eabc,way/889858723,Cypress Creek Golf Club,,course,,,active,18,72,,,,,,,,AR,,US,35.0277148,-92.0316423,2026-10-11T15:12:23Z
+99085cb7-745f-49ed-82ac-3b75659f0948,relation/5190325,Sage Meadows Country Club,,course,,,active,18,72,,,+1 870-932-4420,https://www.sagemeadows.com/,,4406 Clubhouse Drive,Jonesboro,AR,72401,US,35.8877422,-90.6391133,2026-10-11T13:31:32Z
+9bbba82a-fb5f-4eef-9702-07ea54a6960d,relation/3949168,Highlands Golf Course,,course,,,active,,61,,,+1 479-855-8150,https://bellavistapoa.com/golf/highlands.asp,,1 Pamona Drive,Bella Vista,AR,72715,US,36.4767449,-94.368164,2026-10-11T15:12:35Z
+9cf92e66-d5b6-46b5-b919-290dc149a876,way/392799738,,,course,,,active,,,,,,,,,,AR,,US,36.3952652,-90.1977643,2026-10-11T15:12:15Z
+9fa7f569-e074-40e0-96f7-59797a5b6279,way/592149662,Prescott Country Club,,course,,,active,,,,,,,,,,AR,,US,33.8208506,-93.3783208,2026-10-11T15:12:20Z
+a0cf3a13-d6ea-4254-a012-515808034d7f,relation/3373910,Balboa Golf Course,,course,,,active,18,72,,,+1 501-922-1504,http://hsvpoa.org/golf/courses/balboa-golf-course/,,111 Balboa Way,Hot Springs Village,AR,71909,US,34.6337478,-92.935034,2026-10-11T15:12:33Z
+a79cbf05-5a7d-4fe7-a7cd-4a98f198863e,relation/3949167,Granada Golf Course,,course,,,active,18,,,,+1 501-922-3095,http://hsvpoa.org/golf/courses/granada-golf-course/,,250 Maderas Drive,Hot Springs Village,AR,71909,US,34.6493507,-92.8568973,2026-10-11T15:12:35Z
+a84a4c58-15d5-4202-b9e0-a0def0148fa9,way/726595178,The Creeks,,course,,,active,18,71,,,,,,,,AR,,US,36.2461294,-94.2431621,2026-10-11T15:12:21Z
+aab13a94-8fda-4e68-8341-22cfba8b58d9,relation/9392523,Big Sugar Golf Club,,course,,,active,18,72,,,+1 479 451 9550,https://www.bigsugargolf.com/,,1101 Sugar Creek Road,Pea Ridge,AR,72751,US,36.4227517,-94.1037751,2026-10-11T15:12:38Z
+ab88df2d-6c85-46dd-a4a2-1ccd5953808b,way/1196068565,The Alotian Club,,course,,,active,18,72,,,,,,101 Alotian Drive,Roland,AR,,US,34.8583028,-92.5767872,2026-10-11T15:12:27Z
+adec6fc4-3647-4142-ba12-144c9c7ec6dd,way/470450870,,,course,,,active,,,,,,,,,,AR,,US,34.1502449,-93.0904124,2026-10-11T15:12:17Z
+aea3b194-40c2-4adf-99c6-f1cf61ccba90,way/450685998,Camden Country Club,,course,,,active,18,71,,,,,,1915 West Washington,Camden,AR,,US,33.5826741,-92.8738441,2026-10-11T15:12:17Z
+afabe500-46cd-4ab2-9c99-54a731804256,way/1220117263,,,course,,,active,,31,,,,,,,,AR,,US,36.3473412,-92.3530621,2026-10-11T15:12:27Z
+b07c077b-e065-4fc4-8330-93d9ba5517c7,way/1192974731,,,course,,,active,,,,,,,,,,AR,,US,34.6330947,-92.3721769,2026-10-11T15:12:27Z
+b2d9377f-fc00-4d65-a60d-fc6cbcef4ba9,way/1153925285,,,course,,,active,,,,,,,,,,AR,,US,35.6231624,-92.2510922,2026-10-11T15:12:27Z
+b4544417-afc5-4bab-a5c4-2bab277977f7,relation/5188887,RidgePointe Country Club,,course,,,active,18,,,,+1 870-931-5000,https://ridgepointecountryclub.com/,,2510 Ridgepointe Drive,Jonesboro,AR,72404,US,35.8101037,-90.772893,2026-10-11T15:12:36Z
+b4a9f49d-7451-43eb-94ac-11b91fa081f3,relation/6677178,Blessings Golf Club,,course,,,active,18,72,,,,,,,,AR,,US,36.1311037,-94.1928667,2026-10-11T13:31:37Z
+b726c470-e768-4648-bda5-f09a8613ec93,way/296932148,Siloam Springs Country Club,,course,,,active,,,,,,,,801 North Country Club Road,Siloam Springs,AR,72761,US,36.1934703,-94.5203972,2026-10-11T15:12:10Z
+b7525f0b-651f-49e4-aa6c-f9a558352c23,node/5420318132,Disc Golf Course,,disc,,,active,,,,,,,,,,AR,,US,33.5915736,-91.8169271,2026-10-11T15:05:59Z
+b91208dd-4867-4f3a-b0e8-3ff7cf656328,relation/9382373,Brittany,,course,,,active,9,,,,+1 479 855 8160,https://bellavistapoa.com/thingstodo/golf/#brittany,,1 Euston Road,Bella Vista,AR,72714,US,36.4564633,-94.1963321,2026-10-11T15:06:49Z
+b93eab2f-e88a-4ea0-ab17-47801805ce7b,relation/2800269,Golf Course at the Links,,course,,,active,,,,,,,,,,AR,,US,33.475267,-94.0395127,2026-10-11T15:12:33Z
+bac70360-684c-4423-98f0-18f79bf428d5,relation/8734559,Lonoke Golf Course,,course,,,active,,,,,,,,,,AR,,US,34.7881796,-91.9236615,2026-10-11T15:12:38Z
+bcde63ce-e076-412b-827f-2489921d491e,way/624490267,Jaycee Golf Course,,course,,,active,,,,,,,,,,AR,,US,34.2417511,-92.0411936,2026-10-11T15:12:20Z
+c0b11a46-5400-40bd-9155-c682695b3fb0,way/286608873,Big Lake Country Club,,course,,,active,,,,,,,,,,AR,,US,35.8948106,-90.1709028,2026-10-11T15:12:07Z
+c1ebf1a3-4659-4fb7-a368-ace08d03b074,relation/3373894,Bella Vista Country Club Golf Course,,course,,,active,,,,,+1 479-855-8130,https://bellavistapoa.com/golf/countryclub.asp,,98 Clubhouse Drive,Bella Vista,AR,72714,US,36.4816663,-94.2584971,2026-10-11T15:12:33Z
+c2172e8f-70d6-4244-849c-7d9ad79304c4,way/450850874,Lake Village Country Club,,course,,,active,,,,,,,,,,AR,,US,33.360214,-91.2701134,2026-10-11T15:12:17Z
+c297b15b-e374-4fcd-a96a-c8daa58b0500,relation/3949171,Ponce de Leon Golf Course,,course,,,active,,,,,+1 501-922-4250,http://hsvpoa.org/golf/courses/ponce-de-leon-golf-course/,,300 Ponce de Leon Drive,Hot Springs Village,AR,71909,US,34.6522317,-92.8943313,2026-10-11T15:12:35Z
+c3a1fd3c-122f-4c9b-b618-a26443695b3b,way/487300495,Degray State Park Golf Course,,course,,,active,,,,,,,,2027 State Park Maintenance Road,Bismarck,AR,71929,US,34.2548125,-93.1456792,2026-10-11T15:12:17Z
+c418c95c-812e-42e8-b0a2-00bb5e009b2f,way/941108080,,,course,,,active,,,,,,,,,,AR,,US,35.0587558,-90.7640933,2026-10-11T15:06:35Z
+c7023565-3097-4439-80b0-0f014e549267,way/1153921856,,,course,,,active,,,,,,,,,,AR,,US,35.6174995,-92.2457293,2026-10-11T13:31:09Z
+c90dad7d-77c6-4007-b669-21bd8861aa37,way/889061134,Hickory Creek,,course,,,active,18,69,,,,,,8933 Arrington Road,Jacksonville,AR,72076,US,34.9487764,-92.1717494,2026-10-11T15:12:23Z
+c987d879-2758-42ed-9793-a26bc697d64b,way/323166187,Bald Knob Country Club,,course,,,active,,,,,,,,,,AR,,US,35.3153102,-91.5888642,2026-10-11T15:12:12Z
+cb423827-934b-44f9-9855-1570906afaee,relation/6693295,,,course,,,active,,,,,,,,,,AR,,US,34.5269303,-92.6554067,2026-10-11T15:12:38Z
+d01c169b-bbe8-4d53-a893-17e1f2ca3389,way/261997670,West Helena Municipal Golf Course,,course,,,active,,,,,,,,,,AR,,US,34.5785229,-90.6672723,2026-10-11T15:06:18Z
+d140af6c-c2b1-46fd-9620-1c05c9becdc0,way/961896921,Centennial Valley,,course,,,active,,8,,,,,,,,AR,,US,35.1058324,-92.5085162,2026-10-11T15:12:23Z
+d58433b3-c699-4bd6-b6bb-35592825ad7f,way/296932128,DeSoto Golf Course,,course,,,active,,,,,+1 501-922-0001,http://hsvpoa.org/golf/courses/desoto-golf-course/,,102 Clubhouse Drive,Hot Springs Village,AR,71909,US,34.6674388,-93.0449845,2026-10-11T13:30:27Z
+d6de2793-70dc-4146-be34-dde92ed7bc5b,way/623923110,,,course,,,active,,,,,,,,,,AR,,US,36.2519494,-94.1210158,2026-10-11T15:12:20Z
+db75e99d-1ec4-4b79-be5b-61253e698ce8,relation/3949169,Isabella Golf Course,,course,,,active,,36,,,+1 501-922-5505,http://hsvpoa.org/golf/courses/isabella-golf-course/,,110 Inciador Way,Hot Springs Village,AR,71909,US,34.6314889,-92.863996,2026-10-11T13:31:27Z
+dd0b548a-192e-44fe-9626-131a300cc809,relation/3373897,The Links at Bentonville,,course,,,active,,,,,,,,,,AR,,US,36.3496033,-94.1860022,2026-10-11T15:12:33Z
+e8950ebb-b8d1-4b16-b954-8b4e40dfa205,way/961896924,Centennial Valley,,course,,,active,,10,,,,,,,,AR,,US,35.1039704,-92.5166574,2026-10-11T15:12:23Z
+ed42ec38-ff49-460b-ab99-d8abd1198fb1,way/251436708,Kingswood Berksdale Golf Course,,course,,,active,,,,,+1-479-855-8123,https://bellavistapoa.com/golf/berksdale.asp,,4 Kingsdale Lane,Bella Vista,AR,72714,US,36.4598913,-94.2432591,2026-10-11T15:12:05Z
+ee6ae669-be75-4048-aa9b-d90b38f84e32,way/1153921859,,,course,,,active,,,,,,,,,,AR,,US,35.6216678,-92.249133,2026-10-11T15:12:27Z
+efbde8a7-6505-423f-8784-90a1c92aeddb,relation/5415208,Holiday Island Country Club,,course,,,active,18,,,,+1 479 253 9511,https://holidayisland.us/golf/,,1 Country Club Drive,Holiday Island,AR,72631,US,36.4632363,-93.7262935,2026-10-11T15:12:36Z
+f16bff0c-3ea1-47be-8387-04ee6a73cfc3,way/1187919907,Meadowbrook Country Club,,course,,,active,,,,,,,,,,AR,,US,35.1416314,-90.2106616,2026-10-11T15:12:27Z
+f383aed5-75e2-4392-a1ed-35d08353d0dc,way/961895654,Centennial Valley,,course,,,active,,23,,,,,,,,AR,,US,35.1044165,-92.5011674,2026-10-11T13:31:02Z
+f7136a85-2e73-466b-a0a8-7715e00f3941,relation/9585456,,,course,,,active,,,,,,,,,,AR,,US,36.066136,-91.8445314,2026-10-11T13:31:37Z
+f7acacc7-fc9f-46b1-ab3d-ebea97222687,relation/3949163,Chamberlyne Country Club,,course,,,active,,,,,+1-479-495-4110,https://chamberlynecountryclub.com/,,10614 Country Club Drive,Danville,AR,72833,US,35.1075685,-93.3655387,2026-10-11T15:12:35Z
+f837ccee-997c-4e25-9cb2-acad1170e90a,node/10774445922,,,course,,,active,,,,,,,,,,AR,,US,35.3394802,-93.1398891,2026-10-11T13:29:32Z
+f8410b01-8cf9-4695-a9d4-90da35a8b7bf,way/452104540,Paragould Country Club,,course,,,active,,,,,+1 870 239 8486,http://www.paragouldcc.com,,3300 Pruetts Chapel Road,Paragould,AR,72450,US,36.0345558,-90.5351424,2026-10-11T13:30:48Z
+f9c37991-d6e9-447c-8e9f-e644eb37560c,way/53105107,England Country Club,,course,,,active,,,,,,,,,,AR,,US,34.5400342,-92.0152166,2026-10-11T15:11:55Z
+fd10ed33-cc8a-4919-96eb-745f1696642b,way/450356127,Morrilton Country Club,,course,,,active,18,70,,,+1-501-354-0324,http://morriltoncountryclub.com/,,1000 Country Club Road,Morrilton,AR,72110,US,35.163652,-92.771973,2026-10-11T15:12:17Z

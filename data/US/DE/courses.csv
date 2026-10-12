@@ -1,0 +1,47 @@
+id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
+022965a6-f0c9-4416-8f7e-9ab14cd759be,way/533920565,Cripple Creek Golf & Country Club,,course,,,active,,,,,,,,,,DE,,US,38.5819021,-75.1394857,2026-10-11T15:12:18Z
+0b788973-cf2b-4238-a402-649e7d278f8b,way/190338798,,,course,,,active,,23,,,,,,,,DE,,US,39.6987534,-75.6743511,2026-10-11T15:12:01Z
+0e69c172-3115-45ee-aceb-0d5e3be6fcac,relation/14481049,,,course,,,active,,,,,,,,,,DE,,US,39.4683547,-75.7112602,2026-10-11T15:12:41Z
+1868fed1-f4a6-4cbd-a196-fbbfb5fa3506,relation/1242620,,,course,,,active,,,,,,,,,,DE,,US,39.7588899,-75.5818163,2026-10-11T15:12:30Z
+18eb75e3-45da-4433-b697-f079e97d5a21,way/82787084,Ed Oliver Golf Club,,course,,,active,,,,,+1 302-571-9041,https://www.edolivergolfclub.com/,,800 North Dupont Road,Wilmington,DE,19807,US,39.7588899,-75.5818163,2026-10-11T15:11:55Z
+295977c6-ef01-40a0-9362-f9f531f53045,way/82859927,DuPont Championship Course,,course,,,active,,67,,,+1 302-421-1753,https://www.dupontcountryclub.com/Golf,,,,DE,,US,39.7900175,-75.5594717,2026-10-11T15:11:55Z
+39c4ada5-392a-4ab3-a0ab-512efb52013e,way/83887610,Montchanin Course,,course,,,active,,,,,+1 302-421-1753,https://www.dupontcountryclub.com/Golf,,,,DE,,US,39.7829348,-75.5657549,2026-10-11T15:11:55Z
+3a7f0aa9-5817-4f36-bd26-57e548e8ced0,relation/1925127,Rehoboth Beach Country Club,,course,,,active,18,73,,,+1 302-227-3811,https://www.rehobothbeachcc.com/,,221 West Side Drive,Rehoboth Beach,DE,19971,US,38.6936902,-75.1127349,2026-10-11T15:12:30Z
+4906dba0-c253-4659-a5d9-cc5c66f1a995,relation/3962732,The Salt Pond Golf Club,,course,,,active,,,,,+1 302-539-7525,https://www.saltpondgolf.com/,,400 Bethany Loop,Bethany Beach,DE,19930,US,38.5494838,-75.0776437,2026-10-11T15:06:45Z
+497e7d88-3250-4e47-95c5-c80522b291af,way/297943904,Baywood Greens Golf Course,,course,,,active,18,,,,+1 302-947-9225,https://www.baywoodgreens.com/,,32267 Clubhouse Way,Long Neck,DE,19966,US,38.6417861,-75.1858446,2026-10-11T13:30:27Z
+53b6a5bc-91f4-4ac3-9b79-e603f7d164ad,way/223634986,Delcastle Golf Course,,course,,,active,,,,,,https://www.delcastlegc.com/,,,,DE,,US,39.7452171,-75.6661318,2026-10-11T15:12:03Z
+54e356a9-2439-411b-9845-8aa0b24ba1f2,way/81343588,Newark Country Club,,course,,,active,,,,,,,,,,DE,,US,39.6891124,-75.7686636,2026-10-11T13:29:49Z
+55ae3811-c17d-43f6-80e1-a6102fb3e28e,way/108680140,Rock Manor Golf Course,,course,,,active,,,,,,,,,,DE,,US,39.7728233,-75.5368154,2026-10-11T15:11:57Z
+563c91e0-eb71-4888-84ee-3e1098d174d3,relation/7296419,Bear Trap Dunes Golf Course,,course,,,active,,,,,+1 302-537-5600,https://www.beartrapdunes.com/,,7 Clubhouse Drive,Ocean View,DE,19970,US,38.5309618,-75.1057123,2026-10-11T13:31:37Z
+5bf66363-34f2-4710-9386-2c004ff8cc7d,way/587576318,Jonathan's Landing Golf Course,,course,,,active,18,71,,,,https://www.jonathanslandinggolf.com/,,1309 Ponderosa Drive,Magnolia,DE,19962,US,39.0918173,-75.4748036,2026-10-11T15:12:20Z
+612e9848-639b-4d2f-85ff-9a81d5d2ca4e,way/305769876,Eagle Creek Golf Course,,course,,,active,,,,,,,,,,DE,,US,39.1148573,-75.4766235,2026-10-11T15:12:12Z
+6135030d-f238-42e8-91b4-78ed21d52e53,way/609806480,Deerfield,,course,,,active,18,70,,,,,,507 Thompson Station Road,Newark,DE,19711,US,39.7195809,-75.7510941,2026-10-11T15:12:20Z
+760e124e-5d7a-4fb0-9409-b5c5a46f4d94,way/690968169,Brandywine Country Club,,course,,,active,,,,,,,,,,DE,,US,39.8163199,-75.5408807,2026-10-11T15:12:21Z
+77ea850d-9fdb-44c5-8138-6efd406d1293,way/253872841,The Rookery Golf Course,,course,,,active,,,,,,,,,,DE,,US,38.8024452,-75.263667,2026-10-11T15:12:05Z
+7a358e98-577d-42bc-a843-29bf8cbb8c9e,way/548829549,Mulligans Pointe,,course,,,active,,,,,,,,,,DE,,US,38.6617048,-75.3536104,2026-10-11T15:12:18Z
+86f5d997-822d-4551-93ee-b56f49b18feb,relation/3962728,Garrison Lake Golf Course,,course,,,active,18,72,,,+1 302-659-1206,https://garrisonslakegolf.com/,,101 West Fairways Circle,Smyrna,DE,19977,US,39.254399,-75.5953367,2026-10-11T15:12:35Z
+87335f14-4237-4aae-9b71-be67b3745d67,way/297943908,Bidermann Golf Course,,course,,private,active,18,,,,+1 302-655-3333,https://www.vicmead.com/,,601 Adams Dam Road,Wilmington,DE,19807,US,39.8148225,-75.5994685,2026-10-11T13:30:27Z
+88744bbb-f28b-47a3-a193-d6e08c4a85d1,way/679265890,American Classic Golf Club,,course,,,active,,,,,,,,18485 Bethpage Drive,Lewes,DE,19958,US,38.7362836,-75.1477275,2026-10-11T13:30:54Z
+8ed541e3-fc35-43a1-8591-6048390357cd,relation/3962727,Bethany Bay Golf Club,,par3,,,active,9,,,,+1 302-539-3833,https://www.bethany-bay.com/pages/golf.html,,,Ocean View,DE,19970,US,38.5708832,-75.1036837,2026-10-11T15:06:45Z
+9658f731-1eae-48ac-b95d-28c47415ec6a,way/803739797,Dover Par 3 & Driving Range,,par3,,,active,,,,,,,,,,DE,,US,39.1504039,-75.5860707,2026-10-11T15:06:33Z
+98cf1636-bcd9-4315-9561-57682739f55a,way/190337927,White Clay Creek Country Club,,course,,,active,,45,,,+1 302-994-6700,http://www.whiteclaycreekcc.com,,777 Delaware Park Boulevard,Wilmington,DE,19804,US,39.7055869,-75.6589111,2026-10-11T13:30:03Z
+9a44d11b-f29e-4bb5-a4df-55f9d9173948,way/297943918,Hooper's Landing Golf Course,,course,,,active,,,,,+1 302-629-2890,https://www.hooperslanding.com/,,1019 West Locust Street,Seaford,DE,19973,US,38.6380671,-75.6272241,2026-10-11T13:30:27Z
+a4db64cb-187c-4752-b901-49f26c103ffd,way/553161768,Heritage Shores Club,,course,,,active,18,72,,,+1 302-337-9926,https://www.heritageshores.com/golf,,1 Heritage Shores Circle,Bridgeville,DE,19933,US,38.7207611,-75.5992591,2026-10-11T15:12:18Z
+aefcf1ad-8ff3-4cab-8af2-fb4243b37477,relation/3962731,The Peninsula Golf and County Club,,course,,,active,,,,,+1 302-945-4768,http://www.peninsula-delaware.com/golf,,32981 Peninsula Esplanade,Millsboro,DE,19966,US,38.6126457,-75.1667982,2026-10-11T15:12:35Z
+af5d40d3-2bb8-43c9-94e5-f1aa01d80b74,way/800851873,Maple Dale Country Club,,course,,,active,18,72,,,,,,,,DE,,US,39.1749372,-75.5694193,2026-10-11T15:12:21Z
+b21f13b9-e065-45f0-870c-084d94270752,node/6965418014,,,course,,,active,,,,,,,,,,DE,,US,39.50065,-75.7596166,2026-10-11T13:29:32Z
+b9fda845-2888-4886-a2c4-a2c599b9f48b,way/1536053529,,,course,,,active,,,,,,,,,,DE,,US,39.6630962,-75.7196382,2026-10-11T15:12:30Z
+bd5bc083-35b4-4d78-a55a-e755aeccd611,way/1539335665,St. Anne's Golf Links,,course,,,active,,,,,,https://thestannesclub.com/,,1100 St Annes Blvd,Middletown,DE,19709,US,39.4166491,-75.72729,2026-10-11T15:12:30Z
+becb9327-95f9-4eba-b0c7-db0ffe9bc201,way/520728236,Stenger's Shamrock Farms Par 3,,par3,,,active,18,54,,,+1-302-684-1808,https://www.shamrockpar3golf.com/,,22222 Saw Mill Road,Milton,DE,19968,US,38.7813529,-75.3667478,2026-10-11T15:06:30Z
+c09afea7-2a7f-4af4-9eef-ae77b5f1f40e,node/5612442466,Jonathans Landing Golf Club,,course,,,active,,,,,,,,1309 Ponderosa Drive,Magnolia,DE,19962,US,39.0926164,-75.4734492,2026-10-11T13:29:32Z
+cffaf298-f4be-412b-a2be-06768f8e8467,relation/3962733,Wild Quail Golf and Country Club,,course,,,active,18,72,,,+1 302-697-4660,http://www.wildquail.net/,,,,DE,,US,39.1200948,-75.618458,2026-10-11T15:12:35Z
+d1cc3abe-1ec4-4455-ab72-61c8512e46ed,way/297943960,Wilmington Country Club,,course,,,active,,67,,,+1 302-655-6171,https://wilmingtoncc.com/,,4825 Kennett Pike,Wilmington,DE,19807,US,39.7953351,-75.5984328,2026-10-11T15:12:10Z
+d2825ab7-33ba-4f7a-a02e-6a7ba90e3ecc,way/505656427,American Classic Golf Club,,course,,,active,9,32,,,,,,,,DE,,US,38.7349413,-75.1449927,2026-10-11T15:12:18Z
+dda18203-1981-4862-8603-4179e5a5378c,way/82858936,Montchanin Course,,course,,,active,,4,,,+1 302-421-1753,https://www.dupontcountryclub.com/Golf,,,,DE,,US,39.7928821,-75.5674537,2026-10-11T15:06:07Z
+e232d0e1-ea5a-4dd4-b721-2d02a32272a5,way/469228746,Midway Par 3,,par3,,,active,18,54,,,+1 302-645-7955,,,34578 Pinnacle Road,Lewes,DE,19958,US,38.7454204,-75.1459341,2026-10-11T15:12:17Z
+e728bb44-ecc0-4d1f-8d8f-f2bc248f22d4,way/190338809,,,course,,,active,,4,,,,,,,,DE,,US,39.6991681,-75.6664069,2026-10-11T13:30:03Z
+e96f6360-4b8a-470b-89c2-c9edbe971430,way/526525475,Hooper's Landing Golf Course,,course,,,active,,,,,,,,1019 Locust St,Seaford,DE,19973,US,38.6320486,-75.6338463,2026-10-11T15:12:18Z
+ec9ff492-1edb-42aa-952e-7442d057de90,way/297943915,Fieldstone Golf Club,,course,,,active,18,71,,,+1 302-658-2600,https://www.fieldstonegolf.com/,,1000 Dean Road,Greenville,DE,19807,US,39.7982443,-75.6371399,2026-10-11T15:12:10Z
+f72da4ae-1721-4a17-a263-da47701a3c17,way/340950616,The Rookery North Course,,course,,,active,18,70,,,+1 302-422-7010,https://www.rookerygolf.com/,,6152 South Rehoboth Boulevard,Milford,DE,19963,US,38.8980019,-75.4093281,2026-10-11T15:12:14Z
+fa4f8c85-48b8-436c-a446-0b3dc1e09de5,relation/3962730,Kings Creek Country Club,,course,,,active,,,,,+1 302-227-7172,https://www.kingscreekcountryclub.com/,,1 Kings Creek Circle,Rehoboth Beach,DE,19971,US,38.7071823,-75.1217909,2026-10-11T15:06:45Z
+fdd1b26b-61c7-4848-b24e-82d6591fdd29,way/515819515,Plantation Lakes Golf Course,,course,,,active,18,72,,,,,,,,DE,,US,38.590057,-75.3206301,2026-10-11T13:30:51Z

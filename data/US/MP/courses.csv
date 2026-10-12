@@ -1,0 +1,7 @@
+id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
+2cc2aedc-72c7-4307-8e62-5063d80fac3d,way/257204522,Kingfisher Golf Links,,course,,,active,18,74,,,,,,,,MP,,US,15.2211527,145.7833352,2026-10-11T15:12:05Z
+342d5d50-6f7f-47c5-88ef-db86b8ad85af,way/311254049,,,course,,,active,,,,,,,,,,MP,,US,15.1137618,145.70076,2026-10-11T15:12:12Z
+66a262e7-552d-49e3-9f45-a16e25b77cf2,way/345608590,Rota Country Club,,course,,,active,,,,,,,,,,MP,,US,14.1873747,145.2212514,2026-10-11T13:30:39Z
+a5367267-9cc4-465e-8a75-da8acac6b82e,way/257200534,Laolao Bay Golf & Resort,,course,,,active,,,,,,,,,,MP,,US,15.1592913,145.7761378,2026-10-11T15:12:05Z
+b28f416c-2d39-4b85-99b4-cfb4c3be6647,way/365765799,,,course,,,active,,,,,,,,,,MP,,US,15.1698081,145.7182743,2026-10-11T15:12:14Z
+dd78ebed-e3f3-40d1-bb5b-d5522da5cb60,way/257204523,Marianas Country Club,,course,,,active,,,,,,,,,,MP,,US,15.2612182,145.7941063,2026-10-11T15:12:05Z

@@ -1,0 +1,15 @@
+id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
+0d2dbdb3-5b7f-44ba-9870-2a05eb9c502d,way/1391093367,Anderson Golf Course,,course,,,active,,,,,,,,,,GU,,US,13.5640557,144.933651,2026-10-11T13:31:14Z
+5269cefb-b9eb-485f-9c30-ad4b707d3f99,way/257193212,Onward Talofofo Golf Resort,,course,,,active,,,,,,,,,,GU,,US,13.3615621,144.7416674,2026-10-11T15:12:05Z
+67f2eebb-d1f8-4e62-95c9-c758e248e8aa,way/255501624,Onward Mangilao Golf Club,,course,,,active,18,72,,,,,,,,GU,,US,13.4640471,144.8425073,2026-10-11T15:12:05Z
+6a6eefcc-ed39-4b75-886c-af64ba8798aa,way/285882374,Orchid Course,,course,,,active,,,,,,,,,,GU,,US,13.4141332,144.7432917,2026-10-11T15:12:07Z
+9380d454-6842-4e15-a16f-d8752ed88215,way/88333108,Country Club of the Pacific,,course,,,active,,,,,,,,,,GU,,US,13.3747871,144.7653553,2026-10-11T15:11:55Z
+95bd22da-bb15-49cd-8a90-2c47dbfd7177,way/285882371,Hibiscus Course,,course,,,active,,,,,,,,,,GU,,US,13.4134465,144.7325808,2026-10-11T15:12:07Z
+9e827300-35a1-40cb-8a9e-c9ece727c77f,way/285882373,Plumera Course,,course,,,active,,,,,,,,,,GU,,US,13.407334,144.7418801,2026-10-11T15:12:07Z
+ac5995f0-71bc-44c0-88e9-fd3c9b5a1728,way/506030969,Windward Hilld Gold Course,,course,,,active,,,,,,,,,,GU,,US,13.3789025,144.7425307,2026-10-11T15:12:18Z
+b21284c3-125f-4cdb-a06d-ee6e54b5eca1,way/254986226,Admiral Nimitz Golf Course,,course,,,active,,,,,,,,,,GU,,US,13.4691,144.8228039,2026-10-11T15:12:05Z
+bb49be63-4e91-4097-8e80-ddb4fbac6ddb,way/31828290,Guam International Country Club,,course,,,active,,,,,,https://www.giccguam.com/,,,,GU,,US,13.5235915,144.8516183,2026-10-11T15:11:51Z
+bfec84eb-d5b4-406c-992a-e994e3a7c8e3,way/32743892,Starts,,course,,,active,,,,,,,,,,GU,,US,13.5759032,144.8655943,2026-10-11T15:11:51Z
+e3dba142-e54e-472c-a047-bee447c3bd8a,way/34951490,Leo Palace Golf Course,,course,,,active,,,,,,,,,,GU,,US,13.4090149,144.7381188,2026-10-11T15:11:51Z
+f3764cda-a36b-444e-a319-f8228872eae8,way/285882372,Bougainvillea Course,,course,,,active,,,,,,,,,,GU,,US,13.4077271,144.7353485,2026-10-11T15:12:07Z
+f8fe56ca-a693-461b-a449-d87ba0b3aca3,way/32142615,Tumon Golf Driving Range,,practice,,,active,,,,,,,,Tumon Golf Driving Range,Tamuning,GU,,US,13.5105232,144.8145374,2026-10-11T15:06:03Z

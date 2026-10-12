@@ -1,0 +1,123 @@
+id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
+019170c9-7b92-48be-b49b-cf51961401a0,way/480871041,,,course,,,active,,,,,,,,,,LA,,US,30.5398281,-89.9457099,2026-10-11T15:12:17Z
+02d82f68-b3a6-48a8-b013-82c4f3741a40,relation/4004096,Oak Harbor Golf Club,,course,,,active,18,72,,,+1-985-646-0110,https://www.oakharborgolf.com/,,201 Oak Harbor Boulevard,Slidell,LA,70448,US,30.2345219,-89.7802492,2026-10-11T15:12:35Z
+03592dd6-30d8-4bc6-8e10-f0f98b8b0eae,relation/4004097,Royal Golf Course,,course,,,active,,,,,,,,,,LA,,US,30.3327388,-89.832124,2026-10-11T15:12:35Z
+046eb032-b6c9-40a5-8ff7-12391e0aaa7c,way/301184095,New Orleans City Park North Course,,course,,,active,18,68,,,+1 504-483-9410,https://www.cityparkgolf.com/,,1051 Filmore Avenue,New Orleans,LA,70124,US,30.0146825,-90.0910444,2026-10-11T15:12:10Z
+048fbcb8-baec-4bbf-b4a2-c01791d7f028,way/300862098,David Toms 265,,course,,,active,,,,,+1 318-798-5437,http://www.davidtoms265.com/,,1111 Academy Drive,Shreveport,LA,71115,US,32.4144052,-93.7178597,2026-10-11T15:06:23Z
+058c0db5-f0ec-4c27-8e94-70ef8c4c8594,node/9056552195,Money Hill Golf & Country Club,,course,,,active,,,,,,,,,,LA,,US,30.5498261,-89.9548316,2026-10-11T13:29:32Z
+06f0a8be-10b5-4d28-9588-352e2b5d2bc7,way/300862114,Shreveport Country Club,,course,,,active,18,71,,,+1 318-631-1200,https://www.shreveportcountryclub.org/,,3101 Esplanade Avenue,Shreveport,LA,71109,US,32.4807091,-93.8071604,2026-10-11T15:12:10Z
+0977e651-7417-4175-bf2d-2f8dfd005f70,way/256100299,East Ridge Country Club,,course,,,active,,,,,+1 318-868-6571,https://www.eastridgecc.com/,,1000 Stewart Drive,Shreveport,LA,71106,US,32.4016967,-93.7282227,2026-10-11T13:30:12Z
+09a88a57-855c-4157-9248-f3862f9e0118,way/75849419,,,course,,,active,,,,,,,,,,LA,,US,29.5733785,-90.7234681,2026-10-11T15:06:07Z
+0bbe9047-c03c-476e-84b4-80b10b00cae5,way/1552646876,Belleview Golf Course,,course,,,active,,,,,,,,157 Belleview Lane,Franklin,LA,70538,US,29.8148914,-91.4503974,2026-10-11T15:12:30Z
+0eaca952-0002-483b-a9ce-79dd4bf8b0eb,way/489054210,Black Bear Golf Club,,course,,,active,18,73,,,+1 318 878 2162,http://crt.louisiana.gov/louisiana-state-parks/black-bear-golf-club/index,,253 Black Bear Drive,Delhi,LA,71232,US,32.5488765,-91.4853114,2026-10-11T15:12:17Z
+0ed0aab5-00bb-415d-baf8-d62b01903bc2,way/300927915,Hebert Municipal Golf Course,,course,,,active,18,72,,,+1 337-291-5557,https://www.hebertpark.com/,,1121 Mudd Avenue,Lafayette,LA,70501,US,30.2365822,-92.0045466,2026-10-11T13:30:27Z
+112b6632-9079-4601-9b6a-c0aafab978a2,way/187378006,Oakbourne Country Club,,course,,,active,18,72,,,,,,,,LA,,US,30.2195793,-91.9762424,2026-10-11T15:12:01Z
+11c6bd72-4712-4903-9e3f-d6c3a5a5b4d6,way/795467162,The Island Golf Course,,course,,,active,18,72,,,+1-225-685-0808,https://www.theislandgolf.com/,,23550 Myrtle Grove Road,Plaquemine,LA,70764,US,30.2837726,-91.2536417,2026-10-11T15:12:21Z
+11e2a61f-7d72-441b-a0a5-e347ba99a095,way/396217915,Coushatta Country Club,,course,,,active,,,,,,,,,,LA,,US,32.0254577,-93.3316231,2026-10-11T13:30:44Z
+141df1ab-6219-481b-8323-3b00d627e14e,relation/7191548,The Bluffs on Thompson Creek,,course,,,active,,,,,+1 225 634 6400,https://www.thebluffs.com/,,14233 Sunrise Way,Saint Francisville,LA,70775,US,30.8033093,-91.2479385,2026-10-11T15:12:38Z
+14e1eccc-d76c-476f-9205-d3a104ac7096,way/1552118933,Acadian Hills Country Club,,course,,,active,18,71,,,,,,,,LA,,US,30.2643322,-92.0249874,2026-10-11T13:31:18Z
+150fcd46-f042-461f-bb10-10f27902c174,relation/3999930,Northwood Hills Golf Club,,course,,,active,,,,,,,,,,LA,,US,32.6011245,-93.8731138,2026-10-11T15:12:35Z
+166b4f72-565f-4182-a696-c027687ff83d,way/301011339,West Side Golf Course,,course,,,active,,,,,+1 225-749-8832,https://westsidegolfclub.com/,,5351 Country Club Road,Brusly,LA,70719,US,30.3870195,-91.28209,2026-10-11T15:12:10Z
+186a2617-43a1-4837-85ae-094b0515b2d3,way/216602146,Lakewood Country Club,,course,,,active,18,72,,,+1 504-373-5926,https://www.lakewoodgolf.com/,,4801 General Degaulle Drive,New Orleans,LA,70131,US,29.9085641,-90.0048555,2026-10-11T15:06:16Z
+1a8e4480-12a6-42d8-be00-93356fb608d2,way/300883783,Chennault Park Golf Course,,course,,,active,,,,,+1 318-329-2454,http://www.ci.monroe.la.us/golf.php,,8475 Millhaven Road,Monroe,LA,71203,US,32.5131313,-92.0264911,2026-10-11T15:12:10Z
+1e41835d-5701-445b-8dd9-ce6132d007d2,node/5347458590,PInewood Golf and Country Club,,course,,,active,,,,,,,,405 Country Club Boulevard,Slidell,LA,70458,US,30.3089784,-89.7664248,2026-10-11T13:29:32Z
+1fe1e9a4-dfa7-4674-957a-b8179a608305,relation/12602699,Mallard Cove Golf Course,,course,,,active,,,,,,,,,,LA,,US,30.1729116,-93.1404246,2026-10-11T15:12:41Z
+1ff84369-acb3-43c8-a816-6aa56085c118,way/475709238,,,course,,,active,,,,,,,,,,LA,,US,30.8367469,-93.3273903,2026-10-11T15:12:17Z
+24e0fe3d-8f67-47cd-9e50-259328d22f76,way/681298794,Kosati Pines,,course,,,active,18,72,,,,,,300 Kosati Drive,Kinder,LA,70648,US,30.5598436,-92.8121511,2026-10-11T15:12:20Z
+25db705a-21e1-4b02-87d9-498466bb33da,way/300883790,Spring Bayou Golf Course,,course,,,active,,,,,,,,,,LA,,US,31.1356606,-92.0373458,2026-10-11T15:12:10Z
+26ba11f2-b83d-43bc-b424-f29e449533cc,way/51503447,Oak Wings Golf Club,,course,,,active,,,,,+1 318 561 0260,http://oakwinggolf.greensidegolfer.com/,,2345 Vandenburg Drive,Alexandria,LA,71303,US,31.3201286,-92.5282768,2026-10-11T15:11:53Z
+2810ee84-3c0e-4b5f-97c1-58b9d04783c4,way/1305139923,Bayou Desiard Country Club,,course,,,active,,,,,,,,3501 Forshythe Ave,Monroe,LA,71201,US,32.5506362,-92.0943696,2026-10-11T15:12:29Z
+2c20cdcc-575e-4207-b270-d314f78ea41a,relation/6481680,,,course,,,active,,,,,,,,,,LA,,US,30.4291198,-90.1327458,2026-10-11T15:12:36Z
+2d1b33ea-9e70-46b0-b182-88bb4b337621,way/1544561438,Pinewood,,course,,,active,18,74,,,,,,Country Club Boulevard,Slidell,LA,,US,30.3067979,-89.761568,2026-10-11T15:12:30Z
+3258480c-0bbe-4381-8889-f7401bc83710,way/1469241786,Links on the Bayou,,course,,,active,18,70,,,,https://linksonthebayougolf.com/,,271 Vandenburg Drive,Alexandria,LA,71303,US,31.3061922,-92.539034,2026-10-11T15:12:29Z
+32f2daec-62e0-45d2-a435-c873d64bc877,way/216738151,Bayou Barriere Golf Course,,course,,,active,,,,,+1 504-394-9500,http://www.bayoubarriere.com/,,7427 Highway 23,Belle Chasse,LA,70037,US,29.8760881,-90.0023536,2026-10-11T15:06:16Z
+330bbedc-f562-4a15-8254-de65fe2b2214,way/1009373439,Squire Creek Country Club,,course,,,active,18,72,,,,,,289 Squire Creek Parkway,Choudrant,LA,71227,US,32.573662,-92.5091188,2026-10-11T15:12:24Z
+347eb25d-d1d5-4068-94c6-68f967ed1909,way/1011010638,Southern Trace Country Club,,course,,,active,,4,,,,,,200 Southern Trace Parkway,Shreveport,LA,71106,US,32.3398892,-93.7226139,2026-10-11T15:12:24Z
+395a4edc-b6d0-4655-92c4-a626e7699997,way/215115493,Colonial Golf Course,,course,,,active,,,,,,,,,,LA,,US,29.9318724,-90.2091787,2026-10-11T15:12:03Z
+39c82c05-38b0-4034-b161-190a6ee733db,relation/12603802,Contraband Bayou Golf Club at L'Auberge Du Lac,,course,,,active,18,71,,,+1 337-395-7220,https://www.llakecharles.com/amenities/golf-course/,,777 Avenue L'Auberge,Lake Charles,LA,70601,US,30.2036438,-93.2550183,2026-10-11T15:06:51Z
+3c1bc744-a95f-41fc-9b9b-b2d5c6ebfcb1,node/7071780887,Le Triomphe Golf and Country Club,,course,,,active,,,,,,,,,,LA,,US,30.0933658,-91.9449704,2026-10-11T13:29:32Z
+3c895527-b6c2-426e-af89-362b0772286e,relation/12981782,Huntington Golf Course,,course,,,active,18,72,,,,,,8300 Pines Road,Shreveport,LA,71129,US,32.421251,-93.8612587,2026-10-11T15:12:41Z
+3dd6608a-25c3-4adc-82bf-8d8b1ec86627,way/357110483,,,course,,,active,,,,,,,,,,LA,,US,32.7966041,-91.9245204,2026-10-11T15:06:26Z
+3ea22088-5b57-4724-a4bf-fe56720b5d96,way/300927937,Wetlands Golf Course,,course,,,active,,68,,,+1 337-291-7151,https://wetlandsgc.com/,,2129 North University Avenue,Lafayette,LA,70507,US,30.2590442,-92.04868,2026-10-11T15:12:10Z
+41b738ee-465e-430c-98c5-e706c61a704a,way/27887431,Audubon Park Golf Course,,course,,,active,,,,,,,,,,LA,,US,29.9298094,-90.1272194,2026-10-11T15:11:49Z
+46341eee-4beb-4a98-8ade-4459788b83c0,way/681299610,Frenchmans Bend,,course,,,active,18,72,,,,,,1484 Fenchmans Bend Rd,Monroe,LA,71203,US,32.6385901,-92.0498298,2026-10-11T13:30:54Z
+46a2c879-9f87-4a2a-9675-e206bbc12e74,way/777784667,Lake D'Arbonne Country Club,,course,,,active,,,,,,,,,,LA,,US,32.7263113,-92.3419891,2026-10-11T15:12:21Z
+4adfd665-fdb6-4dcc-9a1b-12bcf28a777f,relation/4004095,Abita Springs Golf Club,,course,,,active,,,,,+1 985-893-2463,http://www.abitagolf.com/,,73433 Oliver Street,Abita Springs,LA,70420,US,30.5001822,-89.9529725,2026-10-11T15:12:35Z
+4d4b7750-79a7-41b8-8b97-dc0ce9b40e79,relation/14450127,Grand Ridge Golf Club,,course,,,active,18,72,,,,,,,,LA,,US,29.8947034,-90.3389034,2026-10-11T15:06:51Z
+4fa7fa04-f4e4-44a2-87fa-ea0035343b28,way/1354261484,Le Triomphe Golf & Country Club,,course,,,active,18,72,,,,,,,,LA,,US,30.0916214,-91.9476897,2026-10-11T15:12:29Z
+51739463-0558-45d6-9e85-ddd2079463d5,way/493383526,Cypress Lakes Country Club,,course,,,active,,,,,,,,10 Villere Drive,Destrehan,LA,70047,US,29.9771698,-90.3691078,2026-10-11T15:12:17Z
+51a9e011-6e80-40cc-afb8-6cb023cb4bea,way/1080170419,Ellendale Country Club,,course,,,active,18,72,,,+1-985-876-4394,https://ellendalecountryclub.net/,,3319 Hwy 311,Houma,LA,70360,US,29.6335603,-90.8037226,2026-10-11T15:12:24Z
+5410ea24-9363-4d6f-ab1b-0e2efb15f174,way/191107850,Northwestern Hills Golf Course,,course,,,active,,,,,+1 318-357-6300,https://reccomplex.nsula.edu/golf-course/,,6604 Highway 1,Natchitoches,LA,71457,US,31.7388508,-93.1157439,2026-10-11T15:12:01Z
+5b6c5fcc-53f4-49c4-afdb-4ad76951981b,way/470889975,Putt Putt Golf,,mini,,,active,,,,,,,,,,LA,,US,30.164608,-93.2126392,2026-10-11T15:12:17Z
+5dce096a-c74c-4bca-9b59-f9f97fb5303e,relation/12602672,The National Golf Club,,course,,,active,18,77,,,,,,1400 National Drive,Westlake,LA,,US,30.2743351,-93.2666731,2026-10-11T15:12:41Z
+611fe206-2820-4add-8409-1f0146daf86d,way/300927930,Les Vieux Chenes Municipal Golf Course,,course,,,active,18,72,,,+1 337-837-1159,https://www.lesvieuxchenesgolfcourse.com/,,340 Rue Des Vieux Chenes,Youngsville,LA,70592,US,30.1385402,-91.9980463,2026-10-11T13:30:27Z
+612c5614-26e3-4c2c-94b4-c81305bcb08a,relation/4002697,Carter Plantation,,course,,,active,,,,,+1 225-294-7555,https://www.carterplantation.com/,,23475 Carter Trace,Springfield,LA,70462,US,30.4136738,-90.5740294,2026-10-11T15:12:35Z
+65d2fa71-577a-434f-9fb0-474f34344063,way/238524522,Riverland Country Club,,course,,,active,,,,,,https://www.riverlandscountryclub.com,,500 Fairway Drive,La Place,LA,70068,US,30.0887112,-90.4849993,2026-10-11T15:12:03Z
+6f49d382-428f-4cb9-bc7c-b537eb5ecdf8,way/1107281831,J.S. Clark Golf Course,,course,,,active,,,,,,https://golf.brec.org/courses/jsclark/,,2301 Thomas Road,Baton Rouge,LA,70807,US,30.5609666,-91.1694464,2026-10-11T13:31:06Z
+746ec856-c95b-4a7e-85b1-c18d21400ad7,way/300883792,Ville Platte Golf and Country Club,,course,,,active,,,,,,,,,,LA,,US,30.7701604,-92.2793091,2026-10-11T15:12:10Z
+76027702-58fa-4a3b-9e2a-d92ba2b12564,way/300988683,The Atchafalaya at Idlewild,,course,,,active,18,71,,,+1-985-395-4653,https://www.atchafalayagolf.com/,,400 Cotton Road,Patterson,LA,70392,US,29.6660082,-91.2959805,2026-10-11T15:06:23Z
+7700e91f-7f36-4d71-91f3-c553dd893a93,way/486639583,Forsythe Park Golf Course,,course,,,active,,,,,+1-318-329-2458,https://monroela.us/visitors/parks-recreation/forsythe-golf-course,,2401 Sycamore Street,Monroe,LA,71201,US,32.5247392,-92.1284672,2026-10-11T15:12:17Z
+7882ce69-fa94-4900-8fe7-68117a3349b4,way/231560345,,,course,,,active,18,72,,,,,,,,LA,,US,29.6871138,-90.534758,2026-10-11T15:12:03Z
+7a75aa0b-7622-48cf-bc16-895bb3c72302,relation/7201231,Stonebridge Golf Club of New Orleans,,course,,,active,,,,,+1 504 394 1300,https://www.stonebridgegolfofno.com/,,1500 Stonebridge Drive,Gretna,LA,70056,US,29.8537604,-90.0356423,2026-10-11T15:12:38Z
+7c723553-41bc-43c6-b6f4-accaba8971d3,way/301011299,Hammond Golf Center,,course,,,active,,,,,+1 985-542-7908,https://www.hammondgolfcenter.com/,,15592 Club Deluxe Road,Hammond,LA,70403,US,30.4737164,-90.4632943,2026-10-11T15:12:10Z
+7d8497ed-c4ef-4232-9e0e-12f1a556587b,relation/4002698,Santa Maria Golf Course,,course,,,active,18,72,,,+1 225-752-9667,http://www.brec.org/index.cfm/park/detail/155,,18460 Santa Maria Parkway,Baton Rouge,LA,70817,US,30.3414516,-91.0065599,2026-10-11T15:12:35Z
+811bce3d-8f5a-474f-98a0-f8e90f7bc8cf,way/1510501674,Prison View Golf Course,,course,,,active,,,,,,,,,,LA,,US,30.9573303,-91.5720082,2026-10-11T15:12:29Z
+86b6244c-717f-4099-8baa-5c6cb9a060d9,way/300988667,Colonial Acres Golf Course,,course,,,active,,,,,,,,,,LA,,US,29.6260214,-90.7394482,2026-10-11T13:30:27Z
+874cff8b-7c63-49bf-8bbb-3cc8c65e7874,relation/4001247,Cane Row Golf and Turf Club,,course,,,active,18,,,,+1 337-367-0863,https://www.squirrel-run.com/,,500 Darby Lane,New Iberia,LA,70560,US,30.0346632,-91.832395,2026-10-11T15:12:35Z
+89544a6e-ab8d-42eb-b456-6be334c436ad,relation/13285520,,,course,,,active,,68,,,,,,,,LA,,US,32.3389727,-93.7218991,2026-10-11T15:12:41Z
+8a119ad9-ea16-444e-96e9-7197f6746a78,way/654152846,,,course,,,active,,,,,,,,,,LA,,US,32.1729186,-91.6762819,2026-10-11T15:12:20Z
+8b3d663c-2990-4ec6-87c0-fa5b82521629,way/30035262,New Orleans Country Club,,course,,,active,,,,,,,,,,LA,,US,29.9773646,-90.1176749,2026-10-11T15:11:49Z
+8c17e3c8-8c0d-4394-8f37-7a938fb6eff2,relation/3999929,Olde Oaks Golf Course,,course,,,active,,,,,+1 318-742-0333,https://www.oldeoaksgolfclub.com/,,60 Golf Club Drive,Haughton,LA,71037,US,32.4414057,-93.5740938,2026-10-11T15:12:35Z
+8cadbb60-0b1b-419c-b0a5-f01844b4620e,way/662484908,Fenwood Hills Golf Course,,course,,,active,,,,,,,,,,LA,,US,30.6664683,-91.1861032,2026-10-11T15:06:32Z
+8e49fb4b-706b-45a7-ba29-545c39558aa5,relation/4002375,Pelican Point Golf and Country Club,,course,,,active,,,,,+1 225-746-9900,https://www.golfthepoint.com/,,6300 Championship Court,Gonzales,LA,70737,US,30.1607909,-90.9308535,2026-10-11T15:12:35Z
+93cfde87-5dd4-4363-89b3-0fb8fb23d0c0,way/496143171,Webb Park Golf Course,,course,,,active,18,72,,,,,,,,LA,,US,30.4344522,-91.136943,2026-10-11T15:12:17Z
+945ba2b1-4c7c-456e-8520-3417212e70fa,way/73973718,Bayou Country Club,,course,,,active,,,,,,,,,,LA,,US,29.7773456,-90.7945988,2026-10-11T13:29:49Z
+94f3c024-5b77-4531-a0a2-277379aaa6a1,way/796273971,,,course,,,active,18,72,,,,,,,,LA,,US,30.4433529,-90.9326999,2026-10-11T15:12:21Z
+954882ec-dd1d-4d88-befa-53bac1462951,relation/2869380,Timberlane Country Club,,course,,,active,,,,,+1 504-367-5010,http://www.timberlanecc.com/,,1 Timberlane Drive,Gretna,LA,70056,US,29.8799518,-90.04084,2026-10-11T15:12:33Z
+9766fb9c-cd1d-4170-b27d-f841a0237269,node/6201932589,Fennwood Hills Country Club,,course,,,active,,,,,,,,6003 Fennwood Drive,Zachary,LA,70791,US,30.6668571,-91.183623,2026-10-11T13:29:32Z
+9c0e6c18-a503-41bb-8e94-90fb6f45fa55,way/552523905,City Park Golf Course,,course,,,active,9,32,,,,,,1515 Dalrymple Drive,Baton Rouge,LA,70808,US,30.4314148,-91.1673843,2026-10-11T15:12:18Z
+9ebd421a-5412-44b9-bc5b-5051c9437174,way/293375460,Palmetto Country Club,,course,,,active,,,,,+1 318-965-2244,http://www.palmettocountryclub.com/,,4200 Palmetto Road,Benton,LA,71006,US,32.653398,-93.7224393,2026-10-11T15:06:21Z
+a05d8b0e-a05e-4ef0-b582-0e2360cb64e1,way/372118850,,,course,,,active,,,,,,,,,,LA,,US,32.9582758,-93.1274064,2026-10-11T15:12:14Z
+a1b0a520-6e04-4867-bd6b-75c951dde094,way/553398436,,,par3,,,active,9,27,,,,,,,,LA,,US,31.2891951,-92.4564375,2026-10-11T15:12:18Z
+a27c1c3d-e682-4e8b-974a-71d76d576170,way/551296744,Pine Hills Gold Course,,course,,,active,,,,,,,,Pine Hills Drive,Minden,LA,71055,US,32.6253081,-93.2621862,2026-10-11T15:12:18Z
+a63208c9-1a12-4473-a232-c8d0f740c1c7,relation/4000424,Southern Pines Golf Club - Calvert Crossing,,course,,,active,,,,,+1-318-397 0064,http://sopinesgolf.com/calvert,,515 Hodge Watson Road,Calhoun,LA,71225,US,32.5445792,-92.2951509,2026-10-11T15:12:35Z
+aa0fe8db-75da-4eac-9db2-9bd1369819fe,way/615065539,Jerry Brooks Golf Course,,course,,,active,,,,,,,,,,LA,,US,32.5055105,-93.7776726,2026-10-11T15:12:20Z
+ac317ee2-532d-4558-90cb-e99142905075,way/300886644,Mallard Cove Golf Course,,course,,,active,,,,,+1 337-491-1204,https://www.cityoflakecharles.com/department/?fDD=10-0,,4300 Mallard Cove Golf Course,Lake Charles,LA,70602,US,30.2073154,-93.1560453,2026-10-11T15:12:10Z
+ac60e16f-87be-4947-b764-25f0b3278e6d,way/300927928,Jennings Golf Course,,course,,,active,18,73,,,,,,,,LA,,US,30.216125,-92.6408321,2026-10-11T15:12:10Z
+ae457f12-8500-4a6a-a806-cf362e902a31,way/1107183362,Woody Dumas Memorial Golf Course,,course,,,active,,,,,,https://golf.brec.org/courses/dumas-memorial-2/,,,,LA,,US,30.5694612,-91.1693511,2026-10-11T13:31:06Z
+b658425d-bea2-498b-9ee8-c5083da387fb,way/1032438865,CAM2 Golf Club at Springview,,course,,,active,,,,,,https://cam2gc.com/,,17233 Country Club Road,Roseland,LA,70456,US,30.7844708,-90.4393783,2026-10-11T15:12:24Z
+b7b009ce-3ec0-441c-90a9-110a478e0665,way/1037433301,,,course,,,active,,,,,,,,,,LA,,US,30.4001037,-91.1840111,2026-10-11T15:06:36Z
+ba8c01dc-f088-42dc-9866-662991880458,relation/4260277,Tournament Players Club of Louisiana,,course,,,active,18,72,,,,,,,,LA,,US,29.8993981,-90.1932858,2026-10-11T15:12:36Z
+bb88aabe-8087-4e53-a129-165670feaf13,way/493745501,The Country Club at Golden Nugget,,course,,,active,,,,,+1-337-508-4653,https://www.goldennugget.com/lake-charles/amenities/golf/,,,,LA,,US,30.2009031,-93.2668239,2026-10-11T15:12:17Z
+bc61512e-da70-41ec-8df5-ce2eb2d34417,way/972356362,,,course,,,active,9,36,,,,,,,,LA,,US,32.3542607,-91.2039816,2026-10-11T15:06:36Z
+bcce82f2-b8cb-44cf-9adf-dbb25736d700,way/610649034,Belle Terre Country Club,,course,,,active,,,,,,https://www.belleterregolf.com/,,111 Fairway Dr,La Place,LA,70068,US,30.0942101,-90.4946017,2026-10-11T15:12:20Z
+bec5fc7f-7586-4c17-9d8a-9a477da84082,way/1174457136,City Park Golf Course,,course,,,active,18,72,,,,,,,,LA,,US,30.0058631,-90.0922347,2026-10-11T15:12:27Z
+c25d1a31-ca3b-47a2-8cbf-377cc85df3bb,way/366029890,Oaak Knoll Country Club,,course,,,active,18,72,,,,,,,,LA,,US,30.5204883,-90.4024748,2026-10-11T15:12:14Z
+c3ff10a2-d70f-4759-b356-e165a58f3705,way/1448036697,Hole In One Driving Range,,practice,,,active,,,,,,,,,,LA,,US,32.532072,-92.6714951,2026-10-11T15:12:29Z
+c5156ef2-532d-4201-a125-a37ad9dac937,way/475940015,,,course,,,active,,,,,,,,,,LA,,US,30.2505947,-93.1594256,2026-10-11T15:12:17Z
+c6757664-db53-4fc0-ac74-6c257574b12e,way/1084154318,,,course,,,active,,,,,,,,,,LA,,US,32.9598257,-93.458916,2026-10-11T15:12:24Z
+cc9a1ae8-89bd-4886-ae35-31b061ae7499,way/216732458,Metairie Country Club,,course,,,active,,69,,,,https://www.metairiecc.org/,,580 Woodvine Avenue,Metairie,LA,70005,US,29.9771652,-90.1327134,2026-10-11T13:30:07Z
+ce19b778-4070-4c56-8345-b9684f5410d1,way/300862099,Bomber Bayou Golf Course,,course,,,active,,,,,+1 318-456-2263,http://www.barksdaleservices.com/index.php?src=gendocs&ref=Golf&category=Recreati,,180 Bossier Road,Barksdale Air Force Base,LA,71110,US,32.5002098,-93.6877695,2026-10-11T13:30:27Z
+ce50c6e0-e211-4730-87ba-c01254acce42,way/301184092,Fashion Golf Course,,course,,,active,,,,,,,,,,LA,,US,29.9599587,-90.4127458,2026-10-11T15:12:10Z
+cebdf7e8-ce3b-4aea-86a5-7a98257199c3,way/300883787,Red Oaks Golf Club,,course,,,active,,,,,,,,,,LA,,US,30.5788351,-92.0376494,2026-10-11T15:12:10Z
+cf2917da-62e9-48cd-92dd-a37f26f47ef6,way/480532558,,,course,,,active,,,,,,,,,,LA,,US,30.1712978,-93.2793905,2026-10-11T15:06:29Z
+cf512a86-0cc5-423c-b580-a668444d013d,way/833702222,,,course,,,active,,,,,,,,,,LA,,US,32.4696065,-91.8055791,2026-10-11T13:31:02Z
+d03f3c1d-188c-4f4e-a021-861be805d24f,way/589356482,,,course,,,active,,,,,,,,,,LA,,US,32.7789583,-93.061604,2026-10-11T15:12:20Z
+d2d75e83-c16e-4598-96ed-f884a4126820,way/300862112,Querbes Golf Course,,course,,,active,18,,,,+1-318-673-7773,https://spargolf.org/querbes-park-golf-course/,,3500 Beverly Place,Shreveport,LA,71104,US,32.4728029,-93.7300448,2026-10-11T15:12:10Z
+d4c36730-a8de-40f9-a448-50d97c9bc328,way/444991530,Eagle Ridge Golf Club,,course,,,active,18,71,,,,,,,,LA,,US,30.0828439,-91.8940364,2026-10-11T15:12:15Z
+d57341f0-4031-467b-a4e6-e5c29eb20b12,relation/4004852,Chateau Golf & Country Club,,course,,,active,,,,,+1 504-467-1351,https://chateaugcc.com/,,3600 Chateau Boulevard,Kenner,LA,70065,US,30.0276686,-90.2548505,2026-10-11T15:12:35Z
+d7cbea16-f17e-4833-a95e-0a6d013c4d3f,way/833365361,,,course,,,active,,,,,,,,,,LA,,US,32.5307342,-92.9534602,2026-10-11T13:31:02Z
+d8f55053-e49e-48a8-81f7-f1e1f96a0140,way/300988662,Bayou Side Golf Course,,course,,,active,,,,,,,,,,LA,,US,29.9608383,-91.0325892,2026-10-11T15:12:10Z
+d9495010-5072-43d0-9578-3cf6dce40d81,node/4824052249,Copper Mill Golf Course,,course,,,active,,,,,,,,,,LA,,US,30.6405533,-91.1835664,2026-10-11T13:29:32Z
+d9e1f214-d951-450e-818e-aa65bd817546,way/488790206,Warrior Hills Golf Course,,course,,,active,,,,,+1 337 531 1982,https://polk.armymwr.com/us/polk/programs/warrior-hills-golf-course,,1321 Corps Road,Fort Polk,LA,71459,US,31.054139,-93.2147789,2026-10-11T15:12:17Z
+df331b49-ef97-49b0-b601-2c23b01edc15,way/489697607,,,course,,,active,,,,,,,,,,LA,,US,30.7855901,-89.8480675,2026-10-11T13:30:48Z
+e197b614-eaf8-4a40-8930-c32ef65ffcdf,way/681496942,English Turn,,course,,,active,18,72,,,,,,1 Clubhouse Drive,New Orleans,LA,70131,US,29.9054087,-89.9513419,2026-10-11T15:12:20Z
+e4c431dc-bc03-4d86-bde2-28db937eaf9e,way/495754927,,,course,,,active,18,72,,,,,,,,LA,,US,30.4240037,-91.0942959,2026-10-11T15:06:29Z
+e5bd4f4d-e19c-425e-9696-d8b7e4534c39,way/833365362,,,course,,,active,,,,,,,,,,LA,,US,32.5334342,-92.9502207,2026-10-11T15:12:23Z
+e9ba9efc-c3a7-4c50-ae69-7cd80374bf17,way/300927911,Bayou Bend Golf Course,,course,,,active,18,71,,,,,,,,LA,,US,30.1957429,-92.3788378,2026-10-11T15:12:10Z
+ea8c7fcb-e3be-4391-8f0e-bc3af109a9d1,way/300886635,Frasch Golf Course,,course,,,active,,,,,+1 337-527-2515,https://www.sulphurparks.com/frasch-golf-course,,400 Picard Road,Sulphur,LA,70663,US,30.2310314,-93.3892642,2026-10-11T15:12:10Z
+eea5a85d-0cb7-404c-b8b9-6e6bacfb9a70,way/401783484,Southern Oaks Country Club,,course,,,active,18,72,,,,,,10924 Veterans Memorial Drive,Abbeville,LA,70510,US,29.9893184,-92.1543737,2026-10-11T15:12:15Z
+ef05cd13-4a68-4657-bbbf-6e324ab2089a,way/473617111,LaSalle Golf & Country Club,,course,,,active,,,,,+1 318 992 4283,https://lasallegolf.com/,,270 Country Club Road,Jena,LA,71342,US,31.6906604,-92.1856427,2026-10-11T15:12:17Z
+f24e9c4e-e60e-4397-8d68-8f9e44a33963,way/480532555,,,course,,,active,,,,,,,,,,LA,,US,30.1737187,-93.2714404,2026-10-11T15:12:17Z
+fc4a7136-4ad0-4239-807a-af8f207820a9,way/922779734,The Pines at North Park,,course,,,active,,,,,,,,,,LA,,US,30.4991583,-90.9256233,2026-10-11T13:31:02Z
+ff95caa4-b519-4e74-bea3-733a4eb639b2,relation/4000497,Gray Plantation Golf Course,,course,,,active,,,,,+1 337-562-1663,https://grayplantationgolf.com/,,6150 Graywood Parkway,Lake Charles,LA,70605,US,30.1442237,-93.2999932,2026-10-11T15:12:35Z

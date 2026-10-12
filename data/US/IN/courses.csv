@@ -1,0 +1,402 @@
+id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
+00f03888-332c-4906-828f-b9d07f7da8e7,way/283338601,Lafayette Country Club,,course,,,active,9,35,,,,,,,,IN,,US,40.4009297,-86.8886081,2026-10-11T15:12:07Z
+013de901-77a2-4efb-a6a6-84ab5f9e887e,way/303190961,Greenfield Country Club,,course,,,active,,,,,,,,,,IN,,US,39.7793688,-85.7504125,2026-10-11T15:12:12Z
+02671af3-c8d1-47ba-a2c2-ee312e462fb8,way/501445122,Lucas Oil Golf Course,,course,,,active,,27,,,,,,,,IN,,US,38.3332854,-86.4681357,2026-10-11T13:30:51Z
+02967c4d-a181-4977-9f89-22b7705b6ccc,way/556401005,Shadowood Golf Course,,course,,,active,9,36,,,,,,333 North Sandy Creek Drive,Seymour,IN,47274,US,38.9639914,-85.8510367,2026-10-11T15:12:18Z
+02df7424-bc0e-4378-b676-f67b24c8e38c,relation/19040259,,,course,,,active,18,72,,,,,,,,IN,,US,40.0148284,-86.1014763,2026-10-11T15:12:45Z
+03dea74e-9a7a-4f7d-b132-6c7a57cd6b26,way/156568041,Winding River Golf Course,,course,,,active,18,71,,,+1-317-856-7257,https://www.windingrivergc.com/,,8015 Mann Road,Indianapolis,IN,46221,US,39.6481893,-86.2452412,2026-10-11T15:12:00Z
+04f55644-4c36-48df-90ae-8cd338ac7a19,relation/16291731,South Bend Country Club,,course,,,active,,,,,,,,,,IN,,US,41.6843602,-86.3657443,2026-10-11T15:12:43Z
+06ec590f-7435-434e-8935-199a7c1ea3b5,way/845444690,Clover Meadows Golf Course,,course,,,active,,,,,,,,,,IN,,US,39.5039982,-86.8171723,2026-10-11T15:12:23Z
+078f11ca-a6d3-4e94-8179-faff80a1c2c4,way/458756793,Norwood Golf Club,,course,,,active,,,,,,,,,,IN,,US,40.8900367,-85.5688621,2026-10-11T15:12:17Z
+07ee9657-ab46-4d8b-b8aa-4adc6185af15,way/1116061027,,,course,,,active,,,,,,,,,,IN,,US,41.3524547,-87.4250337,2026-10-11T15:12:24Z
+08c97d55-4913-4467-a20b-0eddee847e66,relation/6162506,,,course,,,active,,,,,,,,,,IN,,US,41.73254,-84.9882492,2026-10-11T15:12:36Z
+09310521-c7b1-49af-a8c0-af55fcc32a5d,relation/14112535,Valparaiso Country Club,,course,,,active,18,,,,,,,,,IN,,US,41.4984782,-87.0295944,2026-10-11T13:31:42Z
+0961a806-852b-4a05-b974-ef6166e1c0c5,way/89597464,Blackthorn Golf Club,,course,,,active,,,,,,,,,,IN,,US,41.721716,-86.3306223,2026-10-11T15:11:55Z
+09b3edb8-57e2-4709-bee5-d8a7e87f08a7,way/1381333847,,,course,,,active,,,,,,,,,,IN,,US,40.0148284,-86.1014763,2026-10-11T15:12:29Z
+09e732b1-ab04-4d98-b774-83e4f7c0b745,way/295505709,Oaktree Golf Course,,course,,,active,,36,,,+1-317-839-6205,http://www.oaktreegc.com/,,4712 East U.S. 40,Plainfield,IN,46168,US,39.692531,-86.4424966,2026-10-11T15:12:08Z
+0a0285b3-9b15-47ee-9924-762101d59064,relation/4252106,Blackford Golf Club,,course,,,active,,,,,,,,,,IN,,US,40.4451121,-85.3849344,2026-10-11T15:12:36Z
+0a44639b-9bb2-424f-8a50-e02f0f86a2e1,way/923407854,Orchard Ridge Country Club,,course,,,active,18,71,,,,,,4531 Lower Huntington Road,Fort Wayne,IN,46809,US,41.0127701,-85.1962956,2026-10-11T15:12:23Z
+0c935578-aa90-4555-8f6e-06ca9aec3f91,way/81946833,Foster Park Golf Course,,course,,,active,,,,,+1-260-427-6735,https://www.fostergolfcourse.com/,,3900 Old Mill Road,Fort Wayne,IN,46807,US,41.0435181,-85.1617703,2026-10-11T15:11:55Z
+0cbd8828-8e69-4a46-99f3-d60120875c6d,way/30970945,Colonial Oaks Golf Club,,course,,,active,,,,,+1-260-489-5121,http://www.colonialoaksgc.com/,,8218 Huguenard Road,Fort Wayne,IN,46818,US,41.1535999,-85.1870596,2026-10-11T15:11:49Z
+0ce12f4c-74b8-4a84-a801-2ca56a78214e,way/1198269697,Covered Bridge Golf Club,,course,,,active,18,72,,,+1-812-246-8880,https://www.cbcpgolf.com/,,12510 Covered Bridge Road,Sellersburg,IN,47172,US,38.4393111,-85.7958138,2026-10-11T15:12:27Z
+0cf4c926-4398-47ad-bf9b-dc6422a1fb87,way/396444102,Wyaloosing Creek,,course,,,active,18,,,,+1-812-591-4100,https://wyaloosingcreek.weebly.com/,,6869 S State Road 3,Greensburg,IN,47240,US,39.2382344,-85.5820728,2026-10-11T15:12:15Z
+0d14c3a3-9846-4d04-8b95-fc57dd0d4ff1,way/824286016,Lakeview Golf Course,,course,,,active,9,35,,,,,,15421 US Hwy 231,Loogootee,IN,47553,US,38.7201357,-86.9228412,2026-10-11T15:12:23Z
+0d755d55-adce-4ec5-a8ee-9c7f2c000abf,way/482575972,,,course,,,active,,,,,,,,,,IN,,US,39.6668401,-85.4119341,2026-10-11T15:12:17Z
+0dc94985-b129-4e87-bdba-d50c258f2a82,way/683987832,The Golf Club at Eagle Pointe,,course,,,active,9,36,,,,,,2250 East Pointe Road,Bloomington,IN,47401,US,39.0313077,-86.515949,2026-10-11T13:30:54Z
+0e39c88f-165f-43b1-ac3a-d30b9dcfee56,way/295399904,Meadow Valley Golf Club,,course,,,active,,,,,+1-574-825-3422,https://www.meadowvalleygc.com/,,57600 State Road 13,Middlebury,IN,46540,US,41.6583235,-85.6992219,2026-10-11T15:12:08Z
+0e871fd2-8f0d-455b-81f8-1e20d056dc9e,relation/4085270,The Legends Golf Club,,course,,,active,18,72,,,+1-317-736-8186,https://www.thelegendsgolfclub.com/,,2555 North Hurricane Road,Franklin,IN,46131,US,39.5080555,-86.0344662,2026-10-11T15:12:35Z
+0f2c58d2-d966-4780-a68e-bbad7d214a35,way/501445123,Lucas Oil Golf Course,,course,,,active,,,,,,,,,,IN,,US,38.3446257,-86.471432,2026-10-11T15:12:18Z
+0f6b4d16-965c-4215-b6ee-b1d351262b25,way/295447996,Parke County Golf Course,,course,,,active,,,,,,,,,,IN,,US,39.790992,-87.2394461,2026-10-11T15:12:08Z
+10606fba-27db-4205-8c85-a9abcd839efa,relation/4085209,Sycamore Hills Golf Club,,course,,,active,18,72,,,+1-260-625-4324,https://www.sycamorehillsgolfclub.com/,,11836 Covington Road,Fort Wayne,IN,46814,US,41.0666887,-85.2900006,2026-10-11T15:12:35Z
+1151364d-ed0a-4475-aa82-0a08193c1bdd,way/295597223,Cricket Ridge Golf Course,,course,,,active,,,,,+1-812-934-6348,https://cricketridge.com/,,22087 Pocket Road,Batesville,IN,47006,US,39.3270152,-85.1960076,2026-10-11T15:12:08Z
+11b4156d-5e46-4d13-9f25-e215ba7746c1,way/832019946,,,course,,,active,,28,,,,,,,,IN,,US,41.1541814,-85.4506506,2026-10-11T15:12:23Z
+12805571-33ba-45ed-9e57-733f4e007fc0,node/13466588724,Stick and Hack,,course,,,active,,,,,+1-317-779-1981,,,9003 Technology Lane,Fishers,IN,46038,US,39.962819,-86.0102797,2026-10-11T13:29:32Z
+128d64bf-5954-46a1-87c4-a323626d73c7,relation/16255040,Knollwood Country Club - West Course,,course,,,active,,,,,,,,,,IN,,US,41.7586785,-86.2002653,2026-10-11T15:12:43Z
+13a54e6d-9274-43cc-9ea0-dbb5d99d684b,way/724335667,,,course,,,active,,20,,,,,,,,IN,,US,39.1002105,-87.3852598,2026-10-11T15:12:21Z
+14a0d6e0-9e4d-4e6c-8667-e1248373c8a3,way/260422120,Long Beach Country Club,,course,,,active,18,72,,,,https://www.longbeachcc.org/,,,,IN,,US,41.7433303,-86.8460556,2026-10-11T13:30:12Z
+14b76404-0ae4-4671-8d24-2f920aa0043c,way/295549576,,,course,,private,active,,,,,,,,,,IN,,US,39.9313874,-86.1855064,2026-10-11T15:12:08Z
+15591855-9cff-447f-b6e4-69ab3f43622b,way/229132890,Highland Lake Golf Course,,course,,,active,,,,,+1-765-983-7287,https://www.richmondindiana.gov/Our_Government/Departments/Parks_and_Recreation/Sports/Highland_Lake_Golf_Course.htm,,1972 Highland Road,Richmond,IN,47374,US,39.877907,-84.8746424,2026-10-11T13:30:07Z
+15fcd29c-5a70-4296-ae05-64e14229297f,way/317695034,Horseshoe Bend Golf Course,,course,,,active,,,,,,,,,,IN,,US,39.7836207,-85.4378789,2026-10-11T13:30:33Z
+16293ac9-bab6-41b9-86be-5eda29acff02,way/911000670,Deer Track Golf,,course,,,active,18,72,,,,,,775 N CR 700 W,Frankfort,IN,,US,40.2976146,-86.6326101,2026-10-11T15:12:23Z
+1754d842-ef51-4033-a8a4-0d7f6e707bf0,way/295591615,Maple Creek Golf and Country Club,,course,,,active,18,72,,,+1-317-894-3837,https://www.maplecreekgc.com/,,10501 East 21st Street,Indianapolis,IN,46229,US,39.793403,-85.9775853,2026-10-11T15:12:08Z
+17878201-0196-4335-bcad-e2c13a39338d,relation/14511350,Cherry Valley Golf Course,,course,,,active,,,,,+1-812-945-2777,https://www.facebook.com/cherryvalleygolf3/,,600 Cherry Street,New Albany,IN,47150,US,38.2939264,-85.8402226,2026-10-11T15:06:51Z
+17abc0a6-e317-424b-8f3c-f8223f787038,way/295591601,Fox Prairie Golf Course,,course,,,active,,,,,+1-317-776-6357,http://www.foxprairie.com/,,8465 East 196th Street,Noblesville,IN,46060,US,40.0657458,-86.0266501,2026-10-11T15:12:08Z
+182a0df1-95fa-4c44-ad79-81e09bca2e85,way/617735276,Elks Country Club,,course,,,active,,,,,,,,120 Weston Avenue,Kendallville,IN,46755,US,41.4406148,-85.2776631,2026-10-11T15:12:20Z
+18e5c913-2b19-4765-99ef-d63ef8d37dc4,way/295505713,The Country Club of Indianapolis,,course,,,active,18,70,,,+1-317-291-9770,https://www.ccindianapolis.com/,,2801 Country Club Road,Indianapolis,IN,46234,US,39.8037472,-86.3030726,2026-10-11T15:06:21Z
+1917b620-99bc-4921-96f5-c37ae42b23f1,way/322265363,Zollner Golf Course,,course,,,active,18,,,,+1 260 665 4269,https://zollnergc.com/,,1215 Thunder Avenue,Angola,IN,46703,US,41.6296904,-85.0176831,2026-10-11T15:12:12Z
+19ba3b5d-74c5-4f53-abd8-849ed4ac1f7d,way/30990855,Coyote Creek Golf Club,,course,,,active,18,72,,,+1-260-483-3148,http://www.ccgconline.com/,,4935 Hillegas Road,Fort Wayne,IN,46818,US,41.1214319,-85.1972058,2026-10-11T15:11:49Z
+1a063f5a-0c2b-4a3f-9736-032b596a01eb,way/675452169,Chariot Run,,course,,,active,18,72,,,+1-812-578-3355,https://golfchariotrun.com/,,8191 Chariot Run Dr SE,Laconia,IN,47135,US,38.0771108,-86.0083428,2026-10-11T15:12:20Z
+1ab922e3-fd47-412a-9d92-d271fa0300ed,way/306786356,McArthur Golf Course,,course,,,active,,,,,,,,,,IN,,US,41.6420257,-87.4833357,2026-10-11T13:30:33Z
+1ac9b704-1340-44d1-9678-fadcc7785a80,way/440129753,,,course,,,active,18,71,,,,,,,,IN,,US,38.7045893,-85.4818146,2026-10-11T13:30:44Z
+1bac6f12-fffd-41a6-8393-0ffa157c54e5,relation/17136381,Walther's Golf Driving Range,,practice,,,active,,,,,,,,,,IN,,US,37.99867,-87.5719699,2026-10-11T15:12:43Z
+1c709806-f33b-44dc-8a07-50dc28e71285,way/677625371,,,course,,,active,,,,,,,,,,IN,,US,40.96001,-85.8937477,2026-10-11T13:30:54Z
+1df63067-02f6-4747-878a-08af09bdde05,way/846132182,,,course,,,active,,4,,,,,,,,IN,,US,40.4220333,-86.1630387,2026-10-11T15:06:35Z
+1e11c696-2955-46dd-8fdd-a9bb54d9f24d,way/452911791,Angel Hill GC,,course,,,active,,44,,,,,,,,IN,,US,40.4278998,-86.5973611,2026-10-11T15:12:17Z
+1e99dd36-dc04-4f98-942d-09ebab4a244c,relation/13880206,Old Oakland Golf Club,,course,,,active,,,,,+1-317-823-4791,https://www.oldoaklandgolfclub.com/,,11611 East 75th Street,Indianapolis,IN,46236,US,39.8833219,-85.965048,2026-10-11T15:12:41Z
+1f294461-dd63-4d2a-9c2e-72ebf51318dd,way/152635627,American Legion Golf Course,,course,,,active,,,,,,,,,,IN,,US,40.4587216,-86.1223915,2026-10-11T15:06:12Z
+1f75bd9e-8d7b-4dcf-819b-d778bd96cf20,relation/17846581,,,course,,,active,,,,,,,,,,IN,,US,38.1501435,-87.5377523,2026-10-11T15:12:45Z
+202e862c-0817-4d73-99e9-f0ab2e45d05e,way/60906084,Phil Harris Golf Course,,course,,,active,18,71,,,,https://www.cityoflinton.com/philharris/,,,,IN,,US,39.0344781,-87.1212116,2026-10-11T15:11:55Z
+20642272-c98d-4cfa-9cbd-adca94aedf62,way/670618911,Donald Ross Golf Club,,course,,,active,,,,,+1-260-745-7093,https://www.donaldrossgolfclub.com/,,7102 South Calhoun Street,Fort Wayne,IN,46807,US,41.0185338,-85.1366434,2026-10-11T15:12:20Z
+213909d9-d5bf-4039-ab83-f44bb387ac30,way/1081529942,,,course,,,active,18,,,,,,,,,IN,,US,40.11989,-86.0495747,2026-10-11T15:12:24Z
+217e9b9f-e78c-4ab4-8681-8208dde5ef23,way/487263330,Coyote Crossing Golf Club,,course,,,active,18,71,,,,,,,,IN,,US,40.4972464,-86.9014171,2026-10-11T15:12:17Z
+22bcc7b8-29b0-4fea-baa9-8c48c9b6f7a6,way/884650197,Logansport Country Club,,course,,,active,,,,,,,,,,IN,,US,40.7520564,-86.2728242,2026-10-11T15:12:23Z
+231b06a6-1746-4aec-91b1-8ab483527a3b,way/452911792,Angel Hill GC,,course,,,active,,27,,,,,,,,IN,,US,40.4328851,-86.5991432,2026-10-11T15:12:17Z
+2481ca49-baaf-422c-932f-9a87c65a447b,way/220634927,Rea Park Golf Course,,course,,,active,18,72,,,+1-812-232-0709,https://www.terrehaute.in.gov/departments/parks/parks-information/rea-park-golf-course.html,,3500 South 7th Street,Terre Haute,IN,,US,39.4232725,-87.4013092,2026-10-11T15:12:03Z
+252f117d-2b07-4c3d-96ff-97b159bc508e,way/295399908,South Shore Golf Club,,course,,,active,,64,,,+1-574-457-2832,http://www.golftheshore.com/,,10601 North State Road 13,Syracuse,IN,46567,US,41.3888561,-85.7066631,2026-10-11T15:12:08Z
+2630c693-bee6-4171-ab8e-88c55bc736b9,way/173800244,Turkey Creek Golf Course,,course,,,active,,,,,,,,,,IN,,US,41.4980573,-87.3498527,2026-10-11T13:30:03Z
+2683a2f1-1738-4a37-88e7-9a6a9ecd0be0,way/363163994,Elk Run Golf Club,,course,,,active,,,,,+1 812 283 9022,https://www.elkrungolfclub.com/,,1820 Charlestown Pike,Jeffersonville,IN,47130,US,38.31664,-85.7352397,2026-10-11T13:30:39Z
+2747ff83-5c51-41bb-8d07-8f3b438730e4,way/295597227,Hoosier Links Golf Club,,course,,,active,,,,,+1-812-654-2440,https://hoosierlinksgolf.com/,,488 Country Club Drive,Milan,IN,47031,US,39.1230354,-85.1172223,2026-10-11T15:12:08Z
+27d491e4-3142-40c2-8261-a61728e4d6f9,relation/17837073,,,course,,,active,18,71,,,,,,,,IN,,US,38.0748701,-87.5203459,2026-10-11T15:12:45Z
+27d7d5db-9185-4995-9306-fbce4c03c0fa,way/100946152,Mad Anthony III's Short Course,,par3,,,active,,,,,,,,,,IN,,US,41.0530191,-85.0987333,2026-10-11T15:11:55Z
+28348a89-1582-4670-858b-d3345a5e4b6e,relation/14407919,Tipton Municipal Golf Course,,course,,,active,,,,,,,,,,IN,,US,40.2722488,-86.0492981,2026-10-11T15:12:41Z
+28a1dcd5-4cc9-4607-be72-391a8d1ab6d0,way/1428905847,Cobblestone Golf Course,,course,,,active,18,72,,,,http://cobblestonegc.com/cobblestone,,,,IN,,US,41.4426081,-85.3184576,2026-10-11T15:12:29Z
+29be06fc-9c74-498c-80bc-a18a62c4cc2a,way/1443522777,Swan Lake Golf Courses,,course,,,active,,,,,+1 574-935-5680; +1 574-936-9798,https://www.swanlakeresort.com/,,5203 Plymouth Laporte Trail,Plymouth,IN,46563,US,41.3959462,-86.4271296,2026-10-11T13:31:14Z
+2a2b6e46-ad4f-4d64-a53c-2ea626d36174,way/295416990,Summertree Golf Club,,course,,,active,18,72,,,,,,,,IN,,US,41.4278347,-87.3063132,2026-10-11T15:12:08Z
+2a9a5665-bfb2-41f7-9213-c28885089875,way/295447994,Mark's Par 3,,par3,,,active,,,,,+1-812-877-1467,https://www.markspar3.com/,,2401 North Chamberlain Street,Terre Haute,IN,47805,US,39.4960727,-87.2906249,2026-10-11T15:12:08Z
+2b2ad8be-b354-4c68-a578-17789885c059,way/363345786,Meadowbrook Golf Course,,course,,,active,,,,,+1 765 644 9754,https://meadowbrookgolfcourse.com/,,3429 Madison Avenue,Anderson,IN,46013,US,40.0797292,-85.6997795,2026-10-11T15:12:14Z
+2cb2a3d9-d2f2-48bb-bafa-b568b9d1e699,way/439246638,Innsbrook Country Club,,course,,,active,,,,,,,,,,IN,,US,41.4947919,-87.3601871,2026-10-11T15:06:28Z
+2d1f29f7-387a-449b-beda-50907b24a0b2,way/295505704,Buffer Park Golf Course,,course,,,active,9,36,,,+1-317-241-5046,https://www.bufferpark.com/,,3825 Foltz Street,Indianapolis,IN,46221,US,39.7087337,-86.2232693,2026-10-11T15:06:21Z
+2df7621a-689d-49ea-a41f-9dd0360a8fa4,relation/13189156,,,course,,,active,18,,,,,,,,,IN,,US,40.5961627,-85.6624049,2026-10-11T15:06:51Z
+2dfa566f-0fc2-45f4-aa70-8c810f43ccff,way/1181399234,,,course,,,active,18,71,,,,,,,,IN,,US,41.3560353,-85.126761,2026-10-11T15:12:27Z
+2e0ea547-f87c-4f51-a42d-84437e9246c6,way/152792683,Bloomington Country Club,,course,,,active,18,72,,,+1-812-332-1116,https://www.bloomingtoncc.com/,,3000 South Rogers Street,Bloomington,IN,47403,US,39.1308458,-86.544043,2026-10-11T15:12:00Z
+2eea7b91-e05c-428e-8d0f-ed04f6b7ba06,way/556014457,Stonecrest,,course,,,active,,36,,,,,,,,IN,,US,38.9823075,-86.5812966,2026-10-11T15:06:30Z
+2f548b35-c37a-4c10-b778-755b10921aa9,way/482571822,Martinsville Golf Club,,course,,,active,,67,,,+1 765 342 4336,https://martinsvillegolfclub.com/,,1510 State Road 37 North,Martinsville,IN,46151,US,39.4521623,-86.3896554,2026-10-11T15:12:17Z
+313facc1-3e03-4a85-a5d4-56f4685361ca,way/295549596,Twin Lakes Golf Club,,course,,,active,18,,,,+1-317-872-3387,https://www.twinlakesgolfclub.com/,,3200 West 96th Street,Carmel,IN,46032,US,39.9322823,-86.2147796,2026-10-11T15:12:08Z
+32050769-ec37-4297-b50d-aec71d437254,way/683604835,Tippecanoe Lake Country Club,,course,,,active,18,70,,,,,,,,IN,,US,41.3433646,-85.7642088,2026-10-11T15:12:20Z
+32f266e7-8edd-4cd7-9519-4a0bb286110e,way/482887114,,,course,,,active,18,71,,,,,,,,IN,,US,40.6011395,-84.9473383,2026-10-11T15:12:17Z
+356317e8-bb10-4751-b176-9edc0ae72fcf,way/392545919,Sunrise Golf Course,,course,,,active,18,72,,,,http://www.madisonparks.com/p_sunrisegolfcourse.asp,,,,IN,,US,38.7660542,-85.380987,2026-10-11T15:12:15Z
+3687f646-33f8-43bc-8516-5e09196a57a5,way/620392020,,,course,,,active,,,,,,,,,,IN,,US,39.6079712,-86.0753131,2026-10-11T15:12:20Z
+3721dde1-5d1e-47b0-9289-8b657142a075,way/295399896,Crooked Lake Golf Club,,course,,,active,,,,,,,,,,IN,,US,41.2613896,-85.4874796,2026-10-11T13:30:20Z
+37e8b249-3884-469a-b86d-21816793d16a,relation/14671913,Tippecanoe Country Club,,course,,,active,18,72,,,+1 574 5839977,https://www.tippecanoecc.com,,,,IN,,US,40.802284,-86.7864454,2026-10-11T15:12:41Z
+387bfac1-97e2-4d25-8d91-ef2427eda773,way/666125508,,,course,,,active,,,,,,,,,,IN,,US,40.5134843,-87.2501113,2026-10-11T15:12:20Z
+3a5d1cdf-f14d-4713-8ce2-f5d535074888,way/30979242,Eel River Golf Course,,course,,,active,,,,,,,,,,IN,,US,41.1818629,-85.3146374,2026-10-11T15:06:00Z
+3c9b95fe-6554-4591-be53-845b617944fa,way/352365669,,,course,,,active,18,74,,,,,,,,IN,,US,40.7755583,-85.1835209,2026-10-11T15:12:14Z
+3cfc8e18-4d64-46d5-9e2f-4a4bafc6c201,way/295447990,Helfrich Golf Course,,course,,,active,,,,,+1-812-435-6075,,,1550 Mesker Park Drive,Evansville,IN,47712,US,37.9918613,-87.6075401,2026-10-11T15:12:08Z
+3d539645-98bf-4821-ace9-f669a4a57420,way/154531958,Pete Dye Course,,course,,,active,18,72,,,,,,,,IN,,US,38.5721249,-86.6351122,2026-10-11T15:12:00Z
+3e023977-0fc7-43f4-b860-5d99686715ce,way/121227347,Ulen Country Club,,course,,,active,,,,,+1-765-482-5310,https://www.ulencc.com/,,100 Country Club Drive,Lebanon,IN,46052,US,40.0665463,-86.4657893,2026-10-11T15:11:57Z
+4009f29f-4da1-451f-98cd-74cc65bec82b,relation/13530788,Plum Creek Golf Course,,course,,,active,18,72,,,+1-317-573-9900,https://www.plumcreekgolfclub.com/,,12401 Lynnwood Boulevard,Carmel,IN,46033,US,39.9715389,-86.0610193,2026-10-11T15:12:41Z
+405afae0-da0e-47f0-948d-8ff54e674220,relation/3928550,Idle Creek Golf Course,,course,,,active,18,71,,,+1-812-299-5353,https://www.idlecreek.com/golf-course/,,,,IN,,US,39.4020729,-87.3563961,2026-10-11T15:12:35Z
+408b1832-072b-446c-ac15-d35e2427db29,way/1053670658,Hulman Links Golf Course,,course,,,active,18,72,,,,,,990 Chamberlain St.,Terre Haute,IN,47803,US,39.4813535,-87.303278,2026-10-11T15:12:24Z
+40d876e4-109c-4ece-9136-62a50992a2a4,way/619274644,Arbor Trace Golf Club,,course,,,active,18,72,,,+1-765-662-8236,,,2500 East 550 North,Marion,IN,46952,US,40.6294515,-85.6282007,2026-10-11T15:12:20Z
+4166bb18-4155-4b11-ac9b-8dbdd47656a5,way/89597492,Warren Golf Course,,course,,,active,18,71,,,,,,,,IN,,US,41.7125682,-86.2262307,2026-10-11T13:29:49Z
+41af9fbc-80ab-401b-9ee1-618f508cb7d4,way/482571826,Foxcliff Golf Club,,course,,,active,18,72,,,+1 765 342 0409,http://www.foxcliffgc.com/,,1970 Maple Turn Road,Martinsville,IN,46151,US,39.4732748,-86.3931959,2026-10-11T13:30:48Z
+42ff8a42-e1c7-49ca-98ec-ee90bf91d5e6,way/363462843,Grandview Golf Course,,course,,,active,,,,,+1 765 648 6880,https://www.cityofanderson.com/670/Grandview-Golf-Course,,1907 Northshore Extended,Anderson,IN,46011,US,40.1136425,-85.7072496,2026-10-11T15:12:14Z
+4331e5be-ec74-41f3-ba5d-1a81611e917b,way/468465284,Country Oaks Golf Course,,course,,,active,18,72,,,,,,,,IN,,US,38.6594882,-87.0724763,2026-10-11T13:30:48Z
+433eea8f-647c-4776-ba53-5f926c6cdd03,way/38854078,Bowler's Country Club,,course,,,active,,,,,,,,,,IN,,US,41.6808755,-86.3528957,2026-10-11T13:29:39Z
+435d7130-1782-4346-a813-8245819f83d7,way/298809597,Juday Creek Golf Course,,course,,,active,,,,,+1-574-277-4653,https://www.judaycreek.com/,,14770 Lindy Drive,Granger,IN,46530,US,41.7159935,-86.155964,2026-10-11T15:12:10Z
+4369151a-1cc4-4a55-ac94-7b97e251d3c3,way/167623512,Beechwood Golf Course,,course,,,active,18,74,,,+1 219 362 2651,https://www.thebeechwoodgolfcourse.com/,,2222 Woodlawn Drive,La Porte,IN,46350,US,41.5956846,-86.699546,2026-10-11T13:30:03Z
+43e49c79-6826-4225-8346-14da1eee5a6a,way/831465549,,,course,,,active,,,,,,,,,,IN,,US,40.8254331,-85.4677602,2026-10-11T15:12:23Z
+44eba82c-0dc1-4369-a835-ca9a071cb7b3,way/34094289,Otter Creek Golf Course,,course,,,active,,4,,,,,,,,IN,,US,39.217524,-85.7980557,2026-10-11T15:11:51Z
+456fe0fb-0764-44c1-b1d5-45f26f31ae9a,way/633443389,Harrison Lake Country Club,,course,,,active,,,,,,,,,,IN,,US,39.1879793,-86.0177452,2026-10-11T15:12:20Z
+46155926-6222-41f2-8c77-674fb4e7b7a3,way/167001054,Pine Valley Country Club,,course,,,active,,11,,,+1-260-637-3145,https://www.pinevalleycc.com/,,10900 Pine Mills Road,Fort Wayne,IN,46845,US,41.1872099,-85.1227568,2026-10-11T15:12:01Z
+462bd292-3677-4c28-b951-51548a4c2b63,relation/15570452,,,course,,,active,18,72,,,,,,,,IN,,US,41.4425796,-87.1140058,2026-10-11T15:12:43Z
+471a38b4-4e05-462d-91ec-e070987e2587,way/158084248,South Grove Golf Course,,course,,,active,,59,,,+1-317-327-7350,https://southgrovegolf.com/,,1800 West 18th Street,Indianapolis,IN,46202,US,39.7958123,-86.1954947,2026-10-11T13:30:03Z
+47c6c52d-22fe-41ba-82ee-7749cf778b37,way/76603956,Pine Woods Golf Course,,course,,,active,,,,,,,,,,IN,,US,39.3023726,-86.8118165,2026-10-11T15:06:07Z
+48a87d41-b871-405f-b7e8-3cf3e69272d7,way/392616946,,,course,,,active,9,36,,,,,,,,IN,,US,39.4314844,-86.0023272,2026-10-11T15:12:15Z
+490001a9-3a6c-4576-b1ad-ad8444b8fb8b,way/620392027,,,practice,,,active,,,,,,,,,,IN,,US,39.6074121,-86.0755391,2026-10-11T15:06:32Z
+493f9534-1360-4cce-adf7-7a776b90aff8,way/283272784,The Ravines Golf Course,,course,,,active,,,,,,,,,,IN,,US,40.4138463,-87.067716,2026-10-11T15:12:07Z
+4a6a770e-8c4d-4497-b889-3b43c3c6d303,relation/3929224,Prestwick Country Club,,course,,,active,,,,,,,,,,IN,,US,39.751809,-86.4324204,2026-10-11T15:12:35Z
+4ad0401b-76a4-477e-989a-4953cf17b383,way/295416985,Mink Lake Golf Course,,course,,,active,,,,,,,,,,IN,,US,41.527612,-87.0388028,2026-10-11T15:12:08Z
+4bf24a43-9633-440a-a01b-57dc163e093f,way/177068705,Lost Marsh Golf Course,,course,,,active,18,72,,,,,,1001 129th Street,Hammond,IN,46320,US,41.6647327,-87.5010345,2026-10-11T15:12:01Z
+4d14525b-5870-4c06-a485-f89198f58460,relation/16138124,Michigan City Municipal Golf Course,,course,,,active,,,,,+1-219-873-1516,https://www.michigancitygolfcourse.com/,,4000 East Michigan Boulevard,Michigan City,IN,46360,US,41.707026,-86.8429658,2026-10-11T15:12:43Z
+4e3030f5-f443-41bf-8d2d-a90b02b4114f,way/776824135,West Lafayette Golf Club,,course,,,active,,,,,,,,,,IN,,US,40.4715513,-86.9666836,2026-10-11T15:12:21Z
+4f0de3b1-7485-4fa8-bed1-b22cba220b08,way/295549593,Smock Golf Course,,course,,,active,18,72,,,+1-317-888-0036,https://www.smockgolf.com/,,3910 East County Line Road,Indianapolis,IN,46237,US,39.6397417,-86.0965812,2026-10-11T15:12:08Z
+4f486cb6-55ee-44cf-99df-b518e5cbe837,way/295505715,West Chase Golf Club,,course,,,active,,,,,+1-317-892-2888,https://www.west-chasegolf.com/,,4 Hollaway Boulevard,Brownsburg,IN,46112,US,39.8648347,-86.4348526,2026-10-11T13:30:20Z
+4f55bff0-5c7c-407a-b287-d269082249e0,relation/16058291,Burke Golf Course,,course,,,active,9,,,,+1-574-631-4653,https://warrengolfcourse.com/,,,Notre Dame,IN,46556,US,41.6971925,-86.2473959,2026-10-11T15:12:43Z
+4fb42927-8054-4802-a5da-3d914f117e6f,way/295549601,Zionsville Golf Course,,course,,,active,9,37,,,+1-317-873-4218,https://www.zionsville-in.gov/town-services/parks/zionsville-golf-course/,,,,IN,,US,39.9589984,-86.2628107,2026-10-11T15:12:08Z
+4fe6eb75-8af6-485f-ae01-c261985ac384,way/82290263,Bear Chase Golf Club,,course,,,active,18,72,,,+1-317-392-9100,,,2660 N. Riley Highway,Shelbyville,IN,46176,US,39.56483,-85.7721738,2026-10-11T15:11:55Z
+5010fc9d-906e-458b-93f5-0f7d632e6692,way/304084427,Arrowhead Golf Course,,course,,,active,18,70,,,,,,,,IN,,US,39.8673156,-85.733372,2026-10-11T13:30:33Z
+507fa6e7-2e53-47a0-a9c9-b59caa47352f,way/237174207,Wicker Memorial Park Golf Course,,course,,,active,,,,,,,,,,IN,,US,41.5615689,-87.475995,2026-10-11T15:12:03Z
+5093c85d-218b-43e7-893a-d1266cf9d23b,way/539061563,Dye's Walk Country Club,,course,,,active,18,71,,,,,,,,IN,,US,39.5866957,-86.1639344,2026-10-11T15:12:18Z
+5157b05a-34ee-4b36-a66f-14987c828702,way/458771188,Cross Creek Golf Club,,course,,,active,,,,,,,,,,IN,,US,40.8407175,-84.9489851,2026-10-11T13:30:48Z
+51b5041b-0759-4541-85df-3d6a9174da22,way/1011347721,Golf Club of Indiana,,course,,,active,18,72,,,,,,,,IN,,US,39.9375505,-86.36712,2026-10-11T13:31:06Z
+544c3893-1056-460a-996e-d464607a9de4,way/306748756,,,course,,,active,,,,,,,,,,IN,,US,40.9312357,-86.5393749,2026-10-11T15:12:12Z
+54b33404-14d9-470a-80f7-41d0075866bb,relation/12189473,Victoria National Golf Club,,course,,,active,,63,,,,,,,,IN,,US,38.0011994,-87.3412601,2026-10-11T15:06:51Z
+562a0f40-5b9c-4f86-a771-167403f6a00a,relation/4085222,Duck Creek Golf Course,,course,,,active,,,,,+1-219-759-5870,https://duckcreekgolfcourse.com/,,638 North 700 West,Hobart,IN,46342,US,41.5270635,-87.206305,2026-10-11T13:31:27Z
+567fa40c-210e-4b87-be9a-f72db5536677,way/724335666,,,course,,,active,,15,,,,,,,,IN,,US,39.1033453,-87.3854561,2026-10-11T15:12:21Z
+56e964df-f407-4af5-8aa8-2d707d4537f9,way/673596639,Brookwood Golf Club,,course,,,active,18,72,,,,,,,,IN,,US,40.9947026,-85.1736868,2026-10-11T15:06:32Z
+572069e5-201c-4335-9f44-8bb9c22a5b59,relation/3930675,Gray Eagle Golf Club and Academy,,course,,,active,18,,,,+1-317-845-2900,https://grayeaglegolf.com/,,12500 Brooks School Road,Fishers,IN,46038,US,39.9662035,-85.9319311,2026-10-11T15:06:45Z
+5a7ca0cc-1a8d-4cdb-b2e9-0dc25cf3a7f7,relation/21436573,Pebble Brook Golf Club,,course,,,active,,,,,,,,,,IN,,US,40.0559557,-86.0802351,2026-10-11T15:12:45Z
+5bc9be98-3bf2-424b-8100-83c0c0b9b6e5,relation/17837072,Oak Meadow Country Club,,course,,,active,18,72,,,,,,,Evansville,IN,47725,US,38.0842614,-87.5258393,2026-10-11T15:12:45Z
+5cf7df22-e801-4550-a32c-6ca126cb160e,way/946465714,Cross Creek Golf Club,,course,,,active,,,,,,,,,,IN,,US,40.8482177,-84.9559512,2026-10-11T15:12:23Z
+5d86642a-84b6-41df-9048-017c50cf4f4a,way/819054954,Honeywell Golf Course,,course,,,active,18,71,,,,,,,,IN,,US,40.8278349,-85.8547748,2026-10-11T15:12:23Z
+5f6607cd-d534-4517-ab7b-16af90297e18,way/295505703,Bluff Creek Golf Course,,course,,,active,18,73,,,+1-317-422-4736,https://www.bluffcreekgolf.com/,,2710 South Old State Route 37,Greenwood,IN,46143,US,39.5791823,-86.2451934,2026-10-11T13:30:20Z
+5fed86eb-fba2-49b3-bd8d-73c450691933,way/363311090,Delaware Country Club,,course,,,active,,,,,+1 765 288 0238,https://www.delawarecc.com/,,510 South Country Club Road,Muncie,IN,47302,US,40.1879114,-85.3275869,2026-10-11T13:30:39Z
+610b5e8b-8936-4a5e-ad76-29062033fd6f,way/295591632,Pleasant Run Golf Club,,course,,,active,18,71,,,+1-317-357-0829,https://www.prssgolf.com/,,601 North Arlington Avenue,Indianapolis,IN,46219,US,39.7778522,-86.0593903,2026-10-11T15:12:08Z
+62048a7b-ff25-45af-845c-5bacc5b28963,way/295416987,Palmira Golf Club,,course,,,active,18,72,,,+1-219-365-4331,https://www.palmiragolf.com/,,12111 West 109th Street,Saint John,IN,46373,US,41.414264,-87.4840676,2026-10-11T15:12:08Z
+62fd0d6c-11b1-425f-a445-f5da58eb8b7f,way/846131269,,,course,,,active,,10,,,,,,,,IN,,US,40.4288879,-86.1587058,2026-10-11T13:31:02Z
+638af166-65c7-4d24-b78d-aec9dba6d851,way/1085375179,,,course,,,active,,69,,,,,,,,IN,,US,39.6460111,-85.1719906,2026-10-11T15:12:24Z
+639ed292-7574-4743-9bb6-a6484b8b4f55,way/173482821,Scherwood Golf,,course,,,active,18,71,,,+1-219-865-2554,https://www.scherwood.com/,,600 East Joliet Street,Schererville,IN,46375,US,41.4969706,-87.442017,2026-10-11T15:12:01Z
+646ce40e-d66c-4e86-8d62-54ff0f4478f7,way/642293525,Clifty Creek Golf Course,,course,,,active,,,,,,,,,,IN,,US,39.2378198,-85.7940347,2026-10-11T15:12:20Z
+65435d9f-a41a-4d17-852b-edf4430d7967,way/587913550,,,course,,,active,,,,,,,,,,IN,,US,39.6917955,-87.4282524,2026-10-11T15:12:20Z
+658929e3-d6f5-4113-b848-0e718f7d257c,way/1086487869,,,course,,,active,9,35,,,,,,,,IN,,US,41.2207017,-86.3915967,2026-10-11T15:06:36Z
+66497e88-4dd8-4a3c-8fb4-534853dd70a1,way/363341567,Fall Creek Golf Club,,course,,,active,,,,,+1 765 778 8071,https://fallspark.org/fall-creek-golf-club-pendleton,,250 Reformatory Road,Pendleton,IN,46064,US,39.9872377,-85.7566954,2026-10-11T15:12:14Z
+664af4f8-9421-4353-99ba-a7e86c3fd5ba,way/120089209,Southern Dunes Golf Course,,course,,,active,,,,,,,,8220 Tibbs Ave,,IN,,US,39.637694,-86.2120774,2026-10-11T15:11:57Z
+66789206-7950-4528-8e18-ace23f0d5abd,node/2898730434,Pines Course,,course,,,active,,,,,,,,,,IN,,US,39.8568269,-86.3256072,2026-10-11T13:29:32Z
+6741f978-c195-43a5-bfab-49e95cdf68c3,way/282069549,Greenbelt Golf Course,,course,,,active,9,36,,,,,,,,IN,,US,39.2122064,-85.8977681,2026-10-11T15:12:07Z
+68785726-aed4-487d-901d-a402900622a1,way/469525377,Purgatory Golf Club,,course,,,active,18,72,,,,,,,,IN,,US,40.1062874,-85.9516175,2026-10-11T15:12:17Z
+68c79069-e137-4c8d-aecf-5005dfe8251f,way/482121877,,,course,,,active,,,,,,,,,,IN,,US,38.7401649,-85.4081644,2026-10-11T15:12:17Z
+693c011b-ebfe-4b84-a08a-021250dc9213,way/296656092,Meridian Hills County Club,,course,,,active,,,,,+1-317-255-2496,https://www.meridianhillscc.org/,,7099 Spring Mill Road,Indianapolis,IN,46260,US,39.8806175,-86.161422,2026-10-11T15:12:10Z
+69825b84-1bcd-4fde-aabc-b445aecac7e5,way/295447986,Fendrich Golf Course,,course,,,active,,,,,+1-812-435-6070,https://www.fendrichgolfcourse.org/,,1900 Diamond Avenue,Evansville,IN,47711,US,38.0024755,-87.532714,2026-10-11T15:12:08Z
+69f9235c-3d10-4a2f-9490-c6a2274791fe,relation/16254931,Knollwood Country Club - East Course,,course,,,active,,,,,,,,,,IN,,US,41.7535956,-86.1782536,2026-10-11T15:12:43Z
+6a46e18b-5550-433a-9322-68c436949aca,way/540293449,Hidden Creek Golf Club,,course,,,active,,35,,,+1-812-246-2556,https://hiddencreekgolfclub.com/,,4975 Utica Sellersburg Road,Sellersburg,IN,47172,US,38.3661621,-85.7260427,2026-10-11T13:30:51Z
+6b193090-5395-4a4c-aa7e-e754f9c0a0b2,way/936388908,Battle Ground Golf Club LLC,,course,,,active,18,72,,,,,,5505 Pretty Prairie Road,BATTLE GROUND,IN,47920,US,40.5244855,-86.8013422,2026-10-11T15:12:23Z
+6b34734f-3d44-4273-bc58-48105f375420,way/587913552,,,course,,,active,,,,,,,,,,IN,,US,39.6783559,-87.405585,2026-10-11T15:12:20Z
+6cb855fc-8611-4a84-a067-4cc2a834ab1f,way/507128538,New Salisbury Golf Course,,course,,,active,,,,,,,,,,IN,,US,38.3134324,-86.1017803,2026-10-11T15:12:18Z
+6d21551a-29ec-48de-9955-9c6bd962a59d,way/443824645,Harrison Hills Golf Course,,course,,,active,18,72,,,,,,,,IN,,US,40.2798659,-87.243435,2026-10-11T15:12:15Z
+6e689cf9-e73b-4a82-a7eb-c20c053fdcc3,way/271380577,Kokomo Country Club,,course,,,active,,,,,,,,,,IN,,US,40.4622367,-86.1432511,2026-10-11T15:12:07Z
+6ec7376f-8db2-4a55-8724-71c7c1352fcc,way/895660688,,,course,,,active,,,,,,,,,,IN,,US,41.1787422,-86.3833627,2026-10-11T15:12:23Z
+6ef9240a-24c7-4b41-a720-fdcdb7f88062,way/195521846,Ackerman-Allen Golf Course,,course,,,active,18,72,,,,https://purduegolf.com/ackerman-allen/,,,West Lafayette,IN,47907,US,40.4352765,-86.9285435,2026-10-11T15:12:01Z
+71cf71a7-de14-4b03-ad1b-1d277e6cc763,way/295447995,McDonald Golf Course,,course,,,active,9,36,,,+1-812-475-2578,,,2905 East Morgan Avenue,Evansville,IN,47715,US,37.9890804,-87.5113372,2026-10-11T15:12:08Z
+72c80abe-30d6-427c-8b9a-db2c2cc3d799,way/220677606,Morning Star Golf Course,,course,,,active,,,,,,,,,,IN,,US,39.7693498,-85.9854546,2026-10-11T15:12:03Z
+73b4dcab-279f-4fea-881f-cb187ab86b8f,way/667720054,Sycamore Golf Club,,course,,,active,,,,,,,,6002 E. Hwy 114,North Manchester,IN,46962,US,41.0067262,-85.6806048,2026-10-11T15:12:20Z
+764af98b-03be-426a-b7cb-051c3c3ca859,way/129080530,Salt Creek Golf Resort,,course,,,active,,,,,,,,,,IN,,US,39.192435,-86.2047101,2026-10-11T13:29:54Z
+765ecd22-7ca6-42e2-834d-fa6bd4face4f,node/6444260685,Country Club of Vincennes,,course,,,active,,,,,,,,,,IN,,US,38.6810118,-87.4936211,2026-10-11T13:29:32Z
+76e40d6f-fc3a-4a9e-b95d-337f49ffaca8,way/1101761531,Lu Gene Links Country Club,,course,,,active,,,,,,,,,,IN,,US,41.1263793,-87.4439297,2026-10-11T15:06:36Z
+77e66b81-bd72-42b9-adce-0908f2ac1b8d,way/513470190,Hamlet Golf Course,,course,,,active,,,,,,,,,,IN,,US,41.3783426,-86.5769381,2026-10-11T15:12:18Z
+77f546ad-127b-4857-9294-aea07781cad6,way/82295929,Dakota Landing Golf Course,,course,,,active,,,,,+1-317-862-8255,http://www.dakotalandinggolf.com/,,6636 South Franklin Road,Indianapolis,IN,46259,US,39.6722652,-86.0220276,2026-10-11T13:29:49Z
+781da4b4-5d98-4565-9ada-8e40bb5bf766,way/432509795,Cedar Creek Family Golf Center,,course,,,active,,,,,,,,10483 West 109th Avenue,Cedar Lake,IN,46303,US,41.4137983,-87.4624534,2026-10-11T15:12:15Z
+7848517b-fb30-4c67-bc61-c14ccb199281,way/715884535,,,course,,,active,,,,,,,,,,IN,,US,39.7986227,-84.8977596,2026-10-11T15:12:21Z
+78e163f5-81ed-42bf-84da-e578edf9320c,way/120089211,,,course,,,active,,,,,,,,,,IN,,US,39.6438876,-86.2116897,2026-10-11T15:11:57Z
+78ec826b-dd86-474d-ae64-17fa382b7956,relation/11329137,,,course,,,active,,20,,,,,,,,IN,,US,41.6433849,-85.9797173,2026-10-11T15:12:41Z
+79703438-d529-4e59-9eef-79a4d9fdea0c,way/379802012,,,course,,,active,,,,,,,,,,IN,,US,41.365861,-87.3839356,2026-10-11T15:12:14Z
+797ba49f-9d97-4309-9985-0cc66221872b,way/231313333,Saddlebrook Golf Course,,course,,,active,9,36,,,+1-317-290-0539,http://www.saddlebrookgolf.com/,,5516 Arabian Run,Indianapolis,IN,46228,US,39.8460977,-86.2238436,2026-10-11T13:30:07Z
+7a264714-ebe7-41f1-a0d4-2f124c6e5504,relation/13543491,,,course,,,active,,,,,,,,,,IN,,US,39.5542549,-86.1907511,2026-10-11T15:12:41Z
+7a88b48f-b545-4df0-8810-550cd4b91aba,way/619201323,,,course,,,active,18,72,,,,,,,,IN,,US,40.1273013,-87.3921065,2026-10-11T15:12:20Z
+7af9186a-ed85-456b-a1e7-c41ccf970b56,way/121319313,Driving Range,,practice,,,active,,,,,,,,,,IN,,US,41.080956,-85.0894266,2026-10-11T15:06:10Z
+7c38c4cb-556e-4699-aa11-dfa7ab847e0a,way/295549590,Sarah Shank Golf Course,,course,,,active,18,72,,,+1-317-784-0631,https://www.prssgolf.com/sarah_course/,,2901 South Keystone Avenue,Indianapolis,IN,46203,US,39.7269043,-86.1160241,2026-10-11T13:30:20Z
+7d3a0ff4-db2d-4012-8f2d-7872895f27eb,way/298410856,Woodland Country Club,,course,,,active,18,72,,,,,,,,IN,,US,39.9516026,-86.1203235,2026-10-11T15:12:10Z
+7dcd3e1e-d374-4850-9795-c09333529186,way/468561122,Rocky Ford Par 3,,par3,,,active,18,54,,,,https://columbusparksandrec.com/activities-and-programs/golf/rocky-ford-par-3-golf-course/,,3362 Fairlawn Drive,Columbus,IN,47203,US,39.2362056,-85.8713307,2026-10-11T15:12:17Z
+7e2ed61b-cd91-4c4d-8227-922bad6bc926,relation/13585679,McCormick Creek Golf Course,,course,,,active,,,,,+1 574-773-2725,https://mccormickcreekgc.com/,,1300 North Oakland Avenue,,IN,,US,41.4517283,-85.9871985,2026-10-11T15:12:41Z
+7e308729-91e0-46a3-be84-ca703e41d3c9,way/1381333849,,,course,,,active,9,28,,,,,,,,IN,,US,40.0178389,-86.1062101,2026-10-11T15:12:29Z
+7e71dc13-606b-4acf-bfd8-66537190c855,way/626548651,,,course,,,active,,,,,,,,,,IN,,US,39.6179891,-86.1560404,2026-10-11T15:12:20Z
+822c5138-f79f-4b8c-a1f7-29fc55dd6209,relation/17482252,Holliday Farms,,course,,,active,18,72,,,+1-317-973-5045,https://www.hollidayfarmszionsville.com/,,3950 Club Ridge Estates,Zionsville,IN,46077,US,39.9827233,-86.2657368,2026-10-11T15:12:45Z
+8340c64c-3927-46ff-9b60-fc3681ad930b,relation/7098716,Westwood Golf Course,,course,,,active,,,,,+1 812 752 3233,http://www.westwoodgolf.org/,,145 North Westavia Boulevard,Scottsburg,IN,47170,US,38.6889885,-85.801972,2026-10-11T15:12:38Z
+84c9f36e-344d-4647-aaa1-5ccf17eecc12,way/469498604,Shady Hills Golf Course,,course,,,active,18,71,,,,,,,,IN,,US,40.5854464,-85.6788565,2026-10-11T15:12:17Z
+857749ac-77fe-4654-a8c3-8431e474b9ca,way/363067541,Leaning Tree Golf Course,,course,,,active,,,,,,,,1300 Peru Pl,peru,IN,46970,US,40.6717972,-86.1385887,2026-10-11T15:12:14Z
+86444a94-f947-4996-bd9b-af7864a42a34,way/309951582,Royal Hylands Golf Club,,course,,,active,18,71,,,,,,,,IN,,US,39.8193737,-85.5225615,2026-10-11T15:12:12Z
+86f59a4b-4751-405a-9723-db15f1aa7750,way/620184341,,,course,,,active,,68,,,,,,,,IN,,US,40.086403,-86.0534136,2026-10-11T13:30:54Z
+8733aeeb-427e-4d57-abf1-7687a30122a5,way/1062149094,,,course,,,active,18,72,,,,,,,,IN,,US,40.4987723,-85.5351405,2026-10-11T15:12:24Z
+8825df3b-69c7-43ef-a0d3-20b10ffed0c9,relation/18012272,Evansville Country Club,,course,,,active,18,73,,,,,,3810 Stringtown Road,,IN,,US,38.0082427,-87.5624072,2026-10-11T13:31:51Z
+8981cc0e-e90a-4851-821a-b1b918942ee6,way/159608711,North Branch Golf Course,,course,,,active,,,,,+1-812-663-6062,https://www.northbranchgc.com/,,8492 East Base Road,Greensburg,IN,47240,US,39.3306945,-85.3320897,2026-10-11T15:12:01Z
+8984b912-0791-4d62-8f93-10109b8f45ec,way/152790206,Cascades Golf Course,,course,,,active,,36,,,,,,3550 North Kinser Pike,Bloomington,IN,47404,US,39.2024182,-86.542102,2026-10-11T15:12:00Z
+89f8d5fc-e5be-446c-9f91-64d164ad6771,way/189475345,Buffalo Trace Golf Course,,course,,,active,18,71,,,+1 812 482 4600,https://www.jasperindiana.gov/egov/apps/locations/facilities.egov?view=detail&id=15,,1728 Jackson Street,Jasper,IN,47546,US,38.4064623,-86.9257126,2026-10-11T15:12:01Z
+8a670ef7-964a-4b67-95f9-d482e23e82c2,way/690096406,Disk Golf Course,,course,,,active,,,,,,,,,,IN,,US,41.5802811,-86.891868,2026-10-11T15:12:21Z
+8aad9dbc-241f-4b88-9b33-77b1a9e9566c,relation/16610997,,,course,,,active,,,,,,,,,,IN,,US,39.8606721,-86.0680559,2026-10-11T15:12:43Z
+8b4444ff-4944-4ccd-89f2-5c2af1764476,way/1118784421,Woodbury Golf Course,,course,,,active,9,36,,,,,,,,IN,,US,41.3694719,-86.3081647,2026-10-11T15:12:24Z
+8c5b4ae5-b6bf-4c6c-939c-1b4a02c5035e,way/561478307,Howell Par 3 Golf Course,,par3,,,active,,,,,,,,,,IN,,US,37.9653774,-87.6134997,2026-10-11T15:12:18Z
+8ca87359-b007-4a6f-addf-634fc8f42ae7,way/295416988,Pottawattamie Country Club,,course,,,active,,,,,+1-219-872-8624,https://www.pottawattomie.com/,,1900 Springland Avenue,Michigan City,IN,46360,US,41.7211527,-86.8600804,2026-10-11T15:12:08Z
+8d1b08dc-958a-435a-9b62-e5dcc0fa7509,way/768018985,,,course,,,active,18,70,,,,,,,,IN,,US,38.6782211,-87.49344,2026-10-11T15:12:21Z
+8e19d8d9-1628-4e75-8282-db1462caa2cc,way/594761937,Hidden Valley Golf Course,,course,,,active,,,,,,,,,,IN,,US,41.61843,-84.8876352,2026-10-11T15:06:32Z
+90f79eec-d915-4e27-9277-76b2850579ce,way/1209830751,Greensburg Country Club,,course,,,active,,,,,,,,,,IN,,US,39.3286729,-85.5124479,2026-10-11T15:12:27Z
+9142b2c6-1422-45e6-a681-f747c8fc4e70,way/460828528,Washington Country Club,,course,,,active,9,34,,,,,,,,IN,,US,38.6624384,-87.1642499,2026-10-11T15:12:17Z
+91dfb114-8315-4001-95df-fb11de3f0284,way/195521847,Kampen Golf Course,,course,,,active,18,72,,,,,,,,IN,,US,40.4452658,-86.9281894,2026-10-11T15:06:14Z
+91f00465-fce2-45b6-8487-208da547dfea,way/264299595,Robbinhurst Golf Club,,course,,,active,18,68,,,,,,,,IN,,US,41.5607616,-87.1387353,2026-10-11T15:06:18Z
+9204563b-0902-4b5f-9b30-35616495a934,way/584323502,Rock Hollow Golf Course,,course,,,active,18,72,,,,https://www.rockhollowgolf.com/,,669 South 250 West,Peru,IN,46970,US,40.7565766,-86.1164258,2026-10-11T15:12:20Z
+92a711ab-004f-4001-a500-55f40f71fb4a,way/1198088818,Champions Pointe Golf Club,,course,,,active,18,72,,,+1-812-294-1800,https://www.cbcpgolf.com/,,1820 Champions Pointe Club Lane,Henryville,IN,47126,US,38.5132857,-85.7918073,2026-10-11T15:12:27Z
+94067642-16f3-40a4-93dd-1b27e9b705ce,relation/13527442,River Glen Country Club,,course,,,active,18,71,,,+1-317-849-8274,https://www.riverglencc.com/,,12010 Clubhouse Drive,Fishers,IN,46038,US,39.9649962,-86.0441307,2026-10-11T15:12:41Z
+94578415-39ce-4270-bf6a-70d8c22aa58a,way/38896230,Erskine Golf Course,,course,,,active,18,,,,,,,,,IN,,US,41.632008,-86.2395377,2026-10-11T15:11:51Z
+94836479-4fd1-4db1-b209-c305eed7e8b5,relation/14034180,Hillcrest Country Club,,course,,,active,,,,,,,,,,IN,,US,39.872414,-86.0602931,2026-10-11T15:12:41Z
+96501a0a-ceaf-466f-b736-892071acaf6b,way/295591680,Whispering Hills Golf Course,,course,,,active,9,34,,,+1-317-862-9000,https://sahmgolf.com/whispering-hills/,,10751 Brookville Road,Indianapolis,IN,46239,US,39.7362933,-85.9769099,2026-10-11T15:12:08Z
+96817261-ba38-459b-81a0-38ed331da6ab,way/154531951,Valley Links Course,,course,,,active,,11,,,,,,,,IN,,US,38.5537408,-86.6300243,2026-10-11T15:12:00Z
+96ba6d6d-de57-4cbb-ac7a-00ed73338fc2,way/286195426,Broadmoor Country Club,,course,,,active,,,,,,,,,,IN,,US,39.850027,-86.2048049,2026-10-11T15:12:07Z
+9765b2b5-506f-4e6d-9c3c-eb48db457c11,way/295399900,Heron Creek Golf Club,,course,,,active,,,,,+1-260-463-2906,https://www.heroncreekgolfclub.com/,,0615 West 050 North,Lagrange,IN,46761,US,41.6514882,-85.4347375,2026-10-11T15:12:08Z
+9840a6fe-0006-49d2-bdb3-38d9baf8c56a,way/482055953,New Albany Golf Course,,course,,,active,9,36,,,+1 812 949 5090,https://www.newalbanygolfcourse.com/,,1702 Graybrook Lane,New Albany,IN,47150,US,38.2992618,-85.8208293,2026-10-11T15:12:17Z
+98c65b18-d3f1-475d-9c23-b2b6f2043feb,way/458771193,Cross Creek Golf Club,,course,,,active,,,,,,,,,,IN,,US,40.8465818,-84.9517676,2026-10-11T15:12:17Z
+98d6d13d-ebb4-4150-afa1-25bc5d58244b,way/295416989,Sandy Pines Golf Course,,course,,,active,18,72,,,+1-219-987-3611,https://www.sandypinesgc.com/,,10527 Bunker Drive,DeMotte,IN,46310,US,41.166069,-87.1569213,2026-10-11T13:30:20Z
+99649ec2-8bb5-4b73-90f9-63ee328cdbc2,way/81408073,Shoaff Park Golf Course,,par3,,,active,18,54,,,,,,,,IN,,US,41.1443467,-85.0945054,2026-10-11T15:11:55Z
+9abc1c50-151b-40fa-9875-3eb3c08a7e16,way/745699035,Chippendale Golf Course,,course,,,active,,,,,,,,,,IN,,US,40.4075474,-86.1556188,2026-10-11T15:12:21Z
+9ad59958-d42d-4771-bef5-a306ad451da7,relation/17041482,Eberhart Petro Golf Course,,course,,,active,,,,,,,,,,IN,,US,41.6684133,-86.1537091,2026-10-11T15:12:43Z
+9af77a88-a621-4e56-adfd-05832f26a64e,way/1118784422,,,course,,,active,,36,,,,,,,,IN,,US,41.369642,-86.2991883,2026-10-11T15:12:24Z
+9c2caa4f-7ef9-4f89-a7f9-c3f231082b37,relation/15402711,,,course,,,active,,,,,,,,,,IN,,US,39.8927807,-85.9796736,2026-10-11T13:31:48Z
+9c3045e9-7b10-4cf8-b365-aadee1e98337,node/14246874232,Rivercrest Golf Club,,course,,,active,,,,,+17657937888,http://www.rivercrestgc.com/,,14 Club House Drive,Covington,IN,47932,US,40.1266743,-87.3868277,2026-10-11T13:29:32Z
+9cc35140-69a5-40b8-8058-a2e3c7811bcc,way/506591218,,,practice,,,active,,,,,,,,,,IN,,US,39.4056041,-86.1848649,2026-10-11T15:12:18Z
+9d0ee170-f067-4d15-9f12-5ad5aaf31642,way/542834140,Trail Side Golf and Foot Golf,,course,,,active,,,,,,,,,,IN,,US,40.1510761,-85.3454799,2026-10-11T15:12:18Z
+9d371174-b904-4848-a12b-548b4be248b4,relation/20204025,Sugar Ridge Golf Club,,course,,,active,,,,,,https://www.sugarridgegc.com/index.htm,,21010 State Line Road,Lawrenceburg,IN,47025,US,39.1752277,-84.8262773,2026-10-11T13:31:51Z
+9d6c6791-ce22-45b1-8676-a22f7d20ad1d,way/1561472826,Atkins Par 3,,par3,,,active,,,,,,,,,,IN,,US,40.7578201,-85.143733,2026-10-11T15:12:30Z
+9d9d4cde-1685-4c0b-a2a7-4e938bfd8179,way/295416986,Oak Knoll Golf Course,,course,,,active,,,,,+1-219-663-3349,https://www.golfoakknoll.net/,,11200 Whitcomb Street,Crown Point,IN,46307,US,41.4166994,-87.3910455,2026-10-11T15:12:08Z
+9ea9c1ca-b72e-4be3-a790-d9e6473aadad,way/295505710,Pittsboro Golf Club,,course,,,active,,,,,,,,,,IN,,US,39.8657488,-86.4837845,2026-10-11T15:12:08Z
+9ef7be24-46b7-4a3b-a493-30ff1bb4879d,way/526784542,Forest Park Golf Course,,course,,,active,18,71,,,,,,,,IN,,US,39.5113377,-87.1165733,2026-10-11T15:12:18Z
+9f100809-ce3c-471a-8352-9dd2cd2ab368,way/683988478,Eagle Pointe Back 9,,course,,,active,,35,,,,,,,,IN,,US,39.0303472,-86.5067703,2026-10-11T13:30:54Z
+9f29cd69-ed82-4600-a4dc-6d8d4832309c,way/217721186,The Links at Rising Star Casino Resort,,course,,,active,18,71,,,,https://www.risingstarcasino.com/golf,,,,IN,,US,38.9594038,-84.845049,2026-10-11T15:12:03Z
+a1da875c-5ab9-42d2-9def-293f63c363e9,way/248317519,,,course,,,active,,,,,,,,,,IN,,US,39.3017133,-84.8297675,2026-10-11T13:30:12Z
+a42f3940-880c-43e9-aae7-9acb95b7092e,way/458771189,Cross Creek Golf Club,,course,,,active,,,,,,,,,,IN,,US,40.8423472,-84.9474651,2026-10-11T15:06:29Z
+a46fccdd-bfc1-45dc-9b8d-2ef0a25dab48,way/295505705,Deer Creek Golf Club,,course,,,active,18,71,,,+1-317-539-2013,https://deercreekgolfclub.com/,,7143 South State Highway 39,Clayton,IN,46118,US,39.6583019,-86.4805157,2026-10-11T15:12:08Z
+a73e9214-4cf5-47f4-bb5d-32f687febe5e,way/363067542,,,course,,,active,,,,,,,,,,IN,,US,40.6697955,-86.2509505,2026-10-11T15:12:14Z
+a78d83ba-8d10-4d4e-a0a2-6a143889743b,way/545382169,Old Capital Golf Club,,course,,,active,18,72,,,+1-812-738-2277,https://oldcapitalgolf.com/,,1605 Hwy 62 NE,Corydon,IN,47112,US,38.2033561,-86.1058022,2026-10-11T15:06:30Z
+a85584ee-1839-472f-9c5f-46fb22266991,relation/4087719,Hidden Valley Golf Club,,course,,,active,18,72,,,+1-513-241-6710,https://www.hiddenvalleylakegolfclub.com/,,19775 Alpine Drive,Lawrenceburg,IN,47025,US,39.15065,-84.848636,2026-10-11T15:12:35Z
+a9bab534-b83f-44bc-b3fd-32b5e0320ec3,way/189633597,St. Anne's Golf Course,,course,,,active,18,71,,,,,,,,IN,,US,39.0408365,-85.6066972,2026-10-11T13:30:03Z
+a9ebb853-9845-48b2-9413-c2f69127943b,relation/3930676,Ironwood Golf Club,,course,,,active,,,,,+1-317-842-0551,https://www.ironwoodgc.com/,,10955 Fall Road,Fishers,IN,46038,US,39.9454757,-85.9779382,2026-10-11T15:06:45Z
+aa30f792-562e-484d-88e4-c0b937e60323,way/683602301,,,course,,,active,,,,,,,,,,IN,,US,41.5060036,-85.8324664,2026-10-11T15:12:20Z
+aa446029-1bfa-40e1-8b91-0601b4d3b3e9,way/42397733,Studebaker Park,,course,,,active,9,,,,,,,,,IN,,US,41.6527919,-86.2410981,2026-10-11T15:11:53Z
+ab311888-f50e-463d-ba61-56550b798caf,relation/14167906,Youche Country Club,,course,,,active,,,,,+1 219 663 1418,https://youchecc.com/,,2301 West 129th Place,Crown Point,IN,46307,US,41.3814268,-87.3639275,2026-10-11T15:12:41Z
+ab5a99b6-5bbb-4d4c-ae62-6a4b4cdd01df,way/295597225,Forest Hills Country Club,,course,,,active,18,,,,+1-765-962-2711,https://www.fhcclub.com/,,2169 South 23rd Street,Richmond,IN,47374,US,39.8032142,-84.8662999,2026-10-11T15:12:08Z
+ab853610-e572-4477-ba70-b75a28e8ca1c,relation/13530790,Prairie View Golf Club,,course,,,active,,68,,,+1-317-816-3100,https://www.prairieviewgc.com/,,7000 Longest Drive,Carmel,IN,46033,US,39.9762835,-86.0398719,2026-10-11T13:31:42Z
+aedec810-252d-43b9-8aa6-532a305cb22d,way/363463332,Anderson Country Club,,course,,,active,,,,,+1 765 642 0100,https://andersoncountryclub.net/,,602 Northshore Boulevard,Anderson,IN,46011,US,40.1250123,-85.6865638,2026-10-11T15:12:14Z
+af469ed1-3e95-42f3-a45e-5c8ce767af20,relation/5404031,Muncie Elks Country Club,,course,,,active,,,,,+1 765 759 7770,http://www.muncieelks245.com/,,909 North County Road 500 West,Muncie,IN,47304,US,40.2013648,-85.4890262,2026-10-11T15:12:36Z
+b06adb1d-780e-4d89-bc00-8c9966c104fd,way/633504908,Chesapeake Run Golf Club,,course,,,active,,,,,,,,,,IN,,US,41.2062087,-86.7367696,2026-10-11T15:06:32Z
+b0b39766-9ef0-43f5-b263-8ab4c90e1f08,way/1105747051,Tippecanoe Country Club,,course,,,active,,,,,,,,,,IN,,US,40.7750609,-86.7699328,2026-10-11T15:12:24Z
+b113d383-3a2e-4794-be77-7452f1e51d8b,way/544810970,Round Barn Golf Club,,course,,,active,,,,,,,,,,IN,,US,41.0666912,-86.2029131,2026-10-11T13:30:51Z
+b149e59c-34d5-4053-8611-53dcae35a178,way/1011537764,,,course,,,active,,,,,,,,,,IN,,US,38.8545296,-86.0727165,2026-10-11T15:06:36Z
+b163b050-f62a-4059-9316-16c63a37c209,relation/20044144,Chatham Hills Golf Course,,course,,,active,18,72,,,,,,,,IN,,US,40.085064,-86.1427015,2026-10-11T15:12:45Z
+b17d07af-f7b5-4e7e-9990-80d3c678e20f,relation/13511943,The Hawthorns Golf & Country Club,,course,,,active,,,,,+1-317-845-9100,https://www.hawthornscountryclub.com/,,12255 Club Point,Fishers,IN,46037,US,39.9485717,-85.9541617,2026-10-11T15:12:41Z
+b191cfd0-a53e-434e-868f-7bb8a3b79dfd,way/295505712,Thatcher Golf Course,,course,,,active,9,35,,,,,,,,IN,,US,39.7737695,-86.2395535,2026-10-11T13:30:20Z
+b41eeeba-d33d-40cd-a375-b2c61ad230b0,way/363313167,Cardinal Hills Golf Course,,course,,,active,18,,,,+1 765 288 2731,https://www.cardinalhills.com/,,3900 South Whitney Road,Selma,IN,47383,US,40.16224,-85.2924028,2026-10-11T15:06:26Z
+b4b5f1a2-965c-4b8b-ad37-e9b5825557dd,relation/20022262,Wood Wind Golf Club,,course,,,active,18,70,,,+1-317-669-8550,https://woodwindgolf.com/,,2302 W 161st Street,Westfield,IN,46074,US,40.0192809,-86.1980267,2026-10-11T15:12:45Z
+b5c70949-06dc-466e-aa25-1a63829f244d,way/363309464,Crestview Executive Course,,course,,,active,,,,,,,,,,IN,,US,40.1651001,-85.3896787,2026-10-11T15:06:26Z
+b624151d-0b2f-4310-888e-5eab0f4e9c84,way/1202928785,Birch Tree Golf Course,,course,,,active,,,,,,,,,,IN,,US,41.7063721,-86.5204341,2026-10-11T15:12:27Z
+b7220dad-c74e-4c41-8c6b-dba9153da317,way/121774215,Riverbend Golf Course,,course,,,active,18,72,,,,,,,,IN,,US,41.1538815,-85.0921101,2026-10-11T15:11:57Z
+b72c5183-e415-46fd-87ca-f683639d53aa,way/218432762,Coffin Golf Course,,course,,,active,,60,,,+1-317-327-7845,https://www.coffingolf.com/,,2401 Cold Spring Road,Indianapolis,IN,46222,US,39.801521,-86.1991182,2026-10-11T15:06:16Z
+b787fcf3-45d4-4339-bf43-23ada1a53d96,relation/5547864,Stonycreek Golf Club,,course,,,active,,,,,,,,,,IN,,US,40.0292473,-85.969509,2026-10-11T15:12:36Z
+b80656e1-baf3-4836-8b6e-9295f0475264,way/169730303,South Gleason Park Course,,course,,,active,,,,,+1-219-980-1089,http://www.gary.in.us/parks/golf.asp,,,,IN,,US,41.5577789,-87.3455441,2026-10-11T15:12:01Z
+b8bb996b-04af-4fe2-afb2-39bd9c4902be,way/790027054,High Pointe Golf Course,,course,,,active,18,70,,,,,,5723 N. Golf Course Road,Bicknell,IN,47512,US,38.762741,-87.3293494,2026-10-11T15:12:21Z
+b90a53d9-5f40-4738-9d7e-0fc6495eb22e,way/438275933,Southern Dunes Golf Course,,course,,,active,,,,,,,,,,IN,,US,39.637907,-86.2175201,2026-10-11T15:12:15Z
+b92fce9a-0a72-491d-8279-b5f1b5f547fc,relation/20108732,The Landing Golf Course,,course,,,active,,68,,,+1-812-460-4000,https://www.thelandingatfortharrison.com/Landing_Golf_Course.php,,3350 North 4th Street,Terre Haute,IN,47804,US,39.5108374,-87.4100864,2026-10-11T15:12:45Z
+b9c02628-a52a-472a-a4d3-fed985a3860d,way/121785079,Whispering Creek Golf Course,,course,,,active,,,,,,,,,,IN,,US,41.0828139,-85.0088211,2026-10-11T15:11:57Z
+b9dcaa73-ce31-42d6-ac8e-b8d6027f5255,way/89373822,The Brassie Golf Club,,course,,,active,18,72,,,,,,,,IN,,US,41.5948276,-87.0950941,2026-10-11T15:11:55Z
+ba7f077d-2d5b-4ada-b2c2-373c4398ebcc,relation/19915748,,,course,,,active,,,,,,,,,,IN,,US,40.4097536,-84.982398,2026-10-11T13:31:51Z
+baea9c1a-b37c-4a06-ab62-eac56f3d70ba,way/286195425,Highland Country Club,,course,,,active,,,,,+1-317-255-5431,https://www.highlandgcc.com/,,1050 West 52nd Street,Indianapolis,IN,46228,US,39.8501831,-86.1832611,2026-10-11T15:12:07Z
+bba099d4-8a69-4756-a451-3688f1662ab4,way/363309465,Crestview Golf Club,,course,,,active,,,,,+1 765 289 6952,https://crestviewgolf.net/,,3325 South Walnut Street,Muncie,IN,47302,US,40.1593033,-85.3906176,2026-10-11T15:12:14Z
+bbbd9557-de68-4127-b30b-9d804c3cd764,way/548206833,Elcona Country Club,,course,,,active,,,,,,,,,,IN,,US,41.6708063,-85.8569227,2026-10-11T15:12:18Z
+bbcd4ed4-b034-4e04-99c6-9e111527b6db,way/109198342,Arlington Park Golf Course,,course,,,active,,,,,+1-260-485-2774,,,,,IN,,US,41.1287109,-85.031786,2026-10-11T15:11:57Z
+bc62c547-366d-4cb6-8c3f-102db0e76949,way/295549585,Douglass Golf Course,,course,,,active,,,,,+1-317-924-0018,,,2901 Doctor Andrew J Brown Avenue,Indianapolis,IN,46205,US,39.8079826,-86.1333224,2026-10-11T15:12:08Z
+bdd538eb-4eda-4b86-be53-8765b57c18f9,way/1019869382,Oak Ridge Golf Course,,course,,,active,18,72,,,,,,9784 North County Road 300 East,Brazil,IN,47834,US,39.5311016,-87.0444717,2026-10-11T15:12:24Z
+be1a0da2-0c9a-44f8-ac5f-bba56075080a,way/668938593,Crawfordsville Golf Course,,course,,,active,,,,,+1 765 364 5171,https://www.crawfordsvillegolf.com/,,1000 East South Boulevard,Crawfordsville,IN,47933,US,40.0248198,-86.8827742,2026-10-11T15:12:20Z
+be71addf-0880-44fb-abf9-13cb18e3a29c,way/295399902,Maplecrest Country Club,,course,,,active,,,,,+1-574-533-3079,https://www.maplecrestcountryclub.org/,,611 Hackett Road,Goshen,IN,46526,US,41.6073073,-85.8245362,2026-10-11T15:12:08Z
+bf866006-0e24-4d60-b3c8-626ac656d2ec,way/846131267,,,course,,,active,,13,,,,,,,,IN,,US,40.4210522,-86.1599284,2026-10-11T15:12:23Z
+c0ecbd6c-27d9-4eeb-b3d2-861a74431c5c,way/506591217,Tameka Woods Golf Course,,course,,,active,,,,,,,,,,IN,,US,39.4041352,-86.1815884,2026-10-11T15:12:18Z
+c176a707-5bb1-4758-9a2d-8c08508c6b9b,way/295399903,Maxwelton Golf Club,,course,,,active,18,72,,,+1-574-457-3504,https://www.maxweltongolf.com/,,5721 East Elkhart County Line Road,Syracuse,IN,46567,US,41.4334479,-85.7316417,2026-10-11T15:12:08Z
+c1df308a-e805-4277-9261-eecb3e2a959c,way/234574796,Otte Golf & Family Fun Center,,mini,,,active,,,,,+1-317-881-4620,http://ottegolf.com/,,681 South Sheek Road,Greenwood,IN,46143,US,39.6056593,-86.0729108,2026-10-11T15:12:03Z
+c23bfa59-a5c2-45bf-93bb-66fa126d541a,way/295447983,Country Club of Terre Haute,,course,,,active,18,72,,,+1-812-299-1558,https://www.ccth.org/,,57 Allendale,Terre Haute,IN,47802,US,39.3906755,-87.3820831,2026-10-11T15:12:08Z
+c390a737-83f4-4db1-a125-8fbb15f6f366,relation/5886075,Timbergate Golf Course,,course,,,active,18,71,,,+1 812 526 3523,http://www.timbergategolf.com/,,151 Saint Andrews Avenue,Edinburgh,IN,46124,US,39.3542362,-85.9495864,2026-10-11T13:31:32Z
+c4a5f0a1-e172-40e2-a9f0-91391dcf98ec,relation/15854985,Brookshire Golf Club,,course,,,active,,,,,+1-317-846-7431,https://www.brookshiregolf.com/,,12120 Brookshire Parkway,Carmel,IN,46033,US,39.9639385,-86.0958341,2026-10-11T15:06:53Z
+c4e9769e-2896-4d35-8849-b05d13f322c1,way/659534836,Windy Hill Country Club,,course,,,active,,,,,,,,,,IN,,US,39.6640476,-86.8624699,2026-10-11T15:12:20Z
+c575f569-4c0e-4017-b049-0687e24ae4b0,way/1050653277,Elks Club Marion IN,,course,,,active,18,73,,,,,,1100 E. Bond Ave,Marion,IN,46952,US,40.576707,-85.6415413,2026-10-11T13:31:06Z
+c6378745-d683-4078-8f00-150422cd3576,way/295505711,Quail Creek Golf Club,,course,,,active,,,,,+1-317-892-2582,https://www.quailcreekgc.com/,,7585 Quail Creek Trace,Pittsboro,IN,46167,US,39.8759616,-86.4506487,2026-10-11T15:12:08Z
+c63f6d3a-a232-472e-8b7b-3015c509c4f2,relation/7095679,Black Squirrel Golf Club,,course,,,active,18,,,,,,,,,IN,,US,41.5769836,-85.8586117,2026-10-11T15:12:38Z
+c71c4d38-8ce6-4049-9711-3b8f8045d1a1,way/893874280,,,course,,,active,,,,,,,,,,IN,,US,38.3935647,-87.5866239,2026-10-11T15:12:23Z
+c774149f-9aca-49d8-b1ba-65e7af2f45ee,node/4490891388,Culver Academies Golf Course,,course,,,active,,,,,,,,,,IN,,US,41.2202121,-86.3958693,2026-10-11T13:29:32Z
+c8e0d7ac-81eb-43ae-98c3-23b8bd6ffb92,way/458771197,Cross Creek Golf Club,,course,,,active,,,,,,,,,,IN,,US,40.8464754,-84.9488009,2026-10-11T15:12:17Z
+c99acf30-2ef0-4327-b01b-d1b6bd303b1e,way/189794322,The Golf Preserve,,course,,,active,18,71,,,,,,100 Country Club Drive,Frankfort,IN,46041,US,40.2952696,-86.5067625,2026-10-11T15:12:01Z
+c9bedb08-fee8-4794-abd2-7f61c31baf42,way/175763013,Christiana Creek Country Club,,course,,,active,,68,,,+1-574-264-3060,https://www.christianacreek.com/,,116 West Bristol Street,Elkhart,IN,46514,US,41.7076731,-85.9786552,2026-10-11T13:30:03Z
+c9f6f6be-b1a1-4e23-b923-ad474e0e61d4,way/1085372836,,,course,,,active,9,36,,,,,,,,IN,,US,40.6157327,-87.3288565,2026-10-11T15:12:24Z
+ca8e3894-c9e4-42c5-96ef-5c0870956edd,way/295591610,Links Golf Club,,course,,,active,18,72,,,+1-317-861-4466,https://www.linksindy.com/,,11425 N PR Links Lane,New Palestine,IN,46163,US,39.6940387,-85.9198809,2026-10-11T15:12:08Z
+cafe65ef-0814-408f-9c27-cab5ee485482,way/220528288,Hazelden Country Club,,course,,,active,,,,,+1 219 275 7771,https://www.hazeldencountryclub.com/,,3705 E State Road 16,Brook,IN,47922,US,40.8623705,-87.3236764,2026-10-11T15:12:03Z
+cb245c4c-cbb8-456a-97ec-e8dc655726bb,way/89460340,Whispering Pines Golf Course,,course,,,active,,,,,,,,,,IN,,US,41.5396774,-86.4923444,2026-10-11T15:11:55Z
+cb5a0901-a5f1-43f1-9042-306ed4805243,way/295416983,Creekside Golf Course,,course,,,active,,48,,,+1-219-531-7888,http://www.ci.valparaiso.in.us/index.aspx?nid=677,,2355 Clifford Road,Valparaiso,IN,46385,US,41.4761885,-87.0953574,2026-10-11T15:06:21Z
+cc4e83cf-1850-4c83-86ef-a8f7201cb1c6,way/692278015,,,course,,,active,,,,,,,,,,IN,,US,41.1809382,-86.3829529,2026-10-11T15:12:21Z
+ce079406-5c9f-4c53-9e55-f904b5ab3786,way/846131266,WIldcat Creek Golf Course,,course,,,active,,35,,,,,,,,IN,,US,40.425059,-86.1537132,2026-10-11T15:12:23Z
+ce7d233a-b634-4193-9102-b887d0cdad37,relation/2726759,Briar Leaf Golf Club,,course,,,active,,,,,,https://www.briarleaf.com/,,,,IN,,US,41.6529198,-86.7312214,2026-10-11T15:12:33Z
+ce932afb-2406-404a-93c9-a4a9b2d841e7,way/295447998,Rolling Hills Country Club,,course,,,active,,,,,+1-812-925-3336,https://www.rollinghillsindiana.com/,,1666 Old Plank Road,Newburgh,IN,47630,US,38.0071594,-87.3714945,2026-10-11T13:30:20Z
+ce976849-368f-4ffb-9684-7be5a24ee8d9,way/295505714,Twin Bridges Golf Club,,course,,,active,,,,,+1-317-745-9098,https://www.twinbridgesgolfclub.com/,,1001 Cartersburg Road,Danville,IN,46122,US,39.7487929,-86.5121382,2026-10-11T15:12:08Z
+cf9015a4-43a4-4cbb-b8f4-cf73598db5ae,way/488975676,,,course,,,active,9,36,,,,,,,,IN,,US,38.4854747,-87.2624996,2026-10-11T15:12:17Z
+cfe41a89-b427-4614-851a-ecefa7148e9b,way/555991362,Hidden Hills,,course,,,active,18,70,,,,,,,,IN,,US,38.927327,-86.7237211,2026-10-11T13:30:51Z
+cfe54f3e-2415-4197-a0fd-f638e47b9a52,way/295399909,Wawasee Golf Club,,course,,,active,,,,,+1-574-457-0224,https://www.wawaseegolfclub.com/,,12388 North Bishop Road,Syracuse,IN,46567,US,41.4151868,-85.690183,2026-10-11T13:30:20Z
+d063ce7a-39e7-49ac-8ed6-64066de20e42,way/621253840,,,course,,,active,,,,,,,,,,IN,,US,41.0456374,-86.1698317,2026-10-11T15:12:20Z
+d24e8ea1-a1f2-44c6-9072-150b44b23554,relation/5404307,Stonehenge Golf Club,,course,,,active,18,70,,,+1 574 269 6122,http://www.stonehengegolfclub.com/,,2850 East Pierceton Road,Winona Lake,IN,46590,US,41.2077045,-85.7872443,2026-10-11T15:12:36Z
+d339e6cb-44d4-4b4c-9721-6d9c57dc384d,relation/4085103,Plymouth Country Club,,course,,,active,18,73,,,+1-574-936-4543,http://www.plymouthcountryclub.com/,,10055 Pretty Lake Trail,Plymouth,IN,46563,US,41.3282584,-86.3767615,2026-10-11T15:12:35Z
+d342860f-2e9c-4db6-8df2-0d8ef132b71c,way/1099875508,Curtis Creek Golf Course,,course,,,active,18,72,,,+1 219 866 7729,https://www.curtiscreekgolf.com/,,,,IN,,US,40.9316822,-87.2481551,2026-10-11T15:06:36Z
+d4b995ff-f0e0-4fcc-aac6-e3d14f7d0246,way/51702379,Rolling Meadows Golf Course,,course,,,active,18,72,,,,,,,,IN,,US,39.2908825,-86.6903553,2026-10-11T15:11:53Z
+d4d18630-ff78-4062-aed3-39d99b152e74,way/295549584,Crooked Stick Golf Club,,course,,,active,18,,,,+1-317-844-9938,https://www.crookedstick.org/,,1964 Burning Tree Lane,Carmel,IN,46032,US,39.948573,-86.1932338,2026-10-11T15:12:08Z
+d546b4a4-85fb-4033-8387-915573c83a2e,way/946465715,Cross Creek Golf Club,,course,,,active,,,,,,,,,,IN,,US,40.8498123,-84.9557047,2026-10-11T15:12:23Z
+d564313f-5574-401f-af8b-85c4c67683cd,way/352365767,,,course,,,active,9,37,,,,,,,,IN,,US,40.7678614,-85.1730645,2026-10-11T15:12:14Z
+d59ff196-8719-4ec6-bcc4-09c98c65c2f2,way/832019948,,,course,,,active,,11,,,,,,,,IN,,US,41.1622206,-85.4565124,2026-10-11T15:06:35Z
+d6034675-07f6-41b6-ab22-1f4eda29c46d,relation/15639948,,,course,,,active,9,36,,,,,,,,IN,,US,41.5149772,-87.494018,2026-10-11T13:31:48Z
+d65cc99a-0c2f-44fd-aec4-42ecab6cfdab,way/967720456,Riverside Golf Academy,,course,,,active,,,,,,,,,,IN,,US,39.8217336,-86.1950866,2026-10-11T15:12:24Z
+d6899a45-d9a4-4556-b123-b8f9f54b5957,way/346046185,,,course,,,active,,4,,,,,,,,IN,,US,40.1557614,-84.9843873,2026-10-11T15:12:14Z
+d69c6e9d-40d4-43b5-aa1f-c32f16abe11e,way/544664480,Tri-County Golf Club,,course,,,active,,,,,,,,,,IN,,US,40.049835,-85.4566277,2026-10-11T15:12:18Z
+d6a2ba7f-a8a3-4286-a247-d9ce906a4589,way/1079242819,Valley View Golf Course,,course,,,active,,,,,,,,6950 West 850 N,Middletown,IN,47356,US,40.0576131,-85.5191621,2026-10-11T15:12:24Z
+d6ec1555-9538-488e-b942-7d2132d8b787,relation/7111122,Elwood Golf Course,,course,,,active,18,72,,,,,,,,IN,,US,40.2574008,-85.8492193,2026-10-11T15:12:38Z
+d73a39e6-4c08-456d-b2d4-2119cf7681e5,relation/14071039,Sand Creek Country Club,,course,,,active,,,,,+1 219 395 5200,https://www.sandcreek.com/,,1001 Sand Creek Drive South,Chesterton,IN,46304,US,41.5997188,-87.0281869,2026-10-11T15:06:51Z
+d923109c-7b3f-44eb-85f1-cfe23ddf1959,way/544362725,Memorial Park Golf Course,,course,,,active,18,,,,,,,,,IN,,US,39.9505914,-85.3888975,2026-10-11T13:30:51Z
+d9932cb8-193c-47f3-87c0-5f40d4678697,way/82115268,,,course,,,active,18,71,,,,,,,,IN,,US,40.1535014,-85.646675,2026-10-11T15:11:55Z
+d9c7ab3a-e10f-4e3a-8acf-4fa7b8e1987e,way/525206526,Twilight Golf Course,,course,,,active,,,,,,http://www.twilightgolfcourse.com,,5316 State Road 62,Jeffersonville,IN,47130,US,38.3537579,-85.7008763,2026-10-11T15:06:30Z
+d9dc69b0-d6a8-4339-9ecd-3f6eeff77dff,way/295505707,Heartland Crossing Golf Links,,course,,,active,,,,,+1-317-630-1785,http://www.heartlandcrossinggolf.com/,,6701 South Heartland Boulevard,Camby,IN,46113,US,39.6239294,-86.2986409,2026-10-11T15:12:08Z
+da24cfb5-04c0-4dc6-ba96-319c216ab424,way/281347889,Hillview Country Club,,course,,,active,18,72,,,+1-317-736-5555,https://www.golfhillviewcc.com/,,1800 East King Street,Franklin,IN,46131,US,39.4877014,-86.0234337,2026-10-11T15:12:07Z
+da54751b-bdad-4de9-a529-59ce4df44ed8,way/846131268,,,course,,,active,,10,,,,,,,,IN,,US,40.4279871,-86.1623375,2026-10-11T15:12:23Z
+da60f29d-2c36-4687-b491-62b282927764,way/1064940055,Forest Park Golf Course,,course,,,active,,9,,,+1-219-531-7888,http://in-valparaiso.civicplus.com/index.aspx?nid=601,,1155 Sheffield Drive,Valparaiso,IN,46385,US,41.4862624,-87.0736613,2026-10-11T15:12:24Z
+da916931-1bb1-4994-b212-e8f43c8f0485,way/183193466,Sullivan Elks Country Club,,course,,,active,18,,,,,,,,,IN,,US,39.1047553,-87.4182602,2026-10-11T13:30:03Z
+db1816e5-154b-4f12-9e9b-c27abe33d006,way/832019947,,,course,,,active,,5,,,,,,,,IN,,US,41.1596639,-85.4561527,2026-10-11T15:12:23Z
+dbe6cfd9-5d4f-4860-b055-e7303c011f33,way/172000855,,,course,,,active,,,,,,,,,,IN,,US,38.3301535,-87.3560774,2026-10-11T13:30:03Z
+dc015e5a-71be-4d7e-8d8b-2e8a3f1b36db,way/313583011,Winding Branch Golf Course,,course,,,active,,,,,,,,,,IN,,US,39.797246,-85.141486,2026-10-11T13:30:33Z
+de1c2161-1166-42e4-8de3-b02145c97cef,way/109194125,Cherry Hill Golf Club,,course,,,active,18,,,,+1-260-485-8727,,,,,IN,,US,41.1430148,-85.0308993,2026-10-11T15:11:57Z
+de799dff-43ff-44d2-915b-f3a2db68e200,way/158087376,William S. Sahm Park Golf Course,,course,,,active,18,70,,,+1-317-842-3848,https://www.sahmgolf.com/,,,,IN,,US,39.9161217,-86.051172,2026-10-11T15:12:01Z
+de9ea783-6644-40e6-92ad-1e02f804e55f,way/474498499,,,course,,,active,,,,,,,,,,IN,,US,41.5541045,-84.9061005,2026-10-11T15:06:29Z
+debb7803-e4e2-4d1a-8f4d-c4ffd44fd9ce,relation/3158000,Valle Vista Golf Course,,course,,,active,,,,,+1-317-882-2955,https://www.vallevista.com/,,755 East Main Street,Greenwood,IN,46143,US,39.6095798,-86.0901172,2026-10-11T15:12:33Z
+df2c6a6f-f6e0-4069-9c51-95f43a5edf43,relation/4252107,,,course,,,active,,,,,,,,,,IN,,US,40.312628,-85.2252918,2026-10-11T15:06:47Z
+dfb3e4e0-3c44-4586-8eeb-190de99f058f,way/174414301,Pfau Golf Course at Indiana University,,course,,,active,18,71,,,,https://thepfaucourse.com/,,1492 North State Road 45 46 Bypass,Bloomington,IN,47408,US,39.1862181,-86.5059653,2026-10-11T15:12:01Z
+e0294093-5c34-44b6-bd40-f94f6009af09,relation/4085208,Chestnut Hills Golf Club,,course,,,active,,,,,+1-260-625-4146,https://www.chestnuthillsgolf.com/,,11502 Illinois Road,Fort Wayne,IN,46814,US,41.0791617,-85.2909887,2026-10-11T15:12:35Z
+e0e31426-6e6a-4fe3-b96e-8205bca088c8,way/620392026,,,practice,,,active,,,,,,,,,,IN,,US,39.6074125,-86.0757587,2026-10-11T15:12:20Z
+e11e9b71-4a96-4bb4-8523-eb773bc6942b,relation/5404032,The Players Club at Woodland Trails,,course,,,active,18,72,,,+1 765 759 8536,https://theplayersclubgolfcourse.com/,,6610 West River Road,Yorktown,IN,47396,US,40.19108,-85.468329,2026-10-11T15:12:36Z
+e2e03e7b-3346-4358-b56a-c85ac5df255c,way/494724329,Cypress Run Golf Course,,course,,,active,,,,,,,,,,IN,,US,39.4933819,-85.9616636,2026-10-11T15:06:29Z
+e397b6a0-0ace-4b89-902b-ccfd614545ff,way/295448001,Thunderbolt Pass Golf Course,,course,,,active,18,70,,,+1-812-426-2166,https://thunderboltpass.com/,,6901 Petersburg Road,Evansville,IN,47111,US,38.0341087,-87.5499151,2026-10-11T15:06:21Z
+e3ad03a0-dd19-4e0c-9c64-a89040b3392f,way/100946164,McMillen Park Golf Course,,course,,,active,18,65,,,+1-260-427-6710,https://www.mcmillengolfcourse.com/,,3900 Hessen Cassel Road,Fort Wayne,IN,46806,US,41.048829,-85.1018145,2026-10-11T15:11:55Z
+e489397d-dedc-4743-a4e8-c2253839a5e4,node/2898730435,Sycamore Course,,course,,,active,,,,,,,,,,IN,,US,39.8556597,-86.3184576,2026-10-11T13:29:32Z
+e48cf924-01ef-4743-9098-beab2d0440ef,way/157028037,Eagle Creek Golf Club,,course,,,active,,,,,+1-317-297-3366,https://www.eaglecreekgolfclub.com/,,8802 West 56th Street,Indianapolis,IN,46234,US,39.8619622,-86.3202488,2026-10-11T15:12:00Z
+e5770b7e-2fbf-4964-933c-d32d17153064,way/295591651,The Fort Golf Course,,course,,,active,18,72,,,+1-317-543-9597,https://www.thefortgolfcourse.com/,,6002 North Post Road,Indianapolis,IN,46216,US,39.8677185,-86.0100357,2026-10-11T15:12:08Z
+e5e24ed9-c124-4377-ae0d-08a516b12bdf,way/295549586,Hickory Bend Golf Course,,course,,,active,,,,,+1-317-769-2363,http://www.hickorybendgolf.com/,,32 South 900 East,Zionsville,IN,46077,US,40.0380102,-86.3022941,2026-10-11T13:30:20Z
+e6222f45-6262-45a6-be1a-52a415f726b9,way/832019949,,,course,,,active,,28,,,,,,,,IN,,US,41.1595941,-85.4485581,2026-10-11T15:12:23Z
+e660713e-9d41-4aa1-a4e9-8501ad4a4ca1,relation/14097053,Lakes of the Four Seasons Golf Course,,course,,,active,,,,,,,,,,IN,,US,41.4137159,-87.2225318,2026-10-11T15:12:41Z
+e6f5d73d-53f6-4cec-9d5d-e1c6480358f2,way/808914456,,,course,,,active,,69,,,,,,,,IN,,US,39.6819998,-86.8770183,2026-10-11T13:30:58Z
+e749e7da-9622-4bf4-bd2f-edaf0d94ec2e,way/1008778692,Western Hills Country Club,,course,,,active,9,35,,,+1-812-883-5138,,,3025 W Mt Tabor Rd,Salem,IN,47167,US,38.5981307,-86.1436795,2026-10-11T15:06:36Z
+e88a6278-24e6-4fc3-b49e-710065a538ee,relation/15429879,Country Mark Golf Course,,course,,,active,,,,,,,,,,IN,,US,37.9418219,-87.9049883,2026-10-11T15:12:43Z
+e8baf41b-b243-4744-b4fa-ce282909a96b,relation/569616,Brickyard Crossing Golf Course,,course,,,active,,63,,,+1-317-492-6417,https://www.brickyardcrossing.com/,,4400 West 16th Street,Indianapolis,IN,46222,US,39.7949701,-86.2300422,2026-10-11T15:12:30Z
+eae4d78a-a7bf-4ddc-888d-906242acf543,way/496201410,Hoosier Heights Country Club,,course,,,active,,,,,,,,,,IN,,US,37.9534274,-86.7313878,2026-10-11T15:12:17Z
+eb1b18af-880a-4631-8a5b-c15f97450140,way/501445121,Lucas Oil Golf Course,,course,,,active,,9,,,,,,,,IN,,US,38.3374831,-86.4685403,2026-10-11T15:12:18Z
+ec902443-46ea-432c-bfdc-0525e907660e,way/481898417,Huntingburg Country Club,,course,,,active,,,,,+1 812 683 3376,https://huntingburgcountryclub.com/,,793 West 3rd Street,Huntingburg,IN,47542,US,38.2948509,-86.9727711,2026-10-11T15:12:17Z
+eca1e9a5-6f8f-432d-bd22-1004fb25a0b1,way/699741888,,,course,,,active,18,72,,,,,,,,IN,,US,38.8469796,-84.9162692,2026-10-11T15:12:21Z
+ee425d16-7551-46c7-b716-c1a5e096f648,way/363541256,Sultan’s Run Golf Club,,course,,,active,18,72,,,+1 812 482 1009,https://www.sultansrun.com/,,1490 North Meridian Road,Jasper,IN,47546,US,38.401745,-86.8979172,2026-10-11T15:12:14Z
+ef4c695e-d8f4-44fb-852c-c2364efd3557,way/312806666,Westwood Golf Club,,course,,,active,18,70,,,,,,,,IN,,US,39.9217941,-85.4234213,2026-10-11T15:12:12Z
+ef9d9668-fe5f-48aa-abaa-2081519d38a2,way/295399901,Lake James Golf Course,,course,,,active,18,70,,,+1-260-833-3967,https://www.golflakejames.com/,,1445 West 275 North,Angola,IN,46703,US,41.676892,-85.0128676,2026-10-11T15:12:08Z
+f03564cd-8b9f-4201-916e-341173b0b5b6,way/314792420,Hartley Hills Country Club,,course,,,active,,,,,,,,,,IN,,US,39.9142466,-85.1398912,2026-10-11T15:12:12Z
+f0f70168-e712-4eb9-b080-72f5e4c20e3f,relation/4084996,Autumn Ridge Golf,,course,,,active,18,71,,,+1-260-637-8727,https://www.autumnridgegc.com/,,11420 Auburn Road,Fort Wayne,IN,46845,US,41.1927604,-85.10903,2026-10-11T15:06:45Z
+f14ba852-4451-4722-bd77-2ea7fd86a53a,relation/15420813,Western Hills Country Club,,course,,,active,,,,,,,,,,IN,,US,37.9326135,-87.9220385,2026-10-11T15:12:43Z
+f15423c8-f3cc-4c67-8edf-63db11a0ff23,node/6331229874,Buffalo Trace Golf Course,,course,,,active,,,,,,,,,,IN,,US,38.4030228,-86.9302649,2026-10-11T13:29:32Z
+f217526a-f3a0-4c60-b4c5-9ed40d86f263,way/120089213,Southern Dunes Golf Course,,course,,,active,,,,,,,,8220 Tibbs Ave,,IN,,US,39.6525195,-86.213047,2026-10-11T15:11:57Z
+f2387d7e-f33f-4107-bf18-5fdaf44384e4,way/715408228,,,course,,,active,,,,,,,,,,IN,,US,39.653284,-84.9227455,2026-10-11T15:12:21Z
+f379aeb8-83e5-4405-b6ba-22dc75341fea,way/295399898,Glendarin Hills Golf Club,,course,,,active,18,72,,,+1-260-624-3550,https://www.glendarinhills.com/,,3333 Glendarin Way,Angola,IN,46703,US,41.6792248,-84.9909085,2026-10-11T15:12:08Z
+f422fd43-76a1-4b89-965e-202ac0699b1f,way/256401906,Valley View Golf Course,,course,,,active,18,72,,,+1-812-923-9280,https://valleyviewgolfclub.org/,,3748 Lawrence Banet Road,Floyds Knobs,IN,47119,US,38.3182676,-85.8865184,2026-10-11T13:30:12Z
+f4835a42-3a63-462b-b061-fed89f16f3d8,relation/16239928,Elbel Golf Course,,course,,,active,18,72,,,,,,,,IN,,US,41.7479831,-86.3809931,2026-10-11T13:31:48Z
+f4c5a41a-c7b1-46b9-8e4f-1e81512b3018,way/363065450,Carroll County Country Club,,course,,,active,,,,,+1 765 564 3441,,,411 East Howard Street,Delphi,IN,,US,40.5945182,-86.6705745,2026-10-11T15:06:26Z
+f5a77190-c61f-4e93-893d-38904aeb707d,relation/11703193,Belterra Golf Course,,course,,,active,18,71,,,,https://www.belterracasino.com/amenities/golf-course-and-clubhouse/,,,,IN,,US,38.782577,-84.9456187,2026-10-11T15:06:51Z
+f67451b9-99de-4a77-96e2-2706edca28f1,way/333129172,Raber Golf Course,,course,,,active,,30,,,,,,,,IN,,US,41.7136869,-85.8366889,2026-10-11T15:12:12Z
+f7e0cc37-2118-4920-8a02-e22582d6f548,way/295597226,Hillcrest Golf & Country Club,,course,,,active,,,,,+1-812-934-3401,https://hillcrest-gcc.com/,,850 North Walnut Street,Batesville,IN,47006,US,39.3041251,-85.2234022,2026-10-11T13:30:20Z
+f8792c46-f513-406e-bf47-39b1e622087f,way/620392018,,,practice,,,active,,,,,,,,,,IN,,US,39.6081865,-86.073592,2026-10-11T15:12:20Z
+f8aafb53-bc96-463f-87d8-5aee68428c59,way/130413982,Morris Park Country Club,,course,,,active,,,,,,,,,,IN,,US,41.6837249,-86.2107137,2026-10-11T15:11:57Z
+f93ec6dd-feff-4c4c-a0b8-3fc44f2d2ae6,way/179325193,Woodstock Club,,course,,,active,,,,,+1-317-926-3348,https://www.woodstockclub.com/,,1301 West 38th Street,Indianapolis,IN,46208,US,39.8228655,-86.1836822,2026-10-11T15:12:01Z
+f94c92b2-333f-42ca-a17e-d4cd7113db9c,way/295399894,Bridgewater Golf Club,,course,,,active,18,72,,,+1-260-925-8184,https://www.bridgewatergc.com/,,1818 Morningstar Road,Auburn,IN,46706,US,41.3838236,-85.0332945,2026-10-11T15:06:21Z
+f9e09d73-6a89-4afa-a89f-7deada4d9d5b,way/744941030,,,course,,,active,,66,,,,,,,,IN,,US,41.2234709,-85.8810898,2026-10-11T15:06:33Z
+facf513f-ea49-466b-9bff-aab9212174b7,relation/14114368,White Hawk Country Club,,course,,,active,,,,,+1 219 661 1300,https://www.whitehawkcountryclub.com/,,1001 White Hawk Drive,Crown Point,IN,46307,US,41.4387919,-87.3827363,2026-10-11T15:12:41Z
+faf19b8e-81e4-42c6-a415-15c9a9024c7f,way/223957601,Lansing Country Club,,course,,,active,,,,,,https://www.lanscc.com/,,18600 Wentworth Avenue,Lansing,IN,60438,US,41.5515658,-87.5238877,2026-10-11T15:12:03Z
+fb1e9915-29ed-4907-a026-56a5479b45d9,way/177971827,Cedar Lake Golf Club,,course,,,active,18,72,,,+1-260-562-3923,https://cedarlakegc.com/,,3355 E 700 N,Howe,IN,46746,US,41.745854,-85.3627309,2026-10-11T15:12:01Z
+fb48e9a4-1c54-4078-b995-fa1984eaa9cc,way/1135962610,Old Orchard GC,,course,,,active,18,,,,,,,,,IN,,US,41.671164,-85.939523,2026-10-11T15:06:36Z
+fc01d99a-89d9-416f-93ec-b880290d28b1,way/172048954,Indian Ridge Country Club,,course,,,active,,,,,,,,,,IN,,US,41.5016124,-87.2514049,2026-10-11T15:12:01Z
+fd185d85-5e27-4082-bbca-64f971a13749,way/554775990,Centennial Park 9-Hole Golf Course,,course,,,active,,,,,,,,,,IN,,US,41.5317615,-87.5022896,2026-10-11T15:12:18Z
+fd2348e0-13bd-489f-a1a4-4e4b7d256f4f,way/911396220,SaddleBrook Golf Club,,course,,,active,,36,,,,,,,,IN,,US,39.8572443,-86.2215891,2026-10-11T15:06:35Z
+fd29f7f6-5f0d-4d8b-9519-b8918c58f5d2,way/295505716,White Lick Golf Course,,course,,,active,,,,,,,,,,IN,,US,39.9256195,-86.4002163,2026-10-11T15:06:21Z
+fd66a354-eee2-4b65-a38b-70bd6eb32766,way/1206400355,Wooded View Golf Course,,course,,,active,18,71,,,+1-812-283-3382,https://woodedviewgc.com/,,2405 Greentree North,Clarksville,IN,47130,US,38.337711,-85.7706163,2026-10-11T15:12:27Z
+fe5e37b0-a5cf-49fc-a503-c97c9dfb25af,relation/15649768,Winding Ridge Golf Club,,course,,,active,18,72,,,,,,,,IN,,US,39.8486398,-85.9631152,2026-10-11T15:12:43Z
+fea7b959-5629-41d0-9c44-0bb0bde6a552,way/30967460,Donald Ross Golf Club,,course,,,active,,,,,+1-260-745-7093,https://www.donaldrossgolfclub.com/,,,,IN,,US,41.0205251,-85.1390553,2026-10-11T15:11:49Z
+feaf92ed-3642-41a2-a678-705d133efadf,way/548793943,Canterbury Green Golf Course,,course,,,active,18,,,,,,,2727 Canterbury Boulevard,Fort Wayne,IN,46835,US,41.1271474,-85.1053649,2026-10-11T15:12:18Z
+ff6d4566-6ec5-4cc0-b15d-8eb993506397,relation/14356022,Legacy Hills Golf Club,,course,,,active,18,72,,,+1-219-324-4777,https://www.legacyhillsgolfclub.com/,,299 W. Johnson Road,LaPorte,IN,46350,US,41.6424968,-86.7539319,2026-10-11T15:12:41Z
+ff8d0a69-f884-4470-bb5c-f43fc0c18d8c,way/310392569,Cross Creek Golf Club,,course,,,active,,,,,,,,,,IN,,US,40.8359535,-84.9447198,2026-10-11T15:12:12Z

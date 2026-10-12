@@ -1,0 +1,9 @@
+id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
+18157874-5d08-475f-ae22-b4c19d7a044e,way/803134126,Mahogany Run Golf Course,,course,,,active,18,70,,,,,,,,VI,,US,18.3605837,-64.9075652,2026-10-11T15:12:21Z
+23e8c0de-6d06-402c-84d4-c7173767d05e,way/28701109,,,course,,,active,18,70,,,,,,,,VI,,US,17.7477605,-64.8213595,2026-10-11T15:11:49Z
+9a610163-1824-4243-9d8e-e908bda32a1b,node/13884258170,The Reef,,course,,,active,,,,,,,,,,VI,,US,17.7539259,-64.6085485,2026-10-11T13:29:32Z
+b31b4ed0-523a-43e3-adce-9eb744e1bfe4,way/28609376,Buccaneer Golf Course,,course,,,active,,,,,,,,,,VI,,US,17.7536715,-64.6827345,2026-10-11T15:06:00Z
+b7f9d383-b238-4b18-9f48-bf8cb0f31b1d,way/918347371,Herman E. Moore Golf Course,,course,,,active,,,,,,,,,,VI,,US,18.3420003,-64.9693571,2026-10-11T15:12:23Z
+baa98bfb-6f2b-4faf-8933-322a2c70f899,way/28609114,Buccaneer Golf Course,,course,,,active,,,,,,,,,,VI,,US,17.7534191,-64.6764837,2026-10-11T15:11:49Z
+f045a2de-d6a8-4bfd-a9e0-2f5fd14ff6db,way/28609517,Buccaneer Golf Course,,course,,,active,,,,,+1 340-778-5638,,,72 Estate River,Kingshill,VI,,US,17.7565842,-64.6804791,2026-10-11T13:29:34Z
+ff142b03-afb2-4f3b-8a84-2f22b88e8685,way/28609347,,,course,,,active,,,,,,,,,,VI,,US,17.7510104,-64.6790512,2026-10-11T15:11:49Z

@@ -1,0 +1,323 @@
+id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
+007fbf7a-95ed-40c8-9514-f0989ea05122,relation/8541335,St. Peters Golf Course,,course,,,active,18,70,,,,,,,,MO,,US,38.7950675,-90.6473484,2026-10-11T15:12:38Z
+0223554f-ac01-4bd4-ae1e-57a54225bc89,node/2882365085,The Hill Course,,course,,,active,,,,,,,,,,MO,,US,38.986333,-94.5238809,2026-10-11T13:29:32Z
+0245e591-116d-476b-8382-f4d6c15a2b1e,way/542340055,Bridgeton Berry Hill Golf Course,,course,,,active,9,36,,,,,,11919 Berry Hill Road,Bridgeton,MO,63044,US,38.7639076,-90.3984406,2026-10-11T15:06:30Z
+038a8817-e89b-4209-9f91-32f5ecf3b398,way/389639438,Mexico Country Club,,course,,,active,9,36,,,,http://www.mexicocountryclub.com/,,,,MO,,US,39.1656859,-91.8566742,2026-10-11T15:12:14Z
+04b3952e-ff18-4c45-b774-5149699f5547,way/376317257,Butler Country Club Golf Course,,course,,,active,,,,,,,,,,MO,,US,38.2450482,-94.333849,2026-10-11T15:12:14Z
+06adb48a-94c5-4874-ab18-7068281cbf0a,way/378185566,Elk River Golf Course,,course,,,active,,,,,+1 417 475 3208,https://www.freewebs.com/elkrivergolfcourse/,,,Noel,MO,64854,US,36.5557758,-94.5029143,2026-10-11T15:12:14Z
+08cc4629-85ca-4099-bbaa-f4232764e911,way/338803850,,,course,,,active,9,35,,,,,,,,MO,,US,36.5846188,-89.5425874,2026-10-11T15:12:14Z
+0a90e171-197e-4f4a-bab1-e83f8a6beb01,way/396491255,,,course,,,active,,,,,,,,,,MO,,US,37.9406066,-90.1437385,2026-10-11T13:30:44Z
+0c4f08c4-4588-4512-a62f-1010175674b2,way/364211693,,,course,,,active,,,,,,,,,,MO,,US,36.5234949,-93.6136939,2026-10-11T13:30:39Z
+0c9936a8-53e8-4ae1-845e-1aa3efb52b7d,way/1537590304,Golf Ranch Shoal Creek,,course,,,active,,,,,,,,,,MO,,US,39.2656576,-94.5133081,2026-10-11T15:12:30Z
+0d97f565-0bc3-496d-b096-48d992132a14,way/251434296,Neosho Golf Club,,course,,,active,,4,,,+1 417 451 1543,http://www.neoshomo.org/index.aspx?NID=141,,1850 Club House Road,Neosho,MO,64850,US,36.8473785,-94.3981912,2026-10-11T15:12:05Z
+0d9ec331-a16a-4d84-9507-8ba849a65990,way/431674088,Ballwin Golf Course & Event Center,,course,,,active,9,36,,,+1-636-227-1750,https://www.ballwingolfcourse.com/,,333 Holloway Road,Ballwin,MO,63011,US,38.6039401,-90.544608,2026-10-11T15:12:15Z
+0f9a44e3-7bae-4cce-a89a-b57a0e400b77,way/315837568,Oakwood Country Club,,course,,,active,,,,,+1-816-761-5501,https://www.oakwoodcountryclub.org/,,9800 Grandview Road,Kansas City,MO,65137,US,38.9456652,-94.5532728,2026-10-11T15:06:24Z
+105e7324-7b24-4044-81e2-58f7e01618ce,way/157524133,,,course,,,active,18,71,,,,,,,,MO,,US,38.7230536,-90.6867391,2026-10-11T15:12:01Z
+10685468-1150-4a8e-8a34-80a8a31ad242,way/851506116,Tarkio Golf Club,,course,,,active,9,38,,,,https://tarkiogolfclub.com/,,,,MO,,US,40.4484561,-95.3912069,2026-10-11T15:12:23Z
+1102b616-9bf3-44e0-882c-4bd771295b1c,way/360435563,Twin Hills Golf & Country Club,,course,,,active,,,,,+1 417 623 4112,https://www.twinhillsgolf.net/,,2019 South Country Club Drive,Joplin,MO,64801,US,37.0668692,-94.5631531,2026-10-11T13:30:39Z
+1212de85-1649-4b8a-8020-e6162aca2d3d,relation/5937144,,,course,,,active,,,,,,,,,,MO,,US,38.4858235,-94.3510012,2026-10-11T15:12:36Z
+121b2af1-95e3-479c-a17f-ba79457c3376,way/195221881,Shoal Creek Golf Course,,course,,,active,18,71,,,,,,,,MO,,US,39.252797,-94.478879,2026-10-11T15:12:01Z
+133d7f5c-6fc1-4a1d-a4ec-ec5675c06897,way/393007585,,,course,,,active,,,,,,,,,,MO,,US,38.1248067,-92.6881548,2026-10-11T15:12:15Z
+1367b77d-ffe3-43ce-b3f4-4bb7a821f976,way/389639426,Arthur Hills Golf Course,,course,,,active,18,,,,,,,10717 Audrain Rd 929,Mexico,MO,65265,US,39.1815694,-91.9309045,2026-10-11T13:30:39Z
+137ee2b2-f0c1-4df8-b314-e0f688da922d,relation/20346860,Whitmoor Country Club - North Course,,course,,,active,,59,,,,,,,,MO,,US,38.7197293,-90.6275624,2026-10-11T15:12:45Z
+13ae7088-88c0-419d-b756-a2867295c775,way/365221095,Warrenton Golf Course,,course,,,active,,,,,+1 636 456 8726,https://warrentongolfcourse.com/,,24805 South Highway 47,Warrenton,MO,63383,US,38.7633915,-91.1513291,2026-10-11T15:12:14Z
+13d5349d-9faf-4c75-b4aa-1c1129caefbf,way/151229184,Norwood Hills Country Club,,course,,,active,,67,,,+1 314-521-0682,https://www.norwoodhills.com/,,1 Norwood Hills Country Club Drive,Saint Louis,MO,63121,US,38.7222494,-90.2842884,2026-10-11T13:29:58Z
+157eb892-5dc0-4f3b-a969-11b2f2fee08e,way/1434067007,,,course,,,active,9,,,,,,,,,MO,,US,39.7093711,-94.750885,2026-10-11T15:12:29Z
+15d09666-55d6-4f97-9794-9251e2b8aedb,way/386481699,,,course,,,active,,,,,,,,,,MO,,US,39.4045033,-91.1099708,2026-10-11T15:12:14Z
+166c70f0-c5a8-4eec-b929-4e620a795eab,way/546878808,Flight Range,,practice,,,active,,,,,+1-314-330-4869,https://alohastl.com/,,13502 Big Bend Road,St. Louis,MO,63122,US,38.5667846,-90.4728792,2026-10-11T15:12:18Z
+17265cb5-b8ef-4956-bc5e-52259269d6fd,way/250886881,,,course,,,active,18,74,,,,,,,,MO,,US,36.9833661,-93.3686304,2026-10-11T15:12:05Z
+19340de3-783b-4bbd-b744-b6e27e0f0652,way/578561076,,,course,,,active,,,,,,,,,,MO,,US,37.0016495,-91.9555387,2026-10-11T15:12:20Z
+194578e0-3b3b-4a82-a417-f1277104e0fa,way/364540957,Lost Woods Golf Course,,course,,,active,,,,,+1 417 273 4877,http://www.lostwoodsgolf.com/,,131 Lost Woods Drive,Theodosia,MO,65761,US,36.5609406,-92.6397427,2026-10-11T15:12:14Z
+19e15b22-ae9f-489d-801a-3075584ffe46,way/470143824,Fairview Golf Course,,course,,,active,18,,,,,,,,,MO,,US,39.7442635,-94.8136054,2026-10-11T15:12:17Z
+1a132f91-6c1f-4f1d-909e-f3a61e23102b,way/251820799,Sunset Country Club,,course,,,active,18,72,,,,,,9555 Geyer,Sappington,MO,,US,38.5328561,-90.3977759,2026-10-11T15:12:05Z
+1a81672b-a50a-41cd-8782-f503d4465ec1,way/339380535,Mound City Golf Club,,course,,,active,9,36,,,+1 660 442 5780,https://www.moundcitygolf.com/,,1806 Nebraska Street,Mound City,MO,64470,US,40.1515571,-95.2328984,2026-10-11T15:12:14Z
+1b0781fd-a419-4597-a520-1d8657b07663,way/374452258,Bolivar Municpal Golf Course,,course,,,active,,,,,,,,,,MO,,US,37.6089419,-93.4293561,2026-10-11T15:12:14Z
+1b52ccf5-f8e7-4bc0-959a-bde54ea4dad3,way/165336340,Eagle Springs Golf Course,,course,,,active,18,72,,,+1 314-355-7277,https://www.eaglesprings.com/,,2575 Redman Road,Florissant,MO,63136,US,38.7866896,-90.2483776,2026-10-11T15:12:01Z
+1bd0f706-2da1-478a-9a4d-fcc8c9f22296,way/183100156,,,course,,,active,18,,,,,,,,,MO,,US,38.2174382,-91.145525,2026-10-11T15:06:14Z
+1bdc4417-8c3a-4813-b912-f12aa24af3cc,way/315838451,Country Creek Golf Club - Hoot's Hollow,,course,,,active,,,,,+1-816-380-4920,https://www.countrycreekgolf.com/,,20800 East 215th Street,Pleasant Hill,MO,64080,US,38.7319835,-94.3559812,2026-10-11T15:12:12Z
+1c849858-f80a-4bda-9aab-85fa582753de,way/1309052835,Tower Tee Golf & Recreation,,course,,,active,,,,,+1 314-833-3322,https://www.towertee.com/,,6727 Heege Road,St. Louis,MO,63123,US,38.5668128,-90.3277614,2026-10-11T15:12:29Z
+1d23b71f-5ba1-4d9d-b8e2-786655649ddf,way/371337757,Shirkey Golf Course,,course,,,active,18,72,,,+1 816 470 2582,https://www.shirkeygolfcourse.com/,,901 Wollard Boulevard,Richmond,MO,64085,US,39.2666928,-93.9517484,2026-10-11T15:12:14Z
+1d96251c-99c6-493b-ba11-33c20927d412,way/39514009,Center Creek Country Club,,course,,,active,,,,,,,,,,MO,,US,37.0858088,-94.1634496,2026-10-11T15:11:51Z
+1eb1ca32-548e-4b41-905d-9ce8f3c03f34,relation/17061374,Golf Club of Wentzville,,course,,,active,18,71,,,,,,9 Pro Shop Drive,Wentzville,MO,63385,US,38.792377,-90.8965621,2026-10-11T15:12:43Z
+21ba8cef-8631-4897-9e24-6c72a6984a5f,way/389489808,Higginsville Country Club,,course,,,active,,,,,,,,,,MO,,US,39.0668117,-93.6663759,2026-10-11T15:12:14Z
+21c09e98-56c2-47c5-be39-4e62a1039011,way/267609137,Horton Smith Municipal Golf Course,,course,,,active,,,,,+1-417-891-1639,https://www.parkboard.org/golf/horton/,,2409 South Scenic Avenue,,MO,65807,US,37.1724565,-93.3364853,2026-10-11T15:12:07Z
+223ceafd-cfc7-4020-bc6d-159792e7da1c,relation/5597131,Stone Canyon Golf Club,,course,,,active,18,72,,,+1 816 228 3333,http://www.stonecanyongolfclub.com/,,22415 East 39th Street South,Blue Springs,MO,64015,US,39.0427869,-94.3179918,2026-10-11T15:12:36Z
+24554f9b-459b-4ddc-8852-b2660322cba7,relation/3939927,Lake Saint Louis 9-Hole Golf Course,,course,,,active,,,,,+1-636-625-8276,https://lslca.com/jupgrade/index.php/amenities/golf,,100 Cognac,Lake Saint Louis,MO,63367,US,38.7959568,-90.7971022,2026-10-11T15:12:35Z
+25181a88-2471-47e5-a297-91cfe74af83e,way/42765475,Westborough County Club,,course,,,active,18,68,,,,,,,,MO,,US,38.5801333,-90.3813922,2026-10-11T15:11:53Z
+256c54b0-6193-433c-bdac-687b260f7f21,way/913716804,Par 3 Executive Course,,par3,,,active,,31,,,,,,,,MO,,US,38.9219918,-94.4539399,2026-10-11T15:06:35Z
+276f67e4-1eb7-43af-b0f3-a450932802f9,way/1225697864,Shawnee Bend Golf Course,,course,,,active,,,,,,,,,,MO,,US,38.2517273,-93.4159289,2026-10-11T15:12:27Z
+28453dbb-e974-4d0d-b0a0-4276aafc870a,way/398740998,Oakwood Golf Club,,course,,,active,9,,,,+1 417 967 3968,https://www.theoakwoodgolfclub.com/,,7453 Country Club Lane,Houston,MO,65483,US,37.3217528,-91.9177026,2026-10-11T15:12:15Z
+284ff554-bbe3-40a7-b22d-4eebbea54a59,way/365220481,Franklin County Country Club,,course,,,active,18,70,,,+1 636 239 6678,https://fcccgolf.com/,,6413 Country Club Road,Washington,MO,63090,US,38.5040164,-91.0390698,2026-10-11T15:12:14Z
+285c7cbf-1b7a-4a5c-9887-598ec2ba979e,way/213510115,,,course,,,active,,,,,,,,,,MO,,US,37.9311524,-90.5457152,2026-10-11T15:12:03Z
+2b801d33-e2f7-4a23-b59d-406b035d5f9f,way/386240532,American Legion Golf Course,,course,,,active,,,,,,,,,,MO,,US,39.7003461,-91.4015393,2026-10-11T13:30:39Z
+2c19dae1-9800-4b2e-85da-35eb8fa6fcc6,way/182976668,,,course,,,active,,,,,,,,,,MO,,US,37.9205794,-90.9224544,2026-10-11T15:06:14Z
+2cd67872-0ee8-4427-a619-4d194ab39738,relation/3939926,Heritage of Hawk Ridge,,course,,,active,,3,,,+1-636-625-3836,https://www.heritageofhawkridge.com/,,225 Pigeon Drive,Lake Saint Louis,MO,63367,US,38.7768204,-90.8092098,2026-10-11T15:06:45Z
+2ebc065d-0eb9-4ffd-a502-e343dcc93af6,way/341313709,Saint James Golf Club,,course,,,active,,,,,+1-573-265-8688,http://www.stjgc.com/,,11780 State H,Missouri Highway 68,MO,65559,US,37.980436,-91.5981386,2026-10-11T15:12:14Z
+2eee303d-1cce-490c-b562-fd89e49de99c,way/914904549,Osage Country Club,,course,,,active,,,,,,,,193 County Route 605,Linn,MO,65051,US,38.4867659,-91.8637175,2026-10-11T15:12:23Z
+2f54d9a9-7927-4c9d-8a9c-2836cb8ec101,way/390927233,Cameron Veteran's Memorial Golf Club,,course,,,active,,,,,+1 816 632 2626,https://www.camerongolfclub.com/,,1000 Park Avenue,Cameron,MO,64429,US,39.7281627,-94.2479674,2026-10-11T15:12:15Z
+3089f2f8-1109-4ac3-9a54-95fb76cc04ae,way/279673150,Paradise Point Golf Course,,course,,,active,,50,,,,,,,,MO,,US,39.4256056,-94.5464477,2026-10-11T15:12:07Z
+30f7d7bc-8312-41c2-940e-5f21280d03b7,relation/5982281,Fremont Hills Country Club,,course,,,active,,9,,,+1 417 725 1506,https://fremonthillsgolf.com/,,1953 Fremont Hills Drive,Fremont Hills,MO,65714,US,37.0639874,-93.2544697,2026-10-11T15:12:36Z
+31446c50-2ddc-4932-bf3a-6e15088c6f69,way/1562554888,,,course,,,active,18,72,,,,,,,,MO,,US,38.656304,-90.6452707,2026-10-11T15:12:30Z
+318ad9a0-0f09-439a-a4cf-fb75967af2a9,way/385663994,Unionville Country Club,,course,,,active,9,35,,,,,,,,MO,,US,40.4740386,-92.9828964,2026-10-11T15:12:14Z
+33a1dcd3-d985-493e-92f5-880eb3198ec7,relation/5160832,Raintree Country Club,,course,,,active,,,,,+1-636-789-4466,https://www.raintreecountryclub.net/,,5925 Plantation Drive,Hillsboro,MO,63050,US,38.2546494,-90.6018624,2026-10-11T15:12:36Z
+37238051-d67b-4680-b1e6-3f02e824fe5b,way/389936104,Railwood Golf Club,,course,,,active,,,,,+1 573 896 4653,https://www.railwoodgolf.com/,,12925 County Road 4037,Holts Summit,MO,65043,US,38.5945668,-92.113795,2026-10-11T13:30:44Z
+3816ebf4-3462-4518-95ba-704b4b1e853e,way/246350860,Tipton Country Club,,course,,,active,,,,,+1 660 433 2321,https://www.tiptonmocountryclub.com/,,620 Highway 50,Tipton,MO,65081,US,38.6515215,-92.7904961,2026-10-11T15:12:05Z
+383f1e67-4d9b-4c01-9075-ea02bc0a7541,way/360436458,Schifferdecker Golf Course,,course,,,active,18,,,,+1 417 624 3533,,,,,MO,,US,37.0883412,-94.5537035,2026-10-11T15:12:14Z
+38c5be35-2c59-4fbf-a272-e036c8e1faa0,relation/5624649,Eagle Creek Golf Club,,course,,,active,,,,,,,,,,MO,,US,36.9923579,-94.5907445,2026-10-11T15:12:36Z
+38eab7b0-0b2f-48b9-9e2f-084c5e8778eb,way/550931000,Carrollton Park DGC,,disc,,,active,,34,,,,http://stlouisdiscgolfclub.com/courses/#Bridgeton,,14861 Phelps Drive,Bridgeton,MO,63044,US,38.7598033,-90.4237404,2026-10-11T15:12:18Z
+3946e9bb-eec7-41b2-8b36-bffffafa0319,way/398276897,Twin Oaks Country Club,,course,,,active,18,71,,,+1 417 881 4744,https://www.twinoakscountryclub.com/,,1020 East Republic Road,Springfield,MO,65807,US,37.1336122,-93.2830515,2026-10-11T15:12:15Z
+39d038f0-55b0-4453-827c-1570825abf34,way/340776601,Sandstone Country Club,,course,,,active,18,,,,,,,77 Northwest Division Road,Warrensburg,MO,64093,US,38.7643001,-93.7620508,2026-10-11T15:12:14Z
+39dac66f-9a7f-4605-916d-3c48ceb5105b,way/397984116,,,course,,,active,,,,,,,,,,MO,,US,37.5834673,-93.3459912,2026-10-11T15:12:15Z
+3a9802fc-c7bd-48fc-97f8-74d3ea767fb6,way/218843731,Perryville Country Club,,course,,,active,9,35,,,,,,,,MO,,US,37.7148327,-89.8790563,2026-10-11T15:12:03Z
+3aea667c-db3c-451c-b647-4722ee47c3f5,way/317021701,Shiloh Springs Golf Course,,course,,,active,,,,,+1 816 270 4653,http://www.shilohspringsgolf.com/,,14750 Fairway Lane,Platte City,MO,64079,US,39.3617378,-94.7280011,2026-10-11T15:12:12Z
+3c28d143-54dc-4ee5-9e79-030a8f00954b,way/1540270780,Wedgewood Country Club,,course,,,active,,,,,,,,,,MO,,US,37.1545363,-92.1846271,2026-10-11T15:12:30Z
+3c365105-e2e0-4e59-8e85-cc81db1d2d60,relation/20252486,The Highlands Golf Course,,course,,,active,9,,,,,https://www.highlandsgolfandtennis.com/,,5163 Clayton Avenue,,MO,,US,38.6354163,-90.2754967,2026-10-11T15:12:45Z
+3d962483-4658-473a-b66e-79e820ce0555,way/386054061,Sedalia Country Club,,course,,,active,18,70,,,+1 660 826 2044,https://www.sedaliacountryclub.com/,,5074 Highway Y,Sedalia,MO,65301,US,38.6967542,-93.2943571,2026-10-11T15:12:14Z
+3dd9a87e-9d4d-4cc7-b585-79695b90ee56,way/341308049,Oak Meadow Country Club,,course,,,active,18,70,,,+1-573-341-2363,http://www.golfomcc.com/,,10700 County Road 3110,Rolla,MO,65401,US,37.9616047,-91.7017719,2026-10-11T15:12:14Z
+3ecfb761-0e7d-461c-8007-8f63963cddc2,relation/5604797,Country Club at Loch Lloyd,,course,,,active,,36,,,+1 816 322 1022,https://lochlloyd.com/golf/,,16750 Country Club Drive,Loch Lloyd,MO,64012,US,38.8349044,-94.5953927,2026-10-11T15:12:36Z
+3f038151-a28f-4a45-8381-b55d66fcec9e,way/157522177,Old Hickory Golf Club,,course,,,active,18,72,,,,,,1 Dye Club Drive,,MO,,US,38.7566018,-90.628643,2026-10-11T15:12:01Z
+3f53a26c-3e6d-4177-9cbd-e928912bb150,way/398202812,Honey Creek Golf Club,,course,,,active,,,,,+1 417 678 3353,http://www.honeycreekgolfclub.com/,,15276 Highway K,Aurora,MO,65605,US,37.0543526,-93.7118449,2026-10-11T13:30:44Z
+3f54e2d2-84a8-42ae-a87e-a3769576f3d6,way/385253002,Maryville Country Club,,course,,,active,9,36,,,+1 660 582 5122,https://www.maryville-countryclub.com/,,25867 Icon Road,Maryville,MO,64468,US,40.3475994,-94.8974693,2026-10-11T15:12:14Z
+4042b25e-02ff-4e76-85db-28e00423561e,way/576049025,,,course,,,active,9,36,,,,,,,,MO,,US,37.1837612,-90.6818585,2026-10-11T13:30:51Z
+406ba91e-0ec7-4000-99c6-6258d89ab3cd,way/41084517,Greenbriar Hills Country Club,,course,,,active,18,,,,+1 314-822-3011,https://www.greenbriarcc.com/,,12665 Big Bend Road,Kirkwood,MO,63122,US,38.5733537,-90.4500951,2026-10-11T15:11:53Z
+40ff6e2f-02d2-477d-ac48-4cbc017dfb21,way/395478943,Triple Creek Golf Course,,course,,,active,,,,,+1 660 668 4653,https://www.triplecreekgolf.com/,,333 Triple Creek Drive,Cole Camp,MO,65325,US,38.456147,-93.1885877,2026-10-11T13:30:44Z
+429fd88d-9605-47b3-ace5-413f4248b5d9,relation/12263159,Top of the Rock Golf Course,,par3,,,active,9,27,,,,https://bigcedar.com/golf/top-of-the-rock-course/,,150 Top of the Rock Road,Ridgedale,MO,65739,US,36.5435293,-93.25141,2026-10-11T15:12:41Z
+42b9335b-b845-412b-a322-29989f246520,way/397687774,,,course,,,active,,,,,,,,,,MO,,US,37.7642697,-92.7315219,2026-10-11T15:12:15Z
+43326030-de87-4208-82eb-2a54da72fbc2,relation/5431970,The Country Club of Saint Albans,,course,,,active,,,,,+1 636 458 3060,http://www.ccstalbans.com/,,3165 Saint Albans Road,Saint Albans,MO,63073,US,38.5836499,-90.7559044,2026-10-11T13:31:32Z
+44eacddc-9290-4671-8fe9-8a97ededdcbc,way/891038975,Payne's Valley Golf Course,,course,,,active,,9,,,,,,1250 Golf Club Drive,Hollister,MO,65672,US,36.5640774,-93.2011957,2026-10-11T15:12:23Z
+44f1923f-72c8-423b-849b-0ea253fa35ef,relation/5762436,The Links Golf & Country Club,,course,,,active,,,,,+1 573 474 4459,https://www.lindseymanagement.com/cgi-bin/detail.cgi?type=golf&id=52,,5000 Clark Avenue,Columbia,MO,65202,US,38.9642498,-92.2618432,2026-10-11T15:12:36Z
+45188561-2b11-440e-b96b-393a771f9f00,way/157480618,The Quarry at Crystal Springs,,course,,,active,18,70,,,,https://www.quarrygc.com/golfcenter/,,1 Crystal Springs Quarry Drive,Maryland Heights,MO,63043,US,38.7252457,-90.4738291,2026-10-11T15:06:14Z
+476d6acb-5498-41b0-bd8b-16ac06cac848,way/149421579,Westwood Country Club,,course,,,active,,35,,,,,,,,MO,,US,38.6447185,-90.432497,2026-10-11T15:12:00Z
+47874b34-e06d-4c9b-81a9-cc51ba19ef40,relation/5897057,The 9 Hole,,course,,,active,,,,,,https://www.tan-tar-a.com/play/golf/courses/,,,,MO,,US,38.1334224,-92.7209958,2026-10-11T15:12:36Z
+47b0cd0c-b1f3-4ea0-874d-f9eb96ec512b,way/386572531,Eagles Bluff Golf Course,,course,,,active,18,72,,,+1 573 242 3309,http://www.eagles-bluff.com/,,16500 Highway 79,Clarksville,MO,63336,US,39.3513302,-90.8986015,2026-10-11T15:06:26Z
+47bfdff6-f414-4389-a071-861d3938f7be,way/399063747,Cape Girardeau Country Club,,course,,,active,18,70,,,+1 573 335 8251,https://cggolfclub.com/,,250 Country Club Drive,Cape Girardeau,MO,63701,US,37.3328735,-89.5010433,2026-10-11T15:12:15Z
+4a6aeafe-a85d-4529-b75c-c1d05506cac7,way/376907315,Jeremy's Creek,,course,,,active,9,35,,,,,,,Lamar,MO,64759,US,37.4754058,-94.2968351,2026-10-11T15:06:26Z
+4ce182f2-2d61-4ac8-8e09-2d47225a9dd6,way/389113859,Indian Foothills Golf Course,,course,,,active,,,,,+1 660 8310929,https://marshallmoparks.com/golf.html,,1536 East Watermill Road,Marshall,MO,65340,US,39.1081349,-93.1695842,2026-10-11T15:06:26Z
+4cf9b2ca-2892-4e23-8e80-afecf6cad89b,way/160974685,WingHaven Country Club,,course,,,active,18,72,,,+1-636-561-9464,http://www.winghavencc.com/,,7777 Winghaven Boulevard,O'Fallon,MO,63368,US,38.7570281,-90.7448796,2026-10-11T15:12:01Z
+4d36f5b0-be44-4073-98e3-7dc32c151d37,way/41043070,Riverside Golf Course,,course,,,active,,35,,,,http://riversidegolf.net/,,,,MO,,US,38.5325711,-90.4388974,2026-10-11T15:11:53Z
+4d9e9b4c-da0f-469b-9aef-ed5e9ad8ab4e,way/398449109,,,course,,,active,,,,,,,,,,MO,,US,37.3531225,-92.8877114,2026-10-11T15:12:15Z
+4edafaac-018c-422b-98d9-58576531b463,relation/7064787,Fox Run Golf Club,,course,,,active,,4,,,+1 636 938 4653,https://www.foxrungolfclub.com/,,1 Putt Lane,Eureka,MO,63025,US,38.4443948,-90.6014351,2026-10-11T15:12:38Z
+51356ee3-e29b-4be6-85c7-335f11af89d4,way/371838690,,,course,,,active,,,,,,,,,,MO,,US,40.2161011,-94.5268869,2026-10-11T15:12:14Z
+525d52f3-8a02-4a3a-a437-1acb2af06421,way/205229544,Eldon Golf Club,,course,,,active,,,,,,,,,,MO,,US,38.3289281,-92.5945416,2026-10-11T15:12:03Z
+52766225-eb00-4254-b898-95b95e462ef7,relation/5897059,The Oaks,,course,,,active,,,,,,https://www.tan-tar-a.com/play/golf/courses/,,,,MO,,US,38.1334929,-92.6962683,2026-10-11T15:12:36Z
+529f5bce-b7ae-49c5-9319-5158b0f431f9,relation/5429230,Pevely Farms Golf Course,,course,,,active,18,72,,,+1 636 938 7000,https://www.pevelyfarms.com/,,400 Lewis Road,Saint Louis,MO,63025,US,38.5257814,-90.5981432,2026-10-11T15:12:36Z
+52c5db56-fc69-4a0d-82ed-ee198ecd29b3,way/391405348,Moila Country Club,,course,,,active,,,,,+1 816 232 5129,https://www.moilacountryclub.com/,,701 North Noyes Boulevard,St. Joseph,MO,64506,US,39.7728425,-94.820048,2026-10-11T15:12:15Z
+53380959-e075-40dd-b0cb-a45af72c3d7d,way/316101761,Winterstone Golf Course,,course,,,active,18,72,,,+1-816-257-5755,http://www.winterstonegolf.com/,,17101 East Kentucky Road,Independence,MO,64058,US,39.1250818,-94.3787228,2026-10-11T15:06:24Z
+53c8de69-6c3e-452f-a726-55465b26ddaa,relation/5981089,Rivercut Golf Course,,course,,,active,18,72,,,+1 417 891 1645,https://www.parkboard.org/935/Rivercut-Golf-Course,,2850 West Farm Road 150,Springfield,MO,65810,US,37.1008791,-93.3421133,2026-10-11T15:12:36Z
+53c9c06c-a667-4e53-9a2d-553999d5f594,way/358461043,,,course,,,active,18,71,,,,,,,,MO,,US,38.1913337,-92.689222,2026-10-11T15:12:14Z
+53f4547b-2838-4e05-b792-addb79aa91e7,way/210811931,Viburnum Golf & Country Club,,course,,,active,9,36,,,,,,,,MO,,US,37.731257,-91.1114539,2026-10-11T15:12:03Z
+54169df4-43b9-4a07-92a9-1472ea1dcd4a,way/390437839,,,course,,,active,,,,,,,,,,MO,,US,39.4546104,-91.9625057,2026-10-11T15:12:15Z
+547ca68a-7ae4-48e2-8fa8-d104dbce7e6d,node/6977364012,The Windmill,,course,,,active,,,,,,,,19855 State Highway B,Moberly,MO,65243,US,39.278752,-92.368025,2026-10-11T13:29:32Z
+55978303-07d7-4c38-af2e-af621f1a7dba,node/2882365087,The River Course,,course,,,active,,,,,,,,,,MO,,US,38.9919431,-94.5278009,2026-10-11T13:29:32Z
+55985e67-191e-4933-b41d-6cebc97d0857,way/364633214,West Plains Country Club,,course,,,active,,,,,+1 417 256 7197,https://www.westplainscountryclub.com/,,,,MO,,US,36.7355824,-91.8803502,2026-10-11T15:12:14Z
+55a33275-c2b9-4d31-a7e7-89ec638ad563,way/1209250489,Shamrock Hills Golf Club,,course,,,active,18,71,,,,http://www.shamrockhills.com/,,,,MO,,US,38.8635434,-94.3665596,2026-10-11T15:12:27Z
+55bcfb63-51e9-4db4-8c01-6cdd2f03a019,way/1128328726,Ozarks National Golf Course,,course,,,active,18,71,,,,,,1250 Golf Club Dr,Hollister,MO,65672,US,36.5594771,-93.1794691,2026-10-11T15:06:36Z
+573311ce-e39f-4338-a5d2-8d52fb37abbc,way/391311524,Duncan Hills Golf Course,,course,,,active,,,,,+1 816 324 7575,https://www.duncanhillsgolf.com/,,400 East Duncan Drive,Savannah,MO,64485,US,39.9526822,-94.8172762,2026-10-11T15:12:15Z
+58f34728-b600-47be-b54b-82c0e1bea9c0,relation/2627953,Staley Farms Golf Club,,course,,,active,,,,,,,,,,MO,,US,39.2818563,-94.5455456,2026-10-11T15:12:33Z
+594e417e-6368-4ee0-bda2-3864f77666dc,way/392297500,Rolling Hills Country Club,,course,,,active,18,71,,,+1 573 378 5109,http://www.playrollinghills.com/,,13986 Country Club Road,Versailles,MO,65084,US,38.467711,-92.8134209,2026-10-11T15:12:15Z
+59e5b16b-5405-4de0-87f8-a13439b6d497,way/389612195,,,course,,,active,,,,,,,,,,MO,,US,40.0634822,-93.6162867,2026-10-11T15:12:14Z
+5a64fd43-e84d-40eb-9c9c-e4aca9a8a43c,relation/18343759,Norman K. Probstein Golf Course,,course,,,active,,,,,+1 314-367-1337,https://www.forestparkgc.com,,6141 Lagoon Drive,Saint Louis,MO,63112,US,38.6430578,-90.2945504,2026-10-11T15:06:54Z
+5a9552f0-d7bc-4f21-9d84-6433fe0aef34,way/165326812,Florissant Golf Club,,course,,,active,18,72,,,+1 314-741-7444,http://www.golfclubofflorissant.com/,,50 Country Club Lane,Florissant,MO,63033,US,38.8053478,-90.2815495,2026-10-11T15:06:14Z
+5c7edb78-73b0-43be-9fb6-1b8593736e56,way/389825787,Meadow Lake Acres Country Club,,course,,,active,18,72,,,+1 573 491 3356,https://www.mlacc.org/,,2600 Meadow Lake Road,New Bloomfield,MO,65063,US,38.7068278,-92.0964794,2026-10-11T15:12:15Z
+5dc1e520-79ca-40e5-bd88-874525e79fa2,relation/21490027,Branson Hills Golf Club,,course,,,active,,,,,,,,,,MO,,US,36.6879004,-93.2353914,2026-10-11T15:06:54Z
+5e6eb177-d889-4ee3-980f-9fcacfe2bc4a,way/397687816,Great Life Golf & Fitness,,course,,,active,,,,,+1 417 532 2901,https://www.lebanonmissourigolf.com/,,16744 Highway 64,Lebanon,MO,65536,US,37.6888931,-92.7273306,2026-10-11T15:12:15Z
+5ee746d5-e73a-4169-a2ab-f1752c6de950,way/386240592,Norwoods Golf Club,,course,,,active,18,72,,,+1 573 248 1998,https://www.norwoodsgolfclub.net/,,52651 Norwoods Place,Hannibal,MO,63401,US,39.6827852,-91.4792194,2026-10-11T15:12:14Z
+60fcd8da-50cd-49e3-be40-0c6853e0055a,way/199818098,,,course,,,active,,,,,,,,,,MO,,US,39.4297855,-92.4999595,2026-10-11T15:12:03Z
+61060454-dae9-4bda-b6d3-f02679f2b2b9,node/2838876664,Outlaw Course,,course,,,active,,,,,,,,,,MO,,US,39.4306757,-94.5519138,2026-10-11T13:29:32Z
+652fc350-4b21-45ed-ab31-d1528bfb0634,relation/4541361,Indian Rock Golf Club,,course,,,active,18,72,,,+1-573-372-3023,https://www.indianrockgolfclub.com/,,100 Indian Lake Avenue,Laurie,MO,65038,US,38.2256405,-92.8006549,2026-10-11T15:12:36Z
+65ee73e9-9b3f-432c-becd-e733105ab76d,way/398580401,Randel-Hinkle Municipal Golf Course,,course,,,active,,,,,+1 417 926 5700,http://www.mountaingrove.net/golf%20course.htm,,1002 West 1st Street,Mountain Grove,MO,65711,US,37.1277288,-92.2849879,2026-10-11T13:30:44Z
+65f523c6-639e-4080-8459-ea7313ed3565,way/41098288,Quail Creek Golf Course,,course,,,active,18,72,,,,https://www.quailcreekgolfclub.com/,,,,MO,,US,38.4678998,-90.3824372,2026-10-11T15:11:53Z
+6655da9c-b908-42e2-9f5c-12fbfa8e5d46,way/397895423,Stockton Country Club,,course,,,active,9,36,,,,,,102 RB RD,Stockton,MO,65785,US,37.6837304,-93.7977978,2026-10-11T15:12:15Z
+6683671e-ab19-453a-8cde-c0d6fb5a6149,way/377082236,,,course,,,active,,,,,,,,,,MO,,US,37.388198,-93.9675284,2026-10-11T15:12:14Z
+697011f4-56ae-4d41-85e3-17f3fd892068,way/683466980,Rock Port Golf and Country Club,,course,,,active,,,,,+1-660-744-2590,,,18757 North Country Club Drive,Rock Port,MO,64482,US,40.4069444,-95.5094462,2026-10-11T15:12:20Z
+69b16335-6e71-45cd-b3e9-26252fde5498,way/30594390,Betty Allison Family Golf Center,,course,,,active,,,,,+1-417-833-9962,https://www.parkboard.org/golf/oscar_blom/index.htm,,1825 East Norton Road,,MO,65803,US,37.252778,-93.2625395,2026-10-11T15:11:49Z
+69d31cf7-3ace-4cc2-a241-7db00e66250a,way/393080132,Lake Valley Golf Club,,course,,,active,18,,,,+1 573 346 7218,https://www.lakevalleygolf.com/,,367 CC Blair Drive,Camdenton,MO,65020,US,37.9885898,-92.7982265,2026-10-11T15:12:15Z
+6a3fd9ee-8484-4087-85e3-dcffcaf69d0e,way/365774666,,,course,,,active,,,,,,,,,,MO,,US,38.2806736,-91.7134437,2026-10-11T15:12:14Z
+6aab0e58-36f3-425b-998d-971abeef7de5,way/68196001,Swope Memorial Golf Course,,course,,,active,18,72,,,,,,,,MO,,US,38.9988072,-94.5131265,2026-10-11T15:11:55Z
+6b280f88-edfa-4342-b823-98d76d7e73a5,way/396946998,Pallo's Par 3 Golf Course,,par3,,,active,,,,,+1 573 431 4455,https://www.pallospar3.com/,,15401 Turley School Road,Bonne Terre,MO,63628,US,37.9031923,-90.3945475,2026-10-11T15:12:15Z
+6c211d56-af87-4cb5-a4e6-52e4ee246fc9,way/330879515,Frank E. Peters Municipal Golf Course,,course,,,active,18,72,,,+1 417 448 5111,http://nevadamo.org/frank-e-peters-golf-course/,,,,MO,,US,37.8038595,-94.3187686,2026-10-11T15:12:12Z
+6e729484-1a98-4b44-8f43-4758c5c320d1,way/661908430,Saint Robert Golf Course,,course,,,active,,,,,,https://www.saintrobert.com/Facilities/Facility/Details/Municipal-Golf-Course-2,,Duffer Drive,Saint Robert,MO,65584,US,37.8124111,-92.1386787,2026-10-11T15:12:20Z
+6eac1f49-6675-41c8-999a-3914de0f0c03,way/1189758606,Marceline Golf Club,,course,,,active,,,,,,,,,,MO,,US,39.7060958,-92.9686527,2026-10-11T15:12:27Z
+71a828e2-410c-4553-a5c2-be781b1d1536,way/284438386,Hillcrest Golf & Country Club,,course,,,active,,,,,+1-816-523-8601,http://www.hillcrestkc.com/,,8200 Hillcrest Road,Kansas City,MO,64138,US,38.9802582,-94.5252091,2026-10-11T15:12:07Z
+73161442-86f2-4c8b-9272-332aebebef14,way/913710102,Fred Arbanas Golf Course,,course,,,active,,68,,,,,,11100 View High Drive,Kansas City,MO,64134,US,38.9186515,-94.456896,2026-10-11T15:12:23Z
+73a332f6-26be-4b68-a8ca-8a507a60633e,way/377316505,Carthage Golf Course,,course,,,active,,,,,+1 417 237 7030,https://carthagegolfcourse.com/,,2000 Richard Webster Drive,Carthage,MO,64836,US,37.171704,-94.3413232,2026-10-11T15:06:26Z
+73c1f627-23fc-40ad-8d37-6ee34bcb0ada,way/315838452,Country Creek Golf Club - The Rock & The Quarry,,course,,,active,,,,,+1-816-540-5225,https://www.countrycreekgolf.com/,,21601 East State Route P,Pleasant Hill,MO,64080,US,38.7379545,-94.3436902,2026-10-11T15:12:12Z
+747c1288-e22c-4d4c-a0f8-906c51f6e58b,way/1367183252,Lakeview Golf Course,,course,,,active,,,,,,,,,,MO,,US,39.7529842,-94.0376796,2026-10-11T15:12:29Z
+75b23819-b1cc-42be-9962-214eb4c0cc5e,relation/5755988,Golf Club of Incline Village,,course,,,active,18,71,,,,https://www.inclinevillagegc.com/,,10220 Fairway Drive,Foristell,MO,63348,US,38.8677864,-90.9578446,2026-10-11T15:12:36Z
+763bdf05-f03a-4a0f-aa4f-4e68c634337e,relation/5709877,Country Club Gardens,,course,,,active,,,,,,,,,,MO,,US,39.0346067,-94.2628347,2026-10-11T15:12:36Z
+7667603c-eba2-40f0-b6fa-083a49c70dbe,relation/2630632,The Duece at the National,,course,,,active,,,,,,,,,,MO,,US,39.2135905,-94.7021915,2026-10-11T15:12:33Z
+76dbc8ea-2f9e-47f6-ba5f-25f1304a0ec3,way/486681547,Bent Oak Park,,course,,,active,,,,,,,,1300 SE 30th Street,Oak Grove,MO,64075,US,38.9882745,-94.1113437,2026-10-11T15:12:17Z
+77acc436-3702-4183-98bd-2b68a4bd8077,way/199055539,Chillicothe Country Club,,course,,,active,,,,,+1 660 646 2922,http://www.chillicothecountryclub.com/,,Highway 65 North,Chillicothe,MO,64601,US,39.8090892,-93.5554944,2026-10-11T15:12:03Z
+77ed3b72-cbcc-4314-aa0f-18661acc2715,way/156983822,,,course,,,active,9,34,,,,,,,,MO,,US,38.7338996,-90.3809322,2026-10-11T15:12:00Z
+7858432e-9d87-4e8f-b570-4bd0836bf9bb,way/578220992,Clinton Country Club,,course,,,active,,,,,,,,,,MO,,US,38.383364,-93.7099447,2026-10-11T15:12:20Z
+78c85abf-f488-4691-a7b1-31befa0f975c,way/149385950,,,course,,,active,18,71,,,,,,,,MO,,US,38.6384743,-90.3737172,2026-10-11T15:12:00Z
+78ed5ea6-e91c-4974-b23f-9ce97451fd39,way/399135213,Ozark Ridge Golf Course,,course,,,active,18,70,,,+1 573 686 8634,https://www.poplarbluff-mo.gov/index.asp?SEC=A88C9A56-513E-452B-BA14-2D86579A3381&Type=B_BASIC,,3045 Cravens Road,Poplar Bluff,MO,63901,US,36.7268332,-90.4367777,2026-10-11T15:12:15Z
+7a2d2c84-8859-4bb8-9829-25d55ef92e1d,way/395281043,Country Club of Missouri,,course,,,active,18,72,,,+1 573 449 7201,https://www.ccmo.net/,,1300 Woodrail Avenue,Columbia,MO,65203,US,38.9109329,-92.3612236,2026-10-11T13:30:44Z
+7a7ba08d-5432-43a8-92bf-c5195702f138,way/340775726,Keth Memorial Golf Course,,course,,,active,18,70,,,,,,,,MO,,US,38.7424596,-93.7494203,2026-10-11T15:06:26Z
+7c6748ea-a813-4d0a-a92f-f69b2dd2d625,relation/5762811,The Club at Old Hawthorne,,course,,,active,,,,,+1 573 442 5280,https://www.oldhawthorne.com/,,6221 East Broadway,Columbia,MO,65201,US,38.9338567,-92.2463687,2026-10-11T15:12:36Z
+7df9b638-8ae3-4059-bf78-b99ef64920cb,way/190756815,,,course,,,active,9,36,,,,,,,,MO,,US,40.2591793,-94.3039366,2026-10-11T15:12:01Z
+7e4ed8dc-43c1-4c1b-ba14-ec1bfe4ddb2a,way/365398988,Meramec Lakes Golf Course,,course,,,active,,,,,+1 636 629 0900,https://merameclakes.com/,,321 Birdie Lane,Saint Clair,MO,63077,US,38.3175911,-90.9138027,2026-10-11T15:12:14Z
+7ee23f36-d189-45be-af9c-61a67633ec8a,way/220048430,Fox Haven Country Club,,course,,,active,,67,,,+1 573 481 2175,https://www.foxhavencc.com/,,1 Country Club Drive,Sikeston,MO,63801,US,36.8932782,-89.5597414,2026-10-11T15:12:03Z
+7f0b65d0-a512-48ee-a92b-272f2c5c073d,way/595995187,Spring Creek Golf and Country Club,,course,,,active,,,,,,,,,,MO,,US,37.6512627,-91.5585925,2026-10-11T15:06:32Z
+7f8d077c-8274-4f1d-b776-3c9651a6d174,way/195221873,Hodge Park Golf Course,,course,,,active,18,71,,,,,,,,MO,,US,39.2532934,-94.4939931,2026-10-11T15:12:01Z
+80a8d1c7-4e24-426e-ab7c-25fb59e89f7c,way/502915922,Highland Springs Country Club,,course,,,active,18,72,,,,,,,,MO,,US,37.1137765,-93.2164035,2026-10-11T15:12:18Z
+80f1fdce-3a57-4a85-b5de-d4308bc6e582,way/844385993,Piney Valley,,course,,,active,,64,,,,,,,,MO,,US,37.7349811,-92.0687396,2026-10-11T15:12:23Z
+8219aec9-7ff4-4152-8891-a5866f4d3aa3,relation/3939928,The Falls Golf Club,,course,,,active,18,71,,,+1-636-240-4653,https://www.fallsgolf.com/,,1170 Turtle Creek Drive,O'Fallon,MO,63366,US,38.7895076,-90.7237109,2026-10-11T15:12:35Z
+835650c5-6fcb-446a-bd6e-4732496e80d1,way/481051543,Wolf Hollow Golf Club,,course,,,active,,71,,,,https://www.wolfhollowgolf.com/,,4504 Highway 100,Labadie,MO,63055,US,38.507072,-90.9238156,2026-10-11T15:12:17Z
+83bdb462-5477-4531-8b6b-6827962a125f,way/390351834,,,course,,,active,,,,,,,,,,MO,,US,38.6400743,-92.5813854,2026-10-11T13:30:44Z
+83c15080-c5b2-4e84-9260-98690fdb8b1c,way/1356728104,,,course,,,active,,,,,,,,,,MO,,US,38.5222539,-90.4057272,2026-10-11T15:12:29Z
+854794a7-f53b-4a01-9eaf-a0a970343a85,way/497902966,MariMack Golf Complex,,par3,,,active,18,54,,,,,,525 South Marimack Drive,Kearney,MO,64060,US,39.371535,-94.3503011,2026-10-11T15:12:17Z
+85c63026-e423-479b-99f7-53a0942f8e8c,way/616407848,Hurryville Driving Range,,practice,,,active,,,,,,,,,,MO,,US,37.8294157,-90.4474533,2026-10-11T15:06:32Z
+86b7bc8e-1315-4459-a0a3-5f4a16b11c4c,way/399501608,Buffalo Ridge Springs Golf Course,,course,,,active,,54,,,+1 417 339 5430,https://www.topoftherock.com/buffalo-ridge-golf-course/,,1001 Branson Creek Boulevard,Branson,MO,65672,US,36.5768012,-93.1965076,2026-10-11T15:12:15Z
+87353b74-6a89-427d-9eb7-1bc4daf2157a,way/365165191,Aberdeen Golf Club,,course,,,active,18,72,,,+1 636 938 5465,https://www.aberdeengolf.com/,,4111 Crescent Road,Eureka,MO,63025,US,38.5336509,-90.6193718,2026-10-11T15:12:14Z
+89045fa1-dc1e-44f8-be12-38f61d5bdf03,way/1461860690,Innsbrook Golf Course,,course,,,active,18,70,,,,,,,,MO,,US,38.7689095,-91.0252637,2026-10-11T15:12:29Z
+89294f23-2fc0-447a-8e76-3a4141b83e34,way/388249209,Shelbina Lakeside Golf Course,,course,,,active,,,,,+1 573 588 4755,http://cityofshelbina.com/golf_course.htm,,5364 Golf Course Drive,Shelbina,MO,,US,39.7208511,-92.0455975,2026-10-11T15:06:26Z
+89841f19-e832-4647-b682-bdd0b13a8c4c,relation/5423638,,,course,,,active,18,72,,,,,,,,MO,,US,36.7834452,-90.0157379,2026-10-11T15:12:36Z
+89e21b7c-8bc3-49c6-8489-2e76ebad6dba,way/387047950,L.A. Nickell Golf Course,,course,,,active,18,,,,+1 573 499 4653,http://gogolflan.com/,,1800 Parkside Drive,Columbia,MO,65202,US,38.9764419,-92.3671295,2026-10-11T13:30:39Z
+8a66fe01-fb8e-41c8-8fb2-dc53f5ac928b,way/386240571,Hannibal Country Club,,course,,,active,9,36,,,+1 573 248 1123,https://hannibalcountryclub.com/,,1200 Country Club Drive,Hannibal,MO,63401,US,39.7203151,-91.3814886,2026-10-11T15:06:26Z
+8b5aeb1e-56a4-4f39-87fe-c7a3ad545291,way/399135201,Westwood Hills Country Club,,course,,,active,18,71,,,,,,1 Birdie Ln,Poplar Bluff,MO,63901,US,36.7339911,-90.4512701,2026-10-11T15:12:15Z
+8bce9812-1c2d-44b3-9d8b-eee8ef71fbc7,way/1119251258,,,course,,,active,,,,,,,,,,MO,,US,38.4749588,-90.3664144,2026-10-11T15:12:24Z
+8d87c157-0e36-4621-8c3d-ca43608345ef,node/5754688657,Disc Golf Course,,disc,,,active,,,,,,,,,,MO,,US,37.6500253,-91.5467696,2026-10-11T15:05:59Z
+8dbfb015-db4c-4538-a35a-ae6f917d5280,way/915687040,Twin Pines Country Club,,course,,,active,,,,,,,,,,MO,,US,38.671823,-94.3191495,2026-10-11T15:12:23Z
+8e5749f7-2831-4e1e-bc5f-51688b6dec35,way/60140061,,,course,,,active,18,72,,,,,,,,MO,,US,38.9443441,-92.6953701,2026-10-11T15:06:07Z
+8f5fc646-6e7f-4789-be0c-a2524b28c086,way/399559947,Kennett Country Club,,course,,,active,18,,,,+1 573 888 9945,https://kennettcountryclub.com/,,2121 1st Street,Kennett,MO,63857,US,36.2310338,-90.0296205,2026-10-11T15:12:15Z
+91047b8e-d691-43d9-a5fc-a90c292bcae3,way/1119984800,Bootheel Golf Course (closed),,course,,,active,,,,,,,,,,MO,,US,36.9048863,-89.5647922,2026-10-11T15:12:24Z
+912dbc74-6a7e-4695-921b-c6b9b26ae802,way/42765424,Algonquin Golf Club,,course,,,active,18,70,,,,,,,,MO,,US,38.5902778,-90.3731277,2026-10-11T15:11:53Z
+91588746-0f5f-459c-bfdb-2cd50251472e,way/377316497,Briarbrook Golf Course,,course,,,active,,,,,+1 417 649 6777,https://www.briarbrookgolfcourse.com/,,502 Briarbrook Drive,Carl Junction,MO,64834,US,37.1613191,-94.5420816,2026-10-11T15:12:14Z
+9281173c-e08c-4564-b7d3-098947ca9706,relation/5981151,Hickory Hills Country Club,,course,,,active,,,,,+1 417 866 4384,https://www.hickoryhillscountryclub.com/,,3909 East Cherry Street,Springfield,MO,65809,US,37.200201,-93.2166577,2026-10-11T15:12:36Z
+932e55a3-bc28-4696-94b1-9fedc38b4706,relation/5755987,Bear Creek Golf Club,,course,,,active,18,72,,,+1-636-332-5018,https://bearcreekgolf.com/,,158 Bear Creek Drive,Wentzville,MO,63385,US,38.8177924,-90.8971772,2026-10-11T15:06:47Z
+938c871e-c2b0-4ffa-8930-68b6cd0c65de,way/1307581723,,,course,,,active,18,71,,,,,,,,MO,,US,38.2920599,-90.3859363,2026-10-11T15:12:29Z
+93f2e84a-9be0-4a40-bd95-c3aadf5e7f18,node/2882365086,The Rock Course,,course,,,active,,,,,,,,,,MO,,US,38.9893881,-94.5222873,2026-10-11T13:29:32Z
+957b58b9-96d8-4040-960d-4aa0acc6aad1,way/745482243,,,course,,,active,,,,,,,,,,MO,,US,37.1547638,-94.5431419,2026-10-11T15:12:21Z
+9634a328-4ace-4499-bf6b-b0680b26f510,way/363828204,Windmill Ridge Golf Course,,course,,,active,,,,,+1 417 235 6076,https://www.cityofmonett.com/city_departments/golf_course_index.htm,,117 South Lincoln Avenue,Monett,MO,,US,36.9089064,-93.9257741,2026-10-11T13:30:39Z
+96b95b88-9ff2-4d03-b8a8-bf44f12a6e32,relation/6668441,Tapawingo National Golf Club,,course,,,active,,,,,+1 636 349 3100,https://www.tapawingogolf.com/,,13001 Gary Player Drive,Sunset Hills,MO,63127,US,38.5315747,-90.4284123,2026-10-11T15:06:49Z
+96e9e44a-af7d-44fd-9a88-8ed422ba1c3e,relation/2630631,The Deuce at the National,,course,,,active,,,,,,,,,,MO,,US,39.2058167,-94.6991987,2026-10-11T15:12:33Z
+981b5603-9e0a-4c92-b9d2-4db8c3d438db,relation/21420126,Thousand Hills Golf Resort,,course,,,active,,,,,,,,,,MO,,US,36.6280738,-93.2639625,2026-10-11T15:06:54Z
+98ff4aba-4e01-49c2-97f2-d85ff87f5f89,relation/13333847,Forest Hills Country Club,,course,,,active,,36,,,,https://www.foresthillscc.net/,,,,MO,,US,38.6168935,-90.594254,2026-10-11T15:12:41Z
+9a2bea70-6c45-4958-a101-b69c7f194532,way/391632478,Oak Hills Golf Center,,course,,,active,,,,,+1 573 634 6532,https://www.jeffersoncitymo.gov/facilities_and_rentals/oak_hills_golf_center/index.php,,932 Ellis Boulevard,Jefferson City,MO,65101,US,38.5451907,-92.1831365,2026-10-11T15:12:15Z
+9b55eabf-b3f7-44a2-8f00-6714b24b9fba,way/217434939,,,course,,,active,,,,,,,,,,MO,,US,37.8925905,-90.6142501,2026-10-11T15:12:03Z
+9bef9277-c8bd-464b-97b2-5cf2fc47a926,way/389136595,Carrollton Country Club,,course,,,active,,,,,+1 660 542 9888,http://www.carrolltoncountryclub.com/,,,,MO,,US,39.3815123,-93.5076873,2026-10-11T15:12:14Z
+9cbac9b9-2f68-4c4f-8a02-539eddffce34,way/387184389,Lake of the Woods Golf Course,,course,,,active,,,,,+1 573 499 4653,http://gogolflow.com/,,6700 Saint Charles Road,Columbia,MO,65202,US,38.9670342,-92.2352194,2026-10-11T13:30:39Z
+9dec1916-1963-47b3-bd28-9631345f1f7d,relation/19765547,Springfield Golf & Country Club,,course,,,active,,30,,,,,,,,MO,,US,37.2557987,-93.2314914,2026-10-11T15:12:45Z
+9e4cb4ef-8946-41e3-8a2f-dfe18914ac50,way/1474950177,,,course,,,active,,,,,,,,,,MO,,US,38.0049994,-92.0861153,2026-10-11T15:12:29Z
+9e5ce48b-68ae-406c-9b8b-22c27f1aaf91,way/391691453,Tri-City Country Club,,course,,,active,,,,,+1 660 463 7841,http://www.tricitycountryclub.com/,,106 West Maple Street,Emma,MO,65327,US,38.9748546,-93.4974256,2026-10-11T15:12:15Z
+9e8fd6b6-0bec-414f-8816-3046cf569134,relation/4253572,Lakewood Oaks Golf Club,,course,,,active,18,,,,+1-816-373-2505,http://www.logc.org/,,651 Northeast Saint Andrews Circle,Lee's Summit,MO,64064,US,39.0063027,-94.3637894,2026-10-11T15:12:36Z
+a0f1ae15-2890-4eef-8bc9-601f3eb302be,way/390880025,Plattsburg Country Club,,course,,,active,18,72,,,+1 816 539 3328,https://www.plattsburgcc.com/,,804 West Frost Street,Plattsburg,MO,64477,US,39.5558252,-94.4624964,2026-10-11T15:12:15Z
+a3831909-1903-4969-8742-96f878a88688,way/296221874,LedgeStone Championship Golf Course,,course,,,active,18,71,,,+1 417-335-8187,https://www.ledgestonegolf.com/,,1600 Ledgestone Way,Branson West,MO,65737,US,36.6877709,-93.3172808,2026-10-11T15:12:10Z
+a40510cc-96a6-4568-a48e-1265ead4bca2,way/1146746297,The Unity Village Golf Course,,course,,,active,9,,,,,https://www.unityvillage.org/visit/golf-course,,,,MO,,US,38.9536138,-94.4054117,2026-10-11T13:31:09Z
+a656e300-4412-4519-909f-8bd43be586d4,way/391632467,Jefferson City Country Club,,course,,,active,18,72,,,+1 573 893 3306,https://www.jeffersoncitycountryclub.com/,,516 South Country Club Drive,Jefferson City,MO,65109,US,38.579852,-92.2645922,2026-10-11T15:12:15Z
+a741cefd-b641-4240-8b55-970837ae6d0c,way/68196405,Heart of America Golf Course,,course,,,active,9,35,,,+1-816-513-8940,https://www.hoagolfacademy.com/,,7501 Blue River Road,Kansas City,MO,64132,US,38.991176,-94.5260483,2026-10-11T15:11:55Z
+a75736c4-e951-45a3-a150-b96d01cf3852,way/391399868,St Joseph Country Club,,course,,,active,18,71,,,+1 816 233 0241,https://www.stjoecc.com/,,50 Ridgeland Road,Country Club,MO,64505,US,39.8326683,-94.8259535,2026-10-11T15:12:15Z
+a775ed52-80ec-4f2a-b842-ca02e10ea30f,way/399440369,,,course,,,active,,,,,,,,,,MO,,US,36.9523802,-92.6890561,2026-10-11T15:12:15Z
+a89ce431-138c-4d4c-937b-2acaaf6bdd16,way/149421590,Creve Coeur Golf Course,,course,,,active,9,35,,,+1 314 432 1806,https://www.crevecoeurgolf.com/,,11400 Olde Cabin Road,Creve Coeur,MO,63141,US,38.6650258,-90.4353372,2026-10-11T15:12:00Z
+a8d72c3b-ef20-4a1c-9a8a-1d0cb60170a9,way/564144286,Missouri Bluffs Golf Club,,course,,,active,18,71,,,,https://mobluffs.com/,,18 Research Park Circle,St. Charles,MO,63304,US,38.6940409,-90.675399,2026-10-11T15:12:18Z
+aa798d21-e49e-4d11-bcff-c9eb567332dd,way/360354650,Cassville Golf Club,,course,,,active,18,72,,,+1 417 847 2399,https://www.cassvillegolfclub.com/,,20276 State Highway 112,Cassville,MO,65625,US,36.6350161,-93.8466958,2026-10-11T15:12:14Z
+aadf6d01-2a51-4ede-8c9a-d3d8316ebdd8,way/395120828,Pheasant Run Golf Course,,course,,,active,18,57,,,+1 636 379 0099,https://www.golf-headquarters.com/course/,,205 Tri-Sports Drive,O'Fallon,MO,63366,US,38.7409582,-90.701988,2026-10-11T13:30:44Z
+ab8f83d4-e8e2-4cee-8757-a65eb1b38f78,way/385798307,Kirksville Country Club,,course,,,active,,,,,+1 660 665 5335,https://kirksvillecountryclub.com/,,,,MO,,US,40.1716976,-92.5671339,2026-10-11T15:12:14Z
+abbe4e62-a3f5-4531-9bf6-6bf0501c36e3,relation/5963233,Saint Francois Country Club,,course,,,active,,,,,+1 573 756 7574,http://sfccgolf.com/,,4901 Hillsboro Road,Farmington,MO,63640,US,37.8253346,-90.43842,2026-10-11T15:12:36Z
+abe64285-acfc-4357-96e2-65991fffdc83,way/550605487,Teetering Rocks Golf Course,,course,,,active,18,66,,,,,,,,MO,,US,38.9628346,-94.4396519,2026-10-11T15:12:18Z
+ae1a2255-45da-4b49-87fd-7f3de2f020a3,way/64993901,Excelsior Springs Golf Course,,course,,,active,18,72,,,+1 816 630 3731,http://www.excelsiorgolf.com/,,1201 East Golf Hill Drive,Excelsior,MO,64024,US,39.3334304,-94.1998261,2026-10-11T15:11:55Z
+af0250d4-7103-49aa-8996-ebf17adbe77b,way/385755124,Lancaster Country Club,,course,,,active,9,,,,,,,US Hwy 63 S,lancaster,MO,63548,US,40.5153945,-92.5520642,2026-10-11T15:12:14Z
+afd7ad96-f0bc-410f-b729-6fdb6173ca83,way/398276427,Island Green Golf Club,,course,,,active,,,,,+1 417 732 7622,https://www.islandgreengolfclub.com/,,169 Country Club Drive,Republic,MO,65738,US,37.0802678,-93.4859191,2026-10-11T15:12:15Z
+b0330a74-c427-41b8-8a73-e5fd41ea4dc6,way/236755728,,,course,,,active,,,,,,,,,,MO,,US,37.15552,-91.3523942,2026-10-11T15:06:16Z
+b090e2de-a46d-4c86-afb0-f9abb72e5e37,way/574610491,Elm Hills Public Golf Course,,course,,,active,,,,,,,,,,MO,,US,38.6689896,-93.2457678,2026-10-11T15:12:18Z
+b121216f-b6c0-4acf-b2a3-55dd77440a3c,way/1086063551,,,course,,,active,,,,,,,,,,MO,,US,38.8157306,-91.1768838,2026-10-11T15:12:24Z
+b1e4a61b-3118-4c84-b814-b73dfa3134d8,way/199179426,Green Hills Golf Course,,course,,,active,,,,,+1 660 646 6669,https://www.greenhillsgolfcourse.com/,,500 West Mohawk Road,Chillicothe,MO,64601,US,39.8134206,-93.5452672,2026-10-11T15:12:03Z
+b24df3b2-5941-45b8-8eb4-4516771880a2,way/296221876,Paradise Valley Golf & Country Club,,course,,,active,18,70,,,+1-636-225-5157,https://www.paradisevalleygolf.com/,,1055 Lochmoor Drive,Saint Louis,MO,63049,US,38.5050789,-90.517178,2026-10-11T15:12:10Z
+b4993988-c880-4f84-bf75-eb22e6818ccd,relation/11275143,"Old Kinderhook Resort, Golf, Club & Spa",,course,,,active,18,71,,,,,,,,MO,,US,38.0014934,-92.8042569,2026-10-11T15:12:38Z
+b51cb84e-6d89-4c92-8cfc-5fbddd756093,way/1219099645,Fore Honor Golf Course,,course,,,active,,,,,,,,,,MO,,US,38.3781431,-90.5794285,2026-10-11T15:12:27Z
+b53b224f-7e68-417a-ad48-5ae35a630780,relation/9114429,Lake Forest Country Club,,course,,,active,18,72,,,+1-636-561-6682,https://www.lakeforestgolf.org/,,300 Yard Drive,Lake Saint Louis,MO,63367,US,38.7867173,-90.754066,2026-10-11T15:12:38Z
+b62f097f-90d7-4547-a954-b060fc71db54,relation/4249741,Creekmoor Golf Club,,course,,,active,18,,,,,https://www.thegolfclubatcreekmoor.com/,,,,MO,,US,38.8334137,-94.4689148,2026-10-11T15:12:36Z
+b6e2e7c5-0dfe-4505-a1db-aa26625ca8ea,way/398022887,Gene Pray Memorial Golf Course,,course,,,active,,,,,,http://www.cityofeldoradospringsmo.com/eldoradosprings-parkrec.html#golf,,,,MO,,US,37.8697961,-94.0377932,2026-10-11T15:12:15Z
+b72d67dd-5467-4422-be27-201a566a8c87,way/1085143863,,,course,,,active,,,,,,,,,,MO,,US,38.6057631,-92.1698914,2026-10-11T15:12:24Z
+b744bbbb-4dc9-4c14-8cb7-e9a592234a0e,relation/5893754,The Club at Porto Cima,,course,,,active,18,72,,,,https://www.4seasonsresort.com/golf/club-porto-cima-en.html,,,,MO,,US,38.1739709,-92.653761,2026-10-11T15:12:36Z
+b7661125-8858-49ab-a5bc-5ca6f7abc5e1,node/2838921442,Posse Course,,course,,,active,,,,,,,,,,MO,,US,39.4213658,-94.5476547,2026-10-11T13:29:32Z
+b7819316-b160-4302-aa63-e38ff44cd92b,relation/9392550,Woods Fort Golf Course,,course,,,active,18,72,,,+1 636 528 0040,https://woodsfortgolf.com/,,1 Country Club Drive,Troy,MO,63379,US,38.9930739,-90.9785763,2026-10-11T15:12:38Z
+b7a2ae3d-0bad-4774-833d-3624f5d066b1,relation/1424708,Tiffany Greens Golf Club,,course,,,active,18,,,,,,,,,MO,,US,39.280377,-94.6433335,2026-10-11T15:12:30Z
+b804bf97-3144-471b-bfbd-205a5fb747fa,way/385067034,Mozingo Lake Golf Course,,course,,,active,18,72,,,+1 660 562 3864,https://mozingolake.com/golf/,,25055 Liberty Road,Maryville,MO,64468,US,40.3576199,-94.766348,2026-10-11T15:12:14Z
+b97c93be-2a0b-48c9-93f7-9f791fa641ef,way/397185479,,,course,,,active,,,,,,,,,,MO,,US,37.5912357,-90.6136299,2026-10-11T13:30:44Z
+b9e03d9d-ac87-4c68-8d6a-92feb7686a25,way/399063750,Dalhousie Golf Club,,course,,,active,18,72,,,+1 573 332 0818,https://dalhousiegolfclub.com/,,4700 Cord's Way,Cape Girardeau,MO,63701,US,37.2671332,-89.6019467,2026-10-11T15:12:15Z
+b9f6e64a-efb5-4288-9072-c43017e62b82,way/393072919,Sycamore Creek Golf Club,,course,,,active,,,,,+1 573 348 9593,https://www.sycamorecreekgolfclub.com/,,1270 Nichols Road,Osage Beach,MO,65065,US,38.1311528,-92.6775182,2026-10-11T15:12:15Z
+ba182f25-64e7-4d73-9865-619723d4a8e7,way/389825776,Eagle Knoll Golf Club,,course,,,active,18,72,,,+1 573 761 4653,https://www.eagleknoll.com/,,5757 East Eagle Knoll Drive,Hartsburg,MO,65039,US,38.6961279,-92.263012,2026-10-11T13:30:44Z
+ba1a484f-e795-49e6-b71f-335ba4e3db9c,way/1119984190,Malden City Golf Course (closed),,course,,,active,,32,,,,,,,,MO,,US,36.5957345,-89.9801369,2026-10-11T15:06:36Z
+bb645132-8a1b-4373-8438-bef4845ac459,way/151229180,Normandie Golf Club,,course,,,active,18,71,,,+1 314-862-4884,https://normandiegolf.com/,,7605 Saint Charles Rock Road,Saint Louis,MO,63133,US,38.6975557,-90.3173652,2026-10-11T15:12:00Z
+bbadd99e-0a56-4c2e-b995-9cc700c79d46,way/316101757,Drumm Farm Golf Club,,course,,,active,18,72,,,+1-816-350-9900,http://www.drummfarmgolfclub.com/,,15400 East 34th Street,Independence,MO,64055,US,39.0620829,-94.3981964,2026-10-11T15:12:12Z
+bc9965c1-a293-4786-bbcc-be1a5238636d,way/385663996,,,course,,,active,,,,,,,,,,MO,,US,40.5232415,-93.015273,2026-10-11T15:12:14Z
+bcd431f2-7935-4d7d-9e72-75b8db640a99,way/385942719,,,course,,,active,,,,,,,,,,MO,,US,40.4083591,-91.6700996,2026-10-11T15:12:14Z
+bd642f78-1fbe-4d3b-8e14-6df84091df78,way/315837566,Eagles' Landing Golf Course,,course,,,active,,4,,,+1-816-318-0004,http://www.eagleslandinggolfcourse.com/,,4200 Bong Avenue,Belton,MO,64012,US,38.8357479,-94.5514032,2026-10-11T15:12:12Z
+be17a6d4-1d22-41cf-9043-e3dfa844de49,way/388360824,,,course,,,active,,,,,,,,,,MO,,US,39.7516121,-92.4822442,2026-10-11T15:12:14Z
+be99043a-ef71-404b-b3e1-7696b3bf4b90,way/371984147,Adams Pointe Golf Course,,course,,,active,18,72,,,+1 816 220 3673,https://www.adamspointegolfclub.com/,,1601 R D Mize Road,Blue Springs,MO,,US,39.019879,-94.2414334,2026-10-11T13:30:39Z
+bfb96f93-799d-414b-94b3-bb4aef482734,way/1296119881,Heritage of Hawk Ridge,,par3,,,active,,24,,,,,,,,MO,,US,38.7763026,-90.8083925,2026-10-11T15:06:39Z
+c10b3dea-2049-4498-99b7-a1b727ac821a,way/1337005246,,,course,,,active,,30,,,,,,,,MO,,US,39.7912812,-91.5311858,2026-10-11T13:31:14Z
+c151efdc-bdab-4982-b577-93c5471a6890,way/232634247,Fulton Country Club,,course,,,active,,,,,,,,,,MO,,US,38.85776,-91.9380032,2026-10-11T13:30:07Z
+c253dfe9-b789-4b70-bb07-65ea810aa436,way/502915923,Millwood Gold and Racquet Club,,course,,,active,18,71,,,,,,,,MO,,US,37.0992813,-93.2209244,2026-10-11T15:12:18Z
+c4dbd25c-dd8d-44c7-8a76-184747af88cc,way/30594407,Bill and Payne Stewart Golf Course,,course,,,active,,,,,+1-417-833-9962,https://www.parkboard.org/golf/stewart/index.html,,1825 East Norton Road,,MO,65803,US,37.2545392,-93.2561227,2026-10-11T15:06:00Z
+c67eb344-9dfa-4b4d-a1c7-3f89e78ccfca,way/121643287,Royal Meadows Golf Club,,course,,,active,18,,,,,,,10501 East 47th Street,Kansas City,MO,64133,US,39.0336354,-94.4583346,2026-10-11T13:29:54Z
+c8b00cc9-6f77-4783-be4f-fe180bfc059a,way/669552929,,,course,,,active,,,,,,,,,,MO,,US,36.56182,-91.5709269,2026-10-11T15:12:20Z
+c9ccf07a-39e4-406c-9bea-00c6188072f1,way/601161548,,,course,,,active,18,72,,,,,,,,MO,,US,36.995609,-91.6826605,2026-10-11T15:12:20Z
+c9e50ca4-d6a9-4ba2-aa1d-ed2696650ba6,way/315837565,Blue Hills Country Club,,course,,,active,18,71,,,+1-816-942-8642,https://www.bluehillscc.com/,,777 West Burning Tree Drive,Kansas City,MO,65145,US,38.8979281,-94.5993411,2026-10-11T15:12:12Z
+cb0346ca-1e82-4aee-b62b-3cae625fda1d,way/397898520,Shadow Lake Golf Course,,course,,,active,,,,,,,,,,MO,,US,37.8663547,-93.4031717,2026-10-11T15:12:15Z
+cb083ade-f836-4a2b-a333-6e79cb1c3ea8,relation/5688097,Bent Creek Golf Club,,course,,,active,,67,,,+1 573 243 6060,https://www.bentcreekgc.com/,,2200 Bent Creek Drive,Jackson,MO,63755,US,37.3943163,-89.6351762,2026-10-11T15:12:36Z
+cb4f44c5-c813-4710-93cc-ea6bb7e3951d,way/338666355,Malden Country Club,,course,,,active,,31,,,,,,,,MO,,US,36.5961166,-89.9745176,2026-10-11T15:12:14Z
+cc7e5d90-8f98-459c-a084-b6a729f2c518,way/314591926,Caruthersville Country Club & Golf Course,,course,,,active,,,,,,,,,,MO,,US,36.172234,-89.6729708,2026-10-11T13:30:33Z
+cca6eb7d-8eba-4de3-a685-1c543e09c66f,way/399111099,Crowley's Ridge Recreation Center,,course,,,active,9,35,,,,,,,,MO,,US,36.8745109,-89.9352675,2026-10-11T15:06:28Z
+cd473e34-c83d-4488-9062-36725323e725,way/220339921,Bear Creek Valley Golf Club,,course,,,active,,64,,,+1 573 302 1000,https://www.bearcreekvalley.com/,,,Osage Beach,MO,,US,38.148939,-92.5899136,2026-10-11T15:12:03Z
+cd854046-4cae-4763-bf7b-ce7478c2de43,way/546878834,Driving Range,,practice,,,active,,,,,,https://bigbendgolfcenter.com/,,3390 Quinette Road,Valley Park,MO,63088,US,38.5664474,-90.4751415,2026-10-11T15:12:18Z
+cde768d9-baa3-4e31-8cdb-c43ccd4dbd0a,way/189218264,,,course,,,active,,,,,,,,,,MO,,US,39.7912903,-93.0358315,2026-10-11T15:12:01Z
+cf0fbda0-653c-4260-be0e-212539b7c851,relation/5820307,Stone Hedge Golf Club,,course,,,active,,,,,+1 660 886 4653,http://www.stonehedgegolfclub.com/,,2760 Cypress Drive,Marshall,MO,65340,US,39.0912216,-93.1901449,2026-10-11T13:31:32Z
+cf8d305e-99df-48a8-8f53-30545ea34e2b,way/387177162,Columbia Country Club,,course,,,active,18,71,,,+1-573-449-4115,https://www.columbiacc.net/,,2210 Country Club Drive,Columbia,MO,65201,US,38.9583375,-92.301934,2026-10-11T15:12:14Z
+d1fe229d-d0d3-47f7-bf4c-26c80ecb4140,relation/8194161,Meadow Lake Country Club,,course,,,active,,,,,,,,,,MO,,US,38.3465396,-93.7603126,2026-10-11T15:12:38Z
+d26cd686-8792-49a6-80a3-f0d6ca4cc20d,node/2838921541,Academy Course,,course,,,active,,,,,,,,,,MO,,US,39.427874,-94.5492495,2026-10-11T13:29:32Z
+d3741c6a-ec19-472e-9ec0-b4df2b4ab8b8,way/382364577,Kimbeland Country Club,,course,,,active,18,72,,,+1 573 243 3923,https://www.kimbelandcountryclub.com/,,2175 East Jackson Boulevard,Jackson,MO,63755,US,37.3636719,-89.6434818,2026-10-11T15:12:14Z
+d404d843-77ff-4e63-b6bc-d4170644ea15,way/381458815,,,course,,,active,,,,,,,,,,MO,,US,38.1526437,-90.3314174,2026-10-11T15:12:14Z
+d608e0ac-99e8-434c-84aa-f9123e5ea10b,way/386886297,,,course,,,active,,,,,,,,,,MO,,US,39.212666,-92.1147543,2026-10-11T15:12:14Z
+d6a6c4db-6cde-4eda-ad51-b3fb265ee39e,way/330879511,Nevada Country Club,,course,,,active,9,35,,,+1 417 667 7182,http://www.nevadacountryclub.net/,,,,MO,,US,37.8214418,-94.3698507,2026-10-11T15:12:12Z
+d6e507d4-c831-4af2-af63-697b6fceb0ab,way/617944761,Bellerive Country Club,,course,,,active,18,72,,,,,,,,MO,,US,38.66287,-90.4843187,2026-10-11T15:12:20Z
+d70f29b7-8806-490f-9edf-5cbe845cf85d,way/151291997,Old Warson Country Club,,course,,,active,18,71,,,,,,,,MO,,US,38.6183204,-90.3843826,2026-10-11T15:12:00Z
+d9849ead-c22b-4069-b3ae-e0bf5c787c9d,way/1207278573,Posse,,course,,,active,,51,,,,,,,,MO,,US,39.4230917,-94.5472098,2026-10-11T15:12:27Z
+da3b812e-b710-46e0-a91b-abefd8c7b93e,way/151230738,Glen Echo Country Club,,course,,,active,18,71,,,+1 314-383-1500,https://www.gecc.org/,,3401 Lucas & Hunt Road,Saint Louis,MO,63121,US,38.6989936,-90.2996945,2026-10-11T15:06:12Z
+db2b3283-cd15-4fd1-aaae-55d7ba145dc6,relation/5429382,The Legends Golf Club,,course,,,active,,,,,+1 636 938 6295,https://www.thelegendsgolf.com/,,625 The Legends Parkway,Eureka,MO,63025,US,38.4979795,-90.6442378,2026-10-11T15:12:36Z
+dc8692f1-067b-4e9d-92ae-09fdc2fd34f6,way/365165194,Crescent Farms Golf Club,,course,,,active,,36,,,+1 636 938 6202,https://www.crescentfarms.com/,,745 Lewis Road,Eureka,MO,63025,US,38.5309982,-90.6098023,2026-10-11T15:12:14Z
+ddee8f29-d515-4111-be09-55bce5acecc5,way/773886964,Lake Nehai Golf Course,,course,,,active,,,,,,,,,,MO,,US,39.5804802,-92.8942119,2026-10-11T15:12:21Z
+e0bd1854-6451-4aeb-bcf2-05f9c4539dea,node/6107100689,Paradise Pointe,,course,,,active,,,,,,,,Golf Course Road,Smithville,MO,64089,US,39.4232906,-94.5514754,2026-10-11T13:29:32Z
+e1024426-3aae-4574-9585-2b8336e67c90,way/39513983,,,course,,,active,,,,,,,,,,MO,,US,37.1140371,-93.8048924,2026-10-11T15:06:03Z
+e1406b7e-2085-431e-ad4b-c762c6a757aa,relation/5897058,Osage National Golf Club,,course,,,active,18,72,,,+1 866 365 1950,https://www.osagenational.com/,,400 Osage Hills Road,Osage Beach,MO,65049,US,38.205094,-92.5970782,2026-10-11T15:12:36Z
+e1e6fc19-ddd1-4901-899d-7980ad9d1e0c,way/364633215,West Plains Municipal Golf Course,,course,,,active,,,,,+1 417 256 9824,http://westplainsparks.weebly.com/municipal-golf-course.html,,,,MO,,US,36.7563816,-91.8458019,2026-10-11T15:12:14Z
+e2565b3c-729f-401d-87ea-cb62f7ae02f2,way/202668748,,,course,,,active,,,,,,,,,,MO,,US,40.4901581,-94.4066216,2026-10-11T15:12:03Z
+e28374d6-03de-4b6d-a483-6f0d264a8310,way/388605774,La Plata Golf Course,,course,,,active,18,71,,,,,,South Hastings Street,,MO,63549,US,40.016991,-92.5002836,2026-10-11T15:12:14Z
+e34a451b-f1d2-4b07-8bd2-e6bc8c397df7,way/385626182,,,course,,,active,,,,,,,,,,MO,,US,40.3796409,-93.6823208,2026-10-11T15:12:14Z
+e3778c88-5303-4293-b788-6e858394adbf,way/149427294,Ruth Park Golf Couse,,course,,,active,9,35,,,,,,,,MO,,US,38.6700146,-90.3524269,2026-10-11T15:12:00Z
+e3a13fe1-7003-47c4-8e0b-693892bb5d7e,way/393918551,Boone Valley Golf Club,,course,,,active,18,71,,,+1 636 928 5200,https://www.boonevalley.org/,,1319 Schluersburg,Augusta,MO,63332,US,38.6265474,-90.879486,2026-10-11T13:30:44Z
+e443b6d0-0921-4381-9cba-5833f5d7694f,way/358564796,The Ridge,,course,,,active,18,72,,,,https://www.4seasonsresort.com/golf/ridge-en.html,,,,MO,,US,38.1952091,-92.6573374,2026-10-11T15:12:14Z
+e4b244bf-1a8d-49c1-9b6a-b9c33788c49b,relation/5416215,Mosswood Meadows,,course,,,active,,,,,+1 573 735 2088,http://www.mosswoodmeadows.com/,,1315 Lakeview Drive,Monroe City,MO,63456,US,39.6544998,-91.7568567,2026-10-11T15:12:36Z
+e5337537-0dc4-4aa5-8e0d-c824f69b96f3,way/157935617,Bogey Hills Country Club,,course,,,active,18,71,,,,,,,,MO,,US,38.7795377,-90.5353737,2026-10-11T15:12:01Z
+e57116a6-33a1-4df6-9a3f-21ae856fa7dc,relation/15880900,Four Seasons Country Club,,course,,,active,9,35,,,,https://www.fourseasonscc-chesterfield.com/,,,,MO,,US,38.6751086,-90.5042635,2026-10-11T15:12:43Z
+e5e072c2-58c5-4b19-8541-afeab14f4c66,way/624268733,Frisbee Golf Course,,disc,,,active,,,,,,,,,,MO,,US,37.148505,-94.5426983,2026-10-11T15:12:20Z
+e627347b-0644-47fc-bb43-873e19d592b5,way/387274573,Tanglewood Golf Course,,course,,,active,18,72,,,+1 573 642 7277,https://www.tanglewoodfulton.com/,,818 Golf Drive,Fulton,MO,65251,US,38.886416,-91.9609377,2026-10-11T15:12:14Z
+e7a6ecfe-a1af-4815-9b8d-23a3fac86b24,way/386074383,,,course,,,active,,,,,,,,,,MO,,US,40.0800125,-91.5114448,2026-10-11T15:12:14Z
+ea680ce8-8c09-4130-a228-158ddbb7c42d,way/286996173,Royal Oaks Golf Course,,course,,,active,18,,,,,,,,,MO,,US,38.7380585,-93.5866034,2026-10-11T15:12:07Z
+ec2bdbad-5ecc-4778-94db-0cc685637c63,way/397869988,Dream Valley Golf Course,,course,,,active,18,73,,,+1 417 345 4653,https://dreamvalleygolfcourse.com/,,90 Golf Course Road,Buffalo,MO,65622,US,37.5850795,-93.1439744,2026-10-11T15:12:15Z
+ecbb61b5-8d45-4589-9175-075cd200b262,way/151292016,Tower Tee,,par3,,,active,9,27,,,,,,,,MO,,US,38.5679708,-90.3291086,2026-10-11T15:12:00Z
+ed12115f-766e-425d-a2a6-685faf5fd2e6,relation/5978350,Silo Ridge Country Club,,course,,,active,18,72,,,+1 417 326 7456,https://siloridgecc.com/,,Mount Gilead Road,Bolivar,MO,65613,US,37.5834673,-93.3459912,2026-10-11T15:12:36Z
+eeae73e3-58e4-480b-b0ef-ea75f90e259a,way/160968762,,,course,,,active,18,72,,,,,,,,MO,,US,38.7450718,-90.7138667,2026-10-11T15:12:01Z
+efe67eca-c96c-4491-a7b0-79dec1e2f887,way/315838453,Minor Park Golf Course,,course,,,active,18,70,,,+1-816-942-4033,http://www.minorparkgolfcourse.com/,,11215 Holmes Road,Kansas City,MO,64131,US,38.9218788,-94.5789712,2026-10-11T15:12:12Z
+f15fd6b8-0e7a-48ae-a149-266dcfa059a8,relation/10480892,Hidden Valley Golf Course,,course,,,active,18,72,,,,,,,,MO,,US,39.4323805,-94.2176156,2026-10-11T15:12:38Z
+f2a77e2e-245f-4e6c-95e0-d845a2a06189,way/1085733973,Midway Golf and Games,,course,,,active,,,,,,,,,,MO,,US,38.96981,-92.4170503,2026-10-11T15:12:24Z
+f313e937-ea34-4012-87f6-da921bbe3973,way/377406772,Rangeline Golf Center,,course,,,active,9,30,,,+1 417 624 0400,http://rangelinegolfcenter.com/,,2001 North Range Line Road,Joplin,MO,64801,US,37.1076748,-94.4729713,2026-10-11T15:12:14Z
+f38b85aa-9c11-4d19-a39c-4036edb315fe,relation/20085959,Deer Lake Golf Course,,course,,,active,18,72,,,,,,,,MO,,US,37.2063095,-93.3992909,2026-10-11T13:31:51Z
+f54303f8-d03d-4c5c-8253-a4277f84cce2,way/396946959,Crown Pointe Golf Club,,course,,,active,18,72,,,+1 573 756 6660,https://www.crownpointegolfclub.com/,,4215 Hunt Road,Farmington,MO,63640,US,37.8176958,-90.4429891,2026-10-11T15:06:28Z
+f5c97203-01bc-4b9a-b880-1ebc6f22cba1,way/1205633428,Sun Valley Golf Course,,course,,,active,18,71,,,,,,192 State Hwy W,Elsberry,MO,63343,US,39.1297847,-90.863364,2026-10-11T15:12:27Z
+f6d1ec74-5c72-420d-82ff-0d84ab99390f,way/399063748,Cape Jaycee Municipal Golf Course,,course,,,active,18,70,,,+1 573 334 2031,https://www.cityofcapegirardeau.org/golf,,3280 Perryville Road,Cape Girardeau,MO,63701,US,37.3557601,-89.5563653,2026-10-11T15:12:15Z
+f70656e4-ae29-4cfd-a3f4-162b263d5750,way/1273845166,,,course,,,active,,,,,,,,,,MO,,US,38.8459216,-94.6070328,2026-10-11T15:12:28Z
+f725aaa7-2de5-4746-8c31-bad9a53475cc,way/393079215,"Old Kinderhook Resort, Golf, Club & Spa",,course,,,active,,,,,,,,678 Old Kinderhook Drive,Camdenton,MO,65020,US,38.0014934,-92.8042569,2026-10-11T15:12:15Z
+f7debe1f-4b91-4eab-95c6-0dc5e2db4203,relation/8319502,Redfield Golf Course,,course,,,active,,,,,,,,,,MO,,US,38.3874253,-92.3956595,2026-10-11T15:06:49Z
+f987b3d9-e896-485d-8664-4cad02de17dd,relation/2630633,The National Golf Club,,course,,,active,,8,,,,,,,,MO,,US,39.2197518,-94.7097866,2026-10-11T15:12:33Z
+fa1a2bac-919a-4d85-a6eb-751e37fccc44,node/12065024750,,,course,,,active,,,,,,,,,,MO,,US,38.7463574,-91.4536894,2026-10-11T13:29:32Z
+fa8e5af8-6478-4b94-836a-869f394a3a58,way/52136232,Meadowbrook Country Club,,course,,,active,18,72,,,,,,200 Meadowbrook Country Club Estates,Ballwin,MO,63011,US,38.6163613,-90.5619578,2026-10-11T15:11:53Z
+face4da7-c215-40d8-8f4d-517ee10fea81,way/385898779,,,course,,,active,,,,,,,,,,MO,,US,40.2334817,-92.206157,2026-10-11T15:12:14Z
+fc8824b3-67a9-458a-8987-639e9292ffa4,way/149385948,St. Louis Country Club,,course,,,active,18,71,,,,,,400 Barnes Road,Saint Louis,MO,63124,US,38.6498304,-90.3752561,2026-10-11T15:12:00Z
+fd2afd84-e590-48f9-8279-0e42a62fc167,relation/4249742,Grand Summit Golf & Country Club,,course,,,active,18,71,,,+1-816-331-3978,https://www.grandsummitgolfcc.com/,,15101 Grand Summit Boulevard,Grandview,MO,64030,US,38.8500334,-94.5148175,2026-10-11T15:06:47Z
+fe18a5ba-efc1-4220-8fd2-d34d4d7b1953,way/449108205,A. L. Gustin Golf Course,,course,,,active,18,70,,,+1 573 882 6016,https://www.gustingolfcourse.com/,,18 Stadium Boulevard,Columbia,MO,65211,US,38.9324317,-92.3475198,2026-10-11T15:12:15Z
+fe46e944-91d9-455e-ad93-08fb5bbb1d32,way/392157459,,,course,,,active,,,,,,,,,,MO,,US,38.5432938,-93.5035617,2026-10-11T15:12:15Z
+fefac574-87be-4ecd-9b0a-1ff1c5e612cc,way/385194833,,,course,,,active,,,,,,,,,,MO,,US,40.2870622,-94.0228826,2026-10-11T15:12:14Z
+ff27fb0d-b43c-4852-a1c3-15a9f7cec5d8,way/759774645,Charleston Country Club,,course,,,active,9,,,,,,,201 North Country Club Lane,Charleston,MO,63834,US,36.9239695,-89.3007597,2026-10-11T15:12:21Z

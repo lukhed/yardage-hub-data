@@ -1,0 +1,197 @@
+id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
+0188b877-dd56-42c5-a1ad-f05ce6bddeeb,relation/3965941,Gibson Island Golf Course,,course,,,active,,,,,+1-410-255-1040,,,Broadwater Way,Gibson Island,MD,21056,US,39.0802205,-76.4293272,2026-10-11T15:06:45Z
+05438db5-f77e-4040-95fb-d9ba0255ad71,way/31119717,Rolling Road Golf Club,,course,,,active,18,70,,,,,,,,MD,,US,39.2564962,-76.7249337,2026-10-11T15:11:49Z
+0b14c7f5-b032-41e0-98f6-50188e8ec988,relation/8551535,Breton Bay Golf Course,,course,,,active,18,72,,,,,,,,MD,,US,38.2701739,-76.6688092,2026-10-11T13:31:37Z
+0dd519c0-7ad2-4a10-91d6-a4e65016eb69,way/92035821,Hillendale Country Club,,course,,,active,18,72,,,,,,,,MD,,US,39.4983718,-76.553409,2026-10-11T15:11:55Z
+0f5a9bb4-4e64-4c00-9d40-04bda30e01ae,relation/13253245,Sligo Golf Course,,course,,public,active,9,34,,,,https://www.mcggolf.com/courses/sligo-creek,,9701 Sligo Creek Parkway,Silver Spring,MD,20901,US,39.0138355,-77.0275578,2026-10-11T15:12:41Z
+0fe2bc56-6265-46d2-8359-4d9b14d9c315,way/72370829,Oakmont Green Golf Course,,course,,,active,,57,,,,,,,,MD,,US,39.6344701,-76.8588309,2026-10-11T15:11:55Z
+10096d98-2a67-4bda-9252-85e853e93cd6,way/298141737,Deer Run Golf Club,,course,,,active,,,,,+1-410-629-0060,http://www.golfdeerrun.com/,,8804 Logtown Road,Berlin,MD,21811,US,38.3581598,-75.2676713,2026-10-11T15:12:10Z
+11a4ffdc-ca26-4548-bc19-89cf9973ce9b,way/45758372,Poolesville Golf Course,,course,,public,active,18,70,,,,,,,,MD,,US,39.119039,-77.4158492,2026-10-11T13:29:44Z
+1212de90-1a58-46d3-87f1-dbf4bf119024,way/51473810,Falls Road Golf Course,,course,,public,active,,66,,,,,,,,MD,,US,39.0350451,-77.2001181,2026-10-11T15:11:53Z
+13b3259a-aadd-4e84-9f9f-c24fc4a5fd86,way/71666339,Maryland National Golf Course,,course,,,active,18,71,,,,,,,,MD,,US,39.4779762,-77.5274316,2026-10-11T15:11:55Z
+1634912a-9c1d-4cbf-8e92-211c4026cd17,way/114639004,Clustered Spires Golf Course,,course,,,active,18,72,,,,,,,,MD,,US,39.4294477,-77.3733686,2026-10-11T15:11:57Z
+17f1998a-f610-4514-9f8d-e0821d72f6f1,way/298203495,Ruggles Golf Course,,course,,,active,,,,,+1-410-278-9452,https://aberdeen.armymwr.com/programs/ruggles-golf-course,,5600 Maryland Boulevard,Aberdeen Proving Ground,MD,21005,US,39.4831319,-76.1691711,2026-10-11T15:06:23Z
+18608ee7-a3bf-4eb9-88db-c3e41c3a0fa8,way/1067525665,,,course,,,active,,18,,,,,,,,MD,,US,38.9863497,-76.1726362,2026-10-11T15:06:36Z
+188ab67f-c05c-4856-b66a-ecfc024c5467,way/298243203,Night Hawk Golf Course,,course,,,active,,,,,,,,,,MD,,US,39.0448408,-76.6709499,2026-10-11T15:12:10Z
+19ecb5f2-2fa8-4076-8959-85216e0a4160,relation/3965940,Cross Creek Golf Club,,course,,,active,,,,,+1-301-595-8901,http://www.crosscreekgcmd.com/,,12800 Bay Hill Drive,Beltsville,MD,20705,US,39.0670178,-76.9290298,2026-10-11T15:12:35Z
+1abb9794-6890-42fc-b8e3-b07191f624df,way/298243201,Gunpowder Golf Course,,course,,,active,18,71,,,+1 301 725 4532,http://www.gunpowdergolfcourse.com/,,14300 Old Gunpowder Road,Laurel,MD,20707,US,39.089607,-76.9213862,2026-10-11T15:12:10Z
+2103d6e2-a847-4401-afd2-016d20b09076,relation/3965911,West Winds Golf Club,,course,,,active,,,,,+1-301-831-6191,https://westwindsgc.com/,,11330 Country Club Road,New Market,MD,21774,US,39.4236727,-77.27719,2026-10-11T15:12:35Z
+2286e9b8-3baa-4e1a-9b5f-0d445fe0de98,node/10727013934,GOLFTEC,,practice,,,active,,,,,,,,2141 York Road,Lutherville,MD,21093,US,39.4428356,-76.6245663,2026-10-11T15:05:59Z
+22d21d6b-30da-4b47-a037-d9ee7680a369,way/906949818,Links at Perry Cabin,,course,,,active,,,,,,,,,,MD,,US,38.809653,-76.2270107,2026-10-11T15:12:23Z
+2546922b-98c8-4f22-86e8-90299f678e1a,way/70201733,Whiskey Creek Golf Course,,course,,,active,18,72,,,,,,,,MD,,US,39.3649966,-77.2976756,2026-10-11T15:11:55Z
+256b4eae-dd28-46dc-92cb-a39fc26618c5,way/298141738,Eagles Landing Golf Course,,course,,,active,18,72,,,+1-410-213-7277,http://eagleslandinggolf.com/,,12367 Eagles Nest Road,Berlin,MD,21811,US,38.3054906,-75.1283464,2026-10-11T13:30:27Z
+25897e00-8524-4486-9f71-04b27f44ba3e,way/271952976,,,course,,,active,18,72,,,,,,,,MD,,US,38.7184972,-77.0131013,2026-10-11T15:12:07Z
+26562136-ef7b-4dfa-9815-a3b756d11f9e,way/315073429,,,course,,,active,,,,,,,,,,MD,,US,39.5092537,-79.275997,2026-10-11T15:12:12Z
+284261d6-8a26-4761-9818-5624f6efec3e,way/70257850,Holly Hills Country Club,,course,,,active,18,72,,,+1-301-694-7210,https://www.hollyhillsgolf.com/,,5502 Mussetter Road,Ijamsville,MD,21754,US,39.385286,-77.314781,2026-10-11T15:11:55Z
+2c139a92-5d13-42a4-b0f2-6c7400dd1a95,way/666769122,Carroll Park Golf Course,,course,,,active,,,,,,,,2100 Washington Boulevard,Baltimore,MD,21230,US,39.2747471,-76.6500999,2026-10-11T13:30:54Z
+2d2ea638-6a26-4938-8cf7-e079ef9be70d,way/154167784,Woodmere Golf Club,,course,,,active,,,,,,,,,,MD,,US,38.9298182,-76.7964841,2026-10-11T15:06:12Z
+2e638f20-6530-4a98-85ff-9376219d9dc5,way/565079186,Exton Golf Course,,course,,,active,,,,,+1-410-436-2213,https://aberdeen.armymwr.com/programs/exton-golf-course,,,,MD,,US,39.4115764,-76.293067,2026-10-11T15:12:18Z
+2fa834e4-bab8-4e71-8af9-735817957c93,way/742644300,Green Hill Golf Course,,course,,,active,,,,,,https://www.greenhillcc.com/golf,,,,MD,,US,38.3427242,-75.7316565,2026-10-11T13:30:58Z
+317c05c9-0f57-4241-988c-0ee1b1a0d47e,way/362163780,Hawthorne Country Club,,course,,,active,9,36,,,,,,,,MD,,US,38.5432677,-77.0094804,2026-10-11T15:12:14Z
+32d8a7d9-3baf-43f0-98fe-1bf0b0f4d897,relation/16150092,,,mini,,,active,,,,,,,,,,MD,,US,38.2907969,-75.1500008,2026-10-11T15:12:43Z
+339609ea-1ef0-448f-bf6c-728f47de7d90,way/755346271,Wood Creek Golf Links,,course,,,active,,,,,,,,,,MD,,US,38.4405175,-75.5706415,2026-10-11T15:12:21Z
+33f9f51f-8ec0-481a-8d9d-5e6404bc3ed5,way/298141739,Elks Golf Club,,course,,,active,,,,,+1-410-749-2695,,,401 Churchill Avenue,Salisbury,MD,21804,US,38.3586734,-75.5835648,2026-10-11T15:12:10Z
+3500e985-8184-423e-b6bc-37ec416895b6,way/160950842,Black Horse Golf,,course,,,active,,,,,,https://blackhorsegolfmd.com/,,,,MD,,US,39.6230307,-76.5472089,2026-10-11T13:30:03Z
+3c6a2ae2-587b-494a-ae44-44b9802a61ef,way/45754530,Needwood Golf Course,,course,,,active,18,70,,,+1-301-948-1075,https://www.mcggolf.com/Courses/Needwood.aspx,,6724 Needwood Road,Derwood,MD,20855,US,39.1182939,-77.1390354,2026-10-11T15:11:53Z
+3c7fe6e3-5d9b-45e9-af5b-c2d290420de2,way/91989932,Baltimore Country Club,,course,,,active,,,,,,,,,,MD,,US,39.4434648,-76.6623015,2026-10-11T15:11:55Z
+3cd783dd-438e-4e4a-9d51-4416158b5a00,way/691043204,,,course,,,active,,,,,,,,,,MD,,US,39.6190021,-75.8072057,2026-10-11T15:12:21Z
+3d3b7985-41e8-4d07-878e-d7fc81355e94,way/767768597,Sherwood Forest,,course,,,active,,,,,,,,,,MD,,US,39.0261915,-76.5436967,2026-10-11T15:12:21Z
+3d48c48c-9a2f-4430-bf27-6e7af8f5dc90,way/61148612,South River Golf Course,,course,,,active,,,,,,,,,,MD,,US,38.9194168,-76.571401,2026-10-11T15:11:55Z
+3d877f7f-b64d-4dc8-a832-6e846c45585e,way/45759322,Burning Tree Country Club,,course,,,active,18,71,,,,,,,,MD,,US,38.9979386,-77.1509062,2026-10-11T15:11:53Z
+3fa35321-53af-415b-b15f-4bc5b7f6e9c8,way/1322372200,The Courses at Andrews,,course,,,active,,,,,+1 301 736 4595,,,4442 West Perimeter Road,Joint Base Andrews,MD,20762,US,38.7874928,-76.8873267,2026-10-11T15:12:29Z
+410d7f7c-8e60-49ea-b6c7-823d8d21d266,way/45751311,Argyle Country Club,,course,,private,active,18,71,,,+1-301-598-5500,https://www.argylecc.net/,,14600 Argyle Club Lane,Silver Spring,MD,20906,US,39.0969159,-77.0518834,2026-10-11T15:11:53Z
+45c15a27-8814-4ed4-a46f-ca4e29c1c95b,way/266489451,Renditions Golf Course,,course,,,active,18,72,,,+1-410-798-9798,https://www.renditionsgolf.com/,,1380 West Central Avenue,Davidsonville,MD,21035,US,38.9191306,-76.6782216,2026-10-11T15:12:05Z
+4716d1ee-295f-4b34-b22d-05f07378a5b8,way/907803844,Congressional Country Club,,course,,,active,,35,,,,https://www.ccclub.org/,,8500 River Road,Besthesda,MD,20817,US,38.9944074,-77.1786101,2026-10-11T15:12:23Z
+4835751d-1d25-4108-ab9c-9110945e390c,relation/10117006,,,course,,,active,,,,,,,,,,MD,,US,38.8430965,-75.8412865,2026-10-11T13:31:37Z
+499bd32e-3145-4449-bb13-6432f5b9930f,way/11513385,Eisenhower Golf Course,,course,,,active,18,71,,,,,,,,MD,,US,39.0156387,-76.5847522,2026-10-11T13:29:32Z
+4c3fa34c-4b31-4d54-8b36-ef8dc6df182c,relation/3965910,River Downs Golf Club,,course,,,active,,69,,,+1-410-526-2000,http://www.riverdownsgolf.com/,,1900 River Downs Drive,Finksburg,MD,21048,US,39.5208194,-76.8771547,2026-10-11T15:12:35Z
+4deb09c7-783d-499f-8530-f9f2f572af84,way/92035819,Tom Mitchell's Golf Complex,,course,,,active,,,,,,,,,,MD,,US,39.4712088,-76.8403642,2026-10-11T15:11:55Z
+4e46837a-8c6e-4e1f-8876-09bd0b165d3b,way/769738618,The Cannon Club,,course,,,active,18,72,,,,,,,,MD,,US,38.816204,-76.6521051,2026-10-11T15:12:21Z
+4f2c84af-e0f9-449d-8287-7297a4dc977d,way/51231199,University of Maryland Golf Course,,course,,,active,18,,,,,,,,,MD,,US,38.9947949,-76.9553097,2026-10-11T15:11:53Z
+4ff9b051-7957-4731-a5ba-3e17ff3fc271,way/1100613235,,,course,,,active,,,,,,,,,,MD,,US,39.6970745,-78.6510102,2026-10-11T13:31:06Z
+507fbb51-54be-458d-963a-d9942a93f9e8,relation/20727246,Oak Creek Golf Club,,course,,,active,,,,,,,,600 Bowieville Manor Lane,Upper Marlboro,MD,20774,US,38.883571,-76.755571,2026-10-11T15:12:45Z
+526f0dd5-bd88-4510-9434-fdd0c20747e3,relation/3965143,Chesapeake Bay Golf Club North East Course,,course,,,active,,,,,+1-410-287-0200,https://chesapeakegolf.com/,,1500 Chesapeake Club Drive,North East,MD,21901,US,39.5788874,-75.933701,2026-10-11T15:12:35Z
+54ea1719-8425-4ced-8d70-df069f0e813a,way/70804218,Bulle Rock Golf Club,,course,,,active,18,71,,,,,,,,MD,,US,39.5380215,-76.1305414,2026-10-11T13:29:49Z
+55f0a388-f19f-4f3a-b7ec-d436d6376871,way/266490129,Anne Arundell Manor,,course,,,active,18,72,,,,,,,,MD,,US,38.8551261,-76.6669452,2026-10-11T15:12:05Z
+58142dfe-d2a1-447f-8cdc-e4dce8a8bd14,way/45754331,Norbeck Country Club,,course,,,active,18,72,,,,,,,,MD,,US,39.1385954,-77.0953198,2026-10-11T15:11:53Z
+585f654e-608c-4158-aeb6-6cce85659c7b,way/198666899,Trump National Golf Club,,course,,,active,18,72,,,,,,,,MD,,US,39.0548007,-77.3481525,2026-10-11T15:12:03Z
+58dee254-d7f7-4309-b3f6-11eac00830f4,relation/7905503,Glen Riddle Golf Club,,course,,,active,,,,,,,,,,MD,,US,38.3457886,-75.1476288,2026-10-11T15:12:38Z
+5a6f717a-9d57-4cb8-9444-38daabf17d74,relation/2060584,Walden Golf & Country Club,,course,,,active,,,,,+1-410-721-8268,,,1500 Riedel Road,Crofton,MD,21114,US,39.0224992,-76.6723918,2026-10-11T15:12:30Z
+5d515b22-53dd-42a8-8ed0-b50ac3d2cede,node/6455856430,,,practice,,,active,,,,,,,,,,MD,,US,39.2577825,-76.4706102,2026-10-11T15:05:59Z
+5d55f22e-6a77-42c1-a4e9-8c1e64181937,way/92035823,Elkridge Club,,course,,,active,,,,,,,,6100 North Charles Street,Baltimore,MD,21212,US,39.3732292,-76.6300818,2026-10-11T13:29:49Z
+5dfa1095-f077-497f-8e11-f70e6f7cd9ac,way/1553336228,Glade Valley Golf Club,,course,,public,active,,,,,+1-301-898-5555,https://www.gladevalleygc.com/,,10502 Glade Road,Woodsboro,MD,21798,US,39.5238559,-77.3279875,2026-10-11T13:31:18Z
+5eec5b75-6302-4986-af71-7a2377ed416d,way/71494536,Richland Golf Club,,course,,,active,18,72,,,+1-301-371-0400,https://www.richlandgolfclub.com/,,50 Glenbrook Drive,Middletown,MD,21769,US,39.4309837,-77.5271674,2026-10-11T15:11:55Z
+6020b9eb-2e54-40d6-afaf-a1ba35c6ea6c,way/654798437,Ocean Pines Golf Course,,course,,,active,,,,,,,,,,MD,,US,38.3923387,-75.1564016,2026-10-11T15:12:20Z
+61d95db1-8033-48c1-9fc7-8492a8440b69,way/52866258,Bay Hills Golf Club,,course,,,active,,,,,,,,,,MD,,US,39.0445694,-76.4672067,2026-10-11T15:11:55Z
+61f2b1f4-a6d2-4548-973b-cc83e844ccb2,way/61239089,South River Golf Course,,course,,,active,,,,,,,,,,MD,,US,38.9161664,-76.5824408,2026-10-11T15:11:55Z
+62651f0d-1152-40a4-8c68-9a279ca34aee,relation/4436537,Compass Point Golf Course,,course,,,active,,,,,,,,,,MD,,US,39.1327152,-76.4929164,2026-10-11T15:12:36Z
+64adb5c6-93a6-4b20-a315-f95030cbdb61,relation/357652,TPC Potomac at Avanel Farm,,course,,,active,18,,,,,,,,,MD,,US,38.9947418,-77.1992068,2026-10-11T15:06:41Z
+65a46fc9-5f2e-489a-a72a-932906ec711b,relation/9352295,Mount Pleasant Golf Course,,course,,,active,18,71,,,,https://classic5golf.com/mount-pleasant,,6001 Hillen Road,Baltimore,MD,21239,US,39.3647199,-76.5761596,2026-10-11T15:12:38Z
+6707252b-dfa4-43a5-9a6d-d7b724975364,way/298203487,Blue Heron Golf Course,,course,,,active,,,,,+1-410-643-5721,https://blueherongolf.org/,,3270 Romancoke Road,Stevensville,MD,21666,US,38.909758,-76.3545235,2026-10-11T15:12:10Z
+670b4b27-f455-49d0-865f-3994d324915d,relation/12079821,Greystone Golf Course,,course,,,active,18,72,,,,,,,,MD,,US,39.6322344,-76.6069392,2026-10-11T15:12:41Z
+676cf5e3-a1f8-4b8f-b96c-5d01d72b321a,way/112694362,,,practice,,,active,,,,,,,,,,MD,,US,39.1604026,-76.6554333,2026-10-11T15:11:57Z
+679b2a7f-e8b2-4a23-9f5e-3b88ba3f4daa,way/973104115,,,course,,,active,18,72,,,,,,,,MD,,US,38.3010633,-76.3938556,2026-10-11T13:31:06Z
+67e6ab58-e40e-4b12-9f9e-785032caf8dc,way/93995505,Paint Branch Golf Complex,,course,,,active,,,,,,,,,,MD,,US,39.0056672,-76.9353919,2026-10-11T15:11:55Z
+6ab292f1-ac9f-4d5f-aba8-f7010e40bf30,way/100470107,McDaniel College Golf Course,,course,,,active,,,,,+1-410-386-4648,https://mcdanielathletics.com/information/facilities/golf,,Pennsylvania Avenue,Westminster,MD,21157,US,39.5873384,-77.0038986,2026-10-11T15:11:55Z
+6ba85756-1d15-4801-804e-55ea5ea58672,way/118544980,Rocky Point Golf Course,,course,,,active,18,72,,,+1-410-887-0215,https://baltimoregolfing.com/-rocky-point,,1935 Back River Neck Road,Essex,MD,21221,US,39.2529421,-76.4133938,2026-10-11T15:11:57Z
+6bdaaee3-69a0-4fce-b77c-0ca904253d84,node/6575348411,,,course,,,active,,,,,,,,,,MD,,US,39.2571307,-76.5019668,2026-10-11T13:29:32Z
+6bf1c4b9-38f7-4e1e-9e1f-b457de94c3b1,relation/1979687,Hobbit's Glen Golf Club,,course,,,active,,,,,,https://www.columbiaassociation.org/facilities/golf/hobbits-glen/,,,,MD,,US,39.2255572,-76.9007721,2026-10-11T15:12:30Z
+6c265d1d-8daf-4b90-91eb-41dcdf348aa0,way/764350624,Talbot Country Club,,course,,,active,,,,,,https://www.talbotcc.com/,,,,MD,,US,38.7230857,-76.0955842,2026-10-11T15:06:33Z
+6d17c4d6-629a-466a-bcd8-14dea125347d,way/1165228777,Assateague Greens Golf Course,,par3,,,active,9,27,,,+1-410-213-2332,https://www.facebook.com/AssateagueGreens,,,West Ocean City,MD,,US,38.3123367,-75.1303772,2026-10-11T15:12:27Z
+6ed10485-dd3f-44dc-9911-cdd0cc9f4f13,relation/13736098,Fountain Head Country Club,,course,,,active,18,,,,,,,,,MD,,US,39.6719219,-77.7134925,2026-10-11T13:31:42Z
+71debad5-d293-4fd1-95c3-2c467fcd9645,way/139811799,Wicomico Shores Golf Course,,course,,,active,,40,,,,,,,,MD,,US,38.3839986,-76.8484432,2026-10-11T15:12:00Z
+760bbec1-2052-49e6-a7e1-b207f688fdad,relation/2469776,Lodestone Golf Course,,course,,,active,18,72,,,,https://www.wispresort.com/Lodestone/,,,,MD,,US,39.5310499,-79.3738654,2026-10-11T15:12:33Z
+76827439-826f-439d-9970-f7da0de98f84,way/1465408379,,,course,,,active,,,,,,,,,,MD,,US,38.979704,-76.5839044,2026-10-11T15:12:29Z
+77ba4d94-c35d-4dcc-a8ad-3d4d7fd1c658,way/227684219,,,course,,,active,,,,,,,,,,MD,,US,39.6063933,-77.0566988,2026-10-11T15:06:16Z
+77d13039-ff95-480a-8865-13136106952c,way/44708290,Chevy Chase Club,,course,,private,active,18,,,,+1-301-652-4100,https://www.chevychaseclub.org/,,6100 Connecticut Avenue,Chevy Chase,MD,20815,US,38.9728939,-77.0838349,2026-10-11T15:11:53Z
+7bf024ec-cd9b-4a44-aed5-d82483c68985,relation/7747142,Green Spring Valley Hunt Club,,course,,,active,,,,,+14103630433,https://www.gsvhc.com,,,,MD,,US,39.4081907,-76.7497775,2026-10-11T15:12:38Z
+80e8f0a9-153e-4914-aed3-dea52adfca39,way/52734303,Seaside,,course,,,active,,,,,+1-800-442-3570,http://www.oceancitygolfclub.com/,,11401 Country Club Drive,Berlin,MD,21811,US,38.248868,-75.1751675,2026-10-11T15:11:53Z
+819f35bf-22ca-4a31-b481-2c056c7818a1,way/45759098,Rattlewood Golf Course,,course,,,active,18,72,,,,,,,,MD,,US,39.3419316,-77.1942263,2026-10-11T15:11:53Z
+8441f204-40eb-48db-bc67-ed0017f8fc91,way/181048949,Beaver Creek Country Club,,course,,,active,18,72,,,+1-301-733-5138,https://beavercreekcc.com/,,9535 Mapleville Road,Hagerstown,MD,21740,US,39.576484,-77.6401032,2026-10-11T15:12:01Z
+853c7af5-baeb-4476-bb2d-8cabeeb5752d,relation/2860774,Nutters Crossing Golf Course,,course,,,active,,,,,,,,,,MD,,US,38.3216175,-75.566479,2026-10-11T15:12:33Z
+8600e23f-74ff-4169-9272-e0877f5b9834,relation/3964416,The Links at Lighthouse Sound,,course,,,active,18,72,,,+1-410-641-1189,https://www.lighthousesound.com/,,12723 Saint Martin's Neck Road,Bishopville,MD,21813,US,38.4070488,-75.1097696,2026-10-11T15:12:35Z
+881513de-c7c2-4ddd-a62e-acfe2aecbd30,way/1086249392,Lake Presidential Golf Course,,course,,,active,18,72,,,,,,,,MD,,US,38.846584,-76.7365181,2026-10-11T15:12:24Z
+88b51a8d-a774-4244-9470-7e3f6cf0fb50,way/298141748,Ocean Resorts Golf Club,,course,,,active,18,72,,,+1-410-641-5643,https://www.oceanresortsgolfclub.com/,,10655 Cathell Road,Berlin,MD,21811,US,38.3720261,-75.187964,2026-10-11T15:12:10Z
+88b5e726-b491-436b-9fec-ba64fc671878,way/52866257,Bay Hills Golf Club,,course,,,active,,55,,,,,,,,MD,,US,39.0447078,-76.4765946,2026-10-11T15:11:55Z
+89d84ca1-c57f-44d6-a3b4-d82ef2b22e8d,way/45753279,Manor Country Club,,course,,,active,18,70,,,,,,,,MD,,US,39.1009563,-77.0853771,2026-10-11T15:11:53Z
+89e67cfb-3f8d-4bec-ae1f-30280a57df02,relation/357720,Leisure World Golf Course,,course,,,active,,,,,,https://leisureworldmaryland.com/media/Golf-Map-v1.pdf,,3701 Rossmoor Boulevard,Silver Spring,MD,20906,US,39.103927,-77.0665126,2026-10-11T15:12:30Z
+8a16e3ef-f2f0-4385-89e1-cd6ccc4f024b,relation/3965144,Chesapeake Hills Golf Course,,course,,,active,,,,,+1-410-326-4653,http://www.co.cal.md.us/index.aspx?nid=422,,11352 HG Trueman Road,Lusby,MD,20657,US,38.3823426,-76.4265444,2026-10-11T15:12:35Z
+8a19772f-ed34-42c2-883d-3373c59a1642,way/257336617,,,course,,,active,18,,,,,,,,,MD,,US,38.5814086,-76.1246424,2026-10-11T15:12:05Z
+8c2d0dfa-4a13-404b-b706-4bf060f75e59,way/512966236,Prospect Bay Country Club,,course,,,active,,,,,,,,311 Prospect Bay Drive West,Grasonville,MD,21638,US,38.9190998,-76.1956728,2026-10-11T15:12:18Z
+8d6c0fd6-6191-4f52-ae14-1ea2a53cc9d0,way/298203491,Geneva Farm Golf Course,,course,,,active,,,,,+1-410-452-8800,https://www.genevafarmgolf.com/,,217 Davis Road,Street,MD,21154,US,39.6585066,-76.3966262,2026-10-11T15:12:10Z
+8dcaf49d-8564-4d39-9dbb-87c6a2cb1ba4,way/139796960,Wicomico Shores Golf Course,,course,,,active,,32,,,,,,,,MD,,US,38.3825016,-76.8504688,2026-10-11T15:12:00Z
+8f002acd-2b52-441d-888d-583c6eb8a75f,way/259150843,Maplehurst Country Club,,course,,,active,,,,,,,,,,MD,,US,39.6420619,-78.9179995,2026-10-11T15:12:05Z
+95658fb6-ea7c-4738-a53d-13cd9f77b925,relation/10177562,Columbia Country Club,,course,,,active,18,,,,+1-301-951-5000,https://www.columbiacc.org/,,7900 Connecticut Avenue,Chevy Chase,MD,20815,US,38.9941584,-77.0827196,2026-10-11T15:06:49Z
+9779f193-a649-4af4-9f0c-e7d7ebeb1e92,way/53189813,Diamond Ridge Golf Course,,course,,,active,18,71,,,,,,,,MD,,US,39.328272,-76.7731164,2026-10-11T15:11:55Z
+97c0a604-cd0e-4d23-83d3-72c3f78efd63,way/56004107,The Suburban Club,,course,,,active,18,70,,,,,,,,MD,,US,39.374438,-76.7167659,2026-10-11T15:06:07Z
+982bc96c-d3c9-4bd5-8254-9bcf044b203b,way/52119060,Sparrows Point Country Club,,course,,,active,,4,,,,,,,,MD,,US,39.2518907,-76.4719692,2026-10-11T15:11:53Z
+983eddb4-8ff7-479e-a983-7c346b299ed7,way/92035820,Piney Branch Golf Club,,course,,,active,18,71,,,,https://www.pineybranchgolf.com/,,,,MD,,US,39.5785967,-76.8302377,2026-10-11T15:11:55Z
+98977f37-299a-40b6-a8a2-1f0cbcca1bae,way/53308620,Worthington Manor Golf Club,,course,,,active,18,72,,,,,,,,MD,,US,39.3250297,-77.3798431,2026-10-11T15:11:55Z
+98a7a4b8-8047-47e9-abc9-d504add41390,way/85355539,Wood Creek Golf Links,,course,,,active,,,,,,,,,,MD,,US,38.4429575,-75.5755516,2026-10-11T15:11:55Z
+991ff2af-5443-4ee1-93de-f9d682d9be39,way/311018233,Beach Club Golf Links,,course,,,active,,,,,,,,,,MD,,US,38.3607265,-75.2223498,2026-10-11T15:12:12Z
+9ee768ac-f3f1-4e51-bb35-c93fad14ead6,way/45759307,Kenwood Golf & Country Club,,course,,,active,18,70,,,,,,,,MD,,US,38.9734083,-77.1149082,2026-10-11T15:11:53Z
+9fc369f1-caf0-4d6f-88c7-9a85c5971ed4,way/102751118,Westminster National Golf Course,,course,,,active,18,71,,,,,,,,MD,,US,39.6307685,-77.0101304,2026-10-11T15:11:55Z
+9fd84b38-fa16-4e74-98c8-928b514f3090,relation/5450869,Fantasy Valley Golf Course,,course,,,active,18,,,,,https://www.wispresort.com/Fantasy-Valley/,,,,MD,,US,39.5567344,-79.3724956,2026-10-11T15:12:36Z
+a01a1cdf-57bc-414d-8b1f-cf3ccb5d69f1,way/131932665,Marlton Golf Course,,course,,,active,,,,,,,,,,MD,,US,38.7552094,-76.7948023,2026-10-11T15:11:57Z
+a1c0d9bf-0367-45a2-98ec-16c50bd680f9,way/45756710,Montgomery Country Club,,course,,,active,18,72,,,,,,,,MD,,US,39.2051305,-77.1249097,2026-10-11T15:06:05Z
+a217bb8a-4301-4476-bcb0-a19ff2d4cd0e,way/60846609,Musket Ridge Golf Course,,course,,,active,,68,,,,,,,,MD,,US,39.4946456,-77.5506542,2026-10-11T13:29:49Z
+a36f9011-97f5-4f6f-b5e4-7ed1c10c0669,way/142741111,The Greens at Hamilton Run,,course,,,active,9,35,,,+1-301-733-8630,https://www.hagerstowngreens.com/,,2 South Cleveland Ave,Hagerstown,MD,21740,US,39.6392602,-77.7057415,2026-10-11T15:12:00Z
+a3eeb514-56b3-4a33-b340-1f6706e36cf8,way/298203493,Mears Great Oak Landing Marina,,course,,,active,,,,,,https://www.mearsgreatoaklanding.com/,,22170 Great Oak Landing Road,Chestertown,MD,21620,US,39.2653425,-76.1992334,2026-10-11T15:12:10Z
+a5e17e4d-fa44-4800-94fd-3c2d7e135486,way/995944856,,,course,,,active,,,,,,,,,,MD,,US,39.1880933,-76.0843232,2026-10-11T13:31:06Z
+a6cd4105-732f-4bbe-a81a-3c3dcd489538,way/45745458,Olney Golf Park,,course,,,active,,,,,,,,,,MD,,US,39.1320164,-77.0686286,2026-10-11T15:11:53Z
+a6d127f9-0673-4001-94a0-2139db337689,relation/3570398,,,course,,,active,,63,,,,,,,,MD,,US,39.6036953,-77.4053955,2026-10-11T15:12:33Z
+a776a257-0bfb-4920-b070-dfa2f1d36ccf,relation/5575355,Hampshire Greens Golf Course,,course,,,active,18,72,,,,http://www.montgomerycountygolf.com/,,,,MD,,US,39.1284884,-77.0016462,2026-10-11T15:06:47Z
+a7923dc0-410f-4f93-8c82-9ec362b19d35,way/45757784,Four Streams Golf Club,,course,,,active,,,,,,,,,,MD,,US,39.1793193,-77.3973929,2026-10-11T13:29:44Z
+a8999871-30a3-4f7a-85bb-b63d3bfafd53,relation/15610852,Hog Neck Golf Course,,course,,,active,,36,,,+1-410-822-6079,https://hogneck.com/,,10142 Old Cordova Road,Easton,MD,21601,US,38.8261591,-76.0512715,2026-10-11T15:12:43Z
+a91577f2-1701-45a9-a710-0ccf33ffff81,relation/17487226,Henson Creek Golf Course,,course,,,active,9,33,,,,,,,,MD,,US,38.7872695,-76.9812228,2026-10-11T15:12:45Z
+ab3bcb85-f8bd-48b0-aa81-16b0c22f120e,way/112608108,,,course,,,active,,,,,,,,,,MD,,US,38.9831727,-77.1779029,2026-10-11T15:11:57Z
+ab543f15-3727-46e3-a4d0-00ac8a905a7e,way/251521284,River Marsh Golf Club,,course,,,active,18,71,,,,,,,,MD,,US,38.5603285,-76.0498679,2026-10-11T15:12:05Z
+abcc49be-877f-4cd6-8aa3-47d8ed086c74,way/61134941,Black Rock Golf Course,,course,,,active,18,,,,+1-240-313-2816,http://www.blackrockgolfcourse.com/,,20025 Mount Aetna Road,Hagerstown,MD,21742,US,39.6109558,-77.6617956,2026-10-11T13:29:49Z
+ad008604-2df6-48e1-90af-3323d83a717b,way/691043201,Patriots Glen National Golf Club,,course,,,active,,,,,,,,,,MD,,US,39.6218229,-75.8077235,2026-10-11T15:12:21Z
+ad113f36-e09e-42f4-8766-a830b53e2bd8,way/693352639,,,course,,,active,,,,,,,,,,MD,,US,39.2578083,-76.4704518,2026-10-11T13:30:58Z
+ae1f7755-b3f0-43dc-a0a4-507f9e171807,relation/14615510,Turf Valley,,course,,,active,18,71,,,,,,,,MD,,US,39.2977279,-76.8839244,2026-10-11T15:12:41Z
+af69a722-59be-4f52-839d-517a5f23fe32,way/298237540,Glade Valley Golf Club,,course,,,active,18,72,,,+1-301-898-5555,https://www.gladevalleygc.com/,,10502 Glade Road,Walkersville,MD,21793,US,39.5246676,-77.3288473,2026-10-11T15:12:10Z
+b10f10ab-35c3-48ca-9b22-8019f3f95ad5,node/6575348410,,,course,,,active,,,,,,,,,,MD,,US,39.2585788,-76.4693618,2026-10-11T13:29:32Z
+b1c20eec-7e38-49db-b758-26805062769d,way/45759680,,,course,,,active,,,,,,,,,,MD,,US,39.1066079,-77.0701873,2026-10-11T15:11:53Z
+b4bbbf26-6b1f-4614-809e-18d60d5eedb0,way/91991667,Hayfields Country Club,,course,,,active,18,72,,,,,,,,MD,,US,39.5007008,-76.6753724,2026-10-11T15:11:55Z
+b5b9efa2-6f75-4ef1-ab43-78c2e7ee038d,way/298203488,Cheasapeake Bay Golf Club Rising Sun Course,,course,,,active,,,,,+1-410-658-4343,https://chesapeakegolf.com/,,128 Karen Drive,Rising Sun,MD,21911,US,39.6633985,-75.9891918,2026-10-11T15:12:10Z
+b7fd18d8-a01e-4c9a-8699-94d652248aff,node/3646417551,Monster Mini Golf,,mini,,,active,,,,,,,,7351 Assateague Drive,Jessup,MD,20794,US,39.1693664,-76.7865912,2026-10-11T15:05:59Z
+b8847032-2901-47d0-bfa6-c94e5665465e,relation/3965145,Furnace Bay Golf Course,,course,,,active,18,72,,,+1 410-642-6816,https://www.furnacebaygc.com/,,79 Chesapeake View Road,Perryville,MD,21903,US,39.5692486,-76.0427542,2026-10-11T15:12:35Z
+baae83cc-8cc7-41f6-a524-4de18011a3cc,way/88917672,Severna Park Golf Center,,par3,,,active,9,27,,,+1-410-647-8618,https://www.severnaparkgolf.com/,,1257 Ritchie Highway,Arnold,MD,21012,US,39.0457777,-76.5150818,2026-10-11T15:06:07Z
+babf2d4d-792e-4cbf-b054-d6886393771f,way/45756709,Laytonsville Golf Course,,course,,public,active,18,71,,,,,,,,MD,,US,39.1922692,-77.143457,2026-10-11T15:11:53Z
+bb075d92-b845-4d04-8c11-17fc8e462b90,relation/12664452,Forest Park Golf Course,,course,,,active,18,71,,,,,,2900 Hillsdale Road,Baltimore,MD,21207,US,39.3237853,-76.7023215,2026-10-11T15:06:51Z
+bba4f2a1-ab9e-4c95-a404-00aaf94b3fc7,relation/8455131,Maryland Golf & Country Club,,course,,,active,18,73,,,,https://marylandgcc.org/,,,,MD,,US,39.5217745,-76.3064624,2026-10-11T15:12:38Z
+be6ce7fd-c74a-4979-bb3c-66b7bf4ea6ef,way/767768596,Sherwood Forest,,course,,,active,,,,,,,,,,MD,,US,39.0276563,-76.5407811,2026-10-11T15:06:33Z
+beae35ef-fb2f-460d-9b8f-66cbd531d125,way/654798436,Ocean Pines Golf Course,,course,,,active,,,,,,,,,,MD,,US,38.393327,-75.1487,2026-10-11T15:12:20Z
+c11c52e7-2819-4159-bcf5-92ae6cfb2884,relation/13253255,Northwest Branch Golf Course,,course,,,active,18,72,,,,,,,,MD,,US,39.1112781,-77.0300963,2026-10-11T15:12:41Z
+c16f1092-c0ac-497e-b232-7e3896fadabd,way/45755011,Woodmont Country Club,,course,,,active,,,,,+1 301 424 7200,https://www.woodmontcc.com,,1201 Rockville Pike,Rockville,MD,20852,US,39.0625882,-77.1399392,2026-10-11T15:11:53Z
+c1c0cf88-e1ac-477a-a9c9-03d7179b0ca3,relation/3964415,River Run Golf Club,,course,,,active,18,71,,,+1-410-641-7200,https://riverrungolf.com/,,11605 Masters Lane,Berlin,MD,21811,US,38.3982436,-75.1769896,2026-10-11T15:12:35Z
+c360c3ea-6e53-4262-a7b6-87dc54018dec,way/331903449,,,course,,,active,,,,,,,,,,MD,,US,39.0325573,-77.1075474,2026-10-11T15:12:12Z
+c3baeac7-5457-417a-9072-37bb21d6d805,way/53187567,Woodlands Golf Course,,course,,,active,,,,,,,,,,MD,,US,39.3335682,-76.7768839,2026-10-11T15:11:55Z
+c3d78bdd-5fbf-4d8a-879f-714f803b18da,way/738045694,,,course,,,active,,,,,,,,,,MD,,US,38.9595724,-76.1365354,2026-10-11T15:12:21Z
+c4378e56-230d-40a4-9b30-4df51be0a679,way/360918307,,,course,,,active,,,,,,,,,,MD,,US,38.8699843,-76.3371001,2026-10-11T13:30:39Z
+c6cc037a-5729-4d56-b841-b6076e4612cc,way/45405600,,,course,,private,active,,,,,,,,,,MD,,US,39.6470746,-77.4625075,2026-10-11T15:11:53Z
+c85c53ce-895b-4156-b7d2-9b41f287decd,relation/357716,Cattail Creek Country Club,,course,,,active,,,,,,,,,,MD,,US,39.2662042,-77.035688,2026-10-11T15:06:41Z
+c86518be-597b-4e1e-95f7-b3070e414f5a,way/298237541,Hope Valley Golf Course,,course,,,active,,57,,,+1-301-865-0026,https://hopevalleygolf.com/,,12731 Jesse Smith Road,Mount Airy,MD,21771,US,39.3865347,-77.2177289,2026-10-11T15:12:10Z
+c8c64260-9510-4af2-a6f7-3e5a057b7770,relation/2055529,Crofton Country Club,,course,,,active,18,72,,,,,,,,MD,,US,39.0052193,-76.6871693,2026-10-11T15:12:30Z
+c9cab0b9-4911-4eda-a5de-c560b3d5b77d,relation/1285320,Andrews South Course,,course,,,active,,,,,,http://www.aafbgc.com/,,,,MD,,US,38.7875828,-76.8756018,2026-10-11T15:12:30Z
+caf72efd-8843-4131-9ec6-6884590ef18f,way/87885279,Country Club of Maryland,,course,,,active,18,,,,,,,,,MD,,US,39.3855545,-76.5890514,2026-10-11T15:11:55Z
+cb1daee2-d997-4a3a-9ebf-19badadb0496,way/61239088,South River Golf Course,,course,,,active,,,,,,,,,,MD,,US,38.9213887,-76.5797801,2026-10-11T15:06:07Z
+cbcce983-c966-43c6-9f23-6604592b343d,way/1098813716,,,course,,,active,,,,,,,,,,MD,,US,39.6453623,-77.6679364,2026-10-11T15:12:24Z
+cdcf469b-26da-4629-bafe-cf7c6a837ace,relation/9104764,Ocean Pines Golf Course,,course,,,active,,,,,,,,,,MD,,US,38.3836672,-75.1400196,2026-10-11T15:12:38Z
+d217ed2d-2a8b-42dd-97b7-49a49fc8e8ee,relation/6435161,Pine Ridge Golf Course,,course,,,active,18,72,,,,,,2101 Dulaney Valley Road,Lutherville,MD,21093,US,39.4438959,-76.5797421,2026-10-11T15:12:36Z
+d338e9e8-401a-4922-9182-53ca380163a0,relation/13248612,Bretton Woods Golf Course,,course,,,active,18,72,,,,,,,,MD,,US,39.0733635,-77.3341165,2026-10-11T15:12:41Z
+d433de3c-228a-4faa-9149-40534216aa8c,way/45757694,PB Dye Golf Club,,course,,,active,18,72,,,,,,,,MD,,US,39.2917869,-77.3424036,2026-10-11T15:11:53Z
+d6452ee1-eda9-4735-b0c4-9f5aed2b9810,way/45759323,Bethesda Country Club,,course,,,active,,,,,,,,,,MD,,US,39.0158959,-77.1521748,2026-10-11T15:11:53Z
+d7a7a696-554e-4a88-b9ad-234d97ef7197,way/152627866,White Plains Golf Course,,course,,,active,18,70,,,,,,1015 Saint Charles Parkway,White Plains,MD,20695,US,38.5725262,-76.9168222,2026-10-11T15:12:00Z
+d7fe606d-a2fb-48c6-a9b2-c3174c4d2559,way/298203496,Wetlands Golf Course,,course,,,active,18,71,,,+1-410-273-7488,https://www.golfwetlands.com/,,740 Gilbert Road,Aberdeen,MD,21001,US,39.545563,-76.1855766,2026-10-11T15:12:10Z
+d8351637-ecd8-439d-a3a5-f3ad9567f576,way/553376775,Ocean Pines Golf Course,,course,,,active,,,,,,,,,,MD,,US,38.390225,-75.1498278,2026-10-11T15:12:18Z
+d88a5579-421c-4862-8041-465b17d92931,way/52835762,Woodholme Country Club,,course,,,active,18,,,,,,,,,MD,,US,39.3843038,-76.7457287,2026-10-11T15:11:55Z
+d9725579-9977-483a-b202-9594468c88db,way/298203497,Winters Run Golf Club,,course,,,active,,,,,+1-410-879-1200,https://www.wintersrun.com/,,1000 North Tollgate Road,Bel Air,MD,21014,US,39.5247368,-76.3807471,2026-10-11T15:12:10Z
+d9d8f9be-1de4-4780-b605-da48156db8eb,relation/2094137,Swan Point Yacht & Country Club,,course,,,active,18,71,,,+1-301-259-0047,https://swanpointgolf.com/,,11550 Swan Point Boulevard,Issue,MD,20645,US,38.2982323,-76.9127554,2026-10-11T15:12:30Z
+da93a519-d401-4e3f-aff8-355bdbfb1ace,way/171812198,Timbers at Troy Golf Course,,course,,,active,18,72,,,,,,,,MD,,US,39.2051304,-76.7682172,2026-10-11T15:12:01Z
+dc73000f-0861-403b-be8d-2a2dd834d836,way/128366102,Mountain Branch Golf Course,,course,,,active,18,72,,,,,,,,MD,,US,39.4701618,-76.360281,2026-10-11T15:11:57Z
+e14dfdc6-d248-4309-b832-8bcec9514509,way/298141740,Great Hope Golf Course,,course,,,active,,,,,,https://www.greathopegolf.com/,,8380 Crisfield Highway,Westover,MD,21871,US,38.1092826,-75.7190175,2026-10-11T15:12:10Z
+e3e85f3a-29c9-4e4a-adfa-d4a018aa064c,way/426392949,Chartwell Country Club,,course,,,active,18,,,,,,,,,MD,,US,39.0936593,-76.5987415,2026-10-11T15:12:15Z
+e475fee8-9e45-4f28-a896-b68cbf942211,relation/1285319,Andrews East Course,,course,,,active,,8,,,,http://www.aafbgc.com/course_info/East_Course_Layout.asp,,,,MD,,US,38.7903714,-76.879687,2026-10-11T15:12:30Z
+e4e34202-f824-4b5c-9da1-3e32fec0c35e,relation/1583134,Fairway Hills Golf Course,,course,,,active,,,,,,,,,,MD,,US,39.2335047,-76.8510515,2026-10-11T15:12:30Z
+e4ffa97e-9668-48e0-bc02-eb204aabb8b3,relation/6766270,Clifton Park Golf Course,,course,,,active,18,71,,,+1-410-243-3500,http://www.bmgcgolf.com/-clifton-park,,2701 Saint Lo Drive,Baltimore,MD,21213,US,39.3225817,-76.5818383,2026-10-11T15:12:38Z
+e68f8df7-6229-4ef7-9f5d-eaa28440335c,relation/13168370,Oakland Golf Course,,course,,,active,18,70,,,,,,,,MD,,US,39.4251534,-79.4086255,2026-10-11T15:12:41Z
+e6cd6eb7-9808-4a84-91d0-7ed90b3c6829,way/258731764,Cumberland Country Club,,course,,,active,,,,,,,,,,MD,,US,39.6604685,-78.7267606,2026-10-11T15:12:05Z
+e7d800a4-fa7f-4f66-a8cf-a0bbee18be9c,way/131589871,Willow Springs Golf Course,,course,,,active,,,,,,,,,,MD,,US,39.3158634,-76.9655467,2026-10-11T15:11:57Z
+e7db0e2d-139f-462a-ace4-749ee99447b5,way/298243200,Bowie Golf and Coutry Club,,course,,,active,18,69,,,+1-301-262-8141,https://www.bowiegolf.com/,,7420 Laurel Bowie Road,Bowie,MD,20715,US,38.9947937,-76.7622589,2026-10-11T13:30:27Z
+e829fdef-9cfb-4957-83a3-5ae88893247b,relation/9363443,Caves Valley Golf Club,,course,,,active,18,71,,,,https://www.cavesvalley.net/,,,,MD,,US,39.4463073,-76.7397286,2026-10-11T13:31:37Z
+e8689d41-3e8e-466d-82b6-45a1301bb38b,way/52722379,Rum Pointe Seaside Golf Links,,course,,,active,18,72,,,+1-410-629-1414,https://rumpointe.com/,,7000 Rum Pointe Lane,Berlin,MD,21811,US,38.2457435,-75.1636899,2026-10-11T13:29:44Z
+e9ef09c7-6cd8-441c-ab70-6413c2b943f4,way/61338740,South River Golf Course,,course,,,active,,,,,,,,,,MD,,US,38.9166531,-76.5672842,2026-10-11T13:29:49Z
+eb440649-0dbb-484e-a2e9-1dd663f90161,way/372369920,United States Naval Academy Golf Club,,course,,,active,18,71,,,,,,Greenbury Point Road,Annapolis,MD,,US,38.9966398,-76.467066,2026-10-11T15:12:14Z
+ed7237b2-245d-4d90-b951-f5d6385ea34e,relation/1686556,Waverly Woods Golf Course,,course,,,active,18,72,,,,https://www.waverlywoods.com,,,,MD,,US,39.3116153,-76.8855594,2026-10-11T15:12:30Z
+ef01b081-757e-4931-acbd-8f7a4e1f9743,way/62206824,Enterprise Golf Course,,course,,,active,18,72,,,,,,,,MD,,US,38.9284642,-76.8170726,2026-10-11T15:11:55Z
+efe6c718-bcd4-45c9-bae0-e7e7b126f7a4,way/298141741,Horse Bridge Golf Course,,course,,,active,,,,,,,,,,MD,,US,38.3502662,-75.4881663,2026-10-11T15:12:10Z
+eff89eae-02bb-4736-b723-237056dec0dc,relation/13215985,Lakewood Country Club,,course,,,active,18,72,,,,,,,,MD,,US,39.0828481,-77.1929931,2026-10-11T13:31:42Z
+f1e95ff2-5290-4e73-96d3-c6a160e92a4e,way/131806645,The Links at Challedon,,course,,,active,18,72,,,,,,,,MD,,US,39.4098264,-77.1129914,2026-10-11T15:11:57Z
+f24ad2dc-325d-4a1d-8bc1-b8342fa54b0a,way/593914539,,,practice,,,active,,,,,,,,,,MD,,US,39.478933,-76.4038946,2026-10-11T15:06:32Z
+f5dc0969-24cd-45f5-9998-42edb400a4e0,way/298141745,Newport Bay,,course,,,active,,,,,+1-800-442-3570,http://www.oceancitygolfclub.com/,,11401 Country Club Drive,Berlin,MD,21811,US,38.2511264,-75.1787641,2026-10-11T15:06:23Z
+f7a4b1e7-dc8e-4d35-9312-95ce6ccbee49,way/45756711,Blue Mash Golf Course,,course,,,active,18,71,,,+1-301-670-1966,https://www.bluemash.com/,,5821 Olney Laytonsville Road,Laytonsville,MD,20882,US,39.188882,-77.1130827,2026-10-11T13:29:44Z
+f83b3361-7deb-40dd-8da1-31e2ca39b1cc,relation/4871562,Hunt Valley Country Club,,course,,,active,,,,,,,,14101 Phoenix Rd,Phoenix,MD,21131,US,39.5141226,-76.6034742,2026-10-11T15:12:36Z
+f8e7928a-f366-4f78-b903-00ceef8cd2aa,relation/14311699,Little Bennett Golf Course,,course,,public,active,18,72,,,+1-301-253-1515,https://www.mcggolf.com/Courses/LittleBennett.aspx,,25900 Prescott Road,Clarksburg,MD,20871,US,39.2863905,-77.2977712,2026-10-11T15:12:41Z
+fd2a5d9d-74dd-4bef-9b2a-fd6b05e966d0,way/35395626,Fox Hollow Golf Course,,course,,,active,18,70,,,+1-410-887-7735,https://baltimoregolfing.com/sites/courses/view.asp?id=457&page=14060,,,,MD,,US,39.4635914,-76.6188081,2026-10-11T15:11:51Z

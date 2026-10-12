@@ -1,0 +1,104 @@
+id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
+00ba4b93-0110-4386-8f46-28ffeb1f302a,way/1347357290,Sutton Bay Golf Course,,course,,,active,18,72,,,,,,,,SD,,US,44.9009776,-100.3656677,2026-10-11T15:12:29Z
+02d31580-667c-446c-866d-69423fde1b2d,relation/3286321,Elkhorn Ridge Golf Club,,course,,,active,18,72,,,+1-605-722-4653,https://elkhornridgeresort.com/golf,,6845 Saint Onge Road,Spearfish,SD,57783,US,44.4797344,-103.7292882,2026-10-11T15:12:33Z
+04f7f89b-2fca-4edb-85fc-f9e36ae66068,relation/19976302,Northern Links Golf Course,,course,,,active,9,36,,,,,,7701 North Cliff Avenue,Mapleton Township,SD,57104,US,43.6327067,-96.7165428,2026-10-11T13:31:51Z
+07fdfb6e-ea13-48cc-9b85-99333f6ba21f,relation/17207913,Wild Oak Golf Course,,course,,,active,18,71,,,,https://wildoakgolfcourse.com/,,2500 East 1st Avenue,Mitchell,SD,57301,US,43.7063336,-97.9857038,2026-10-11T15:12:43Z
+0d272d4b-2f0a-461c-9de4-faef1585b3e9,relation/5583936,Rocky Knolls Golf Course,,course,,,active,9,36,,,,,,,,SD,,US,43.7563153,-103.6231481,2026-10-11T15:12:36Z
+0d79fe94-c632-4fc8-9897-6444fadffb10,way/243220614,Belle Fourche Country Club,,course,,,active,9,,,,,,,,,SD,,US,44.6451037,-103.8637686,2026-10-11T13:30:12Z
+1273d5f5-bc95-4a74-a301-86bb1dce6ec6,way/1540742822,Bison Golf Course,,course,,,active,,,,,+1-605-244-5669,,,17436 Golf Course Road,Bison,SD,57620,US,45.5164409,-102.5546648,2026-10-11T15:12:30Z
+13b55af0-2150-4f72-8f96-c75c9be958e4,relation/18148022,Springs Country Club,,course,,,active,9,34,,,,,,704 2nd Street Northeast,Wessington Springs,SD,57382,US,44.0836436,-98.5619604,2026-10-11T15:12:45Z
+13f82844-a8d2-4e74-8270-93d8c3127524,way/246083061,Dry Run Creek Park & Disc Golf Course,,disc,,,active,18,57,,,,,,,,SD,,US,43.7064702,-98.0240553,2026-10-11T15:12:05Z
+1861c4fe-c0bd-4f7b-bde3-f8aba0e04ea6,way/841496505,,,course,,,active,,32,,,,,,,,SD,,US,43.9395485,-96.9799621,2026-10-11T15:12:23Z
+1a173414-6d6d-4d1b-a98c-a3ea673839aa,way/770766897,Randall Hills Country Club,,course,,,active,9,36,,,,https://www.randallhillscc.com/,,,,SD,,US,43.0696657,-98.5262895,2026-10-11T13:30:58Z
+1e6852b8-b269-4c91-917e-c75da739e5fd,way/256136846,Meadowbrook Golf Course,,course,,,active,18,72,,,,,,,,SD,,US,44.0620631,-103.2765471,2026-10-11T13:30:12Z
+20f5fc09-8c7f-4717-b5dc-e2d05558a5b0,way/1282035143,,,course,,,active,,,,,,,,,,SD,,US,43.5852553,-96.7594555,2026-10-11T15:12:28Z
+27da92ac-ee27-4bba-bbb7-98590000072a,relation/15828620,Rocky Run Golf Course,,course,,,active,,5,,,,,,,,SD,,US,43.8288219,-96.7331587,2026-10-11T15:12:43Z
+29d7d6f4-e7b5-41f4-8f4a-e62688cc1144,way/249137968,Rolling Hills Golf Course,,course,,,active,9,,,,,,,,,SD,,US,45.4695476,-98.5106264,2026-10-11T13:30:12Z
+2a3a5374-f2fa-4959-9154-081b5e5224e8,way/596139561,Gregory Golf Course,,course,,,active,9,,,,+1 605 835 8134,,,33830 288th Street,Gregory,SD,57533,US,43.2304604,-99.4095648,2026-10-11T15:12:20Z
+2b69731f-491d-479d-a9a7-2da186a1f19e,way/194428393,,,course,,,active,,,,,,,,,,SD,,US,43.1775953,-101.7227437,2026-10-11T13:30:03Z
+2b984138-ad5f-4b74-a4fd-7dfe8c420750,relation/21429750,Mapletøn Golf Club,,course,,,active,,,,,+1 605-305-3434,https://www.mapletongolfclub.com/,,47661 Slip Up Creek Road,Mapleton Township,SD,57104,US,43.6144699,-96.673976,2026-10-11T15:12:45Z
+2eea1f11-2ed3-447e-b424-49cfc2d4d4aa,relation/17658520,,,course,,,active,18,72,,,,,,,,SD,,US,44.4008839,-103.5970442,2026-10-11T15:12:45Z
+2f84a1eb-33fd-4586-b9e1-4c36708b1b0d,way/687536655,Split Rock Country Club,,course,,,active,9,35,,,,,,,,SD,,US,45.4456649,-99.0430961,2026-10-11T13:30:58Z
+31adb17f-3382-4ae1-9c3a-2fd1863c80c2,way/1419229400,,,course,,,active,,,,,,,,,,SD,,US,44.5558346,-99.2491968,2026-10-11T15:12:29Z
+330dbac4-fa99-4101-9d0e-df7d8f7c496b,way/1347352875,Lee Park Golf Course,,course,,,active,18,70,,,,,,,,SD,,US,45.477571,-98.5015825,2026-10-11T15:12:29Z
+366b2bde-bc6e-4db8-944d-f53d3f0af4cd,way/772843720,Sunrise Ridge Golf Course,,course,,,active,9,36,,,,,,,,SD,,US,43.9750619,-96.8118077,2026-10-11T15:12:21Z
+3a8bc81a-fc63-41fc-8ca3-4a9165544124,way/771498322,Madison Golf & Country Club,,course,,,active,18,71,,,,https://madisongolfsd.com/,,,,SD,,US,44.0106941,-97.1810481,2026-10-11T15:12:21Z
+3ba3fc0b-4627-4d13-806d-aea67faacf55,way/775821979,Chamberlain Country Club,,course,,,active,9,36,,,,,,,,SD,,US,43.8115312,-99.4154563,2026-10-11T15:12:21Z
+3dd5b490-61bb-477e-9eaa-e2dea148d446,way/702316014,Dunes Golf Course,,course,,,active,18,63,,,,,,,,SD,,US,44.3877803,-100.3852479,2026-10-11T15:12:21Z
+401136f9-921a-400d-9338-f74804f07c8d,relation/8186525,Central Valley Golf Club,,course,,,active,18,72,,,,,,700 SD Highway 38,Hartford,SD,57033,US,43.629087,-96.9353354,2026-10-11T15:12:38Z
+434942e2-b4d8-400a-b751-cf8fb3ae17f3,relation/5513811,Southern Hills Golf Course,,course,,,active,18,70,,,,,,12783 US Highway 18,Hot Springs,SD,57747,US,43.422456,-103.5026448,2026-10-11T15:12:36Z
+43d0cdae-d63c-4663-82ad-eca7dcb7083e,way/623606824,Lenkota Country Club,,course,,,active,9,,,,+1-605-647-5335,https://lenkota.com/,,,,SD,,US,43.349018,-96.9123108,2026-10-11T15:12:20Z
+49250bc4-4ae3-4c62-b9f3-213ebcaf4eb7,way/238806719,Willow Run Golf Course,,course,,,active,,,,,,,,,,SD,,US,43.5348369,-96.6205718,2026-10-11T13:30:07Z
+4e2ddd7d-8ca0-4b48-989b-82d3776ae6d2,relation/16911601,Prairie Winds Golf Club,,course,,,active,18,72,,,,https://golfprairiewinds.com/,,,,SD,,US,44.9063857,-97.2048831,2026-10-11T15:12:43Z
+5093fb01-fcb1-45ee-a502-122e64103225,way/772957725,Meadow Creek Golf Course,,course,,,active,9,36,,,,https://www.meadowcreekvolga.com/,,,,SD,,US,44.3136772,-96.9195483,2026-10-11T15:12:21Z
+50ddc682-d43f-4aeb-a1f8-a4d9c345c3fc,way/141365750,Hillcrest Golf & Country Club,,course,,,active,,,,,,,,,,SD,,US,42.8971005,-97.3822442,2026-10-11T15:12:00Z
+53cdf43e-a3bf-407d-aa5a-10be1592fd0e,way/461486135,Winner Country Club,,course,,,active,,,,,,,,1220 Country Club Road,Winner,SD,57580,US,43.3663848,-99.8454103,2026-10-11T15:12:17Z
+542d8c7e-5614-4f93-952f-ad14a44c0c28,way/302180761,Country Club of Sioux Falls,,course,,,active,,37,,,+1-605-336-3737,https://www.ccsf.club/Club/Scripts,,3400 West 22nd Street,Sioux Falls,SD,57105,US,43.5316682,-96.7724905,2026-10-11T15:12:12Z
+56f3e8b6-ba9f-42e4-a22e-ce0375fa9fdd,way/247784673,,,course,,,active,9,29,,,,,,,,SD,,US,44.3680236,-98.1961274,2026-10-11T13:30:12Z
+5a0bd5c2-c8d1-44c6-b49d-d23a7315052e,relation/17283192,Kuehn Golf Course,,course,,,active,9,30,,,,,,2901 South Kuehn Park Road,Sioux Falls,SD,57106,US,43.5202653,-96.8078034,2026-10-11T15:06:53Z
+5fc536bf-e8c6-43ae-8ebd-7a0a3066ec24,relation/15550104,The Bluffs,,course,,,active,18,72,,,+1 605-677-7058,https://www.thebluffsgc.com/,,2021 East Main Street,Vermillion,SD,57069,US,42.7738,-96.9002159,2026-10-11T15:06:53Z
+65a36218-cd1e-4301-bb48-884954ab6fa1,way/251118492,Forest Drive Disc Golf Course,,disc,,,active,18,54,,,,,,,,SD,,US,45.5426569,-98.6169096,2026-10-11T15:12:05Z
+6c451c96-2868-414e-9017-0688264105bb,way/137187755,EdgeBrook Golf Course,,course,,,active,18,70,,,,http://www.cityofbrookings.org/index.aspx?NID=312,,,,SD,,US,44.2861718,-96.7635474,2026-10-11T15:12:00Z
+6d63e47d-4424-41fc-9317-48af1853e98b,way/544861933,Lake Platte Golf Club,,course,,,active,,,,,+1 605-337-3300,,,27574 Golf Course Road,Platte,SD,57301,US,43.3879404,-98.889595,2026-10-11T15:12:18Z
+6ed81a0d-86bb-4157-95af-f86f6a542c37,way/1498760510,Bon Homme Golf Course,,course,,,active,,,,,,,,,,SD,,US,42.9933871,-97.9134044,2026-10-11T13:31:14Z
+715b03fd-1de7-498d-a4b1-95bc6fa08367,way/1078593001,Gettysburg Golf Course,,course,,,active,9,36,,,,,,,,SD,,US,45.0185053,-99.9477306,2026-10-11T15:12:24Z
+71bb0bd5-2206-43d5-a6da-76808ae61d01,way/758570875,The Pointe Golf & Event Center,,course,,,active,9,36,,,,,,,,SD,,US,42.6782041,-96.6735044,2026-10-11T15:12:21Z
+78235047-4b5d-4892-ac0a-41630c430dc3,way/1536604890,Clear Lake Public GC,,course,,,active,9,35,,,,,,,,SD,,US,44.7485123,-96.6892899,2026-10-11T15:12:30Z
+795ec093-0f7f-48fa-838a-c9e356ae2859,relation/17676594,Valley View Golf Course,,course,,,active,9,36,,,,,,27996 438th Avenue,Freeman,SD,57029,US,43.3321289,-97.437561,2026-10-11T15:12:45Z
+79697d65-c235-4ef3-8a2d-c2babb98ae26,way/819288708,Minnehaha Country Club,,course,,private,active,,38,,,+1 605-336-1085,https://www.minnehahacc.com/Home,,3101 West 22nd Street,Sioux Falls,SD,57105,US,43.5248134,-96.7662089,2026-10-11T15:12:23Z
+7c2ba613-8ab2-45bf-b84b-dba98a953dca,relation/4116199,Tomahawk Lake Country Club,,course,,,active,9,36,,,,,,,,SD,,US,44.2889103,-103.6858047,2026-10-11T13:31:27Z
+7c8ff006-fff9-4b92-9f8b-d9adba1647a7,way/242917004,9-Hole Short/Executive Course,,course,,,active,,,,,,,,,,SD,,US,44.2892056,-96.7657811,2026-10-11T15:12:05Z
+80799bcf-2ef7-4ac6-a26e-6bf82be1ac76,way/255626994,Arrowhead Club,,course,,private,active,18,71,,,,https://www.arrowheadccrc.com/,,,,SD,,US,44.0522917,-103.26817,2026-10-11T13:30:12Z
+8650f61e-a145-42c1-b1be-fef96d85ac3f,way/427901920,Lakeview Golf Course,,course,,,active,18,72,,,,,,3300 North Ohlman Street,Mitchell,SD,57301,US,43.7391365,-98.0387367,2026-10-11T15:12:15Z
+893bac57-d329-494e-a7fb-7129dd2d7b41,relation/17830055,Prairie Green Golf Course,,course,,,active,18,72,,,,https://www.dakotagolf.com/prairiegreen,,600 East 69th Street,Sioux Falls,SD,57108,US,43.4895795,-96.72453,2026-10-11T15:12:45Z
+8a96e723-9f35-4a18-be10-f3e1094b978e,way/307747419,Kiwanis Disc Golf Course,,disc,,,active,9,,,,,,,,,SD,,US,43.7331699,-98.0306655,2026-10-11T15:06:24Z
+8b6d7caa-49cf-4d46-b8fd-9904e0f99034,way/762019679,Bakker Crossing Championship Golf Course,,course,,,active,18,71,,,,,,,,SD,,US,43.4463334,-96.772382,2026-10-11T15:12:21Z
+8b89e668-ce53-485b-b817-a1c9e3741648,relation/21424615,Lead Country Club,,course,,,active,9,36,,,+1-605-584-1852,http://www.leadcountryclub.com/,,21826 Hanna Road,Lead,SD,57754,US,44.2707515,-103.8149947,2026-10-11T15:12:45Z
+8c03cc07-e6a3-4fd9-9cc9-18d775b00c72,way/250270121,Moccasin Creek Country Club,,course,,,active,18,72,,,,https://moccasincreekcc.com/,,4807 130th Street,,SD,57401,US,45.5096551,-98.4181564,2026-10-11T15:12:05Z
+92555817-56c8-4f03-b75c-c8a8b6d20c3f,node/10012401026,,,course,,,active,,,,,,,,,,SD,,US,45.0320773,-99.1790954,2026-10-11T13:29:32Z
+96d0e640-c43f-41d5-8881-05b08e8f454a,node/3113180614,Red Rock Golf Club,,course,,,active,,,,,,,,,,SD,,US,44.0210156,-103.3000239,2026-10-11T13:29:32Z
+9859cd0e-a5a0-460a-9960-46fb37e49e20,way/302357852,Elmwood Golf Course,,course,,,active,27,,,,+1-605-367-7092,https://dakotagolf.com/course/elmwood/,,2604 West Russell Street,Sioux Falls,SD,57104,US,43.5723439,-96.7572219,2026-10-11T15:12:12Z
+992498d9-c78b-4ae3-ab57-1e361f57144a,way/244776723,Lemmon Country Club,,course,,,active,9,36,,,,,,,,SD,,US,45.9167467,-102.1172957,2026-10-11T15:12:05Z
+9a1ece5b-ac57-41a1-a261-71e9965e724a,way/296975118,Two Rivers Golf Club,,course,,,active,18,69,,,+1 605-232-3241,https://www.golftworivers.com/,,150 South Oak Tree Lane,Dakota Dunes,SD,57049,US,42.5018209,-96.4802077,2026-10-11T15:12:10Z
+9a7b9c11-0e81-450a-ba9c-505ad2169a51,way/1347357293,Olive Grove Golf Course,,course,,,active,9,36,,,,,,,,SD,,US,45.4468696,-98.086575,2026-10-11T15:12:29Z
+9ca9ad43-c4b8-4a68-a48a-77d3e1ba128a,way/342567181,Webster Golf Club,,course,,,active,,,,,,,,,,SD,,US,45.3383154,-97.5263985,2026-10-11T15:12:14Z
+9dede471-42ab-475f-8bc3-6e3a7a63055f,way/242674003,,,course,,,active,,,,,,,,,,SD,,US,44.0475054,-103.1999965,2026-10-11T15:12:05Z
+9def16e4-8951-44b6-8c30-00e5416da241,way/1179869663,Wall Golf Course,,course,,,active,9,37,,,,https://www.wallsd.us/index.asp?SEC=4B5FD50A-949C-4D60-81C0-2B786B4BF585&DE=05F3EE8D-B1F4-46F0-B1FD-038E2FB81040,,1801 Golf Course Road,Wall,SD,57790,US,43.9764125,-102.2534657,2026-10-11T15:06:38Z
+9f1d4eb2-e368-4b58-86bb-2e2e83288db6,way/742670213,,,course,,,active,,69,,,,,,,,SD,,US,43.4579778,-96.604123,2026-10-11T15:12:21Z
+a3cc74f8-2608-45e6-9631-74243a315cdd,way/177851293,,,course,,,active,,,,,,,,,,SD,,US,44.0724855,-101.6526188,2026-10-11T15:12:01Z
+a3e018a1-be80-4aff-8299-8f80bb16cc10,relation/14584413,Brandon Golf Course,,course,,,active,18,71,,,+1 605-582-7100,https://brandongc.com/,,2100 East Aspen Boulevard,Brandon,SD,57005,US,43.5916314,-96.5605171,2026-10-11T15:12:41Z
+a596bc9e-abee-44f1-8193-43921b7019c9,way/1347357292,Oahe Hills Golf Course,,course,,,active,9,36,,,,,,,,SD,,US,45.5616536,-100.4231949,2026-10-11T15:12:29Z
+a5b46c0f-ba85-4285-8d89-6d6262e476c3,way/1385160647,Castlewood Golf Course,,course,,,active,,,,,,,,,,SD,,US,44.7145618,-97.0222185,2026-10-11T15:06:40Z
+aa303ac2-7806-41c3-9ec6-d4ce11689590,relation/3949871,Dakota Dunes Country Club,,course,,,active,,69,,,+1 605-232-3000,https://www.dakotadunescountryclub.com/,,960 South Dakota Dunes Boulevard,Dakota Dunes,SD,57049,US,42.4886418,-96.4913564,2026-10-11T15:12:35Z
+ab472c04-3223-4022-b32b-e57d133a19c4,way/1482079656,,,course,,,active,,,,,,,,,,SD,,US,45.2587168,-99.795323,2026-10-11T15:12:29Z
+ab989861-3bc2-4210-8f94-dcf38c00ac0f,relation/17449731,Prairie Dunes Golf Course,,course,,,active,9,31,,,,,,248 West Chicago Avenue,Goodwin,SD,57238,US,44.8747505,-96.8550857,2026-10-11T15:12:45Z
+acb42704-d80b-42b3-8952-22a735c848fb,relation/2128149,Britton Country Club,,course,,,active,9,34,,,,,,10920 424th Avenue,Pleasant Valley Township,SD,57430,US,45.8038238,-97.7282357,2026-10-11T15:12:30Z
+afd57843-00b8-4276-a94e-d1f7bf27a99d,relation/6729387,Elks Golf Course,,course,,,active,18,72,,,,,,,,SD,,US,44.0465267,-103.1564418,2026-10-11T15:12:38Z
+b473d3b6-950d-42e3-ad8b-c0a96989cfd8,relation/18858432,Clark Golf Course,,course,,,active,,,,,,,,,,SD,,US,44.8847997,-97.7417182,2026-10-11T15:12:45Z
+b59c62ee-e3a1-4626-a455-6d1ae5fe09e0,relation/20461996,Broadland Creek National Golf Course,,course,,,active,,49,,,+1-605-353-8525,https://www.broadlandcreekgolf.com,,118 22nd Street Northwest,Huron,SD,57350,US,44.3941181,-98.224529,2026-10-11T15:12:45Z
+b62a2cc9-c41a-4da2-93d1-692655da0b56,way/167859267,Executive Golf Course,,course,,,active,9,29,,,,,,,,SD,,US,44.0868948,-103.2371845,2026-10-11T15:12:01Z
+b92058d9-b736-4cf7-9b1e-7eaafa6fd383,relation/17507704,Springfield Golf Club,,course,,,active,9,36,,,,,,41550 Boat Basin Drive,Springfield,SD,57062,US,42.8615104,-97.875186,2026-10-11T15:12:45Z
+bbeb3788-3172-411b-9d90-fe7b87be6952,way/444644779,Hiawatha Golf Club,,course,,,active,,,,,+1 605 987 2474,https://hiawathagolfclub.com/,,100 North Hiawatha Drive,Canton,SD,57013,US,43.3032102,-96.5545832,2026-10-11T15:12:15Z
+be2c594a-b78f-4ed4-b8f7-3284de9aa981,relation/14584394,Hidden Valley Golf Course,,course,,,active,,,,,+1 605-582-2424,https://golfthevalley.com/,,1708 East Redwood Boulevard,Brandon,SD,57005,US,43.5987343,-96.5612105,2026-10-11T15:06:51Z
+beacccef-7680-4c79-a4bd-85984479ff50,relation/6599662,Prairie Ridge Golf Course,,course,,,active,9,36,,,,,,,,SD,,US,44.1298965,-103.0754388,2026-10-11T13:31:37Z
+c0010e17-f663-49d3-a227-33f549c1938f,relation/18226857,Village Green Golf Course,,course,,,active,9,33,,,,,,508 East Farmer Avenue,Howard,SD,57349,US,44.0132313,-97.5179964,2026-10-11T15:12:45Z
+c0bf4f92-47dd-4610-8518-dab1026448fe,way/106856853,,,course,,,active,9,36,,,,,,,,SD,,US,43.7196036,-97.3985188,2026-10-11T13:29:54Z
+c71a821c-8c19-42f7-888c-bcc12acf418e,relation/16911602,Cattail Crossing Golf Course,,course,,,active,,,,,,https://www.watertownsd.us/index.aspx?NID=349,,,,SD,,US,44.915849,-97.1785717,2026-10-11T15:06:53Z
+c9f0d81b-bd4a-4770-a152-536da8e65a40,relation/20461997,Huron Country Club,,course,,,active,,50,,,,,,304 22nd Street Northwest,Huron,SD,57350,US,44.3961321,-98.2193493,2026-10-11T13:31:51Z
+ca562513-4d04-476e-9946-1419d1727556,relation/18567126,,,course,,,active,9,,,,,,,,,SD,,US,43.0295754,-96.6261339,2026-10-11T15:12:45Z
+cbfb17e1-029d-437e-9623-be247352ddc9,relation/18354836,Kingsbury County Country Club,,course,,,active,9,36,,,+1 605 854 3134,https://www.golfkccc.com/,,611 7th Street Southwest,De Smet,SD,57231,US,44.3809456,-97.5574304,2026-10-11T15:12:45Z
+d0b35cd5-0e39-49d6-b0fb-7ff23bf77f5a,way/1337083624,,,course,,,active,,,,,,,,,,SD,,US,43.2776583,-100.6578382,2026-10-11T15:12:29Z
+d4505cae-a6d4-4208-aef1-281410ae3bf0,way/1312117234,Hart Ranch Golf Club,,course,,,active,18,72,,,+1-605-341-5703,https://www.hartranch.com/,,23645 Clubhouse Drive,Rapid City,SD,57702,US,43.9753471,-103.2379724,2026-10-11T15:12:29Z
+d8a42026-3341-4c67-a388-6f977dfcdb8d,way/756418376,Gate City Golf Course,,course,,,active,,,,,,,,,,SD,,US,44.76343,-96.4623922,2026-10-11T15:12:21Z
+db53b5f5-be84-4521-ae26-3bb9ca094831,way/595964042,,,course,,,active,,,,,,,,,,SD,,US,45.7761683,-99.6083915,2026-10-11T15:12:20Z
+e7b7ab99-5321-4515-bb66-288547bb3206,way/566462353,,,course,,,active,9,35,,,,,,,,SD,,US,44.5441029,-98.986244,2026-10-11T15:12:18Z
+e8168aac-f4ef-4203-a645-dfd524fae92b,relation/18354448,Brookings Country Club,,course,,,active,18,72,,,+1-605-693-4316,https://www.brookingscc.com/,,2180 Clubhouse Drive,Brookings,SD,57006,US,44.2139461,-96.8337956,2026-10-11T15:12:45Z
+e92e1892-9191-4689-a9f8-f5d1609e03ed,relation/18378210,River Ridge Golf Course,,course,,,active,9,36,,,,,,25412 485th Avenue,Garretson,SD,57030,US,43.6988499,-96.5059432,2026-10-11T15:12:45Z
+e99f2811-56e5-440a-ac1e-9ca6dc929caf,relation/15463402,Fisher Grove Country Club,,course,,,active,9,35,,,,,,17290 Fishers Lane,Frankfort,SD,57440,US,44.8816121,-98.350989,2026-10-11T15:12:43Z
+ea358093-7a7a-47b0-a4e2-a4b6e5da6a11,way/44800721,Hillsview Golf Club,,course,,,active,18,72,,,,,,4201 State Highway 34,Pierre,SD,57501,US,44.3486106,-100.2996657,2026-10-11T15:11:53Z
+ef375b2e-d2c9-4118-83d8-3502097361a9,way/141365768,,,course,,,active,,,,,,,,,,SD,,US,42.8951524,-97.3797153,2026-10-11T15:06:12Z
+f20ea1fb-7c31-43c1-b76a-3273800c13df,way/546203646,Scotland Dawson Creek Golf Course,,course,,,active,,,,,,,,,,SD,,US,43.1423439,-97.7272317,2026-10-11T13:30:51Z
+fb2c3a0c-52c2-4969-a5bc-328368a4dfbc,relation/3556378,Spearfish Canyon Country Club,,course,,,active,,,,,,,,120 Spearfish Canyon Road,Spearfish,SD,57783,US,44.4803524,-103.8400625,2026-10-11T15:12:33Z
+fbf7ba6c-0bfa-4a95-8d96-ddca3891a119,way/314809486,Fox Run Golf Course,,course,,,active,18,72,,,,,,,,SD,,US,42.9032277,-97.4085319,2026-10-11T15:12:12Z
+fc5a6fdd-83f1-4cf3-b933-26261f2f97e5,way/1084352384,,,course,,,active,,,,,,,,,,SD,,US,43.180967,-99.3123695,2026-10-11T15:12:24Z
+fff1e569-0b7d-4ca0-832c-635788b9f80b,relation/17932375,Fish Lake Country Club,,course,,,active,9,36,,,,,,39051 253rd Street,Plankinton,SD,57368,US,43.7191962,-98.3966889,2026-10-11T15:12:45Z

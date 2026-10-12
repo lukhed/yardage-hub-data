@@ -1,0 +1,97 @@
+id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
+01bc4b32-7fae-408c-b52d-c620b781f06a,way/316256979,Buffalo Hill Golf Course,,course,,,active,18,72,,,+1 406-756-4530,https://www.golfbuffalohill.com/,,1176 North Main Street,Kalispell,MT,59901,US,48.2161986,-114.3156739,2026-10-11T15:06:24Z
+03a66b65-b669-4d42-8ed8-7b4516dc73ff,way/35677699,Eagle Falls Golf Club,,course,,,active,18,70,,,+1 406-761-1078,http://www.greatfallsmt.net/recreation/eagle-falls-golf-club,,1025 25th Street North,Great Falls,MT,,US,47.5188232,-111.2513766,2026-10-11T15:11:51Z
+05cb0349-d327-4273-a04b-7b9f407fe0db,way/616344301,Iron Horse Practice Facility,,practice,,,active,,,,,,https://ironhorsegolfclub.com/golf-course/practice-facility/,,,,MT,,US,48.4419539,-114.3492745,2026-10-11T15:12:20Z
+075e0719-19a6-4764-9eb5-d334c24b4ec3,way/315306926,Sidney Country Club,,course,,,active,,,,,+1 406-433-1894,https://www.sidneycountryclub.com/,,16 Highway North,Sidney,MT,59270,US,47.7175384,-104.1956694,2026-10-11T13:30:33Z
+07c61deb-414b-44e0-9d65-b6e41db46401,relation/18441489,Eagle Bend Golf Club,,course,,,active,,,,,,,,279 Eagle Bend Drive,Bigfork,MT,59911,US,48.075581,-114.1062769,2026-10-11T15:12:45Z
+0f40c925-c929-44d3-86e8-7eb8b98bf586,way/238146055,,,par3,,,active,18,54,,,,,,,,MT,,US,45.7661422,-108.5628956,2026-10-11T15:06:16Z
+10ac00cc-704f-4f33-8764-bfad0a12e128,way/147037927,Cut Bank Golf & Country Club,,course,,,active,,,,,,,,,,MT,,US,48.6227494,-112.3460739,2026-10-11T15:12:00Z
+115de450-f5bd-415a-b449-33163997588e,relation/4256833,Northern Pines Golf Club,,course,,,active,,,,,+1 406-751-1950,https://northernpinesgolfclub.com/,,3230 Highway 93 North,Kalispell,MT,59901,US,48.2603965,-114.3384349,2026-10-11T15:12:36Z
+11bc83df-62bd-4e73-89dc-825a526f3188,relation/18222297,Stock Farm Club,,course,,,active,18,72,,,,,,,,MT,,US,46.2509627,-114.0552168,2026-10-11T15:12:45Z
+13120e12-049a-44c6-88dc-cc3359558631,way/316256982,Iron Horse Golf Club,,course,,,active,,,,,+1 406-863-3100,https://ironhorsegolfclub.com/,,2150 Iron Horse Drive,Whitefish,MT,59937,US,48.4491783,-114.3428177,2026-10-11T15:12:12Z
+153d42cb-15c5-4350-86c0-03969f77219c,relation/17880670,Canyon River Golf Club,,course,,,active,18,72,,,+14067210222,https://canyonrivergolfclub.com,,1268 Bandmann Trail,Missoula,MT,59802,US,46.8799066,-113.9213643,2026-10-11T15:12:45Z
+1567220f-5028-44ae-9c2d-49e08d8bc2a6,way/340347980,Chinook Golf Club,,course,,,active,,,,,,,,,,MT,,US,48.6155227,-109.2497234,2026-10-11T15:12:14Z
+15d37889-7c37-4e0b-9ca1-fe072acd562c,way/31711741,Anaconda Hills Golf Course,,course,,,active,18,69,,,+1 406-761-8459,http://www.greatfallsmt.net/recreation/anaconda-hills-golf-course,,2315 Smelter Avenue,Black Eagle,MT,,US,47.527169,-111.2664144,2026-10-11T15:11:51Z
+17f2250d-6ade-4cc4-9a05-07532cf23a12,way/847722522,,,course,,,active,,,,,,,,,,MT,,US,45.2554589,-111.3656608,2026-10-11T13:31:02Z
+19e53ee8-8d9c-42ce-b9a4-8cb424aff39c,way/354449306,Bill Roberts Municipal Golf Course,,course,,,active,18,72,,,,,,,,MT,,US,46.6106229,-112.0365628,2026-10-11T15:12:14Z
+1adf67ef-48be-49d4-926f-d3289b22ad58,way/779109473,,,course,,,active,,,,,,,,,,MT,,US,45.727506,-111.0614283,2026-10-11T13:30:58Z
+2b01e357-9e30-482d-803b-15ab82d3e289,way/322677208,Laurel Golf Club,,course,,,active,18,72,,,+1 406-628-4504,https://www.laurelgolfclub.com/,,1020 Golf Course Road,Laurel,MT,59044,US,45.6789206,-108.8143239,2026-10-11T15:12:12Z
+2f00eeab-3f01-4101-99b5-6f474678ed93,way/1422992444,,,course,,,active,,,,,,,,,,MT,,US,46.349756,-104.2658684,2026-10-11T15:12:29Z
+31d00795-fc2e-4b3a-82af-247628db9387,way/475684995,Indian Springs Golf Course,,course,,,active,,,,,,,,,,MT,,US,48.9303769,-115.0502733,2026-10-11T15:12:17Z
+3f73883d-1183-460f-bdb8-7226712f294a,way/1305310373,Trestle Creek Golf Course,,course,,,active,,,,,,,,,,MT,,US,47.287182,-115.0864035,2026-10-11T15:12:29Z
+431cee14-959f-4757-ba29-4c769c1b6fc0,way/363790900,Black Bull,,course,,,active,,,,,,https://www.blackbullbozeman.com/,,,,MT,,US,45.6902148,-111.1551071,2026-10-11T15:12:14Z
+45634b82-519b-461d-99f5-f65a5c0a26b7,way/296526483,Anaconda Country Club,,course,,,active,9,,,,+1 406-797-3220,http://golfanaconda.com/,,1521 Country Club Road,Anaconda,MT,59711,US,46.1125792,-112.836059,2026-10-11T13:30:27Z
+49e983eb-8ba7-4484-85ee-336fca36b947,way/337697729,Livingston Golf and Country Club,,course,,,active,,,,,,,,,,MT,,US,45.6615379,-110.5433419,2026-10-11T15:12:14Z
+4ea72b83-b63b-4dba-a833-256cb28a408a,way/345570764,Jawbone Creek Country Club,,course,,,active,,,,,,,,,,MT,,US,46.4435628,-109.8366501,2026-10-11T15:12:14Z
+4f291291-c825-4c77-bf3d-6467cc2bef8f,way/779123320,,,course,,,active,,,,,,,,,,MT,,US,45.7289301,-111.0692914,2026-10-11T15:12:21Z
+4f6a5d2f-2d01-4528-9c7d-fe930492d884,way/238143947,Yegen Golf Club,,course,,,active,,,,,+1 406-656-8099,https://www.yegengolfclub.com/,,1390 Zimmerman Trail,Billings,MT,59102,US,45.7800134,-108.6020894,2026-10-11T15:12:03Z
+5209eb02-9dc6-4ead-9613-81a71da02228,way/722790592,Double Arrow Golf Course,,course,,,active,,,,,,,,,,MT,,US,47.1505887,-113.4610675,2026-10-11T15:12:21Z
+5659d67a-e5b2-4ada-b9dc-759202275612,way/475683365,Polson Bay Olde Course,,course,,,active,,12,,,,https://www.polsonbaygolf.com/golf/olde-course,,,,MT,,US,47.6958571,-114.1323242,2026-10-11T15:12:17Z
+580351f9-2980-48d4-9bd4-933538c73962,relation/17713888,Signal Point Golf Course,,course,,,active,,,,,,,,,,MT,,US,47.8377454,-110.6488766,2026-10-11T13:31:51Z
+583437c1-791b-489b-a8fc-de44cd0cf663,way/1349065483,King Ranch Golf Course,,course,,,active,18,72,,,+14066264000,https://www.kingranchmt.com/,,17775 Mullan Road,Frenchtown,MT,59834,US,47.0138445,-114.2484342,2026-10-11T15:12:29Z
+5d9c2625-36f8-44e9-a32a-78afaaf2dab2,relation/4256832,Meadow Lake Golf Club,,course,,,active,,,,,+1 406-892-2111,https://meadowlakegolf.com/,,490 Saint Andrew's Drive,Columbia Falls,MT,59912,US,48.3925658,-114.2083097,2026-10-11T15:12:36Z
+5e2f0d92-f3fa-4685-8822-c17e2f673c42,way/296526491,Deer Park,,course,,,active,,,,,,,,,,MT,,US,46.3884455,-112.7760827,2026-10-11T15:12:10Z
+61f298c1-f5d7-4d72-a420-d85b12db0bf6,way/475683575,Polson Bay Championship Course,,course,,,active,18,72,,,,https://www.polsonbaygolf.com/golf/championship,,,,MT,,US,47.6992095,-114.1222372,2026-10-11T13:30:48Z
+6224cfae-ff3c-482a-9ebb-4f3eb36ad95e,way/1211477450,Highland View Par-3 Course,,par3,,,active,,4,,,,,,,,MT,,US,45.9777012,-112.5252415,2026-10-11T15:12:27Z
+6557a59f-bf0c-409e-85b7-cbf51f05adc3,way/296526499,Old Works Golf Club,,course,,,active,18,72,,,+1 406-563-5989,https://oldworks.org/,,1205 Pizzini Way,Anaconda,MT,59711,US,46.133824,-112.9334872,2026-10-11T15:06:23Z
+67214289-8748-476d-bb1f-32c1002ca35e,relation/19579537,Mission Mountain Golf Club,,course,,,active,,,,,,https://www.golfmissionmountain.com/,,46664 Golf Course Way,Ronan,MT,59864,US,47.5370192,-114.1464519,2026-10-11T15:06:54Z
+672854cd-8e95-4d06-af4a-0265e4cbc03a,way/192335617,,,course,,,active,,,,,,,,,,MT,,US,47.1313751,-104.740887,2026-10-11T15:12:01Z
+6759d162-8b1b-4ff9-9530-66d6acc25b7e,way/630747541,Big Sky Golf Course,,course,,,active,,,,,,,,,,MT,,US,45.2667341,-111.30198,2026-10-11T15:12:20Z
+6a47d8c5-8a7f-439f-b391-2a1b7bf22189,way/333461116,Arrowhead Meadows Golf Course,,course,,,active,,,,,,,,,,MT,,US,46.5375194,-110.9027515,2026-10-11T15:12:12Z
+6c701c85-0bfd-4e4e-a48c-beeee94805d4,way/147038688,Marias Valley Golf & Country Club,,course,,,active,18,72,,,,,,,,MT,,US,48.4305181,-111.9080783,2026-10-11T15:12:00Z
+6cb4e62f-ba20-4f8e-8e20-4326abe1babb,relation/4256835,Whitefish Lake Golf Club - South Course,,course,,,active,,,,,+1 406-862-4000,https://golfwhitefish.com/,,,,MT,,US,48.4026071,-114.3587313,2026-10-11T13:31:32Z
+6e9dcb3b-78a9-4870-891b-3261939ef44e,relation/4835580,Marian Hills Country Club,,course,,,active,,,,,,,,1652 US-191,Malta,MT,59538-9346,US,48.3445257,-107.8872808,2026-10-11T13:31:32Z
+6ef37af7-6857-4174-89ba-a4c741cd16d6,way/341360991,Airport Golf Club,,course,,,active,,,,,,,,,,MT,,US,48.0911993,-105.5726859,2026-10-11T15:12:14Z
+70d2651b-d38b-4c4d-8bb6-ceaf178183ec,way/987675826,Eagle Rock Golf Course,,course,,,active,,,,,,,,5624 Larimer Lane,Billings,MT,59105,US,45.9038793,-108.4151854,2026-10-11T15:06:36Z
+72b25beb-685d-4f01-afd4-24be0a032749,node/13356143829,Practice Bunker at Lake Hills Golf Course,,practice,,,active,,,,,,,,,,MT,,US,45.8332233,-108.4986467,2026-10-11T15:05:59Z
+7519e61e-cea4-4d00-b0df-4f3f6f2e9fdb,way/272456258,Old Baldy Golf Course,,course,,,active,,,,,,,,,,MT,,US,46.3361357,-111.4914648,2026-10-11T15:12:07Z
+7551e72f-5264-4b39-b0f4-075204090d8a,way/1138055181,Meadow Creek Golf Course,,course,,,active,,,,,,,,,,MT,,US,48.7617767,-114.9028604,2026-10-11T15:12:27Z
+77547591-44de-4933-a1d2-342fa9533ea8,way/339583535,Choteau Country Club,,course,,,active,9,,,,,,,1502 Airport Road,Choteau,MT,59422,US,47.8189792,-112.1632087,2026-10-11T13:30:39Z
+7a604fa8-aa94-46f4-98ff-8407c57a9539,way/334107998,Miles City Town and Country Club,,course,,,active,,,,,,,,,,MT,,US,46.3959614,-105.8415424,2026-10-11T15:06:24Z
+7dafa1e7-52e6-4112-83b0-3597080dd8e8,way/1428019899,Silver Fox Golf Course,,course,,,active,,,,,,,,,,MT,,US,47.5928517,-114.1056014,2026-10-11T15:12:29Z
+7ee985cd-efe7-42e1-b6e2-9737d4d0e465,way/296526473,,,course,,,active,,,,,,,,,,MT,,US,45.9730718,-112.4944019,2026-10-11T15:12:10Z
+8186147e-d3fb-449b-8a46-16792ccef379,way/728249832,Forsyth Country Club,,course,,,active,,,,,,,,,,MT,,US,46.2479261,-106.7229644,2026-10-11T15:12:21Z
+81b0132d-33a7-45ae-a3b0-ab4f16983781,way/322663784,Hilands Golf Club,,course,,,active,9,36,,,+1-406-245-3049,https://www.hilandsgolfclub.com/,,714 Poly Drive,Billings,MT,59102,US,45.7930602,-108.5367188,2026-10-11T15:12:12Z
+82ea9f39-287b-482b-950d-a859747e051b,way/847720599,,,course,,,active,,,,,,,,,,MT,,US,45.2319119,-111.3937663,2026-10-11T15:12:23Z
+830d9584-8e81-4518-8675-8860811b1314,way/329890440,Rolling Hills Golf Course,,course,,,active,,,,,,,,,,MT,,US,45.4607723,-105.4593654,2026-10-11T13:30:33Z
+88980c6c-546e-44a8-bac8-a611b56188ee,way/839924731,The Highlands Golf Club,,course,,,active,9,35,,,,,,102 Ben Hogan Drive,Missoula,MT,59803,US,46.8295059,-113.9996637,2026-10-11T15:12:23Z
+8c04d41b-4ecf-4381-86a4-95efbfda12bd,way/322662000,Yellowstone Country Club,,course,,private,active,,,,,+1 406-656-1701,https://yellowstonecc.com/,,3200 Paul Allen Way,Billings,MT,59106,US,45.8054377,-108.6644506,2026-10-11T15:06:24Z
+8f881e93-b3d9-40b5-b61f-e9f78acb6b22,way/232657455,,,course,,,active,,,,,,,,,,MT,,US,45.2641443,-111.3023261,2026-10-11T15:12:03Z
+91774d35-422a-4b1f-8fff-7606bb8af605,relation/7332245,Red Lodge Mountain Golf Course,,course,,,active,,,,,+1 406 446 3344,https://www.redlodgemountain.com/golf/red-lodge-mountain-golf-course,,828 Upper Continental Drive,Red Lodge,MT,59068,US,45.2043101,-109.2519884,2026-10-11T15:12:38Z
+93a13e6a-509f-4e0a-b180-308a3e48c443,way/192634009,Judith Shadows Golf Course,,course,,,active,,,,,,,,,,MT,,US,47.0791769,-109.3972605,2026-10-11T15:12:01Z
+96f03505-4895-4651-b71f-fd3ed7b39a89,way/335835121,Hamilton Golf Course,,course,,,active,9,36,,,,,,,,MT,,US,46.2221702,-114.0944716,2026-10-11T15:12:14Z
+9bfc8edd-3c68-4dc8-b82c-aeeb289d50ec,way/39753442,Cottonwood Hills Golf Course,,course,,,active,9,36,,,,,,,,MT,,US,45.6741246,-111.2178743,2026-10-11T15:11:51Z
+9c9bbb23-98bd-401d-b4fe-4a366d78df74,relation/19625684,Huntley Golf Course,,course,,,active,,,,,,,,,,MT,,US,45.8749516,-108.308009,2026-10-11T15:12:45Z
+9e86d921-7919-4c60-9f2c-c127e2364ee9,way/192633980,Pine Meadows Golf Course,,course,,,active,,,,,,,,,,MT,,US,47.0558099,-109.4018306,2026-10-11T15:12:01Z
+9e8a492c-89f3-4242-9b2c-e30deed0f62c,relation/18514922,Whitefish Lake Golf Club - North Course,,course,,,active,,,,,+1 406-862-4000,https://golfwhitefish.com/,,1200 Highway 93,Whitefish,MT,59937,US,48.4156723,-114.36295,2026-10-11T13:31:51Z
+a322ac75-c018-4a38-b94d-181aa8caf8b2,way/147034897,Green Meadow Country Club,,course,,,active,,,,,,,,,,MT,,US,46.6205231,-112.0699599,2026-10-11T15:12:00Z
+a6e753a0-fc82-4c94-b4be-e7ef7545d845,way/296526494,Meadow Lark Country Club,,course,,,active,,,,,+1 406-453-6531,https://www.meadowlarkclub.com/,,300 Country Club Boulevard,Great Falls,MT,59404,US,47.4865799,-111.3201514,2026-10-11T15:12:10Z
+a8789d46-7785-415e-8e42-43689e2bb146,way/468894511,Larchmont Golf Course,,course,,,active,,53,,,,,,3200 Fort Missoula Road,,MT,,US,46.8420628,-114.0448402,2026-10-11T15:12:17Z
+abc26c12-05bf-42ae-8e61-93b14965062a,relation/18846694,Stevensville Golf Course,,course,,,active,,,,,,,,,,MT,,US,46.5488779,-114.0956998,2026-10-11T15:12:45Z
+ae7724c4-f62f-4479-ac46-a0fd77e45f6a,way/338511100,Headwaters Public Golf Course,,course,,,active,,,,,,,,,,MT,,US,45.8948874,-111.5401426,2026-10-11T15:12:14Z
+af210dfd-9f21-46f7-b055-4fa2f6bd98b3,way/1347343699,Sunnyside Country Club,,course,,,active,9,36,,,,,,,,MT,,US,48.2317358,-106.6422067,2026-10-11T15:12:29Z
+b286ea99-58d2-495f-881f-b24f2ba4c4bc,way/335835117,Hamilton Golf Course,,course,,,active,,36,,,,,,,,MT,,US,46.2202514,-114.1049151,2026-10-11T15:12:14Z
+baf54b07-a686-46a6-a25f-c23c89c07f7d,relation/5410109,Bridger Creek Golf Course,,course,,,active,,,,,+1-406-586-2333,https://www.bridgercreek.com/,,2710 McIlhattan Road,Bozeman,MT,59715,US,45.7102638,-111.028917,2026-10-11T13:31:32Z
+bc327af8-eeab-4472-8b77-b858541445e7,relation/18593686,The Ranch Club Golf Course,,course,,,active,18,72,,,,,,8501 Ranch Club Road,Missoula,MT,59808,US,46.8997351,-114.114761,2026-10-11T15:12:45Z
+bc6dcf3d-6692-4bab-8c57-1905051c1c16,way/345336656,Pondera Golf Club,,course,,,active,,,,,,,,,,MT,,US,48.1718545,-111.9765608,2026-10-11T15:12:14Z
+bfb9b290-0ce3-44b2-a89c-2f2a7e86992a,way/500021149,Ponderosa Butte Golf Course,,course,,,active,,,,,+1 406 748 2700,https://mtslim.wixsite.com/ponderosa-butte-gc,,5000 Pine Butte Drive,Colstrip,MT,59323,US,45.9120447,-106.636559,2026-10-11T15:12:18Z
+c0e1a07e-210a-4371-853e-4740515d25ed,way/112629971,University Golf Course,,course,,,active,9,36,,,,,,,,MT,,US,46.8447267,-113.9916445,2026-10-11T15:11:57Z
+cd8bd69d-f04d-473a-a5be-a5e1daf6ee40,way/174857046,The Reserve at Moonlight Basin,,course,,,active,18,,,,,,,,,MT,,US,45.3199707,-111.4600811,2026-10-11T15:12:01Z
+cebad98a-f17b-4cde-a022-cfe77d0759a6,way/147035103,Fox Ridge Golf Course,,course,,,active,,,,,,,,,,MT,,US,46.6538465,-111.8992818,2026-10-11T15:12:00Z
+cffbc103-6300-4337-834c-ee74b65d1532,way/363789354,Valley View Golf Club,,course,,,active,18,70,,,+1 406 587 9751,https://www.vvgcbozeman.com/,,302 East Kagy Boulevard,Bozeman,MT,59715,US,45.6536053,-111.0308969,2026-10-11T15:12:14Z
+d2841383-9d70-40ef-9ca3-8b3450cbb5b4,way/255434018,Scobey Golf Course,,course,,,active,9,36,,,,,,,,MT,,US,48.7829525,-105.4371053,2026-10-11T15:12:05Z
+d5fd2b98-8f15-4bff-bcff-e8d0fcf16bb5,way/112267627,Missoula Country Club,,course,,,active,,51,,,,,,,,MT,,US,46.8366737,-114.0499241,2026-10-11T13:29:54Z
+d80ac10f-9959-46e2-9dd1-bc654b7ae94f,way/344546800,Plentywood Golf Club,,course,,,active,,,,,,,,,,MT,,US,48.7833033,-104.5644269,2026-10-11T15:12:14Z
+d83ca03f-9898-4e30-bd75-07ac5fcabbdf,way/333878414,Pine Ridge Golf Club,,course,,,active,,,,,,,,,,MT,,US,46.4588883,-108.5575866,2026-10-11T15:12:12Z
+dd8f387f-d893-44f3-8b7e-b7b8d15da088,way/339419067,Harvest Hills Golf Course,,course,,,active,9,36,,,,,,,,MT,,US,47.6035536,-111.9807946,2026-10-11T15:12:14Z
+ddd00a36-98af-476c-9f5c-944ffddd6718,way/272195113,Beaverhead Golf Course,,course,,,active,,,,,,,,,,MT,,US,45.2290244,-112.6165893,2026-10-11T15:12:07Z
+df67fde7-e6fc-4232-9896-2cd5f9523c44,relation/13281751,Cabinet View Golf Club,,course,,,active,,,,,,,,458 Cabinet View Road,Libby,MT,,US,48.3666176,-115.5537224,2026-10-11T15:12:41Z
+e1f72e73-c9de-46f6-bfeb-fb72638c05dd,way/438015043,,,course,,,active,,,,,,,,,,MT,,US,45.627391,-109.2436517,2026-10-11T15:12:15Z
+e41a2509-5378-47a9-926d-2e97750768a8,way/504592521,Hickory Swing Golf Course,,course,,,active,18,60,,,,,,,,MT,,US,47.4989804,-111.3301667,2026-10-11T15:12:18Z
+e9a75f6a-fbac-49b0-a672-d520e4dd4b87,relation/19323146,River's Bend Golf Course,,course,,,active,9,36,,,,,,,,MT,,US,47.6269027,-115.4000501,2026-10-11T15:12:45Z
+ea9402d9-1eec-44b4-a622-0ca0a22dad12,way/285974890,Overland Golf Course,,course,,,active,,,,,,,,,,MT,,US,45.8310582,-109.9295788,2026-10-11T15:12:07Z
+ee355a14-5bf4-442c-81bf-d216ef735e44,relation/4256834,Village Greens Golf Club,,course,,,active,,,,,+1-855-752-4666,https://www.montanagolf.com/,,500 Palmer Drive,Kalispell,MT,59901,US,48.2326257,-114.2987494,2026-10-11T15:12:36Z
+ee5578aa-578e-4a7a-b87d-e0db33e24fc5,relation/3943670,Fairmont Golf,,course,,,active,18,73,,,+1 406-797-3000,https://www.fairmontmontana.com/Fairmont_Golf,,1500 Fairmont Road,Fairmont,MT,59711,US,46.0380425,-112.8172038,2026-10-11T13:31:27Z
+f10aece2-f0ab-4f5d-ba31-7958da804946,way/475682445,Glacier Rim,,course,,,active,18,69,,,,,,,,MT,,US,48.5025403,-113.9992329,2026-10-11T15:12:17Z
+f28a0dcf-f4da-4d7f-95d1-ed83cca6c339,way/810615969,Linda Vista Golf Course,,course,,,active,,,,,,,,,,MT,,US,46.8229244,-114.0580329,2026-10-11T15:06:33Z
+f344a542-0fd9-4a4f-a491-4df3a5095709,relation/4494541,Lake Hills Golf Club,,course,,,active,18,72,,,+1 406-252-9244,https://www.lakehillsgolf.com/,,1930 Clubhouse Way,Billings,MT,59105,US,45.8347641,-108.4964333,2026-10-11T15:12:36Z

@@ -1,0 +1,104 @@
+id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
+0199ec8e-46f3-4d02-9ab7-756c2871ca83,way/507234137,Elks Golf Course,,course,,,active,,,,,,,,,,ID,,US,48.2928481,-116.542785,2026-10-11T15:12:18Z
+03196a3a-b615-42cc-b362-c8891fcdc887,way/32116637,Pinecrest Municipal Golf Course,,course,,,active,18,70,,,+1-208-612-8485,https://golfif.com/pinecrest-golf-course/,,701 East Elva Street,Idaho Falls,ID,83401,US,43.5074951,-112.0187404,2026-10-11T15:11:51Z
+0371af58-c588-4abe-8849-104f58c58d25,way/439537021,University Golf Course,,course,,,active,18,72,,,,,,,,ID,,US,46.721317,-117.0233104,2026-10-11T13:30:44Z
+047d9d50-9367-4a58-92f6-54f3368ef788,way/590558263,,,course,,,active,,,,,,,,,,ID,,US,42.6588218,-111.6404562,2026-10-11T15:12:20Z
+1058e488-8796-42e7-83f1-1b2b75ce4f3e,way/35969235,Warm Springs Golf Course,,course,,,active,18,72,,,,,,2495 East Warm Springs Avenue,Boise,ID,83712,US,43.594998,-116.1692114,2026-10-11T15:11:51Z
+13a925ed-eabc-46c0-aad7-043d4b168429,way/131708780,,,course,,,active,,11,,,,,,,,ID,,US,43.5399316,-112.0378028,2026-10-11T15:11:57Z
+166d1e22-35e5-442f-9c47-71ef68bbbbb8,way/1458239754,Teton Lakes Golf Course,,course,,,active,,39,,,,,,,,ID,,US,43.8423288,-111.8129455,2026-10-11T15:06:40Z
+1754e77c-1cae-433a-a3e8-79bf0cce7290,relation/10809388,Falcon Crest Golf Club,,course,,,active,18,72,,,+1-208-362-8897,,,11102 South Cloverdale Road,Kuna,ID,83634,US,43.5005077,-116.3243192,2026-10-11T15:12:38Z
+178bb5bb-aeef-498a-8b1b-0d627b297b91,relation/15697731,Stoneridge Golf Club,,course,,,active,18,71,,,,,,355 Stoneridge Road,,ID,,US,48.0103642,-116.9973934,2026-10-11T15:06:53Z
+1a681334-d373-4a81-b871-c5d247fb4616,way/231630798,RedHawk Golf Course,,course,,,active,18,71,,,+1 208-461-4295,https://www.redhawkidaho.com/,,11826 West Nettle Way,Nampa,ID,83686,US,43.5504291,-116.6208225,2026-10-11T15:12:03Z
+1c455bcb-3277-43dd-a89a-46396f00edfe,way/369442903,River's Edge Golf Club At Burley,,course,,,active,18,72,,,+1-208-878-9807,https://www.riversedgeburley.com/,,131 East Highway 81,Burley,ID,83311,US,42.5356529,-113.7623166,2026-10-11T15:12:14Z
+1e968e94-5dae-4aa6-b290-f58804b8fbe1,way/296578165,Aspen Acres Golf Course,,course,,,active,,,,,,http://www.aspenacresrvpark.com/,,4179 East 1100 North,Ashton,ID,83420,US,44.0447626,-111.322769,2026-10-11T15:12:10Z
+2003eb41-b46a-49d6-8651-8841b90ec55d,way/121974630,Blue Lakes Country Club,,course,,,active,,62,,,+1-208-733-2330,https://www.bluelakescc.com/,,1940 Blue Lakes Grade Road,Twin Falls,ID,83303,US,42.6072388,-114.467273,2026-10-11T15:11:57Z
+25b82796-07f9-4345-b89b-ce38cb967038,relation/8319628,Boise Ranch Golf Course,,course,,,active,18,71,,,+1-208-362-6501,http://www.boiseranchgc.com/,,6501 South Cloverdale Road,Boise,ID,83709,US,43.5429093,-116.339443,2026-10-11T15:12:38Z
+27620840-a69d-49bc-b0ba-d507733803ba,way/853303608,White Cloud Nine at Sun Valley,,course,,,active,,25,,,,,,,Sun Valley,ID,,US,43.7020525,-114.3554788,2026-10-11T15:12:23Z
+2d2d695d-6eea-4861-a5f0-8cfe173fb0bc,relation/10902046,River Birch Golf Course,,course,,,active,,,,,,,,3740 North Pollard Lane,Star,ID,83669,US,43.7246786,-116.4632533,2026-10-11T15:06:49Z
+2d5f5e2e-1c55-4d0a-91d2-43fd8e78d275,way/422455953,Tributary,,course,,private,active,,,,,+1-208-354-9660,https://tributaryidaho.com/,,501 Tributary Drive,Driggs,ID,83422,US,43.7328401,-111.1211856,2026-10-11T15:12:15Z
+30cfd63b-8a4a-4de2-9e31-60766f3ce939,relation/10319346,The Club at SpurWing Golf Course,,course,,,active,,,,,,,,6800 North Spurwing Way,Meridian,ID,83646,US,43.6692581,-116.429155,2026-10-11T15:06:49Z
+339f6c7a-7e2c-40ef-a3bc-a2edb21b1c76,way/1505838128,Yellow Pine Golf Course,,course,,,active,,,,,,,,,,ID,,US,44.9622733,-115.4968325,2026-10-11T13:31:14Z
+34038e54-0ba9-4fd8-a64a-2cf66171ace2,way/234110684,Elkhorn Golf Course,,course,,,active,18,72,,,,,,100 Badeyana Drive,Sun Valley,ID,83353,US,43.6766408,-114.3315587,2026-10-11T15:12:03Z
+3428a4eb-522b-4604-8143-13962193e8c0,way/361494012,Rupert Country Club,,course,,,active,18,71,,,+1-208-436-9168,https://www.rupertcc.com/,,85 South 200 West,Rupert,ID,83350,US,42.6070332,-113.7062269,2026-10-11T15:12:14Z
+37ed187f-b756-4da2-8643-014fb86d0bf4,way/35601421,Shadow Valley Golf Course,,course,,,active,18,72,,,,https://www.shadowvalley.com/,,15001 North Horseshoe Bend Road,Boise,ID,83714,US,43.7449553,-116.293902,2026-10-11T15:11:51Z
+38072762-b2a2-44d8-985d-c78cd1dce142,way/1066574317,,,course,,,active,,,,,,,,,,ID,,US,42.9504917,-112.8335031,2026-10-11T15:12:24Z
+3930ead0-9e3f-4593-bae7-c84abd42fc82,way/438466804,The Links at Teton Peaks,,course,,,active,,,,,+1 208-456-2777,https://linksgc.com/,,,,ID,,US,43.7376437,-111.1735583,2026-10-11T13:30:44Z
+3b173de7-d736-4f9c-896e-aeb7fcdc78aa,way/121974635,Canyon Springs Golf Course,,course,,,active,,64,,,+1 208-734-7609,https://www.canyonspringsgolf.com/,,199 Canyon Springs Road,Twin Falls,ID,83301,US,42.6033093,-114.4779058,2026-10-11T13:29:54Z
+3f95a508-e0b4-42ac-8ff0-c0a8e80db456,way/757707638,Pierce Park Greens,,course,,,active,,,,,,,,5812 North Pierce Park Lane,Boise,ID,83714,US,43.6723285,-116.2656047,2026-10-11T13:30:58Z
+422ca20b-1e41-4517-91f6-3387ad92bc3d,way/372534251,American Falls Golf Club,,course,,,active,,,,,,,,,,ID,,US,42.7818801,-112.8604942,2026-10-11T13:30:39Z
+424c8d41-6cfd-49be-87c4-a9c9d69e8782,way/271285226,Galena Ridge Golf Course,,course,,,active,,,,,,,,,,ID,,US,47.5351393,-116.1636061,2026-10-11T15:12:07Z
+42eb67a4-2578-46b0-9554-bb2557b7e24c,way/587511980,Cascade Golf Course,,course,,,active,,,,,+1 208 382 4653,https://www.golfcascade.net/,,117 Lakeshore Drive,Cascade,ID,83611,US,44.5120588,-116.0576632,2026-10-11T15:12:20Z
+4337e91b-f578-47ab-b38e-fb1b09c0c7c4,relation/11772214,Terrace Lakes Resort Golf Course,,course,,,active,18,72,,,,,,,,ID,,US,44.1579981,-115.9822856,2026-10-11T15:12:41Z
+450fd686-457f-407d-a780-2ce4d54591b0,relation/3944800,Hillcrest Country Club,,course,,,active,18,72,,,,https://www.hillcrest.cc/,,4610 West Hillcrest Drive,Boise,ID,83705,US,43.5824512,-116.2384385,2026-10-11T15:12:35Z
+4b5e6414-4164-4a27-92c8-d96cc11dae4b,way/469595448,Indian Lakes Golf Club,,course,,,active,,19,,,,,,4700 South Umatilla Avenue,Boise,ID,83709,US,43.5573112,-116.2669169,2026-10-11T15:12:17Z
+4bc0b167-095a-45fe-af2f-26ccdb175375,relation/18094852,The Golf Club at Black Rock,,course,,,active,18,72,,,,,,,,ID,,US,47.5135309,-116.8732069,2026-10-11T15:12:45Z
+4d2aa682-36e2-4ab8-ab23-5c4a7d34dda5,way/134442670,Riverside Golf Course,,course,,,active,18,72,,,+1 208 232 9515,https://www.pocatellogolfcourses.com/,,3500 Bannock Highway,Pocatello,ID,83204,US,42.8354441,-112.4237758,2026-10-11T15:06:10Z
+4e0c68c6-2859-405b-9151-e566ff5fe149,way/222738687,Blackfoot Golf Course,,course,,,active,18,72,,,,,,,,ID,,US,43.2149794,-112.3414475,2026-10-11T15:12:03Z
+4e1e30b7-b4e9-40a6-b688-1542e395efcf,way/296578168,Centennial Golf Course,,course,,,active,,,,,+1 208-468-5889,,,2600 Centennial Drive,Nampa,ID,83687,US,43.6043006,-116.5376921,2026-10-11T15:12:10Z
+50d564d1-46be-4bc1-851d-00c00e33f17c,relation/13790854,Preston Golf and Country Club,,course,,,active,,,,,,,,,,ID,,US,42.1150693,-111.8653627,2026-10-11T15:06:51Z
+529927af-ecee-41ba-9d96-0bc7c728f1a5,way/289115529,Rexburg Golf Club,,course,,,active,9,35,,,,,,,,ID,,US,43.8314995,-111.8054834,2026-10-11T13:30:16Z
+534e4321-d720-487b-b14b-650a0c2a4b9e,relation/3829232,McCall Golf Club,,course,,,active,,,,,,https://www.mccallgolfclub.com/,,925 Fairway Drive,McCall,ID,83638,US,44.9167755,-116.0804724,2026-10-11T15:12:33Z
+550a5b12-ab5f-4b39-aae4-2c0c7382a38f,way/372512028,Challis Golf Course,,course,,,active,,,,,,,,,,ID,,US,44.4996065,-114.2436845,2026-10-11T15:12:14Z
+558bdcd3-a2ac-44f3-89a2-445617142520,way/271032790,Shoshone Country Club,,course,,,active,,,,,,,,,,ID,,US,47.5256373,-116.0638852,2026-10-11T15:12:07Z
+597cc766-df9d-4097-9d6d-b1deb86402f9,way/444190701,The Coeur d'Alene Resort Golf Course,,course,,,active,18,71,,,,,,900 South Floating Green Drive,Coeur d'Alene,ID,83814,US,47.66606,-116.7570635,2026-10-11T15:12:15Z
+5a3bfe94-fb11-43a2-be9b-5ee4663b5c6a,way/458871192,,,course,,,active,,,,,,,,,,ID,,US,43.6583712,-116.6929001,2026-10-11T15:12:17Z
+5e31d689-ec98-4a3c-8b21-549be89e5904,way/195062137,Bigwood Golf Course,,course,,,active,,,,,,,,,,ID,,US,43.6960574,-114.3671834,2026-10-11T15:12:01Z
+5f83e4bd-2ea4-42a0-a83a-6509245aa23d,relation/18148533,The Club at Rock Creek,,course,,,active,,,,,,,,,,ID,,US,47.5299837,-116.8661989,2026-10-11T15:12:45Z
+62cdc9e0-4642-47ba-97f4-23a2143b6292,relation/17775564,,,course,,,active,18,72,,,,,,,,ID,,US,44.9104753,-116.1378746,2026-10-11T15:12:45Z
+6e57a97d-99cb-427c-9f63-c028946ef680,way/13815308,Gem County Golf Course,,course,,,active,,,,,,,,,,ID,,US,43.8521114,-116.5377048,2026-10-11T15:11:48Z
+6f658ef1-dc43-42c6-b1b0-2b76437d46c5,way/437611335,Orofino Golf & Country Club,,course,,,active,,,,,,,,,,ID,,US,46.4460006,-116.2194061,2026-10-11T15:12:15Z
+7228bc50-b10a-41ed-be30-ab0b407200b4,way/256631027,Links Golf Club,,course,,,active,18,73,,,,,,,,ID,,US,47.7662235,-116.9696812,2026-10-11T15:12:05Z
+770db3b0-ab3e-4492-bec9-8921a1afa733,way/98059875,River Bend Golf Course,,course,,,active,18,72,,,,http://golfriverbend.net/,,18539 Fish Road,Wilder,ID,83676,US,43.6446483,-116.9562161,2026-10-11T15:11:55Z
+7af617fc-3ceb-4fbe-a260-564e2af796f4,way/498906620,St. Maries Public Golf Course,,course,,,active,,,,,,,,,,ID,,US,47.3137568,-116.5395569,2026-10-11T15:06:29Z
+7b4cb678-ba0c-47fc-b54c-a9e509bdea54,way/500518894,Ponderosa Springs Par 3,,par3,,,active,,,,,,,,1291 North Galena Drive,Coeur d'Alene,ID,83814,US,47.6834434,-116.7500546,2026-10-11T15:12:18Z
+7bfd474f-0b0f-4c13-afdf-c1c51aedf968,way/296578174,Ridgecrest Golf Club,,course,,,active,,40,,,+1 208-468-5888,http://www.ridgecrestgolf.com/,,3730 Ridgecrest Drive,Nampa,ID,,US,43.6046101,-116.5239686,2026-10-11T15:12:10Z
+7c1a2982-c85a-4c41-959b-78e1edd67c58,relation/11344747,,,course,,,active,,,,,+1 208-267-5314,https://bonnersferry.id.gov/mirror-lake-golf-course/,,,,ID,,US,48.656382,-116.346023,2026-10-11T15:12:41Z
+8154bbd1-a277-46ad-aefe-0a6f9aee1cc3,way/513407735,Kaylers Bend Golf Course,,course,,,active,,,,,,,,,,ID,,US,46.4959379,-116.4445868,2026-10-11T15:12:18Z
+8b9ea129-3d06-4b15-b187-5253a720a1c9,relation/9198175,Crane Creek Country Club,,course,,,active,18,73,,,,https://www.cranecreekcountryclub.com/,,500 West Curling Drive,Boise,ID,83702,US,43.6539078,-116.1839189,2026-10-11T15:12:38Z
+92e6a181-c4c3-4e55-b215-8633e40719ab,way/688558676,Legacy Golf Course,,course,,,active,,,,,,,,,,ID,,US,43.7044504,-116.4221137,2026-10-11T15:12:21Z
+9980e4f6-c8ee-4c02-b70b-0329dafb5bd3,way/361447793,93 Golf Ranch,,course,,,active,18,72,,,,,,406 East 200 South,Jerome,ID,83338,US,42.6986283,-114.435937,2026-10-11T15:12:14Z
+9986ea6f-db9b-4290-8497-74113d1b55a2,way/602336461,Journey's End Golf Course,,course,,,active,,,,,,,,,,ID,,US,43.4002081,-112.1603727,2026-10-11T15:12:20Z
+9a0e2bc1-9bb0-45b6-940b-e5d67f25f7b8,relation/4047178,Purple Sage Golf Course,,course,,,active,18,71,,,,https://purplesagegolfcourse.com/,,15192 Purple Sage Road,Caldwell,ID,83607,US,43.7390972,-116.6976044,2026-10-11T13:31:27Z
+9ab557c6-7fc7-4abe-86a2-4de595ada500,relation/9279928,Plantation Country Club,,course,,,active,18,71,,,,,,6515 West State Street,Garden City,ID,83714,US,43.658292,-116.2687434,2026-10-11T13:31:37Z
+9b0b5999-b506-4e1a-b120-166d4b722f69,relation/18000813,Gozzer Ranch Golf & Lake Club,,course,,,active,18,72,,,,,,,,ID,,US,47.6156835,-116.7573838,2026-10-11T15:12:45Z
+9b43e147-4f7e-4a45-8c10-86e892539dc4,relation/18491758,Priest Lake Golf Course,,course,,,active,,69,,,,https://golfpriestlake.com/,,,,ID,,US,48.5235888,-116.9255517,2026-10-11T15:12:45Z
+9c2595a8-9f5b-4e4f-b079-5516c2edc0e8,way/370453666,River Park Golf Course,,course,,,active,,,,,,,,,,ID,,US,43.9090716,-113.620993,2026-10-11T15:12:14Z
+9c2dadcd-4152-41e2-97fb-7f9c578f1472,relation/13802004,Lakeview Golf Course,,course,,,active,18,72,,,+1 208-888-4080,https://www.lakeview-golf.com/,,4200 West Talamore Boulevard,Meridian,ID,83646,US,43.6259148,-116.4441078,2026-10-11T15:06:51Z
+9f82b68e-a4a6-4c9c-8d71-24fb152a066f,way/159765856,Sand Creek Golf Course,,course,,,active,18,72,,,,,,,,ID,,US,43.4454917,-111.9888463,2026-10-11T15:12:01Z
+a24c06f8-fb18-4f56-8c59-eca0161e3718,relation/9714076,Highlands Golf Course,,course,,,active,,,,,,,,,,ID,,US,47.7127155,-116.87989,2026-10-11T13:31:37Z
+a343c22b-0867-4275-bd10-d6c1e66f503b,relation/10980643,Jerome Country Club,,course,,,active,18,72,,,+1-208-324-5281,https://www.jeromecountryclub.com/,,649 Golf Course Road,Jerome,ID,83338,US,42.6334411,-114.5101815,2026-10-11T15:12:38Z
+a34f57bb-58e9-4fa7-8a86-5deb1bfbf3c7,way/303797856,Ranch Club Golf Course,,course,,,active,,,,,,,,,,ID,,US,48.1825985,-116.9454607,2026-10-11T15:12:12Z
+a4ee1974-dbe1-4c14-899b-84e32c5ddf47,way/296578170,Island Park Golf Course,,course,,,active,,,,,+1 208-558-7550,https://www.islandparkvillageresort.com/golf,,,,ID,,US,44.5206181,-111.3187305,2026-10-11T15:12:10Z
+a64ef54a-8ab1-47cc-9358-df233c627167,relation/12941945,Twin Lakes Village Golf Course,,course,,,active,18,72,,,,,,5416 West Village Boulevard,Rathdrum,ID,83858,US,47.8665367,-116.8554668,2026-10-11T13:31:42Z
+a755ea25-434c-4c9b-9708-94a55c98869f,way/608133104,Moscow Elks Lodge Golf Club,,course,,,active,9,36,,,,,,,,ID,,US,46.7247142,-116.9432724,2026-10-11T15:12:20Z
+a789ffe5-47a3-4c8a-92a0-96e736125f61,way/247504325,Rolling Hills Golf Course,,course,,,active,,,,,,,,,,ID,,US,44.2620426,-116.9683227,2026-10-11T15:12:05Z
+ab13cec0-2797-4eca-8757-ec63cdbec951,way/271244232,Pinehurst Golf Course,,course,,,active,9,36,,,+1-208-682-2013,http://www.golfpinehurstidaho.com/,,11 Country Club Lane,Pinehurst,ID,83850,US,47.5352587,-116.2307309,2026-10-11T15:12:07Z
+ad978ada-af10-4e52-9b02-8128e65ef952,relation/1109588,Avondale Golf Club,,course,,,active,18,,,,+1 208-772-5963,https://avondalegolfcourse.com/,,10745 North Avondale Loop,Hayden Lake,ID,83835,US,47.7746779,-116.7598153,2026-10-11T15:12:30Z
+b2d9c07c-f571-44cc-8b70-67d42326b5e2,relation/8411863,,,course,,,active,,8,,,,,,,,ID,,US,43.3996275,-112.159081,2026-10-11T13:31:37Z
+b33ee700-4fbe-4900-b3cf-e6df18d8d3f2,relation/12297079,Sage Lakes Golf Course,,course,,,active,,58,,,,,,,,ID,,US,43.546133,-112.0338282,2026-10-11T15:12:41Z
+b9dd31da-f858-4c38-87aa-3aef81f288df,way/855428121,Trail Creek Golf Course,,course,,,active,,59,,,,,,,,ID,,US,43.7043556,-114.3449916,2026-10-11T15:12:23Z
+bec2a158-7cc3-43ee-b81b-cb399c7b6039,node/4324366401,Scotch Pines Golf Course,,course,,,active,,,,,,,,,,ID,,US,44.0995962,-116.905363,2026-10-11T13:29:32Z
+c17e42a2-2442-40d2-baea-8f38e2ef005e,way/370099935,Salmon Valley Golf Course,,course,,,active,,,,,,,,,,ID,,US,45.1627024,-113.8675916,2026-10-11T13:30:39Z
+c4724e04-f5bd-40d6-aa49-bfc30afbd0bb,way/121974649,Twin Falls Golf Club,,course,,,active,18,68,,,+1 208-733-3326,http://twinfallsgc.com/,,545 Grandview Drive,Twin Falls,ID,83301,US,42.5570359,-114.4942893,2026-10-11T15:11:57Z
+c6eb283b-8c45-443d-bc3d-5e28c25fdfd2,relation/14375935,Prairie Falls Golf Course,,course,,,active,18,69,,,,,,,,ID,,US,47.7382945,-116.9427863,2026-10-11T15:06:51Z
+c7384685-b104-410f-9040-1e05c892a14d,relation/13691362,Circling Raven Golf Course,,course,,,active,18,,,,,,,,Worley,ID,,US,47.4240266,-116.9582566,2026-10-11T13:31:42Z
+cab751d8-7b22-4e93-baad-f3b2588f981d,relation/5376300,Timberstone Golf Course,,course,,,active,18,,,,+1 208 639 6900,https://playtimberstone.com/,,,,ID,,US,43.6365584,-116.842653,2026-10-11T15:12:36Z
+cad42db8-85e3-4440-bf96-bd3fe75af5a2,way/1537334373,Elk Valley Golf Course,,course,,,active,,,,,+1-208-653-2111,http://www.elkvalleygolf.com/,,3561 North Pine Feathervillee Road,Mountain Home,ID,83647-5388,US,43.5873553,-115.2688936,2026-10-11T15:12:30Z
+cc6954f3-a5c4-4839-b4a1-ee9c279bf36e,relation/3944798,Banbury Golf Course,,course,,,active,18,71,,,+1-208-939-3600,http://www.banburygolf.com/,,2626 South Marypost Place,Eagle,ID,83616,US,43.6718339,-116.3670853,2026-10-11T15:12:35Z
+cd086a1b-0d8e-41ba-bdd8-c5105cc6be55,way/254515846,Bryden Canyon Golf Course,,course,,,active,,,,,+1 208-746-0863,https://brydencanyongolf.com/,,445 O'Conner Road,Lewiston,ID,83501,US,46.3809176,-117.0238925,2026-10-11T15:12:05Z
+cefd5237-274c-4596-aedc-f334cb5f7df0,way/296578169,Hayden Lake Country Club,,course,,,active,,,,,+1 208-772-3211,https://www.haydenlakecc.com/,,2362 East Bozanta Drive,Hayden Lake,ID,83835,US,47.7624825,-116.7621202,2026-10-11T15:12:10Z
+d217f155-946e-4672-8d10-2cbb1a974e35,way/266944579,Bear Lake West Golf Course,,course,,,active,,,,,+1-208-945-2744,,,554 Lewis Loop,Fish Haven,ID,83287,US,42.005038,-111.4150242,2026-10-11T15:12:05Z
+d639db5f-1c6b-499a-85dd-3fb09a482b46,way/289132996,Grangeville Golf and Country Club,,course,,,active,,,,,,,,,,ID,,US,45.9122364,-116.1603456,2026-10-11T15:12:07Z
+dc4f3b1b-345d-4e43-be24-9338b1f34d32,relation/5375948,Juniper Hills Country Club,,course,,,active,18,71,,,+1 208 233 0269,https://jhcc.us/,,6600 Bannock Highway,Pocatello,ID,83204,US,42.8142652,-112.3927565,2026-10-11T15:12:36Z
+df212eee-7d66-4f7b-9e2e-a8fc5fa2284d,relation/3944799,Coeur d'Alene Golf Club,,course,,,active,,,,,+1 208-765-0218,https://www.cdagolfclub.com/,,2321 West Fairway Drive,"Coeur d""Alene",ID,83815,US,47.706333,-116.8182933,2026-10-11T15:12:35Z
+df755cea-8516-4492-b39d-6bcbce6addab,way/361097155,Highland Golf Course,,course,,,active,18,72,,,+1 208 232 0992,https://www.pocatellogolfcourses.com/,,201 South Von Elm Street,Pocatello,ID,83201,US,42.9078978,-112.4201543,2026-10-11T15:06:26Z
+e1b22e08-16eb-484e-a4b0-f489baf92b1d,way/373101018,Dempsey Ridge Golf Course,,course,,,active,,,,,,,,,,ID,,US,42.601466,-112.0231972,2026-10-11T15:12:14Z
+ea0e3298-6247-470a-bb3d-564298dfc1de,way/367132755,Mountain Home Golf Course,,course,,,active,,,,,,,,,,ID,,US,43.1411522,-115.6721362,2026-10-11T15:12:14Z
+ee981bd8-f995-4e4a-83b5-a7272483fc21,relation/10279410,Eagle Hills Golf Course,,course,,,active,,,,,,,,605 North Edgewood Lane,Eagle,ID,83616,US,43.7020443,-116.3350284,2026-10-11T15:12:38Z
+eff01318-5256-4d51-ac48-00f8346d4352,way/370760938,Jefferson Hills Golf Course,,course,,,active,18,70,,,,,,,,ID,,US,43.6957764,-111.8891674,2026-10-11T15:12:14Z
+f1d0e3da-9527-4f5e-b20a-4e82191ee31e,relation/17672818,Clear Lakes Country Club,,course,,,active,,28,,,,,,403 Clear Lake Lane,Buhl,ID,83316-,US,42.6700994,-114.771949,2026-10-11T15:12:45Z
+f5241709-88df-4d36-ab3c-fd014e2fa604,relation/3944801,Lewiston Golf & Country Club,,course,,,active,,,,,+1 208-746-2801,https://golflgcc.com/,,3985 Country Club Drive,Lewiston,ID,83501,US,46.3737313,-117.038877,2026-10-11T15:12:35Z
+f76d2c3e-16cd-4f1d-b966-8ab81e8d36d1,way/561103961,Quail Hollow Golf Course,,course,,,active,18,,,,,,,4720 North 36th Street,Boise,ID,83703,US,43.6625692,-116.2254025,2026-10-11T15:12:18Z
+f9b89089-fcc1-4b7b-aef8-3324c563b158,way/446025459,,,course,,,active,,,,,,,,,,ID,,US,43.0456893,-115.8473135,2026-10-11T15:06:28Z
+fe6a4867-d12e-4f5f-ae8e-8c6d707d5023,way/192289906,Teton Springs Resort & Club,,course,,,active,,,,,,http://www.tetonsprings.com/,,,,ID,,US,43.5767405,-111.1101064,2026-10-11T15:12:01Z
+ff502441-370f-425b-8f22-cb082df8eb95,way/192653343,,,course,,,active,9,36,,,,,,,,ID,,US,42.3316344,-111.2905225,2026-10-11T15:06:14Z

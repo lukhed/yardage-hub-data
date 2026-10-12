@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Fix a course's data (pars, tees, ratings, yardages, contact details)
+    url: https://lukeheide.com/sports/yardage-hub
+    about: Find the course and click "Add the scorecard link" or "Suggest an edit". Changes are reviewed and credited to you.
+  - name: Use the API
+    url: https://lukeheide.com/sports/yardage-hub/docs
+    about: Live course data, and sending edits from your own app.

@@ -1,0 +1,272 @@
+id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
+0208c71b-320e-4117-8a04-91542b14fce8,relation/12824449,Echo Falls Golf Club,,course,,,active,18,70,,,,https://www.echofallsgolf.com/,,20414 121st Avenue Southeast,Snohomish,WA,98296,US,47.8090712,-122.0666368,2026-10-11T13:31:42Z
+045cf325-7439-4655-bfe1-974a89e371f4,way/51244841,Tacoma Country & Golf Club,,course,,,active,,,,,+1-253-588-2161,https://www.golftcgc.com/,,13204 Country Club Drive Southwest,Lakewood,WA,98498,US,47.1338145,-122.5355215,2026-10-11T15:11:53Z
+047ced68-beb4-435f-9004-2a75e199c811,way/679962740,,,course,,,active,,8,,,,,,,,WA,,US,48.2271595,-122.47006,2026-10-11T15:12:20Z
+04fb3e7b-c224-4f1d-8ae6-70852c0ab512,relation/6971063,Crescent Bar Resort Golf Course,,course,,,active,,,,,,,,,,WA,,US,47.2230702,-119.9980216,2026-10-11T15:12:38Z
+05458233-37f2-4b4f-a4dd-78554ae17757,relation/1020467,Colockum Ridge Golf Course,,course,,,active,18,71,,,+1-509-787-6206,https://colockumridgegolf.com/,,17056 Road 5 NW,Quincy,WA,98848,US,47.159367,-119.8640351,2026-10-11T13:31:18Z
+056dc5b4-efc3-49db-a8c3-3787a9fb7580,way/292222823,Tom's Golf Center,,course,,,active,,,,,,,,,,WA,,US,46.9833209,-122.7726381,2026-10-11T15:12:07Z
+0687c882-2aef-495a-97ab-c23ee760b9f3,way/601096435,Touchet Valley Golf Course,,course,,,active,,,,,,,,,,WA,,US,46.3186242,-117.9942059,2026-10-11T13:30:54Z
+0a2495ae-7d97-48f6-9380-f34331b4f893,way/502262304,Enumclaw Golf Course,,course,,,active,18,70,,,,,,,,WA,,US,47.1928383,-121.9565177,2026-10-11T15:12:18Z
+0ac0a715-368d-4ad9-a0ca-7f91bbbb52cb,way/1328707092,Sky Ridge Golf Course,,course,,,active,,69,,,,,,,,WA,,US,48.1123829,-123.1632396,2026-10-11T15:12:29Z
+0c0faf51-74b3-4afc-b5b3-92cfb7cb36c5,way/876550790,Gamble Sands Golf Course,,course,,,active,18,72,,,,,,,,WA,,US,48.0664533,-119.6516593,2026-10-11T13:31:02Z
+0c311fd2-77bc-4045-8282-0bab23a87593,way/260696851,Crescent Bar Resort Golf Course,,course,,,active,9,35,,,+1-509-754-5002,https://www.crescentbarrecreation.com/golfing,,23618 Road 8.6 NW,Quincy,WA,98848,US,47.2055548,-119.9972544,2026-10-11T15:12:05Z
+0c425ec9-54b9-49a8-ad4c-22bfc2a780ff,node/11223842238,Rolling Hills Golf Course,,course,,,active,,,,,+1-360-479-1212,https://rollinghills-golfcourse.com/,,2485 Northeast McWilliams Road,Bremerton,WA,98311,US,47.6207785,-122.616644,2026-10-11T13:29:32Z
+0c6a2785-766d-4531-807e-e49d90578347,way/149674375,Tri Mountain Golf Course,,course,,,active,18,72,,,,,,,,WA,,US,45.8337875,-122.6868527,2026-10-11T15:12:00Z
+0d6cb3a5-340f-42e2-8f71-9828e6a9afd0,relation/8380159,Ritzville Golf Course,,course,,,active,,,,,,,,104 East 10th Avenue,Ritzville,WA,99169,US,47.1214059,-118.3692186,2026-10-11T15:12:38Z
+0e02868d-25cf-41f9-b81d-cbadba8ec03b,way/677694568,The Club at Snoqualmie Ridge,,course,,,active,18,72,,,,,,,,WA,,US,47.5384033,-121.8600675,2026-10-11T15:12:20Z
+0e7b25d6-9ec5-4e75-8503-8857c6a8a005,way/254500203,Red Wolf Golf Club,,course,,,active,,,,,,,,1676 Elm Street,Clarkson,WA,99403,US,46.4171776,-117.0786416,2026-10-11T15:12:05Z
+0f098711-a04b-4c50-83c3-bc5b3593f04d,way/26273698,Meridian Valley Country Club,,course,,,active,18,72,,,+1-253-631-3131,https://meridianvalleycc.com/,,,,WA,,US,47.379582,-122.1566715,2026-10-11T13:29:34Z
+0fcc83d5-93b4-4c4d-9df4-b2a782d76741,relation/19187969,Canyon Lakes Golf Course,,course,,,active,18,72,,,,https://canyonlakesgolfcourse.com/,,,,WA,,US,46.1764704,-119.17035,2026-10-11T13:31:51Z
+1222ff88-6091-4ac5-b4fd-207edcc4a29c,way/305645798,Three Rivers Golf Course,,course,,,active,18,72,,,,,,,,WA,,US,46.1204799,-122.9081052,2026-10-11T15:12:12Z
+13fca1a1-9cec-4acd-ac79-a906c5756bac,way/54454620,Lake Padden Golf Course,,course,,,active,18,72,,,,http://www.lakepaddengolf.com/,,,,WA,,US,48.7015801,-122.4387007,2026-10-11T15:11:55Z
+149c351e-a9d8-469a-8162-044e0537cb46,way/380158529,Mount Adams Country Club,,course,,,active,,,,,,,,,,WA,,US,46.3368415,-120.3128133,2026-10-11T15:12:14Z
+150afb17-7ba3-48b8-b7cb-1f9e7ee25489,way/380489869,Suntides Golf Course,,course,,,active,,,,,,,,,,WA,,US,46.637405,-120.5859998,2026-10-11T13:30:39Z
+17f8af7a-6c7d-4efd-8a95-c8a30c8dabcb,way/35112576,Three Lakes Golf Course,,course,,,active,18,69,,,+1-509-663-5448,http://www.threelakesgolf.com/,,2695 Golf Drive,Malaga,WA,98828,US,47.3676914,-120.2353248,2026-10-11T13:29:39Z
+1869c758-6e3d-4659-8d62-b7857ca1e3f7,way/28925587,Legion Memorial Golf Course,,course,,,active,18,71,,,,,,,,WA,,US,48.0119122,-122.2000364,2026-10-11T15:11:49Z
+1afbdd81-2736-48c8-89ce-50fefffeb971,way/224773587,Indian Canyon Golf Course,,course,,,active,18,71,,,,,,,,WA,,US,47.6493813,-117.4735709,2026-10-11T15:12:03Z
+1cbece79-c4a3-4dfc-9ca9-b3016230579c,way/1312953695,Dungeness Golf Course,,course,,,active,18,,,,,,,,,WA,,US,48.1201265,-123.1776326,2026-10-11T15:12:29Z
+1cf94cca-af70-4559-a701-89fde8a110e4,node/13278773763,Sky Ridge Golf Course & Driving Range,,course,,,active,,,,,,,,7015 Old Olympic Highway,Sequim,WA,98382,US,48.1094621,-123.1597452,2026-10-11T13:29:32Z
+1e3175a8-b779-405c-9462-ec4793a44862,way/242554603,Odessa Golf & RV,,course,,,active,,,,,,https://golfodessawa.com/,,,,WA,,US,47.3295229,-118.7043302,2026-10-11T15:12:05Z
+1ec10b19-a474-444d-aefd-2edf0d08b0df,way/51244839,Whispering Firs Golf Course,,course,,,active,18,,,,+1-253-982-2124,,,895 Lincoln Boulevard,McChord AFB,WA,,US,47.1280037,-122.5091183,2026-10-11T15:11:53Z
+1f9f5d3f-3cd4-4f5b-bc15-37328edd2446,way/25923931,Riverbend Golf Complex,,course,,,active,,,,,,,,2019 West Meeker Street,Kent,WA,98032,US,47.3813975,-122.2668854,2026-10-11T15:11:49Z
+21623b18-de86-4e1c-ab32-1e9d5302a366,relation/21033106,Lake Limerick Golf Club,,course,,,active,,,,,,,,,,WA,,US,47.2797008,-123.0540137,2026-10-11T15:12:45Z
+217564b6-50c8-4db6-a1ec-084148d78619,way/222719203,University of Washington Golf Driving Range,,practice,,,active,,,,,,,,,,WA,,US,47.6597443,-122.2977596,2026-10-11T15:06:16Z
+2337c800-f260-44af-94e3-29bfd6fcb7fe,relation/3945014,LakeLand Village Golf Course,,course,,,active,18,72,,,,https://www.lakelandvillagegolf.com/,,200 East Old Ranch Road,Allyn,WA,98524,US,47.3896329,-122.8392983,2026-10-11T15:12:35Z
+2391f687-890a-4b84-b099-2bacc4519172,relation/5316829,Riverbend 18-Hole Golf Course,,course,,,active,18,73,,,+1-253-854-3673,,,2019 West Meeker Street,Kent,WA,98032,US,47.38237,-122.267845,2026-10-11T13:31:32Z
+23b1aff8-9737-4a9e-907a-280ac18d8112,way/188417220,Fircrest Golf Course,,course,,,active,18,71,,,,,,,,WA,,US,47.2335685,-122.5213075,2026-10-11T15:06:14Z
+2660e337-e36c-4f0c-a22f-8163ffaf885b,way/26787026,Chambers Bay Golf Course,,course,,,active,18,72,,,,https://chambersbaygolf.com/,,6320 Grandview Drive West,University Place,WA,98467,US,47.2065845,-122.5753553,2026-10-11T15:11:49Z
+275c884e-7e55-4fd5-9109-457c1af0d6f4,way/454711076,Moses Lake Golf Course,,course,,,active,18,72,,,+1-509-765-5049,https://www.themoseslakegolfclub.com/,,1373 Road F.2 NE,Moses Lake,WA,98837,US,47.107849,-119.3537554,2026-10-11T15:12:17Z
+2a472954-0007-48c9-9d3c-f2aeef10dc56,way/350237324,Druid's Glen,,course,,,active,18,72,,,,https://druidsglengolf.com/,,,,WA,,US,47.3298989,-122.0641247,2026-10-11T15:12:14Z
+2a916ebf-0df7-452b-86ce-fe7ea06c0b24,way/431297759,Maple Grove Golf,,course,,,active,,,,,,,,,,WA,,US,46.53148,-121.9522754,2026-10-11T15:12:15Z
+2b5a7af0-6e3b-41c1-a5a7-d4a5f6c34143,way/142438441,Veterans Memorial Golf Course,,course,,,active,,,,,+1-509-522-7059,https://www.vetsmemorialgolf.com/,,201 East Rees Avenue,,WA,,US,46.0816481,-118.3340813,2026-10-11T15:12:00Z
+2e80a221-ef53-43bd-9243-a3640dc9fb09,way/927264982,Pine Acres Par 3,,par3,,,active,,,,,,,,,,WA,,US,47.7645354,-117.4036724,2026-10-11T15:12:23Z
+2ea6b6f6-0bdd-42e7-bdac-b4142adb86f9,relation/21041214,Canterwood Golf Club,,course,,private,active,18,,,,,,,12606 54th Avenue Northwest,Gig Harbor,WA,98332,US,47.3741633,-122.6042086,2026-10-11T15:06:54Z
+2f29b92e-9961-47df-a614-aed79aceb4ef,way/42103942,Lynnwood Municipal Golf Course,,course,,,active,18,65,,,,,,,,WA,,US,47.8150734,-122.3295642,2026-10-11T15:11:53Z
+2f90b476-61c2-43f2-a626-ff91c7dcc1d3,way/54454429,Avalon Golf Links,,course,,,active,,,,,+1-360-757-1900,https://www.avalonlinks.com/,,19345 Kelleher Road,Burlington,WA,98233,US,48.535095,-122.3298718,2026-10-11T13:29:49Z
+31eaa281-8d0b-4a99-852f-a55b72e7fe5b,way/1185599287,Peninsula Golf Course,,course,,,active,9,,,,+1-360-642-4653,https://www.peninsulagolfcourse.com,,9604 Pacific Way,Long Beach,WA,98631,US,46.3746068,-124.0508263,2026-10-11T15:12:27Z
+325c4f91-1185-4a26-813a-b498f1fedecd,way/242622942,Big Bend Golf & Country Club,,course,,,active,,,,,,,,,,WA,,US,47.7664622,-118.7165854,2026-10-11T15:12:05Z
+3311ff7f-15e4-4b7b-b2b6-14ce120b64be,relation/420287,The Golf Club at Hawks Prairie - The Woodlands,,course,,,active,,,,,,,,,,WA,,US,47.0923552,-122.7496109,2026-10-11T15:12:30Z
+3333228a-5965-4026-8b53-0baf542aebcc,way/1030783338,Royal City Golf Course,,course,,,active,9,36,,,,,,,,WA,,US,46.884873,-119.5625772,2026-10-11T15:06:36Z
+36b3bebe-5b9d-42e9-b7c7-2df776de13a1,way/27183423,Zintel Creek Golf Club,,course,,,active,18,66,,,,,,,,WA,,US,46.2120331,-119.1455618,2026-10-11T15:11:49Z
+36b849b9-fece-447e-bddc-a5889b53a6a9,way/51617077,Linden Golf & Country Club,,course,,,active,9,36,,,,,,,,WA,,US,47.1942686,-122.263445,2026-10-11T13:29:44Z
+3a3ac446-4e33-4f49-88c0-542321789d4c,way/427618506,Bear Creek Golf Course,,course,,,active,,,,,,,,,,WA,,US,48.457864,-120.13118,2026-10-11T15:12:15Z
+3baa5179-4c65-464a-b36e-5f4e04796cac,way/285952452,Tin Cup Golf,,course,,,active,,,,,,,,,,WA,,US,47.0840224,-123.0184814,2026-10-11T15:12:07Z
+3c62248d-3992-483d-a4c6-5c8b7c03aefb,way/26796837,Inglewood Golf Club,,course,,,active,18,72,,,,,,,,WA,,US,47.7476285,-122.2545163,2026-10-11T15:06:00Z
+3c73f1a6-6fc3-424e-9909-5b91d86cf3a7,way/149816455,Royal Oaks Golf Course,,course,,private,active,,,,,,,,,,WA,,US,45.6495434,-122.5788154,2026-10-11T15:12:00Z
+3c7c5c6f-ba43-46c9-9a0b-743aa73f0da4,way/23143257,Allenmore Golf Course,,course,,,active,18,71,,,,,,,,WA,,US,47.2391295,-122.4726754,2026-10-11T15:11:48Z
+3eb6c878-ee5d-41e9-ad67-4bd96df6358a,way/31151170,Madrona Links Golf Course,,course,,,active,18,71,,,,,,,,WA,,US,47.2944545,-122.5706851,2026-10-11T15:11:49Z
+400e520f-b5e3-4fca-96e0-96614e7375f0,relation/19187962,Horseshoe Lake Golf Course,,course,,,active,18,72,,,,,,,,WA,,US,47.4057114,-122.6768861,2026-10-11T15:12:45Z
+402c0d1c-0fc1-4ff0-9da7-7c04f59c3e4b,relation/5953575,Fairway Village Golf Course,,course,,private,active,,,,,,,,,,WA,,US,45.5999305,-122.5127962,2026-10-11T15:12:36Z
+42f8e4f4-f1f4-4046-af4e-71de692182df,way/30455420,Crossroads Par 3 Golf Course,,par3,,,active,,,,,,,,,,WA,,US,47.6214363,-122.1267422,2026-10-11T15:11:49Z
+441900df-09df-4162-a052-1181fb2173a6,relation/8596149,Belmor Park Golf & Country Club,,course,,,active,,,,,,,,,,WA,,US,47.3092649,-122.3045362,2026-10-11T13:31:37Z
+456317d3-d2b5-4e67-a7ec-43035ce3002e,way/53615306,Jefferson Park Golf Course,,course,,,active,18,69,,,+1-206-762-4513,http://premiergc.com/-jefferson-park-golf-course,,4101 Beacon Avenue South,Seattle,WA,98108,US,47.5665831,-122.3048753,2026-10-11T15:06:07Z
+46eff9e6-279d-498e-a490-357c0868d560,relation/5582297,Mill Creek Country Club,,course,,private,active,18,72,,,,,,,,WA,,US,47.8598548,-122.2021195,2026-10-11T15:06:47Z
+4748ae87-a43f-4042-a8b3-1ff8166103cb,relation/531996,Twin Rivers Golf Course,,course,,,active,18,70,,,+1-425-222-7575,https://www.twinriversgolfcourse.com/,,4446 Preston-Fall City Road SE,Fall City,WA,98024,US,47.5626103,-121.8822519,2026-10-11T15:12:30Z
+4820f368-d337-431d-97d4-b337177c1fd8,way/382608442,Vanco Driving Range,,practice,,,active,,,,,,,,703 North Devine Road,,WA,,US,45.6267894,-122.6124861,2026-10-11T15:12:14Z
+482456f0-0679-4f5d-881f-660e9c1b8b35,way/141692652,Walla Walla Country Club,,course,,,active,,,,,,,,,,WA,,US,46.0421723,-118.3506075,2026-10-11T15:06:12Z
+48332c47-a85b-4066-8b18-cc83c8d6349d,way/1565603393,Alderbrook Golf & Yacht Club,,course,,,active,18,72,,,,,,330 E Country Club Drive,Union,WA,98592,US,47.3334648,-123.0688555,2026-10-11T15:06:41Z
+4841da43-1f1a-4f1f-b711-c68918750de3,way/52094369,Lake Chelan Golf Course,,course,,,active,,69,,,,,,,,WA,,US,47.8528211,-120.0257812,2026-10-11T15:11:53Z
+48996839-49db-4fea-aced-310dcbd14e9f,way/932256158,Yakima Country Club,,course,,,active,18,72,,,,https://www.yakimacountryclub.org/,,,,WA,,US,46.5982213,-120.4354259,2026-10-11T15:12:23Z
+489c0641-8322-491e-85a4-ba0cec77393a,way/831297181,Auburn Golf Course,,course,,,active,18,71,,,,,,,,WA,,US,47.3353267,-122.2070318,2026-10-11T15:12:23Z
+495ab8f8-c4f4-4fb3-bb8f-920bfbba7be8,way/40823946,Rainier Golf & Country Club,,course,,,active,,,,,,,,,,WA,,US,47.5025124,-122.309003,2026-10-11T15:11:53Z
+49b6f263-0eb7-4f83-8300-ccb7110f2a78,way/1551387386,Quicksands at Gamble Sands,,par3,,,active,,42,,,,,,200 Sands Trail Rd,Brewster,WA,98812,US,48.0757908,-119.6469988,2026-10-11T15:12:30Z
+4af4e65c-63fb-487d-ac90-7c1c33036ee4,way/1296261579,North Bellingham Golf Course,,course,,,active,18,72,,,+1-360-398-8300,https://northbellinghamgolf.com/,,205 West Smith Road,Bellingham,WA,98226,US,48.825126,-122.4971627,2026-10-11T15:12:29Z
+4b48efc0-2049-43df-a962-865808b0dce3,way/441369095,Sudden Valley Golf Course,,course,,,active,18,72,,,,https://www.suddenvalleygolfcourse.com/,,,,WA,,US,48.7170581,-122.3278234,2026-10-11T15:12:15Z
+4c1f0fe1-80e6-4369-ac92-51b56f7fe296,way/224772615,The Plains,,course,,,active,,,,,,https://www.theplains509.com/,,9810 West Melville Road,Cheney,WA,,US,47.5808852,-117.5486391,2026-10-11T15:12:03Z
+4c84576f-13dc-4cd6-b501-8e5f625dd036,way/106555370,Redwood Golf Center,,practice,,,active,,,,,,,,,,WA,,US,47.7175459,-122.1357495,2026-10-11T15:11:57Z
+4ca248cf-9d2a-465d-9fff-b8318d522ca7,relation/19591837,Wenatchee Golf and Country Club,,course,,private,active,,,,,,,,,,WA,,US,47.4314636,-120.2871792,2026-10-11T15:12:45Z
+4d5a08c2-f2c8-4530-9ac8-867b182bb898,relation/17823956,MeadowWood Golf Course,,course,,,active,18,72,,,,,,,,WA,,US,47.6653976,-117.0794688,2026-10-11T15:06:54Z
+4da33b5f-4a32-44c2-9917-dfd0139ea007,relation/9570293,Lake Cushman Golf Course,,course,,,active,,,,,+1-360-877-5505,https://www.lakecushmangolfcourse.com/,,210 North Fairway Drive West,Hoodsport,WA,98548,US,47.4136687,-123.1981171,2026-10-11T13:31:37Z
+4e18efd6-0025-4bbd-9ae3-d0277ed3db7f,relation/3227105,Highlands Golf Course,,par3,,,active,9,27,,,,http://wspwit01.ci.tacoma.wa.us,,,,WA,,US,47.2617207,-122.5238076,2026-10-11T15:12:33Z
+4f11e8f3-4939-462d-a92e-09190c317d25,way/556328322,Gallery Golf Course,,course,,,active,18,72,,,,,,,,WA,,US,48.3189414,-122.6940914,2026-10-11T15:12:18Z
+505209ef-b94c-4fc2-bd20-97ecea33dd7b,way/443783091,The Hitting Zone,,practice,,,active,,,,,,,,,,WA,,US,48.7741573,-122.4397145,2026-10-11T15:12:15Z
+54a9ea6c-608c-4fdb-a6d2-b7798d833517,relation/287559,Peninsula Golf Club,,course,,,active,,45,,,,,,,,WA,,US,48.1015726,-123.39823,2026-10-11T15:12:30Z
+551faf1f-adbc-4e54-b4c4-4643c4d1350e,way/39515245,Palouse Ridge Golf Course,,course,,,active,18,72,,,,,,,,WA,,US,46.7367239,-117.1408702,2026-10-11T13:29:39Z
+57d135eb-0109-47b4-af6d-adb277345752,relation/17528309,The Highlander Golf Club,,course,,,active,18,70,,,+1-509-884-4653,http://www.highlandergc.com/,,2920 8th Street Southeast,East Wenatchee,WA,98802,US,47.3895403,-120.2281149,2026-10-11T15:12:45Z
+580d5da1-c497-4db2-96dc-2fb559e40022,way/1097136830,Harbour Pointe Golf Club,,course,,,active,,3,,,,,,,,WA,,US,47.8815498,-122.3165877,2026-10-11T15:12:24Z
+58be86ec-c2d7-4467-a702-73e10e9a080c,way/299135530,Harrington Golf & Country Club,,course,,,active,,,,,,,,,,WA,,US,47.4724237,-118.2547923,2026-10-11T15:12:10Z
+58daa8be-d898-4e97-a3aa-da7be3cc805c,relation/296832,Harbour Pointe Golf Club,,course,,,active,,69,,,,,,,,WA,,US,47.8878797,-122.3089436,2026-10-11T15:12:30Z
+59dd8d0a-db65-42ce-b290-adc097f7f6ef,relation/3396482,Quail Ridge Golf Course,,course,,,active,,,,,,,,,,WA,,US,46.3671935,-117.0811528,2026-10-11T15:12:33Z
+5a13ce85-e322-442e-b402-03d3c9d9e7c9,way/1274672588,Jefferson Park Par 3 Course,,par3,,,active,9,27,,,+1-206-762-4513,http://premiergc.com/-jefferson-park-golf-course,,4101 Beacon Avenue South,Seattle,WA,98108,US,47.5660036,-122.3087645,2026-10-11T15:06:39Z
+5a43252a-fb6d-4365-bf91-0e3d2c533546,way/401720638,Westside Golf Range,,practice,,,active,,,,,+1-360-573-2565,http://www.westsidegolfrange.com/,,14205 Northeast 3rd Court,Vancouver,WA,98685,US,45.7242942,-122.6686895,2026-10-11T15:12:15Z
+5ad69dc2-6dd6-4015-a350-b5ca7616711c,way/1179893530,Crystal Springs Golf Course,,course,,,active,,,,,,,,,,WA,,US,46.468313,-117.5862757,2026-10-11T15:12:27Z
+5adcf144-3415-4626-bd8b-79fa726d786f,way/183524786,Plateau Club,,course,,,active,,,,,,,,,,WA,,US,47.6053512,-122.0020681,2026-10-11T15:12:01Z
+5bc0ce47-13ac-482d-8ac8-4480bae91b25,relation/19187959,Riviera Golf Course,,course,,,active,,,,,,,,,,WA,,US,47.1590686,-122.6907041,2026-10-11T15:12:45Z
+5c135de8-8f46-4c97-a128-f48453ff203c,way/591562126,Columbia Point Golf Course,,course,,,active,18,72,,,,,,,,WA,,US,46.2633387,-119.2598334,2026-10-11T15:12:20Z
+5c5fd6ea-54f3-44a8-b0ff-2419954964f7,relation/8831240,Westwood West Golf Course,,course,,,active,,,,,,,,,,WA,,US,46.5910239,-120.5925725,2026-10-11T13:31:37Z
+5d337146-f586-4d2e-99b6-a4c398247098,way/37819703,Columbia Super Range,,practice,,,active,,,,,,,,511 128th Street Southeast,Everett,WA,98208,US,47.8829664,-122.2224702,2026-10-11T15:11:51Z
+5e62d8b4-270f-4aa4-818b-5daf37735a92,way/44617747,Overlake Golf & Country Club,,course,,,active,,,,,,,,,,WA,,US,47.6265081,-122.2324607,2026-10-11T15:11:53Z
+5ef2fa1c-2990-447c-9f0b-cc8d760182a3,way/35451517,Seattle Golf Club,,course,,private,active,18,72,,,,,,,,WA,,US,47.7377902,-122.3609661,2026-10-11T15:11:51Z
+5f7c0425-7aab-4ce9-8753-584cbbc26b08,relation/6002727,Northshore Golf Course,,course,,,active,18,71,,,,,,,,WA,,US,47.2934538,-122.3928306,2026-10-11T13:31:32Z
+60d7c635-76a9-44c7-836c-ed042482523a,way/50288749,Riverside Golf Club,,course,,,active,18,71,,,+1-360-748-8182,https://playriversidegolf.com,,1451 Northwest Airport Road,Chehalis,WA,98532,US,46.6743929,-122.9903618,2026-10-11T15:11:53Z
+616842ab-fa06-41b8-9622-8400333e4c70,relation/4076246,Skagit Golf & Country Club,,course,,,active,,,,,,,,,,WA,,US,48.463612,-122.3895079,2026-10-11T15:12:35Z
+634af4d5-3107-4460-9c7b-6b4aa71c6e7c,relation/5656352,Horn Rapids Golf Club,,course,,,active,,4,,,,,,,,WA,,US,46.3267571,-119.3295143,2026-10-11T15:12:36Z
+64ceffaf-efdd-487e-a7cf-cb203f90e6bf,relation/7090689,West Richland Golf Course,,course,,,active,,,,,,,,,,WA,,US,46.3044401,-119.337074,2026-10-11T15:12:38Z
+65c10e6a-bf5e-4385-afb9-63d2a61161d6,way/161885192,Glendale Country Club,,course,,,active,18,,,,,https://www.glendalecc.com/,,,,WA,,US,47.6116953,-122.1627041,2026-10-11T13:30:03Z
+66665d3a-9490-4394-95b4-d344c2409c1e,way/484975066,Goldendale Golf Club,,course,,,active,,,,,+1-509-773-4705,https://www.goldendalegolf.com/,,1901 North Columbus Avenue,Goldendale,WA,98620,US,45.842443,-120.8335011,2026-10-11T15:12:17Z
+69f830a3-1aec-4032-a6ea-6e1a963ffce5,way/227232050,Creek at Qualchan Golf Course,,course,,,active,18,72,,,,,,,,WA,,US,47.6085039,-117.4141428,2026-10-11T15:12:03Z
+6ad38f52-2d7a-4a67-9334-8f98afd2cd08,way/548388214,Grandview Golf Course,,course,,,active,,,,,,,,,,WA,,US,48.9242356,-122.6470761,2026-10-11T15:06:30Z
+6d03134f-8d3b-4445-8146-707a5b111a17,way/53055616,The Home Course,,course,,,active,18,72,,,+1-866-964-0520,https://www.thehomecourse.com/,,2300 Golf House Road,DuPont,WA,98327,US,47.1071653,-122.662758,2026-10-11T15:11:55Z
+6f967ce9-7f29-4874-b009-c0d8039678d7,way/149801902,Green Meadows Golf Course,,course,,private,active,,,,,,,,,,WA,,US,45.6753168,-122.5926195,2026-10-11T15:06:12Z
+701b2c07-85ba-478a-9059-19028a882068,relation/5576928,Kahler Glen Golf Course,,course,,,active,,,,,,,,,,WA,,US,47.793964,-120.7204292,2026-10-11T15:12:36Z
+705e1590-d431-4512-869c-9eb0c1abb669,way/305868353,Swinomish Golf Links,,course,,,active,,,,,+1-360-293-3444,http://www.swinomishgolflinks.com,,12518 Christianson Road,Anacortes,WA,98221,US,48.4564316,-122.5764237,2026-10-11T15:12:12Z
+7062dc21-913d-4e11-9132-6c358885fba3,way/255315612,The Members Club at Aldarra,,course,,,active,18,70,,,,,,,,WA,,US,47.5856134,-121.9564819,2026-10-11T15:12:05Z
+710bb610-346a-4326-bab9-c756aa420e46,way/124393386,Hangman Valley Golf Course,,course,,,active,18,72,,,,,,,,WA,,US,47.5412414,-117.3776675,2026-10-11T15:11:57Z
+712beb65-2287-4e8b-aed4-e4113820f329,way/260343175,Lakeview Golf & Country Club,,course,,,active,,23,,,,,,,,WA,,US,47.3736746,-119.5097893,2026-10-11T15:12:05Z
+71d091e1-106c-4b60-afa7-20abfda8224a,way/955950016,Sand Point Country Club,,course,,,active,18,71,,,,,,,,WA,,US,47.68664,-122.2740012,2026-10-11T15:12:23Z
+74120409-10e2-4820-86e3-e7af8b65d646,way/292388665,Vashon Island Golf & Country Gold Course,,course,,,active,,,,,+1-206-463-2005,,,24615 75th Ave SW,Vashon,WA,98070,US,47.3845532,-122.4311917,2026-10-11T15:12:07Z
+74916923-2aa1-41f3-ac5b-c44355cf1bf9,relation/12744338,Sun Willows Golf Course,,course,,,active,,,,,+1-509-545-3440,https://www.playsunwillows.com,,,,WA,,US,46.2523811,-119.1080726,2026-10-11T15:12:41Z
+74b7c711-919c-4211-8fe8-c9bb89a094d0,way/131331336,Jefferson Park Driving Range,,practice,,,active,,,,,,,,,,WA,,US,47.5682637,-122.3079777,2026-10-11T15:11:57Z
+7593ff9b-cfae-4647-9808-6648975a72e2,relation/18622804,Desert Aire Golf Club,,course,,,active,18,72,,,,,,,,WA,,US,46.6866446,-119.9216976,2026-10-11T15:12:45Z
+77402a4a-cfb3-4ec5-aabe-cbd0127e5158,way/1185624939,Surfside Golf Course,,course,,,active,,24,,,,,,,,WA,,US,46.5278909,-124.0494083,2026-10-11T15:06:38Z
+783f3001-43ad-4fba-8d9f-6bf3e8aa0d0d,way/54931620,Interbay Family Golf Center Driving Range,,practice,,,active,,,,,,,,,,WA,,US,47.6453121,-122.3777931,2026-10-11T15:11:55Z
+7861d0e1-3651-41de-ae49-570f3365764c,way/26229384,Foster Golf Links,,course,,,active,18,,,,,,,,,WA,,US,47.4805072,-122.2602521,2026-10-11T15:11:49Z
+78c4df08-dd7d-4cbd-884d-2966c296da0c,way/276105262,Elk Ridge Golf Course,,course,,,active,,,,,,,,,,WA,,US,45.7295311,-121.8038844,2026-10-11T15:12:07Z
+7ac5e53e-7a7c-4b63-b54b-dca3c613ddad,way/242169874,Oroville Golf Club,,course,,,active,,,,,,,,,,WA,,US,48.9545221,-119.4791666,2026-10-11T15:12:05Z
+7d2c71d0-745a-4c1c-aeda-06506e3a6ca3,way/204495958,Sun Country Golf & RV Park,,course,,,active,,,,,,,,,,WA,,US,47.188151,-121.0519966,2026-10-11T15:12:03Z
+7e3cf67d-479c-45c4-9f88-c8be8a0ce397,relation/12813742,Walter E. Hall Memorial Golf Course,,course,,,active,18,72,,,,,,,,WA,,US,47.9159181,-122.2549386,2026-10-11T15:12:41Z
+7ec119af-6e3b-44fb-8cb4-8662777cf7a6,relation/7202034,Brae Burn Golf Course,,course,,,active,,,,,,,,,,WA,,US,47.6330559,-122.0976044,2026-10-11T13:31:37Z
+7f4e7110-e921-4033-96e2-0e527b7c07b5,way/548027741,Dakota Creek Golf & Country Club,,course,,,active,18,71,,,,,,,,WA,,US,48.9746225,-122.6543683,2026-10-11T15:12:18Z
+7f7818d3-fdd7-4a03-a075-17fb26addb35,relation/5290559,Kitsap Golf & Country Club,,course,,,active,18,,,,,,,,,WA,,US,47.5892873,-122.7042409,2026-10-11T15:06:47Z
+7f97d9c3-ceda-446c-8992-3fece5a152d6,relation/8334775,Tapps Island Golf Course,,course,,,active,9,35,,,+1-253-862-7011,https://tappsisland.net/,,20818 Island Parkway East,Lake Tapps,WA,98391,US,47.2296346,-122.1594611,2026-10-11T15:12:38Z
+7fd8f5f9-8cc0-4f53-8c75-fb2483ddc4f0,way/679962739,Camaloch Golf Course,,course,,,active,,64,,,,,,,,WA,,US,48.2213554,-122.4715542,2026-10-11T15:12:20Z
+81338e93-c823-4c08-bfe7-24ba940d8eb0,relation/19777946,Raspberry Ridge Golf Course,,course,,,active,,,,,,,,,,WA,,US,48.8899369,-122.4421533,2026-10-11T15:12:45Z
+85f9fd56-a8e7-4bdc-9d27-cdaf7aa2d314,relation/18972455,Black Mountain Ranch Golf Course,,course,,,active,,,,,,,,,,WA,,US,48.9119649,-122.1305089,2026-10-11T15:12:45Z
+892e1201-8164-4536-8e18-633ae562b1e8,way/436979104,Wine Valley Golf Club,,course,,,active,18,72,,,,,,,,WA,,US,46.0585203,-118.5027093,2026-10-11T15:12:15Z
+89ffd4aa-b4d2-405e-bdd9-316d3560d5ab,way/357058419,Lewis River Golf Course,,course,,,active,18,72,,,,,,,,WA,,US,45.9340025,-122.6612286,2026-10-11T15:06:26Z
+8ac1ba95-33ea-45c0-9538-f966b6036b6c,way/53056022,Mount Si Golf Course,,course,,,active,18,72,,,+1-425-391-4926,https://www.mtsigolf.com/,,9010 Boalch Ave SE,Snoqualmie,WA,98065,US,47.5169918,-121.794381,2026-10-11T15:11:55Z
+8ba3635a-53de-43b5-bbe6-b0778f0f6a25,way/35451043,Nile Shrine Golf Course,,course,,private,active,18,67,,,,,,6601 244th Street Southwest,Mountlake Terrace,WA,98043,US,47.7813988,-122.3223864,2026-10-11T15:11:51Z
+8d0bed5a-2032-47fb-bccf-38e6e9932061,way/264533604,Black Rock Creek Golf Course,,course,,,active,,,,,,,,,,WA,,US,46.2983893,-119.9521155,2026-10-11T15:12:05Z
+8d78321c-cee4-49cf-9d45-865901ef1309,way/1451804150,Shenandoah Forest Park Golf Course,,course,,,active,,,,,,,,,,WA,,US,47.7939818,-117.3626484,2026-10-11T13:31:14Z
+8dbbd814-8189-4b47-962f-d7eec4ee4b2f,way/164010157,Holmes Harbor Golf Course,,course,,,active,,,,,,,,,,WA,,US,48.0306719,-122.5438918,2026-10-11T15:12:01Z
+8df11366-27f8-478c-bdf8-595c1e2f466b,way/150261159,Orchard Hills Golf Course,,course,,private,active,18,73,,,,,,,,WA,,US,45.5802568,-122.3237286,2026-10-11T15:12:00Z
+91daf717-923a-454c-a9d4-963b078e3114,way/224019150,Kalispel Golf and Country Club,,course,,,active,18,71,,,,,,,,WA,,US,47.7674641,-117.4375763,2026-10-11T13:30:07Z
+921891bc-8960-422f-880c-a4314149fe9b,way/53055999,Snoqualmie Falls Golf Course,,course,,,active,18,71,,,+1-425-441-8049,https://snoqualmiefallsgolf.com/,,35109 SE Fish Hatchery Road,Fall City,WA,98024,US,47.558898,-121.8757082,2026-10-11T15:11:55Z
+92672647-42ec-4b23-9409-d0c29fb778f6,relation/15664428,Meadowmeer Golf & Country Club,,course,,,active,,,,,,https://meadowmeergolf.com/,,,,WA,,US,47.6644754,-122.5432327,2026-10-11T13:31:48Z
+9344363d-5a4a-4aa7-b254-578d280ec6a9,way/22718513,Meadow Park Golf Course,,course,,,active,,36,,,+1-253-473-3033,https://www.metroparkstacoma.org/place/meadow-park-golf-course/,,7108 Lakewood Drive West,Tacoma,WA,98467,US,47.1957434,-122.5151828,2026-10-11T15:11:48Z
+93c7834e-10d4-4965-987a-a0f3acf7d6aa,way/29468550,The Bellevue Golf Course,,course,,,active,18,71,,,,,,,,WA,,US,47.6565288,-122.1484078,2026-10-11T15:11:49Z
+93cd59d4-b7cf-4a38-aa1c-23aced9c59de,relation/1146821,Coyote Ridge Golf Course,,course,,,active,,,,,,https://www.coyoteridgegolfcourse.com/,,,,WA,,US,47.916551,-119.0635095,2026-10-11T15:06:41Z
+949b65eb-4087-4a4c-b10c-e7bff2963161,relation/5959483,Alta Lake Golf Resort,,course,,,active,,,,,,,,,,WA,,US,48.0377046,-119.9342118,2026-10-11T13:31:32Z
+952d5858-0f8a-427a-9a9d-5e21189fbf5f,relation/6396776,High Valley Country Club,,course,,,active,,,,,,,,,,WA,,US,46.6392644,-121.6546924,2026-10-11T15:12:36Z
+955ef12c-b029-4290-b69f-de1dff99bfc7,relation/7095026,Gateway Golf Course,,course,,,active,,,,,,,,,,WA,,US,48.5220946,-122.213475,2026-10-11T15:12:38Z
+96d23274-0c67-4566-a1d2-22d542d0820b,way/1245158214,San Juan Golf & Tennis Club,,course,,,active,,,,,,,,,,WA,,US,48.5008887,-123.0282265,2026-10-11T15:12:28Z
+984aef06-ca38-47a7-9cdc-a63e99aaadaf,relation/5293913,Village Greens Golf Course,,course,,,active,18,58,,,,http://www.villagegreensgolfcourse.com/,,2298 Fir Crest Drive Southeast,Port Orchard,WA,,US,47.528167,-122.595347,2026-10-11T15:06:47Z
+9ab60d27-035e-4ab1-a015-bc45f6eb0bac,way/224776655,Downriver Golf Course,,course,,,active,18,71,,,,,,,,WA,,US,47.6847673,-117.4668416,2026-10-11T15:12:03Z
+9b6d7fd8-1792-4be1-a9ce-ba4919fea519,way/224387835,Pasco Golfland,,course,,,active,,,,,,,,,,WA,,US,46.2543263,-119.1402672,2026-10-11T15:12:03Z
+9ba31a29-bbf0-4ed2-839f-22f030cde5ae,way/374772888,Grays Harbor Country Club,,course,,,active,9,,,,,https://ghcountryclub.com/,,5300 Central Park Drive,Aberdeen,WA,98520,US,46.9642456,-123.7274015,2026-10-11T15:12:14Z
+9e9d552b-02b3-4885-80ff-4af6ba5d2645,way/51244842,Eagles Pride Golf Course,,course,,,active,18,,,,+1-253-967-6522,http://www.jblmmwr.com/eagles_pride/,,1529 Mounts Road Southwest,DuPont,WA,98327,US,47.0885066,-122.6620051,2026-10-11T15:11:53Z
+a16d4556-eab6-4676-9505-282bb2836c6d,way/262286781,Tekoa Golf Course,,course,,,active,,,,,,,,,,WA,,US,47.2191764,-117.0621584,2026-10-11T15:06:18Z
+a1c23260-6e47-49dc-9e3f-0ae7284004fb,way/51706587,Gold Mountain Golf Course,,course,,,active,,,,,,,,,,WA,,US,47.516929,-122.7524889,2026-10-11T15:11:53Z
+a2743c88-8a7a-490d-9fea-62c24ee95728,relation/19187964,Gleneagle Golf Course,,course,,,active,,56,,,,,,,,WA,,US,48.1612794,-122.1314237,2026-10-11T13:31:51Z
+a28abaf2-14ee-4bf3-be60-e8ff2eaf0c79,way/54622657,Cedar Crest Golf Course,,course,,,active,18,,,,,https://www.cedarcrestgc.com/,,,,WA,,US,48.0679483,-122.1364836,2026-10-11T15:11:55Z
+a2e11d54-1973-4a2b-8364-d153d23eba4d,way/187532596,Skyline Golf Course,,course,,,active,,,,,,,,,,WA,,US,46.1987816,-123.360092,2026-10-11T15:06:14Z
+a3346033-ec04-4524-8d10-ac2b3ec80f31,way/242391071,Othello Golf Club,,course,,,active,,,,,,,,,,WA,,US,46.7928149,-119.2096116,2026-10-11T15:06:18Z
+a36f6ac5-de03-4f0b-a449-a3b7638f0d1b,way/361446393,Highland Golf Course,,course,,,active,18,,,,,https://playhighlands.com/,,2200 1st Street,Cosmopolis,WA,98406,US,46.9470695,-123.7672414,2026-10-11T15:12:14Z
+a398e193-6400-4cd8-92fc-1cc4224e4a83,relation/20993502,Esmeralda Municipal Golf Course,,course,,,active,,13,,,,,,,,WA,,US,47.6929244,-117.3526665,2026-10-11T15:12:45Z
+a422d2ec-0f32-4957-8efa-5d5060c85fd5,relation/15765636,Wing Point Golf Course,,course,,,active,18,71,,,,https://www.wingpointgolf.com,,811 Cherry Avenue Northeast,Bainbridge Island,WA,98110,US,47.6307569,-122.503033,2026-10-11T15:12:43Z
+a504d84f-9f3b-48f7-9509-8ebb3b8759e6,relation/1177774,Meadow Springs Country Club,,course,,,active,18,72,,,,,,,,WA,,US,46.2215322,-119.2598918,2026-10-11T15:12:30Z
+a512e4b3-af9b-449a-8785-e14018669c15,way/51755445,Classic Golf Club,,course,,,active,18,71,,,,https://classicgolfclub.net/,,,,WA,,US,47.0637059,-122.3625213,2026-10-11T15:11:53Z
+a5611661-05ae-4c6c-97c7-815d789c2ba0,relation/5292005,Rolling Hills Golf Course,,course,,,active,,,,,+1-360-479-1212,https://www.rollinghills-golfcourse.com/,,2485 Northeast McWilliams Road,Bremerton,WA,98311,US,47.6177055,-122.6158846,2026-10-11T15:12:36Z
+a5cfad2d-ebfa-4069-881e-812f1e037e82,way/547700151,Birch Bay Village Golf Course,,course,,,active,,,,,,,,,,WA,,US,48.9397165,-122.7823717,2026-10-11T15:12:18Z
+a61a7168-12e1-4e64-bb86-eba537564804,way/51242040,American Lake Veterans Golf Course,,course,,,active,18,71,,,+1-253-589-1998,https://www.veterangolf.org/,,9600 Veterans Drive Southwest,Lakewood,WA,98493,US,47.140982,-122.5750919,2026-10-11T15:11:53Z
+a6d37eb1-9f51-4d8d-bd36-4f31dc962ee5,relation/20132202,Rope Rider Golf Course,,course,,,active,,69,,,,https://www.destinationhotels.com/suncadia-resort/golf/golf-courses/rope-rider,,,,WA,,US,47.2067123,-120.9942784,2026-10-11T15:12:45Z
+a74a638e-ae42-48e5-bdcb-9d962cd3a5c4,way/235691718,Port Townsend Golf Park,,course,,,active,9,,,,+1-360-385-4547,,,1948 Blaine Stret,Port Townsend,WA,98368,US,48.1177431,-122.7748941,2026-10-11T15:12:03Z
+a8d904d5-d398-4d39-b8c8-5d462cc09f55,way/202252172,Liberty Lake Golf Course,,course,,,active,18,70,,,,http://golfatlibertylake.com/,,24403 East Sprague Avenue,Liberty Lake,WA,99019,US,47.658509,-117.0801893,2026-10-11T15:06:16Z
+ab5df950-b956-4569-8ccb-b6e69f52725e,way/1002185812,Sahalee Country Club,,course,,,active,18,72,,,+1-425-868-8800,https://www.sahalee.com/,,21200 Northeast Sahalee Country Club Drive,Sammamish,WA,98074,US,47.6351365,-122.055192,2026-10-11T15:12:24Z
+ab5e91df-6f53-4890-b9e4-6c1d4a9c4b43,relation/420288,The Golf Club at Hawks Prairie - The Links,,course,,,active,,,,,,,,,,WA,,US,47.0992002,-122.7644456,2026-10-11T15:12:30Z
+acd8cb73-9fc6-4021-9f84-d6ce4150a44b,relation/417687,Oakbrook Golf & Country Club,,course,,,active,18,71,,,,,,,,WA,,US,47.1903148,-122.5455123,2026-10-11T15:12:30Z
+acf709bb-f099-4ec0-9bf2-c5a0648d88c1,relation/5707337,High Cedars Golf Club,,course,,,active,,36,,,,,,,,WA,,US,47.1148659,-122.2355826,2026-10-11T15:12:36Z
+ad3fa89f-706d-492d-be67-129482af2c97,way/1315830295,Desert Canyon Golf Resort,,course,,,active,18,,,,,,,,,WA,,US,47.7194736,-120.1845584,2026-10-11T15:12:29Z
+aeed01ac-ffc9-4f37-aeee-c0cb2b571fa2,way/300669085,Sandy Point Golf,,course,,,active,,,,,,,,,,WA,,US,48.804839,-122.6796706,2026-10-11T15:12:10Z
+aff9e524-d050-4ecd-b5b6-9aebb0c83e7a,way/149782942,Hartwood Golf Course,,course,,,active,9,29,,,,,,,,WA,,US,45.7140829,-122.5204088,2026-10-11T15:06:12Z
+b1e25536-7be0-4cfd-8f90-2a33f7181b82,way/31652508,West Seattle Golf Course,,course,,,active,18,72,,,,,,,,WA,,US,47.5592446,-122.3702905,2026-10-11T15:11:51Z
+b53979c4-0121-46bf-858b-b1ab0d8e361e,relation/3799855,White Horse Golf Club,,course,,,active,18,72,,,,,,,,WA,,US,47.764542,-122.5316293,2026-10-11T15:12:33Z
+b615385e-705e-4faa-8713-913c40ff2b85,relation/10695931,Leavenworth Golf Course,,course,,,active,18,71,,,,,,,,WA,,US,47.5809787,-120.670623,2026-10-11T13:31:37Z
+b7b72046-e1ed-4f15-8265-ba39960c2067,way/379678237,Pheasant Creek Golf Course,,course,,,active,,,,,,,,,,WA,,US,46.0620469,-118.659778,2026-10-11T15:12:14Z
+b7dd9088-df96-4a11-95bd-a178af4e8ca6,way/632748518,Olympia Country & Golf Club,,course,,,active,18,72,,,,,,,,WA,,US,47.0815335,-122.9407705,2026-10-11T15:12:20Z
+b7e6345f-66f7-4d08-bfc9-58c4a8513073,way/23060588,Jackson Park Golf Course,,course,,,active,,34,,,,http://premiergc.com/jackson-park.php,,,,WA,,US,47.729416,-122.3180741,2026-10-11T15:11:48Z
+b97775e4-fc6a-4fcc-86a7-f0e77f202bdc,way/54453779,The Golf Club at Newcastle,,course,,,active,,,,,,https://www.newcastlegolf.com/,,,,WA,,US,47.5339867,-122.1420127,2026-10-11T15:11:55Z
+ba64efd2-c984-40c2-bc6e-fd9d35356511,way/379954448,Cherry Hill Golf Course,,course,,,active,,,,,,,,,,WA,,US,46.34086,-120.174255,2026-10-11T15:12:14Z
+bae6c686-536b-4f19-9c6d-00a91d14c4a2,way/51240728,Fort Steilacoom Golf Course,,course,,,active,9,34,,,,,,,,WA,,US,47.1828266,-122.5693643,2026-10-11T15:11:53Z
+bb46c515-d946-4fc7-8144-0b0a7c8c7592,way/29544162,Tam o'Shanter Golf & Country Club,,course,,,active,,,,,,https://www.tamoshanter.net/,,,,WA,,US,47.6253401,-122.0968371,2026-10-11T15:11:49Z
+be02f2b7-7dd0-4c99-95eb-eeac61dd0701,node/4624838953,Grand Mound Driving Range,,practice,,,active,,,,,+1-360-273-9335,,,20525 Old Highway 9 Southwest,Centralia,WA,98531,US,46.788441,-123.023429,2026-10-11T15:05:59Z
+be6c4297-fa26-4e4e-8ede-beb41aa021af,way/226885836,Salish Cliffs Golf Club,,course,,,active,18,72,,,,,,,,WA,,US,47.1195656,-123.1089844,2026-10-11T15:12:03Z
+bf775ab3-da69-4060-b612-f0e11f4e59d6,relation/19187961,Camas Meadows,,course,,private,active,,,,,,,,,,WA,,US,45.63061,-122.4525365,2026-10-11T15:12:45Z
+c18713a2-c94a-4404-8673-a3ee1d177720,way/111599950,Bellingham Country Club,,course,,,active,18,72,,,,,,,,WA,,US,48.7790509,-122.4927256,2026-10-11T15:11:57Z
+c438b92b-2476-4124-b796-9a2d168a1606,relation/18145629,Bear Creek Country Club,,course,,,active,,,,,,https://www.bearcreekcc.com/,,13737 202nd Avenue N.E.,Woodinville,WA,98077,US,47.7266858,-122.0631396,2026-10-11T13:31:51Z
+c6113d63-eb1e-4fd9-b63e-33138767a7c2,relation/13192028,Orcas Island Golf Course,,course,,,active,,,,,,,,,,WA,,US,48.6711289,-122.9253944,2026-10-11T15:12:41Z
+c6579ff0-ea86-4f93-a0f7-d8bd49ce1bed,relation/2179779,Twin Lakes Country Club,,course,,,active,18,73,,,,,,,,WA,,US,47.3160984,-122.3771789,2026-10-11T15:12:33Z
+c6b478ea-9eca-4eab-94b0-f3caa5a495ac,way/936121368,St John Golf & Country Club,,course,,,active,9,35,,,,,,400 West Front Street,,WA,,US,47.0931689,-117.5934874,2026-10-11T15:12:23Z
+c72460a1-52cf-4b14-8264-84e7d5045d31,way/80401048,Beacon Rock Golf Course,,course,,,active,,,,,,,,,,WA,,US,45.6385053,-121.9875232,2026-10-11T15:11:55Z
+c904e993-db94-4633-9152-c17e37916431,way/701645306,Airport Golf,,course,,,active,9,29,,,,,,,,WA,,US,46.9717891,-122.9145832,2026-10-11T15:12:21Z
+c9b78e8c-5836-4479-9e12-652b74ccd3d4,way/55412329,Tumwater Valley Golf Course,,course,,,active,18,71,,,,https://www.tumwatervalleygc.com/,,4611 Tumwater Valley Drive Southeast,Tumwater,WA,98501,US,47.0032738,-122.8961154,2026-10-11T15:11:55Z
+ca1e4ff9-24c5-4f6d-913a-604974fabb1d,way/296598231,Lake Spanaway Golf Course,,course,,,active,18,72,,,,https://www.lakespanawaygc.com/,,15602 Pacific Avenue,Tacoma,WA,98444,US,47.1170655,-122.440349,2026-10-11T15:12:10Z
+cb06826c-c2fc-4a20-8a8d-27aaa40f151a,way/1524907585,,,course,,,active,18,72,,,,,,,,WA,,US,48.956738,-122.7150948,2026-10-11T15:12:29Z
+cbe73ac1-d0d1-49a8-a6bf-8de4ec251f16,way/255477326,Shelter Bay Community Golf Course,,course,,,active,,,,,,,,,,WA,,US,48.3816695,-122.5165285,2026-10-11T15:12:05Z
+cc1481a6-4e77-4822-80bf-81e68c3058b9,way/260343176,Lakeview Golf & Country Club,,course,,,active,,49,,,,,,,,WA,,US,47.3745746,-119.5046897,2026-10-11T15:12:05Z
+cca2e7ec-b66d-40ad-84d1-fc8ce9001360,way/1027260900,Ellensburg Golf and Country Club,,course,,,active,9,35,,,,,,,,WA,,US,47.0202489,-120.6238259,2026-10-11T15:12:24Z
+ccec150a-9014-489c-b5cc-2e329f84e333,way/378068562,River Ridge Golf Course,,course,,,active,,,,,,,,,,WA,,US,46.6441963,-120.5209005,2026-10-11T15:12:14Z
+cd855304-de34-4eb6-8419-7973debff277,way/248525674,Whidbey Golf Club,,course,,,active,,,,,,,,,,WA,,US,48.2882625,-122.6918733,2026-10-11T15:12:05Z
+cda4bc22-3dc7-4efb-82e9-1133d767feec,way/163978222,Useless Bay Golf and Country Club,,course,,,active,18,72,,,,,,,,WA,,US,48.0019515,-122.4818426,2026-10-11T15:06:14Z
+cde90621-45fd-492e-9dc5-a7fceb5fcf35,way/274619566,Skamania Lodge Golf Course,,course,,,active,,61,,,+1-800-293-0418,https://www.skamania.com/portland-golf-courses.php,,,,WA,,US,45.6871336,-121.9082906,2026-10-11T15:12:07Z
+cdf1b269-beb8-4d78-95c5-6b0b0627f5e1,way/722809416,Oasis Golf Course,,course,,,active,,,,,,,,,,WA,,US,47.2873199,-119.5768803,2026-10-11T13:30:58Z
+ce6db85f-09fb-4e17-bb7f-1db78f942773,way/301730123,Deer Park Golf Club,,course,,,active,18,72,,,,,,,,WA,,US,47.967523,-117.4525218,2026-10-11T13:30:33Z
+ce7a1c90-5168-4120-990d-27a589e46d1a,relation/17655349,Pasadena Ridge Apartments Golf Course,,course,,,active,,,,,,,,,,WA,,US,47.7009451,-117.2844851,2026-10-11T15:12:45Z
+cee0f513-5bf1-4455-9ad0-ecba51809f2d,relation/18617818,Ocean Shores Golf Course,,course,,,active,18,71,,,,,,,,WA,,US,46.9955884,-124.1584469,2026-10-11T13:31:51Z
+cf147eeb-1a05-48eb-94a8-98071f7bf2f5,relation/7111377,Washington National Golf Club,,course,,,active,18,74,,,,,,,,WA,,US,47.306831,-122.1550122,2026-10-11T15:12:38Z
+cfc16107-e8f4-4fe6-977e-9216e3a07bcf,way/248607191,Discovery Bay Golf Course,,course,,,active,,,,,,,,,,WA,,US,48.0602837,-122.8435229,2026-10-11T15:12:05Z
+cff568dd-21a6-401f-ba82-ba0318823163,way/458994871,Trailhead Golf Course,,course,,,active,9,33,,,+1-509-755-6700,https://www.libertylakewa.gov/246/Golf,,22710 East Country Vista Drive,Liberty Lake,WA,99019,US,47.6633255,-117.1010725,2026-10-11T13:30:48Z
+d0311ae4-b882-4f4e-a46d-dbb4af151be1,relation/20132200,Prospector Golf Course,,course,,,active,,68,,,,https://www.destinationhotels.com/suncadia-resort/golf/golf-courses/prospector,,,,WA,,US,47.2076148,-121.007862,2026-10-11T15:12:45Z
+d057e32b-77d8-4e5c-9a6b-300ff71c892e,way/227220118,Wandermere Golf Course,,course,,,active,18,70,,,,,,,,WA,,US,47.7837605,-117.3983275,2026-10-11T15:12:03Z
+d202ad28-5a85-4c9b-8174-917cbc362463,relation/3092204,Capital City Golf Club,,course,,,active,18,,,,,https://golfcapitolcity.com/,,5225 Yelm Highway Southeast,Lacey,WA,98513,US,46.9924622,-122.8157029,2026-10-11T15:12:33Z
+d325e271-ca28-4e59-9b93-533ff8fe6aa4,relation/6666892,Lake Wilderness Golf Course,,course,,,active,,,,,,https://www.lakewildernessgc.com/,,,,WA,,US,47.3727357,-122.0431966,2026-10-11T15:12:38Z
+d443dd33-7958-43cd-bbdd-994f2175920b,way/1482313573,Sage Hills Golf Club,,course,,,active,,,,,,https://www.sagehillsgolf.com/,,,,WA,,US,46.9336933,-119.1334507,2026-10-11T15:12:29Z
+d45131d2-5d58-43a9-9e72-350c69ca226e,way/37230932,Everett Golf and Country Club,,course,,,active,18,,,,,,,,,WA,,US,47.9452594,-122.2102476,2026-10-11T15:11:51Z
+d49da4d4-9115-4c12-9e78-07b6281b0f3d,way/1412316699,Vic Meyers Golf Course,,course,,,active,,,,,,,,,,WA,,US,47.5931164,-119.3881394,2026-10-11T15:12:29Z
+d4b39012-f777-4611-bcef-44383e8253a7,relation/5339433,Trophy Lake Golf & Casting,,course,,,active,,63,,,,,,3900 Southwest Lake Flora Road,Port Orchard,WA,98367,US,47.4675912,-122.7085101,2026-10-11T15:12:36Z
+d52935c3-9071-4a21-a285-62ea256f0b3e,way/40823950,Glen Acres Golf & Country Club,,course,,,active,9,36,,,,,,,,WA,,US,47.5060052,-122.3185179,2026-10-11T15:06:05Z
+d60473c1-a6a7-43e4-8ee6-66aef7e499ca,way/42420031,Willows Run Golf Club,,course,,,active,,,,,+1-425-883-1200,https://willowsrun.com/,,10402 Willows Road Northeast,Redmond,WA,98052,US,47.6967554,-122.1440817,2026-10-11T15:11:53Z
+d694bb84-932e-43da-a816-9df6de49d1d5,way/236359013,Tolt Golf Club,,course,,,active,,66,,,,,,,,WA,,US,47.6258052,-121.925401,2026-10-11T15:12:03Z
+d7e21898-c3c0-4a2e-9f17-1883722402ac,relation/17538020,The Links At Moses Pointe,,course,,,active,18,72,,,+1-509-764-2275,http://www.mosespointe.com/?id=1843&page=113743,,4524 Westshore Drive NE,Moses Lake,WA,98837,US,47.1535358,-119.3565934,2026-10-11T13:31:51Z
+d87421c0-3ad1-41dc-bf85-9539b4c90b14,way/151436423,Pine Crest Golf Course,,course,,,active,9,,,,+1-360-573-2051,https://pinecrestgc.net/,,2415 Northwest 143rd Street,Vancouver,WA,98685,US,45.7228632,-122.6964409,2026-10-11T15:12:00Z
+d8ced818-2a70-4025-8729-5b7c81d506fe,way/786414609,Putting Green,,practice,,,active,,,,,,,,,,WA,,US,48.4010659,-122.2780215,2026-10-11T15:06:33Z
+d93b83f6-de61-4182-8500-0e4ab0d1f31f,way/54455258,Kayak Point Golf Course,,course,,,active,18,72,,,,http://golfkayak.com/,,,,WA,,US,48.1408199,-122.3401168,2026-10-11T13:29:49Z
+dcc2c9be-c590-4eeb-b914-8c26b91b6bd7,way/1380483806,The Legacy Golf Course,,course,,,active,,,,,,,,,,WA,,US,46.9674485,-119.3549648,2026-10-11T13:31:14Z
+de059eca-9607-4bd6-b261-4a33bd5effc3,way/1380483807,O'Sullivan Sportsman Resort,,course,,,active,,,,,,,,,,WA,,US,46.9677467,-119.3452709,2026-10-11T15:12:29Z
+debb54e9-3b88-46e8-b41a-44a34201bce9,way/1284936152,Bear Mountain Golf Course,,course,,,active,18,72,,,,,,,,WA,,US,47.8346813,-120.12695,2026-10-11T15:12:28Z
+df37e54f-c6d1-4af2-a191-17e193c568f3,relation/10698529,Apple Tree Golf Course & Resort,,course,,,active,18,71,,,,,,,,WA,,US,46.5631469,-120.6339872,2026-10-11T13:31:37Z
+dffb028a-f28e-4a38-8cd4-d3d05014a2d4,relation/3945013,Homestead Golf & Country Club,,course,,,active,,,,,+1-360-354-1196,https://www.homesteadgolfclub.com/,,115 East Homestead Boulevard,Lynden,WA,98264,US,48.9602193,-122.4522434,2026-10-11T15:12:35Z
+e3c41893-7c51-435b-94d0-d5148ae46c2b,relation/9098120,The Golf Club at Redmond Ridge,,course,,,active,18,70,,,+1-425-836-1510,https://redmondridgegolf.com/,,11825 Trilogy Parkway Northeast,Redmond,WA,98053,US,47.7072895,-122.0254452,2026-10-11T15:12:38Z
+e667d590-6638-4a6a-8ce5-248a5a11e314,way/243358076,Dominion Meadows Golf Course,,course,,,active,,,,,,,,,,WA,,US,48.5403827,-117.8743173,2026-10-11T15:06:18Z
+e7211743-b368-4ba9-a756-9258841c3c83,relation/8219699,Fairwood Golf & Country Club,,course,,,active,18,71,,,,https://www.fairwood.org/,,,,WA,,US,47.4509075,-122.1433046,2026-10-11T15:12:38Z
+e769c4f0-131d-4983-931a-872c7eaf1bef,relation/19187957,Delphi Golf Course,,course,,,active,,,,,,,,,,WA,,US,46.9846125,-123.0151101,2026-10-11T15:12:45Z
+e97e7e9c-94aa-4774-a0e0-96dd19d459a4,relation/20132164,Tumble Creek Golf Course,,course,,private,active,18,71,,,,https://www.destinationhotels.com/suncadia-resort/golf/golf-courses/tumble-creek,,,,WA,,US,47.2174908,-121.0440695,2026-10-11T15:12:45Z
+e9d146c2-fa4d-492f-9553-e72823bebe32,way/94252069,Tahoma Valley Golf and Country Club,,course,,,active,18,,,,,,,,,WA,,US,46.9402321,-122.6175796,2026-10-11T15:11:55Z
+eb0dcad3-d80b-49f4-b4ef-55f477660a97,way/232715170,Oakridge Golf Course,,course,,,active,,,,,+1-360-482-3511,https://oaksridgegolfcourse.com/,,1052 Monte Elma Road,Elma,WA,98541,US,47.0013738,-123.4555031,2026-10-11T13:30:07Z
+ebd899dc-167c-4f11-aa0d-b52fcb7774f7,way/39515903,Manito Golf & Country Club,,course,,,active,,,,,,,,,,WA,,US,47.6098059,-117.3946226,2026-10-11T15:11:51Z
+ebe19e4f-65bc-4d7d-98e1-a500455a38fd,relation/13480975,Bald Eagle Golf Club,,course,,,active,18,,,,,https://baldeaglepointroberts.com,,1350 Pelican Place,Point Roberts,WA,98281,US,48.9969199,-123.0780494,2026-10-11T15:12:41Z
+ebe9f050-a46f-49db-82fb-1a7b31aae947,relation/18724717,Indian Summer Golf Course,,course,,,active,18,72,,,+1-360-923-1075,https://indiansummergolf.com/,,5900 Troon Lane Southeast,Olympia,WA,98501,US,46.9892452,-122.8335709,2026-10-11T15:12:45Z
+ee8ce8f7-c764-439b-8988-e86a3f27a2bd,way/564140691,Deception Pass Golf Center,,course,,,active,,,,,,https://www.deceptionpassgolfcenter.com/,,,,WA,,US,48.3858029,-122.6475196,2026-10-11T13:30:51Z
+effeae49-7c16-44d8-a09a-8866c4795766,way/235184973,Snohomish Golf Course,,course,,,active,18,72,,,,,,7805 147th Ave SE,Snohomish,WA,98290,US,47.92278,-122.0284669,2026-10-11T15:12:03Z
+f0f14da5-76a4-466f-9eab-22f66ad430b6,relation/16404442,McCormick Woods Golf Club,,course,,,active,18,,,,+1-360-895-0130,https://www.mccormickwoodsgolf.com/,,5155 McCormick Woods Dr SW,Port Orchard,WA,98367,US,47.4961763,-122.689326,2026-10-11T15:12:43Z
+f1210bfc-8049-475c-8dfd-78e6945319ae,way/233554608,Newaukum Valley Golf Course,,course,,,active,18,72,,,,,,,,WA,,US,46.6088844,-122.8897996,2026-10-11T15:06:16Z
+f1326f8c-716c-42c6-b499-a6894607f4da,way/54454203,Battle Creek Golf Course,,course,,,active,18,,,,,http://www.battlecreeklinks.com/,,,,WA,,US,48.0536784,-122.232997,2026-10-11T15:11:55Z
+f2735813-31de-40d3-ae3b-b7c76da1e964,way/150421359,Camas Meadows Golf Club,,course,,private,active,,,,,,,,,,WA,,US,45.6238843,-122.4415942,2026-10-11T15:12:00Z
+f344678f-eef8-409c-904c-9106deddc1f5,way/38655936,Interbay Family Golf Center,,course,,,active,9,28,,,,http://premiergc.com/interbay.php,,,,WA,,US,47.6436061,-122.3781776,2026-10-11T13:29:39Z
+f3d39338-e0ca-4381-87ad-7ce5e0c9c26b,way/658248160,Flowing Lake Golf Course,,course,,,active,,,,,,,,,,WA,,US,47.9531586,-121.9820461,2026-10-11T15:12:20Z
+f5199f8f-69cc-438c-9a23-a7a9fbe6ba5e,relation/420415,Maplewood Golf Course,,course,,,active,18,72,,,+1-425-430-6800,https://www.rentonwa.gov/Activities-Events/Maplewood-Golf-Course,,,,WA,,US,47.4719127,-122.1597429,2026-10-11T15:12:30Z
+f5b4c934-21db-4aaf-b238-fefab430d90f,way/31153925,Gig Harbor Golf & Country Club,,course,,,active,,,,,,,,,,WA,,US,47.3052057,-122.629402,2026-10-11T15:11:49Z
+f6676974-62ed-4d46-8ad4-bfb1eb379c38,way/230276767,Scott Lake Golf Course,,course,,,active,,,,,,,,,,WA,,US,46.9129795,-122.9333233,2026-10-11T13:30:07Z
+f86ca902-66f9-48fd-ac15-c774723594a2,way/547700155,Semiahmoo Golf & Country Club,,course,,,active,18,72,,,,,,,,WA,,US,48.9624845,-122.780501,2026-10-11T15:12:18Z
+f889ff0f-7d25-4239-95fd-3cca553eca50,way/240871283,Riverwoods Golf Course,,course,,,active,,,,,,https://riverwoodsgolf.com/,,2424 Fowler Road,Raymond,WA,98577,US,46.6537532,-123.7267345,2026-10-11T15:12:05Z
+f925d275-2255-4b51-bfc9-d3d34c0c9f9b,relation/17528261,Rock Island Golf Course,,course,,,active,18,72,,,+1-509-884-2806,http://rockislandgolfcourse.com/,,314 Saunders Rd,Rock Island,WA,98850,US,47.373176,-120.1331683,2026-10-11T15:12:45Z
+f988050d-ed46-4f37-807a-5634ad8043fc,way/1437040525,Buckskin Golf Club,,course,,,active,,,,,,,,,,WA,,US,46.2968973,-119.3101803,2026-10-11T15:12:29Z
+f99e0aba-d2f5-45b2-80f4-b93ebf45e7fd,way/238917179,Fisher Park Golf Course,,course,,,active,,,,,,,,,,WA,,US,46.589031,-120.560599,2026-10-11T15:06:16Z
+fb36f604-d6c9-4a44-9514-489a2b2a67d7,way/261956360,Colfax Golf and Country Club,,course,,,active,9,35,,,,,,,,WA,,US,46.903911,-117.3446037,2026-10-11T13:30:12Z
+fc0a56e0-03e5-4348-b6a6-63955619dca5,way/159936730,Broadmoor Golf Course,,course,,,active,18,70,,,,,,,,WA,,US,47.6355303,-122.2896827,2026-10-11T15:12:01Z
+fc1f4e3e-c8da-4cb2-9932-d73e4cf5816f,way/57742200,Columbia Park Golf Tri Plex,,course,,,active,,,,,,,,,,WA,,US,46.2223593,-119.1588762,2026-10-11T15:06:07Z
+fd16025e-661f-43a9-a376-7fb8a2aabbd5,way/547170915,Hat Island Golf Club,,course,,,active,,,,,,,,,,WA,,US,48.0132871,-122.3204626,2026-10-11T15:12:18Z
+fdc512da-ce67-4236-a5ee-5d57d4bc8c64,way/142543656,Practice Green,,practice,,,active,,,,,,,,,,WA,,US,46.530832,-124.0531734,2026-10-11T15:12:00Z
+fe6df548-f8ea-41d8-8fef-d1a040eec833,way/806288368,Mint Valley Golf Course,,course,,,active,18,70,,,,,,4002 Pennsylvania,Longview,WA,98632,US,46.1662084,-122.9812539,2026-10-11T13:30:58Z
+fe954336-f590-458c-8d71-e3523b2abdc3,way/305929387,Longview Country Club,,course,,,active,,,,,,,,,,WA,,US,46.1633939,-122.9572113,2026-10-11T15:12:12Z
+ff32a2a7-6260-4c94-aed3-1648b346626d,way/550576961,Island Greens,,course,,,active,,,,,,,,,,WA,,US,47.9549572,-122.4048932,2026-10-11T15:06:30Z

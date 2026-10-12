@@ -1,0 +1,25 @@
+# This repo is generated from the yardage-hub database; changes made here would be overwritten by
+# the next snapshot. Close pull requests with a pointer to where data fixes go.
+name: Close pull requests
+
+on:
+  pull_request_target:
+    types: [opened, reopened]
+
+permissions:
+  pull-requests: write
+
+jobs:
+  close:
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          GH_TOKEN: ${{ github.token }}
+          PR: ${{ github.event.pull_request.html_url }}
+        run: |
+          gh pr close "$PR" --comment "Thanks for this! This repo is generated from the yardage-hub database every week, so changes here would be overwritten by the next snapshot.
+
+          Please send the fix through the site instead, where it's reviewed and credited to you: https://lukeheide.com/sports/yardage-hub
+          Find the course (or open https://lukeheide.com/sports/yardage-hub?course=<id> with its id from courses.csv), then click **Add the scorecard link** (the easiest way: we fill in the whole card from it) or **Suggest an edit**.
+
+          See https://github.com/$GITHUB_REPOSITORY/blob/main/CONTRIBUTING.md for more."

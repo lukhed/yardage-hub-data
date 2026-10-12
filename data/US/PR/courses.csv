@@ -1,0 +1,35 @@
+id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
+08cd3db3-d1f9-4199-ad26-82c6ff918187,way/513193873,East Golf Course,,course,,,active,,69,,,,,,,,PR,,US,18.4708344,-66.2903305,2026-10-11T15:12:18Z
+0a4e2c20-7f34-4752-a955-20eda8ea6d49,way/308753984,Río Bayamón Golf Course,,course,,,active,,,,,,,,,,PR,,US,18.3787958,-66.1373454,2026-10-11T15:12:12Z
+0bb37e89-01e5-4e44-bf63-42ecd7c7b6ea,way/308753982,Río Bayamón Golf Course,,course,,,active,,,,,,,,,,PR,,US,18.3872191,-66.1360553,2026-10-11T15:12:12Z
+33cd4e65-2f58-4f9b-b85e-ab9b2cf98e8f,way/894061675,,,course,,,active,,,,,,,,,,PR,,US,18.4098025,-65.8067641,2026-10-11T15:12:23Z
+363e203a-697b-431f-b66d-217655fe784e,relation/6747327,,,course,,,active,,,,,,,,,,PR,,US,18.0989007,-65.7977702,2026-10-11T15:12:38Z
+3f42c61c-b342-451b-b14c-2fc1c740f493,way/503381561,,,course,,,active,,,,,,,,,,PR,,US,18.4233223,-65.947806,2026-10-11T15:12:18Z
+43741075-0d95-4288-a9f8-3551325a0a6f,relation/2729630,Caguas Real Golf & Country Club,,course,,,active,18,71,,,+1-787-653-4653,https://caguas-real-golf-country-club.business.site/,,700 Alhambra En Granada Boulevard,Caguas,PR,00725,US,18.1932347,-66.0471504,2026-10-11T15:06:43Z
+481769d5-a20b-4f69-bed3-673df9caa923,way/534967835,,,course,,,active,,,,,,,,,,PR,,US,18.0956813,-67.190174,2026-10-11T15:12:18Z
+67e335b2-3b8e-4cad-8c1e-ba2cba708cab,way/534963342,,,course,,,active,,,,,,,,,,PR,,US,18.0968717,-67.1845125,2026-10-11T15:12:18Z
+68444e64-6913-4873-8ed1-9a12595df8e4,way/403560707,Fort Buchanan Golf Course,,course,,,active,,,,,,,,,,PR,,US,18.4144511,-66.111845,2026-10-11T15:12:15Z
+6a384171-857b-442e-b7e8-f58b4078ce7a,way/456259446,,,course,,,active,,,,,,,,,,PR,,US,18.0866685,-65.7981819,2026-10-11T15:12:17Z
+6a50444b-95ef-4ae1-89b0-1ce391f69d0a,way/534901020,,,course,,,active,,,,,,,,,,PR,,US,18.4722271,-66.3071593,2026-10-11T15:12:18Z
+7ccf7b45-c5e0-41d5-bfe9-11c3de7923c6,way/456259429,,,course,,,active,,,,,,,,,,PR,,US,18.0915967,-65.7968758,2026-10-11T15:12:17Z
+82a7baa8-6517-483b-bcd9-339e1df637f5,way/508039848,Arthur Hills Golf Course,,course,,,active,18,72,,,,,,,,PR,,US,18.3575423,-65.6345228,2026-10-11T15:12:18Z
+89751bf6-73c8-48e1-9f2b-d038de8bda2d,relation/2752841,,,course,,,active,,,,,,,,,,PR,,US,18.4101035,-65.8175442,2026-10-11T15:12:33Z
+89773f18-262c-453e-80f6-2a6431ef4d96,way/191708541,Ramey Golf Course,,course,,,active,,,,,,,,,,PR,,US,18.4893787,-67.1518643,2026-10-11T13:30:03Z
+8b8b5fc3-0fe6-426f-8815-8c892d392d60,way/1512634277,,,course,,,active,,,,,,,,,,PR,,US,18.3880485,-65.7611172,2026-10-11T13:31:14Z
+8e8aed75-db47-4ef8-b654-2eb736726d43,way/308753983,Río Bayamón Golf Course,,course,,,active,,,,,,,,,,PR,,US,18.381453,-66.136123,2026-10-11T15:12:12Z
+8ec74c0a-cbfa-47b5-87de-6ae34123196f,node/6032061178,Punta Borinquen Golf Club,,course,,,active,,,,,+1 787-890-2987,https://www.puntaborinquengolfclub.org/,,,Aguadilla,PR,00603,US,18.4929106,-67.1499667,2026-10-11T13:29:32Z
+9d791587-4671-4910-b198-07af5d328114,way/534967836,,,course,,,active,,,,,,,,,,PR,,US,18.0934218,-67.1889368,2026-10-11T13:30:51Z
+a118c45b-055b-4e13-b7b0-547a4a67685d,way/456485908,,,course,,,active,,,,,,,,,,PR,,US,18.1047625,-65.7933414,2026-10-11T13:30:48Z
+a7c9738b-1919-4b4b-bfc9-9165fe6d022f,way/504327779,Pinnaple Golf Course,,course,,,active,,,,,,,,,,PR,,US,18.4625461,-66.3031825,2026-10-11T15:06:30Z
+a8a96edd-27a4-4871-98bb-6257cd15e74c,way/373634946,Coco Beach Golf & Country Club,,course,,,active,,69,,,,,,,,PR,,US,18.404939,-65.8005528,2026-10-11T15:06:26Z
+a91f5bb9-1351-442a-b938-d349f265503b,way/456259427,,,course,,,active,,,,,,,,,,PR,,US,18.0877053,-65.7956192,2026-10-11T13:30:48Z
+b705c4a6-8538-4fe8-bcd5-d5208c2b2fd9,way/513193931,Hacienda del Mar Golf Course,,course,,,active,,,,,,,,,,PR,,US,18.4735404,-66.3184122,2026-10-11T15:12:18Z
+c837a2e7-47a9-4ea5-a752-f948fca71f6e,way/1143657825,Coamo Springs Golf Club,,course,,,active,,,,,,,,PR-546,Coamo,PR,00769,US,18.0406872,-66.367627,2026-10-11T13:31:09Z
+cca8bb79-6436-44f1-984a-adc0c0df56f4,way/669370259,,,course,,,active,,4,,,,,,,,PR,,US,18.3964948,-65.8073893,2026-10-11T15:12:20Z
+d5656c09-7189-4d94-a6f4-408279e49016,way/237101975,Costa Caribe Golf and Country Club,,course,,,active,18,72,,,,http://costacaribe-resort.com/,,,,PR,,US,17.9779138,-66.5945157,2026-10-11T15:12:03Z
+de4fd030-049a-4685-8334-c8f53bc8b924,way/526552384,"El Legado de Juan ""Chi-Chi"" Rodríguez Golf Resort",,course,,,active,,,,,,,,,,PR,,US,17.9825457,-66.1849237,2026-10-11T15:12:18Z
+e07d5f8a-8e38-4b3f-bb9d-7503c55ff952,way/319510861,San Juan Golf Course,,course,,,active,,,,,,,,,,PR,,US,18.4359767,-66.0814264,2026-10-11T13:30:33Z
+e81de70a-de9a-43fb-8061-19a7b4e5b4e9,relation/6684119,,,course,,,active,,,,,,,,,,PR,,US,18.4734282,-66.2716673,2026-10-11T15:12:38Z
+eb08049e-a993-4259-83df-9aee7ebc1768,way/894061673,,,course,,,active,,,,,,,,,,PR,,US,18.4051968,-65.8158009,2026-10-11T13:31:02Z
+ec652a15-cf01-480c-bcea-29cc56584482,way/894061674,,,course,,,active,,,,,,,,,,PR,,US,18.4045562,-65.8126133,2026-10-11T15:06:35Z
+f00c744f-7e1b-4968-9980-6a709259a3f6,way/402272663,,,course,,,active,,,,,,,,,,PR,,US,17.9557143,-66.2311663,2026-10-11T15:06:28Z

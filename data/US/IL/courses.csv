@@ -1,0 +1,631 @@
+id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
+003ae428-d184-427f-a90e-b1358ef77a62,relation/15816655,Tam O'Shanter Golf Course,,course,,,active,,26,,,,https://www.golftam.com/,,6700 West Howard Street,Niles,IL,60714,US,42.0214412,-87.7936859,2026-10-11T15:12:43Z
+0134abb0-234b-4b57-853c-c0b44db2a404,way/296074152,Boone Creek Golf Course,,course,,,active,,,,,+1-815-455-6900,http://www.boonecreekgolf.com/,,6912 Mason Hill Road,Bull Valley,IL,60050,US,42.3105623,-88.3329715,2026-10-11T15:12:10Z
+024f4f42-0b94-4129-b598-ccd9b05cdee2,way/295902643,Oregon Country Club,,course,,,active,,,,,,,,,,IL,,US,42.0107802,-89.3203586,2026-10-11T15:12:10Z
+0260a446-f4c6-4670-8e52-d7b1ef4da8e5,way/382540222,George W. Dunne National Driving Range,,practice,,,active,,,,,,,,,,IL,,US,41.5959175,-87.7580176,2026-10-11T15:12:14Z
+02df8f2d-8bb7-4df9-a972-108297681974,relation/12163900,Rob Roy Golf Club,,course,,,active,,,,,+1-847-296-4653,https://www.rtpd.org/golf/,,505 East Camp McDonald Road,Prospect Heights,IL,60070,US,42.0915761,-87.9210895,2026-10-11T13:31:42Z
+0337ed97-ae28-4d92-836c-5526d2838572,way/432864632,Old Top Farm,,course,,,active,9,37,,,,,,,,IL,,US,42.2979416,-88.3112251,2026-10-11T15:12:15Z
+033b6ebe-d546-402e-bb42-30e9b5a84fb0,way/296130391,Vernon Hills Golf Course,,course,,,active,9,34,,,+1-847-680-9310,https://vernonhillsgolf.com/,,291 Evergreen Drive,Vernon Hills,IL,60061,US,42.2183851,-87.9680507,2026-10-11T15:12:10Z
+03a336cc-02f3-4496-b24e-63f932b2cbfa,way/282074253,Crystal Lake Country Club,,course,,,active,18,71,,,+1-815-459-1237,https://www.clcountryclub.com/,,721 Country Club Road,Crystal Lake,IL,60014,US,42.2228746,-88.3502573,2026-10-11T15:12:07Z
+047bfaad-818b-4715-83b5-ed44368bf7b5,way/88318223,Jacksonville Country Club,,course,,,active,,,,,,,,,,IL,,US,39.7165935,-90.2100171,2026-10-11T15:11:55Z
+04e19c38-96bf-4ff7-b4de-90bf220bac00,way/549920803,Lincoln Elks Country Club,,course,,,active,18,72,,,,https://www.elks914.org/Golf.aspx,,,Lincoln,IL,62656,US,40.1397408,-89.4042675,2026-10-11T13:30:51Z
+057c90d8-49f5-4e38-9940-c9429b8e5bb8,way/247597129,Pine Lakes Country Club,,course,,,active,18,71,,,,,,,,IL,,US,40.6694466,-89.4646798,2026-10-11T15:12:05Z
+05d5db02-800d-422b-9be3-d119266da4da,way/806137510,Four Willows Golf Course,,course,,,active,9,35,,,,,,34323 East County Road 1000N,Mason City,IL,62664,US,40.2060601,-89.7129495,2026-10-11T15:12:21Z
+06214924-fbef-4b46-a163-c5b2a16b836e,way/564050961,Blackstone Golf Club,,course,,,active,18,72,,,,https://blackstonegc.com/,,9700 St. Andrews Drive,Marengo,IL,60152,US,42.1877741,-88.5412907,2026-10-11T15:12:18Z
+069cb0cb-c766-4729-ba46-d64e5da43409,way/558878675,Harry Mussatto Golf Course (WIU),,course,,,active,,36,,,,,,,,IL,,US,40.487429,-90.682439,2026-10-11T15:12:18Z
+06b928e2-859a-43f8-aece-fefe63bdf709,relation/3937284,Boulder Ridge Country Club,,course,,,active,,4,,,+1 847-854-3010,https://www.boulderridge.com/,,350 Boulder Drive,Lake in the Hills,IL,60156,US,42.1826819,-88.3616717,2026-10-11T15:12:35Z
+06c46a78-7aea-475e-9099-cb96c6bbd0d6,way/189791416,Village Greens of Woodridge,,course,,,active,18,72,,,+1 630-985-3610,https://www.villagegreensgolf.com/,,1575 West 75th Street,Woodridge,IL,60517,US,41.7470683,-88.0261269,2026-10-11T15:12:01Z
+06dbe228-d1ff-44dd-a4e2-229f92463177,way/808162358,Atwood Homestead,,course,,,active,18,71,,,+1-815-623-2411,https://www.playthepreserves.com/atwood-homestead/,,,,IL,,US,42.3904556,-89.054248,2026-10-11T15:12:21Z
+06f8258f-4f6a-4316-b4e5-95d9b1a72130,way/808323548,,,course,,,active,18,65,,,,,,,,IL,,US,40.4677807,-91.3531447,2026-10-11T15:12:21Z
+06fc4482-f591-481b-800e-1ba16e533bcd,relation/3933822,Ironwood Golf Course,,course,,,active,,,,,+1 309-454-9620,http://www.golfironwood.org/,,1901 North Towanda Avenue,Normal,IL,61761,US,40.5425447,-88.9654778,2026-10-11T15:12:35Z
+070e81eb-49b1-4938-88c3-c8d9cb7da3b8,way/493166439,Settler's Hill Golf Course,,course,,,active,18,72,,,,,,,,IL,,US,41.8753279,-88.2936181,2026-10-11T13:30:48Z
+0719a0c5-bec0-4b4e-8419-4a64d8bb18a6,way/24951326,Sydney R. Marovitz Golf Course,,course,,,active,9,35,,,,https://sydneymarovitz.cpdgolf.com/,,3600 North Recreation Drive,Chicago,IL,60613,US,41.956451,-87.6428407,2026-10-11T15:11:49Z
+07e586f5-2472-46a3-ae46-211c86ac7959,way/295678326,The Hills Golf Club at McKendree University,,course,,,active,,,,,+1-618-537-4590,https://www.mckendree.edu/thehills/,,1015 Belleville Street,Lebanon,IL,62254,US,38.6062228,-89.8237604,2026-10-11T13:30:20Z
+07f7b1f0-c098-4ac3-9e35-ae9c1f1543b6,way/61948902,Renwood Golf Course,,course,,,active,,68,,,,,,,,IL,,US,42.3714078,-88.0645581,2026-10-11T15:11:55Z
+083a597b-dc6f-48e2-9639-fa0640e6f33a,way/169405613,,,course,,,active,,67,,,,,,,,IL,,US,41.2894378,-90.1895933,2026-10-11T15:12:01Z
+0883fe3f-29c4-439e-9fdf-57d8f1c4316a,way/138994143,Golf Center Des Plaines,,par3,,,active,9,27,,,,,,353 North River Road,Des Plaines,IL,60016,US,42.0583026,-87.8861056,2026-10-11T15:06:12Z
+0919410b-a011-4136-8208-7ac8e01d8dfd,relation/10744073,Lake Carroll Golf Club,,course,,,active,18,72,,,,https://www.golflakecarroll.com/,,,,IL,,US,42.1743647,-89.8583526,2026-10-11T15:12:38Z
+099ed6c6-d82b-46dc-a176-2c0e6c7ac574,way/34318446,Park Ridge Country Club,,course,,,active,18,,,,+1-847-823-3101,https://www.parkridgecc.org/,,636 North Prospect Avenue,Park Ridge,IL,60068,US,42.0211393,-87.8351012,2026-10-11T13:29:39Z
+09aaca9a-331b-45c5-917e-88b2b64050a4,way/173794716,Glenwoodie Golf Club,,course,,,active,,59,,,,https://www.glenwoodiegolf.com/,,19301 State Street,Glenwood,IL,60425,US,41.535792,-87.6105544,2026-10-11T15:12:01Z
+0a434ad3-10a2-4986-872f-cd7087f34c5a,way/295758026,The Rail Golf Course,,course,,,active,18,72,,,+1-217-525-0365,https://www.railgolf.com/,,1400 Clubhouse Drive,Springfield,IL,62707,US,39.8776474,-89.6236273,2026-10-11T15:06:21Z
+0b19dd14-e691-46c4-af02-336b9b66e569,way/296074164,Lake Zurich Golf Club,,course,,,active,,,,,,,,,,IL,,US,42.2048839,-88.1003262,2026-10-11T15:12:10Z
+0b2813b3-9eba-4dd2-86af-0a9bba2b467e,way/206798746,Westview Golf Course,,course,,,active,,4,,,,,,,,IL,,US,39.9085489,-91.3633509,2026-10-11T15:12:03Z
+0ba45b96-639c-46de-871b-b30149d76121,way/190496965,Hilton Chicago/Indian Lakes Resort,,course,,,active,,,,,,,,,,IL,,US,41.9454947,-88.0960448,2026-10-11T15:12:01Z
+0c3f1763-ad27-40f4-a71a-56cede4d2db1,way/195246182,Bob O Link Golf Club,,course,,private,active,18,71,,,,https://www.bobolinkgolfclub.com/,,1120 Crofton Avenue North,Highland Park,IL,60035,US,42.1695759,-87.8064959,2026-10-11T15:12:01Z
+0c56533c-d411-439a-8c2f-c0bc7841ae4c,way/169261165,Meadowview Golf Course,,course,,,active,18,72,,,+1-217-258-7888,https://meadowviewgolf.com/,,6489 Meadowview Lane,Mattoon,IL,61938,US,39.4178199,-88.3553661,2026-10-11T15:12:01Z
+0c78299b-bfb7-40eb-821e-f6ca6327af8f,way/470853553,Turnberry Golf Club,,course,,,active,,,,,,,,,,IL,,US,42.2247191,-88.3846306,2026-10-11T15:12:17Z
+0cc830dc-c3ce-4a17-a1a0-d515e9a8af47,way/188547004,Water's Edge Golf Club,,course,,,active,,,,,,,,7205 West 115th Street,Worth,IL,60482,US,41.6784914,-87.790544,2026-10-11T15:12:01Z
+0cc9b85e-e8bf-47b4-ab59-199e356da970,way/229214642,Miniature Golf,,mini,,,active,,,,,,,,,,IL,,US,41.9154956,-87.9537963,2026-10-11T15:06:16Z
+0cd0edbb-38ca-42dd-a894-68544902ec36,way/110603939,Arlington Lakes Golf Course,,course,,,active,,,,,,,,1211 South New Wilke Road,Arlington Heights,IL,60005,US,42.0634676,-87.9981942,2026-10-11T15:06:10Z
+0cd74031-5ade-4ea9-861a-5dbe54ea088c,way/140496656,Flossmoor Country Club,,course,,,active,,,,,,,,1441 Western Avenue,Flossmoor,IL,60422,US,41.5352315,-87.6708929,2026-10-11T15:12:00Z
+0d29a121-85c9-4d4f-b41a-26a93a3baee7,way/296130345,Buffalo Grove Golf Club,,course,,,active,,,,,+1-847-459-5520,https://www.buffalogrovegolf.com/,,48 Raupp Boulevard,Buffalo Grove,IL,60089,US,42.1556725,-87.9733191,2026-10-11T13:30:27Z
+0da9e239-ae05-4504-aa69-71c96612bdfa,way/1465335554,Acorns Golf Links,,course,,,active,18,72,,,+1-618-939-7800,https://acornsgolf.com/,,3933 Ahne Road,Warterloo,IL,62298,US,38.2955539,-90.2017454,2026-10-11T15:12:29Z
+0dd5023f-82f4-4fc1-b1f0-bd66766294ed,way/295771688,El Paso Golf Club,,course,,,active,18,72,,,+1-309-527-5225,https://www.elpasogolfclub.com/,,2860 County Road 600 North,El Paso,IL,61738,US,40.6778635,-88.9940755,2026-10-11T15:12:08Z
+0e065879-c3e0-4546-a93f-1327a63f8dd7,way/260863130,Palatine Hills Golf Course,,course,,,active,18,72,,,+1-847-359-4020,https://www.palatinehills.org/,,512 W Northwest Highway,Palatine,IL,60067,US,42.1324523,-88.053479,2026-10-11T15:12:05Z
+0f926ddf-13e6-452a-9a01-2694401fab71,way/649246532,Saint Elmo Golf Club,,course,,,active,,,,,+1 618 829 3390,https://www.stelmogolfclub.com/,,,Saint Elmo,IL,62458,US,39.0477899,-88.8618153,2026-10-11T13:30:54Z
+0fa78806-44e8-4eb4-99e0-d28b73636732,way/295771700,Sunset Hills Golf Club,,course,,,active,18,71,,,+1-309-347-7553,http://www.mashiespub.com/,,1620 Summit Drive,Pekin,IL,61554,US,40.5401061,-89.6195465,2026-10-11T15:12:08Z
+104d5862-d0ce-4496-8c4a-409d298ecb9e,way/206629275,Quincy Country Club,,course,,,active,,,,,,,,,,IL,,US,39.9226725,-91.3721195,2026-10-11T15:12:03Z
+10a44a2c-e77d-422b-9426-ef13c861f852,way/276692941,Maple Bluff Golf Club,,course,,,active,,,,,,,,,,IL,,US,41.4297562,-90.1298005,2026-10-11T13:30:16Z
+10d7f03a-a380-4254-b98d-39e84c527bde,way/93229064,Heritage Bluffs Public Golf Club,,course,,,active,18,,,,+1-815-467-7888,https://www.heritagebluffs.com/,,24355 West Bluff Road,Channahon,IL,60410,US,41.4298027,-88.208417,2026-10-11T15:11:55Z
+10fe2c8d-efd1-44e0-bd63-661222bee0c4,way/658003420,Hidden Lake Country Club,,course,,,active,,,,,,,,,,IL,,US,41.3363758,-89.7328744,2026-10-11T15:12:20Z
+1117a138-9348-46bb-8f30-3fd419fc56f1,way/295902655,Timber Creek Golf,,course,,,active,,,,,+1-815-288-5110,https://www.timbercreekdixon.com/,,729 Timber Creek Road,Dixon,IL,61021,US,41.8699844,-89.4912731,2026-10-11T15:12:10Z
+1128fe38-9226-41af-bff0-c193589cbf4b,way/384934858,McHenry Country Club,,course,,,active,18,71,,,+1 815 385 3435,https://www.mchenrycc.net/,,820 North John Street,McHenry,IL,60050,US,42.336652,-88.2611526,2026-10-11T15:12:14Z
+115b92d7-4bda-4484-a5af-36e84d9774d1,relation/9639770,Whitetail Ridge Golf Course,,course,,,active,18,71,,,,,,,,IL,,US,41.6151313,-88.3708256,2026-10-11T15:12:38Z
+115fe4a3-04af-4866-9e3e-7a1832117bae,way/188188698,Glen Oak Country Club,,course,,,active,18,72,,,,,,21 W 451 Hill Avenue,,IL,60137,US,41.8777365,-88.0412174,2026-10-11T15:12:01Z
+11883d00-e73b-410d-bf96-7f777a558fd1,way/295902651,Spring Creek Golf Club,,course,,,active,,,,,+1-815-894-2137,https://springcreek-golfcourse.com/,,286 Spring Creek Drive,Spring Creek,IL,61362,US,41.3621623,-89.1904704,2026-10-11T15:06:23Z
+118aecee-69f7-4116-9b27-2274cb93721d,way/229311044,The Preserve at Oak Meadows,,course,,,active,,,,,,,,,,IL,,US,41.9452986,-87.9827575,2026-10-11T15:12:03Z
+119b0f41-a5f4-42fb-bbf8-6a1013509ff0,way/620986655,Buena Vista Golf Course,,course,,,active,,8,,,,,,,,IL,,US,41.9553368,-88.7380685,2026-10-11T15:12:20Z
+11eab9a1-4b19-4bfd-b0e8-c4f1041f298d,relation/15968525,Veterans Memorial Golf Course,,course,,,active,18,71,,,+1-847-688-4593,https://www.navylifegl.com/programs/11a70f82-5e00-4f89-b855-a5c7f104947d,,2821 Great Lakes Drive,Great Lakes,IL,60088,US,42.3123084,-87.8699404,2026-10-11T15:12:43Z
+130f2297-2434-4364-ba8b-72bc4609d17e,relation/17616756,The Orchards Golf Course,,course,,,active,,,,,,,,1499 Golf Course Drive,Belleville,IL,62220,US,38.4880752,-89.9210957,2026-10-11T15:12:45Z
+137e4289-ea1a-407c-9e42-18f12e271987,way/116786308,Red Barn Golf Course,,course,,,active,,,,,,,,,,IL,,US,42.4383398,-89.0771486,2026-10-11T15:11:57Z
+14da0527-1474-46a7-8cfd-3d99ad9144bd,way/180703322,,,course,,,active,,,,,,,,,,IL,,US,39.5257767,-88.3577023,2026-10-11T15:12:01Z
+15284047-e148-4a53-9baa-c03d1f9f07db,relation/3382796,Cardinal Creek Golf Course,,course,,,active,,,,,,https://cardinalcreekgolfclub.com/,,615 Dixie Highway,Beecher,IL,60401,US,41.3459807,-87.6105775,2026-10-11T15:12:33Z
+1583c4a4-ab16-4917-a69a-0649b207d4ba,way/562933972,Hickory Ridge Golf Course,,course,,,active,,,,,+1 618 529 4386,https://www.cpkd.org/places/united-states/illinois/carbondale/facilities/hickory-ridge-golf-course/,,2727 West Glenn Road,Carbondale,IL,62901,US,37.7545904,-89.2535873,2026-10-11T15:12:18Z
+15e95fae-1391-4b03-aa71-874b156a924d,way/296130380,Nickol Knoll Golf Course,,course,,,active,,,,,+1-847-590-6050,https://www.ahpd.org/programs/golf/nickol/,,3800 North Kennicott Avenue,Arlington Heights,IL,60004,US,42.1458447,-87.9975142,2026-10-11T15:12:10Z
+1633af07-e729-4eda-8a0a-0c1275dbd635,way/577240771,Long Bridge Golf Course,,course,,,active,9,36,,,+1-217-744-8311,https://www.longbridgegolfcourse.com/,,1055 West Camp Sangamo Road,Springfield,IL,62707,US,39.8616696,-89.6776102,2026-10-11T15:12:18Z
+17218472-b0ce-4a66-afd6-f035e744681f,way/703501977,,,course,,,active,,,,,,,,,,IL,,US,41.7575432,-88.8648698,2026-10-11T15:12:21Z
+172b70fd-aa68-46c2-9871-6558077b4ca5,way/109975814,White Mountain Golf Park,,course,,,active,9,30,,,,https://www.whitemountaingolfpark.com/,,,,IL,,US,41.5629869,-87.858721,2026-10-11T15:11:57Z
+17ce5884-81a6-4e5d-a2d1-e15d440fb0fd,way/587346349,Fore Way Challenge Golf & Driving Range,,course,,,active,9,36,,,,,,16401 N 1000th St,Effingham,IL,62401,US,39.1526086,-88.6184621,2026-10-11T13:30:54Z
+18526125-363e-4699-ad65-09e4c5686f84,way/188016118,Saint Charles Country Club,,course,,,active,18,72,,,,,,,,IL,,US,41.9383472,-88.3024892,2026-10-11T15:06:14Z
+18d24498-14ea-4838-9f34-28ec19a9d5d6,way/1248882746,,,course,,,active,9,35,,,,,,,,IL,,US,40.4767602,-89.2999582,2026-10-11T15:12:28Z
+19752dba-cd74-424c-9db9-131f238ad8bc,way/265424880,Weibring Golf Club,,course,,,active,,67,,,+1 309-438-8065,https://www.isugolf.com,,800 Gregory Street,Normal,IL,61761,US,40.5238815,-89.005416,2026-10-11T15:12:05Z
+1997f9de-c75a-4fde-b3f3-95d8a7dfb31f,way/29362905,Westmoreland Country Club,,course,,private,active,18,,,,,https://www.westmorelandcc.org/,,2601 Old Glenview Road,Wilmette,IL,60091,US,42.0654387,-87.7379418,2026-10-11T15:11:49Z
+1c9d3bbe-18f2-49a4-8b46-d0bdc4ef3043,way/468897460,Mystic Oak Golf Course,,course,,,active,9,36,,,,,,643 Ridge Rd.,Waterloo,IL,62298,US,38.3420155,-90.1315129,2026-10-11T15:06:29Z
+1ca390dc-c4c3-4fda-a7ed-6e36a4de4eba,way/1462842602,Clay County Country Club,,course,,,active,9,35,,,,,,,,IL,,US,38.6605589,-88.5426145,2026-10-11T15:12:29Z
+1cba9e89-e9e5-4fcc-bd81-20f6dcd7a728,relation/14918457,Midlane Golf Resort,,course,,,active,,,,,+1 847-360-0550,https://midlaneresort.com/,,4555 West Yorkhouse Road,Wadsworth,IL,60083,US,42.4068433,-87.9167523,2026-10-11T15:12:43Z
+1cc5115d-811a-4e7e-8ebe-4f23371bc8bb,way/108069206,Forest Hills Country Club,,course,,,active,18,72,,,,,,,,IL,,US,42.2998344,-89.0460382,2026-10-11T15:11:57Z
+1cda78e9-323e-4df7-8507-a0c50ad42be2,way/900265515,Benton Country Club,,course,,,active,,,,,,,,14783 State Hwy 14,Benton,IL,62812,US,38.017522,-88.8781471,2026-10-11T15:12:23Z
+1ebe578e-45f1-4db1-91b6-355d71cf5a05,way/677102712,Jackson County Country Club,,course,,,active,,,,,+1 618 684 2387,https://www.jacksonccc.com/,,5776 Country Club Road,Murphysboro,IL,62966,US,37.7520927,-89.2810285,2026-10-11T15:12:20Z
+1f43ea55-0d5a-4675-93cb-d6ca239e8312,way/260225293,Rochelle Country Club,,course,,,active,,,,,,,,,,IL,,US,41.9151793,-89.0644541,2026-10-11T13:30:12Z
+1f4acc0e-93b3-4910-8bc2-ae2973c6442b,way/260305220,Saukie Golf Course,,course,,,active,18,66,,,,,,,,IL,,US,41.4750652,-90.5427101,2026-10-11T15:12:05Z
+20ba1017-b66b-4be4-b931-8ffbb756e675,way/364540704,Fox Run Driving Range,,practice,,,active,,,,,,,,,,IL,,US,42.0192246,-88.0438114,2026-10-11T15:12:14Z
+20d3afff-5320-4d68-943d-ad9f5dc2898c,way/468763545,Mill Creek Golf Club,,course,,,active,,13,,,,,,39W 525 Herrington Drive,Geneva,IL,60134,US,41.8736012,-88.3823061,2026-10-11T15:06:29Z
+221eadf1-e497-4d49-98ab-85074cfccdc7,way/772873317,Park Hills Golf Course,,course,,,active,18,72,,,+1-815-235-3611,https://www.parkhillsgolfcourse.com/,,3240 West Stephenson Street,Freeport,IL,61032,US,42.2974622,-89.6749471,2026-10-11T15:12:21Z
+222b7144-664e-47d5-8524-b2029a7dcc81,way/123543609,Crystal Woods Golf Club,,course,,,active,,,,,+1-815-338-3111,https://www.crystalwoodsgc.com/,,5915 South Route 47,Woodstock,IL,60098,US,42.2413801,-88.427912,2026-10-11T15:11:57Z
+228af0cf-40e2-48a6-ad09-f313a467152f,node/9953725568,Whitetail Ridge Golf Club,,course,,,active,,,,,+1-630-882-8988,,,7671 Clubhouse Drive,Yorkville,IL,60560,US,41.6117455,-88.3706178,2026-10-11T13:29:32Z
+22de900c-7f56-4a5a-b586-424a22510545,way/127810936,Northridge Hills,,course,,,active,,,,,,,,,,IL,,US,39.7489592,-90.2522516,2026-10-11T15:11:57Z
+2305aebd-110f-4171-9dcd-01df795a7665,relation/13423588,Jackson Park Golf Course,,course,,,active,18,,,,,https://jacksonpark.cpdgolf.com/,,6401 South Richards Drive,Chicago,IL,60649,US,41.7766131,-87.576554,2026-10-11T15:12:41Z
+231fb4f7-976e-4066-af17-bbd2ae993073,way/295902659,Woodbine Bend Golf Course,,course,,,active,18,72,,,+1-815-858-3939,https://www.woodbinebend.com/,,3500 East Center Road,Stockton,IL,61085,US,42.3372274,-90.1502922,2026-10-11T13:30:27Z
+239709a6-9aa5-4bfd-83d9-3b4171a9f2c6,way/537232111,Zigfield Troy Par 3 Golf Course,,par3,,,active,9,27,,,+1-630-985-9860,https://zigfieldtroygolf.com/,,1535 75th Street,Woodridge,IL,,US,41.7490851,-88.0194151,2026-10-11T15:06:30Z
+23ebefaf-8e35-4a56-adbd-3645bbe37788,relation/20009649,The Evans at Canal Shores,,course,,,active,18,58,,,,,,1030 Central Street,Evanston,IL,60201,US,42.067404,-87.6899313,2026-10-11T15:06:54Z
+23f91441-d7e5-4141-8ab8-7b58c443830d,way/240718812,Wolf Creek Golf Club,,course,,,active,18,72,,,+1-815-842-9008,https://www.golfatwolfcreek.com/,,21062 North 1850 East Road,Pontiac,IL,61764,US,40.941845,-88.5724225,2026-10-11T15:12:05Z
+24900f3b-4541-4be5-9cd6-c3192e4f211c,way/83135039,Shawnee Hills Country Club,,course,,,active,,,,,+1-618-253-7294,,,1110 Shawnee Hills Road,Harrisburg,IL,62946,US,37.7272591,-88.5195001,2026-10-11T15:11:55Z
+24fd8e3b-a271-4249-a253-6459d73f4827,way/1175809138,,,course,,,active,,,,,,,,,,IL,,US,37.6149046,-88.9515421,2026-10-11T15:12:27Z
+25912784-a968-4a7a-a135-593a85b3166e,way/31824066,Old Elm Club,,course,,,active,18,73,,,+1 847-432-6270,http://www.oldelmclub.com/,,800 Old Elm Road,Highland Park,IL,60035,US,42.2126434,-87.8324707,2026-10-11T15:11:51Z
+26088986-0c24-4be5-9ed7-c5f4f34b8bb8,way/295902650,South Course,,course,,,active,,64,,,,https://www.eagleridge.com/golf/,,,,IL,,US,42.3867762,-90.3412863,2026-10-11T15:12:10Z
+2626e366-dd2f-498e-bf8a-ec4af4fabafa,way/31823863,Skokie Country Club,,course,,,active,18,72,,,,,,500 Washington Avenue,Glencoe,IL,60022,US,42.1275019,-87.7658984,2026-10-11T15:11:51Z
+2647ba98-7996-4247-bdeb-78f00085cf7b,way/43232212,Inwood Golf Course,,course,,,active,18,71,,,,,,,,IL,,US,41.5182897,-88.1584044,2026-10-11T15:11:53Z
+277fead5-c5da-4c26-a0d8-4292d0100c25,way/730896775,Hickory Knoll Golf Course,,course,,,active,9,31,,,,https://www.hickoryknollgc.com/,,24745 W. Monaville Road,Lake Villa,IL,60046,US,42.3991704,-88.1140414,2026-10-11T15:12:21Z
+28921322-b03d-4425-817f-1cbab38e766c,relation/10408082,Valley Lo Club,,course,,,active,,,,,,,,2200 Tanglewood Drive,Glenview,IL,60025,US,42.0951708,-87.8047064,2026-10-11T15:12:38Z
+28a78d82-1f5d-46d4-8acd-1e1e22ac5aa2,way/225803537,Crab Orchard Golf Club,,course,,,active,18,70,,,+1-618-985-4653,https://www.craborchardgolfclub.com/,,901 West Grand Avenue,Carterville,IL,62918,US,37.7561723,-89.090549,2026-10-11T15:12:03Z
+292fcb97-543e-4422-aec6-7a62bb5aed9c,way/295771692,Hazy Hills Golf Course,,course,,,active,9,35,,,+1-309-726-9200,https://www.hazyhillsgolf.com/,,25256 North 1350 East Road,Hudson,IL,61748,US,40.6566967,-89.0180868,2026-10-11T15:12:08Z
+2ad90bb8-65e8-4193-b126-e1b65f974b98,way/163601292,Fairfield Golf Club,,course,,,active,,,,,,,,,,IL,,US,38.4522147,-90.1727768,2026-10-11T15:12:01Z
+2b298a38-daf5-4d55-b6c2-e57636b13502,relation/3938646,The Arboretum Club,,course,,,active,18,72,,,+1 847-913-1112,https://www.arboretumgolf.com/,,401 Half Day Road,Buffalo Grove,IL,60089,US,42.1972562,-87.9682044,2026-10-11T15:12:35Z
+2ba51648-6033-4a85-b9ea-77630741db10,way/1215611850,Greenview Golf Club,,course,,,active,18,70,,,+1-618-532-7395,https://www.greenviewgolf.net/,,2801 Putter Lane,Centralia,IL,62801,US,38.4866159,-89.1326435,2026-10-11T15:12:27Z
+2c36ad4f-0476-4d75-bfe6-8bda2ba08950,way/227447504,Senica's Oak Ridge Golf Club,,course,,,active,18,72,,,,,,,,IL,,US,41.3506999,-89.0383183,2026-10-11T15:12:03Z
+2caee164-3b7e-4109-b985-ede64183b290,way/191037618,Green Meadows Golf Club,,course,,,active,,,,,,,,,,IL,,US,41.7683567,-87.9816655,2026-10-11T15:12:01Z
+2cb476eb-01aa-41bb-8430-8836752f2e2d,way/1498109780,Southwestern Lakes Golf Course,,course,,,active,9,,,,+1-618-497-8484,,,,,IL,,US,38.0076204,-89.5995532,2026-10-11T15:12:29Z
+2cf23f7f-9a00-48d9-b186-0cb3642391ad,way/295678316,Cloverleaf Golf Course,,course,,,active,,,,,+1-618-462-3022,https://cloverleafgolfcourse.com/,,3555 Fosterburg Road,Alton,IL,62002,US,38.9261337,-90.1002842,2026-10-11T13:30:20Z
+2d78ea6e-bff0-4a79-b8fb-1d96c2c55d47,way/187776221,Coyote Run Golf Course,,course,,,active,,,,,,,,800 Kedzie Avenue,Flossmoor,IL,60422,US,41.5462033,-87.6989475,2026-10-11T15:12:01Z
+2eb4b9b3-f2bc-4d3e-a70f-d03d76648f8e,way/701185876,,,course,,,active,,20,,,,,,,,IL,,US,41.8968484,-88.1337008,2026-10-11T15:06:33Z
+2ecc908f-4965-4906-9dd0-3e0d1666bc0a,way/973549596,,,course,,private,active,,,,,,,,,,IL,,US,40.8369531,-89.6292231,2026-10-11T15:12:24Z
+2efd93d0-32b9-4fd5-96ef-8c9fbcdb771f,relation/14705728,Norton Knolls Golf Course,,course,,,active,,,,,,,,,,IL,,US,39.6617205,-88.0332749,2026-10-11T15:12:41Z
+2f92038c-3be9-4f0a-a1d2-70986fe5fb08,way/1138453787,,,course,,,active,18,71,,,,,,,,IL,,US,40.94157,-89.1411367,2026-10-11T15:12:27Z
+2fad55b1-8101-412c-8736-013b3aea57d8,way/93308792,Schaumburg Golf Club,,course,,,active,27,,,,,,,,,IL,,US,42.0348465,-88.0724353,2026-10-11T15:11:55Z
+2fafe6d6-da75-45d3-80b4-0dd302464c79,way/868879429,Arrowhead Heights Golf Course,,course,,,active,,,,,,,,,,IL,,US,40.0238159,-91.064866,2026-10-11T15:12:23Z
+2fbbd46f-ff07-49fc-ac37-be84cecdfaa4,relation/12256925,Deerfield Golf Club and Learning Center,,course,,,active,18,72,,,+1-847-945-8333,https://www.deerfieldgolf.org/,,1201 Saunders Road,Riverwoods,IL,60015,US,42.1784164,-87.8780909,2026-10-11T15:12:41Z
+31791d4c-4a9e-4165-b155-0f40d855c2ca,way/188290458,Naperville Country Club,,course,,,active,18,72,,,,,,25 W 570 Chicago Avenue,,IL,60540,US,41.7793791,-88.1239748,2026-10-11T15:12:01Z
+3183a66f-bf1e-46ae-91b8-e73f0a96bb6d,way/295758022,Shambolee Golf Course,,course,,,active,,,,,+1-217-632-2140,https://www.golfshambolee.com/,,101 South Shore Drive,Petersburg,IL,62675,US,39.9820221,-89.8708245,2026-10-11T15:12:08Z
+3185516c-68ad-49e0-a8d5-86bab8560ec3,node/6371478586,,,course,,,active,,,,,,,,,,IL,,US,42.2227672,-88.1220748,2026-10-11T13:29:32Z
+323a0fee-069e-46b5-87cc-087286718c37,way/455693447,,,course,,,active,,,,,,,,,,IL,,US,42.3417334,-88.1897531,2026-10-11T15:12:17Z
+3243fdca-dc84-41a3-b056-5a36c40a4633,way/749257217,WeaverRidge Golf Club,,course,,,active,18,72,,,,https://www.weaverridge.com/,,5100 North WeaverRidge Boulevard,Peoria,IL,61615,US,40.7478944,-89.6587722,2026-10-11T15:12:21Z
+32c7aa07-71da-42ee-a135-31a28d65e802,way/35598628,Edgewood Valley Country Club,,course,,,active,18,71,,,,,,,,IL,,US,41.7527722,-87.8896788,2026-10-11T13:29:39Z
+332b9793-f5ba-458b-8de0-245681ec2857,way/275388051,Turtle Run Golf Course,,course,,,active,18,,,,+1-217-442-3320,https://www.turtlerungolfclub.com/,,332 East Liberty Lane,Danville,IL,61832,US,40.1685937,-87.6181687,2026-10-11T15:12:07Z
+3335fe77-c15b-4b9d-9461-c6e5dfb28bc5,way/39229494,White Pines Golf Club,,course,,,active,,,,,,,,500 West Jefferson Avenue,,IL,60106,US,41.9405625,-87.946591,2026-10-11T15:11:51Z
+338ad11f-1325-43e9-988c-9ded32834285,way/108099622,Ingersoll Golf Course,,course,,,active,18,,,,,,,,,IL,,US,42.272973,-89.1527912,2026-10-11T13:29:54Z
+33957a6f-ca26-4787-8ef8-9fd9d5ed4bd7,way/233583535,Westlake Country Club,,course,,,active,,,,,+1-618-498-2011,http://www.westlakecc.net/,,998 Westlake Drive,Jerseyville,IL,62052,US,39.1270892,-90.3414101,2026-10-11T15:12:03Z
+33d752f6-3439-4ec2-8b1b-84a7f203efc4,relation/18542838,Canyata Golf Club,,course,,,active,18,72,,,,,,,,IL,,US,39.4689188,-87.7020274,2026-10-11T15:12:45Z
+34440055-bcfd-4de0-9545-282dbcec37de,way/295771691,Gold Hills Golf Course,,course,,,active,,,,,+1-309-837-2930,http://www.gold-hills.com/,,10980 East 900th Street,Colchester,IL,62326,US,40.4373477,-90.7316473,2026-10-11T15:12:08Z
+34ae44bb-a148-40e0-9dab-c5e0c864d009,way/174349402,Highland Woods Golf Course,,course,,,active,18,72,,,,https://highlandwoods.forestpreservegolf.com/,,2775 Ela Road,Hoffman Estates,IL,60192,US,42.0731873,-88.085258,2026-10-11T15:12:01Z
+34b15fbd-821e-490d-a1aa-e26e32dfd198,way/195246181,Sunset Valley Golf Course,,course,,public,active,18,72,,,+1-847-432-7140,https://sunsetvalleygolfclub.org/,,1390 Sunset Road,Highland Park,IL,60035,US,42.1758212,-87.8110693,2026-10-11T15:12:01Z
+34d0923f-98bf-4c8e-93a7-bd0949f9875e,way/1322931479,Crane's Landing Golf Club at Marriott Lincolnshire Resort,,course,,,active,18,,,,,https://www.craneslandinggolf.com/,,10 Marriott Drive,Lincolnshire,IL,60069,US,42.1929009,-87.9198533,2026-10-11T15:12:29Z
+34d09899-3a89-4a0f-aeaf-fd63adc63d06,way/295758020,Red Tail Run Golf Club,,course,,,active,18,72,,,+1-217-422-2211,https://www.decatur-parks.org/golf/red-tail-run-signature-golf-club-by-raymond-floyd/,,520 West Grove Road,Decatur,IL,62521,US,39.8056224,-88.9636991,2026-10-11T15:12:08Z
+35f46b32-7762-487b-9156-97f7c5ab14e3,way/295758015,LeRoy Golf Course,,course,,,active,,,,,+1-309-962-3421,http://www.leroycountryclub.net/,,27307 US Highway 150,Le Roy,IL,61752,US,40.3356622,-88.7390392,2026-10-11T15:12:08Z
+36184477-606d-402c-b07a-d1e4fd6a9b20,way/63038316,Oak Springs Golf Club,,course,,,active,18,72,,,,,,,,IL,,US,41.0659402,-87.736168,2026-10-11T15:11:55Z
+3701f882-979b-441c-b540-a29a1b5ccd9c,way/188462985,Sunset Ridge Country Club,,course,,,active,,,,,,https://www.sunsetridgecc.org/,,2100 Sunset Ridge Road,Northfield,IL,60093,US,42.1134988,-87.7951118,2026-10-11T15:12:01Z
+378e7ec3-4dc2-40ea-85bd-0560aed86d04,way/31928531,Cantigny Golf Youth Links,,course,,,active,9,34,,,,https://cantigny.org/,,,,IL,,US,41.8412139,-88.1485197,2026-10-11T15:11:51Z
+3810bbca-b20e-4678-8f94-70fe967b42dd,way/116786493,Macktown Golf Course,,course,,,active,18,71,,,,,,,,IL,,US,42.446609,-89.0870412,2026-10-11T15:11:57Z
+382fe439-5c84-49ff-93ba-875a6cac7196,way/169409717,Kewanee Dunes Golf Club,,course,,,active,,,,,,http://kewaneedunes.com/golf/,,,,IL,,US,41.1968787,-89.9793146,2026-10-11T15:12:01Z
+38d4bce3-9687-4e41-9aa7-91964b5f8467,way/440880371,Boughton Ridge Golf Course,,course,,,active,,,,,,,,,,IL,,US,41.711403,-88.059135,2026-10-11T15:12:15Z
+393b8ae4-3cef-4b52-a761-1b79185de137,way/617444486,Golf Academy at Terra Cotta,,course,,,active,,,,,,https://www.golfacademytc.com/,,,,IL,,US,42.2749132,-88.2987323,2026-10-11T15:12:20Z
+3bc2541c-d75f-4b1d-8424-23b102a68f2c,way/295949950,Big Run Golf Club,,course,,,active,18,72,,,+1-815-838-1057,https://www.bigrungolf.com/,,17211 West 135th Street,Lockport,IL,60441,US,41.6376644,-88.0335028,2026-10-11T15:12:10Z
+3bd03a52-f751-46a0-8b56-bd4f6f43e88f,way/272806616,Deer Park Country Club,,course,,,active,18,71,,,,,,,,IL,,US,41.3036702,-89.0257285,2026-10-11T15:12:07Z
+3c704eae-7880-4998-8111-4125d8ccae3d,way/221589585,Old Wayne Golf Course,,course,,,active,,,,,,,,3N751 Klein Road,West Chicago,IL,60185,US,41.9196245,-88.1880445,2026-10-11T15:12:03Z
+3cb41cfb-d494-4e81-8cdd-1249b44620dc,node/4631203348,Mill Creek Golf Club,,course,,,active,,,,,,,,,,IL,,US,41.8726193,-88.3854683,2026-10-11T13:29:32Z
+3d7320b7-5d4a-4a11-bde9-0eac2d00cab8,way/1057901812,Indian Mounds Golf,,course,,,active,18,59,,,,,,3500 Kingshighway,Fairmont City,IL,62201,US,38.6551604,-90.0902334,2026-10-11T15:12:24Z
+3df1d682-f851-47b3-a8c3-517f21ba9337,way/233576009,Hickory Hills Country CLub,,course,,,active,18,71,,,,,,8201 West 95th Street,Hickory Hills,IL,60457,US,41.7146934,-87.8271986,2026-10-11T15:12:03Z
+3e262893-29e0-4fa7-a12c-32fae324609c,way/1456324187,Waterloo Country Club,,course,,,active,9,,,,,,,,,IL,,US,38.3647728,-90.1478777,2026-10-11T15:12:29Z
+3eaaba5e-a652-4b62-8905-b84d98d5e2c7,way/256924468,Springbrook Golf Course,,course,,,active,,,,,,,,,,IL,,US,41.7290671,-88.1916504,2026-10-11T13:30:12Z
+3f074ded-be9e-426a-b8d1-3859702ab1fa,relation/5729259,Piper Glen Golf Course,,course,,,active,18,72,,,+1-217-483-6537,https://www.piperglen.com/,,7112 Piper Glen Drive,Chatham,IL,62711,US,39.6976058,-89.6973981,2026-10-11T15:12:36Z
+3f125435-c2d5-4d2f-84d5-03ee0e7aabed,relation/4087051,Antioch Golf Club,,course,,,active,18,71,,,+1 847-395-3004,https://antiochgolfclub.com/,,40150 North Route 59,Antioch,IL,60002,US,42.4444091,-88.1190507,2026-10-11T15:12:35Z
+3f65d7aa-47a8-48af-b52d-d0e2221fd61b,relation/3937286,RedTail Golf Club,,course,,,active,18,72,,,+1 815-477-0055,https://www.redtailgolf.com/,,7900 RedTail Drive,Village of Lakewood,IL,60014,US,42.2099422,-88.3825837,2026-10-11T15:12:35Z
+3fb4c5fb-8d6e-4e70-81cd-261c7dea0b17,way/1012138117,Palisades Golf Course,,course,,,active,,,,,,,,,Savanna,IL,,US,42.1674186,-90.2025496,2026-10-11T15:06:36Z
+3fcaecb2-1ff9-4b8a-bbd6-53b80f4df38c,way/109757153,Bryn Mawr Country Club,,course,,,active,,,,,,https://www.brynmawrcountryclub.com/,,6600 Crawford Avenue,Lincolnwood,IL,60712,US,42.0008943,-87.7337641,2026-10-11T15:11:57Z
+3ff644ef-7d0f-4b96-ac6e-f5acdbac2617,relation/4423818,Arsenal Island Golf Course,,course,,,active,,,,,+1 309-793-1601,http://www.arsenalislandgolf.com/,,1838 Gillespie Street,Rock Island,IL,61201,US,41.5194661,-90.5337969,2026-10-11T15:12:36Z
+401f0d42-c843-4fc3-a1cf-764628aba1b1,way/688874802,Fulton Country Club,,course,,,active,9,,,,,https://www.fultonccgolf.com/,,,,IL,,US,41.8848616,-90.1413095,2026-10-11T15:12:21Z
+4055286a-125b-4922-8383-43758f487015,way/175667463,George W. Dunne National Golf Course,,course,,,active,18,72,,,+1-708-429-6886,https://georgedunne.forestpreservegolf.com/,,16310 South Central Avenue,Oak Forest,IL,60452,US,41.5973048,-87.7647148,2026-10-11T15:06:14Z
+407921b4-e36b-44d0-a9d2-aabfa0cffa54,way/295758016,Lincoln Greens Golf Course,,course,,,active,18,72,,,+1-217-786-4111,https://www.springfieldparkdistrictgolf.org/lincoln_greens_golf_course/,,700 East Lake Drive,Springfield,IL,62712,US,39.7476252,-89.5921378,2026-10-11T15:12:08Z
+40cf7f28-b27c-4867-a96f-c89d1ff4c251,way/560125831,,,course,,,active,,,,,,,,,,IL,,US,40.5468042,-90.4969151,2026-10-11T15:12:18Z
+414268a5-aea5-40a7-887a-96be0731d645,way/273307501,Willow Pond Golf Course,,course,,,active,18,72,,,+1-217-893-9000,https://willowpondgolf.com/,,808 Golf Course Road,Rantoul,IL,61866,US,40.2985818,-88.1340752,2026-10-11T15:12:07Z
+41a630b5-fde6-48ac-b645-ac3568c226ac,way/197099935,Streamwood Oaks Golf Club,,course,,,active,,,,,+1-630-483-1881,https://www.streamwoodoaksgolf.com/,,565 Madison Drive,Streamwood,IL,60107,US,42.0246425,-88.1893991,2026-10-11T15:12:03Z
+41d58f33-ce05-4f70-bcad-353e6d45b60c,way/193058684,Hickory Creek Golf Course,,course,,,active,,,,,,,,,,IL,,US,41.5189864,-87.8072378,2026-10-11T15:12:01Z
+41f75a0d-278e-43ec-86a5-a90e4ea06392,way/295902642,North Course,,course,,,active,,57,,,,https://www.eagleridge.com/golf/,,,,IL,,US,42.3979478,-90.3340222,2026-10-11T15:12:10Z
+42887d44-5196-41c4-99a2-dc5f78ccaea2,way/24722164,Wilmette Golf Club,,course,,,active,18,,,,,,,3900 Fairway Drive,Wilmette,IL,60091,US,42.0834375,-87.7715266,2026-10-11T13:29:34Z
+43360b1d-2b81-4698-aca9-9a43c8101819,way/187782527,Olympia Fields Country Club,,course,,,active,,,,,,https://www.ofcc.org/,,2800 Country Club Drive,Olympia Fields,IL,60461,US,41.5180485,-87.6859027,2026-10-11T15:12:01Z
+44000359-d223-44e8-9fcb-6f1d8202a647,way/193198694,Deer Creek Golf Course,,course,,,active,18,,,,+1-708-672-6667,https://www.deercreekgolfcourse.com/,,25055 South Western Avenue,University Park,IL,60484,US,41.4354631,-87.6661098,2026-10-11T15:06:14Z
+44c7186f-28be-4f32-8474-2e4db36841cc,way/296074147,Biltmore Country Club,,course,,,active,,,,,+1-847-381-1960,https://www.biltmore-cc.com/,,160 Biltmore Drive,North Barrington,IL,60010,US,42.2028708,-88.1391064,2026-10-11T13:30:27Z
+44cafee8-2a94-4610-ae87-f39248e9c06b,way/205961674,Richland Golf Club,,course,,,active,18,,,,,,,,,IL,,US,38.7705535,-88.0992169,2026-10-11T15:12:03Z
+44cd2da3-745f-48f3-a4d8-8955ff00270c,way/474204218,Indian Springs Golf Club,,course,,,active,9,,,,+1-309-475-4111,,,36846 Comanche Drive,Saybrook,IL,61770,US,40.4347944,-88.5617534,2026-10-11T15:12:17Z
+44d686a4-d0de-4f5c-8d66-8491dd31cc68,way/272591387,Nettle Creek Country Club,,course,,,active,,27,,,,,,,,IL,,US,41.3577753,-88.4877919,2026-10-11T15:12:07Z
+44e423ec-427e-4d14-ace5-9be5951766ab,way/363611164,Arrowhead Heights Golf Course,,course,,,active,,,,,+1 217 593 6619,https://arrowheadheights.com/,,1403 South Main Street,Camp Point,IL,62320,US,40.0299092,-91.0721044,2026-10-11T15:12:14Z
+44edcf06-e9b3-4f25-aeef-c34133cfa325,way/296130351,Conway Farms Golf Club,,course,,,active,,15,,,+1-847-234-6979,http://www.conwayfarmsgolfclub.org/,,425 South Conway Farms Drive,Lake Forest,IL,60045,US,42.2299134,-87.88909,2026-10-11T13:30:27Z
+4502b445-c31e-475d-820a-f3530558e89a,way/293233527,Pasfield Golf Course,,course,,,active,9,,,,+1-217-698-6049,https://www.springfieldparkdistrictgolf.org/pasfield_golf_course/,,1700 West Lawrence Avenue,Springfield,IL,62704,US,39.7922915,-89.6839135,2026-10-11T15:06:19Z
+45a0bd91-2fdf-4009-885f-2b6eb37bd236,relation/15342412,Ivanhoe Club,,course,,,active,18,72,,,,,,,,IL,,US,42.2812287,-88.0602971,2026-10-11T15:12:43Z
+4695523e-8008-4c30-8976-494fa5599106,way/113046612,Briarwood Country Club,,course,,,active,,,,,,,,355 Deerfield Road,Deerfield,IL,60015,US,42.1617616,-87.83815,2026-10-11T15:11:57Z
+46fdd623-91c6-470c-9321-dc60d48917f1,way/35147482,Lake Park Golf Course,,course,,,active,18,56,,,,https://www.dpparks.org/lake-park-golf-course-and-marina/,,1015 Howard Avenue,Des Plaines,IL,60018,US,42.0126889,-87.8979387,2026-10-11T15:11:51Z
+47501a55-5156-4e28-98e8-5e4151922005,way/296074173,Steeple Chase Golf Club,,course,,,active,18,72,,,+1-847-949-8900,https://mundeleinparks.org/golf/steeple-chase-golf-club.asp,,200 North La Vista,Mundelein,IL,60060,US,42.2626035,-88.0554272,2026-10-11T15:12:10Z
+47993f03-0fbf-49b0-b58e-f04e665c23b5,way/295902624,Edgewood Golf Club (Closed),,course,,,active,,,,,+1-815-946-3636,http://clubedgewood.com/,,10684 West Edgewood Road,Polo,IL,61064,US,41.9344548,-89.5397783,2026-10-11T15:12:10Z
+47f0d15e-9003-43b8-8d05-f7a4cddf1971,way/385944126,Deer Run Golf Course,,course,,,active,18,72,,,+1 217 847 3623,http://deerrunhamilton.com/,,1 Deer Run Drive,Hamilton,IL,62341,US,40.4075217,-91.3381812,2026-10-11T15:12:14Z
+48cfaf07-94b7-46dd-a04f-66145249c250,way/295949955,Silver Oaks Golf Club,,course,,,active,9,36,,,+1-815-458-2068,,,,Braidwood,IL,,US,41.2772667,-88.1923589,2026-10-11T15:12:10Z
+49431356-3232-425b-97eb-95f86adf8bda,way/221569156,Western Acres Golf Course,,course,,,active,,,,,,,,,,IL,,US,41.8353319,-88.0483084,2026-10-11T15:12:03Z
+498b6081-82fa-4925-a344-0482ea108a83,way/549998168,,,course,,,active,,,,,,,,,,IL,,US,40.1131156,-90.5812243,2026-10-11T15:12:18Z
+4a27ea87-c523-411c-b216-336597124eb9,way/602311377,Twin Orchards Country Club,,course,,,active,,,,,,,,22353 Old McHenry Rd,Long Grove,IL,,US,42.1863363,-87.9991325,2026-10-11T13:30:54Z
+4aa071f3-e436-407e-8a80-8607a6e71bfa,way/176739766,Burnham Woods Golf Course,,course,,,active,,,,,,https://burnhamwoods.forestpreservegolf.com/,,14201 South Burnham Avenue,Burnham,IL,60633,US,41.6361708,-87.5328539,2026-10-11T15:12:01Z
+4ac8fea2-2e05-482c-ac7c-b60b82f93ceb,relation/15344104,Villa Olivia Country Club,,course,,,active,18,73,,,,,,,,IL,,US,42.0091633,-88.2231006,2026-10-11T15:12:43Z
+4b3e2437-eb92-45d9-b5e0-5ced2e779069,way/660878943,Walnut Greens Golf Course,,course,,,active,,,,,+1-847-490-7878,https://www.walnutgreensgolf.com/,,1150 North Walnut Lane,Schaumburg,IL,60169,US,42.0452514,-88.1293785,2026-10-11T13:30:54Z
+4b60d62a-029e-4a55-b8f8-171a15f8971d,way/377411373,Stonewall Orchard Golf Club,,course,,,active,18,72,,,,,,25675 W IL Highway 60,Grayslake,IL,60030,US,42.3120594,-88.1278594,2026-10-11T15:06:26Z
+4b865da4-6e7c-455a-8480-e083a0a7adbf,way/60847194,Kaufman Golf Course,,course,,,active,,,,,,,,,,IL,,US,40.7165664,-89.2846071,2026-10-11T15:11:55Z
+4bcd9d6d-8e73-499f-b254-bd322f83d814,way/776577422,Chicago Golf Association,,course,,,active,,,,,,,,,,IL,,US,41.6730957,-87.9480593,2026-10-11T13:30:58Z
+4c335574-8ba7-4e0e-a8b2-f9f49507ec75,relation/4087152,Bittersweet Golf Club,,course,,,active,18,72,,,+1 847-855-9031,https://www.bittersweetgolf.com/,,875 Almond Road,Gurnee,IL,60031,US,42.3722828,-87.9824411,2026-10-11T13:31:27Z
+4caa4bb2-efd7-4db6-8ff9-4e296aa32294,way/462925268,Plum Tree Country Club,,course,,,active,,,,,,,,,,IL,,US,42.3656666,-88.5722419,2026-10-11T15:12:17Z
+4cb0805a-2262-4815-9d0a-c74e6f48f5e4,way/39993357,Glen Flora Country Club,,course,,,active,18,70,,,+1-847-244-6300,https://www.glenfloracc.com/,,2200 North Sheridan Road,Waukegan,IL,60087,US,42.393966,-87.8352896,2026-10-11T15:11:51Z
+4cd08407-989c-4d93-b4f4-cd0eaae11e7f,way/178231913,Heritage Oaks Golf Club,,course,,,active,,35,,,+1-847-291-2351,https://www.heritageoaksgc.com/,,3535 Dundee Road,Northbrook,IL,60062,US,42.1329256,-87.8657472,2026-10-11T15:12:01Z
+4df31ec0-545e-4648-bb10-30d93919da16,way/1307854333,Oakton Driving Range,,practice,,,active,,,,,,https://www.prparks.org/facilities/oakton-driving-range,,,,IL,,US,42.0260167,-87.8627685,2026-10-11T15:12:29Z
+4df5dbe4-92e3-42c7-933b-70e3bcc6a063,way/273347283,Short Hills Country Club,,course,,,active,18,72,,,,,,,,IL,,US,41.5068117,-90.4358212,2026-10-11T15:12:07Z
+4e082b4c-a80e-42b2-90a4-19ebefbe9514,way/120904210,Hinsdale Golf Club,,course,,,active,,,,,,https://www.hinsdalegolfclub.org/,,,,IL,,US,41.8067224,-87.9563003,2026-10-11T15:11:57Z
+4e1e200e-e2f8-401f-9418-68caa3a005ae,way/620985314,Kishwaukee Country Club,,course,,,active,,62,,,,,,,,IL,,US,41.9563166,-88.7334872,2026-10-11T15:12:20Z
+4e38fa3b-916f-4cd6-919f-f56da9499959,way/307080516,Barrington Hills Country Club,,course,,,active,,68,,,,,,,,IL,,US,42.1615867,-88.1672921,2026-10-11T15:12:12Z
+4f2e9d8d-2024-41e0-a0e5-2f80225fd751,way/845519170,Saline County Golf Club,,course,,,active,18,,,,,,,355 Golf Course Rd,Eldorado,IL,62930,US,37.8266491,-88.4890285,2026-10-11T15:12:23Z
+4f60e33a-2d16-43d6-804c-96aaf16e8182,way/23131167,Itasca Country Club,,course,,,active,18,72,,,,,,,,IL,,US,41.9740344,-88.0050777,2026-10-11T15:05:59Z
+4f7138c1-fcc6-4487-8d44-88eba060dbfb,way/306280646,Leisure Village Par 3,,par3,,,active,,,,,,,,,,IL,,US,42.4323586,-88.1899711,2026-10-11T15:12:12Z
+4f7e0ce5-0b6e-42d6-96bf-d95361163fcb,way/832949088,,,course,,,active,,,,,,,,,,IL,,US,38.7277895,-87.7242763,2026-10-11T15:12:23Z
+4fcb8cce-bcaf-40e7-ae00-0050871d7a75,way/189811643,Cress Creek Country Club,,course,,,active,,,,,,,,,,IL,,US,41.7893548,-88.1663793,2026-10-11T15:12:01Z
+5205bd49-f62f-4417-abd4-7e62263b09b9,way/901068767,Kemper Lakes Golf Club,,course,,,active,18,72,,,,https://www.kemperlakesgolf.com/,,,,IL,,US,42.2061487,-88.0392439,2026-10-11T13:31:02Z
+531a4a67-54f2-4cf4-ab97-2c6c0ba838e7,way/190967170,Shoreacres,,course,,,active,18,70,,,+1-847-234-1470,https://www.shoreacres1916.com/,,1601 Shore Acres Drive,Lake Bluff,IL,60044,US,42.2995105,-87.8396939,2026-10-11T15:12:01Z
+531cb19a-2401-4c50-b50d-6fd17d5751dc,way/686948817,Butterfield Country Club,,course,,,active,,11,,,+1-630-323-1000,https://www.butterfieldcc.org/,,2800 Midwest rd,Oak Brook,IL,60523,US,41.8366909,-87.9769304,2026-10-11T15:12:21Z
+53622681-6254-4b86-8c16-e4fca70647c4,way/295678313,Belk Park Golf Course,,course,,,active,18,72,,,+1-618-251-3115,https://www.belkpark.com/,,800 Bell Park Road,Wood River,IL,62095,US,38.8700713,-90.0476184,2026-10-11T13:30:20Z
+5448aedf-3820-4e37-8777-e4133838b7c5,way/548041806,Harrison Park Golf Course,,course,,,active,,,,,+1 217 431 2266,https://www.harrisonparkgolfcourse.com/,,1300 West Voorhees,Danville,IL,61832,US,40.14744,-87.6549653,2026-10-11T15:12:18Z
+54a75f2a-97b2-4db8-a11a-5679584b190e,relation/15578492,Eagle Ridge Golf Course,,course,,,active,,,,,+1 217 463 3434,https://www.eagleridgeparis.com/,,928 Clinton Avenue,Paris,IL,61944,US,39.6159315,-87.6649793,2026-10-11T13:31:48Z
+54b45d1c-59c4-4285-ad91-bea7d9c383d2,node/13510825506,Prairie Landing Golf Club Practice Facility,,practice,,,active,,,,,,https://www.prairielanding.com/golf-instruction/,,,,IL,,US,41.8871645,-88.2522832,2026-10-11T15:05:59Z
+555f94ec-7ed2-4793-99f7-0bdbb834097f,way/1344551315,,,course,,,active,18,70,,,,,,,,IL,,US,38.3821136,-88.9905749,2026-10-11T15:12:29Z
+561e08d1-9e41-4212-a22a-c9a5a0256be3,way/188455319,Glenview Park Golf Club,,course,,,active,18,70,,,,https://www.golfglenview.com/glenview-park-golf-club/,,800 Shermer Road,Glenview,IL,60025,US,42.0693891,-87.8243262,2026-10-11T13:30:03Z
+562ad0e4-6bac-4d5d-98ad-b6d2543a268c,way/231037058,,,course,,private,active,,,,,,,,,,IL,,US,41.9779034,-87.6523871,2026-10-11T15:12:03Z
+56491e52-42c1-4103-8852-be06b4965dd7,way/70321693,Sinnissippi Golf Course,,course,,,active,,28,,,,,,2003 Arlington Avenue,Rockford,IL,61107,US,42.2813666,-89.0602882,2026-10-11T15:11:55Z
+566952c0-502f-45b8-b595-9c94579dfd7e,way/187781330,Chicago Heights Park District Golf Course East,,course,,,active,,,,,,,,315 Glenwood Road,Chicago Heights,IL,60411,US,41.5252375,-87.6305954,2026-10-11T15:12:01Z
+5692e86d-f5d8-429b-8701-86074fca3031,node/11674093987,,,course,,,active,,,,,,,,,,IL,,US,42.0175291,-88.0459017,2026-10-11T13:29:32Z
+56f933e1-9dc0-40c4-a82d-85a1e8cfa576,way/768645108,The Woodlands Golf Club,,course,,,active,,,,,+1-618-462-1456,https://thewoodlandsgolfclub.com/,,2839 Harris Lane,Alton,IL,62002,US,38.933886,-90.1327764,2026-10-11T15:12:21Z
+578576b6-8ceb-43d1-84d4-091e011e0909,way/295758027,Timber Lake Golf Course,,course,,,active,,,,,,https://timberlakegolfcourse.com/,,957 County Road 700 East,Sullivan,IL,61951,US,39.5455238,-88.6767355,2026-10-11T13:30:20Z
+585f8ec0-4efe-4ae3-ae17-6d60e240dc87,way/296130390,Studio59 Golf - Libertyville Golf Course,,course,,,active,,,,,+1-847-362-5733,http://www.libertyvillefootgolf.com/,,870 Country Club Drive,Libertyville,IL,60048,US,42.2694436,-87.9396321,2026-10-11T15:12:10Z
+58f200bf-6527-4c10-9448-ddfb46baf54c,way/295678324,Rolling Hills Golf Course,,course,,,active,18,71,,,+1-877-610-1416,https://www.rollinghillsgc.com/,,5801 Pierce Lane,Godfrey,IL,62035,US,38.9503931,-90.2131201,2026-10-11T15:12:08Z
+59422fa1-e325-446e-8bb5-e83bac7b2866,relation/5616564,Eaglebrook Country Club,,course,,,active,18,71,,,,,,,,IL,,US,41.8725191,-88.3324679,2026-10-11T15:12:36Z
+59c5eac8-8944-48e2-906b-7fb4da44bcf8,way/759870279,,,course,,,active,,,,,,,,,,IL,,US,37.7545778,-88.9610459,2026-10-11T15:12:21Z
+5a1c6692-e669-4f19-93a1-c5546fc81fbb,way/295678329,Wolves Crossing Golf Course,,course,,,active,,,,,+1-618-498-3178,https://golfhgm.com/wolves-crossing/,,23745 North Centennial Road,Jerseyville,IL,62052,US,39.1268747,-90.3632759,2026-10-11T15:12:08Z
+5a357be0-f5e0-4d56-9d2b-5dce65504f0b,way/29425001,St. Clair Country Club,,course,,,active,18,,,,,,,,,IL,,US,38.5605422,-90.0534912,2026-10-11T15:11:49Z
+5a3d04ce-8f26-48e2-97ac-258d63fddb40,way/1273970888,,,course,,,active,,,,,,,,,,IL,,US,40.0762816,-87.7633069,2026-10-11T15:12:28Z
+5a7d017f-4aa2-4082-b8b0-36f6a9cc38de,node/5434115209,Tee Time,,course,,,active,,,,,,,,,,IL,,US,41.7873862,-88.078279,2026-10-11T13:29:32Z
+5b20d5da-1566-403c-9918-94e30ba8ee20,relation/3246702,Stonebridge Country Club,,course,,,active,18,72,,,,https://www.stonebridge-cc.org/,,,,IL,,US,41.7834127,-88.2520934,2026-10-11T13:31:22Z
+5b891600-d1c5-43b5-89d4-6f7ca54b6d6c,relation/15353142,,,course,,,active,,,,,,,,,,IL,,US,42.2472512,-88.230013,2026-10-11T15:12:43Z
+5ba08123-2021-4808-8865-574c455fb1f6,way/93725707,Wing Park Golf Course,,course,,,active,9,36,,,+1-847-931-5952,https://wingparkgolf.com/,,1000 Wing Street,Elgin,IL,60123,US,42.0500158,-88.3008192,2026-10-11T15:11:55Z
+5bb79485-bc9f-4ea7-a7fd-8e4d5b3c53b9,way/31910491,Arrowhead Golf Course,,course,,,active,,,,,,,,,,IL,,US,41.8242843,-88.133548,2026-10-11T15:11:51Z
+5c3cdad7-9520-412c-b934-35a39ee3dda9,way/62970558,Blackberry Oaks Golf Course,,course,,,active,18,72,,,,,,,,IL,,US,41.6861387,-88.4131984,2026-10-11T13:29:49Z
+5d8c3b00-eae5-4ccc-83a0-1c06b289711c,way/340615669,Timber Lake Club,,course,,,active,,,,,+1-309-674-2171,https://www.timberlakeclub.com/,,5501 West Farmington Road,Peoria,IL,61604,US,40.7065213,-89.6829037,2026-10-11T15:12:14Z
+5dafe41f-8041-47b1-bfdd-b199b12476f7,way/508829982,Jefferson Barracks Golf Tee,,course,,,active,,,,,,,,,,IL,,US,38.4731017,-90.236947,2026-10-11T15:12:18Z
+5de21d18-959d-4f93-9955-781b8f6d8d3c,relation/12738143,Winnetka Golf Club,,course,,,active,,36,,,,,,1300 Oak Street,Winnetka,IL,60093,US,42.1080594,-87.7571236,2026-10-11T15:12:41Z
+5e1c3e04-1058-433f-912a-66875815ad36,relation/15713274,Wynstone Golf Club,,course,,,active,18,72,,,+1-847-304-2800,https://www.wynstone.org/,,1 South Wynstone Drive,North Barrington,IL,60010,US,42.222684,-88.1228924,2026-10-11T15:12:43Z
+5ed63817-20d0-469a-a461-7c709951b2eb,way/479964177,Cedardell Golf Club,,course,,,active,9,,,,+1-630-552-3242,https://www.cedardellgolf.com/,,,,IL,,US,41.650377,-88.5305132,2026-10-11T15:12:17Z
+5f264a08-c1e7-4ba9-8061-f6e60a249bef,way/188163012,Village Links of Glen Ellyn,,course,,,active,,36,,,+1 630-469-8180,https://villagelinksgolf.com/,,485 Winchell Way,Glen Ellyn,IL,60137,US,41.8532735,-88.0696827,2026-10-11T15:12:01Z
+60e9324f-c2c9-4b6a-80ef-32f030b7f91f,way/31824083,Onwentsia Club,,course,,,active,18,71,,,,http://www.onwentsiaclub.com/,,300 North Green Bay Road,Lake Forest,IL,60045,US,42.2425673,-87.8491384,2026-10-11T15:11:51Z
+6311ddff-e4da-44b7-b2bf-f27288da2d65,way/1378244689,Shagbark Golf & Country Club,,course,,,active,9,,,,+1-815-268-7308,https://www.shagbarkgolfcc.com/,,1262 North 640 East Road,Onarga,IL,60955,US,40.6854473,-87.9999983,2026-10-11T15:12:29Z
+635cbcc8-257f-406c-bbb6-51097c46d860,way/695500616,Makray Memorial Golf Club,,course,,,active,18,71,,,,,,1010 South Northwest Highway,Barrington,IL,60010,US,42.1421944,-88.1081126,2026-10-11T15:12:21Z
+63bb7a2c-b6a1-4428-9dc1-404392dffca0,relation/3086062,,,course,,,active,,,,,,,,,,IL,,US,40.9554607,-90.327849,2026-10-11T13:31:22Z
+64699382-120d-470e-b09f-abf61b643940,relation/1941143,Atkins Golf Club at the University of Illinois,,course,,,active,18,73,,,,https://fightingillini.com/facilities/atkins-golf-club/39,,2600 South Stone Creek Boulevard,Urbana,IL,61802,US,40.0906791,-88.1718918,2026-10-11T15:12:30Z
+656d5348-f49a-4197-a7b7-dea826c903c8,way/38294691,Rolling Green Country Club,,course,,,active,18,72,,,+1-847-253-0400,https://rollinggreen.org/,,2525 East Rand Road,Arlington Heights,IL,60004,US,42.0917735,-87.9521947,2026-10-11T15:11:51Z
+65d5aaad-d706-48ab-a2b4-6e082276889c,relation/16843229,Shiloh Park Golf Course,,course,,,active,9,,,,,,,2300 Bethesda Boulevard,Zion,IL,60099,US,42.4509078,-87.8365986,2026-10-11T15:12:43Z
+65de647a-85b0-4f20-87f0-0cccfaa69687,way/776803168,Bloomingdale Golf Club,,course,,,active,,,,,,,,,,IL,,US,41.9510868,-88.0581911,2026-10-11T15:12:21Z
+661b9cb3-a8fa-4dfe-b4c5-49df18e18ed7,way/1171742427,,,course,,,active,,,,,,,,,,IL,,US,40.1735755,-87.6522097,2026-10-11T15:12:27Z
+66436318-9797-4c2b-9ff0-cd77a423052e,way/221672433,Palos Hills Golf Club,,course,,,active,,,,,,,,,,IL,,US,41.6985098,-87.8034148,2026-10-11T13:30:07Z
+6724c9ad-6cea-4f9c-9e19-be2c5789ef82,way/875281067,Crane Creek Golf Course,,course,,,active,,68,,,,,,,,IL,,US,40.1650795,-89.9071703,2026-10-11T15:12:23Z
+67a4540a-c15f-486d-9147-d539872e7bea,way/603136880,The Grove Country Club,,course,,,active,18,72,,,,,,,,IL,,US,42.1676545,-88.0050325,2026-10-11T13:30:54Z
+67f33962-85f8-42a0-bcd6-bd12d716ec89,way/547961095,Pana Country Club,,course,,private,active,,,,,+1-217-562-2641,http://www.panacountryclub.com/,,411 East 9th Street,Pana,IL,62557,US,39.3777183,-89.0746754,2026-10-11T15:12:18Z
+68091f71-10b5-4ddd-8ea7-b65f2ff55898,way/39571229,Kellogg Golf Course,,course,,,active,18,72,,,+1 309-691-0293,https://www.ppdgolf.org/kellogg/,,7716 North Radnor Road,Peoria,IL,61615,US,40.781859,-89.6455176,2026-10-11T15:11:51Z
+684b67f8-548e-4aac-9cff-c732e4ef1907,way/97836738,Elgin Country Club,,course,,,active,18,71,,,,,,,,IL,,US,42.0284796,-88.3486179,2026-10-11T15:11:55Z
+68ad0891-39d4-47d5-b1ab-b6c95ebbcf7d,way/295902644,Pine Hills Golf Club,,course,,,active,9,35,,,+1-815-434-3985,https://www.ottawapinehillsgolfclub.com/,,1665 North 2501 Road,McNabb,IL,61350,US,41.3017165,-88.8454216,2026-10-11T15:12:10Z
+68b2055b-03bb-41aa-8c5a-bedffdeaed3d,way/849088587,,,course,,,active,18,71,,,,,,,,IL,,US,38.3289236,-88.8378821,2026-10-11T15:06:35Z
+68cb263e-a59a-4d1f-b7c3-534f6caf17a9,way/1385118122,Fox Bend Golf Course,,course,,,active,18,72,,,,,,,,IL,,US,41.6928829,-88.3275411,2026-10-11T15:06:40Z
+69649944-3e8e-4254-bf0c-367a30b5c1d7,node/13319745389,Apple Creek Golf Course,,course,,,active,,,,,,,,,,IL,,US,37.6307811,-89.2246094,2026-10-11T13:29:32Z
+69ddd87f-499e-4ce5-b9e6-c91ced4f0d67,relation/9192305,Edgebrook Country Club,,course,,,active,18,72,,,,,,,,IL,,US,41.6491809,-88.6486116,2026-10-11T15:12:38Z
+69f0ffe2-6cc8-40f0-a3a5-08cdc8bb5389,way/884223870,Country Hills Golf Course,,course,,,active,18,72,,,,,,,,IL,,US,40.073308,-89.8102212,2026-10-11T13:31:02Z
+6a3c821a-2379-4c80-a217-d1de0e8aa54c,way/44660498,Mistwood Golf Course,,course,,,active,18,72,,,+1-815-254-3333,https://mistwoodgc.com/,,1700 W. Renwick Rd,Romeoville,IL,60446,US,41.5984613,-88.1451361,2026-10-11T15:11:53Z
+6acdf100-8a82-4230-b34d-85ec4f71211a,way/64968061,Minne Monesse Golf Club,,course,,,active,,,,,,,,15944 E. Six Mile Grove Road,Grant Park,IL,60940,US,41.2200394,-87.5731227,2026-10-11T15:11:55Z
+6b12a632-1b9c-4b2c-ae9a-b416c5fbfbce,way/295902636,Lacoma Golf Course,,course,,,active,,35,,,+1-815-747-3874,https://www.lacomagolf.com/,,8080 Timmerman Drive,East Dubuque,IL,61025,US,42.4853986,-90.6245436,2026-10-11T15:06:23Z
+6b1e48eb-ec40-43b2-8155-635f155b7ffe,way/272591389,Nettle Creek Country Club,,course,,,active,,17,,,,,,,,IL,,US,41.3600932,-88.4836361,2026-10-11T15:12:07Z
+6b4455ec-4d70-4482-84c7-44a351fc7939,way/195246184,Northmoor Country Club,,course,,,active,9,,,,,https://www.northmoor.org/,,820 Edgewood Road,Highland Park,IL,60035,US,42.1606249,-87.7941361,2026-10-11T15:12:01Z
+6b7b51ed-a83a-4c12-9305-2fa4c97e4b57,way/24722150,North Shore Country Club,,course,,,active,18,72,,,,,,1340 Glenview Road,Glenview,IL,60025,US,42.0754527,-87.7884004,2026-10-11T15:11:49Z
+6d636c36-0e50-4e1a-85e4-8d66e3263e21,way/52010101,Cog Hill Golf & Country Club,,course,,,active,,,,,,,,,,IL,,US,41.676468,-87.95201,2026-10-11T13:29:44Z
+6dfb0563-695c-41eb-8d15-532596686561,way/1508616028,,,course,,,active,,,,,,,,,,IL,,US,42.3108952,-89.2937034,2026-10-11T15:12:29Z
+6e6c6610-b656-4f46-83c8-e961ed9edabe,way/502798756,Charleston Country Club,,course,,,active,,,,,,,,,,IL,,US,39.5001998,-88.2366194,2026-10-11T15:12:18Z
+7093344d-f17d-427d-8306-7a066830e4dd,way/546936343,Mount Carmel Municipal Golf Course,,course,,,active,18,72,,,+1 618 262 5771,http://www.mtcarmelgolfcourse.com/,,700 Park Road,Mount Carmel,IL,62863,US,38.4381589,-87.7815315,2026-10-11T15:12:18Z
+709e17fd-7805-49ac-b7d4-fb9bb1eea57e,way/588223418,Lockport Hole 2,,course,,,active,,,,,,,,,,IL,,US,41.5841267,-88.0302019,2026-10-11T15:12:20Z
+71c738c9-a34a-4186-a3b6-598b782676ca,relation/14030135,Glencoe Golf Club,,course,,,active,,,,,,https://glencoegolfclub.com/,,621 Westley Road,Glencoe,IL,60022,US,42.1442673,-87.7789481,2026-10-11T15:12:41Z
+7216d2a9-5afa-4b67-be87-449f4f391d90,way/940070180,,,course,,,active,,15,,,,,,,,IL,,US,38.0733147,-88.927704,2026-10-11T15:12:23Z
+725b6c84-0314-4a68-9da1-bfbe4a2f36e7,way/295678327,Union County Country Club,,course,,,active,18,71,,,+1-618-833-7912,https://www.ucccgolf.com/,,430 East Jefferson Street,Anna,IL,62906,US,37.4484233,-89.23926,2026-10-11T15:12:08Z
+72b6e0e4-bd1f-456f-989a-df3fc5ce6f29,way/1417235195,,,course,,,active,,,,,,,,,,IL,,US,38.5387864,-90.0897993,2026-10-11T15:12:29Z
+73102890-6f32-4ede-8006-2ba4681a32c6,relation/19892751,Swansea Clinton Hills Conservation Park,,course,,,active,,,,,,,,,,IL,,US,38.5506372,-89.9603455,2026-10-11T15:06:54Z
+731e734f-874c-464e-b294-e2648d559144,way/143787638,Royal Fox Country Club,,course,,,active,,,,,,,,,,IL,,US,41.9473638,-88.2684003,2026-10-11T13:29:58Z
+73248c75-0054-4c70-ac70-87a7902317bf,way/444268204,,,course,,,active,18,72,,,,,,,,IL,,US,42.3097529,-88.8286782,2026-10-11T15:12:15Z
+732d5d4c-a165-4ce0-8fe7-a8c42dc39b16,way/62388422,Shamrock Golf Course,,course,,,active,18,60,,,+1-815-937-9355,https://golfshamrock.com/,,,,IL,,US,41.12183,-87.7447542,2026-10-11T15:11:55Z
+73493d66-7765-4986-b215-ce6457080977,node/5721587708,The Grove Country Club,,course,,,active,,,,,,,,,,IL,,US,42.1726793,-88.0054128,2026-10-11T13:29:32Z
+73d2f90e-1e9f-4cd0-b134-7d35a6e33987,way/669533895,Dayton Ridge Golf Club,,course,,,active,,,,,,,,,,IL,,US,41.3802017,-88.8125029,2026-10-11T15:12:20Z
+73fe6243-a751-4a40-aca5-251de153164d,way/188430959,Inverness Golf Club,,course,,,active,18,,,,,,,,,IL,,US,42.115938,-88.0819338,2026-10-11T15:12:01Z
+741c775e-14bc-4f66-b456-73056370460a,way/186287241,Chicago Highlands Club,,course,,,active,,67,,,,,,2 Bluebird Trail,Westchester,IL,60154,US,41.8405384,-87.9139869,2026-10-11T13:30:03Z
+743a2841-c6bd-49d0-8c25-b9b1b056a8e6,relation/20163575,Lincolnshire Fields Country Club,,course,,,active,18,72,,,,https://www.lincolnshirefieldscc.com/,,2000 Byrnebruk Drive,Champaign,IL,61822,US,40.0901541,-88.3048545,2026-10-11T15:12:45Z
+74c52159-2252-41f3-9fb7-15b4b2e0afb5,relation/3938645,Old Orchard Country Club,,course,,,active,18,70,,,+1-847-255-2025,https://www.oldorchardcc.com/,,700 West Rand Road,Mount Prospect,IL,60056,US,42.0918767,-87.9418244,2026-10-11T15:12:35Z
+751afde1-d41c-4f04-93dc-b043f5ef4c3a,way/1310773467,Indian Boundary Golf Course,,course,,,active,18,,,,,https://indianboundary.forestpreservegolf.com/,,8600 West Forest Preserve Drive,Chicago,IL,60634,US,41.9410976,-87.8441662,2026-10-11T15:12:29Z
+755735bd-d5b8-4c41-80b1-13c7578c3d3c,way/159464665,Lick Creek Golf Course,,course,,,active,18,,,,,,,2210 North Parkway Drive,Pekin,IL,61554,US,40.5881368,-89.6122968,2026-10-11T15:12:01Z
+764b1426-4008-4023-b24e-c653f5cbb137,way/295758023,South Side Country Club,,course,,,active,,,,,+1-217-423-7789,https://www.southsidecountryclub.com/,,1650 Cottage Drive,Decatur,IL,62521,US,39.8039929,-88.9898801,2026-10-11T15:12:08Z
+765ee95e-7d1a-4b9a-a654-667b0d11956f,way/998281962,Country View Golf Course,,course,,,active,,32,,,,,,,,IL,,US,41.4872658,-90.2721758,2026-10-11T13:31:06Z
+7678be7a-0b12-474b-a974-43d110a9ab61,way/1159917169,,,course,,,active,,,,,,,,,,IL,,US,40.3988649,-87.689389,2026-10-11T13:31:09Z
+76999b22-2aa9-468d-98d2-b334a3f3cdbb,way/39875542,Country Club of Peoria Golf Course,,course,,,active,18,72,,,,https://ccofpeoria.org/golf/,,,,IL,,US,40.7396434,-89.5617709,2026-10-11T15:11:51Z
+76f30ba9-1881-48a7-b924-1bbde6fb3816,way/122096013,Chicago Heights Park District Golf Course West,,course,,,active,,,,,,,,1112 Scott Avenue,Chicago Heights,IL,60411,US,41.5132876,-87.6591987,2026-10-11T15:06:10Z
+770d9f16-8a61-454a-884c-17a530a71359,way/35567521,La Grange Country Club,,course,,,active,18,72,,,,https://www.lagrangecc.org/,,,,IL,,US,41.7975159,-87.8812692,2026-10-11T15:06:03Z
+7749b516-ee74-4c98-8116-608e42ab99fb,way/284419788,Lockhaven Golf Club,,course,,,active,18,,,,,,,,,IL,,US,38.9397892,-90.2990781,2026-10-11T15:12:07Z
+776645e2-d353-43db-9a6f-5635b9fda0c3,way/295758006,Brookhill Golf Course,,course,,,active,18,72,,,+1-217-893-1200,https://www.brookhillgolfcourse.com/,,3150 North Maplewood Drive,Rantoul,IL,61866,US,40.33782,-88.1316525,2026-10-11T15:12:08Z
+77b053eb-337d-458d-b3c5-4eddc81b8d4b,way/42336438,Wedgewood Golf Course,,course,,,active,18,71,,,,,,,,IL,,US,41.5693496,-88.2056014,2026-10-11T13:29:44Z
+77ef60a9-c95c-4523-9739-489ca8b040b8,relation/15353140,Foxford Hills Golf Course,,course,,,active,18,72,,,,,,,,IL,,US,42.2324779,-88.2261494,2026-10-11T15:12:43Z
+784cfdda-1259-49e6-b32e-e86638b5c95b,way/202762106,Chick Evans Golf Course,,course,,,active,18,71,,,,,,6145 Golf Road,Morton Grove,IL,60053,US,42.0520355,-87.7760165,2026-10-11T15:12:03Z
+78748ced-22ce-4385-b64a-0543c5258fb7,way/707597680,,,course,,,active,9,,,,,,,,,IL,,US,41.4759027,-90.1458952,2026-10-11T15:12:21Z
+7968ce4e-f27b-47c8-988b-53c7aa756025,way/275260242,Gof Mohr Golf Course,,course,,,active,,,,,,,,,,IL,,US,41.5528245,-90.3813451,2026-10-11T15:12:07Z
+797a2b30-d9f0-4273-830e-0cb5cc9aaeab,way/671666557,Raymond Shoal Creek Golf Course,,course,,,active,,,,,,,,,,IL,,US,39.323287,-89.5818654,2026-10-11T15:12:20Z
+79a005f9-f2a0-444c-8119-b430e85d3b1c,node/4046303247,Nettle Creek County Club,,course,,,active,,,,,,,,,,IL,,US,41.3608414,-88.4812403,2026-10-11T13:29:32Z
+79e30a1a-a011-494f-aee1-bf8366a30392,relation/16362739,Lincolnshire Country Club,,course,,,active,,,,,,https://lincolnshirecountryclub.com/home,,390 East Richton Road,Crete,IL,60417,US,41.4581838,-87.6172853,2026-10-11T15:06:53Z
+79ec5346-c468-4c58-880e-eaaaa61578d7,way/295771689,Fon Du Lac Golf Course,,par3,,,active,9,27,,,+1-309-699-4222,https://www.fondulacpark.com/?q=node/15,,123 Par 3 Lane,East Peoria,IL,61611,US,40.6572348,-89.5670965,2026-10-11T15:12:08Z
+7a1f28cd-dfd2-4cde-8337-da0ad890dcae,way/1466372251,Annbriar Golf Course,,course,,,active,18,72,,,,,,1524 Birdie Lane,Waterloo,IL,62298,US,38.3510225,-90.1997016,2026-10-11T15:12:29Z
+7a788880-5afc-42e5-ad3c-5bc308812236,way/824630519,,,course,,,active,,,,,,,,,,IL,,US,39.6217864,-89.0484528,2026-10-11T15:12:23Z
+7acff9f4-1caa-4db6-96da-8b3b54e52d0e,way/295758014,Lakewood Golf Course,,course,,,active,,,,,,,,,,IL,,US,40.2060802,-90.1296918,2026-10-11T13:30:20Z
+7b9b9fb4-cfca-4b64-b8c0-c58bfb9af939,way/235301876,Midlothian Country Club,,course,,,active,,,,,,https://www.midlothiancc.org/,,5000 147th Street,Midlothian,IL,60445,US,41.6300941,-87.747225,2026-10-11T15:12:03Z
+7bc8c8b4-86d9-4e31-88f0-a39ea0776d52,way/213925344,Harborside International Golf Center,,course,,,active,,,,,,https://www.harborsidegolf.com/,,11101 South Doty Avenue,Chicago,IL,60628,US,41.6944182,-87.5870998,2026-10-11T15:12:03Z
+7cb89ccc-14d2-4b94-a710-ac42e9e89e67,way/34249131,The Glen Club,,course,,,active,18,72,,,,,,2901 West Lake Avenue,Glenview,IL,60026,US,42.0858724,-87.8269572,2026-10-11T15:11:51Z
+7ce2fc66-9925-4a39-add6-84b3a33fc38b,way/40333078,Thunderhawk Golf Club,,course,,,active,18,72,,,+1-847-968-3100,https://www.thunderhawkgolfclub.org/,,39700 North Lewis Avenue,Beach Park,IL,60099,US,42.4391239,-87.8654427,2026-10-11T15:11:51Z
+7d5259b2-1517-49a7-8ded-474766a25a84,way/1017136209,,,course,,,active,18,71,,,,,,,,IL,,US,41.915861,-89.379096,2026-10-11T13:31:06Z
+7da8454f-3123-411a-aab6-97ab72fa74aa,way/645469653,Langendorf Park Golf Course,,course,,,active,,,,,,,,,,IL,,US,42.1595844,-88.1439351,2026-10-11T13:30:54Z
+7e06ba83-8fd4-4e69-b8a2-faccf48c7f73,way/93635765,Bonnie Dundee Golf Club,,course,,,active,,,,,,,,,,IL,,US,42.109601,-88.2554059,2026-10-11T15:11:55Z
+7e3cad0b-6526-43b9-a20a-17b2758c0289,way/163602895,Columbia Golf Club,,course,,,active,,,,,,,,,,IL,,US,38.4806961,-90.2071168,2026-10-11T13:30:03Z
+7f1d3b43-7e5b-4606-b0ae-13377fbdc0ad,way/196052496,Village Green Country Club,,course,,,active,18,70,,,,,,,,IL,,US,42.2968813,-88.0139826,2026-10-11T15:12:01Z
+7ff1f69f-90c1-4c75-9aad-ea9913a8692e,way/214948232,,,course,,,active,,,,,,,,,,IL,,US,39.9696522,-91.3530782,2026-10-11T15:12:03Z
+811ab580-e32b-4017-a43c-88c7c7e1f025,way/295758025,The Oaks Golf Course,,course,,,active,18,70,,,+1-217-528-6600,https://www.theoaksgolfcourse.com/,,851 Dave Stockton Drive,Springfield,IL,62707,US,39.8173283,-89.5586483,2026-10-11T15:12:08Z
+81e3e19a-caa6-42f5-a2f0-1ef0257d0a02,relation/3938648,White Deer Run Golf Club,,course,,,active,18,72,,,+1 847-680-6100,https://www.whitedeergolf.com/,,250 West Greggs Parkway,Vernon Hills,IL,60061,US,42.2573746,-87.9670799,2026-10-11T15:12:35Z
+8241e915-549b-4530-ac5c-bfdf3d117162,relation/21232830,,,course,,,active,,,,,,,,,,IL,,US,38.7222421,-90.0827935,2026-10-11T15:12:45Z
+825a8fc4-7495-4b83-9fcb-2cb57ea8a077,relation/6523351,Billy Caldwell Golf Course,,course,,,active,9,,,,,https://billycaldwell.forestpreservegolf.com/,,6150 North Caldwell Avenue,Chicago,IL,60646,US,41.9883229,-87.7572675,2026-10-11T15:12:38Z
+83326a45-bcd2-475a-99f5-d19ac84de2d5,way/660878432,Hilldale Golf Club,,course,,,active,,,,,+1-847-310-1100,https://www.hilldalegolf.com/,,1625 Ardwick Drive,Hoffman Estates,IL,60169,US,42.0600987,-88.1216035,2026-10-11T15:12:20Z
+838662a8-e729-4ea1-b6e6-feeefa0495f2,way/111657436,Sandy Hollow Golf Course,,course,,,active,18,72,,,,,,,,IL,,US,42.2272928,-89.052594,2026-10-11T15:11:57Z
+83cd9e97-d2ee-4dc1-a008-906a6d91ed39,way/229953714,Links & Tees Golf Facility,,course,,,active,,,,,,https://www.addisonparks.org/golf/golf-course.htm,,,,IL,,US,41.9436566,-88.0108278,2026-10-11T15:12:03Z
+843308b2-47ad-4038-be4a-a7a7cbc83705,way/195920264,Salt Creek Golf Club,,course,,,active,18,,,,+1-630-773-0184,,,,,IL,,US,41.9869891,-87.9959818,2026-10-11T15:12:01Z
+8454d5a8-cc0e-4391-b664-cedc18f818c7,way/182572140,Bunker Links Golf Course,,course,,,active,,,,,+1 309 344 1818,https://www.ci.galesburg.il.us/services/bunker_links_golf/,,3535 Lincoln Park Drive,Galesburg,IL,61401,US,40.9889968,-90.3718923,2026-10-11T15:12:01Z
+8529b38e-383c-42bd-8be9-4637c20d073a,way/52010078,Mid Iron Golf Club,,course,,,active,,,,,,,,,,IL,,US,41.6574054,-87.93419,2026-10-11T15:11:53Z
+854c3387-bc3a-4184-a16c-ffccbde9b9bb,way/187777312,Idlewild Country Club,,course,,,active,18,72,,,,https://www.idlewildcountryclub.com/,,19201 Dixie Highway,Flossmoor,IL,60422,US,41.5424555,-87.6600087,2026-10-11T13:30:03Z
+854ceb08-a33f-4977-b034-6224c7e39f19,way/384940849,South Bluff Country Club,,course,,,active,,,,,+1 815 223 0603,http://www.southbluff.net/,,229 North 2550th Road,Peru,IL,61354,US,41.3044501,-89.1211,2026-10-11T15:06:26Z
+862aa17d-ebb8-4760-9aa6-52820c49695e,way/233814620,Palos Country Club,,course,,,active,,,,,,https://www.paloscountryclub.com/,,,,IL,,US,41.6487887,-87.8473977,2026-10-11T15:12:03Z
+86fdb460-a19d-4554-9d40-6a68871b2cb6,relation/3149451,Oak Hills Golf Club,,course,,,active,,,,,,,,,,IL,,US,41.6495371,-87.8104623,2026-10-11T13:31:22Z
+8780af86-a4bb-4923-b365-414255716366,way/31824000,Exmoor Country Club,,course,,,active,18,72,,,,,,700 Vine Avenue,Highland Park,IL,60035,US,42.1931117,-87.8131992,2026-10-11T15:11:51Z
+87e5e602-935f-4d5c-87d5-3817f1ae8887,way/195246185,Knollwood Club Golf Course,,course,,,active,18,72,,,+1-847-234-1600,https://www.knollwoodclub.org/,,1890 Knollwood Road,Lake Forest,IL,60045,US,42.2743178,-87.8825189,2026-10-11T15:06:14Z
+87ecc7ad-8792-42e4-aa5b-fa7c4b31e4a8,way/295949954,Lockport Golf and Recreation Club,,course,,,active,,,,,+1-815-838-8692,https://www.lockportgolf.com/,,15000 High Road,Lockport,IL,60441,US,41.6157625,-88.0482046,2026-10-11T13:30:27Z
+88444b38-3061-40c2-923d-8cdcc81c48a9,way/35598645,Flagg Creek Golf Course,,course,,,active,9,33,,,,,,,,IL,,US,41.7650534,-87.8919834,2026-10-11T15:11:51Z
+88697349-6df0-4bbd-8a68-e4aa40c59b67,way/32503147,Ridgemoor Country Club,,course,,,active,18,72,,,,,,6601 West Gunnison Street,Harwood Heights,IL,60706,US,41.964747,-87.792822,2026-10-11T15:11:51Z
+88adf64a-f06d-42a1-bc42-2cc8327daff6,way/316796265,Prairie Vista Golf Course,,course,,,active,18,72,,,+1-309-434-2217,,,502 West Hami,Bloomington,IL,61704,US,40.4457442,-88.9990719,2026-10-11T15:06:24Z
+88dd73cd-12be-4e40-8c64-be0042a3285f,way/546428649,Sparta Country Club,,course,,,active,9,35,,,+1 618 443 4911,https://spartacountryclub.com/,,19 Fairway Drive,Sparta,IL,62286,US,38.1155132,-89.7175028,2026-10-11T15:12:18Z
+890002e9-76bf-4cda-aca0-c8de2303cb20,way/295678325,Spencer T. Olin Community Golf Course,,course,,,active,18,72,,,,,,,,IL,,US,38.9032354,-90.1084816,2026-10-11T13:30:20Z
+895c3e16-ea0a-4f86-86d7-63eda4bd4faa,way/437197171,Woodstock Golf Club,,course,,,active,9,35,,,,,,,,IL,,US,42.3106882,-88.4000611,2026-10-11T15:12:15Z
+895d8ef2-60cb-4509-94bb-ace082f38ae4,way/166983194,Rogala Public Links,,course,,,active,,,,,+1-217-235-5518,https://www.rogalagolf.com/,,,,IL,,US,39.4651391,-88.4461696,2026-10-11T15:12:01Z
+89fdaf79-e907-48b3-9efb-bd3e7649dc6f,way/363657192,Arlington Greens Golf Course,,course,,,active,18,,,,+1 618 931 5232,https://www.arlingtongreens.com/,,200 Arlington Drive,Granite City,IL,62040,US,38.710615,-90.0335741,2026-10-11T15:12:14Z
+8a3d21cc-71e6-4a0e-be27-cbc3ef602afb,way/295678321,Oak Brook Golf Club,,course,,,active,18,71,,,+1-618-656-5600,https://www.oakbrookgc.com/,,9157 Fruit Road,Edwardsville,IL,62025,US,38.8351406,-89.8368342,2026-10-11T15:12:08Z
+8abdf3ca-daff-4bd8-9f78-afa4340b3f84,way/176881608,River Oaks Golf Course,,course,,,active,,,,,,https://riveroaks.forestpreservegolf.com/,,1 Park Avenue,Calumet City,IL,60409,US,41.5987643,-87.5738222,2026-10-11T15:12:01Z
+8ad61b00-7c44-4923-aea0-b525a9cd4c06,way/187373595,River Forest Country Club,,course,,,active,18,72,,,,,,,,IL,,US,41.9353844,-87.9296762,2026-10-11T15:06:14Z
+8bb32e66-2c6b-4b94-aa22-1ceaf0eb9826,way/1304629510,,,course,,,active,18,70,,,,,,,,IL,,US,42.0503927,-88.1322587,2026-10-11T15:12:29Z
+8bfada8f-8e29-49a2-a535-3755b3b7a7ab,way/1546179087,Tanna Farms Golf Club,,course,,,active,,58,,,+1-630-232-4300,https://www.tannafarms.com/,,39W808 Hughes Road,Geneva,IL,60134,US,41.8721204,-88.3909797,2026-10-11T15:12:30Z
+8c58c620-df39-4afe-ac66-01a066d4990f,way/283872473,Byron Hills Golf Course,,course,,,active,18,71,,,,,,,,IL,,US,41.6092699,-90.301302,2026-10-11T15:12:07Z
+8cafc26b-06aa-411e-b328-2ea718ed0d52,way/32668158,Willow Crest Golf Club,,course,,,active,18,70,,,,,,,,IL,,US,41.8207193,-87.9714455,2026-10-11T15:06:03Z
+8cd2801a-b0e1-4288-a79b-b71bab1f955a,way/22176790,Mount Prospect Golf Course,,course,,,active,18,70,,,,,,,,IL,,US,42.05565,-87.9547867,2026-10-11T15:11:48Z
+8d5e24c8-5030-456b-b7c2-af4698be2db1,way/295758007,Bunn Golf Course,,course,,,active,18,,,,+1-217-522-2633,https://www.springfieldparkdistrictgolf.org/bunn_golf_course/,,2500 South 11th Street,Springfield,IL,62703,US,39.7708309,-89.6349476,2026-10-11T13:30:20Z
+8e7e2719-360e-4333-ac2c-80c8df8dfe75,way/898084900,The Ledges,,course,,,active,18,72,,,,,,71111 McCurry Road,Roscoe,IL,61073,US,42.441085,-88.9729973,2026-10-11T15:12:23Z
+8fb0889e-4e7a-40f4-9429-f66f86ad0ed8,way/35567595,Butler National Golf Club,,course,,,active,,59,,,,,,,,IL,,US,41.8403793,-87.9401132,2026-10-11T15:11:51Z
+8fb442c0-4104-45ae-88fc-5c709edb7597,way/551713651,,,course,,,active,,,,,,,,,,IL,,US,41.5933895,-88.1341063,2026-10-11T15:12:18Z
+8ffecdce-c0f5-4a1c-a844-4b00955b89a1,way/311050750,Jackson Park Driving Range,,practice,,,active,,,,,,,,,,IL,,US,41.784607,-87.5787161,2026-10-11T15:12:12Z
+90a23df3-81cb-4d04-93d7-c572f56bb0c9,relation/7873513,Golf Club of Illinois,,course,,,active,18,71,,,+1 847 658 4400,https://www.golfclubofil.com/,,1575 Edgewood Drive,Algonquin,IL,60102,US,42.1575187,-88.3211569,2026-10-11T13:31:37Z
+90c682aa-5ac7-4508-bb78-387c759b50c5,way/264908533,Sanctuary Golf Course,,course,,,active,18,72,,,,,,,,IL,,US,41.5213072,-87.9523583,2026-10-11T15:12:05Z
+912283a4-8ad0-491d-9f41-518d2729f9d6,way/296130388,Ravinia Green Country Club,,course,,,active,,,,,+1-847-945-6200,https://www.raviniagreen.com/,,1200 Saunders Road,Riverwoods,IL,60015,US,42.178575,-87.8855472,2026-10-11T15:12:10Z
+91ee6f90-bc46-4bb2-8598-19298a48b803,relation/1948076,Royal Fox Golf Club,,course,,,active,18,71,,,,,,,,IL,,US,41.9405208,-88.2726945,2026-10-11T15:12:30Z
+92999c8b-131c-4ce3-979d-717633bfdd81,way/26654749,Evanston Golf Club,,course,,,active,,,,,,,,4401 Dempster Street,Skokie,IL,60076,US,42.0373699,-87.7402759,2026-10-11T15:11:49Z
+93a10ef8-ef89-40bd-902e-85279718471c,way/319770781,,,course,,,active,,,,,,,,,,IL,,US,39.3073128,-87.9832498,2026-10-11T15:12:12Z
+93ddb598-0ddb-40d8-8ab0-97bde1c0eedb,way/295771690,Gibson Woods Golf Course,,course,,,active,,,,,+1-309-734-9968,https://gibsonwoods.com/,,1321 North 11th Street,Monmouth,IL,61462,US,40.9294544,-90.6220303,2026-10-11T15:12:08Z
+93eff818-4caf-4263-bb5d-f38350c6fe63,way/1034768072,Monmouth Country Club,,course,,,active,,,,,,,,,,IL,,US,40.906499,-90.6244387,2026-10-11T15:12:24Z
+94776255-090f-40fb-a2ff-52c6abd8ded8,way/508541236,The Prairies Golf Course,,course,,,active,,,,,,,,,,IL,,US,38.5543035,-90.1808006,2026-10-11T13:30:51Z
+949517df-531d-417c-bb49-a1403c76e649,way/188703978,Seven Bridges Golf Club,,course,,,active,18,72,,,,,,1 Mulligan Drive,,IL,60517,US,41.7661652,-88.0793096,2026-10-11T15:12:01Z
+951f2184-4a0f-4a92-b3f9-9d14a502d16f,way/295758012,Hickory Point Golf Course,,course,,,active,18,72,,,+1-217-421-7444,https://www.decatur-parks.org/golf/hickory-point-golf-club/,,727 Weaver Road,Decatur,IL,62535,US,39.9184153,-88.9694618,2026-10-11T13:30:20Z
+95ab5d0b-c1a7-4989-83a5-f4c54f622fd9,way/31745317,Oak Park Country Club,,course,,,active,,,,,,,,2001 North Thatcher Avenue,Elmwood Park,IL,60707,US,41.919182,-87.8264566,2026-10-11T15:11:51Z
+95ae82d4-372d-4457-8142-2bb17bec152b,way/473395332,Balmoral Woods Country Club,,course,,,active,,,,,,https://balmoralwoods.com/,,26732 South Balmoral Woods Drive,Crete,IL,60417,US,41.3992973,-87.6175683,2026-10-11T15:12:17Z
+95fadc59-e2dd-478e-b06b-8a001433b0e0,relation/3933599,Illini Golf Course,,course,,,active,18,71,,,+1-217-546-4614,https://illinicc.net/,,1601 Illini Road,Springfield,IL,62704,US,39.783646,-89.689516,2026-10-11T15:06:45Z
+9647550a-e849-44f1-a23c-54057460674b,way/188703977,River Bend Golf Club,,course,,,active,,,,,,,,,,IL,,US,41.7801412,-88.0753792,2026-10-11T15:12:01Z
+97cd81c7-719a-4ef1-acec-b393877e5eb3,way/190243295,Naperbrook Golf Course,,course,,,active,,,,,,,,,,IL,,US,41.6852275,-88.1612544,2026-10-11T15:12:01Z
+97e5dda5-a93b-42e0-be8b-51efaaffa377,way/1564543427,,,course,,private,active,,,,,,,,,,IL,,US,42.156558,-88.1600023,2026-10-11T15:06:41Z
+97eba1b1-5151-4563-b31d-17b96515632c,way/792587697,Meadow Woods,,course,,,active,9,36,,,,,,,,IL,,US,38.5370581,-89.0944103,2026-10-11T15:06:33Z
+982dd357-6c64-45c8-b567-0ac094c88f1d,way/173864007,Fox Run Golf Links,,course,,,active,18,70,,,+1-847-228-3544,https://www.foxrungolflinks.com/,,333 Plum Grove Rd.,Elk Grove Village,IL,,US,42.0169424,-88.0530838,2026-10-11T15:12:01Z
+983f4efa-4d6a-47b7-867c-08199e9da486,way/193635067,Woodruff Golf Course,,course,,,active,18,,,,,,,,,IL,,US,41.5365968,-88.0096687,2026-10-11T15:12:01Z
+986ae43b-6962-405a-bbb2-2c76f77a83fe,way/372920302,Lakeview Country Club,,course,,,active,9,,,,+1-217-386-2335,https://lakeviewcountryclub.com/,,147 East 200 North Road,Loda,IL,60948,US,40.512537,-88.0922519,2026-10-11T15:06:26Z
+9a21288d-c700-4e66-88c2-eec72004ea79,way/862353464,North Greens Golf Course,,course,,,active,9,36,,,,,,901 NE First St,Atlanta,IL,61723,US,40.2730142,-89.2249765,2026-10-11T15:06:35Z
+9a509d0f-9ecb-4cf6-8e1c-9653f667b5b6,relation/10235110,University of Illinois Golf Course,,course,,,active,,3,,,+1-217-359-5613,https://www.uofigolf.com/,,800 Hartwell Drive,Savoy,IL,61874,US,40.0469916,-88.2619257,2026-10-11T15:12:38Z
+9a5c4263-487f-456a-87a0-98f6c427d00a,way/35598694,Ruth Lake Country Club,,course,,,active,18,,,,,,,,,IL,,US,41.7780575,-87.9412219,2026-10-11T15:11:51Z
+9a7e0282-cce3-44ee-b6ce-2192fcecaaba,way/28258054,Weber Park Golf Course,,course,,,active,,,,,,https://www.skokieparks.org/weber-park-golf-course/,,9350 Weber Park Place,Skokie,IL,60077,US,42.0512745,-87.7500278,2026-10-11T15:11:49Z
+9aa877d1-6dbe-452a-8f07-6427c4a13b69,way/26443907,,,course,,private,active,,,,,,,,,,IL,,US,42.2829971,-89.6560027,2026-10-11T15:11:49Z
+9ae1e6cf-a89e-42a9-9bff-9b8c22cefca9,way/478328355,Orchard Vally Golf Course,,course,,,active,,,,,,,,,,IL,,US,41.7730318,-88.3811266,2026-10-11T15:12:17Z
+9b2268c1-6d76-4559-ae46-19801908e4e0,way/295949956,Willow Run Golf Course,,course,,,active,,,,,+1-815-485-2119,http://www.willowrungolf.net/,,12600 187th Street,Mokena,IL,60448,US,41.5518622,-87.9211599,2026-10-11T15:12:10Z
+9b47cdc6-551e-4aba-afb6-d4b5d68cb140,relation/4267526,The Den at Fox Creek,,course,,,active,18,72,,,+1 309-434-2300,,,3002 Fox Creek Road,Bloomington,IL,61704,US,40.4475415,-89.0413241,2026-10-11T15:12:36Z
+9b58e3f5-f917-4332-82de-03fe4ce960d7,relation/17933121,,,course,,,active,,,,,,,,,,IL,,US,38.0788946,-89.3089246,2026-10-11T15:12:45Z
+9b80356a-a699-4f7e-bcd4-e218fef0b756,way/296074168,Pistakee Golf Course,,course,,,active,,,,,,,,,,IL,,US,42.3621238,-88.2158565,2026-10-11T13:30:27Z
+9b8e0cf8-b830-4937-9201-8df13fdd8df6,way/321811061,Mission Hills Country Club,,course,,,active,,,,,+1-847-498-3200,https://www.missionhillsclub.com/,,1677 West Mission Hills Road,Northbrook,IL,60062,US,42.1207218,-87.8749126,2026-10-11T15:12:12Z
+9bc88328-b0b2-44f5-a8a2-d6698e7bcaa1,way/846456215,Barlett Hills Golf Club,,course,,,active,18,71,,,,,,8000 West Oneida Avenue,Bartlett,IL,60103,US,41.9979012,-88.19615,2026-10-11T15:12:23Z
+9bd9670a-a123-475a-bd68-7c9234c3b8d0,way/295758013,Lake Shore Golf Club,,course,,,active,,,,,+1 217-824-5521,https://golflakeshore.com/,,1460 East 1000 North Road,Taylorville,IL,62568,US,39.4943823,-89.2544401,2026-10-11T15:12:08Z
+9c0e8b92-b7dd-429d-ae0c-69d044830bf4,way/708327693,The Links at Ireland Grove,,course,,,active,9,30,,,+1 309 661 8040,https://www.thelinksatirelandgrove.com,,,,IL,,US,40.4542806,-88.9102256,2026-10-11T15:12:21Z
+9c2ced21-913b-46b1-a26f-ffe9a27cfe8a,way/505114186,,,course,,,active,18,72,,,,,,,,IL,,US,41.8659079,-88.4549737,2026-10-11T15:06:30Z
+9c39dbbb-842c-4945-af05-8ae72469f162,way/505374711,Charleston Country Club,,course,,,active,,,,,,,,,,IL,,US,39.4937623,-88.2255579,2026-10-11T15:12:18Z
+9c5dbfb1-b8b6-44cc-b12e-9614c4b0056b,node/3095981624,Carthage Golf Club,,course,,,active,,,,,,,,,,IL,,US,40.4255347,-91.1499139,2026-10-11T13:29:32Z
+9c82068d-2c81-4f5a-abf6-15498abb101c,way/214956835,,,course,,,active,,33,,,,,,,,IL,,US,39.9920521,-91.4033062,2026-10-11T15:12:03Z
+9dbffc0b-0a50-4b36-9cdc-048c1e838960,way/1025388864,Silver Ridge,,course,,,active,,,,,+1-815-734-4440,http://www.silverridgegolf.com/,,3069 North Hill Road,Oregon,IL,61061,US,42.0605829,-89.3509544,2026-10-11T13:31:06Z
+9e0130fe-51ab-498a-ab9f-9b8439d48cd3,relation/13388896,Tamarack Golf Club,,course,,,active,,,,,,,,24032 Royal Worlington Drive,Naperville,IL,60564,US,41.6868323,-88.2119515,2026-10-11T15:12:41Z
+9e47b716-0362-434f-a6e6-cfab658a6c89,way/295949952,Cinder Ridge Golf Course,,course,,,active,18,72,,,+1-815-476-4000,https://www.cinderridge.com/,,24801 Lakepoint Drive,Wilmington,IL,60481,US,41.3058859,-88.2178576,2026-10-11T15:12:10Z
+9ebb715e-86e2-4a20-97d8-c7fae58d108b,relation/13550532,,,course,,,active,,,,,,,,,,IL,,US,42.2348005,-90.2566837,2026-10-11T15:12:41Z
+9edd491f-e35c-4759-aa7e-6fdc733bf32f,way/171360454,Country Club of Decatur,,course,,,active,,,,,+1-217-428-3415,https://www.ccofdecatur.com/,,135 North Country Club Road,Decatur,IL,62521,US,39.8414576,-88.8835367,2026-10-11T15:12:01Z
+a15050ef-5412-44e1-84f4-4dda3a27465c,way/61431783,Brae Loch Golf Course,,course,,,active,,63,,,,,,,,IL,,US,42.3494932,-88.0091618,2026-10-11T15:11:55Z
+a159cb62-9b98-46ef-9f9c-763cc580a39c,way/35567596,Oak Brook Golf Course,,course,,,active,,12,,,,,,,,IL,,US,41.8406333,-87.9327296,2026-10-11T15:11:51Z
+a19d817d-6dda-4c7b-96a2-1d2700e0c003,relation/19892753,Far Oaks Golf Club,,course,,,active,18,,,,,,,,,IL,,US,38.6255844,-89.9735927,2026-10-11T15:12:45Z
+a1a8c16e-b0e0-496b-afcb-a7937d656a0c,way/289834661,Highland Park Golf Course,,course,,,active,18,70,,,,,,,,IL,,US,40.4614725,-88.9993514,2026-10-11T15:12:07Z
+a1c5a7f8-4879-443c-b7fd-34c55124c2f2,relation/21096962,Meadowlark Golf Course,,course,,,active,9,37,,,,,,11599 31st Street,Hinsdale,IL,60523,US,41.8304581,-87.9129797,2026-10-11T15:12:45Z
+a228dc7d-ee09-43f8-ac1a-4e758c28ec7e,way/188548924,Silver Lake Country Club,,course,,,active,18,70,,,,,,,,IL,,US,41.6209825,-87.8266652,2026-10-11T15:12:01Z
+a26a4a03-2f4f-46a7-8dbd-d2746cbcca92,node/12104873584,Harry Semrow Mini Golf and Driving Range,,mini,,,active,,,,,,https://harrysemrow.forestpreservegolf.com/,,1150 East Golf Road,Des Plaines,IL,60016,US,42.0544112,-87.8944797,2026-10-11T15:05:59Z
+a2b170bd-0197-4449-81c2-dacd28d1d465,way/891739073,,,practice,,,active,,,,,,,,,,IL,,US,41.7761721,-88.3773465,2026-10-11T15:12:23Z
+a4777114-d3d7-4807-b3fb-c82444681e98,way/295902645,Prairie View Golf Course,,course,,,active,18,72,,,+1-815-234-4653,https://www.prairieviewgolf.com/,,6734 German Church Road,Byron,IL,61010,US,42.1130968,-89.2588792,2026-10-11T15:06:23Z
+a4aef5e2-7c79-4454-a926-1a7d01dbf5b5,way/127810940,The Links of Jacksonville,,course,,,active,,,,,,,,,,IL,,US,39.6994177,-90.214881,2026-10-11T15:11:57Z
+a62ea0b6-33ec-4f16-afb9-c8cdede95a88,way/143665388,Legends Golf Course,,course,,,active,9,29,,,+1-217-863-2145,https://www.legendsofchampaign.com/,,,,IL,,US,40.0731929,-88.3208674,2026-10-11T15:12:00Z
+a689b25c-77be-4d1d-abda-bd09eb2c7461,way/689876596,Rich Harvest Farms Golf Course,,course,,,active,18,72,,,,https://www.richharvestfarms.com/,,,,IL,,US,41.7539838,-88.498725,2026-10-11T15:12:21Z
+a7091dfa-a4d4-47b2-97b0-bf9232813363,way/295902640,Mendota Golf Club,,course,,,active,18,,,,,,,,,IL,,US,41.5433331,-89.171386,2026-10-11T15:06:23Z
+a7767c8e-da97-4d4e-ac1c-e6e2fc7a5b9a,way/196052494,Pine Meadow Golf Club,,course,,,active,18,72,,,,,,,,IL,,US,42.2900064,-87.9895895,2026-10-11T15:06:14Z
+a8414404-a637-40ff-a7f6-db4d626c32d8,way/295758024,The National Golf Course at Eagle Creek,,course,,,active,,,,,+1-217-756-5555,http://www.thenationalgc.com/,,Eagle Creek State Park,Findley,IL,62534,US,39.4866557,-88.7026216,2026-10-11T15:12:08Z
+a8594fef-082c-4ab4-a6f4-1b8191b35569,way/187778614,Ravisloe Country Club,,course,,,active,,42,,,,https://www.ravisloe.com/,,18231 Park Avenue,Homewood,IL,60430,US,41.5627202,-87.6746456,2026-10-11T15:12:01Z
+a8d86f7d-d33e-4ac8-b277-cbd8df6819a8,way/122272723,Prestwick Country Club,,course,,,active,,,,,,,,,,IL,,US,41.4954062,-87.8039658,2026-10-11T15:06:10Z
+a8f44fb7-6620-4dcc-ab7e-b83b217b452c,way/443626080,Bolingbrook Golf Club,,course,,,active,18,72,,,,,,,,IL,,US,41.660021,-88.1531674,2026-10-11T15:12:15Z
+a91ed581-7603-4121-827d-9b734a3d4994,way/458557660,Indian Hills Golf Club,,course,,,active,,,,,,,,,,IL,,US,41.2823292,-89.5175616,2026-10-11T13:30:48Z
+a9efa517-88e7-4426-9738-d1045fe76e9c,relation/8276583,Sunset Hills Country Club,,course,,,active,,,,,+1 618 656 9380,https://www.sunsethillscountryclub.com/,,2525 Highway 157 South,Edwardsville,IL,62025,US,38.7767024,-89.9983022,2026-10-11T15:12:38Z
+aa8fe767-2631-4b0b-b6bb-5f46e5313a76,way/423003218,Chapel Hill Country Club,,course,,,active,18,70,,,+1-815-344-1894,https://www.chapelhillgc.com/,,2500 North Chapel Hill Road,Johnsburg,IL,60050,US,42.3629289,-88.2414588,2026-10-11T13:30:44Z
+ab45ff2f-00e9-4a65-ad49-f093f06c590c,way/195246183,Merit Club,,course,,,active,,,,,+1 847-918-8800,https://www.meritclub.org/,,1500 Merit Club Lane,Libertyville,IL,60048,US,42.334966,-87.9630065,2026-10-11T15:12:01Z
+ac0eda45-c23a-40a1-b94d-a1ee3dce76be,way/247585105,Quail Meadows Golf Course,,course,,,active,18,72,,,,https://www.quailmeadowsgolf.com/,,2215 Centennial Drive,Washington,IL,61571,US,40.7080347,-89.5020152,2026-10-11T15:12:05Z
+ac51a934-024a-428e-9a72-8d5ab59261c3,relation/18316977,Riverside Golf Club,,course,,,active,18,,,,+1-708-447-3700,https://www.rgc1893.org/,,2520 Des Plaines Avenue,North Riverside,IL,60546,US,41.8462345,-87.8278436,2026-10-11T13:31:51Z
+ac990ae7-12e0-487d-9f0f-9fba6deeb080,relation/7091534,George W. Dunne National Driving Range,,practice,,,active,,,,,,,,,,IL,,US,41.595735,-87.7578917,2026-10-11T15:12:38Z
+ad31baa9-fa91-4d40-b1e5-d8d2c33e85f2,way/311911711,,,course,,,active,,,,,,,,,,IL,,US,41.6708743,-90.0742318,2026-10-11T15:12:12Z
+ad4b2ad3-f8ba-46a4-8ac5-16c851154186,way/295758005,Bergen Golf Course,,course,,,active,9,,,,+1-217-753-6211,https://www.springfieldparkdistrictgolf.org/bergen_golf_course/,,2900 Clear Lake Avenue,Springfield,IL,62702,US,39.7999703,-89.6095433,2026-10-11T13:30:20Z
+adabceda-3396-437f-a0ef-342d5dcd2c56,way/295902657,Twin Creeks Golf Course,,course,,,active,,,,,+1-815-672-4220,https://www.eastwoodtwincreeks.com/,,30396 North 700 East Road,Manville,IL,61319,US,41.0658348,-88.791638,2026-10-11T13:30:27Z
+adb78180-1ba8-4e27-8020-7d6b706060cf,way/295678322,Ramsey Lake Golf Course,,course,,,active,,,,,,,,,,IL,,US,39.161831,-89.1075526,2026-10-11T15:12:08Z
+adbd40a2-5c27-4230-a48a-891644bd5616,relation/4267525,Crestwicke Country Club,,course,,,active,,,,,+1 309-829-8092,https://www.crestwicke.com/,,15671 East 910 North Road,Bloomington,IL,61705,US,40.4106307,-88.9637649,2026-10-11T15:12:36Z
+ae93b77f-84b5-4d3a-8b31-5b08cfdac4eb,way/295771698,Madison Golf Course,,course,,,active,18,69,,,+1 309-673-7161,https://ppdgolf.org/madison/,,2735 West Martin Luther King Junior Drive,Peoria,IL,61604,US,40.6851356,-89.6349357,2026-10-11T13:30:20Z
+aee72159-88fc-4290-a129-60720c685b03,way/1447215480,Southshore Golf Learning Center,,course,,,active,,,,,,,,,,IL,,US,41.7709261,-87.56373,2026-10-11T15:06:40Z
+aefdc710-83c1-4e99-aed4-63fb91189849,way/167065851,Indian Bluff Forest Preserve Golf Course,,course,,,active,18,70,,,,,,,,IL,,US,41.4325948,-90.5107092,2026-10-11T15:12:01Z
+b0ccdbf1-e3df-4c8f-9996-4be1f8d16190,way/660653296,Earlville Country Club,,course,,,active,,,,,,,,,,IL,,US,41.5880763,-88.9154516,2026-10-11T15:12:20Z
+b1e433a5-c90e-4fe5-9773-bd5dc61b4ec4,relation/19892143,Tamarack Golf Club,,course,,,active,18,,,,,,,,,IL,,US,38.5632284,-89.9127348,2026-10-11T13:31:51Z
+b2aa5216-9838-439b-9bc5-951babf0647d,way/444268205,,,course,,,active,,,,,,,,,,IL,,US,42.3662044,-88.8735851,2026-10-11T15:12:15Z
+b2ee5a2a-1744-4d94-b083-f2ae758f8884,way/109199690,Calumet Country Club,,course,,,active,18,71,,,,https://www.calumetcc.com/,,2136 175th Street,Homewood,IL,60430,US,41.5751282,-87.6703647,2026-10-11T15:06:10Z
+b3013ec1-0864-403f-a18c-a1305a3a37d5,way/143789356,Medinah Country Club,,course,,,active,,,,,+1-630-773-1700,https://www.medinahcc.org/club/scripts/section/section.asp?NS=HP,,6N001 Medinah Road,Medinah,IL,60157,US,41.9650503,-88.044792,2026-10-11T13:29:58Z
+b3229709-a4a8-4df6-a1d5-a689ad41c872,relation/15693362,Hawthorn Woods Country Club,,course,,,active,18,72,,,+1-847-847-3250,https://www.hwccgolf.com/,,1 Tournament Drive North,Hawthorn Woods,IL,60047,US,42.2473135,-88.0689823,2026-10-11T15:12:43Z
+b35e38ac-ea83-46ab-a500-3e686ca34598,way/228658213,Marquette Park Golf Course,,course,,,active,9,36,,,,https://marquettepark.cpdgolf.com/,,6700 South Kedzie Avenue,Chicago,IL,60629,US,41.7685161,-87.7074395,2026-10-11T15:12:03Z
+b37e265d-fb6e-4748-bffb-243ec3667dff,way/62404425,Kankakee Country Club,,course,,,active,,,,,,https://www.kankakeecountryclub.com/,,,,IL,,US,41.1043863,-87.8394924,2026-10-11T15:11:55Z
+b5b2df0b-9e9a-47a7-8b3c-3bd3228b8b58,way/159461303,Parkview Golf Course,,course,,,active,18,70,,,,,,,,IL,,US,40.5655864,-89.6100899,2026-10-11T15:06:14Z
+b5bbf3bf-abc0-4aab-ab49-291f6a1b3931,way/316796255,Bloomington Country Club,,course,,,active,18,71,,,+1-309-827-6151,https://www.bloomcc.com/,,605 Towanda Avenue,Bloomington,IL,61701,US,40.4851005,-88.9689734,2026-10-11T15:06:24Z
+b5cf94d9-c1da-467b-8ea0-4bbefa34c522,way/312446805,Arrowhead Country Club,,course,,,active,,4,,,,,,,,IL,,US,40.924666,-89.6033391,2026-10-11T15:12:12Z
+b5f3469d-7174-499b-b19e-7c365d705a54,way/606783231,Mount Prospect Golf Course,,course,,,active,,,,,,,,,,IL,,US,42.05565,-87.9547867,2026-10-11T15:12:20Z
+b610d513-df2c-4435-bc79-02ba152ccdbe,way/70462489,Rockford Country Club,,course,,,active,18,71,,,,,,,,IL,,US,42.3050722,-89.0710339,2026-10-11T15:11:55Z
+b668c0ca-f00f-43da-995a-71564ad3fce7,relation/13921736,The Hawk Country Club,,course,,,active,18,72,,,+1-630-318-0495,https://www.thehawkcc.com/,,5N748 Burr Road,St. Charles,IL,60175,US,41.950036,-88.3675898,2026-10-11T15:12:41Z
+b6795a10-8e94-4be4-8766-1b1eaea34658,way/207460692,East Fork Par-3 Golf Course,,par3,,,active,,,,,,,,,,IL,,US,38.7608372,-88.0308288,2026-10-11T15:06:16Z
+b7930f5a-9f83-471c-a3de-032b77736fb6,way/176094372,"Joe Louis ""The Champ"" Golf Course",,course,,,active,,,,,,https://joelouis.forestpreservegolf.com/,,13100 Halsted Street,Riverdale,IL,60827,US,41.6530069,-87.6507787,2026-10-11T15:12:01Z
+b8275e62-d5c1-4a07-a114-356dad583f02,relation/5729258,Panther Creek Country Club,,course,,,active,18,72,,,+1-217-546-4431,https://www.panthercreekcc.com/,,3001 Panther Creek Drive,Springfield,IL,62711,US,39.7323144,-89.7127465,2026-10-11T15:12:36Z
+b8965cad-2e7f-44cf-ac54-0f8edcd14d4d,way/823719265,,,course,,,active,,,,,,,,,,IL,,US,42.4752927,-89.1799925,2026-10-11T15:12:23Z
+b8a11556-f701-49c6-b8e1-00046af56d3d,way/123315359,Black Sheep Golf Club,,course,,,active,,28,,,,,,,,IL,,US,41.8301046,-88.4350501,2026-10-11T15:06:10Z
+b8a14822-19fd-42e5-baa2-fbf2f0e2fda5,way/560219247,,,course,,,active,,,,,,,,,,IL,,US,40.5559011,-90.8805124,2026-10-11T15:12:18Z
+b94a0c13-f4d5-463a-a647-3d59fe4cbb6b,way/295758004,,,course,,,active,,,,,,,,,,IL,,US,39.5716629,-88.5918029,2026-10-11T15:12:08Z
+b96acecf-eb88-4449-a57c-bc12cb7323d9,relation/4446049,Metamora Fields Golf Club,,course,,,active,18,71,,,+1-309-367-4000,https://www.metamorafields.com/,,801 Progress Street,Metamora,IL,61548,US,40.7995186,-89.3746163,2026-10-11T13:31:32Z
+ba27f890-1175-47f8-b3bf-9399fddd7549,way/296130363,Heather Ridge Golf Course,,course,,,active,9,,,,+1-847-367-6010,https://www.heatherridgegolf.com/,,5900 Heather Ridge Drive,Gurnee,IL,60031,US,42.3483982,-87.9520041,2026-10-11T15:12:10Z
+bae3dee0-e767-4db8-ac52-379b69742c22,way/295758031,Woodlawn Country Club,,course,,,active,,,,,+1-309-928-3215,https://www.woodlawnccfc.com/,,901 East Richardson Street,Farmer City,IL,61842,US,40.2499045,-88.6339019,2026-10-11T15:12:08Z
+bb1005f6-fa41-47c1-9999-b130691cff17,way/974166478,Golf Learning Center,,course,,,active,,,,,+1 309-690-7162,https://www.ppdgolf.org/learning-center/,,7815 North Radnor Road,Peoria,IL,61615,US,40.7819248,-89.6525408,2026-10-11T13:31:06Z
+bb1e3c32-0cfc-45c3-a930-294fe8674153,way/509095430,Triple Lakes Golf Course,,course,,,active,,,,,,,,,,IL,,US,38.4799825,-90.1424125,2026-10-11T15:12:18Z
+bb8c0c1f-0104-464e-ac8f-614480962d4b,way/117696138,Geneva Golf Club,,course,,,active,,,,,,,,,,IL,,US,41.8854538,-88.3184481,2026-10-11T15:11:57Z
+bc11cc46-fce2-47e1-a085-a8c01bf182f2,way/888560456,,,course,,,active,,,,,,,,,,IL,,US,39.2720882,-89.8593879,2026-10-11T13:31:02Z
+bc97151e-bd3f-419c-bfad-2bacd22f8569,relation/2981936,Carriage Greens Golf Club,,course,,,active,,,,,,,,,,IL,,US,41.7314072,-87.9846211,2026-10-11T15:12:33Z
+bcbc78d4-333b-4774-8257-99748ad04a22,way/215119072,Meadows Golf Club,,course,,,active,,,,,,,,2082 West 123rd Street,Blue Island,IL,60406,US,41.6705156,-87.6908793,2026-10-11T15:12:03Z
+bce90b39-fc2d-40b2-982e-e968900e5fb1,way/295902623,East Course,,course,,,active,,41,,,,https://www.eagleridge.com/golf/,,,,IL,,US,42.404647,-90.3206623,2026-10-11T15:12:08Z
+bcfdd462-1766-47b7-acaf-f77376e0077a,way/802256628,Willowhill Golf Course,,course,,,active,9,35,,,+1-847-480-6814,https://www.willowhillgolfcourse.com/,,,,IL,,US,42.1109314,-87.8157661,2026-10-11T15:06:33Z
+bd7567f1-974f-4dd8-bca8-21036a770d86,way/464583736,Beaver Creek Golf Course,,course,,,active,,,,,+1 815-569-2427,https://www.beavercreekgolfil.com/,,19619 Le Roy Center Road,Capron,IL,61012,US,42.4356241,-88.7621054,2026-10-11T15:12:17Z
+bdbab75e-cf36-479a-b394-5f0a232dee77,way/1128491260,,,course,,,active,,,,,,,,,,IL,,US,40.1048964,-87.579675,2026-10-11T15:12:24Z
+be19e6e6-35ad-47e7-9450-78559de207b2,way/295771694,Hillcrest Event Center,,course,,,active,,,,,+1-309-755-6550,https://hillcresteventcenter.com/,,16260 East 350th Street,Orion,IL,61273,US,41.3886748,-90.364705,2026-10-11T15:12:08Z
+be52efa6-a9cc-4466-acb5-d57d33ab03bb,relation/19789621,South Shore Golf Course,,course,,,active,9,33,,,,https://southshore.cpdgolf.com/,,7059 South South Shore Drive,Chicago,IL,60649,US,41.7698298,-87.5629787,2026-10-11T15:12:45Z
+be720c23-c4fb-43d6-b0d8-638caf77178d,way/217603158,Stony Creek Golf Course,,course,,,active,,,,,,https://www.golfstonycreek.com/,,5850 103rd Street,Oak Lawn,IL,60453,US,41.708415,-87.7711094,2026-10-11T15:12:03Z
+bf5196dd-0a60-4e41-bef1-a99c5452b241,way/123543612,Craig Woods Golf Club,,course,,,active,9,,,,+1-815-338-9781,https://www.crystalwoodsgc.com/,,,,IL,,US,42.2433796,-88.4203452,2026-10-11T15:11:57Z
+bfcec4da-0fb7-4aae-822a-83f3f463a1f4,way/426001243,Brookhills Golf Club,,course,,,active,9,31,,,+1-217-787-8576,https://www.brookhillsgolfclub.net/,,5350 Old Jacksonville Road,Springfield,IL,62711,US,39.7840597,-89.7510176,2026-10-11T15:06:28Z
+bffb9771-97e2-470b-adf0-33e93c09f14d,way/233482482,Glendale Lakes Golf Course,,course,,,active,,,,,,,,,,IL,,US,41.9120099,-88.0956831,2026-10-11T15:12:03Z
+c0334d06-ac7d-479d-8f8b-1abe3b873d69,relation/2950446,Maple Meadows Golf Club,,course,,,active,18,70,,,,,,,,IL,,US,41.9480878,-87.9959756,2026-10-11T15:12:33Z
+c04a020c-921a-4beb-93c7-11b6316eabf3,way/1309070462,,,course,,,active,18,70,,,,,,,,IL,,US,38.3875637,-88.3762281,2026-10-11T15:06:40Z
+c122d966-4dba-465b-9016-8392a80647a6,way/813418504,,,course,,,active,,,,,,,,,,IL,,US,41.3885416,-87.5690355,2026-10-11T15:12:21Z
+c1c10274-6b53-432e-885a-8e8eaae1168b,relation/4086244,Carillon Golf Course,,course,,,active,,,,,+1 815-886-2132,https://www.carillongolf.com/,,21200 South Carillon Drive,Plainfield,IL,60544,US,41.6361641,-88.1371825,2026-10-11T13:31:27Z
+c1f77826-0271-459a-b3a8-d7b0a4f647ce,way/164468765,Chevy Chase Golf Club,,course,,,active,18,72,,,,,,1000 North Milwaukee Avenue,Wheeling,IL,60090,US,42.1565123,-87.9253504,2026-10-11T15:12:01Z
+c24f44c7-d642-4575-a4de-35d6016ef3ac,way/266955014,Marengo Ridge Golf Curse,,course,,,active,,,,,+1-815-923-2332,https://www.marengoridgegolfclub.com/,,9106 Harmony Hill Road,Maremgo,IL,60098,US,42.1968768,-88.5574687,2026-10-11T15:12:05Z
+c2af08b4-24c3-4a27-85b1-edd9890f5c25,way/615502006,,,course,,,active,18,72,,,,,,,,IL,,US,42.2047637,-87.996994,2026-10-11T15:12:20Z
+c32d345f-5617-4f49-b39f-66410768b243,relation/4085410,Mattoon Golf & Country Club,,course,,,active,,,,,+1-217-234-8831,http://www.mattoongolfandcountryclub.com/,,6700 North Country Club Road,Mattoon,IL,61938,US,39.4672104,-88.3287354,2026-10-11T15:12:35Z
+c331466e-ebfd-4180-8d8b-2cd162149b5a,way/547162102,,,course,,,active,18,72,,,,,,,,IL,,US,39.0234179,-87.7328749,2026-10-11T15:12:18Z
+c38bfbe1-0026-4eb3-a037-9251bd9e79a3,way/97717557,Highlands of Elgin,,course,,,active,18,72,,,+1-847-931-5950,https://highlandsofelgin.com/,,875 Sports Way,Elgin,IL,60123,US,42.0168534,-88.3039883,2026-10-11T15:11:55Z
+c398d9d7-d857-4d1d-963a-07eae9996b37,way/295758009,Edgewood Golf Club,,course,,,active,18,71,,,+1-217-438-3221,https://golfedgewood.com/,,16497 Kennedy Road,Auburn,IL,62615,US,39.5608957,-89.7481671,2026-10-11T15:12:08Z
+c3a187a1-17f2-443d-9846-1d02b17c1214,way/39806229,Newman Golf Course,,course,,,active,18,71,,,+1-309-674-1663,https://www.ppdgolf.org/newman/,,2021 West Nebraska Avenue,Peoria,IL,61604,US,40.7141416,-89.6268803,2026-10-11T15:06:03Z
+c3d50855-6d7e-4ace-8be8-12203ede958c,way/125300580,Oak Grove Golf Course,,course,,,active,,,,,+1-815-648-2550,https://www.oakgrovegolfcourse.com/,,16914 Oak Grove Road,Harvard,IL,60033,US,42.4631705,-88.5330357,2026-10-11T15:06:10Z
+c4587ea6-8428-4869-b529-68451fe82eff,way/677987032,Knights of Columbus Par 3 Course,,par3,,,active,,,,,,,,,,IL,,US,39.9207979,-91.3615757,2026-10-11T15:06:32Z
+c5a5d793-a18c-4499-8edc-6018a92515cf,way/52008929,Old Oak Country Club,,course,,,active,18,,,,,,,,,IL,,US,41.6327129,-87.9554346,2026-10-11T15:11:53Z
+c5d8810f-1ef9-4d28-91db-bb334aa91735,way/835852664,Coyote Creek Golf Course,,course,,,active,18,72,,,,,,,,IL,,US,40.6276316,-89.7235624,2026-10-11T15:12:23Z
+c66c0c3b-c358-4b67-9eef-b4c0d4af9736,way/701185873,,,course,,,active,,53,,,,,,,,IL,,US,41.8974363,-88.1433751,2026-10-11T15:06:33Z
+c774ea54-56d0-4042-96c9-6e74ed6ea244,relation/7881067,Orchard Valley Golf Course,,course,,,active,18,72,,,+1 630 907 0500,https://www.orchardvalleygolf.com/,,2411 West Illinois Avenue,Aurora,IL,60506,US,41.7730318,-88.3811266,2026-10-11T15:12:38Z
+c7b6f229-169a-48b3-b8b7-98fc34f80737,way/550288491,,,course,,,active,18,71,,,,,,,,IL,,US,41.2544897,-89.9363048,2026-10-11T15:12:18Z
+c7ef1c3a-3735-43ee-a76b-1c87ecf7200d,way/34331064,Glenview Prairie Club,,course,,,active,,,,,,,,2800 West Lake Avenue,Glenview,IL,60026,US,42.0934496,-87.8290983,2026-10-11T15:11:51Z
+c8965347-9ef6-42e8-87f2-b09116c49657,way/26444496,Aldeen Golf Club,,course,,,active,18,72,,,,,,,,IL,,US,42.2914643,-88.9898457,2026-10-11T15:11:49Z
+c8e75269-255b-4348-8715-05749867d436,way/402211859,Driving Range,,practice,,,active,,,,,,,,,,IL,,US,41.3636785,-88.4806988,2026-10-11T15:12:15Z
+c8ed2298-798d-48e2-b113-bc50b4df0045,way/614148237,Gillespie Country Club,,course,,,active,,,,,,,,,,IL,,US,39.2069953,-89.8102919,2026-10-11T15:12:20Z
+c9ae57ce-0d85-44ed-ac8e-26933d925cff,relation/2637318,Odyssey Country Club,,course,,,active,18,72,,,,,,,,IL,,US,41.53494,-87.7795206,2026-10-11T13:31:22Z
+c9e9a794-fef9-4b3e-8001-97cebbba652c,way/40117532,Bonnie Brook Golf Course,,course,,,active,18,72,,,+1-847-360-4730,https://www.waukegangolf.org/,,2800 North Lewis Avenue,Waukegan,IL,60087,US,42.3986553,-87.8595542,2026-10-11T15:11:51Z
+ca75e032-ad39-4b3e-a0b5-3b4f6b841762,way/1348052601,,,course,,,active,,4,,,,,,,,IL,,US,41.0850887,-88.4752635,2026-10-11T15:12:29Z
+ca91e04c-5a0d-423e-b14c-2bdd051b2e5a,way/190961369,Foss Park Golf Course,,course,,,active,,,,,+1-847-689-7490,https://www.fossparkgolf.org/,,3124 Argonne Drive,North Chicago,IL,60064,US,42.3264669,-87.8779165,2026-10-11T15:12:01Z
+cbd0e7ef-d99c-4592-a234-2a087d76388a,way/295902622,Black Hawk Run Golf Club,,course,,,active,,,,,+1-815-947-3011,http://www.blackhawkrun.com/,,3501 South Golf Road,Stockton,IL,61085,US,42.3243172,-90.0151656,2026-10-11T15:06:21Z
+ccc3add4-161b-40e9-85d0-730e034cf0eb,way/295678320,McLeansboro Golf Club,,course,,,active,,,,,+1-618-643-2400,https://www.mclgolf.org/,,,McLeansboro,IL,62859,US,38.0938688,-88.56421,2026-10-11T15:12:08Z
+ccd26228-bf10-4e3c-a869-b751440ffc0e,way/34318240,Columbus Park Golf Course,,course,,,active,9,,,,,,,5701 West Jackson Boulevard,Chicago,IL,60644,US,41.8741142,-87.7706943,2026-10-11T15:11:51Z
+cd286133-e88c-4656-ad00-1d1263c0cc12,way/121553270,Sycamore Golf Club,,course,,,active,9,36,,,,,,,,IL,,US,41.9834063,-88.6703088,2026-10-11T15:11:57Z
+ce4d1afa-21de-47f1-8432-867254215b82,way/93362767,Randall Oaks Golf Course,,course,,,active,,,,,,,,,,IL,,US,42.1136016,-88.3440927,2026-10-11T15:11:55Z
+ce9b1286-417f-4102-8099-eed9e7e9cb58,way/1055837085,Egyptian Country Club,,course,,,active,9,35,,,,,,,,IL,,US,37.142398,-89.1890226,2026-10-11T15:12:24Z
+d03a0234-b0e3-41c6-9b6e-de00e2f79253,relation/15807957,Lake Barrington Shores Golf Club,,course,,,active,,,,,+1-847-382-4240,https://www.lbsgolf.com/,,40 Shoreline Road,Lake Barrington,IL,60010,US,42.2192267,-88.1536605,2026-10-11T15:12:43Z
+d0bcd05f-b141-4e09-9428-886121964f77,way/800853167,Anetsberger Golf Course,,course,,,active,,,,,,,,1750 Techny Road,Northbrook,IL,60062,US,42.1212143,-87.8231744,2026-10-11T13:30:58Z
+d151ee95-634a-40dc-b0b7-6266a16c20a6,relation/4086071,Ironhorse Golf Club,,course,,,active,18,72,,,+1-217-253-6644,https://www.ironhorsegc.com/,,2000 Ironhorse Drive,Tuscola,IL,61953,US,39.8168754,-88.2813372,2026-10-11T15:12:35Z
+d15bf8ee-7a6d-4bca-81ed-b8ee9ba3c0d2,way/137367411,Champaign Country Club,,course,,,active,18,71,,,+1-217-356-1391,https://www.champaigncountryclub.com/,,1211 South Prospect Avenue,Champaign,IL,61820,US,40.1026666,-88.2625122,2026-10-11T15:12:00Z
+d27d1cd2-2749-4c26-8b0a-5b0460579784,way/502798752,Charleston Country Club,,course,,,active,,,,,,,,,,IL,,US,39.4946623,-88.2351871,2026-10-11T15:12:18Z
+d31af742-40f9-459f-ba34-252f3306e08c,way/186822985,Downers Grove Golf Club,,course,,,active,9,,,,,,,,,IL,,US,41.8012295,-88.0424973,2026-10-11T15:06:14Z
+d340cf50-0b1a-4cc6-8727-e9f611b1cf2f,node/10186016485,The Green,,practice,,,active,,,,,,https://www.golfthegreen.com,,2133 North Elston Avenue,Chicago,IL,60614,US,41.9205187,-87.670605,2026-10-11T15:05:59Z
+d38e6c01-b0f0-4ad3-8c83-efef82833940,way/163604330,River Lakes Golf Course,,course,,,active,,,,,,,,,,IL,,US,38.4684111,-90.2361178,2026-10-11T15:12:01Z
+d406d0c2-ba8b-4e82-bebc-2c0f3a6c7d6f,relation/20151148,Prairie Landing Golf Club,,course,,,active,,,,,,https://www.prairielanding.com/,,,,IL,,US,41.88958,-88.2526593,2026-10-11T15:12:45Z
+d437b922-85a1-4d1f-af0b-566e5b2e4908,way/247597128,Hillcrest Golf Center,,course,,,active,,4,,,,,,,,IL,,US,40.701262,-89.4365274,2026-10-11T15:12:05Z
+d4611373-5655-4400-8ab6-beb039460979,way/167160598,Highland Springs Municipal Golf Course,,course,,,active,18,72,,,,,,,,IL,,US,41.4228588,-90.6200682,2026-10-11T15:06:14Z
+d4c64868-b54c-4d84-9c28-611a56842929,way/670007592,Carmi Country Club,,course,,,active,9,35,,,,https://www.carmicountryclub.com/,,883 County Road 1350 North,Carmi,IL,62821,US,38.0725647,-88.2103831,2026-10-11T15:12:20Z
+d50f4ac6-7772-49e6-bbab-4d02bd49b7c3,node/6514238928,Ivanhoe Club,,course,,,active,,,,,,,,,,IL,,US,42.2820944,-88.0585737,2026-10-11T13:29:32Z
+d5220d15-823e-42fe-92cc-ca817560ff51,way/143108414,Fountain Hills Golf Club,,course,,,active,,,,,,,,12601 South Kedzie Avenue,Alsip,IL,60803,US,41.6664907,-87.6974517,2026-10-11T15:12:00Z
+d5bed5fa-7881-4ac4-bb76-cbee7da49643,way/272591388,Nettle Creek Country Club,,course,,,active,,27,,,,,,,,IL,,US,41.3601355,-88.4894334,2026-10-11T15:12:07Z
+d6814fae-0828-43ec-85e9-ec51c6ed46d7,node/6259643059,Crystal Lake Golf,,course,,,active,,,,,,,,,,IL,,US,42.2653509,-88.2418459,2026-10-11T13:29:32Z
+d75f0145-494e-47d7-9b60-80bb57a21e1f,relation/9397780,Governors Run Golf Course,,course,,,active,,,,,+1 618 594 4585,https://www.governorsrun.com/,,3300 Governors Drive,Carlyle,IL,62231,US,38.6360263,-89.3666774,2026-10-11T15:12:38Z
+d7b830be-ad74-4f09-b351-27acb00e30a8,way/96598689,Better Shots Driving Range,,practice,,,active,,,,,,,,825 Tyrrell Road,Gilberts,IL,60136,US,42.0806925,-88.3523278,2026-10-11T15:11:55Z
+d7c25311-c899-4bac-a412-dec95d220c15,node/12046306103,Whitetail Ridge Golf Dome,,practice,,,active,,,,,+1-331-999-3545,,,3360 Station Drive,Oswego,IL,60543,US,41.6862979,-88.3830219,2026-10-11T15:05:59Z
+d8037da1-aaea-4df8-a710-504372d18d97,way/970751774,Lamoine Valley Golf Club,,course,,,active,,,,,,,,,,IL,,US,40.5878191,-90.9770392,2026-10-11T15:06:36Z
+d8279816-7dcf-4221-84d4-1ee1bc864ad6,relation/16795579,Bowes Creek Country Club,,course,,,active,,,,,,,,1250 Bowes Creek Boulevard,Elgin,IL,60124,US,41.9967702,-88.3855722,2026-10-11T13:31:48Z
+d87df306-0771-4046-bd3c-c83492c71fe1,way/248532747,Pinnacle Country Club and Golf Course,,course,,,active,18,72,,,,,,,,IL,,US,41.402354,-90.5331661,2026-10-11T15:12:05Z
+d8a09304-9dcf-42ab-9ff3-0a538ac737ed,way/388595752,Cross Creek Golf Course,,course,,,active,,,,,,https://www.crosscreekgolfandestates.com/,,,,IL,,US,41.8060239,-90.0013839,2026-10-11T15:12:14Z
+d8c4c5d1-47fa-46ae-8840-1014c10a9685,way/440600847,Hunter Country Club,,course,,,active,18,69,,,,,,,,IL,,US,42.4761689,-88.3007171,2026-10-11T15:12:15Z
+d8c5f7dd-5741-4beb-95ad-c024dcaaffe1,way/175005164,Phillips Park Golf Course,,course,,,active,18,71,,,,https://www.phillipsparkaurora.com/,,1001 Hill Avenue,Aurora,IL,60505,US,41.7374123,-88.2905223,2026-10-11T15:12:01Z
+d8e16768-329e-4d14-8f4f-19ef2b8e2b36,relation/2684474,White Eagle Golf Club,,course,,,active,27,108,,,+1 630 983 0012,https://www.whiteeaglegc.com/,,3400 Club Drive,Naperville,IL,60564-4606,US,41.7218193,-88.2158769,2026-10-11T15:12:33Z
+d94ca7e6-fe0b-4ff9-80aa-fb68835703d5,way/385046762,,,course,,,active,,,,,,,,,,IL,,US,39.4444759,-89.7998328,2026-10-11T15:12:14Z
+d9f4378a-435a-42ef-ac23-22dda226b8a4,way/295902653,The Eastwood Golf Course & Restaurant,,course,,,active,9,36,,,+1-815-673-5551,https://www.eastwoodtwincreeks.com/,,2000 Eastwood Avenue,Streator,IL,61364,US,41.1449249,-88.8530572,2026-10-11T15:12:10Z
+da072bfb-b26b-4542-beb3-7dbcb5460914,way/29396293,Indian Hill Golf Club,,course,,,active,18,,,,,,,1 Indian Hill Road,Winnetka,IL,60093,US,42.09043,-87.7338829,2026-10-11T15:11:49Z
+da09a457-ed07-4fe6-8ceb-fbe36808d0af,way/531111333,Chester Country Club,,course,,,active,,,,,,,,,,IL,,US,37.9361536,-89.8574665,2026-10-11T15:12:18Z
+da7ed500-9d75-492f-9103-320580cb4052,way/184301446,Salem Country Club,,course,,,active,18,72,,,+1 618 548 2975,https://salemcc.net/,,700 Divot Drive,Salem,IL,62881,US,38.6130831,-88.9373061,2026-10-11T15:12:01Z
+dba9e131-c3a7-4b49-85f4-d5eb6f36cad6,way/238828753,Stonehenge Golf Course,,course,,,active,18,72,,,,,,,,IL,,US,42.1945557,-88.1648573,2026-10-11T15:12:03Z
+dbd584f2-db86-4e4e-aa33-64b81ff99397,way/588223416,Lockport Hole 4,,course,,,active,,,,,,,,,,IL,,US,41.5871664,-88.0302381,2026-10-11T15:12:20Z
+dc720499-49d6-49e9-aa2a-ec3ab7bf0241,way/587346692,Cardinal Golf Course,,course,,,active,18,71,,,,,,15737 N North Beach Road,Effingham,IL,62401,US,39.1430295,-88.6405276,2026-10-11T13:30:54Z
+dc9fd801-77a2-498c-8eeb-85eedd2a496f,way/300592490,River Heights Golf Course,,course,,,active,,,,,+1 815-758-1550,https://www.golfdekalb.com/riverheights/,,1020 Sharon Drive,Dekalb,IL,60115,US,41.913789,-88.7691428,2026-10-11T15:12:10Z
+de1e5a86-9237-404c-8786-03234f9e4d81,way/201231641,Prestbury Golf Course,,course,,,active,18,70,,,,,,,,IL,,US,41.7789609,-88.4190525,2026-10-11T15:12:03Z
+de23a5e9-09b2-44b9-a149-b1026e030dc6,relation/13764464,Tri-City Country Club,,course,,,active,9,35,,,+1-217-832-9782,https://tricitycc.com,,129 South Henson Road,Villa Grove,IL,61956,US,39.8557488,-88.1535265,2026-10-11T15:12:41Z
+defa2e3a-ed96-4369-94e3-618198c2ba76,way/29109839,,,course,,,active,,,,,,,,,,IL,,US,38.5978082,-90.1051123,2026-10-11T15:11:49Z
+df334901-c9a8-4c44-8943-3198b4d48d72,way/295902620,Anderson Fields Golf Course,,course,,,active,9,35,,,+1-815-672-3702,https://www.ci.streator.il.us/anderson-fields.php,,1901 North Bloomington Street,Streator,IL,61364,US,41.1458062,-88.83349,2026-10-11T15:12:08Z
+df3ac8fe-bc5a-4883-9b4c-15f2db24bab2,way/295678323,Rock Spring Golf Course,,course,,,active,9,,,,+1-618-465-9898,https://www.rockspringgolfcourse.com/,,2500 Rock Spring Drive,Alton,IL,62002,US,38.9097024,-90.1615709,2026-10-11T15:12:08Z
+df411c18-a060-4ceb-9e18-fc784e81a717,way/316313717,Pinecrest Golf Course,,course,,,active,18,73,,,,https://www.pinecresthuntley.com/,,11220 Algonquin Road,Huntley,IL,60142,US,42.1791523,-88.4175989,2026-10-11T15:12:12Z
+df52ddec-7560-4135-b618-65f6dcbd3e9c,way/295678315,Cardinal Creek Golf Course,,course,,,active,18,72,,,,,,1192 Golf Course Road,,IL,,US,38.5524242,-89.8554944,2026-10-11T15:12:08Z
+df8b7c41-f723-4cd8-bcbf-541f4f6d6220,way/191039185,Twin Lakes Golf Course,,course,,,active,9,28,,,,,,,,IL,,US,41.7825628,-87.9859739,2026-10-11T13:30:03Z
+df8ee1a8-d714-41a7-99a6-aef67a1126e6,way/119098386,Saint Andrew's Golf and Country Club,,course,,,active,,,,,+1-630-231-3100,https://www.standrewsgc.com/,,2241 Route 59,West Chicago,IL,60185,US,41.9247778,-88.2018675,2026-10-11T15:11:57Z
+e0da0484-05af-43b2-90cf-df2483058dc3,way/1381486431,Hawthorne Ridge Golf Course,,course,,,active,18,72,,,,,,,,IL,,US,41.1596747,-90.7484741,2026-10-11T15:12:29Z
+e0e98a7b-7771-4500-b239-09394be48031,way/32334176,Robert A. Black Golf Course,,course,,,active,9,,,,,https://robertblack.cpdgolf.com/,,2045 West Pratt Boulevard,Chicago,IL,60645,US,42.0025917,-87.6847849,2026-10-11T15:11:51Z
+e0fe9592-ab87-40d2-9456-15f00673687c,way/193105370,University Golf Club,,course,,,active,18,72,,,+1-708-747-0306,http://www.universitygolfclub.com/,,23520 Crawford Avenue,University Park,IL,60484,US,41.4601083,-87.7134238,2026-10-11T13:30:03Z
+e1d42a51-d397-4be7-bd1a-b144b5f635c8,way/209994107,Beverly Country Club,,course,,,active,18,71,,,,https://www.beverlycc.org/,,8700 South Western Avenue,Chicago,IL,60620,US,41.7355,-87.6849321,2026-10-11T13:30:07Z
+e1dbb327-8c8b-4b9f-a06e-efc51e839adb,way/63033741,Kankakee Elks Country Club,,course,,,active,,,,,,,,,,IL,,US,41.0845268,-87.7849067,2026-10-11T15:11:55Z
+e20d3ce1-8a33-4c5e-8e09-2aa0e2777889,way/295902652,Sunset Golf Course,,course,,,active,,,,,+1-815-734-4839,http://sunsetgolfmm.com/,,216 Sunset Hill,Mount Morris,IL,61054,US,42.057657,-89.4395327,2026-10-11T13:30:27Z
+e2b48481-dd1a-4cb4-8352-a8d83c4e23f9,way/854193390,,,course,,,active,,,,,,,,,,IL,,US,38.442222,-89.5441425,2026-10-11T15:12:23Z
+e2e56d5b-37a9-431b-8aa4-67025088f0ed,way/187272915,Prairie Bluff Public Golf Club,,course,,,active,,65,,,,,,19433 Renwick Road,,IL,,US,41.5917733,-88.0858085,2026-10-11T15:12:01Z
+e387a491-1103-4ec3-baac-94863db00a5a,way/606452201,Rolling Greens Golf Course,,course,,,active,,,,,,,,let the key empty let the key empty,Mount Sterling,IL,62353,US,40.0080501,-90.7616634,2026-10-11T15:12:20Z
+e38b7b0e-41f4-4f40-bfe8-ef89c128f4dd,way/601266821,,,course,,,active,,,,,,,,,,IL,,US,41.0264157,-89.3713373,2026-10-11T15:12:20Z
+e583956b-ee21-4d17-b4da-3ad452ccb42a,way/363645453,Railside Golf Club,,course,,,active,,,,,+1 217 784 5000,https://railsidegc.com/,,120 West 19th Street,Gibson City,IL,60936,US,40.4839771,-88.3778603,2026-10-11T15:06:26Z
+e5ae16d4-4331-45f4-a6b7-f72790a8890a,way/827067869,,,course,,,active,,,,,,,,,,IL,,US,39.6895943,-88.3765178,2026-10-11T15:12:23Z
+e69b3a48-c532-401c-aa76-6f263b865dc3,way/33542466,Twin Lakes Golf Course,,course,,,active,,,,,,,,,,IL,,US,42.1046554,-88.016717,2026-10-11T15:11:51Z
+e6dd49c8-e4ad-4107-8571-8a261782f4cb,way/24720710,Glen View Club,,course,,,active,,,,,,,,100 Golf Road,Golf,IL,60029,US,42.0589592,-87.78278,2026-10-11T15:06:00Z
+e79dbcc5-b305-434b-90c3-63b5de252653,way/40334338,Shepherd's Crook Golf Course,,course,,,active,18,71,,,,,,351 North Green Bay Road,Zion,IL,60099,US,42.4880686,-87.8779954,2026-10-11T15:11:51Z
+e7bab8ec-b5ae-48ff-b5cc-bc5d6323bcd1,way/296074170,Prairie Isle Golf Club,,course,,,active,,,,,+1-815-356-0202,http://www.prairieisle.com/,,2216 Route 176,Prairie Grove,IL,60012,US,42.2703261,-88.2444634,2026-10-11T15:12:10Z
+e7c50798-6e3c-4d9e-bfe5-be8fe2b28f3c,way/1130869341,Metropolis Country Club,,course,,,active,,,,,,,,,,IL,,US,37.1879645,-88.6989047,2026-10-11T15:12:24Z
+e7dc76c7-4b0d-4291-9cf3-a2d6836e86c6,way/437206986,Bull Valley Golf Club,,course,,,active,,67,,,,,,,,IL,,US,42.3035469,-88.408832,2026-10-11T15:12:15Z
+e8450e0e-5f0b-4d03-b7ff-727c9906e34c,relation/13079320,Deer Valley Golf Club,,course,,,active,,,,,,https://www.dvforegolf.com/,,,,IL,,US,41.6354894,-89.6800889,2026-10-11T15:12:41Z
+e8453ce4-57a6-4bc0-b656-bab9f56814e0,way/143788220,Pottawatomie Golf Course,,course,,,active,9,35,,,,,,845 North 2nd Avenue,St. Charles,IL,60174,US,41.9240144,-88.3162282,2026-10-11T15:12:00Z
+e9a38b10-bdf9-4507-b644-d354be264459,way/141166046,Urbana Country Club,,course,,,active,18,72,,,+1-217-344-8670,https://ucc1922.com/,,100 East Country Club Road,Urbana,IL,61801,US,40.1311463,-88.2088654,2026-10-11T15:12:00Z
+ea49ad72-dad1-4c93-b924-4bfc09ff2893,way/230393225,Lake of the Woods Golf Course,,course,,,active,,36,,,+1-217-586-2183,https://www.golfthelake.com/,,405 North Lake of the Woods Road,Mahomet,IL,61853,US,40.2034683,-88.3774082,2026-10-11T15:12:03Z
+eacd2f6d-51c5-4ba0-89b6-48bb1858f051,relation/7910837,Ruffled Feathers Golf Community,,course,,,active,18,72,,,,,,,,IL,,US,41.6573792,-87.9612361,2026-10-11T15:12:38Z
+eaf35016-0900-4e84-ba8b-2b2c0fc258f5,way/865452915,Bourne Golf Club,,course,,,active,18,72,,,,,,,,IL,,US,41.4501944,-88.7181408,2026-10-11T15:12:23Z
+eb2369b1-84af-4351-8f24-cd7aaf735e6b,way/384976820,Litchfield Country Club,,course,,,active,,,,,+1 217 324 4115,http://s469208865.onlinehome.us/,,105 Old Quarry Lane,Litchfield,IL,62056,US,39.1703622,-89.6343224,2026-10-11T15:12:14Z
+eb37f882-420e-40fb-b4aa-e0c37c018f78,relation/19892752,Stonewolf Golf Club,,course,,,active,18,72,,,,,,,,IL,,US,38.6184993,-89.9947829,2026-10-11T15:12:45Z
+eb762d5f-44df-40a5-82e3-0a98cac3c116,way/178617955,Sugar Creek Golf Course,,course,,,active,9,32,,,,,,,,IL,,US,41.8724627,-87.9652494,2026-10-11T15:12:01Z
+ebc3f7a4-0bd2-47e5-9990-8871ca5322db,way/31824106,Lake Bluff Golf Course,,course,,,active,18,71,,,,,,355 West Washington Avenue,Lake Bluff,IL,60044,US,42.2848345,-87.8632919,2026-10-11T15:11:51Z
+ebedf58e-fc6f-4785-9c9a-52b9a676f059,relation/3935319,Apple Canyon Lake Golf Course,,course,,,active,,,,,+1 815-492-2477,https://www.applecanyonlake.org/amenities/golf.php,,14A200 East Apple Canyon Road,Apple River,IL,61001,US,42.4151803,-90.1546743,2026-10-11T15:12:35Z
+ec14289f-74e5-4486-aa66-0bbed5230f46,way/446218264,Emerald Hill Golf Course,,course,,,active,,,,,,https://emeraldhillgolf.com/,,,,IL,,US,41.8265715,-89.6290211,2026-10-11T15:12:15Z
+ec20d36b-62d0-4f84-ae2a-142a6c63ad46,relation/16362744,Lincoln Oaks Golf Course,,course,,,active,,29,,,,https://www.lincolnoaksgolfcourse.com/,,395 East Richton Road,Crete,IL,,US,41.4635459,-87.6006175,2026-10-11T15:12:43Z
+ed3709d7-0934-412e-a8d6-fd7e6fdbf747,relation/12585470,TPC Deere Run,,course,,,active,18,71,,,,,,3100 Heather Knoll,Silvis,IL,61282,US,41.4758259,-90.3954119,2026-10-11T15:12:41Z
+eeb76c6c-a2a1-401a-ad2d-3036ee1968a4,way/123165481,Fox Lake Country Club,,course,,,active,,,,,+1-847-587-6411,https://www.foxlakecc.net/,,7220 North State Park Road,Fox Lake,IL,60020,US,42.4337552,-88.1937192,2026-10-11T13:29:54Z
+eff11bc8-5a1b-404a-b619-bf7d3e4c7204,way/477049513,Galena Golf Club,,course,,,active,18,71,,,,,,11557 US 20,Galena,IL,61036,US,42.4482658,-90.446283,2026-10-11T15:12:17Z
+f05edcee-055c-4f46-97be-b88afb5d2791,way/295771697,Macomb Country Club,,course,,,active,,,,,+1-309-837-2132,https://mccgolf.org/,,20 Hickory Grove,Macomb,IL,61455,US,40.4755406,-90.6631282,2026-10-11T15:12:08Z
+f0b02b7e-7a5e-40f4-a266-744b1d4daef2,way/40333122,Greenshire Golf Course,,course,,,active,,,,,,,,,,IL,,US,42.4238978,-87.8524178,2026-10-11T15:11:51Z
+f1453c45-308f-43d1-9a22-9f559aed1d7b,way/31928498,Cantigny Golf,,course,,,active,,,,,,http://www.cantignygolf.org/,,,,IL,,US,41.848937,-88.1556909,2026-10-11T15:11:51Z
+f155bd5f-0533-4885-b8c3-ff94509a659d,way/227900164,,,course,,,active,,,,,,,,,,IL,,US,40.8657044,-90.3582946,2026-10-11T13:30:07Z
+f15d1b16-000f-4879-a15c-9e88920ffb33,way/379345143,SPG Green Garden Country Club,,course,,,active,,,,,+1 815 469 3350,https://www.greengardencc.com/,,9511 West Manhattan-Monee Road,Frankfort,IL,60423,US,41.4207011,-87.835075,2026-10-11T15:12:14Z
+f1c3b609-06b6-4237-92b6-62d4c3f2f902,way/281979769,Chicago Golf Club,,course,,,active,18,70,,,,,,,,IL,,US,41.8454936,-88.1162077,2026-10-11T15:12:07Z
+f1c506b0-5315-4d82-b6bb-fd0cf85843e1,way/782435512,Gateway National Golf Links,,course,,,active,18,71,,,,,,,,IL,,US,38.658395,-90.1446497,2026-10-11T13:30:58Z
+f2398e8b-9b77-451d-a392-dfffaefa0c66,way/70650250,Aurora Country Club,,course,,,active,18,72,,,,,,,,IL,,US,41.7487443,-88.3542336,2026-10-11T15:11:55Z
+f24dcdc1-41db-4390-9e47-29ba0ca09d04,way/437711466,Mini-Golf,,mini,,,active,,,,,,,,,,IL,,US,41.540303,-87.7875388,2026-10-11T15:12:15Z
+f295d60a-9bff-4c20-b900-baa957b42b90,way/264547232,Monticello Golf Club,,course,,,active,9,,,,+1-217-762-2831,https://www.monticellogolfclub.org/,,720 West Marion Street,Monticello,IL,61856,US,40.0231703,-88.584577,2026-10-11T13:30:12Z
+f2a53c34-af4f-4ad3-b3e0-283648af450a,way/588223419,Lockport Hole 3,,course,,,active,,,,,,,,,,IL,,US,41.5866222,-88.0299369,2026-10-11T13:30:54Z
+f30c97ed-7031-4e7a-b99e-f659e6cc2f1b,way/905086571,Swan Hills Golf Course,,course,,,active,18,71,,,,,,,,IL,,US,42.3206592,-88.8920933,2026-10-11T15:12:23Z
+f333c526-a8a8-4b56-9dcc-823f4989c106,way/295902654,The General,,course,,,active,18,72,,,,https://www.eagleridge.com/golf/,,,,IL,,US,42.3764702,-90.3277393,2026-10-11T15:12:10Z
+f35bf9c6-6bfd-4854-9bcd-f8a3048aad97,way/384935404,Pekin Country Club,,course,,,active,,,,,+1 309 347 3144,https://www.pekincc.com/,,310 Country Club Drive,Pekin,IL,61554,US,40.5748366,-89.5865589,2026-10-11T15:12:14Z
+f3772648-5323-4835-8df5-af3aebd7b2cb,way/544808579,Wayton Hill's Golf Course,,course,,,active,,,,,,,,,,IL,,US,41.3664319,-89.5110753,2026-10-11T15:12:18Z
+f424727b-5db0-4732-9dd6-db3951696628,relation/15840067,Edgebrook Golf Course,,course,,,active,18,,,,,https://edgebrook.forestpreservegolf.com/,,6100 North Central Avenue,Chicago,IL,60646,US,41.993607,-87.7742785,2026-10-11T15:12:43Z
+f4452f1e-f31e-442b-9fdc-6e236ebe7c36,relation/19043207,Fyre Lake Golf Club,,course,,,active,18,70,,,,,,,,IL,,US,41.3069421,-90.497403,2026-10-11T15:12:45Z
+f4e1c6f2-177b-4eba-a80f-ae84cc95cf7b,way/89170121,Manteno Golf Club,,course,,,active,,,,,,,,,,IL,,US,41.2253238,-87.8044806,2026-10-11T15:11:55Z
+f54407cb-f885-4f49-b141-0717b36c7fe9,way/143789570,Eaglewood Resort and Spa,,course,,,active,18,70,,,,,,,,IL,,US,41.9600528,-88.0370607,2026-10-11T15:12:00Z
+f5cea372-54b2-4200-b184-1ed46e0abf5a,node/9987583145,,,course,,,active,,,,,,,,,,IL,,US,39.1739904,-89.4758927,2026-10-11T13:29:32Z
+f61c1399-395f-4f90-9fe3-727e09b6ce18,way/295902625,Edgewood Park Golf Club,,course,,,active,18,72,,,+1-815-882-2317,https://www.edgewoodparkgolfclub.com/,,3269 Illinois Highway 89,McNabb,IL,61335,US,41.1516458,-89.2113923,2026-10-11T15:12:10Z
+f661ba6b-cb50-451a-bb21-8931c8fd418f,way/295678312,American Legion Golf Course,,course,,,active,9,,,,+1-618-656-9774,https://www.edwardsvillelegion.com/,,58 South State Route 157,Edwardsville,IL,62025,US,38.8044012,-89.965113,2026-10-11T15:12:08Z
+f6d33fa4-4bb3-48a7-bc60-c86bc8ae1354,way/814992479,Oakwood Country Club,,course,,,active,18,71,,,,,,,,IL,,US,41.4445145,-90.419778,2026-10-11T15:06:33Z
+f7073ee9-aca7-44cf-b90a-a24bf72a872a,way/1276717966,Nashville Golf Course,,course,,,active,,,,,,,,,,IL,,US,38.3474542,-89.3683765,2026-10-11T15:12:28Z
+f7205d7d-7f0d-4bfb-9104-222c4622dbca,way/175838557,Ridge Country Club,,course,,,active,18,70,,,,https://www.ridgecc.org/,,10522 South California Avenue,Chicago,IL,60655,US,41.702574,-87.6925782,2026-10-11T15:12:01Z
+f76ec01c-26d0-41ae-bed3-2a39973ee4c1,way/295949951,Broken Arrow Golf Club,,course,,,active,,,,,+1-815-836-8858,https://www.golfbrokenarrow.com/,,16325 Broken Arrow Drive,Lockport,IL,60441,US,41.5763232,-88.0148674,2026-10-11T15:12:10Z
+f7ec7a66-ce61-41e8-9df4-503f9b04490c,way/200053842,River Lakes Golf Course,,course,,,active,,,,,,,,,,IL,,US,38.4697831,-90.2434042,2026-10-11T15:12:03Z
+f7ffa444-9de4-416a-a6dd-74255bcdcc31,way/380507162,Greeville Country Club,,course,,,active,,,,,,,,,,IL,,US,38.9058641,-89.3748068,2026-10-11T15:12:14Z
+f8852a03-84b4-4ba0-bae4-e7b593430c80,way/26444306,Mauh-Nah-Tee-See Country Club,,course,,,active,,,,,,,,,,IL,,US,42.2783955,-89.0156353,2026-10-11T15:11:49Z
+f8d0c7da-4f86-425f-b5d0-7f59ee523c2c,way/31046053,Fresh Meadow Golf Club,,course,,,active,,,,,,,,2144 South Wolf Road,Hillside,IL,60162,US,41.8511575,-87.9079895,2026-10-11T15:11:49Z
+f8df3e88-3e6c-4fc3-9022-e57b3f3837eb,way/296074155,Countryside Golf Club,,course,,,active,18,72,,,,https://www.countrysidegolfclub.org/,,20800 West Hawley Street,Mundelein,IL,60060,US,42.2647259,-88.0358312,2026-10-11T15:12:10Z
+f92fb50f-b47e-4b21-9c4c-ccea8de07c0c,way/1193312898,Terry Park Golf Course,,course,,,active,9,36,,,+1-217-436-2531,https://terryparkgc.com/,,30565 Terry Park Rd,Palmyra,IL,62674,US,39.4436699,-89.9722596,2026-10-11T15:12:27Z
+f94374e4-1688-4510-aac4-077b6723300b,way/184510572,Lake Shore Country Club,,course,,,active,,65,,,,https://www.lakeshorecc.com/,,1255 Sheridan Road,Glencoe,IL,60022,US,42.1485851,-87.766133,2026-10-11T15:12:01Z
+f966da27-915e-496e-9808-0c69e5a92bc2,way/93327586,Aspen Ridge Golf Course,,course,,,active,,,,,,,,,,IL,,US,41.1810262,-87.8420225,2026-10-11T15:11:55Z
+f97ff00c-b94a-4f2c-b748-98b4e9bf1167,way/316796260,Lakeside Country Club,,course,,,active,9,32,,,+1-309-827-5402,https://lakesideblm.com/,,1201 East Croxton Avenue,Bloomington,IL,61701,US,40.4687411,-88.9748967,2026-10-11T13:30:33Z
+f9dc55fb-ac70-4808-b133-0613c9cf2f17,relation/13059381,Rock River Golf Course,,course,,,active,,,,,,,,,,IL,,US,41.7671567,-89.6391218,2026-10-11T15:12:41Z
+f9e4967e-d833-4c7c-9921-6f89276fbd85,way/1340304749,Oak Glen Golf Course,,course,,,active,18,71,,,,,,11234 North 600th Street,Robinson,IL,62454,US,39.0159879,-87.83871,2026-10-11T15:12:29Z
+fa13d06f-5e61-4ef9-8c41-e41fa54e425d,way/305034185,Carthage Golf Course,,course,,,active,9,35,,,+1-217-357-3625,http://www.carthagegolfclub.com/,,Lake Road,Carthage,IL,62321,US,40.4240765,-91.1503813,2026-10-11T15:06:24Z
+fa1f08b3-8243-4ece-8e15-7743aa8609bb,way/900213773,,,course,,,active,18,72,,,,,,,,IL,,US,38.3340658,-88.9311917,2026-10-11T15:12:23Z
+fa566a4c-7720-4275-9edd-edb62740c9a4,way/764224674,Crystal Tree Golf and Country Club,,course,,,active,18,72,,,,,,,,IL,,US,41.6208982,-87.8776807,2026-10-11T15:12:21Z
+fa7ef1fa-ac36-428f-9dd7-738d6582f830,way/558878674,Harry Mussatto Golf Course (WIU),,course,,,active,9,36,,,,,,,,IL,,US,40.4817752,-90.6886014,2026-10-11T15:12:18Z
+fac5d61e-dedc-4f98-baba-7f0370c3345b,way/31824091,Deerpath Golf Course,,course,,,active,18,70,,,+1-847-810-3888,https://www.deerpathgolf.com/,,500 West Deerpath Road,Lake Forest,IL,60045,US,42.2532253,-87.8576443,2026-10-11T13:29:39Z
+faecbd06-b225-4a5d-ba4b-aff2c176cff6,way/866433623,,,course,,,active,,,,,,,,,,IL,,US,41.4925784,-90.4628694,2026-10-11T15:12:23Z
+fb10c026-9185-4fe4-81f9-183253890f3f,way/1263548317,driving range,,practice,,,active,,,,,,,,,,IL,,US,38.8331254,-89.8366313,2026-10-11T15:12:28Z
+fb754c5d-d65d-496a-8879-8696466c1533,way/1134643517,Cary Country Club,,course,,,active,18,74,,,,,,2400 Grove Ln,Cary,IL,60013,US,42.1968553,-88.2440184,2026-10-11T15:12:24Z
+fbe3685c-ceee-4c6d-bc1e-529c5fb7d335,relation/17889223,Whisper Creek Country Club,,course,,,active,18,71,,,,,,,,IL,,US,42.1473242,-88.4464283,2026-10-11T15:12:45Z
+fc04c37f-b76f-44ea-bd05-0f7b63a61d81,way/39875528,Mount Hawley Country Club,,course,,,active,18,71,,,,,,,,IL,,US,40.783086,-89.5975834,2026-10-11T15:11:51Z
+fd65e09c-1c99-41bf-9541-a5f68a4e1f37,way/192699321,Old Orchard Country Club,,course,,,active,9,36,,,,,,,,IL,,US,39.6103307,-90.7662211,2026-10-11T15:12:01Z
+fd69b324-5354-4370-8037-748866b54893,way/588223417,Lockport Hole 1,,course,,,active,,,,,,,,,,IL,,US,41.5861881,-88.0294555,2026-10-11T15:12:20Z
+fedaa143-89d2-431f-b3fe-d292d0474cdf,way/587607662,North County Country Club,,course,,,active,,,,,+1 618 282 6590,https://www.northcountycountryclub.com/,,703 West Market Street,Red Bud,IL,62278,US,38.2158244,-90.0042593,2026-10-11T15:12:20Z
+ff5bbe38-c307-46af-aba0-3ac8fabda494,way/819258332,,,course,,,active,,,,,,,,,,IL,,US,42.2282132,-88.2190731,2026-10-11T15:12:23Z

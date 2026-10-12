@@ -1,0 +1,124 @@
+id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
+00503679-b4fe-41c6-bcfa-36bdcd762ba0,way/501079637,,,course,,,active,9,36,,,,,,,,ND,,US,48.7725839,-97.7560378,2026-10-11T15:12:18Z
+05ba88f5-dbc0-411f-bbc3-10e0339ce677,way/48057195,Apple Creek Country Club,,course,,,active,,,,,,,,,,ND,,US,46.8052133,-100.6484332,2026-10-11T13:29:44Z
+076566b1-390a-4bf5-b0e9-e82dce7ceb40,way/277458559,,,course,,private,active,,,,,,,,,,ND,,US,46.7590557,-96.8181857,2026-10-11T15:12:07Z
+07c0ec8b-7a37-425c-a7cd-657f1efcb2cb,way/692799447,Garrison Golf Club,,course,,,active,9,36,,,,,,,,ND,,US,47.6428849,-101.3934738,2026-10-11T13:30:58Z
+0a6e7379-7a8c-4414-bc68-669dbf060553,way/592211137,Cando Golf Club,,course,,,active,9,35,,,+1 701 968 3813,https://www.candond.com/golf.html,,,,ND,,US,48.4974957,-99.1986117,2026-10-11T15:12:20Z
+0c16e639-cfa5-43e1-b244-4290ddb5d38c,way/48115781,Tom O'Leary Golf Course,,course,,,active,,65,,,,,,,,ND,,US,46.8186976,-100.8005219,2026-10-11T13:29:44Z
+0ce9edf1-6ef0-4d59-896a-c4e9824de0f5,way/245874307,Bully Pulpit Golf Course,,course,,,active,18,72,,,,,,,,ND,,US,46.873956,-103.5341795,2026-10-11T13:30:12Z
+10d04e1a-953c-441f-9268-dc24228822ff,way/139757219,Valley City Golf & Country Club,,course,,,active,9,36,,,,,,,,ND,,US,46.9316999,-97.9869952,2026-10-11T15:12:00Z
+15376638-145a-47b9-8664-e509c349c7c0,way/791116483,,,course,,,active,,,,,,,,,,ND,,US,48.6406809,-99.8008507,2026-10-11T15:12:21Z
+173065df-dac1-436c-811e-cdae6bd2f415,way/710181683,,,course,,,active,,,,,,,,,,ND,,US,46.3744904,-102.3028234,2026-10-11T15:12:21Z
+175f2ffe-22cf-4d4d-b15e-3c476270507a,way/940595812,,,course,,,active,,,,,,,,,,ND,,US,48.2868375,-99.4541807,2026-10-11T15:12:23Z
+1893b79c-7107-4511-9347-a5cf999bdc1c,way/61155821,Williston Municipal Golf Course,,course,,,active,,,,,+1 701-577-1321,https://www.willistonparks.com/williston-municipal-golf-course,,,Williston,ND,,US,48.1857981,-103.6617055,2026-10-11T15:11:55Z
+1df9b563-e447-4c81-a979-eb01fe5cd030,way/57884147,,,course,,,active,,,,,,,,,,ND,,US,47.4390403,-99.1150779,2026-10-11T15:06:07Z
+1f300565-899d-42e3-976a-12770e5c3587,way/682338045,New Rockford Golf Course,,course,,,active,9,36,,,,,,,,ND,,US,47.7058368,-99.1325064,2026-10-11T15:12:20Z
+250e6c75-d892-4b32-a4a7-5f983850ee53,way/1374275707,Oakes Golf Club,,course,,,active,,,,,,,,,,ND,,US,46.1697365,-98.0959172,2026-10-11T15:12:29Z
+258bdf25-8fed-4cb2-9449-30b2ac79881c,way/310874101,The Links of North Dakota at Red Mike Resort,,course,,,active,18,72,,,,,,,,ND,,US,48.1584896,-103.0494265,2026-10-11T15:12:12Z
+2b88da5a-ebbb-456d-b64f-5f8524892573,relation/13839740,Dakota Winds Golf Course,,course,,,active,18,72,,,,http://dakotamagic.com/golf,,,,ND,,US,45.9396245,-96.8250255,2026-10-11T15:06:51Z
+2e5f01cc-9034-48fa-8e13-d4e8f7839d98,way/798975029,,,course,,,active,,,,,,,,,,ND,,US,47.5140459,-101.3605231,2026-10-11T15:12:21Z
+2f2ca5df-76b0-4b27-9f19-a15e57c02620,relation/13012097,Forman Golf Course,,course,,,active,9,36,,,,,,,,ND,,US,46.0989591,-97.6413361,2026-10-11T15:06:51Z
+312d1e06-7bea-499f-98d4-16f71c994b04,way/494039209,Lisbon Bissell Golf Course,,course,,,active,9,36,,,+1 701-683-4510,http://www.lisbonbissellgc.com/,,Highway 32 North,Lisbon,ND,58054,US,46.4499843,-97.6863238,2026-10-11T13:30:48Z
+31694086-d3ec-4035-a386-47474804dd53,way/968892919,,,course,,,active,9,36,,,,,,,,ND,,US,47.7913004,-99.8916882,2026-10-11T15:12:24Z
+31d52e3d-b733-49aa-a09a-c7d21d551ea8,way/133656653,Prairiewood,,course,,,active,9,32,,,,,,22 Prairiewood Drive S,Fargo,ND,58103,US,46.850523,-96.8277282,2026-10-11T15:06:10Z
+33a54df5-c0d5-4c11-965b-68ec6d2a7d6f,way/494286584,Lakeview Golf Course,,course,,,active,,,,,+1 701 427 5280,http://www.milnornd.com/golf_course_27.html,,735 1st Street,Milnor,ND,58060,US,46.2591812,-97.4682516,2026-10-11T13:30:48Z
+33be208c-3d22-41e9-ba02-c58f85bdc2eb,way/520325887,Westhope Country Club,,course,,,active,9,36,,,,,,,,ND,,US,48.9117176,-100.9749986,2026-10-11T15:12:18Z
+3500375d-c475-460b-808b-9cbdadf74491,way/498613376,Cooperstown Country Club,,course,,,active,9,37,,,,,,,,ND,,US,47.4505048,-98.1313985,2026-10-11T15:12:17Z
+3a806fd5-1f55-453d-965f-536c203be154,relation/18254648,Edgewater Country Club,,course,,,active,9,36,,,,,,9151 Highway 23B,New Town,ND,58763,US,47.9863324,-102.5045775,2026-10-11T15:06:54Z
+3ab3069c-c4f7-4ef8-8ea0-7692f9ac8201,relation/13248947,Oxbow Country Club,,course,,,active,18,72,,,,,,,,ND,,US,46.6689169,-96.8078052,2026-10-11T15:12:41Z
+3fcee63c-eee7-45c9-ae93-2fe11ac81ae7,way/506152503,Splickan Golf Course,,course,,,active,,,,,,,,,,ND,,US,46.3743219,-98.7141593,2026-10-11T13:30:51Z
+3fe00cc2-1ef4-45b5-abd0-a42dba829b08,way/503410112,,,course,,,active,,,,,,,,,,ND,,US,46.1517031,-103.147856,2026-10-11T15:12:18Z
+403f5a89-22c0-4d13-92b1-465fac5dc7aa,way/444687808,,,course,,,active,,,,,,,,,,ND,,US,46.2551402,-99.58403,2026-10-11T15:12:15Z
+442177d4-a8f4-48b6-9f4e-a18df0e93241,way/913246488,,,course,,,active,,,,,,,,,,ND,,US,48.053325,-97.1866533,2026-10-11T15:12:23Z
+45ec5255-51e9-4f87-a770-91fc6f0cb02b,way/68996146,Hillcrest Municiple Golf Course,,course,,,active,18,72,,,,,,,,ND,,US,46.9040342,-98.6766609,2026-10-11T15:11:55Z
+46b496b6-0aab-4e1f-aafb-0ec67e928d31,way/48017282,Mandan Municipal Golf Course,,course,,,active,9,35,,,,https://mandanparks.com/golfmandan/mandan-municipal/,,,,ND,,US,46.8182404,-100.9053459,2026-10-11T15:11:53Z
+46db1f66-302b-4868-a6ca-0f50b2dee0ce,way/904754459,,,course,,,active,,,,,,,,,,ND,,US,48.5574431,-102.6294655,2026-10-11T15:06:35Z
+47fd58b2-2c2c-496e-bf5a-0e161ba55eef,way/502938628,,,course,,,active,9,36,,,,,,,,ND,,US,46.2644801,-100.2486388,2026-10-11T15:06:30Z
+48dcb61f-6aeb-43a2-be55-afff6e808260,way/1018563397,Tioga Golf Course,,course,,,active,9,36,,,,,,,,ND,,US,48.4111848,-102.9580461,2026-10-11T15:12:24Z
+4993fb17-805b-43bc-b579-743d9c434c17,way/47969659,Prairie West Golf Course,,course,,,active,18,72,,,,,,,,ND,,US,46.8082573,-100.8512152,2026-10-11T15:11:53Z
+4c46b967-5c9d-4fdd-814d-e15065f42d35,way/58631312,,,course,,,active,9,35,,,,,,,,ND,,US,47.6573204,-99.6211832,2026-10-11T15:11:55Z
+4d7aaec6-5137-492c-96d9-cb032f19f021,way/125177342,Fargo Country Club,,course,,,active,,36,,,,https://fargocc.com,,,,ND,,US,46.8384478,-96.785088,2026-10-11T15:11:57Z
+5474f6a8-712a-4bfa-a6ba-284b84abaf8d,way/592506825,,,course,,,active,,,,,,,,,,ND,,US,46.4048715,-101.8332349,2026-10-11T15:12:20Z
+55da5a1c-2546-4fb6-b0df-510ae8202c68,way/58732569,,,course,,,active,,,,,,,,,,ND,,US,47.4516474,-101.1489773,2026-10-11T15:11:55Z
+561b83de-5853-40ef-a2e1-7617fcc33053,way/692423732,Medicine Hole Golf Course,,course,,,active,9,36,,,,,,,Killdeer,ND,,US,47.3842241,-102.742057,2026-10-11T15:06:33Z
+574fed75-ec0e-482a-bd34-b842c235072f,way/933387431,,,course,,,active,18,71,,,,,,,,ND,,US,47.2491601,-100.9523272,2026-10-11T15:12:23Z
+5752956b-3c56-4e8d-b7fd-74edcd61df60,way/1067013701,Pebble Creek Golf Course,,course,,,active,9,35,,,,,,,,ND,,US,46.8396149,-100.7562386,2026-10-11T15:12:24Z
+5ae8ea2e-edb1-40c6-84e0-252090c39af9,way/695956658,,,course,,,active,18,70,,,,,,,,ND,,US,46.8716599,-102.9878364,2026-10-11T15:12:21Z
+5c7e763f-1d26-4479-8239-98bbcc270206,way/444679722,Fair Oaks,,course,,,active,9,36,,,,,,,,ND,,US,48.4203786,-97.3892594,2026-10-11T15:12:15Z
+6822f001-6f9d-4074-85cb-faac9d8aa448,way/425703241,,,course,,,active,,,,,,,,,,ND,,US,48.4037843,-97.7475716,2026-10-11T15:12:15Z
+69ac8e56-b5e6-497a-b0fb-8a60c95671c5,way/724142569,,,course,,,active,9,36,,,,,,,,ND,,US,47.9441317,-102.1339512,2026-10-11T15:06:33Z
+69fdab37-c6f8-402b-a737-aa5be486d3b1,way/495775352,Lidgerwood Golf Course,,course,,,active,9,35,,,+1-701-538-4312,,,1st Street Southeast,Lidgerwood,ND,,US,46.0738018,-97.1386912,2026-10-11T15:12:17Z
+6db7ea36-1585-480b-a0ec-bd9353916f6a,way/828570493,,,course,,,active,9,36,,,,,,,,ND,,US,46.5847265,-99.1464613,2026-10-11T15:12:23Z
+6fc9968d-1217-427d-b530-348f60075c5a,way/566802789,,,course,,,active,,,,,,,,,,ND,,US,48.9822762,-101.6335667,2026-10-11T15:12:18Z
+764ddb3b-be82-47dc-9e0d-2b1a4fa3179d,way/127359007,,,course,,,active,,,,,,,,,,ND,,US,46.8639004,-102.8263037,2026-10-11T15:11:57Z
+7732d6ad-72cc-43f9-ada8-5dadd98a701f,way/63853748,Rose Creek Golf Course,,course,,,active,18,71,,,,,,,,ND,,US,46.8117948,-96.8117774,2026-10-11T15:11:55Z
+7a1e65f6-d6ae-4029-a739-aee914d79993,way/1084036266,Minot Country Club,,course,,,active,18,72,,,,https://minotcountryclub.com,,1912 Valley Bluffs Drive,,ND,,US,48.1967397,-101.2638447,2026-10-11T15:06:36Z
+7d593fe6-17fb-4a40-968d-954379beae90,way/678963358,Cottonwood Golf Club,,course,,,active,9,34,,,,,,,,ND,,US,46.8526739,-99.9881623,2026-10-11T15:12:20Z
+7dc721f3-1766-457b-8c58-a7d6aac7781b,way/58672940,,,course,,,active,,,,,,,,,,ND,,US,47.2509336,-101.7811742,2026-10-11T15:11:55Z
+8122696d-e700-4a9a-aa49-60ed935fab0e,way/676719404,Michigan Public Golf Course,,course,,,active,,,,,,,,,,ND,,US,48.0260039,-98.1291299,2026-10-11T15:12:20Z
+81a5c3dd-b4ac-4eee-91f7-d1f7e56e206f,way/502484051,,,course,,,active,,,,,,,,,,ND,,US,48.809573,-101.4912424,2026-10-11T15:12:18Z
+82ec097f-d395-4016-8ccf-7124cc7e8280,way/676095892,Lakota Rock Creek Golf Course,,course,,,active,9,36,,,,,,,,ND,,US,48.0309532,-98.3312041,2026-10-11T15:06:32Z
+83729886-132d-4ec5-b004-9de6a2258f56,way/783755792,Judge Rodney S. Webb Memorial Golf Park,,course,,,active,,,,,,,,,,ND,,US,46.9268644,-96.7670317,2026-10-11T15:12:21Z
+83925efa-24c7-4f7b-b67b-6e2d21f75ad5,way/837220696,Wildwood Country Club,,course,,,active,18,67,,,,,,,,ND,,US,48.2953036,-101.4216617,2026-10-11T15:12:23Z
+84979394-2eb5-4292-adbf-d125c5a9c39e,way/457740099,,,course,,,active,,,,,,,,,,ND,,US,46.4588349,-98.3748341,2026-10-11T13:30:48Z
+878d0ed5-a174-4b6b-8869-c786e47e5fe9,way/524281134,Hettinger Country Club,,course,,,active,9,36,,,,,,,,ND,,US,45.9555143,-102.6035436,2026-10-11T15:12:18Z
+88562cbe-9abd-4653-9c86-160f948c654d,way/499194319,,,course,,,active,,,,,,,,,,ND,,US,48.3513446,-100.4019794,2026-10-11T15:06:30Z
+88573c26-758f-4896-a5ce-1fe0ef141fc2,way/97708259,El Zagal Golf Course,,course,,,active,9,28,,,+1 701-232-8156,,,1400 Elm Street N,Fargo,ND,58102,US,46.8966363,-96.779352,2026-10-11T15:11:55Z
+8d16a9c9-77db-455e-980e-9108ec8ed211,way/502156161,,,course,,,active,,,,,,,,,,ND,,US,48.692637,-102.0957381,2026-10-11T15:06:30Z
+8d553fcd-0743-4f84-96d3-ce535bfbf9df,relation/5715634,,,course,,,active,,,,,,,,,,ND,,US,46.233402,-97.6756772,2026-10-11T13:31:32Z
+900f1db0-b3a7-4e13-8d32-afa7b2a6e19e,way/504453161,,,course,,,active,9,36,,,,,,,,ND,,US,48.8620471,-100.4180966,2026-10-11T15:12:18Z
+912a8a55-c1f9-42f7-b0f9-413e31cfd727,way/436013436,,,course,,,active,,,,,,,,,,ND,,US,48.9037722,-102.7729367,2026-10-11T15:12:15Z
+91ea8f4e-0387-43e8-9014-46cbd8271e94,way/503442814,New England Golf Course,,course,,,active,,,,,,,,,,ND,,US,46.5492845,-102.9022971,2026-10-11T15:12:18Z
+94e90e56-9ad2-4d0f-8658-bd23dd439428,relation/13272414,,,course,,,active,9,36,,,,,,,,ND,,US,47.9362306,-97.589886,2026-10-11T13:31:42Z
+95c21c98-449f-4e1a-bc45-b5ba23f81a1a,way/852532291,Hawktree Golf Club,,course,,,active,,67,,,,https://hawktree.com/,,3400 Burnt Creek Loop,,ND,,US,46.8983201,-100.8457065,2026-10-11T15:06:35Z
+95fca10e-39f3-4b02-9f28-b084dd1bd767,way/367133306,,,course,,,active,9,36,,,,,,,,ND,,US,46.6541199,-97.2581789,2026-10-11T15:12:14Z
+9996fb91-a712-4b25-a1d0-c90b0f405e57,way/700016443,Louse Creek Country Club,,course,,,active,9,36,,,,,,,,ND,,US,46.4480503,-101.2346108,2026-10-11T15:12:21Z
+9d1b90f2-58ac-4912-b5cc-5e69e19eaf94,way/504453215,Garden Gate Golf Course,,course,,,active,9,,,,,,,,,ND,,US,48.8379424,-100.0456343,2026-10-11T15:12:18Z
+9e02d7a4-ad28-4888-b679-1139d3d1d3a7,way/503259814,,,course,,,active,,,,,,,,,,ND,,US,46.1452653,-103.3944261,2026-10-11T13:30:51Z
+9f245f0f-07b9-4b73-a96e-363a2ccf9c2c,way/406705865,Rugby Country Club,,course,,,active,9,36,,,,,,,,ND,,US,48.3579148,-99.968826,2026-10-11T13:30:44Z
+9f5a3e8b-8e7d-4a49-a4be-6b1cdfafb23e,way/617499927,Kulm Country Club,,course,,,active,,,,,+1 701-647-2244,https://kulmcc.com/,,6680 79th Street Southeast,Kulm,ND,58456,US,46.2700021,-98.9870108,2026-10-11T15:12:20Z
+af3b3036-a61b-41b2-8a1a-a1e4dc1b77fd,way/886312983,The Dak Club,,course,,,active,,8,,,,,,,,ND,,US,47.196958,-100.7865034,2026-10-11T13:31:02Z
+b3b0d199-a70c-442f-8a94-6581d6cb381a,way/508254133,,,course,,,active,18,72,,,,,,,,ND,,US,46.8724031,-98.6481362,2026-10-11T15:12:18Z
+b800a579-b1dd-4c5c-a824-322fda746f37,way/506059838,,,course,,,active,,,,,,,,,,ND,,US,48.917164,-98.0332992,2026-10-11T15:12:18Z
+b940a382-4831-42ca-a6d2-ad89612e72f3,way/296331936,Lincoln Golf Course,,course,,,active,,,,,+1 701-746-2788,http://www.lincolngolf.org/,,250 Elks Drive,Grand Forks,ND,58201,US,47.9018814,-97.024947,2026-10-11T13:30:27Z
+b9e6d2cd-a6a9-4d74-8674-7197101b6da5,way/288642379,,,course,,,active,9,35,,,,,,,,ND,,US,47.7716766,-98.1760397,2026-10-11T13:30:16Z
+ba6755a7-9804-487b-9cc7-e23a452a31f7,way/502998238,,,course,,,active,,,,,,,,,,ND,,US,46.6066122,-97.6211411,2026-10-11T15:12:18Z
+bc5fcd9d-78e0-4d67-85d7-a13f0b2769d3,way/493371759,,,course,,,active,9,36,,,,,,,,ND,,US,48.786536,-98.3562808,2026-10-11T15:12:17Z
+bf65a2ae-4c7b-49bd-a57c-857889a9c2ca,way/759890690,Prairie Rose Golf Course,,course,,,active,9,36,,,,,,,,ND,,US,48.323411,-102.3853405,2026-10-11T15:12:21Z
+c069211c-7d0c-40f6-87f6-a94fd23cd7a1,way/296331935,King's Walk,,course,,,active,18,72,,,+1 701-787-5464,https://www.kingswalk.org/,,5301 South Columbia Road,Grand Forks,ND,58201,US,47.866257,-97.0590012,2026-10-11T15:12:10Z
+c0cc6b05-4be7-40be-b9b5-b8e277d393f9,way/217966757,Souris Valley Golf Course,,course,,,active,,,,,,https://minotparks.com/golf-courses/souris-valley-golf-course/,,2400 14th Street Southwest,,ND,,US,48.2252105,-101.3258707,2026-10-11T15:12:03Z
+c0edff52-700a-495b-b10b-0d259270831a,way/928974685,,,course,,,active,,,,,,,,,,ND,,US,46.8511007,-101.4236717,2026-10-11T15:12:23Z
+c3d69c17-c5a5-4613-b040-f842406107e6,relation/6550289,,,course,,,active,18,72,,,,,,,,ND,,US,48.4140845,-101.3079227,2026-10-11T13:31:37Z
+c6bda3a4-f2f3-4bab-a87c-4d8a585bc97c,way/142507369,,,course,,,active,9,35,,,,,,,,ND,,US,46.9050958,-98.0189718,2026-10-11T13:29:58Z
+c6c1196a-a8fa-46ca-914b-6fb15047304a,way/169248024,Watford City Golf Course,,course,,,active,18,72,,,,,,,,ND,,US,47.8102504,-103.2407377,2026-10-11T15:12:01Z
+c99a631a-b0a3-4fea-8fa4-bbcdfb9fb3dd,way/909686316,,,course,,,active,,,,,,,,,,ND,,US,48.9601823,-97.2455773,2026-10-11T15:06:35Z
+cc45ac55-3f90-4b55-bef9-a1496cfc2675,way/803899225,,,course,,,active,9,36,,,,,,,,ND,,US,48.8966617,-99.6835829,2026-10-11T15:12:21Z
+cca7ea03-6d97-4e85-93e9-dd50ecd4859b,way/124450236,Edgewood Golf Course,,course,,,active,18,71,,,,,,,,ND,,US,46.9292943,-96.7668794,2026-10-11T15:06:10Z
+ce09c1d7-13eb-45ad-a3c7-99b134daec7c,way/894992404,,,course,,,active,,,,,,,,,,ND,,US,48.4355503,-103.7459832,2026-10-11T15:12:23Z
+ce89fc54-a015-453e-930c-8f858de38f4e,relation/1711846,Maple River Golf Club,,course,,,active,18,72,,,,,,,,ND,,US,46.8816598,-97.0669384,2026-10-11T15:12:30Z
+cf7b1de9-951c-428c-bd52-ba848e469168,way/736395732,,,course,,,active,,,,,,,,,,ND,,US,47.9361644,-97.394028,2026-10-11T15:06:33Z
+d7f4fe4f-52b4-486b-a4b8-009b8339cd78,way/503644834,,,course,,,active,,,,,,,,,,ND,,US,47.7275973,-97.6210222,2026-10-11T13:30:51Z
+db41c181-af1f-42cf-ade9-8c32b7b24afd,way/511317457,,,course,,,active,,,,,,,,,,ND,,US,46.5198778,-99.7622753,2026-10-11T15:12:18Z
+dc648b79-64f9-4f98-aba7-cb111e394154,way/504243561,,,course,,,active,9,36,,,,,,,,ND,,US,47.322775,-97.7886558,2026-10-11T15:12:18Z
+ddab0fe7-8e09-440a-86b9-53983f7b288f,way/436013445,,,course,,,active,9,36,,,,,,,,ND,,US,48.9786256,-103.2963116,2026-10-11T15:12:15Z
+df46268b-d744-4bbe-b600-1310c5d87253,way/504628635,,,course,,,active,,,,,,,,,,ND,,US,47.0936447,-101.2521297,2026-10-11T15:12:18Z
+e01c2006-f936-4ebf-831a-dfeaa2245760,way/837221026,,,course,,,active,18,,,,,,,,,ND,,US,48.2589126,-101.3994044,2026-10-11T15:12:23Z
+e2c53794-7ce9-4297-97b8-79e7abb8c5b4,way/57871862,Crossroads Golf Course,,course,,,active,18,72,,,,,,,,ND,,US,47.4712073,-99.1228652,2026-10-11T15:11:55Z
+e4d92d75-78ad-44b5-a352-07b7458f3d6c,way/125908617,Cottonwood Golf Club,,course,,,active,9,36,,,,,,,,ND,,US,46.8956895,-97.2167107,2026-10-11T13:29:54Z
+e6278bcc-b73c-43c6-8150-8b2d0c479527,way/938844927,Crossroads Golf Course Glen Ullin ND,,course,,,active,9,36,,,,,,,,ND,,US,46.8226007,-101.8316452,2026-10-11T15:12:23Z
+e6955ba4-89cb-4cf7-b904-67d646e4390a,way/61155913,Eagle Ridge Golf Club,,course,,,active,,,,,+1 701-572-6500,https://www.golfateagleridge.com/,,6401 3rd Avenue East,Williston,ND,58801,US,48.204499,-103.6099233,2026-10-11T15:11:55Z
+e6f0da1f-6c1a-41e9-b86d-259a71711ff2,way/287752439,Mayville Golf Club,,course,,,active,9,36,,,,,,,,ND,,US,47.5053429,-97.348049,2026-10-11T15:12:07Z
+e7ef16f2-6104-497f-a446-e6d7e561eb65,way/880014054,Fore Seasons Center,,course,,,active,,,,,,,,,,ND,,US,46.8349084,-100.761265,2026-10-11T15:12:23Z
+e970f684-e939-4183-825c-305603df315d,way/827150230,University of North Dakota Golf Course,,course,,,active,,29,,,,,,,,ND,,US,47.916456,-97.0827852,2026-10-11T15:06:35Z
+e9d0a41b-6606-46b4-9d11-b5e940723aed,way/125282894,Osgood Golf Course,,course,,,active,,43,,,,https://www.fargogolf.net/osgood/,,4400 Clubhouse Drive South,Fargo,ND,58104,US,46.8146764,-96.8916141,2026-10-11T15:11:57Z
+ead25344-526a-4cc8-9521-65f3a1c27d4e,way/939996841,,,course,,,active,,,,,,,,,,ND,,US,48.3379163,-103.1669721,2026-10-11T13:31:02Z
+ebca36e9-4526-48ed-b5da-af11f018b5b9,way/286896977,Goose River Golf Club,,course,,,active,9,35,,,,,,,,ND,,US,47.4128792,-97.0673728,2026-10-11T13:30:16Z
+ed1db659-a08f-4af2-88dd-09fea5a1c60d,way/631161619,Creel Bay Golf Course,,course,,,active,,64,,,,,,,,ND,,US,48.0825813,-98.9222589,2026-10-11T13:30:54Z
+eea4cc54-fa7c-4b21-bf4b-b7b1480a3458,way/878636713,,,course,,,active,9,36,,,,,,,,ND,,US,48.0707005,-100.9330397,2026-10-11T13:31:02Z
+eee5c5bf-3a9b-4029-a267-a9f9d2298d13,way/296331934,Grand Forks Country Club,,course,,,active,18,72,,,+1 701-772-4831,https://www.gfcountryclub.com/,,794 County Road 6,Grand Forks,ND,58201,US,47.8495171,-97.0039867,2026-10-11T15:12:10Z
+f17e7b44-c055-489b-b9f9-43fc46de3478,way/505100086,Hazen Golf Course,,course,,,active,9,35,,,,,,,,ND,,US,47.2960073,-101.5930009,2026-10-11T15:12:18Z
+f341ed95-d857-43c3-b965-a1efd79a7008,way/823562318,,,course,,,active,,,,,,,,,,ND,,US,45.9481881,-98.5251144,2026-10-11T15:06:35Z
+f41637e1-4892-474a-aa91-72cb84e9229d,way/504320610,,,course,,,active,,,,,,,,,,ND,,US,48.9858463,-100.3759244,2026-10-11T13:30:51Z
+f4744968-ab36-4d8d-a29d-ea456446e137,way/851555676,Riverwood Golf Course,,course,,,active,,,,,,https://www.bisparks.org/golf-courses/,,725 Riverwood Drive,Bismarck,ND,,US,46.789233,-100.8067645,2026-10-11T15:12:23Z
+f5fa5815-5ade-4d6c-a2ad-dc614f07d4f2,way/932000293,,,course,,,active,,,,,,,,,,ND,,US,49.0021979,-102.5464484,2026-10-11T15:12:23Z
+ffe7dfd6-e72f-4d23-869c-9df97ae7ac8a,way/127359008,,,course,,,active,,,,,,,,,,ND,,US,46.8700438,-102.823589,2026-10-11T15:11:57Z

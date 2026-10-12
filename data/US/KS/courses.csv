@@ -1,0 +1,219 @@
+id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
+0204b80e-aee6-45d6-94bb-f4d675fd2b01,way/1474303144,Glasco County Club & Course,,course,,,active,,,,,,,,,,KS,,US,39.3617541,-97.8135708,2026-10-11T15:12:29Z
+0380866d-a75c-47fa-8fc8-54e0407516c0,way/118005684,,,course,,,active,,,,,,,,,,KS,,US,38.4836042,-101.3356186,2026-10-11T15:11:57Z
+0761f309-4dd6-46b3-90c6-15d709063c97,way/202769647,Winfield Country Club,,course,,,active,,,,,,,,,,KS,,US,37.2196112,-97.0168761,2026-10-11T15:12:03Z
+07f70137-b6b0-4461-add6-105ac9994484,way/704137395,Protection Golf Course,,course,,,active,,,,,,https://www.facebook.com/Protection-Golf-Course-Protection-KS-217601718811853/,,,,KS,,US,37.1952858,-99.4775471,2026-10-11T15:12:21Z
+0e21d599-818f-42af-98ad-92aaacc6b186,way/1087053856,Sharon Springs Golf Course,,course,,,active,,,,,,,,,,KS,,US,38.8793586,-101.7531154,2026-10-11T15:12:24Z
+0fbee254-4a75-46f0-9ad8-0fe5a2408e3c,way/619030828,Downs Golf Club,,course,,,active,,,,,,,,,,KS,,US,39.5716494,-98.5460987,2026-10-11T13:30:54Z
+0fe4287e-1b25-4fed-91c0-4d8701b2044f,way/70405900,Manhattan Country Club,,course,,,active,,,,,,,,,,KS,,US,39.1988993,-96.5671731,2026-10-11T15:06:07Z
+10b9efbd-7e97-4d28-bc91-77b7651d993a,way/237531758,Ironhorse Golf Club,,course,,,active,,69,,,+1 913-685-4653,https://www.ironhorsegolf.com/,,15400 Mission Road,Leawood,KS,66224,US,38.8509525,-94.6350275,2026-10-11T15:06:16Z
+11264b76-748b-43bf-afc5-67b141930787,way/151987405,Wolf Creek Golf,,course,,,active,18,72,,,+1-913-592-4020,https://wolfcreekks.com/,,18695 South Lackman Road,Olathe,KS,66062,US,38.7927886,-94.7537362,2026-10-11T15:12:00Z
+129ba07d-cfb1-4bf3-9d42-90b276d9a902,relation/12346808,Coffeyville Country Club,,course,,,active,18,72,,,,https://www.coffeyville.cc/,,,,KS,,US,37.0565907,-95.6790478,2026-10-11T15:12:41Z
+12f9ab72-cff7-4216-ae0f-c6b14b6b0000,way/623647896,Allen County Country Club,,course,,,active,,,,,,,,,,KS,,US,37.9258236,-95.3565306,2026-10-11T15:12:20Z
+131316b5-ecd5-4a70-b722-9f0f48beabb1,way/46342164,Turkey Creek Golf Course,,course,,,active,,,,,,,,,,KS,,US,38.3549698,-97.6531318,2026-10-11T15:06:05Z
+13a53a9b-74ec-4f3f-a3b7-df0976dc2c41,way/429035059,Riverside Recreation Golf Course,,course,,,active,9,,,,,,,,,KS,,US,39.7640238,-101.8359786,2026-10-11T15:06:28Z
+144b6491-df1e-45c1-b532-e4853ed4e96d,way/300591296,Tex Consolver Golf Course,,course,,,active,18,72,,,+1 316 337 9494,https://www.golfwichita.com/courses/consolver/,,1931 South Tyler Road,Wichita,KS,67209,US,37.6576996,-97.4479664,2026-10-11T15:12:10Z
+14924e80-6d04-4286-b145-eb7d8c8b0ef1,way/151941827,Western Hill Golf Club,,course,,,active,,,,,,,,,,KS,,US,39.0254541,-95.8214918,2026-10-11T15:12:00Z
+14930fb1-9221-4190-a9ce-28adf0a2f29c,relation/1975331,Willowbend Golf Club,,course,,,active,18,72,,,,,,,,KS,,US,37.759885,-97.244563,2026-10-11T15:12:30Z
+15692430-3a8a-4a6a-9fd0-c1c027e59319,way/783368916,Buffalo Dunes,,course,,,active,18,72,,,,,,,,KS,,US,37.8792312,-100.8699291,2026-10-11T15:12:21Z
+1723d2cb-bd27-4aa1-8594-3bcc4b90f36d,way/426340591,Smoky Hill Country Club,,course,,,active,18,71,,,,https://www.smokyhillcc.com/,,3303 Hall,Hays,KS,67601,US,38.8933409,-99.3432592,2026-10-11T13:30:44Z
+18bf2636-3e53-4ae0-8092-e4b0327a401a,way/95136491,Marysville Country club,,course,,,active,,,,,,,,,,KS,,US,39.8438016,-96.6237413,2026-10-11T13:29:49Z
+19640100-3fcc-48e1-ab53-20d340f0cf1e,way/671206531,Osacge City Golf Club,,course,,,active,,,,,,http://www.osagecitygolf.com/,,1401 South 4th Street,Osage City,KS,66523,US,38.612376,-95.8352725,2026-10-11T15:12:20Z
+1a06c0de-29b4-41ac-b7ef-662dd9ad0640,way/454532838,Eureka Golf Course,,course,,,active,,,,,,,,1563 N Road,Eureka,KS,67045,US,37.8369243,-96.3084135,2026-10-11T15:06:29Z
+1a5eb533-2147-4143-8a1a-0f6161abf8e6,way/472122637,Hiawatha Country Club,,course,,,active,,,,,,https://hiawathacountryclub.com/,,,,KS,,US,39.8373947,-95.5396928,2026-10-11T15:12:17Z
+1befac2a-6513-4b5f-957f-5efe8c65357a,way/453607865,Hays Municipal Golf Course,,course,,,active,18,71,,,+1 785 625 9949,https://www.haysusa.com/html/golf_course.html,,1450 Golf Course Road,Hays,KS,67601,US,38.8642424,-99.3459758,2026-10-11T15:12:17Z
+1bff84ea-fbf0-4191-832a-a2f9d105e80e,way/141346987,The Kansas City Country Club,,course,,,active,18,70,,,+1 913-236-2100,https://kccc.com/,,6200 Indian Lane,Mission Hills,KS,66208,US,39.0215515,-94.6208824,2026-10-11T15:12:00Z
+1c11013e-ce95-4da0-932b-5814d1579fed,way/228040721,Beloit Country Club,,course,,,active,,,,,,,,,,KS,,US,39.4626403,-98.0855595,2026-10-11T15:12:03Z
+1cb90b74-f823-4e45-a612-cbd2d869b1c0,relation/1975330,Reflection Ridge Golf Club,,course,,,active,18,72,,,,,,,,KS,,US,37.7286558,-97.4353595,2026-10-11T13:31:18Z
+1cdad250-8869-4514-a5d6-eb8c7de6a46c,way/1336487497,Smith Center Municipal Golf Course,,course,,,active,9,35,,,,,,20082 us 281,smith center,KS,66967,US,39.7171908,-98.7811153,2026-10-11T15:12:29Z
+1cf845a3-0628-4a52-8ddb-2dd046594e68,way/1356312767,Crestwood Country Club,,course,,,active,18,72,,,,,,,,KS,,US,37.3866079,-94.7495591,2026-10-11T15:12:29Z
+1df45937-7108-4da3-8cf1-cce1be83547c,relation/15654772,Wamego Country Club,,course,,,active,,52,,,+1-785-456-2649,https://www.wamegocountryclub.com/,,1900 Country Club Drive,Wamego,KS,66547,US,39.2065678,-96.325363,2026-10-11T15:12:43Z
+1edd0f3c-0ae7-462f-b2f6-1a10f0246ba0,way/93993000,Milburn Country Club,,course,,,active,18,72,,,+1 913-432-0490,https://www.milburn.org/,,7501 West 69th Street,Overland Park,KS,66204,US,39.0040805,-94.6767136,2026-10-11T15:11:55Z
+1f5a4cb0-3460-4363-84b0-58d106ee659a,way/72235424,Lake Quivira Country Club,,course,,,active,18,72,,,,,,,,KS,,US,39.045542,-94.7657634,2026-10-11T15:11:55Z
+230d2ff9-b60a-41a3-b8e6-d22b93484fc1,relation/6713938,Stoneridge Country Club,,course,,,active,,,,,+1-620-792-4303,http://www.stoneridgegbks.com/,,1438 24th Street,Great Bend,KS,67530,US,38.380378,-98.760064,2026-10-11T15:06:49Z
+23f1006f-aa8e-4588-b316-9c7d7a4dfa0b,way/369090877,,,course,,,active,,,,,,,,,,KS,,US,39.1159402,-97.693983,2026-10-11T15:12:14Z
+24fafcbf-f97e-457a-ac4d-f31688e7c413,way/679924381,Berkshire Country Club,,course,,,active,,,,,,,,,,KS,,US,38.9895712,-95.7257313,2026-10-11T15:12:20Z
+251ab77a-569f-4323-b4d0-946421f9a537,way/203435047,Arkansas City Country Club,,course,,,active,,,,,,,,,,KS,,US,37.0741855,-97.0090776,2026-10-11T15:12:03Z
+2637f4f2-53ea-4ff1-8e82-93138956f1a9,way/169742127,Salina Country Club,,course,,,active,,,,,,,,,,KS,,US,38.8452792,-97.5720826,2026-10-11T15:12:01Z
+27778dd1-1e48-4c4a-923d-0ca270d94277,way/315833537,Indian Hills Country Club,,course,,,active,18,,,,+1 913-362-6200,https://www.ihcckc.com/,,6847 Tomahawk Road,Mission Hills,KS,66208,US,39.0029916,-94.6230982,2026-10-11T15:12:12Z
+2863705a-0dbf-4cb0-a37f-6187310e49bd,way/588515848,,,course,,,active,,,,,,,,,,KS,,US,37.2729834,-98.5523308,2026-10-11T15:12:20Z
+2b366ae4-9896-4cb9-a1d5-7400a32e1153,way/329961222,Mariah Hills Golf Course,,course,,,active,,,,,,,,1800 Matt Down Road,Dodge City,KS,67801,US,37.7692831,-100.0465651,2026-10-11T15:12:12Z
+2b36834a-5660-4f26-965e-28e8ce2d08e3,way/151941812,Forbes Public Golf Course,,course,,,active,,,,,,,,,,KS,,US,38.9389509,-95.6942696,2026-10-11T15:12:00Z
+2b58d99a-f74b-4997-81ae-b5a41a217eb0,relation/13772939,Colbert Hills Golf Course,,course,,,active,18,72,,,,,,,,KS,,US,39.2124235,-96.6406698,2026-10-11T15:12:41Z
+2b8117b2-01b8-4f39-a7a4-8a48aac263b2,way/146321252,Arthur B. Sim Golf Course,,course,,,active,18,71,,,,,,,,KS,,US,37.700594,-97.3669346,2026-10-11T15:12:00Z
+2c029369-5acf-4a98-b030-f59f7133cb8d,relation/2053245,Lake Shawnee Golf Course,,course,,,active,,,,,,,,,,KS,,US,38.9934858,-95.6271629,2026-10-11T15:12:30Z
+2c4bbb40-7614-4205-80a7-a9e1e0ff0b39,relation/8434792,,,course,,,active,18,,,,,,,,,KS,,US,38.9384214,-94.6888426,2026-10-11T15:12:38Z
+2ea2c0f3-3c39-4f77-9709-302f591e2efa,way/454034330,Cedarbrook Golf Course,,course,,,active,,,,,,https://greatlifegolf.com/,,2700 North Cottonwood Street,Iola,KS,66749,US,37.948873,-95.3968641,2026-10-11T15:12:17Z
+2ea75940-5362-4b47-8f5d-80660f3218f4,way/642261691,Herington Country Club,,course,,,active,,,,,,,,2426 400 Avenue,Herington,KS,67449,US,38.6501205,-96.9455427,2026-10-11T15:12:20Z
+2f6d8b23-eb99-4990-a5af-444409eb840f,relation/11701165,Prairie Highlands Golf Course,,course,,,active,18,72,,,,,,14695 South Inverness Street,Olathe,KS,66061,US,38.8617819,-94.8832094,2026-10-11T13:31:42Z
+307d68e3-bea9-43d0-89ac-935b8abeeeb9,way/1131472539,Lindsborg Golf Course,,course,,,active,,,,,+1 785-227-2244,,,1541 Svensk,Lindsborg,KS,66212,US,38.5618786,-97.6414235,2026-10-11T15:12:24Z
+30d9cfa8-b7ea-452e-b6dc-9e855c05d7c2,way/517053993,,,course,,,active,,,,,,,,,,KS,,US,38.4675575,-97.6693932,2026-10-11T15:12:18Z
+31e9c64e-730a-4639-9bd3-be84d711c054,way/296275182,Rock Creek Country Club,,course,,,active,,,,,+1 620 364 2145,https://www.rockcreekcountryclub.com/,,304 North 16th Street,Burlington,KS,66839,US,38.1970879,-95.7593414,2026-10-11T15:12:10Z
+332581e5-d15b-4fa1-8114-6012e6b4775d,way/1314780903,Pineview Country Club,,course,,,active,,,,,,https://www.facebook.com/PineviewCountryClub/,,,,KS,,US,39.5257899,-95.1821934,2026-10-11T15:12:29Z
+33d1c2ae-4e92-45a7-91b8-8155c947a56c,way/588760532,Cool Springs Golf Course,,course,,,active,,,,,+1 785 889 7128,http://coolspringsgc.com/,,20770 Kelley Creek Road,Onaga,KS,66521,US,39.5041317,-96.176945,2026-10-11T15:12:20Z
+34f8b8b1-25c5-4815-aa28-35cddc1ba76d,way/117417596,Tomahawk Hills Golf Course,,course,,,active,,,,,+1-913-631-8000,https://jcprd.com/329/Tomahawk-Hills,,17501 Midland Drive,Shawnee,KS,66217,US,38.9971895,-94.7900334,2026-10-11T15:11:57Z
+3528e632-698b-46cc-8a17-9757e48820a0,way/546421534,Scott Community Golf Course,,course,,,active,9,34,,,,https://www.scottcommunitygc.com/,,806 North Main Street,Scott City,KS,67871,US,38.4946951,-100.9040701,2026-10-11T15:12:18Z
+358ea7f7-a366-49a2-ae3f-aaa7f0a2eb64,relation/11845517,Hidden Lake Golf Course,,course,,,active,18,72,,,,,,,,KS,,US,37.5820128,-97.2031554,2026-10-11T15:12:41Z
+35d89464-9a46-4f5e-91d1-d6a26849da23,way/956976968,,,course,,,active,,,,,,,,,,KS,,US,37.6554154,-98.132265,2026-10-11T15:12:23Z
+364bd94d-49a0-4a3e-9a99-4cc9f2717058,way/339465126,Cimarron Golf Club,,course,,,active,,3,,,,,,,,KS,,US,37.8122197,-100.3542366,2026-10-11T15:12:14Z
+37301312-d8c3-413f-9f47-0f8252a2fdb4,way/588478170,,,course,,,active,,,,,,,,,,KS,,US,38.3359526,-98.2041096,2026-10-11T15:12:20Z
+3801e7fa-78f6-4ca7-9b10-c83e41c067d3,way/1482035960,Clay Center Public Golf Course,,course,,,active,,,,,,,,,,KS,,US,39.3421326,-97.0679667,2026-10-11T15:12:29Z
+38c5711c-655f-4b34-8d88-8e21b7f5a558,way/505160823,Dub's Dread Golf Club,,course,,,active,,68,,,+1 913 871 7616,https://www.dubsdreadgolfclub.com/,,12601 Hollingsworth Road,Kansas City,KS,66109,US,39.1685497,-94.8752899,2026-10-11T15:12:18Z
+39768618-10e9-4fd7-8c00-838931477eb0,way/195043236,Topeka Country Club,,course,,,active,,,,,,,,,,KS,,US,39.0187935,-95.6913359,2026-10-11T15:12:01Z
+3a673824-f3ed-454a-93d1-2b9cf355ffc4,relation/1344353,Tall Grass Country Club,,course,,,active,18,71,,,+1-316-684-4110,http://www.tallgrasscc.com/,,2400 North Tallgrass Street,Wichita,KS,67226,US,37.7303771,-97.236164,2026-10-11T15:12:30Z
+3a8f2bf8-42dc-41d1-a351-f9ea476240a0,way/588207745,Ashland Golf Course,,course,,,active,,,,,,,,100 Grant Street,Ashland,KS,,US,37.1972243,-99.7743649,2026-10-11T15:12:20Z
+3c1da5da-40de-40c4-b42f-48adfcb4e616,node/8430589531,,,course,,,active,,,,,,,,,,KS,,US,38.3742792,-94.7240287,2026-10-11T13:29:32Z
+424e8379-76ab-47a8-9e1f-61d0c6ace46d,way/778336759,Prairie Dunes,,course,,,active,18,70,,,,,,,,KS,,US,38.0935157,-97.8470163,2026-10-11T15:12:21Z
+42c8bf66-e756-4b4d-8167-40b4c0761c8e,way/848720783,Sabetha Golf Club,,course,,,active,9,36,,,+1 785 284 2023,https://www.sabethagolfclub.com/golf,,2551 X Road,Sabetha,KS,66534,US,39.9229665,-95.8117965,2026-10-11T15:12:23Z
+430bc6e2-9cbc-41ee-bec3-ca72aceda3ef,relation/19235864,Quail Ridge Golf Course,,course,,,active,,,,,,,,,,KS,,US,37.2083368,-96.9915359,2026-10-11T15:12:45Z
+431674b3-1005-4724-bd28-f5ce54dec0d7,way/684863481,Crawford Hills,,course,,,active,,,,,,,,,,KS,,US,37.5099422,-94.8131409,2026-10-11T15:12:20Z
+436b2a50-077b-4212-89c2-d332fd133808,way/1337744605,,,course,,,active,9,35,,,,,,,,KS,,US,39.3700563,-99.830405,2026-10-11T15:12:29Z
+441fd135-bd8a-4c95-806b-2fa5b358111b,way/1263920178,,,course,,,active,,,,,,,,,,KS,,US,37.8856454,-99.3912068,2026-10-11T15:12:28Z
+4427f436-3016-48cd-8989-d89c9803cd50,way/454746820,Saint Marys Municipal Golf Course,,course,,,active,,,,,+1 785 437 6454,https://www.smks.info/golf.html,,604 Golf Course Lane,Saint Marys,KS,66067,US,39.1911194,-96.0516508,2026-10-11T15:12:17Z
+45afbffc-807e-453b-9f2b-6020ba5c52b8,way/1494476055,,,course,,,active,,,,,,,,,,KS,,US,38.8089761,-97.5726507,2026-10-11T15:06:40Z
+483caf3b-87d2-4fc7-9987-b06b433833e4,way/228171191,Clyde Golf Course,,course,,,active,,,,,,,,,,KS,,US,39.5942526,-97.3525796,2026-10-11T15:06:16Z
+4851a421-3cf0-44a7-9ba7-ff39b2f23bf0,way/689353027,Hillcrest Golf Course,,course,,,active,,,,,,,,,,KS,,US,37.0619138,-95.6437594,2026-10-11T15:12:21Z
+49958330-bf02-4db7-b106-f7f254f8c21a,way/1052280490,University Park Golf Course,,course,,,active,,,,,,,,,,KS,,US,39.3661068,-96.7144354,2026-10-11T15:12:24Z
+4a63d3d3-65bf-4b6c-aeb3-1f520229f6f4,relation/21139362,Atwood Country Club,,course,,,active,9,36,,,,,,,,KS,,US,39.8190299,-101.0420426,2026-10-11T15:06:54Z
+4c6e80c8-63f7-47a9-b512-1410e9a80105,way/1465169125,Bentwood Golf Course,,course,,,active,18,72,,,,https://www.bentwoodgolfcourse.com/,,1370 Frazier Park Road,Ulysses,KS,,US,37.564082,-101.3327872,2026-10-11T15:12:29Z
+4e0e80ca-0ad7-4d54-938d-a169975ffbfc,way/546419320,,,course,,,active,,,,,,,,,,KS,,US,38.5454614,-99.8977858,2026-10-11T15:06:30Z
+51492c39-fe35-4e92-9a54-628966b227e9,way/454724060,Ottawa Golf Course,,course,,,active,,,,,+1 785 242 3734,https://greatlifegolf.com/ottawa/,,1001 East Logan Street,Ottawa,KS,66067,US,38.6253987,-95.2527764,2026-10-11T15:12:17Z
+522d0066-c438-4e79-8b40-0d0f84847b40,relation/8086481,Painted Hills Golf Club,,course,,,active,,67,,,+1-913-334-1111,http://www.paintedhillsgolfclub.com/,,7101 Parallel Parkway,Kansas City,KS,66112,US,39.1242683,-94.7417212,2026-10-11T13:31:37Z
+55efb965-bd92-435e-b1e6-979b50e95a17,relation/20500920,Wedgewood Golf Course,,course,,,active,,,,,,,,,,KS,,US,38.0408922,-97.4754819,2026-10-11T15:12:45Z
+574a8daf-73f7-4db0-a598-7ed4e18d6323,node/7906476743,Crooked Creek Country Club,,course,,,active,,,,,,,,,,KS,,US,37.5908027,-100.442078,2026-10-11T13:29:32Z
+59508300-8290-49d9-b707-c36a4de64027,relation/1975329,Auburn Hills Golf Course,,course,,,active,18,72,,,,,,,,KS,,US,37.6721107,-97.4981609,2026-10-11T15:06:41Z
+5b1efcb9-057b-47c7-9783-6aff04158cfd,way/625938383,Seneca Golf Club,,course,,,active,,64,,,,http://senecagolf.net/,,,,KS,,US,39.8459166,-96.0801548,2026-10-11T15:12:20Z
+5b71707e-21f6-4c20-8f4f-831b3331499e,way/504508919,Falcon Lakes Golf Club,,course,,,active,18,72,,,,,,4605 Clubhouse Drive,Basehor,KS,66007,US,39.1650707,-94.9107919,2026-10-11T15:12:18Z
+5c8c1c5e-d337-4069-b7ee-79d9a3c557d6,relation/6702217,Sand Creek Station,,course,,,active,18,72,,,+1-316-284-6161,https://www.sandcreekgolfclub.com/,,920 Meadowbrook Drive,Newton,KS,67114,US,38.0197928,-97.3670454,2026-10-11T15:12:38Z
+5dcbb7d8-9483-4cbb-a91d-cdad2abb64ea,relation/11160341,Shadow Glen Golf Club,,course,,,active,18,72,,,+1-913-764-2299,https://www.shadowglen.org/,,26000 Shadow Glen Drive,Olathe,KS,66061,US,38.9366702,-94.8948041,2026-10-11T15:12:38Z
+5e57c1e0-87bb-46e1-a3fb-728f28039c26,way/151986478,Gardner Golf Course,,course,,,active,,,,,+1-913-856-8858,https://www.gardnergolf.com/,,15810 South Gardner Road,Gardner,KS,66030,US,38.8442043,-94.9323948,2026-10-11T15:12:00Z
+606f3168-abb0-43b2-81d0-5af7c5129744,way/483355626,Oak Country Golf Club,,course,,,active,,,,,,https://www.oakcountrygolfcourse.com/,,8800 Scott Drive,Desota,KS,66018,US,38.9691515,-94.963497,2026-10-11T15:12:17Z
+6217b5a6-d0af-4595-a4ee-e2a94ca372a7,way/1149740545,Rolling Hills Country Club,,course,,,active,18,71,,,,,,223 S Westlink St,Wichita,KS,67209,US,37.6834963,-97.4568127,2026-10-11T15:12:27Z
+6452c121-3d9b-4026-a745-dfc1b4a8b0c3,way/454528415,Prairie Trails Golf Course,,course,,,active,,,,,+1 316 321 4114,http://www.prairietrails.com/,,1100 Country Club Lane,El Dorado,KS,67042,US,37.8371156,-96.8355607,2026-10-11T15:12:17Z
+64cf4cd6-f17a-407a-9dce-a14a8c3cc15c,way/1081668380,Coldwater Country Club,,course,,,active,,,,,,,,,,KS,,US,37.2466633,-99.3407061,2026-10-11T15:12:24Z
+66940ecb-0a31-4836-8d4e-de6103965a49,way/42280171,,,course,,,active,,,,,,,,,,KS,,US,38.1378453,-97.4152929,2026-10-11T15:11:53Z
+66f7f801-ab3a-4771-a702-663415f92fba,relation/12212105,Hallbrook Country Club,,course,,,active,18,72,,,,https://www.hallbrookcc.org/,,11200 Overbrook Road,Leawood,KS,66211,US,38.9220061,-94.6175308,2026-10-11T15:12:41Z
+698fb02e-6ef7-4a35-8686-99e5ffb67568,relation/11133152,Shawnee Golf Course & Country Club,,course,,,active,,,,,+1-913-422-8357,https://www.shawneegolfcc.com/,,6404 Hedge Lane Terrace,Shawnee,KS,66226,US,39.0107826,-94.8633354,2026-10-11T13:31:37Z
+6a84653e-cc41-4b32-9921-21c8c61e944a,way/454593758,Woodland Hills Golf Course,,course,,,active,,,,,+1 620 223 5060,,,2414 Horton Street,Fort Scott,KS,66701,US,37.8115279,-94.7214398,2026-10-11T13:30:48Z
+6b89f549-f217-4927-a417-71dfc59432e5,way/773672527,,,course,,,active,18,,,,,,,,,KS,,US,38.0649954,-97.7660532,2026-10-11T15:12:21Z
+6c1f4e8e-cd03-449c-a805-c8c9243a7ac1,way/35110685,Parsons Country Club,,course,,,active,,,,,,,,,,KS,,US,37.3371689,-95.324832,2026-10-11T15:11:51Z
+6ce7be09-bc29-4f7d-a88c-8a3cbb9057c9,way/1053652901,,,course,,,active,,,,,,,,,,KS,,US,39.3691194,-96.8623164,2026-10-11T13:31:06Z
+6e7940d5-54e4-4289-b674-83b0fec9f6b4,way/40817715,Hillsboro Municipal Golf Course,,course,,,active,,,,,,,,,,KS,,US,38.3439462,-97.2086364,2026-10-11T15:11:53Z
+6edcb926-130e-4a28-8262-4b727f515659,way/151941817,North Topeka Golf Center,,course,,,active,,,,,,,,,,KS,,US,39.0931897,-95.6550151,2026-10-11T15:06:12Z
+6fcbfcea-e8a6-454a-8d1d-d194f42055f2,way/671853408,,,course,,,active,,,,,,,,,,KS,,US,37.9379711,-98.711605,2026-10-11T15:12:20Z
+7581c960-400d-44e7-8a12-3330e2370430,way/453433159,Concordia American Legion Golf Course,,course,,,active,,,,,,,,,,KS,,US,39.5628909,-97.6693236,2026-10-11T15:12:17Z
+7680961e-cc31-49f5-8f44-b6be0717de56,relation/4253531,Former Deer Creek Golf Club,,course,,,active,,,,,,,,,,KS,,US,38.8921487,-94.660734,2026-10-11T15:12:36Z
+77383f2b-2d74-4c75-b92b-00dd6d6eadba,way/296275179,Cherry Oaks Golf Course,,course,,,active,,,,,+1 316 540 0133,https://www.cherryoaksgc.com/,,119 North Main Street,Cheney,KS,67025,US,37.6391613,-97.7855187,2026-10-11T15:12:10Z
+77db219b-8174-45a4-9cbd-e97d9ef166a5,way/151941823,Village Greens Golf Course,,course,,,active,,,,,,,,,,KS,,US,39.2266493,-95.520796,2026-10-11T15:06:12Z
+7a22c30e-ee16-4fa9-b9a7-1dc3e8c79cba,way/454513470,Junction City Golf Course,,course,,,active,,,,,+1 785 579 6050,https://greatlifegolf.com/junctioncity/,,1301 West 8th Street,Junction City,KS,66441,US,39.0263414,-96.8562151,2026-10-11T13:30:48Z
+7b674ca7-4329-4cc8-83a6-caacd8e085ef,way/906401471,,,course,,,active,,,,,,,,,,KS,,US,37.2685075,-100.5874273,2026-10-11T15:12:23Z
+7c3c6fa7-5c33-474c-a65b-8e4e1295e6e8,way/517081279,Sugar Hills Golf Club,,course,,,active,,,,,,https://sugarhillsgolfclub.com/,,,,KS,,US,39.3473512,-101.7869541,2026-10-11T15:12:18Z
+7e059ae9-0ed3-4889-b4dc-9f3856a15fa0,relation/4253530,Country Club of Leawood,,course,,,active,,,,,+1-913-491-3888,http://www.ccleawood.com/,,12700 Overbrook Court,Leawood,KS,66209,US,38.8985634,-94.6200421,2026-10-11T15:12:36Z
+7e48e7eb-0e81-4e06-b3dc-5443743db7d5,way/151987849,Burning Tree Golf Club,,course,,,active,,,,,+1 913 301 3000,https://www.greatlife-burningtree.com/golf-course/,,7909 Wyandotte Street,De Soto,KS,66018,US,38.9844828,-94.9598227,2026-10-11T15:06:12Z
+8068cb30-3b40-49d8-810a-26d4aec0d146,way/151985223,Sycamore Ridge Golf Club,,course,,,active,18,71,,,,,,,,KS,,US,38.7565789,-94.840674,2026-10-11T15:12:00Z
+8385bf38-d23d-4d40-96c6-714f243b2877,way/662850876,Forewinds Municipal Golf Club,,course,,,active,,,,,,,,,,KS,,US,37.1744531,-101.3990236,2026-10-11T15:12:20Z
+869d6d42-0a66-43b3-bf27-f2a0da616e0d,relation/2053560,The Jayhawk Club,,course,,,active,,9,,,,https://www.thejayhawkclub.com/,,1809 Birdie Lane,Lawrence,KS,66047,US,38.9505805,-95.2932067,2026-10-11T15:12:30Z
+891511db-9544-4f00-9004-5dafc5bec74f,way/417059136,,,course,,,active,,,,,,,,,,KS,,US,38.1901114,-99.088807,2026-10-11T15:06:28Z
+8d1da58e-6b79-406f-87c6-f0c9320510c4,way/35110686,Katy Golf Course,,course,,,active,9,36,,,,,,,,KS,,US,37.3593047,-95.2720993,2026-10-11T15:11:51Z
+8d3f6004-ba23-4977-b4b3-4fe4f284ca95,way/640106195,Carey Park Golf Course,,course,,,active,9,36,,,,http://www.careyparkgolf.com/,,,,KS,,US,38.0248519,-97.9184015,2026-10-11T15:12:20Z
+915306de-5d51-4f8e-a3e3-37e7a4a5dbb8,way/988870323,,,course,,,active,,,,,,,,,,KS,,US,38.5323359,-98.4965016,2026-10-11T13:31:06Z
+91998ad8-d757-447e-9ede-e21a793565b1,way/1322747160,,,practice,,,active,,,,,,,,,,KS,,US,37.720629,-97.4386511,2026-10-11T15:12:29Z
+95abfdd2-7ffb-4ea1-afc1-56392fdc0168,way/70764331,Stagg Hill Golf Course,,course,,,active,,,,,,,,,,KS,,US,39.1537692,-96.6299452,2026-10-11T15:11:55Z
+95dca35d-a068-42aa-aa35-c0fec7757b9c,way/220748892,Leavenworth Golf Club (CLOSED),,course,,,active,,,,,,,,,,KS,,US,39.2644118,-94.9046453,2026-10-11T15:12:03Z
+963f42ce-d621-4c7a-ba5c-a5d7e4133a8f,way/471511758,Brookridge Golf Club,,course,,,active,,,,,,,,,,KS,,US,38.9384214,-94.6888426,2026-10-11T15:12:17Z
+96d78481-9795-42a3-8f34-284b18ce1d81,way/170670007,Oakley Golf Course & Country Club,,course,,,active,,,,,,,,,,KS,,US,39.1214952,-100.8646982,2026-10-11T15:12:01Z
+9729e4dd-4ec2-4d52-ac24-44afddfcc16b,way/320357108,Wellington Golf Club,,course,,,active,18,70,,,+1 620 326 7904,https://www.wellingtongolfclub.com/,,1500 West Harvey Avenue,Wellington,KS,67152,US,37.2643556,-97.4161031,2026-10-11T15:12:12Z
+9863a353-f989-42f1-8e4b-2cd69415af37,way/68744841,St Andrews Golf Club,,course,,,active,18,71,,,,,,,,KS,,US,38.8787931,-94.7118029,2026-10-11T15:11:55Z
+99033484-742c-4fe9-bffb-76a2afd77e3e,relation/15318016,The Derby Golf and Country Club,,course,,,active,18,71,,,,,,,,KS,,US,37.56926,-97.2553041,2026-10-11T15:12:43Z
+9ac2b15a-1067-4648-b0a7-b4c759081567,way/1073910681,,,course,,,active,,,,,,,,,,KS,,US,39.3483943,-97.126093,2026-10-11T15:12:24Z
+9e7c1b7f-f83f-4419-bc2b-228fdfcd654a,way/453346244,Phillipsburg Golf Club,,course,,,active,,,,,+1 785 533 1345,https://www.phillipsburggolf.com/,,East Highway 36,Phillipsburg,KS,67661,US,39.7581021,-99.3121493,2026-10-11T15:12:17Z
+9fca1b0c-b984-4abf-9050-c4b843959366,way/296275171,Shady Bend Golf Course,,course,,,active,9,36,,,,,,,,KS,,US,39.4359745,-98.723877,2026-10-11T15:12:10Z
+a0b2bdcc-003e-4ab5-9a96-d5a16cba1640,way/679342469,,,course,,,active,,,,,,,,,,KS,,US,38.1281089,-94.8055731,2026-10-11T13:30:54Z
+a1bf04c9-8f7c-4775-9cd8-83fc6806204a,way/453880360,Stone Creek Golf Course,,course,,,active,,,,,+1 620 432 8056,https://www.chanute.org/225/Stone-Creek-Golf-Course,,511 South Country Club Road,Chanute,KS,66720,US,37.6788241,-95.4930517,2026-10-11T15:12:17Z
+a32773c8-adb3-4c48-99aa-4e5654400ce4,relation/17880261,Canyon Farms Golf Club,,course,,,active,18,71,,,,,,17501 West 87th Street Parkway,Lenexa,KS,66219,US,38.9641577,-94.7908632,2026-10-11T15:12:45Z
+a3861ba4-c441-43a6-aff8-a35852f481ba,way/1297743772,,,course,,,active,,,,,,,,,,KS,,US,39.4716428,-98.6980257,2026-10-11T15:12:29Z
+a4007b63-9b0f-4432-9f42-0485730d3d58,way/203432117,Spring Hill Golf Course,,course,,,active,,,,,,http://www.springhillgolf.net/,,,,KS,,US,37.095614,-97.0344768,2026-10-11T15:12:03Z
+a4288359-8d18-4df3-a89b-213941fb2e85,way/213516638,,,course,,,active,,,,,,,,,,KS,,US,38.7231683,-98.2186047,2026-10-11T15:12:03Z
+a48ed954-b337-453a-bd1d-14ba30fdfd96,way/151983806,Eudora Riverview Golf Course,,course,,,active,,,,,,,,,,KS,,US,38.961966,-95.1099579,2026-10-11T15:06:12Z
+a79f76fd-53eb-4f22-9290-0e0a72aa8918,way/43649013,,,course,,,active,,,,,,,,,,KS,,US,38.9336031,-97.2349567,2026-10-11T15:11:53Z
+a7ada3ce-b1cc-473c-b706-019c6f4fda07,way/662161426,Point Rock Golf Club,,course,,,active,,,,,,,,,,KS,,US,36.9984226,-101.8879138,2026-10-11T15:12:20Z
+a86cdd6d-efe5-4d14-91ce-e1aab9116975,way/1234132268,The Orchards Executive Golf Course,,course,,,active,,,,,+17858437456,https://www.golforchards.com,,3000 Bob Billings Parkway,Lawrence,KS,66049,US,38.9603791,-95.2738426,2026-10-11T15:12:28Z
+ab019f33-d91e-45dc-8a48-c74a1676880b,way/315833539,Mission Hills Country Club,,course,,,active,,,,,+1 913-722-5400,https://www.missionhillscc.com/,,5400 Mission Drive,Mission Hills,KS,66208,US,39.0291282,-94.6120171,2026-10-11T15:12:12Z
+ab65dac8-f6d0-4cb8-9375-764a4134e593,relation/4253532,Nicklaus Golf Club at LionsGate,,course,,,active,,,,,+1-913-402-1000,https://www.clubcorp.com/Clubs/Nicklaus-Golf-Club-at-LionsGate,,14225 Dearborn Avenue,Overland Park,KS,66223,US,38.8752099,-94.6561277,2026-10-11T15:12:36Z
+acfc374a-25a3-45a4-b07f-ee663e3ea6be,way/321534957,,,course,,,active,,,,,,,,,,KS,,US,37.1720291,-98.0542105,2026-10-11T15:12:12Z
+ae140d6b-b149-4cfa-a1de-9f3233f1d992,way/151941820,Prairie View Golf Club,,course,,,active,,,,,,,,,,KS,,US,38.9888594,-95.8493227,2026-10-11T15:12:00Z
+aef252c4-08ad-417c-bb36-5968aa5f11ef,way/1473217671,Osawatomie Golf Course,,course,,,active,,67,,,,,,,,KS,,US,38.5306072,-94.9968755,2026-10-11T15:12:29Z
+af9dbd58-afad-44b7-9f5f-54cc7b086386,way/687844016,Firekeeper Golf Course,,course,,,active,18,72,,,,https://www.firekeepergolf.com/,,12524 150 Road,Mayetta,KS,66509,US,39.3218404,-95.747819,2026-10-11T15:12:21Z
+b326713f-baa8-46c1-a6a6-6f832c07a4eb,way/519755885,Cedar Hills Golf Course,,course,,,active,,,,,,,,,,KS,,US,39.7608326,-97.0446209,2026-10-11T15:12:18Z
+b3be107a-264f-4511-92e4-e9b121bb3ca7,way/453037361,Country Club,,course,,,active,,,,,,,,,,KS,,US,37.0596352,-100.9279429,2026-10-11T13:30:48Z
+b6a4bac0-3bbf-4caa-b327-96263db8cb4a,way/483224458,,,course,,,active,,,,,,,,,,KS,,US,38.9309457,-99.5513112,2026-10-11T15:12:17Z
+b6ea81d5-693d-499f-95f2-c3d034c85958,way/1483308176,,,course,,,active,,,,,,,,,,KS,,US,37.599348,-95.2485796,2026-10-11T13:31:14Z
+b78479a4-d999-43ff-9776-eafd2977d920,way/151983193,Eagle Bend Golf Course,,course,,,active,18,72,,,,,,,,KS,,US,38.9227123,-95.3190443,2026-10-11T15:12:00Z
+b826ec4b-6e7d-4268-af55-b55091034af0,way/588400261,Garnett Country Club,,course,,,active,9,,,,+1 785 304 0727,https://www.simplygarnett.com/country-club.html,,,,KS,,US,38.2956672,-95.2374572,2026-10-11T13:30:54Z
+b82d2b36-1d4d-436c-bf9e-2764d27274df,relation/11646838,Atchison Golf Club at Bellevue,,course,,,active,18,71,,,,https://www.nekgolf.com/,,1713 Country Club Road,Atchison,KS,66002,US,39.5795424,-95.1479825,2026-10-11T15:12:41Z
+b854fe8c-1133-44a8-a1de-d3210fe759cd,way/1436268799,Meade Golf Course,,course,,,active,,,,,,,,17189 O Road,Meade,KS,,US,37.268549,-100.3486023,2026-10-11T15:12:29Z
+b88d08f4-61dd-42f0-b162-a6469f0b808d,way/1314102451,,,course,,,active,,,,,,,,,,KS,,US,38.3312607,-98.3832162,2026-10-11T15:12:29Z
+bb3ce314-1717-4abb-a565-dba979132bf4,way/1428299481,Crazy Horse Golf club,,course,,,active,,5,,,,,,,,KS,,US,38.1675194,-97.9500317,2026-10-11T15:12:29Z
+bc18f7ff-33a1-463a-871e-3ab354785f23,relation/4849451,Crestview Country Club,,course,,,active,,,,,+1-316-733-1344,https://www.crestviewcountryclub.com/,,1000 North 127th Street East,Wichita,KS,67206,US,37.7017462,-97.1806875,2026-10-11T13:31:32Z
+bc9994d6-9494-4e04-829b-5f4682299421,way/275013117,Pure Golf Topeka,,course,,,active,,,,,+1-785-329-6699,http://puregolftopeka.com/,,7523 Southwest 21st Street,Topeka,KS,66615,US,39.0273276,-95.796601,2026-10-11T15:06:19Z
+bde0ef82-273d-40bf-9cd9-6a5f2b862535,way/588824246,,,course,,,active,,,,,,,,,,KS,,US,37.5121807,-95.8307666,2026-10-11T15:12:20Z
+bf9d6521-00d5-49c1-841d-92b88e9073e4,way/83189464,The Oaks Golf Course,,course,,,active,,,,,,,,,,KS,,US,39.2835823,-94.920797,2026-10-11T13:29:49Z
+bfece82e-d689-4f28-b310-e67cb9b9cd74,way/66324581,Wildcat Creek Golf & Fitness,,course,,,active,,,,,,,,Wildcat Creek Golf & Fitness,,KS,,US,39.1848853,-96.624847,2026-10-11T15:11:55Z
+c04a08b9-34d3-4c60-9670-3bce10bcbec0,way/151941809,Cypress Ridge Golf Course,,course,,,active,,9,,,,,,,,KS,,US,39.0216435,-95.7856274,2026-10-11T15:12:00Z
+c08437f5-2137-4461-aa9a-4951732e2609,way/718176527,Lakeside Golf Course (Pasture),,course,,,active,,,,,,https://www.pasturegolf.com/courses/lakeside.htm,,,,KS,,US,37.869979,-95.7489061,2026-10-11T15:12:21Z
+c204789f-d2d8-494c-a205-eb2562594db6,way/263536285,Belleville Country Club,,course,,,active,,,,,,,,,,KS,,US,39.817807,-97.6193633,2026-10-11T13:30:12Z
+c35210f9-4dc0-4fac-858e-98eca30afcbc,way/674597214,Independence Golf Club,,course,,,active,18,71,,,,,,,,KS,,US,37.2562133,-95.7153311,2026-10-11T15:12:20Z
+c4f883d1-8126-4f18-8e1d-71a73ba9d76a,way/146321250,Pine Bay Golf Course,,course,,,active,,,,,,,,,,KS,,US,37.5753654,-97.3108913,2026-10-11T15:12:00Z
+c5b9e90a-6290-426b-9da9-07d7b62eabcb,way/146313015,Indian Hill Golf Course,,course,,,active,,,,,,,,,,KS,,US,38.9745337,-97.0351874,2026-10-11T15:12:00Z
+c62cef82-2406-4fa1-9058-f3b9a9566cc5,way/702517084,Metcalf Ridge Golf Course,,course,,,active,,,,,,,,,,KS,,US,38.5956103,-94.6617699,2026-10-11T15:12:21Z
+c68a7f32-73aa-4487-8637-6f323cf617b0,way/1219615448,,,course,,,active,,,,,,,,,,KS,,US,37.2104296,-96.9928101,2026-10-11T15:12:27Z
+c7b379ba-bf22-4fe4-9a8b-bf16ef677f35,way/507582564,Meadow Lake Golf Course,,course,,,active,,,,,,,,,,KS,,US,39.4060015,-101.0315426,2026-10-11T15:12:18Z
+c94df36e-b933-437a-bbca-94cf72295b22,node/9951632970,,,course,,,active,,,,,,,,,,KS,,US,38.8886394,-98.8392393,2026-10-11T13:29:32Z
+cbb0a97a-bbf9-4634-bc0c-2f3a43776910,way/169742128,Salina Municipal Golf Course,,course,,,active,,,,,+1-785-826-7450,https://www.salinamuni.com/,,2500 East Crawford,Salina,KS,67401,US,38.8207439,-97.5691565,2026-10-11T15:12:01Z
+ccd33837-c1e6-433b-b842-c8234f4f79ce,way/84983243,Alfred MacDonald Golf Course,,course,,,active,18,72,,,,,,840 Yale Ave,Wichita,KS,,US,37.7026791,-97.2893918,2026-10-11T15:11:55Z
+ce1c6d35-45f7-4b7f-8cd1-4b89e1376d19,way/38414690,Smiley's Golf Complex,,course,,,active,18,60,,,,,,,,KS,,US,38.9440764,-94.8480508,2026-10-11T13:29:39Z
+ce8a8e44-eeb5-48f6-9769-1bc2be741250,node/10853398897,Brough Creek National GC,,course,,,active,,,,,,,,,,KS,,US,39.1671392,-94.7610853,2026-10-11T13:29:32Z
+cf5af6ba-9924-44ec-b035-d350fa4d1a44,way/296275184,Wabaunsee Pines Golf Course,,course,,,active,9,33,,,+1-785-449-7269,https://wabaunseepinesgolf.com/,,471 West Flint Hills Drive,Alma,KS,66401,US,38.8530451,-96.1914737,2026-10-11T15:06:23Z
+d0ef8ef4-b509-44a4-9479-39fb6a708786,way/52295987,Overland Park Golf Course,,course,,,active,18,70,,,,,,,,KS,,US,38.90372,-94.7189603,2026-10-11T15:06:05Z
+d1b43d2e-3b14-4408-9af3-64c360653cce,relation/4849453,Terradyne Country Club,,course,,,active,18,71,,,+1-316-733-2582,https://www.terradynecountryclub.com/,,1400 Terradyne Drive,Andover,KS,67002,US,37.7008508,-97.1456125,2026-10-11T13:31:32Z
+d1e2cb3e-d92b-47bc-a0a3-e29dea83b615,way/624430246,Humboldt Golf Course,,course,,,active,9,36,,,,,,,,KS,,US,37.8220597,-95.4413268,2026-10-11T15:12:20Z
+d1f5e0b5-591b-4576-97ad-54e183eb38ef,way/146313017,Rolling Acres Golf Club,,course,,,active,,,,,,,,,,KS,,US,38.460245,-97.6560669,2026-10-11T15:06:12Z
+d33acb74-4e55-4c94-bcde-ba9706dc6935,relation/11582117,,,course,,,active,18,58,,,,,,,,KS,,US,37.6532739,-97.1832571,2026-10-11T15:06:51Z
+d53982c5-1af9-45bf-bd21-4d2af5b7ff80,node/4799418369,Deer Trace Golf Course Clubhouse,,course,,,active,,,,,,,,254 Fascination Lane,Linn Valley,KS,66040,US,38.3748074,-94.7244138,2026-10-11T13:29:32Z
+d5a73d5d-c6bf-4bdb-b4af-d6b7539b6dc1,way/807793821,Tamarisk Golf Course,,course,,,active,,,,,+1-620-384-7832,https://www.tamariskgc.com/,,811 East Golf Course Road,Syracuse,KS,67878,US,37.9640856,-101.7497759,2026-10-11T15:06:33Z
+d66ad2b6-19d2-45e3-a543-d8876465756c,way/1299617833,,,course,,,active,,,,,,,,,,KS,,US,39.5063059,-98.4177746,2026-10-11T13:31:14Z
+d8615f7f-d535-428d-8e9f-157416fb4ef9,way/91992941,Waterville Golf Course,,course,,,active,,,,,,,,,,KS,,US,39.6882998,-96.7296501,2026-10-11T15:06:07Z
+d960f27d-3d21-405e-bcb7-ba177a7ff6ab,way/146313016,Junction City Golf Course,,course,,,active,,,,,,,,,,KS,,US,39.0853459,-96.8814699,2026-10-11T13:29:58Z
+d9c2a2df-1bc2-4cef-8bb3-f881c967fd9a,way/588413995,,,course,,,active,,,,,,,,,,KS,,US,37.1392455,-96.1892081,2026-10-11T15:12:20Z
+da2e6798-3258-412d-a2e3-90856cf0ee50,way/43332671,,,course,,,active,,,,,,,,,,KS,,US,38.2410477,-97.7598052,2026-10-11T15:11:53Z
+da8e9bd6-1464-44ec-9caa-87ba8888c33a,way/254360563,Heritage Park Golf Course,,course,,,active,,,,,,,,,,KS,,US,38.8273693,-94.7550834,2026-10-11T15:12:05Z
+dc3384f9-fe10-4dd1-9109-afdc6f236d25,relation/19189968,,,course,,,active,,,,,,,,,,KS,,US,37.6847838,-97.1451101,2026-10-11T15:06:54Z
+ddedfd73-2b9f-40c5-b5ac-5d306e916804,way/1153300152,Lake of the Forest Golf Course,,course,,,active,,,,,,,,,,KS,,US,39.0690381,-94.8319121,2026-10-11T15:12:27Z
+dea26b13-d1c3-472d-9255-eea14edff8dc,way/841526826,Mission Lake Country Club,,course,,,active,,,,,,,,,,KS,,US,39.6841211,-95.5138443,2026-10-11T15:12:23Z
+dee0ba13-7d63-48ea-8846-20467c4a776a,relation/3961566,Falcon Ridge Golf Course,,course,,,active,18,72,,,,,,,,KS,,US,38.9542992,-94.8245417,2026-10-11T15:06:45Z
+df374680-c304-4b0f-9daf-e45515c2c8d7,relation/14399844,Trails West Golf Course,,course,,,active,18,71,,,+1-913-651-7176,http://fortleavenworthfmwr.com/index.php/recreation/golf,,306 Cody Road,Fort Leavenworth,KS,66027,US,39.3483632,-94.9248092,2026-10-11T13:31:42Z
+dfaee546-e95a-4896-bbf5-4d59c2964011,way/650749781,Emporia Golf Course,,course,,,active,18,71,,,,https://www.emporiagolfcourse.com/,,,Emporia,KS,66801,US,38.324457,-96.1875196,2026-10-11T15:06:32Z
+dfe95213-eac7-4203-8323-a8c256f4dd8e,way/680476432,Four Oaks Golf Course,,course,,,active,,,,,,,,,,KS,,US,37.4223586,-94.714359,2026-10-11T15:12:20Z
+e0c04018-ce66-45af-a9d6-05f09bb10cc2,way/215983468,Berkshire Country Club,,course,,,active,,,,,,,,,,KS,,US,38.9820087,-95.7249199,2026-10-11T15:12:03Z
+e3ecce08-2b1d-4dbc-9aa5-4edaa9e171ab,relation/4849452,Flint Hills National Golf Club,,course,,,active,18,71,,,+1-316-733-7272,https://flinthillsnational.com/,,1 Flint Hills National Drive,Andover,KS,67002,US,37.6436072,-97.1268877,2026-10-11T15:06:47Z
+e45a4615-2911-45ec-b30f-40b6ef3fa0d3,way/1116394116,Rooks County Country Club,,course,,,active,9,,,,,,,,,KS,,US,39.3031539,-99.3005974,2026-10-11T15:12:24Z
+e6302127-279d-41dc-afec-98aa7b7bca66,relation/4622888,Dodge City County Club,,course,,,active,,,,,,,,1900 Country Club Drive,Dodge City,KS,67801,US,37.7689791,-100.0063017,2026-10-11T15:06:47Z
+e7d3ddc0-ab31-450b-9fc8-9ff2abb8e461,way/195043237,Shawnee Country Club,,course,,,active,,,,,,,,,,KS,,US,39.0115954,-95.6656014,2026-10-11T15:12:01Z
+e7ee1020-4e30-4521-998c-e759429ddd17,way/118005616,,,course,,,active,,,,,,,,,,KS,,US,38.4780004,-101.7571637,2026-10-11T15:11:57Z
+e9628d22-72b5-435a-9b02-bfc5fc41ee92,way/146313119,Madison Golf Course,,course,,,active,,,,,,,,,,KS,,US,38.123145,-96.1436748,2026-10-11T15:12:00Z
+ea1828ca-cb9f-4d17-8319-54d8f77d3c8e,way/296275181,Lakin Municipal Golf Course,,course,,,active,9,35,,,+1 620 355 6946,https://www.kearnycountykansas.com/golf-course/,,408 County Road O,Lakin,KS,67860,US,37.9403465,-101.2844459,2026-10-11T15:06:23Z
+ea4140a0-d7e6-4dac-996d-620269b4e070,way/666431198,,,practice,,,active,,,,,,,,,,KS,,US,38.951944,-94.8186649,2026-10-11T15:12:20Z
+ea49108f-0926-4da3-b0e5-a93d95a01dd3,relation/3961567,Falcon Valley Golf Course,,course,,,active,,,,,+1-913-780-5976,https://www.falconvalleygolf.com/,,9801 Falcon Valley Drive,Lenexa,KS,66220,US,38.949742,-94.8080355,2026-10-11T15:12:35Z
+eb019ced-3224-456b-905f-664c585c6409,way/151983738,Baldwin Golf Course,,course,,,active,,,,,,,,,,KS,,US,38.7708578,-95.1979233,2026-10-11T15:12:00Z
+ee61fdc3-37e3-4509-88e2-5807a66ceff2,relation/2512724,Lawrence Country Club,,course,,,active,18,70,,,+1-785-843-2866,https://www.lawrencecountryclub.com/,,400 Country Club Terrace,Lawrence,KS,66049,US,38.9787208,-95.2651704,2026-10-11T15:12:33Z
+ee9da083-da04-4443-bf39-4e95f9756cd8,way/339952408,Stanton County Prairie Pines Golf Course,,course,,,active,,,,,,,,50 North Airport Road,Johnson City,KS,67855,US,37.5791803,-101.73939,2026-10-11T15:12:14Z
+eefed20a-af7d-4e9a-8f92-b105fb9b6aa6,way/52422144,Westlinks Golf Course,,course,,,active,9,37,,,,,,,,KS,,US,38.8926212,-94.7335267,2026-10-11T13:29:44Z
+ef76f922-4cd0-4e3e-badc-f5bfcee57d1e,way/151983876,Paola Golf Club,,course,,,active,,,,,,,,,,KS,,US,38.5902976,-94.8663189,2026-10-11T15:06:12Z
+f18fbde9-8958-4394-bad6-cdab7ae252ba,way/453037358,Willow Tree Golf Course,,course,,,active,,,,,+1 620 626 0175,,,1800 West 15th Street,Liberal,KS,67901,US,37.0532812,-100.9503395,2026-10-11T15:12:17Z
+f4fc674c-88d2-4e97-b8a6-ef96bc2f11bc,way/1273082875,,,course,,,active,9,35,,,,,,,,KS,,US,39.8167288,-99.8766855,2026-10-11T15:06:39Z
+f5c7590d-3257-4354-bddd-8797afc89875,way/146311828,Cannonball Golf Course,,course,,,active,,,,,,,,,Greensburg,KS,,US,37.6043948,-99.2796747,2026-10-11T15:06:12Z
+f784a3dc-3885-447c-b2c8-5142bfb261d1,way/91743728,Wichita Country Club,,course,,,active,18,71,,,+1 316 634 2882,https://www.wichitacountryclub.org/,,8501 East 13th Street North,Wichita,KS,66206,US,37.7047057,-97.2400479,2026-10-11T15:11:55Z
+f85a9f96-29cb-48aa-923c-8a1e24cb4fe0,way/316101759,Sunflower Hills Golf Course,,course,,,active,18,72,,,+1 913-573-8570,http://www.sunflowerhillsgolfcourse.com/,,12200 Riverview Avenue,Bonner Springs,KS,66012,US,39.1037935,-94.8676643,2026-10-11T15:12:12Z
+fae9c4c7-192a-45a1-8419-395388ccc5cd,way/588953682,,,course,,,active,,,,,,,,,,KS,,US,38.6612271,-96.5057684,2026-10-11T15:06:32Z
+fc3e7e66-9687-4997-8807-9920fbca7246,way/318715773,,,course,,,active,,,,,,,,,,KS,,US,39.3516645,-100.4544389,2026-10-11T15:12:12Z
+ffc66da5-fc84-47e3-b60e-9112ddec51d0,way/200139798,Augusta Country Club,,course,,,active,,,,,,https://www.augustaccgolf.com/,,,,KS,,US,37.6935607,-96.9657799,2026-10-11T15:12:03Z

@@ -1,0 +1,422 @@
+id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
+0036d61f-fde4-4243-9a12-b76581292453,relation/142840,,,course,,,active,,,,,,,,,,GA,,US,33.9931031,-84.7179833,2026-10-11T15:12:30Z
+00bce29c-9098-4eac-b648-74b92e49b4f8,way/301386562,River Pointe Golf Club,,course,,,active,,,,,+1-229-883-4885,https://www.riverpointegolfcourse.com/,,801 River Pointe Drive,Albany,GA,31701,US,31.6150936,-84.1294318,2026-10-11T15:12:10Z
+01459718-2040-4351-98e4-d7a5920885af,way/264691987,Taylors Creek Golf Course,,course,,,active,,,,,,,,,Fort Stewart,GA,31314,US,31.8802006,-81.6216293,2026-10-11T15:06:18Z
+01f32211-c43d-4d25-824e-c7a3abae8f2d,way/34772854,,,course,,,active,,,,,,,,,,GA,,US,33.6953373,-84.152978,2026-10-11T15:11:51Z
+03a6d68a-6ae2-44d6-ada6-36e02c46aa3b,way/34768234,Cherokee Town and Country Club (North),,course,,,active,18,72,,,,https://www.cherokeetcc.org/,,665 Hightower Trail,Atlanta,GA,30350,US,33.9941868,-84.3650234,2026-10-11T15:11:51Z
+03dcb89e-fb51-449b-898d-fdac2ef6f08f,way/31425325,C. Uncle Remus Golf Course,,course,,,active,,,,,+1-706-485-6850,,,120 Hambone Holle Drive,Eatonton,GA,31024,US,33.3131652,-83.387294,2026-10-11T15:11:49Z
+03e0e2d5-e145-4f09-9876-47ed3fb66656,way/31387250,Achasta Golf Club,,course,,,active,18,72,,,+1-706-867-7900,https://achasta.com/,,639 Birch River Drive,Dahlonega,GA,03533,US,34.5038272,-83.9615862,2026-10-11T15:11:49Z
+051187bb-03a5-46d7-b18b-f94417ef9330,way/34773103,Country Land Golf Course,,course,,,active,18,,,,,,,,,GA,,US,34.3044943,-84.0245019,2026-10-11T15:11:51Z
+06314531-89fb-44ee-b800-99a06b6b3194,way/544634092,Dalton Golf and Country Club,,course,,,active,,,,,,,,,,GA,,US,34.8044547,-84.9495062,2026-10-11T13:30:51Z
+071c3640-ed10-466b-871d-c57265080a00,relation/16678180,Ashton Hills Golf Club,,course,,,active,18,72,,,+1-678-224-8586,https://www.ashtonhillsgc.com/,,10400 Bypass Rd,Covington,GA,30014,US,33.5786136,-83.8409016,2026-10-11T15:12:43Z
+0735c3db-c6fe-44cb-972a-c6239c06e2e7,way/1162745848,Bull Creek Golf Course,,course,,,active,,,,,,,,7333 Lynch Road,Midland,GA,31820,US,32.5486497,-84.8493974,2026-10-11T15:12:27Z
+07764d21-2811-4621-ac83-d08025bd3c28,way/34772875,Candler Park Golf Course,,course,,,active,,,,,,,,,,GA,,US,33.7692566,-84.3376555,2026-10-11T13:29:39Z
+0851b0ae-868f-48bd-80ba-50f631f48f9c,way/840323469,,,course,,,active,,,,,,,,,,GA,,US,31.0258619,-83.8476613,2026-10-11T15:12:23Z
+092cd9e6-53e5-4ef4-8502-d6ed029cac55,relation/142839,Marietta Country Club,,course,,,active,,,,,+1-770-426-1808,https://mariettacountryclub.org/Home,,1400 Marietta Country Club Drive Northwest,Marietta,GA,30152,US,33.9866277,-84.6188621,2026-10-11T15:12:30Z
+0970ffa4-ffb2-4111-bcf5-ecfe19f1e800,relation/142992,,,course,,,active,,,,,,,,,,GA,,US,33.6378822,-84.1803933,2026-10-11T15:12:30Z
+0a92be29-8e6f-45e7-8138-280657898b08,node/10129144189,,,course,,,active,,,,,,,,,,GA,,US,31.5611813,-81.3289473,2026-10-11T13:29:32Z
+0bb886fc-28b4-44b6-8a92-ffcf97c939b2,way/795946409,,,course,,,active,,,,,,,,,,GA,,US,31.2192959,-84.6973747,2026-10-11T15:12:21Z
+0bcd81c8-ad38-42be-b22d-d71f79eec3ed,way/1214697540,RiverPines Golf,,course,,,active,,35,,,+1-770-442-5960,https://www.riverpinesgolf.com/,,4775 Old Alabama Road,Johns Creek,GA,30022,US,34.0089189,-84.2238655,2026-10-11T15:12:27Z
+0bddfc17-6234-4531-85d6-498f80edbe65,way/34772752,,,course,,,active,,4,,,,,,,,GA,,US,33.3014283,-84.2477535,2026-10-11T15:11:51Z
+0c407ccc-6afd-4e09-873f-448e720ee52f,relation/4007876,Heritage Oaks Golf Club,,course,,,active,,,,,+1-912-280-9525,https://www.heritageoaksgolfclub.com/,,126 Clipper Bay Road,Brunswick,GA,31523,US,31.2298206,-81.5807743,2026-10-11T15:12:35Z
+0c82d36f-fda3-4434-966b-4bc44ec11d9e,way/31384828,Elks Lodge Golf Course,,course,,,active,18,71,,,+1-706-629-4091,https://www.elks.org/lodges/contactus.cfm?lodge=1883,,143 Craigtown Road Northeast,Calhoun,GA,30701,US,34.5448981,-84.9092433,2026-10-11T15:11:49Z
+0c8861ec-3f08-4c01-b78a-945564696aaf,way/34772886,Bear Creek Golf Club,,course,,,active,18,71,,,,https://www.bearcreekmonroe.com/,,4125 Lakeside Boulevard,Monroe,GA,30655,US,33.7824172,-83.7909493,2026-10-11T15:11:51Z
+0d188d7c-3e0c-4018-a708-8f1c986d924b,relation/4009475,Oakridge,,course,,,active,,,,,,,,,,GA,,US,31.9319619,-81.062292,2026-10-11T15:12:35Z
+0dc74e10-85c6-4b4c-abfa-db4f835f15e2,way/34773110,,,course,,,active,9,36,,,,,,,,GA,,US,34.3078515,-84.622537,2026-10-11T13:29:39Z
+0dd29ed5-8f59-4eb6-a322-c46c14b3ac27,way/786048818,,,course,,,active,,,,,,,,,,GA,,US,30.97066,-84.8750351,2026-10-11T15:12:21Z
+0e6e9ed1-d118-42f7-91b8-d8b0b5ce22ca,relation/14504270,Eagle Watch Golf Club,,course,,,active,,65,,,+1-770-591-1000,https://www.invitedclubs.com/clubs/eagle-watch-golf-club,,3055 Eagle Watch Drive,Woodstock,GA,30189,US,34.1368959,-84.5603728,2026-10-11T15:12:41Z
+0f1904f5-acf9-4c8c-804f-dc4c3501e4cd,way/31385936,Athens Country Club,,course,,,active,,,,,,,,,,GA,,US,33.9783647,-83.4070535,2026-10-11T15:11:49Z
+0f6f7459-3361-42bc-9995-bd7fac33cfd9,way/510317114,,,course,,,active,9,36,,,,,,,,GA,,US,31.6189533,-83.2547163,2026-10-11T15:12:18Z
+110d3393-8149-467e-9e5d-0b638729ca8a,way/312084411,Quiet Pines Golf Course,,course,,,active,,,,,,,,,,GA,,US,30.9790965,-83.2136257,2026-10-11T15:06:24Z
+116115c0-1935-4330-91d4-38ef2d58f614,relation/142824,Coweta Club,,course,,,active,,,,,+1 770 683 4727,https://www.cowetaclub.com/,,300 Arbor Springs Parkway,Newnan,GA,30265,US,33.4647611,-84.7001415,2026-10-11T15:06:41Z
+1499374b-6132-41f2-9b5b-272b90fb52ee,way/352702248,Pumpkinvine Golf Club,,course,,,active,,,,,,,,433 Pumpkinvine Road,Acworth,GA,30101,US,34.0727259,-84.7627484,2026-10-11T15:12:14Z
+14ba3b73-c545-4b99-9074-280a665d8fb7,relation/4009476,Palmetto,,course,,,active,18,72,,,,https://thelandings.com/golf-and-athletic-club/golf/palmetto,,1 Cottonwood Road,Savannah,GA,31411,US,31.9169631,-81.0446411,2026-10-11T13:31:27Z
+1760f908-a017-4994-8b43-18a5711a5913,way/982183621,Cedar Valley Golf & Country Club,,course,,,active,18,,,,,,,,,GA,,US,33.9823353,-85.2519604,2026-10-11T15:12:24Z
+17c86ee1-9b5f-437a-8d63-b155607f0455,way/1066874535,Apple Mountain Golf Club,,course,,,active,,,,,,,,,,GA,,US,34.6359243,-83.4585159,2026-10-11T15:12:24Z
+17fb37b6-fd72-4c71-8502-2bd3d342762a,relation/13165234,Trident Lakes Golf Course,,course,,,active,18,72,,,,,,,,GA,,US,30.8242262,-81.5531447,2026-10-11T15:12:41Z
+18cd626d-ad1f-4f3b-80fa-23826c467c18,way/34773085,Canton Golf Club,,course,,,active,,,,,+1 770 479 2772,https://cantongolfclub.com/,,,,GA,,US,34.2288785,-84.4744303,2026-10-11T13:29:39Z
+192662ba-a4d2-480b-86b3-b736b1c08418,way/34772800,Durham Lakes Country Club,,course,,,active,,,,,,,,,,GA,,US,33.5577172,-84.6061416,2026-10-11T13:29:39Z
+1a8b70aa-8aa2-4346-9707-660f19965239,way/1562203103,Stonebridge Golf Club,,course,,,active,18,71,,,,,,,,GA,,US,34.3418425,-85.1926172,2026-10-11T15:12:30Z
+1b10e8fd-500b-40c6-869d-85ac575ef97f,relation/20697880,,,course,,,active,18,,,,,,,,,GA,,US,34.4879712,-84.35537,2026-10-11T15:06:54Z
+1b417964-d6cf-42d7-abf5-fa6bd9b14af7,relation/142982,,,course,,,active,,,,,,,,,,GA,,US,33.248366,-84.3135197,2026-10-11T15:12:30Z
+1b6048d1-9901-46a6-9eca-6f622f1fecde,relation/143016,Chateau Elan Golf Club,,course,,,active,,,,,+1-678-425-6050,https://golf.chateauelan.com/,,6060 Golf Club Drive,Braselton,GA,30517,US,34.1020226,-83.8378699,2026-10-11T15:12:30Z
+1c67b5a3-ff91-460a-afa4-16bc41629236,way/34772913,Fox Creek Golf Course,,course,,,active,18,62,,,+1-770-435-1000,https://www.legacyfoxcreek.com/,,1501 Windy Hill Road Southeast,Smyrna,GA,30080,US,33.8961187,-84.5120313,2026-10-11T15:11:51Z
+1c8e591e-94d9-4050-a229-332d6eeabf8c,way/28912783,Druid Hills Golf Club,,course,,,active,18,,,,,,,,,GA,,US,33.7807212,-84.3287086,2026-10-11T15:11:49Z
+1cafef0c-36a9-4e2b-bdbf-bda50f694a9a,way/31498903,Pine Forest Country Club,,course,,,active,,,,,,,,,,GA,,US,31.5623515,-81.8852543,2026-10-11T15:11:49Z
+1cb01f16-e0dd-4ce0-9414-a206048b6c2c,way/490903310,,,course,,,active,,,,,,,,,,GA,,US,33.4330189,-82.5129158,2026-10-11T15:12:17Z
+1cc104ef-284e-43dd-970b-795e96bd86a4,way/34772908,Capital City Club - Brookhaven Country Club,,course,,,active,18,70,,,+1-404-233-2121,https://www.capitalcityclub.org/,,53 West Brookhaven Drive Northeast,Atlanta,GA,30319,US,33.8650368,-84.349231,2026-10-11T15:11:51Z
+1ccf3cd1-19da-44f4-84f3-60b9bf2d7c5d,way/1188531225,Twisted Pine Golf Course,,course,,,active,9,38,,,,,,,,GA,,US,31.8869105,-82.5847333,2026-10-11T15:06:38Z
+1ce30e96-d95d-4b64-b823-16dd465ca24d,relation/143002,Country Club of Gwinnett,,course,,,active,18,72,,,+1-770-680-4440,https://www.countryclubgwinnett.com/,,3254 Clubside View Ct,Snellville,GA,30039,US,33.8193359,-84.020268,2026-10-11T15:12:30Z
+1d566ace-0e14-4ea0-82a5-9a8af4009eef,way/231445295,Brunswick Country Club,,course,,,active,,,,,,,,,,GA,,US,31.2221249,-81.4668436,2026-10-11T15:06:16Z
+1e2a3a33-abaf-4d59-b05b-03f7538de17a,way/469255109,,,course,,,active,,20,,,,,,,,GA,,US,34.4022559,-83.992375,2026-10-11T13:30:48Z
+1ea61c28-a64a-421e-b5c0-8b2d509f2d1a,way/34767682,,,course,,,active,,,,,,,,,,GA,,US,33.5319477,-84.3014807,2026-10-11T15:11:51Z
+1f796ce4-1ea5-4b3f-a63e-1a61ac94db29,way/34773111,Chattahoochee Golf Course,,course,,,active,18,71,,,+1-770-532-0066,,,301 Tommy Aaron Dr,Gainesville,GA,30506,US,34.3505773,-83.8663615,2026-10-11T15:11:51Z
+1ffb4c2a-cb04-4482-ade0-d76b0acaea2e,way/706587528,Quitman Country Club,,course,,,active,,,,,,,,,,GA,,US,30.7596748,-83.570252,2026-10-11T15:12:21Z
+20228400-04bf-43cb-ad49-60049d30219c,way/34772879,Monroe Golf & Country Club,,course,,,active,,,,,,,,,,GA,,US,33.7695705,-83.7297582,2026-10-11T15:11:51Z
+211789c0-2f0a-4768-ad5f-0bbed9365974,relation/14232223,Wallace Adams Golf Course,,course,,,active,18,72,,,,,,,,GA,,US,32.0924998,-82.8875866,2026-10-11T15:12:41Z
+21517334-01d7-441f-9e9c-59eae99762ad,node/5543340474,Trenton Golf Course,,course,,,active,,,,,+1-706-657-3616,,,Back Valley Road,Trenton,GA,,US,34.8431942,-85.5532099,2026-10-11T13:29:32Z
+21a17f41-6fdf-42a6-9097-3541f8c0e9d9,way/982226706,,,course,,,active,,,,,,,,,,GA,,US,34.0452829,-85.2500963,2026-10-11T15:06:36Z
+21baed81-41a4-4900-a59f-a624e9bc6c0b,relation/7214607,Forest Heights Country Club,,course,,,active,18,72,,,,https://www.forestheightscc.com/,,,Statesboro,GA,30458,US,32.427699,-81.8298108,2026-10-11T15:12:38Z
+2283784f-484a-45a2-b6e1-7d5ab5366c1f,way/34772930,Steel Canyon Golf Club,,course,,,active,18,61,,,,https://steelcanyongolfclub.com/,,460 Morgan Falls Road,Sandy Springs,GA,30350,US,33.9675883,-84.3708403,2026-10-11T15:11:51Z
+22a9ab55-4352-4539-888d-ace7ed5427c7,node/10130913843,,,course,,,active,,,,,,,,,,GA,,US,30.8146597,-81.6191009,2026-10-11T13:29:32Z
+237d87cd-4210-4420-aa9f-d9bb153e3cec,way/34833444,,,course,,,active,,,,,,,,,,GA,,US,34.1389207,-84.26085,2026-10-11T13:29:39Z
+24d01815-432f-44dc-ab73-1fbc3f635937,relation/143018,,,course,,,active,9,36,,,,,,,,GA,,US,34.1948584,-84.2935027,2026-10-11T13:31:18Z
+25c722da-521c-40d4-adca-3e2e17ceca32,way/546381028,,,course,,,active,,,,,,,,,,GA,,US,32.9488001,-82.8408409,2026-10-11T15:12:18Z
+26bee82c-cc9e-4f63-92d5-ffd4d4f4a88a,way/34773093,,,course,,,active,,11,,,,,,,,GA,,US,34.2935524,-84.6122322,2026-10-11T15:06:03Z
+2713f697-f369-4398-8d85-e954d3355ff1,relation/4008282,Black Creek Golf Club,,course,,,active,18,72,,,+1-912-858-4653,https://www.blackcreekgc.com/,,227 Canterwood Drive,Ellabell,GA,31308,US,32.170989,-81.4971418,2026-10-11T15:06:45Z
+2725cdb2-2036-4e2b-af5b-9cb0fac64c1f,way/254561015,,,course,,,active,,,,,,,,,,GA,,US,34.1289268,-84.2647762,2026-10-11T15:12:05Z
+277dbbd0-4336-40f9-b965-4f9d2e2209be,relation/4009474,Marshwood,,course,,,active,,44,,,,https://thelandings.com/golf-and-athletic-club/golf/marshwood,,1 Palmer’s Draw,Savannah,GA,31411,US,31.9428317,-81.0277785,2026-10-11T15:12:35Z
+27c6bcd0-ae78-4e42-8a44-ec2d33dede23,relation/16066478,Ohoopee Match Club,,course,,private,active,18,72,,,,https://www.ohoopeematchclub.com/,,,,GA,,US,32.2482784,-82.205161,2026-10-11T15:12:43Z
+288ed61f-25f2-431d-992e-b30a5cc399a6,way/34772910,Heritage Golf Links,,course,,,active,18,71,,,,,,,,GA,,US,33.877984,-84.2053222,2026-10-11T15:11:51Z
+294fbb7f-62c1-479c-afed-183321d00ece,way/34772922,City Club Marietta,,course,,,active,18,71,,,+1-770-528-4653,https://www.cityclubmarietta.com/,,510 Powder Springs Street Southwest,Marietta,GA,30064,US,33.9419138,-84.5586285,2026-10-11T15:11:51Z
+29767ed6-5d6c-48e7-ac87-e1a52113c49e,way/34767678,Wendell Coffee Golf & Event Center,,course,,,active,,,,,,,,,,GA,,US,33.5145758,-84.5715711,2026-10-11T15:11:51Z
+29f9daa4-135c-4ff8-8d3a-371167e95ae9,way/1526903692,The Preserve,,course,,,active,,,,,,,,,,GA,,US,33.4231282,-83.222167,2026-10-11T15:06:40Z
+2a938729-eb04-4be2-9308-22321745ab20,way/492626703,,,course,,,active,,,,,,,,,,GA,,US,32.2988475,-84.0219729,2026-10-11T15:06:29Z
+2b9db1bd-b4d6-4a5a-8608-58a1e773ed9f,way/34772824,,,course,,,active,,,,,,,,,,GA,,US,33.5897552,-83.9080082,2026-10-11T15:11:51Z
+2c63bf67-6629-44d1-b74d-40f0ced647b0,relation/16107007,Chestatee Golf Course,,course,,,active,,,,,,,,,,GA,,US,34.4033311,-83.9874104,2026-10-11T13:31:48Z
+2caab9cb-e2ba-456d-bb11-7e4dfb7ef082,way/469255104,,,course,,,active,,9,,,,,,,,GA,,US,34.4018102,-83.9853058,2026-10-11T15:12:17Z
+2cf3b7a1-adeb-42b7-981f-da365de2f087,way/1020409158,,,course,,,active,,,,,,,,,,GA,,US,31.4903917,-82.8564495,2026-10-11T13:31:06Z
+2d1d6f4b-4ed4-4e47-aa78-30e8d42ca27a,way/776584699,Great Waters,,course,,,active,18,72,,,,,,,,GA,,US,33.3930212,-83.2333854,2026-10-11T13:30:58Z
+2e4a2ebd-0347-414f-8d43-34fde19a7495,relation/13105358,,,course,,,active,,,,,+1-770-810-3175,https://www.clubcorp.com/clubs/the-manor-golf-country-club/golf/golf-course/,,15951 Manor Club Drive,Alpharetta,GA,30004,US,34.1714589,-84.2628838,2026-10-11T13:31:42Z
+2e98dbbb-aac1-49cf-a50b-808508ded3a0,way/1445435039,Wymberly Community Golf Course,,course,,private,active,,,,,,,,,,GA,,US,33.5065382,-82.1506939,2026-10-11T15:12:29Z
+2f48f9ef-6101-436a-9755-1cbcd49d982a,way/856409114,Town and Country Club,,course,,,active,,,,,,,,,,GA,,US,31.3536592,-84.9260827,2026-10-11T15:12:23Z
+2f4c4245-5215-4617-a4b5-3d306f00f105,way/469255111,,,course,,,active,,12,,,,,,,,GA,,US,34.4085069,-83.9930587,2026-10-11T15:12:17Z
+2f7b7a45-ed3f-4ba4-bbd8-b6f3e72ae63b,way/31499971,Sunset Country Club,,course,,,active,,,,,,,,,,GA,,US,31.1369446,-83.7875089,2026-10-11T13:29:34Z
+2fa05f7d-8557-4db3-89c3-f7254ad6032c,relation/21216358,,,course,,,active,,,,,,,,,,GA,,US,32.0763965,-81.2893117,2026-10-11T15:12:45Z
+2ff33e46-607f-463e-ba6e-f890802d56d0,relation/143008,Horseshoe Bend Country Club,,course,,,active,18,72,,,,,,,,GA,,US,33.9806792,-84.2900072,2026-10-11T13:31:18Z
+2ffa1fcb-7720-4abd-b5db-094b2a9c5ca8,way/34772896,Cross Creek Golf Club,,par3,,,active,18,54,,,+1-404-352-5612,https://www.crosscreekatlanta.org/amenities/golf/,,1211 Cross Creek Parkway Northwest,Atlanta,GA,30327,US,33.8233185,-84.4265252,2026-10-11T15:11:51Z
+30815aff-161c-459b-a252-3b2d0c903b72,way/1278158108,King and Prince Golf Course,,course,,,active,,,,,,,,,,GA,,US,31.2853646,-81.3462507,2026-10-11T15:06:39Z
+30cee561-1f7a-406e-a4ab-92f63c93efa9,relation/9677821,Maple Ridge Golf Course,,course,,,active,,,,,+1-706-569-0966,https://golfmapleridge.com/,,4700 Maple Ridge Trail,Columbus,GA,31909,US,32.5634153,-84.9151875,2026-10-11T15:12:38Z
+31d7039f-d11d-46ba-9278-b396d7a85370,way/1232262750,The University of Georgia Golf Course,,course,,,active,18,,,,,,,2600 Riverbend Road,Athens,GA,30605,US,33.9126478,-83.367819,2026-10-11T15:12:28Z
+31e82d2b-db15-474b-b019-60f82c68ce6f,way/463577575,,,course,,,active,,,,,,,,,,GA,,US,32.5043497,-83.665047,2026-10-11T15:12:17Z
+32d56d62-4e53-4b2e-b78d-5595c4e6c5db,relation/16768077,Georgia National Country Club,,course,,,active,18,71,,,+1-770-914-9994,https://www.greenvalleygolfgroup.com/georgia-national,,1715 Lake Dow Rd,McDonough,GA,30252,US,33.4539243,-84.0795365,2026-10-11T15:12:43Z
+33e56ea8-59c4-4d41-8cda-1ecc25a6a5d5,way/34772832,College Park Golf Course,,course,,,active,9,36,,,+1-404-761-0731,https://www.collegeparkgolf.com/,,3711 Fairway Drive,College Park,GA,30337,US,33.653382,-84.4665618,2026-10-11T13:29:39Z
+34155c37-162f-4a89-ba91-963aeacb38ae,way/34772953,Bentwater Golf Club,,course,,,active,18,72,,,+1-770-529-9554,https://www.bentwatergolf.com/,,100 Golf Links Drive,Acworth,GA,30101,US,34.0547082,-84.7607409,2026-10-11T13:29:39Z
+3474a7fb-aefe-4f7c-b55c-f857fcded026,way/34772972,Cherokee Golf Center,,course,,,active,,,,,,,,,,GA,,US,34.0780687,-84.5400089,2026-10-11T13:29:39Z
+35307eab-6fe1-46e2-a265-bdb646bcf504,way/34830685,,,course,,,active,,,,,,,,,,GA,,US,33.7745209,-84.1301804,2026-10-11T15:11:51Z
+3570fe11-e39d-4e21-9995-975298f60d20,way/34772842,,,course,,,active,,36,,,,,,,,GA,,US,33.6725814,-84.5376691,2026-10-11T15:11:51Z
+3681ce0c-4801-4419-8c6b-3d7282b8c701,way/834919416,Forest Hills Golf Club,,course,,,active,18,,,,+1-706-733-0001,https://www.theforesthillsgolfcourse.com/,,1500 Comfort Road,Augusta,GA,30909,US,33.474758,-82.0547666,2026-10-11T13:31:02Z
+36954aad-c01a-4af1-ba27-69b860640c49,way/34773105,Hampton Golf Village,,course,,,active,18,,,,,,,,,GA,,US,34.3024005,-84.0595336,2026-10-11T15:11:51Z
+37b7ccd8-14cc-4125-8849-56d5f7840cc1,way/133692507,Jekyll Island Golf Club,,course,,,active,,,,,,,,,,GA,,US,31.0681646,-81.4144721,2026-10-11T15:11:57Z
+388c5e5e-4835-48df-a006-06d6b8260007,relation/143020,,,course,,,active,,25,,,,,,,,GA,,US,34.3007049,-84.610986,2026-10-11T13:31:18Z
+38cfa244-aff3-4d58-838b-db59746b1b55,way/1526901856,Waterfall Club,,course,,,active,18,71,,,,https://thewaterfallclub.com/,,1105 Waterfall Drive,,GA,,US,34.8761718,-83.5468757,2026-10-11T15:12:29Z
+39224ee5-e2ea-441c-8c2e-b2c0a125fa9b,way/34772975,Brookfield Country Club,,course,,,active,18,72,,,,,,,,GA,,US,34.0794632,-84.3987688,2026-10-11T15:11:51Z
+399249ba-f926-4629-8f07-7d83c8f8915f,way/529413534,,,course,,,active,,,,,,,,,,GA,,US,31.8738436,-83.9132839,2026-10-11T15:12:18Z
+399531e4-874a-44cc-b4bb-0429dbf91b7e,way/34773109,,,course,,,active,,,,,,,,,,GA,,US,34.3121371,-84.6074111,2026-10-11T15:11:51Z
+39b6b6c1-fd56-4a56-a537-e4df03d89814,way/25587469,East Lake Golf Club,,course,,,active,18,70,,,,https://www.eastlakegolfclub.com/,,2575 Alston Drive Southeast,Atlanta,GA,30317,US,33.7423692,-84.3024448,2026-10-11T13:29:34Z
+39ba5e5f-e0db-4824-9d75-272c1936e6d6,way/352906430,Green Valley Greens Golf Course,,course,,,active,,,,,,,,157 Rudy York Road Northwest,Cartersville,GA,30121,US,34.2316151,-84.8305539,2026-10-11T15:12:14Z
+3a0d4404-4cc2-48ad-aaa9-664d371d4380,way/1181198674,,,course,,,active,,,,,,,,,,GA,,US,32.3604909,-83.3343654,2026-10-11T15:12:27Z
+3a541a2e-1333-4551-a7a8-57cb85471968,way/793307076,Doublegate Country Club,,course,,,active,,,,,,,,,,GA,,US,31.6059374,-84.2557843,2026-10-11T15:06:33Z
+3b1c96cd-885a-4641-89af-7a1ffd8acadd,way/34773089,,,course,,,active,,36,,,,,,,,GA,,US,34.2418381,-83.8476544,2026-10-11T15:11:51Z
+3b5e72e7-461c-4005-b0f2-66639a290cfb,way/492337413,Glen Arven Country Club,,course,,,active,18,,,,+1 229 226 1780,https://www.glenarven.com/,,1700 Old Monticello Road,Thomasville,GA,31792,US,30.8163558,-83.9576261,2026-10-11T13:30:48Z
+3cdb4dd7-de0c-4ef0-b15c-76c0f0d6b98f,way/34772881,,,course,,,active,,,,,,,,,,GA,,US,33.7740819,-84.1325494,2026-10-11T15:11:51Z
+3d17c8d9-737b-4f6a-ab61-a405ab69d5a0,relation/16766044,Laurel Springs Golf Club,,course,,,active,18,71,,,+1-770-884-0065,https://www.invitedclubs.com/clubs/laurel-springs-golf-club,,6400 Golf Club Drive,Suwanee,GA,30024,US,34.0945801,-84.1525297,2026-10-11T15:12:43Z
+3dccaca8-e3e1-4616-947d-3af7b4e1e576,way/34768232,,,course,,,active,,,,,,,,,,GA,,US,33.993597,-84.7268677,2026-10-11T15:11:51Z
+3e40d9ed-8066-45ad-9fa1-f7c10a0968f3,way/34772755,,,course,,,active,,16,,,,,,,,GA,,US,33.3115983,-84.2346332,2026-10-11T15:11:51Z
+3e7d4f0e-fbb8-4051-9242-5f2691793560,way/1278158107,Frederica Golf Club,,course,,,active,,,,,,,,,,GA,,US,31.2626603,-81.364848,2026-10-11T15:12:28Z
+3edf4093-0083-4f6b-907f-d450c4eb3142,way/34773060,,,course,,,active,,5,,,,,,,,GA,,US,34.1833685,-84.203107,2026-10-11T15:11:51Z
+3ee3ef1e-b8e5-4929-b3e9-204255580f91,way/31445775,Lake Jonesco Golf Course,,course,,,active,,,,,+1 478 986 3206,http://www.jonescountyga.org/county-directory/golf-course/,,834 Highway 22 East,Gray,GA,31032,US,33.0232925,-83.4737544,2026-10-11T15:06:00Z
+3ee9a583-addf-433f-8285-5d9c2d1a1be5,way/34773055,,,course,,,active,,4,,,,,,,,GA,,US,34.1818292,-84.0212245,2026-10-11T15:11:51Z
+4011a7d9-ac54-44af-9f6a-d4db33816761,way/721680284,Chicopee Woods Golf Course,,course,,,active,,,,,,,,2515 Atlanta Highway,Gainesville,GA,30504,US,34.2416268,-83.8475988,2026-10-11T15:12:21Z
+40d7a35d-b01e-468b-b60b-2dc2b3a6d6d2,way/31388098,Battlefield Golf Club and Estates,,course,,,active,,,,,,,,,,GA,,US,34.9249066,-85.2211003,2026-10-11T15:11:49Z
+4121fce6-df12-42ef-a075-6d26d720c720,way/31443921,Sandy Run Golf Club,,course,,,active,,,,,,,,,,GA,,US,32.5786358,-83.6047555,2026-10-11T15:11:49Z
+420058d4-89da-46b0-8a1f-46cb942f2739,way/31408622,Turtle Cove,,course,,,active,,,,,,,,,,GA,,US,33.369745,-83.8422531,2026-10-11T15:11:49Z
+4222e9b5-e33a-481e-8930-b0ea401a05b6,relation/1443521,Stone Mountain Golf Club,,course,,,active,,,,,,https://www.stonemountaingolf.com/,,11 Stonewall Jackson Drive,Stone Mountain,GA,30083,US,33.8113239,-84.1280608,2026-10-11T15:12:30Z
+42fe0882-4e98-4a5a-82af-fd5bfe831b7e,way/807467327,,,course,,,active,,,,,,,,,,GA,,US,31.3024974,-83.9921155,2026-10-11T15:12:21Z
+433a378e-66e4-4979-92dc-2e58f684c391,way/529816517,,,course,,,active,,,,,,,,,,GA,,US,32.0093038,-84.1146631,2026-10-11T13:30:51Z
+43764039-cb69-42a4-9835-fb1519f435b2,relation/17737442,,,course,,,active,,,,,,,,,,GA,,US,33.0653413,-85.0568736,2026-10-11T13:31:51Z
+444a4b45-5b72-4be6-b0b8-918c618559e4,way/892457565,Country Club of The South,,course,,,active,,3,,,,https://www.invitedclubs.com/,,4100 Old Alabama Road,Johns Creek,GA,30022,US,34.0093878,-84.2330185,2026-10-11T15:12:23Z
+46033e53-2f8f-4e17-8c8d-950a911439fa,way/1084512950,,,course,,,active,,,,,,,,,,GA,,US,32.3955443,-84.9589405,2026-10-11T15:12:24Z
+467c22e6-00b7-4810-93c6-c95fbb3c1056,relation/12234918,Olde Atlanta Golf Course,,course,,,active,18,71,,,,https://www.oldeatlantaclub.org/,,1100 Northmeadow Parkway #114,Roswell,GA,30076,US,34.084835,-84.1213664,2026-10-11T15:12:41Z
+468e997d-154c-408c-a937-fb751ee39869,way/34772780,Planterra Club,,course,,,active,18,72,,,+1-770-487-8141,https://www.invitedclubs.com/clubs/planterra-club,,500 Clubhouse Dr,Peachtree City,GA,30269,US,33.3735027,-84.5839004,2026-10-11T15:11:51Z
+472dd1ba-a0c0-4d33-8dfd-1919c98f2c3a,way/31444337,Godwin Creek Golf Course,,course,,,active,,,,,+1-706-324-0583,https://www.forekidscolumbus.com/,,403 42nd Street,Columbus,GA,31904,US,32.5040213,-84.9863675,2026-10-11T15:11:49Z
+4734e016-ad27-4ba6-8450-026de46b322e,relation/142986,Flat Creek,,course,,,active,,,,,+1-770-487-8140,https://www.invitedclubs.com/,,100 Flat Creek Road,Peachtree City,GA,30269,US,33.412075,-84.5769348,2026-10-11T15:12:30Z
+4755802d-f2e5-473b-9bff-5cb8892526d6,relation/16790970,Providence Club,,course,,,active,18,72,,,+1-770-207-4332,https://www.greenvalleygolfgroup.com/web/pages/providence-club,,656 Providence Club Dr,Monroe,GA,30656,US,33.8986714,-83.7701262,2026-10-11T15:12:43Z
+47f8a11e-4fe1-4ec5-9a93-fd8870b277ef,way/301601074,Brazell's Creek Golf Course,,course,,,active,,,,,+1-912-557-7745,http://georgiagolf.com/Brazells-Creek,,355 Golf Course Road,Reidsville,GA,30453,US,32.0891928,-82.1358327,2026-10-11T15:06:24Z
+4acfb421-58b1-4124-9e17-32ed2b4ee203,way/1422533952,,,course,,,active,,3,,,,,,,,GA,,US,34.0578237,-83.9058012,2026-10-11T15:12:29Z
+4ba2ada1-e19e-4ea0-aa0e-565553b90c84,way/317313617,,,course,,,active,,,,,,,,,,GA,,US,31.5737164,-84.2808167,2026-10-11T15:12:12Z
+4d4b94f2-b6b3-4c34-81c0-2937b32cda34,way/34772883,,,course,,,active,,,,,,,,,,GA,,US,33.7762765,-84.1402767,2026-10-11T13:29:39Z
+4d9b2542-b0c5-41bc-8c42-de5d3fbd425a,way/611676862,,,course,,,active,,,,,,,,,,GA,,US,31.4510038,-83.5816432,2026-10-11T15:12:20Z
+4e742db1-6fe4-4b8a-b880-54284d6f23e6,relation/5342118,Cherokee Rose Country Club,,course,,,active,,,,,,,,,,GA,,US,31.8010613,-81.6010701,2026-10-11T15:12:36Z
+4eff4d14-c90b-44bd-8439-4fd1c7e4434b,node/3529238371,Chapel Hill Country Club,,course,,,active,,,,,,,,,,GA,,US,33.7163396,-84.7254481,2026-10-11T13:29:32Z
+502914d1-3cb8-4764-b6b7-f4ca84af0332,relation/4006674,Okefenokee Golf and Country Club,,course,,,active,18,72,,,+1-912-283-7400,https://okefenokeecountryclub.com/,,1204 South River Oaks Drive,Blackshear,GA,31516,US,31.2658455,-82.349492,2026-10-11T15:06:45Z
+50bc61ca-8364-4b69-992a-a81df6685062,relation/3957561,Council Fire Golf Club,,course,,,active,18,72,,,+1-423-499-6300,https://councilfire.net/,,100 Council Fire Drive,Chattanooga,GA,37421,US,34.9868362,-85.1660492,2026-10-11T15:12:35Z
+50be150d-2a38-432f-8c1c-4a059d13e7e7,way/527780623,Tired Creek Country Club,,course,,,active,,,,,,,,,,GA,,US,30.8979554,-84.2233559,2026-10-11T15:12:18Z
+50ff81f9-b006-4a86-b7b9-cc25cdb83810,relation/143010,Pinetree Country Club,,course,,,active,18,72,,,+1-770-422-5902,https://pinetreecc.org/,,3400 McCollum Parkway,Kennesaw,GA,30144,US,34.0385044,-84.5929154,2026-10-11T13:31:18Z
+511cdb86-0a8b-4ef8-90da-efe1b29cc7d4,relation/142827,,,course,,,active,,,,,,,,,,GA,,US,33.5275211,-84.2953148,2026-10-11T15:12:30Z
+51c36d44-e2c9-4e56-b1b3-b8cb109a5622,way/34772802,Sunset Hills Country Club,,course,,,active,,,,,+1 770 834 6656,https://www.sunsethillscc.com/,,1 Club Drive,Carrollton,GA,30117,US,33.5625846,-85.0978664,2026-10-11T15:11:51Z
+533c41d3-471b-48d8-8bf9-a766fc91eb77,way/699978706,Woodmont Golf and Country Club,,course,,,active,,,,,,https://www.woodmontgolfclub.com/,,Gaddis Road,Canton,GA,30115,US,34.2284928,-84.3517288,2026-10-11T15:12:21Z
+536c7c48-1e9b-4243-9b3c-2e2db0e1d1dd,relation/143004,,,course,,,active,,,,,,,,,,GA,,US,33.9377743,-83.5967144,2026-10-11T15:12:30Z
+54ee28b5-802f-49ce-a1ea-e6d53003cd54,way/31473778,WIlmington Island Golf Club,,course,,,active,18,,,,,,,501 Wilmington Island Road,Savannah,GA,31410,US,32.0021313,-80.9915484,2026-10-11T13:29:34Z
+561e423b-1803-4215-b677-e764194c0a81,way/1366112115,Valdosta Country Club,,course,,,active,,,,,,,,,,GA,,US,30.8908356,-83.3082864,2026-10-11T15:12:29Z
+57f92a0c-6d14-440f-a870-8f3923322c42,way/34767684,,,course,,,active,,,,,,,,,,GA,,US,33.5337752,-84.2918587,2026-10-11T15:11:51Z
+5816f3cd-9c38-437a-ab91-7d806cfb2c5d,way/357495678,Georgia Veterans Memorial Golf Course,,course,,,active,,,,,+1 229 276 2377,https://www.lakeblackshearresort.com/golf/,,2459-H US Highway 280 West,Cordele,GA,31015,US,31.966888,-83.9020522,2026-10-11T15:12:14Z
+58ff9917-9649-40bb-af36-79e7282d8d65,way/1221400618,Hickory Hill Golf Course,,course,,,active,,,,,+1-770-775-2433,,,,Jackson,GA,,US,33.3198223,-83.9505065,2026-10-11T15:12:27Z
+5951d64b-7a9c-40fa-95d1-eb1461a2fce9,way/34772745,Griffin Golf Course,,course,,,active,18,73,,,,,,625 Camp Northern Road,Griffin,GA,30224,US,33.2360985,-84.2726982,2026-10-11T15:11:51Z
+5ae0e413-4846-470c-bb2a-f2fdf2c64068,relation/7251734,Oak Mountain Golf Club,,course,,,active,,,,,+1 770 834 7065,https://www.oakmountainchampionshipgolf.com/,,409 Birkdale Boulevard,Carrollton,GA,30116,US,33.5709951,-85.0268912,2026-10-11T15:06:49Z
+5d0f837a-cc91-4c55-a4cb-fe69aa0f0628,way/469255108,,,course,,,active,,12,,,,,,,,GA,,US,34.4042807,-83.981759,2026-10-11T15:06:29Z
+5d7b4c80-c1eb-421d-a999-b44204e2f7a2,way/153508475,Coosa Country Club,,course,,,active,,,,,+1 706 234 7131,https://www.coosacountryclub.org/,,110 Branham Avenue,Rome,GA,30161,US,34.2517332,-85.1852861,2026-10-11T15:06:12Z
+5dce6f8c-40c2-4cba-8918-4bfbd3e60f4d,relation/13196569,Willow Lake Golf Club,,course,,,active,18,71,,,+1-912-685-2724,http://willowlakegolfclub.com/,,West Willow Lake Drive,Metter,GA,30439,US,32.4191563,-82.0708171,2026-10-11T13:31:42Z
+5ef325ff-ee16-4afe-9cc7-0c5b42dba8b7,way/1526902810,The Creek Club,,course,,,active,18,71,,,,,,,,GA,,US,33.4517594,-83.2227337,2026-10-11T15:12:29Z
+5f521272-18d1-42cf-a675-1fcf7e3c22e3,relation/15556848,Crystal Lake Golf & Country Club,,course,,,active,18,72,,,,https://www.greenvalleygolfgroup.com/web/pages/crystal-lake,,100 Crystal Lake Boulevard,Hampton,GA,30228,US,33.4554189,-84.2595449,2026-10-11T15:12:43Z
+5f6bdea4-4eea-46c2-8e7b-569dab99e495,way/34772874,,,course,,,active,,,,,,,,,,GA,,US,33.7700796,-84.1537247,2026-10-11T15:11:51Z
+60239e8b-3f80-4a56-a01c-12cf02fe5396,relation/142983,Cabin Creek Golf Club,,course,,,active,,,,,,,,,,GA,,US,33.2745379,-84.2304614,2026-10-11T13:31:18Z
+6075ecaf-39e5-4e64-9125-d9836552992a,way/121986363,Mary Calder Golf Club,,course,,,active,9,35,,,+1-912-238-7100,https://www.marycaldergc.com/,,1 Mary Calder Dr,Savannah,GA,31415,US,32.0958293,-81.1319157,2026-10-11T15:06:10Z
+61394d40-f58d-4ea5-88c9-daf29f250170,way/34772950,Cobblestone Golf Course,,course,,,active,18,71,,,+1-770-917-5151,https://www.cobblestonegolf.com/,,4200 Nance Road,Acworth,GA,30101,US,34.0511676,-84.6761814,2026-10-11T15:11:51Z
+6159d35d-283f-41c4-be0b-104e4f640edc,relation/142989,,,course,,,active,,,,,,,,,,GA,,US,33.5861321,-84.0317461,2026-10-11T15:12:30Z
+6268ea9e-c9fe-427e-9cd8-4e23481d4ca3,way/34772873,Mystery Valley Golf Club,,course,,,active,18,72,,,+1-770-469-6913,https://www.mysteryvalleygolfassociation.com/,,6094 Shadow Rock Drive,Lithonia,GA,30058,US,33.7610639,-84.1365345,2026-10-11T15:06:03Z
+627349ac-6928-4a79-b19b-cbbcdde1aa8e,relation/7242424,The Landing,,course,,,active,18,,,,+1 706 467 1464,https://www.reynoldslakeoconee.com/golf/courses/landing,,1104 Landing Drive,Greensboro,GA,30642,US,33.4680317,-83.2585748,2026-10-11T15:12:38Z
+63182f9e-a12b-460f-a26a-f0ed091e96e0,way/34773063,,,course,,,active,,7,,,,,,,,GA,,US,34.1854477,-84.2031288,2026-10-11T13:29:39Z
+6397fbc4-2471-4c74-933a-631f089a4466,way/34768247,Atlanta Athletic Club,,course,,private,active,18,,,,+1-770-448-2166,https://www.atlantaathleticclub.org/,,1930 Bobby Jones Drive,Johns Creek,GA,30097,US,34.0015016,-84.1889109,2026-10-11T15:11:51Z
+63c13143-3dc5-47f7-9934-b4c18320b4a6,way/34773027,,,course,,,active,,,,,,,,,,GA,,US,34.1383496,-84.2663346,2026-10-11T15:11:51Z
+64ac3045-60c8-4520-9d95-e8b119f22c0c,way/1278158115,,,course,,,active,,,,,,,,,,GA,,US,31.2846138,-81.355112,2026-10-11T15:12:28Z
+64b049d8-c932-4f20-bbde-f53b45c9bb88,relation/142993,Fairfield Plantation,,course,,,active,18,72,,,+1-770-836-1112,https://www.fairfieldplantation.com/amenities/golf.aspx,,7500 Monticello Drive,Villa Rica,GA,30180,US,33.6487192,-84.9331796,2026-10-11T15:12:30Z
+64c04162-cafa-405b-992e-552fc7ceebfe,way/311488110,LaFayette Golf Course,,course,,,active,,,,,+1-706-639-1580,http://cityoflafayettega.org/recreation/golf-course/,,1 Fred Henry Drive,LaFayette,GA,30728,US,34.6913827,-85.2836827,2026-10-11T15:12:12Z
+65f61c65-9b5b-4ae1-8a23-e056074e584b,way/1109059683,Ansley Golf Club - Settindown,,course,,,active,18,73,,,,,,1608 Settindown Drive,,GA,,US,34.1021541,-84.4216982,2026-10-11T15:12:24Z
+660e70f5-8e5f-4db7-966f-9ab0089a0c66,way/552672434,,,course,,,active,,,,,,,,,,GA,,US,31.27548,-82.2207803,2026-10-11T13:30:51Z
+6616e572-d2d4-462b-9752-290065df60bd,relation/14385835,Durham Lakes Country Club,,course,,,active,,,,,,,,,,GA,,US,33.5547949,-84.6054781,2026-10-11T15:12:41Z
+6617fa63-78eb-4e71-93f1-348d6abd2b28,way/31408302,The Creek Golf Course at Hard Labor,,course,,,active,,,,,,,,,,GA,,US,33.6611398,-83.6095497,2026-10-11T15:11:49Z
+66578022-9b24-4105-a732-b934a8986977,way/34773104,,,course,,,active,,,,,,,,,,GA,,US,34.306633,-84.6049881,2026-10-11T15:11:51Z
+67f897ea-3586-4362-95f9-47cb9f335d4f,relation/4006618,Beaver Creek Golf Course,,course,,,active,,,,,,,,,,GA,,US,31.5504653,-82.7978479,2026-10-11T13:31:27Z
+683f3839-ff48-43af-85ac-0a2acab8662a,relation/17910469,Standard Club,,course,,,active,,,,,+1 770 497 1920,https://www.standardclub.org/,,6230 Abbotts Bridge Road,Johns Creek,GA,30097,US,34.0574626,-84.1803586,2026-10-11T13:31:51Z
+69b9e763-bf5f-4671-98c8-4c43a0a020d7,way/26379904,Augusta Municipal Golf Course,,course,,,active,,,,,+1-706-941-5550,https://www.golfthepatch.com/,,1928 Jim Dent Way,Augusta,GA,30904,US,33.4635333,-82.0441389,2026-10-11T15:11:49Z
+6a776e96-e361-426d-86d8-539924686744,way/34773091,Hawks Ridge Golf Club,,course,,,active,,36,,,,,,,,GA,,US,34.2600235,-84.271763,2026-10-11T15:11:51Z
+6b3cd60a-73bd-4cc2-9282-4c74eacd1188,relation/16768220,Heron Bay Golf & Country Club,,course,,,active,18,72,,,+1-770-320-8500,https://www.greenvalleygolfgroup.com/heron-bay,,5100 Heron Bay Boulevard,Locust Grove,GA,30248,US,33.3402289,-84.2025012,2026-10-11T15:12:43Z
+6b4794e5-c184-48db-a8fe-d4128e0e29d1,way/34773101,Callahan Golf Links,,course,,,active,18,72,,,+1-770-720-1900,https://www.callahangolflinks.com/,,4911 Reinhardt College Parkway,Waleska,GA,30183,US,34.2971649,-84.5280672,2026-10-11T15:11:51Z
+6b8960cb-c3f6-40fb-9bdd-984fd8b3e63a,way/31391523,Mossy Creek Golf Course,,course,,,active,18,70,,,+1-706-865-2277,http://www.mossycreekgc.com/,,7883 Highway 254,Cleveland,GA,30528,US,34.5091937,-83.7393095,2026-10-11T15:11:49Z
+6bce8aa2-b5e0-4f05-88a3-ee2ccfbce088,way/919599918,,,course,,,active,,,,,,,,,,GA,,US,31.9832409,-81.0502834,2026-10-11T15:12:23Z
+6cfe6aae-dd6e-47f7-b131-0751cb471b3f,way/34768252,Collins Hill Golf Club,,course,,,active,,,,,,,,,,GA,,US,34.0189007,-84.0021782,2026-10-11T13:29:39Z
+6d964a43-d688-4d16-a70c-3d88041ae842,way/1449930957,Old Toccoa Farm,,course,,,active,18,72,,,,,,596 Curtis Switch Rd,Mineral Bluff,GA,30559,US,34.9230939,-84.3234446,2026-10-11T15:12:29Z
+6da498f0-f307-41ab-abca-9bd18d470bb8,way/34772909,Chastain Park Golf Course,,course,,,active,18,71,,,+1-404-255-0723,https://www.cityofatlantagolf.com/chastain-park-golf-course/,,216 W. Wieuca Rd NW,Atlanta,GA,30342,US,33.8684535,-84.3910065,2026-10-11T15:11:51Z
+6e0b2333-d7e2-44ea-ab2b-466bf307f070,way/1335112204,,,course,,,active,,,,,,,,,,GA,,US,31.5257551,-82.8256727,2026-10-11T15:12:29Z
+6ef1439a-3d74-4eda-9ac0-dfabef1c3a5f,way/34773022,Atlanta National Golf Club,,course,,,active,,65,,,,,,350 Tournament Players Drive,,GA,,US,34.1270993,-84.363207,2026-10-11T15:11:51Z
+6f6bed39-88d4-4b49-84b8-ae60aceb59fd,way/34768230,,,course,,,active,,,,,,,,,,GA,,US,33.9926262,-84.7349913,2026-10-11T15:11:51Z
+6ffc7e0d-b847-4b9b-a8ee-4b5b7475f793,way/317888903,Little Fishing Creek Golf Course,,course,,,active,,,,,,,,,,GA,,US,33.0976392,-83.2834586,2026-10-11T15:12:12Z
+732c0c59-215f-496a-933f-4e9de5bfc40e,way/1202433799,Durham Lakes Country Club,,course,,,active,,,,,,,,,,GA,,US,33.5639393,-84.619299,2026-10-11T15:12:27Z
+734eaa12-e0bf-4a30-be32-17c65aa30cf4,way/662371332,,,course,,,active,18,70,,,,,,,,GA,,US,32.8672943,-83.7128656,2026-10-11T13:30:54Z
+74baa768-cd9d-4ab7-a9ab-848dd8d0a36c,relation/12216276,Ocean Forest Golf Club,,course,,,active,,,,,,,,,,GA,,US,31.2130685,-81.3188061,2026-10-11T15:12:41Z
+74cc4285-ce0b-42f8-9e77-dd5512e69e80,relation/6599240,Crosswinds Golf Club,,course,,,active,,36,,,+1-912-966-1909,https://www.crosswindsgolfclub.com/,,232 James B. Blackburn Drive,Savannah,GA,31408,US,32.1317543,-81.2330146,2026-10-11T15:12:38Z
+75eb3e7e-bdbd-4900-9875-57a443d49717,way/121714815,,,course,,,active,,,,,,,,,,GA,,US,31.9685007,-81.147879,2026-10-11T13:29:54Z
+75fa6de9-c62c-45c2-a1d8-7ec2338804f9,relation/4007524,The Club at Osprey Cove,,course,,,active,,,,,+1-912-882-5575,http://www.ospreycoveclub.com/,,123 Osprey Drive,Saint Marys,GA,31558,US,30.7503089,-81.6164636,2026-10-11T13:31:27Z
+768c5cbe-80eb-4573-b5f2-cbadc43495f6,way/31435430,Green Island Hills Golf Course,,course,,,active,18,71,,,,,,,,GA,,US,32.5368079,-85.0064582,2026-10-11T15:11:49Z
+76bcc1db-a3a0-40cd-8556-8a775d665c55,way/29354026,Bobby Jones Golf Club,,course,,,active,,4,,,+1 404 355 1009,https://www.bobbyjonesgc.com/,,384 Woodward Way Northwest,Atlanta,GA,30305,US,33.8165903,-84.4026209,2026-10-11T15:11:49Z
+792cc786-f795-4ece-bdd7-4bc8f631f372,way/34772876,,,course,,,active,,,,,,,,,,GA,,US,33.7714676,-84.147723,2026-10-11T15:11:51Z
+793c9382-79c1-432d-998d-064fa37a841f,relation/142984,Summer Grove Golf Club,,course,,,active,18,72,,,+1-770-251-1800,https://summergrovegolf.com/,,335 Summer Grove Parkway,Newnan,GA,30265,US,33.3679023,-84.7320192,2026-10-11T15:12:30Z
+79f92a29-6f65-41df-8b76-57ee4f1f4f68,way/312848506,Driving Range,,practice,,,active,,,,,,,,,,GA,,US,30.9752878,-83.2169509,2026-10-11T15:12:12Z
+7a1d2591-6a52-417a-9392-a2a3b20593da,way/257979924,The Villages of East Lake,,course,,,active,,,,,,,,,,GA,,US,33.7427842,-84.3126352,2026-10-11T13:30:12Z
+7a529176-4c19-4d2e-b020-344b34ec586a,way/545530394,,,course,,,active,,29,,,,,,,,GA,,US,34.7020026,-83.4600932,2026-10-11T15:12:18Z
+7ac81b6d-9841-41f1-8112-f005f770b800,way/1052833699,,,course,,,active,,63,,,,,,,,GA,,US,32.833477,-84.8486851,2026-10-11T15:12:24Z
+7b193dc6-e9fc-40cf-a363-c31c950b0203,relation/143013,Saint Marlo Country Club Golf Course,,course,,,active,18,72,,,+1 770 495 7725,https://www.stmarlo.com/,,7755 Saint Marlo Country Club Parkway,Duluth,GA,30097,US,34.0694171,-84.1409501,2026-10-11T15:12:30Z
+7b80bed7-495b-420f-bd1d-1a2cac0d2ab0,way/34772855,Fort McPherson Golf Course,,course,,,active,,,,,,,,,,GA,,US,33.7061291,-84.4377942,2026-10-11T15:11:51Z
+7d266adf-b506-4366-986b-57a0d2804831,way/1422507039,,,course,,,active,,12,,,,,,,,GA,,US,34.060677,-83.9164078,2026-10-11T15:12:29Z
+7d691257-c163-4692-81a6-1be048b79e40,way/610075829,Forest Lakes Golf Club,,course,,,active,,,,,,,,80 Moorman Drive,tifton,GA,31794,US,31.499185,-83.4434359,2026-10-11T15:12:20Z
+7e57530c-7206-460b-809c-5a1857cd71d3,relation/21055162,,,course,,,active,,,,,,,,,,GA,,US,33.688397,-84.2974732,2026-10-11T15:12:45Z
+7f38a553-48ff-4dcb-a1a0-13680420d5d0,relation/15702521,Sugar Hill Golf Club,,course,,,active,18,72,,,,https://www.sugarhillgolfclub.com,,6094 Suwanee Dam Road,Sugar Hill,GA,30518,US,34.1301553,-84.0793121,2026-10-11T15:12:43Z
+8016cfc1-1df5-44e7-9dd3-fc8f1d6e7a8d,way/678020178,,,course,,,active,,,,,,,,,,GA,,US,33.2179036,-82.4185136,2026-10-11T15:12:20Z
+8078e144-4d6c-46ab-94ae-4c06de43ca15,way/301290668,Callier Springs Golf Course,,course,,,active,,,,,+1-706-234-1691,http://www.callierspringscc.com/,,2653 Callier Springs Road Southeast,Rome,GA,30161,US,34.2322901,-85.1412307,2026-10-11T15:12:10Z
+80f2d8e9-2d30-4ae7-bccd-5bd78862beaa,way/34772748,,,course,,,active,,,,,,,,,,GA,,US,33.2558028,-84.3205093,2026-10-11T15:11:51Z
+81a77cbe-deaf-4e18-bf8b-f2dbfaf2a527,way/1313576996,Tunnel Hill Golf Club,,course,,,active,,,,,,,,,,GA,,US,34.8396103,-85.0503743,2026-10-11T15:12:29Z
+81dc678c-f142-4893-9fa5-20168a6c0b0e,way/34772917,,,course,,,active,,,,,,,,,,GA,,US,33.9060357,-83.7665907,2026-10-11T15:06:03Z
+825f95fb-0818-4823-9c7f-215da5fb2ebd,way/469255110,,,course,,,active,,11,,,,,,,,GA,,US,34.4061965,-83.9886446,2026-10-11T15:12:17Z
+82b6fff6-80aa-46d3-8ff4-a03a63f52dc2,way/393014772,Miniature Golf,,mini,,,active,,,,,,,,,,GA,,US,34.7652547,-83.9242867,2026-10-11T15:12:15Z
+831c489a-b99a-4898-a698-fb0c0fd1c050,way/492902029,Riverview Golf Course,,course,,,active,,,,,+1 478 275 4064,https://www.dublinriverview.com/,,100 Riverview Drive,Dublin,GA,31021,US,32.5236797,-82.8917168,2026-10-11T15:12:17Z
+832a1a50-49ac-464c-a194-1e9262285ad1,relation/4651924,Bear's Best Atlanta,,course,,,active,18,72,,,+1-678-714-2582,https://www.invitedclubs.com/clubs/bear-s-best-atlanta,,5342 Aldeburgh Dr,Suwanee,GA,30024,US,34.0845245,-84.1051926,2026-10-11T15:12:36Z
+83799a0b-4297-4824-be6f-9ef153db3d32,relation/13527488,Dunwoody Country Club,,course,,,active,18,,,,,,,,,GA,,US,33.9662876,-84.3078195,2026-10-11T15:12:41Z
+83e00601-607b-4d26-850f-3d229398a1b7,way/757787800,,,course,,,active,,,,,,,,,,GA,,US,32.3307006,-83.5129365,2026-10-11T15:12:21Z
+856188da-7dc0-449f-9543-d08cd03a41eb,node/153999480,Houston Lake Country Club,,course,,,active,,,,,,,,100 Champions Way,Perry,GA,31069,US,32.5021713,-83.6657258,2026-10-11T13:29:32Z
+86241432-bfba-4355-aff7-758807e79af1,way/1278158110,,,course,,,active,,,,,,,,,,GA,,US,31.286482,-81.3491568,2026-10-11T13:31:12Z
+862b1727-5c4e-4d3f-8a16-138191aa30e5,way/31415561,Green Meadows Golf Course,,course,,,active,,,,,,,,,,GA,,US,33.4151229,-82.0372671,2026-10-11T15:11:49Z
+862efa5b-b384-478f-bf36-7a9e55c290f3,way/1020654543,,,course,,,active,,7,,,,,,,,GA,,US,34.3974473,-83.9953939,2026-10-11T15:06:36Z
+866535f3-ba43-473d-a7cb-8b783371b2aa,relation/11650492,Kinderlou Forest Golf Club,,course,,,active,18,72,,,,,,,,GA,,US,30.8112726,-83.3802752,2026-10-11T15:06:51Z
+86c52186-d213-4563-9655-2518a17375c7,way/1347151887,Eisenhower Lakes Golf Club,,course,,,active,,,,,,,,,,GA,,US,33.3829445,-82.140787,2026-10-11T15:12:29Z
+872427c2-a575-4298-a412-af6799241a09,way/31446179,Louisville Golf Club,,course,,,active,,,,,,,,,,GA,,US,33.0222926,-82.4002958,2026-10-11T15:11:49Z
+87339b98-775d-4993-bc0f-2aade1348171,way/1202433798,Durham Lakes Country Club,,course,,,active,,,,,,,,,,GA,,US,33.5580542,-84.6185789,2026-10-11T15:12:27Z
+8bca4731-2e0c-44cf-8b73-32813b2fdd15,relation/143011,The River Club,,course,,,active,,,,,,,,,,GA,,US,34.0699324,-84.1050055,2026-10-11T13:31:18Z
+8bf2ade1-ae70-440e-990d-e172e6fccebb,way/31470738,Bacon Park Golf Course,,course,,,active,9,,,,+1-912-354-2625,https://www.baconparkgolf.com/,,1 Shorty Cooper Drive,Savannah,GA,31406,US,32.0106137,-81.0877734,2026-10-11T15:11:49Z
+8c39513f-f8e6-45b1-be8d-0ce7f7714c19,way/34772934,Pine Hills Golf Club,,course,,,active,18,72,,,+1-770-867-3150,https://www.pinehillswinder.com/,,661 Hog Mountain Road,Winder,GA,30680,US,33.9698789,-83.6922764,2026-10-11T13:29:39Z
+8c632ba7-fcad-4e62-b80e-d795a5ff512d,way/34772823,,,course,,,active,,,,,,,,,,GA,,US,33.5907003,-84.0226628,2026-10-11T15:11:51Z
+8c7bde58-232a-4827-9be4-38b96c0a6c73,relation/4647377,Mirror Lake Golf Club,,course,,,active,,,,,+1 770 459 5599,https://www.clubcorp.com/Clubs/Chapel-Hills-Mirror-Lake,,1000 Canongate Parkway,Villa Rica,GA,30180,US,33.7455412,-84.8889464,2026-10-11T15:12:36Z
+8dda3714-27f4-4520-9e62-69f728dd6e1f,relation/4009477,Terrapin,,course,,,active,,,,,,,,,,GA,,US,31.8966729,-81.0529159,2026-10-11T15:12:35Z
+8e92a428-3d95-43ff-aa3d-f00bab973ceb,relation/143005,The Chimneys Golf Course,,course,,,active,18,72,,,+1-770-307-4900,https://www.chimneysgc.com/,,338 Monroe Hwy,Winder,GA,30680,US,33.9593314,-83.7100519,2026-10-11T15:06:41Z
+8f9dd8eb-afca-4d2c-86c0-3180166513dd,relation/20658594,,,course,,,active,,49,,,,,,,,GA,,US,34.1229005,-83.867127,2026-10-11T15:12:45Z
+900eb83b-bc07-4cbe-964b-3594db7c6054,way/34772863,West Pines Golf Club,,course,,,active,18,71,,,+1-678-391-1600,https://www.westpinesgc.com/,,9090 Rose Avenue,Douglasville,GA,30134,US,33.7362459,-84.7502784,2026-10-11T15:11:51Z
+90a7a35d-1a93-464c-89ed-cca6bb71a19c,way/34773021,Crooked Creek Club,,course,,,active,,,,,+1-770-475-2300,https://www.thecrookedcreekclub.com/,,3430 GA 9,Alpharetta,GA,30004,US,34.1313763,-84.2612953,2026-10-11T13:29:39Z
+90ace95b-a1d8-4ca8-8bd8-93ff8265f318,way/31447560,Columbus Country Club,,course,,,active,,,,,,,,,,GA,,US,32.4917094,-84.9603734,2026-10-11T15:06:00Z
+91e4e278-4c38-41c9-8bc8-9aaf37077116,way/34772880,,,course,,,active,,,,,,,,,,GA,,US,33.7739334,-84.1499786,2026-10-11T15:11:51Z
+91f9df02-03b2-4062-a982-5db6623a2057,way/31387669,Hartwell Golf Club,,course,,,active,,,,,+1 706 376 8161,http://hartwellgolf.net/,,755 Golf Course Road,Hartwell,GA,30643,US,34.327601,-82.9564381,2026-10-11T15:11:49Z
+92c4fb84-1627-4df2-bcd9-d7ccafa564f9,way/34773062,,,course,,,active,,65,,,,,,,,GA,,US,34.1763043,-84.0198192,2026-10-11T15:11:51Z
+92cbc03e-8fe1-4361-9b61-e6dbe1ce6640,way/490786534,,,course,,,active,,,,,,,,,,GA,,US,34.0848446,-82.857146,2026-10-11T15:12:17Z
+93016708-c483-4500-b152-70d9e0ba99c1,way/34772857,Alfred Tup Holmes Golf Course,,course,,,active,18,72,,,+1-404-753-6158,https://www.cityofatlantagolf.com/alfred-tup-holmes-golf-course/,,2300 Wilson Dr. SW,Atlanta,GA,30311,US,33.7096863,-84.4625904,2026-10-11T15:11:51Z
+935b3af2-efc5-446b-a005-3bf221a92566,way/555442802,,,course,,,active,18,72,,,,,,,,GA,,US,32.8651907,-84.312837,2026-10-11T15:12:18Z
+93d6d60b-6441-445b-b51a-8b6c276b4f37,way/34772753,,,course,,,active,,20,,,,,,,,GA,,US,33.3067817,-84.2409397,2026-10-11T15:11:51Z
+94e2bc08-307e-4568-909a-97864ded4c90,relation/4007877,Retreat Course,,course,,,active,,,,,,https://www.seaisland.com/golf/georgia-golf,,100 Kings Way,Saint Simons Island,GA,31522,US,31.1556306,-81.4000522,2026-10-11T13:31:27Z
+94f0bad6-7fcb-4658-af2f-65f0ceb0a392,relation/16769616,Fairways of Canton,,course,,,active,18,72,,,+1-770-720-1808,https://fairwaysofcanton.com/,,400 Laurel Canyon Parkway,Canton,GA,30114,US,34.267212,-84.5206496,2026-10-11T15:12:43Z
+95176362-42d8-4e11-a78e-936afb75447c,relation/16869147,BridgeMill Athletic Club,,course,,,active,18,72,,,+1-770-345-5500,https://bridgemillathleticclub.com/,,1190 BridgeMill Ave,Canton,GA,30114,US,34.1889515,-84.5512404,2026-10-11T15:12:43Z
+957ce77d-12be-49a9-843f-27034ea38025,relation/16876944,Towne Lake Hills Golf Club,,course,,,active,,64,,,+1-770-592-9969,https://www.townelakehillsgc.com/,,1003 Towne Lake Hills East,Woodstock,GA,30189,US,34.124808,-84.5552216,2026-10-11T15:06:53Z
+95c18e83-5929-453e-98ec-eacb055a7368,way/301386560,Flint River Golf Course,,course,,,active,,,,,+1-229-430-5267,http://www.albany.ga.us/content/1798/2879/117101/117203.aspx,,2000 McAdams Road,Albany,GA,,US,31.6085516,-84.0955592,2026-10-11T15:12:10Z
+96bf3a0c-6ba9-4213-a201-b0a1c12b2142,way/1067054829,Pine Oaks Golf Course,,course,,,active,,62,,,,,,,,GA,,US,32.6100142,-83.5803459,2026-10-11T15:12:24Z
+96ed02a7-7cf5-4ebf-b458-3e5cab3ef2e9,relation/14523409,Fort Benning Golf Course,,course,,,active,18,,,,+1-706-545-0397,https://benning.armymwr.com/programs/fort-moore-golf-course,,7471 Baltzell Avenue,Fort Moore,GA,31905,US,32.3616491,-84.9431248,2026-10-11T15:12:41Z
+976f0c35-c6ec-44ea-a945-a64e1042da08,way/1021591087,,,course,,,active,,,,,,,,,,GA,,US,31.161079,-84.1515074,2026-10-11T15:12:24Z
+97bc8006-1121-49b8-bde8-eb9acd188f09,relation/143014,The Golf Club of Georgia,,course,,,active,,,,,+1 770 664 8644,https://golfclubofgeorgia.com/,,1 Golf Club Drive,Alpharetta,GA,30005,US,34.0890919,-84.2270442,2026-10-11T15:12:30Z
+983f7447-829c-45d2-811c-120845ffcca6,way/34773096,,,course,,,active,,,,,,,,,,GA,,US,34.2976676,-84.6044893,2026-10-11T15:11:51Z
+99b33955-1cb8-4d41-b8aa-10556eb97d10,way/1484399660,Crystal Falls Golf Club,,course,,,active,18,72,,,,,,416 Crystal Falls Freeway,Dawsonville,GA,,US,34.3741149,-84.2405762,2026-10-11T15:06:40Z
+9a5ed27a-ccd7-44a8-8341-1c69dc3a5aa3,way/34773072,,,course,,,active,,36,,,,,,,,GA,,US,34.1900953,-84.3090995,2026-10-11T13:29:39Z
+9b31b5e8-5538-443e-b31e-9dd543f459a7,way/34773029,,,course,,,active,,4,,,,,,,,GA,,US,34.1398999,-84.2830794,2026-10-11T13:29:39Z
+9baeda49-4fd9-47db-bb81-f9dbcaefd1a7,way/1526904598,Richland,,course,,,active,9,,,,,,,,,GA,,US,33.4133375,-83.2054274,2026-10-11T15:12:29Z
+9c65b4d9-a02d-41ab-bc25-dee34b6b18e0,way/31468114,The Club at Savannah Harbor,,course,,,active,18,72,,,,,,,,GA,,US,32.0909736,-81.0808009,2026-10-11T15:11:49Z
+9cadffbd-f9bc-448d-988d-3a0b5b24f969,way/469521523,Turkey Creek Golf Course,,course,,,active,,,,,,,,,,GA,,US,31.6877522,-83.2383417,2026-10-11T15:12:17Z
+9d6806aa-6e6d-4c65-8a84-d12ff27bf8ca,relation/16311883,Champion's Retreat,,course,,,active,,,,,+1-706-854-6960,,,37 Champions Parkway,,GA,30809,US,33.5967398,-82.1642751,2026-10-11T15:12:43Z
+9d99e108-8802-4256-a113-26fa63f030cc,way/34773064,,,course,,,active,,,,,,,,,,GA,,US,34.1825416,-84.0351697,2026-10-11T13:29:39Z
+9dae73aa-0efc-4336-b1ef-d3099bbb9444,way/1444031357,Jennings Mill,,course,,,active,18,72,,,,,,,,GA,,US,33.9282046,-83.4745581,2026-10-11T15:12:29Z
+9ea47277-110b-4e82-941c-ffd4e8595e24,relation/142825,Cannongate 1 Golf Course,,course,,,active,,,,,,https://www.invitedclubs.com/,,924 Shaw Rd,Sharpsburg,GA,30277,US,33.4735295,-84.6539464,2026-10-11T15:12:30Z
+9ed13bd5-04db-493d-adfc-f509f24d63b9,way/1067065594,,,course,,,active,,9,,,,,,,,GA,,US,32.6064109,-83.5891468,2026-10-11T15:12:24Z
+a0113894-e45b-4453-85de-919c6d96002d,node/12648257191,Jennings MillCountry Club,,course,,,active,,,,,,,,1150 Chambers Court,Watkinsville,GA,30677,US,33.9248771,-83.4661075,2026-10-11T13:29:32Z
+a1d02bc2-8013-4c88-9df9-5437b71c4faa,relation/143006,Indian Hills Country Club Golf Course,,course,,,active,,,,,+1-770-971-2605,https://www.indianhillscc.com/staging-area/Home,,4001 Clubland Drive Northeast,Marietta,GA,30068,US,33.9660721,-84.4438334,2026-10-11T15:12:30Z
+a2beb2a9-c6c2-4f4d-9b39-1b5e51df0de0,way/34773065,,,course,,,active,,45,,,,,,,,GA,,US,34.1824819,-84.2052383,2026-10-11T15:11:51Z
+a2fda829-69ef-4b02-a0d2-59e9f0c364f1,way/1525672180,Indian Trace Golf Course,,course,,,active,18,72,,,,,,730 Witherow Bridge Rd,Chatsworth,GA,30705,US,34.8032664,-84.8321808,2026-10-11T15:12:29Z
+a314609e-4679-47f3-a8ce-fee5b1c0d954,way/31464815,Evans Heights Golf Club,,course,,,active,,,,,,,,,,GA,,US,32.1156792,-81.8968951,2026-10-11T13:29:34Z
+a32e7029-a619-4c3e-bb5e-be14472afbd9,relation/16779546,Creekside Golf & Country Club,,course,,,active,18,,,,+1-770-445-7655,https://www.creeksidegcc.com/,,591 Westchester Club Drive,Hiram,GA,30141,US,33.8338645,-84.8196946,2026-10-11T15:12:43Z
+a38bee78-805d-412d-a618-a3009e21e2dd,relation/142998,Charlie Yates Golf Course,,course,,,active,9,30,,,,https://www.charlieyatesgolfcourse.com/,,10 Lakeside Village Drive SE,Atlanta,GA,30317,US,33.7427006,-84.318955,2026-10-11T15:12:30Z
+a4a82e88-6e85-4b01-8592-4b9a3fc69e6c,way/301551411,Plantation Course,,course,,,active,,,,,,,,100 Retreat Avenue,Saint Simons Island,GA,31522,US,31.1455523,-81.4052596,2026-10-11T13:30:27Z
+a4caa571-1cd1-442e-98a8-ee419a830921,relation/143000,Cedar Lake Golf Club,,course,,,active,18,73,,,+1-770-466-4043,https://cedarlakegolf.com/home,,5720 South Sharon Church Road,Loganville,GA,30052,US,33.7685277,-83.916457,2026-10-11T15:06:41Z
+a55c19d6-7a1b-432c-a14d-2a870eae8df7,relation/19033703,Saint Ives Country Club,,course,,,active,,,,,+1 770 623 1239,https://www.stivescountryclub.org/,,1 Saint Ives Country Club Drive,Johns Creek,GA,30097,US,34.0253161,-84.1781643,2026-10-11T15:06:54Z
+a5b76cd0-1df4-4647-9180-6ba5af6e0529,way/121934462,,,course,,,active,,,,,,,,,,GA,,US,32.0039467,-81.1326761,2026-10-11T15:11:57Z
+a7a59b13-ef4e-46ce-a6fe-6e2603ad8436,relation/4006575,Jones Creek Golf Club,,course,,,active,18,73,,,+1-706-860-4228,http://jonescreekgolfclub.com/,,777 Jones Creek Drive,Evans,GA,30809,US,33.5541947,-82.1056345,2026-10-11T13:31:27Z
+a7b7d320-8eca-4b49-8b03-1be0566cb7d8,way/34772951,,,course,,,active,,11,,,,,,,,GA,,US,34.0569148,-83.8995078,2026-10-11T15:11:51Z
+aa4eee64-f515-47f0-ab7b-15f8d06aab05,way/1278158113,,,course,,,active,,,,,,,,,,GA,,US,31.282921,-81.3530023,2026-10-11T15:12:28Z
+aa7a3f1f-cd33-4890-9a1c-a7d13a8a4d09,way/1202433801,Durham Lakes Country Club,,course,,,active,,,,,,,,,,GA,,US,33.5597673,-84.6077736,2026-10-11T15:12:27Z
+abaf6644-88b7-4b58-9117-1b66d163e94d,way/301494549,The Lakes Golf Couse at Laura S. Walker,,course,,,active,,,,,+1-912-285-6154,http://georgiagolf.com/The-Lakes,,5500 Laura Walker Road,Waycross,GA,31503,US,31.1342424,-82.2243208,2026-10-11T15:12:10Z
+abe1f33d-cbea-4996-9e06-9f8b9e3b4b2a,way/34772926,Berkeley Hills Country Club,,course,,,active,18,72,,,+1-770-448-8353,https://www.berkeleyhillscc.org/,,2300 Pond Road,Duluth,GA,30096,US,33.9507057,-84.1656451,2026-10-11T15:11:51Z
+ac86a6e1-2782-4272-a97f-54efc0bce23e,way/34772936,,,course,,,active,,,,,,,,,,GA,,US,33.9711014,-84.1058408,2026-10-11T15:11:51Z
+acb35db9-15b6-446d-9c6f-37c9e0e48d4b,relation/17559169,Country Club of The South,,course,,,active,,69,,,,https://www.invitedclubs.com/,,4100 Old Alabama Road,Johns Creek,GA,30022,US,34.0098558,-84.2397295,2026-10-11T15:12:45Z
+acb6eae0-58ce-49da-b4e3-5eb6c5439a60,relation/142988,St. Andrews Golf Club,,course,,,active,18,72,,,+1-770-489-2200,https://standrewsgolfclub.square.site/,,8799 Edinburg Dr,Winston,GA,30187,US,33.5811763,-84.8689196,2026-10-11T15:12:30Z
+acc7076b-d522-4e8a-9973-3878644358ec,relation/17512358,Sanctuary Golf Club,,course,,,active,18,71,,,,,,2050 Sanctuary Wynd,Waverly,GA,31565,US,31.1062259,-81.5840365,2026-10-11T13:31:51Z
+ad601932-4de5-4451-9f1a-81657df8b7b5,way/782253170,Arrowhead Country Club,,course,,,active,,,,,+1-706-692-5634,,,260 Golf Course Road,Jasper,GA,30143,US,34.4496015,-84.4131141,2026-10-11T15:12:21Z
+ad62f564-a030-4f67-aeb2-8a2b0279afdc,way/1278158111,,,course,,,active,,,,,,,,,,GA,,US,31.2826724,-81.3502409,2026-10-11T15:06:39Z
+ae0a5dfc-e936-4966-b81f-0c39789d68aa,node/11635132677,Suwannee River Golf Course,,course,,,active,,,,,,,,236 Fourth Avenue,Fargo,GA,31631,US,30.6905713,-82.5667731,2026-10-11T13:29:32Z
+ae5e165c-04fa-4ce0-ac22-e9ee6e5c499a,way/489848424,,,course,,,active,,,,,,,,,,GA,,US,32.4060358,-83.3194093,2026-10-11T15:12:17Z
+af553a32-6562-426d-b54f-898c2d52baa4,relation/17586692,Double Oaks Golf Club,,course,,,active,18,71,,,+1-706-335-8100,https://www.doubleoaksgolfclub.net/,,3100 Ila Road,Commerce,GA,30530,US,34.1791412,-83.3960711,2026-10-11T15:12:45Z
+b135d207-674e-4dd3-8fcc-77fcf512a02b,way/490690766,Butternut Creek Golf Course,,course,,,active,18,72,,,+1 706 439 6076,http://www.butternutcreekgolf.com/,,129 Union County Recreation Road,Blairsville,GA,30512,US,34.8790241,-83.9648567,2026-10-11T15:12:17Z
+b18b094d-e899-4c4f-90f7-f2af982b819c,relation/4913161,Healy Point Country Club,,course,,,active,18,72,,,+1-478-743-1495,https://www.clubcorp.com/Clubs/River-Forest-Healy-Point,,293 River North Boulevard,Macon,GA,31211,US,32.9386424,-83.6605061,2026-10-11T15:12:36Z
+b1f27077-a661-4600-a270-a36ccd02f46f,way/1458428865,Deer Creek,,course,,,active,,68,,,,,,,,GA,,US,31.9548401,-81.0421743,2026-10-11T15:12:29Z
+b5069662-11ab-481c-b979-346d1b7340d8,way/34772861,John A. White Golf Course,,course,,,active,9,35,,,+1-404-756-1868,https://www.jawgc.com/,,1053 Cascade Cir SW,Atlanta,GA,30311,US,33.730072,-84.4482323,2026-10-11T15:11:51Z
+b62e9c71-0d17-4aea-bb89-122b03727ed6,way/34773070,,,course,,,active,,,,,,,,,,GA,,US,34.1917363,-84.2941951,2026-10-11T15:11:51Z
+b651035f-5e3c-4f3a-98b8-5df2445e7d8b,relation/13662923,,,course,,,active,,,,,,,,,,GA,,US,30.6803693,-83.2065666,2026-10-11T15:12:41Z
+b6f2f0ea-e24b-40cb-bc46-705898e1e2c4,relation/142995,Wolf Creek Golf Course,,course,,,active,18,72,,,+1-404-344-1334,https://www.wolfcreekgc.com/,,3000 Union Rd SW,Atlanta,GA,30331,US,33.6742383,-84.5774002,2026-10-11T15:12:30Z
+b7015cc7-5139-4608-bb6f-1396aa0b0b93,way/919599926,,,course,,,active,,,,,,,,,,GA,,US,32.008788,-81.0267669,2026-10-11T15:12:23Z
+b731ad34-1eca-407b-9b08-da18da57ce54,relation/5341113,Windermere Golf Club,,course,,,active,18,71,,,+1 678 513 1000,https://www.clubcorp.com/Clubs/Windermere-Olde-Atlanta,,5000 Davis Love Drive,Cumming,GA,30041,US,34.1403553,-84.1205661,2026-10-11T15:06:47Z
+b73ca2f9-d8a7-4185-9602-7a25db318656,relation/4009473,Magnolia,,course,,,active,,40,,,,https://thelandings.com/golf-and-athletic-club/golf/magnolia,,1 Palmer’s Draw,Savannah,GA,31411,US,31.9477352,-81.0362762,2026-10-11T13:31:27Z
+b7a3478a-a417-4d65-9002-690beac5314d,way/468442087,Teaver Golf,,course,,,active,,,,,,,,,,GA,,US,33.0197546,-85.1285321,2026-10-11T15:12:17Z
+b8067b06-94c2-4040-afdd-07d083ead6b0,way/34772754,,,course,,,active,,3,,,,,,,,GA,,US,33.310407,-84.2281445,2026-10-11T15:11:51Z
+b8700025-af77-4e8d-8c5b-7fa6af2e1cbc,way/34772849,Browns Mill Golf Course,,course,,,active,18,72,,,+1-404-366-3573,https://www.cityofatlantagolf.com/browns-mill-golf-course/,,480 Cleveland Ave Se,Atlanta,GA,30354,US,33.6846298,-84.3746604,2026-10-11T15:11:51Z
+b87277ec-f611-4442-9a81-f649cafa9f84,way/1044668564,Fields Ferry Golf Club,,course,,,active,18,72,,,+1-706-625-9001,https://fieldsferrygolf.com/,,581 Fields Ferry Drive Northeast,Calhoun,GA,30701,US,34.5529923,-84.8461056,2026-10-11T15:12:24Z
+b89ec445-7f5b-4c37-8fa5-846267d58bf5,way/1278158109,,,course,,,active,,,,,,,,,,GA,,US,31.291809,-81.3466606,2026-10-11T15:12:28Z
+b8f5d904-e419-439a-bdbc-981f0118adff,way/31499245,,,course,,,active,,,,,,,,,,GA,,US,30.8578569,-84.5872184,2026-10-11T15:11:49Z
+b955ecb5-6e10-4732-875c-a99141ea9209,node/9954833962,Kelly's 19th Tee,,course,,,active,,,,,,,,,,GA,,US,34.5538201,-83.7364887,2026-10-11T13:29:32Z
+b9c58a03-f587-4897-b704-5326c233580d,relation/7211219,Belle Meade Country Club,,course,,,active,,4,,,+1 706 595 1553,http://www.bellemeadecountryclub.org/,,2660 Twin Pine Road,Thomson,GA,30824,US,33.5358901,-82.515694,2026-10-11T15:12:38Z
+ba0cf63d-92f2-48db-ad95-25f41d41d102,node/6414867668,Fox Creek,,course,,,active,,,,,,,,,,GA,,US,33.8960324,-84.5092346,2026-10-11T13:29:32Z
+ba18bab4-021b-45b8-86d6-f53d38d7146d,relation/16731758,The Golf Club at Bradshaw Farm,,course,,,active,,36,,,+1-770-592-2222,https://www.bradshawfarmgc.com/,,3030 Bradshaw Club Dr,Woodstock,GA,30188,US,34.1567098,-84.4461822,2026-10-11T15:12:43Z
+babac1bf-299b-4bf2-b630-74f72cb6f7ac,way/375845106,Putt Putt,,mini,,,active,,,,,,,,,,GA,,US,33.5307808,-84.9242586,2026-10-11T15:12:14Z
+baf3ef05-b89c-42f5-a50e-d5873ab0f5b1,way/404960188,,,course,,,active,,,,,,,,,,GA,,US,31.6682989,-85.0362575,2026-10-11T13:30:44Z
+bd2c5bc8-bc58-4a80-a5cc-0736618715ea,way/34772988,Woodland Hills Golf Club,,course,,,active,18,71,,,+1-678-605-8585,https://www.woodlandhills-golf.com/,,256 Summit Ridge Drive,Cartersville,GA,30120,US,34.0934065,-84.8339346,2026-10-11T15:11:51Z
+bde8ccca-8da0-4275-9b8c-6090cc92db31,way/34773031,,,course,,,active,,,,,,,,,,GA,,US,34.1398449,-84.2641333,2026-10-11T13:29:39Z
+be0b768e-7c0b-4bd8-8f15-3138017e2db4,way/1278158114,,,course,,,active,,,,,,,,,,GA,,US,31.2841155,-81.352908,2026-10-11T15:12:28Z
+be9a91e2-cd74-42c6-9b97-1e209d6076f2,relation/17561787,Arrowhead Pointe,,course,,,active,18,72,,,+1-706-283-6000,http://www.arrowheadpointegc.com/,,2790 Olympic Rowing Drive,Elberton,GA,30635,US,34.1557026,-82.7297186,2026-10-11T15:12:45Z
+bee92c01-a32e-4cb8-938f-8691a5d94a57,way/524694349,Cateechee Golf Club,,course,,,active,,,,,,,,,,GA,,US,34.3240521,-82.9211939,2026-10-11T15:12:18Z
+bff8453a-4729-4add-89fb-d95fa1372db1,way/264036603,Forsyth Golf Course,,course,,,active,,,,,,,,,,GA,,US,33.0449144,-83.9629071,2026-10-11T15:06:18Z
+c07b1482-fdea-4139-be29-e1c321fdb153,way/871997938,Augusta Country Club,,course,,,active,,,,,,,,,,GA,,US,33.4891007,-82.0182149,2026-10-11T15:12:23Z
+c1166803-6ce6-4b57-b8b4-c1ca5423d223,way/34772954,,,course,,,active,,,,,,,,,,GA,,US,34.06371,-83.9060613,2026-10-11T13:29:39Z
+c22c5cfb-ec98-47b6-80b7-288152661a77,way/1564274246,Currahee Club,,course,,,active,18,72,,,,,,,,GA,,US,34.5998192,-83.2118833,2026-10-11T13:31:18Z
+c3c96c95-fb30-4dcb-b747-2442bfac6531,relation/5212867,Governors Towne Club,,course,,,active,18,73,,,+1-770-529-5455,https://www.governorstowneclub.com/,,4200 Governors Towne Drive,Acworth,GA,30101,US,34.0670728,-84.7366822,2026-10-11T15:12:36Z
+c42b62d0-64af-4c93-8e2d-9ff2d637751b,way/221639642,,,course,,,active,,,,,,,,,,GA,,US,32.7166342,-81.8648727,2026-10-11T15:12:03Z
+c5ef748d-100a-4359-8b2a-3259cbca6428,way/1526902875,The Oconee,,course,,,active,18,72,,,,,,,,GA,,US,33.442878,-83.2047436,2026-10-11T15:12:29Z
+c67fb57d-5965-48c1-8f5d-629a5fb47804,way/34767669,,,course,,,active,,,,,,,,,,GA,,US,33.492581,-84.246338,2026-10-11T15:06:03Z
+c7fd346e-886b-4aa7-b2e2-d6d78ffd8106,way/1566659864,Cotton Fields Golf Course,,course,,,active,,,,,,,,,,GA,,US,33.4208261,-84.1635313,2026-10-11T15:12:30Z
+c83ae4e0-f981-4e0c-93ce-469b35a89e43,relation/142987,,,course,,,active,,,,,,,,,,GA,,US,33.4231815,-84.7826232,2026-10-11T15:12:30Z
+c8f4b948-2143-45cd-ba52-2fae90725965,way/705061238,Country Oaks Golf Course,,course,,,active,,,,,,,,,,GA,,US,30.8855928,-83.884486,2026-10-11T15:06:33Z
+c915080b-b254-4966-84fc-99fa77aed9aa,relation/4007878,Sea Palms Golf Club,,course,,,active,,,,,+1-800-841-6268,https://www.seapalms.com/,,5445 Frederica Road,Saint Simons Island,GA,31522,US,31.2010378,-81.375974,2026-10-11T15:12:35Z
+c9bd6abb-fe1e-48f2-b9a5-67c7ca7b679f,way/1115336220,Cherokee Town and Country Club (South),,course,,,active,18,70,,,,https://www.cherokeetcc.org/,,665 Hightower Trail,Atlanta,GA,30350,US,33.9856015,-84.3665333,2026-10-11T15:12:24Z
+ca534138-342f-4851-997b-6e30bb61ccc5,relation/16823616,TPC Sugarloaf,,course,,,active,,,,,+1-770-418-1113,https://tpc.com/sugarloaf/,,2595 Sugarloaf Club Drive,Duluth,GA,30097,US,33.9994011,-84.1101993,2026-10-11T15:12:43Z
+cb4484e9-2d49-4e34-a080-a69bd5bb7e80,relation/4008315,Southbridge Golf Club,,course,,,active,18,72,,,+1-912-651-5455,http://www.southbridgegolfclub.com/,,415 Southbridge Boulevard,Savannah,GA,31405,US,32.0671351,-81.2293259,2026-10-11T15:12:35Z
+cb71c3e2-2ed1-418c-8e04-397e1f54f290,way/34773041,White Columns Country Club,,course,,,active,,,,,,,,,,GA,,US,34.1484061,-84.3307676,2026-10-11T15:11:51Z
+cb864ba1-3ba8-4bf7-a848-d0310e42240c,way/659814022,Hunter Pope Country Club,,course,,,active,18,72,,,,,,,,GA,,US,33.3191457,-83.6811283,2026-10-11T13:30:54Z
+cc3db1fe-ceea-40e6-88f8-a47a5b28676e,way/1062472877,Southern Landings,,course,,,active,18,72,,,,,,,,GA,,US,32.5705659,-83.5740235,2026-10-11T13:31:06Z
+ce81da6f-fc75-4fa9-84b3-3724f1c29472,way/1131298824,,,course,,,active,,,,,,,,,,GA,,US,33.7555198,-82.3410199,2026-10-11T15:12:24Z
+cf24652c-e2ec-4762-b577-1bc5c33feb15,node/8555363549,,,course,,,active,,,,,,,,,,GA,,US,32.8393262,-84.8571187,2026-10-11T13:29:32Z
+cf421737-b680-4562-8d66-a0cd24a6a828,way/712357737,,,course,,,active,,,,,,,,,,GA,,US,33.2758917,-81.9441224,2026-10-11T13:30:58Z
+cfad94fe-b401-435b-8228-561cb242132c,relation/4276626,Stonebridge Golf and Country Club,,course,,,active,,,,,+1-229-889-0312,http://www.stonebridgegcc.com/,,319 Osprey Ridge Court,Albany,GA,31721,US,31.5737164,-84.2808167,2026-10-11T15:12:36Z
+cfc01df0-abc5-4850-a82d-3dd9ead35c4e,way/34772757,,,course,,,active,,4,,,,,,,,GA,,US,33.3146021,-84.2334642,2026-10-11T15:11:51Z
+d0029696-d30b-4e11-826a-d1222f2f2b33,way/1293698697,,,course,,,active,9,28,,,,,,,,GA,,US,33.0384927,-85.0019946,2026-10-11T15:12:28Z
+d0baa560-ded6-434b-b5c8-c90b91d963d2,way/34773084,The Cartersville Country Club,,course,,,active,,,,,,,,,,GA,,US,34.2146652,-84.8072047,2026-10-11T15:11:51Z
+d189a0dc-0eb3-43b3-97a7-a164eabd6d9e,relation/142826,Eagle's Landing Country Club,,course,,,active,,,,,+1 770 389 2000,https://www.clubcorp.com/Clubs/Eagles-Landing-Country-Club,,100 Eagles Landing Way,Stockbridge,GA,30281,US,33.5025046,-84.2085804,2026-10-11T15:12:30Z
+d309bded-1fe3-4329-b905-6d4bf2c55ab9,way/34773042,,,course,,,active,,,,,,,,,,GA,,US,34.154848,-84.1185188,2026-10-11T13:29:39Z
+d335a15c-8b0a-4d3f-b92d-411e90a754ba,relation/16919998,Whitewater Creek Country Club,,course,,,active,18,72,,,,https://www.invitedclubs.com/clubs/the-clubs-of-peachtree-city-and-newnan/golf/whitewater-creek-course,,175 Birkdale Dr,Fayetteville,GA,30215,US,33.3787155,-84.5021605,2026-10-11T15:12:43Z
+d78b6853-5498-40b5-81e6-0a1412f21831,way/871993734,Augusta National Golf Club,,course,,,active,,28,,,+1-706-667-6000,https://www.masters.com,,2604 Washington Road,Augusta,GA,30904,US,33.5009509,-82.0228502,2026-10-11T13:31:02Z
+d7d295d8-3e9a-487a-8e86-5fec64957e20,node/6198555897,Frederica Golf Club,,course,,,active,,,,,,,,,,GA,,US,31.2589989,-81.362639,2026-10-11T13:29:32Z
+d874b0e7-f82d-49b6-a78f-6dfb7a73b88b,way/31502271,Folkston Golf Club,,course,,,active,,62,,,+1-912-496-3598,https://www.folkstongolfclub.com/,,202 Country Club Road,Folkston,GA,31537,US,30.8394105,-82.0208398,2026-10-11T15:11:49Z
+d877a561-e18c-419b-8a15-b8458e003b16,way/844588457,,,course,,,active,,,,,,,,,,GA,,US,30.9533761,-83.6051688,2026-10-11T15:12:23Z
+d87be199-295a-4e28-8197-4f555abd2011,way/992941436,Washington Wilkes Country Club,,course,,,active,,,,,,,,,,GA,,US,33.7017012,-82.6933382,2026-10-11T15:12:24Z
+d9605798-6a15-47f3-9367-05045554b29f,way/31442485,,,course,,,active,,,,,,,,,,GA,,US,32.5846359,-83.8593401,2026-10-11T15:11:49Z
+dadcf816-552a-47b4-aaca-b8cbc243e285,relation/143009,Country Club of Roswell,,course,,,active,18,71,,,+1-770-475-7800,https://ccroswell.com/web/pages/home,,2500 Club Springs Dr,Roswell,GA,30076,US,34.0277499,-84.2809625,2026-10-11T15:12:30Z
+dcfc6ccf-cf70-481a-b0ec-f5f50aec575b,way/31382303,Lookout Mountain Golf Club,,course,,,active,18,70,,,+1-706-820-1169,http://www.lookoutmountaingolfclub.com/,,1730 Woodnymph Trail,Lookout Mountain,GA,30750,US,34.9678021,-85.3583759,2026-10-11T15:11:49Z
+de1ddad9-8f32-424c-8bbc-912c6a19d81f,way/301551389,Coastal Pines Golf Course,,course,,,active,,,,,+1-912-261-0503,http://www.coastalpinesgolfclub.com/,,One Coastal Pines Circle,Brunswick,GA,31525,US,31.280833,-81.520313,2026-10-11T13:30:27Z
+df1911b4-0550-411a-a154-7b523ce8a680,way/1183702106,Chimney Oaks Golf Club,,course,,,active,,,,,,,,148 Chimney Oaks Drive,Homer,GA,30457,US,34.3578845,-83.4883191,2026-10-11T15:12:27Z
+df67af30-2205-4fbe-a875-93d691438f21,way/515637634,The Club at Lake Sinclair,,course,,,active,,,,,,,,,,GA,,US,33.1375987,-83.2235169,2026-10-11T15:12:18Z
+dfe86158-566a-412e-b87c-1fa90530a78d,relation/142985,White Oak,,course,,,active,18,72,,,+1 770 251 6700,https://www.clubcorp.com/Clubs/White-Oak-Canongate,,141 Clubview Drive,Newnan,GA,30265,US,33.3883083,-84.7247717,2026-10-11T15:06:41Z
+dfff7f5e-6a8b-439a-ab31-20a1d3278967,relation/16915488,Braelinn Golf Club,,course,,,active,18,72,,,,,,500 Clubview Dr,Peachtree City,GA,30269,US,33.3610666,-84.5450401,2026-10-11T15:12:43Z
+e166856b-d982-4cbb-b4db-acbe6cad7cda,way/34773053,,,course,,,active,,3,,,,,,,,GA,,US,34.1813331,-84.0241915,2026-10-11T15:11:51Z
+e20c3191-9f12-4df5-9526-7acf1ebc2052,way/34772918,,,course,,,active,,,,,,,,,,GA,,US,33.934188,-83.5974413,2026-10-11T15:11:51Z
+e2807989-224e-436c-a4e3-44ee7a5d6daf,way/34772998,Chateau Elan Golf Club - Executive Par 3 Course,,par3,,,active,9,27,,,+1-678-425-6050,https://golf.chateauelan.com/,,6060 Golf Club Drive,Braselton,GA,30517,US,34.1049635,-83.8174327,2026-10-11T15:11:51Z
+e50ee3c6-aff5-43bc-b03c-c5d90c766dae,way/1044545428,Whitepath Golf Course,,course,,,active,18,72,,,+1-706-276-3080,https://www.golfwhitepath.com/,,1156 Shenendoah Drive,Ellijay,GA,30540,US,34.7608677,-84.4392122,2026-10-11T15:06:36Z
+e542b40c-48a0-4619-ae8e-9ab4db6eb8b1,way/823267226,Ricefields Golf Club,,course,,,active,,,,,,,,,,GA,,US,31.7095523,-81.3712838,2026-10-11T15:12:23Z
+e593d018-cb86-431e-8cca-02e8ee21fd33,way/301551447,Seaside Course,,course,,,active,,,,,,https://www.seaisland.com/golf/best-golf-courses/,,100 Retreat Avenue,Saint Simons Island,GA,31522,US,31.1461369,-81.4100291,2026-10-11T15:06:23Z
+e6004c2e-9a39-4517-ae64-705c01e2482f,relation/20658595,Reunion Country Club,,course,,,active,,25,,,,,,,,GA,,US,34.1201093,-83.8660713,2026-10-11T15:12:45Z
+e6114076-e4bf-41a5-ad91-5e60b13a9ffd,way/301333504,Legacy Golf Links,,course,,,active,18,58,,,+1-770-434-6331,https://www.legacyfoxcreek.com/,,1825 Windy Hill Road Southeast,Smyrna,GA,30080,US,33.8975487,-84.5016736,2026-10-11T15:12:10Z
+e62b89b6-0097-4490-9f89-0f45cd22091f,way/722813111,Griffin Bell Golf Course,,course,,,active,,,,,,,,,,GA,,US,32.0494923,-84.2183503,2026-10-11T15:12:21Z
+e68be571-6f5d-4931-a527-79dd578e0ef4,relation/142996,Cherokee Run Golf Club,,course,,,active,18,72,,,+1-770-785-7904,https://www.cherokeerungolfclub.com,,1595 Centennial Olympic Parkway,Conyers,GA,30013,US,33.6762868,-83.9394187,2026-10-11T15:12:30Z
+e7354839-9f7b-446a-afc2-3f887f8e70ae,way/34775507,Noonan Golf Facility,,course,,,active,,,,,,,,,,GA,,US,33.7874896,-84.4031282,2026-10-11T15:11:51Z
+e7f3aaea-891a-48ef-9f7b-c0701b95ec5f,way/589544824,Bartram Trail Golf Club,,course,,,active,18,71,,,,,,,,GA,,US,33.5198089,-82.2158543,2026-10-11T15:12:20Z
+e86dc897-06dd-4e9a-9900-2e55bc0a45a2,way/1278158112,,,course,,,active,,,,,,,,,,GA,,US,31.2822228,-81.3525413,2026-10-11T15:12:28Z
+e9070be7-bfd3-4baf-8a57-7c01e0ba26b0,relation/19825145,Old Toccoa Farm,,course,,,active,,,,,,,,,,GA,,US,34.9225747,-84.3243868,2026-10-11T15:12:45Z
+e953aacf-ae6c-49a4-8b87-1b30c467a53c,way/549577968,Hawk's Point Golf Course,,course,,,active,,,,,,,,,,GA,,US,32.2269098,-82.3818478,2026-10-11T15:12:18Z
+e97c86b0-fa0d-4ef5-8646-c6fb37f9491e,way/537894014,Holiday Hills Golf Course,,course,,,active,,,,,,,,,,GA,,US,32.9170309,-83.3061776,2026-10-11T15:06:30Z
+e9f12cc8-884e-4503-b2a5-fcbc5663a336,relation/15737837,Trophy Club of Apalachee,,course,,,active,,,,,,,,1008 Dacula Road,Dacula,GA,30019,US,34.0198252,-83.9110864,2026-10-11T15:12:43Z
+ea3232e1-549d-46cd-9ba7-0b5fb7d0121d,way/34772911,Peachtree Golf Club,,course,,,active,18,72,,,,https://www.peachtreeclub.com/,,999 Peachtree Street,NE  Suite 2800,GA,30309,US,33.8832997,-84.3232527,2026-10-11T15:11:51Z
+eaccc3b8-ff71-4054-8162-47f6cc3dbb36,way/1188386029,,,course,,,active,,,,,,,,,,GA,,US,31.9113003,-81.2886289,2026-10-11T15:12:27Z
+ec512714-0743-4a6e-8f29-85374a1cb79a,relation/4008283,Georgia Southern University Golf Course,,course,,,active,18,72,,,,https://recreation.georgiasouthern.edu/golf/,,1031 Golf Club Road,Statesboro,GA,30458,US,32.3668092,-81.7821445,2026-10-11T15:12:35Z
+ed853509-58eb-4151-9492-87d628ab47ae,way/1308626411,,,course,,,active,,,,,,,,,,GA,,US,32.9506586,-83.7356188,2026-10-11T15:12:29Z
+edef950d-30c6-4a2a-956b-fe51e3adca6e,way/1535727571,,,course,,,active,,,,,,,,,,GA,,US,34.2550192,-85.1804086,2026-10-11T15:12:30Z
+ee9c8e94-4001-4523-b5b9-83e6ca000b27,way/34772841,,,course,,,active,9,36,,,,,,,,GA,,US,33.6676868,-84.5295868,2026-10-11T15:11:51Z
+ef4f40c5-abd7-4237-9ac6-48d15a0c25f3,way/34773028,,,course,,,active,,,,,,,,,,GA,,US,34.1355897,-84.2693786,2026-10-11T15:11:51Z
+eff273b6-75f1-47f5-aaf7-590d1137837d,way/312856371,Clubhouse,,course,,,active,,,,,,,,,,GA,,US,30.9800889,-83.2103074,2026-10-11T13:30:33Z
+f0337c87-2a2a-490a-86f5-39f04e342d2c,way/1202433797,Durham Lakes Country Club,,course,,,active,,,,,,,,,,GA,,US,33.5609455,-84.6149913,2026-10-11T15:12:27Z
+f0a028f5-7788-4a97-bf9d-ee7320a4231b,way/31373284,Kingwood Country Club,,course,,,active,18,71,,,,,,,Clayton,GA,,US,34.8584923,-83.3662907,2026-10-11T15:11:49Z
+f2042a14-f721-4809-be8c-d782ee797e48,way/1526916285,Harbor Club Golf Course,,course,,,active,18,72,,,,,,,,GA,,US,33.4773577,-83.2042888,2026-10-11T15:12:29Z
+f2f7522d-b45c-4ba8-a120-b0fc1b433cac,relation/143019,Royal Lakes Golf and Country Club,,course,,,active,,,,,,,,,,GA,,US,34.1980387,-83.8476495,2026-10-11T15:12:30Z
+f387cace-c629-4481-98b6-16823e0308fa,relation/7091495,Chapel Hills Golf Club,,course,,,active,18,72,,,,https://www.invitedclubs.com/clubs/chapel-hills-mirror-lake,,3300 Golf Ridge Blvd,Douglasville,GA,30135,US,33.7122037,-84.7207107,2026-10-11T15:12:38Z
+f3e87dd7-8e4d-485a-911a-c1b97676962b,way/31391614,Highland Walk Golf Course at Victoria Bryant State Park,,course,,,active,,,,,,,,,,GA,,US,34.3033945,-83.1683478,2026-10-11T15:06:00Z
+f43c6944-1e08-47ba-a66d-1053fec6e97e,way/31447903,Bowden Golf Course,,course,,,active,,69,,,,,,,,GA,,US,32.8595415,-83.5658881,2026-10-11T13:29:34Z
+f5447a81-16ca-4bcb-88f7-ad8d5dc7ab64,way/1525669901,Dogwood Golf Club,,course,,,active,18,72,,,,https://www.dogwoodgolfclub.com/,,4207 Flint Hill Rd SW,Austell,GA,30106,US,33.8508217,-84.6270528,2026-10-11T15:12:29Z
+f5455576-f3da-44b7-91be-d9ed0b51963b,way/34773049,,,course,,,active,,15,,,,,,,,GA,,US,34.1750047,-84.1987769,2026-10-11T15:11:51Z
+f56804e4-23e5-4460-b40f-a313bf0ba8e4,relation/4006069,River Forest Golf Club,,course,,,active,18,71,,,+1-478-974-0974,https://www.canongategolf.com/River-Forest/River-Forest-Golf-Club-834.html,,1 Clubhouse Drive,Forsyth,GA,31029,US,33.124051,-83.9903519,2026-10-11T15:06:45Z
+f5b63355-e598-4d7b-8369-f590cf4b7638,way/1202433802,Durham Lakes Country Club,,course,,,active,,,,,,,,,,GA,,US,33.560532,-84.6106349,2026-10-11T15:12:27Z
+f5bdd14f-a064-4f26-bf9f-7197ffec0406,way/281753126,Innsbruck Golf Club,,course,,,active,,,,,+1-800-642-2709,http://innsbruckgolfclub.com/,,664 Bahn Innsbruck,Helen,GA,30545,US,34.7097416,-83.7128579,2026-10-11T15:06:19Z
+f5e0ead0-9f96-4921-a9a8-9ac16fa0d5ae,way/34772903,Smoke Rise Country Club,,course,,,active,18,72,,,,https://www.smokerisecc.com/,,4900 Chedworth Drive,Tucker,GA,30087,US,33.8358386,-84.1852221,2026-10-11T15:11:51Z
+f601d7b5-820c-4a62-a6f3-69240dd8688c,way/560502586,,,course,,,active,,,,,,,,,,GA,,US,32.5978404,-82.8941499,2026-10-11T15:12:18Z
+f6ae42a9-03ca-4c97-a943-4cb3efca5d00,way/1350038475,West Lake Country Club,,course,,,active,18,,,,,,,,,GA,,US,33.5483885,-82.0651193,2026-10-11T15:12:29Z
+f6f99300-85ea-4358-9bc3-9b827cd3fc5a,way/31503246,,,course,,,active,,,,,,https://www.lakeblackshearresort.com/golf/course-layout/,,,,GA,,US,31.2840805,-82.2277986,2026-10-11T15:11:49Z
+f75b0c2e-2851-4bd7-8343-301733ccf99a,relation/14210364,,,course,,,active,,,,,,,,,,GA,,US,33.4751377,-84.3966904,2026-10-11T15:12:41Z
+f7a1816f-eb87-4a1c-bae9-6c70fff0600d,way/34772822,,,course,,,active,,,,,,,,,,GA,,US,33.5916347,-84.0250438,2026-10-11T15:06:03Z
+f7a2450e-ba65-483d-94a7-d7d588d2a5b8,way/34772751,,,course,,,active,,8,,,,,,,,GA,,US,33.3007927,-84.2432262,2026-10-11T15:11:51Z
+f7fad6da-49c5-4ee7-afbb-a52c0e2859f2,node/10059862044,,,course,,,active,,,,,,,,,,GA,,US,30.8898012,-81.5171936,2026-10-11T13:29:32Z
+f95652a2-c696-4cbc-b32a-1ac1fcea95ea,way/121674438,Savannah Golf Club,,course,,,active,18,72,,,+1-912-232-2156,https://www.thesavannahgolfclub.com/,,1661 East President Street,Savannah,GA,31414,US,32.0673259,-81.0644775,2026-10-11T15:11:57Z
+f99a934f-7b81-42f6-a231-cac4415518ac,way/34772889,,,course,,,active,,,,,,,,,,GA,,US,33.7958882,-84.9251556,2026-10-11T15:11:51Z
+f9bb1403-e48f-4a26-8917-a203d4b9da78,way/31435979,Waynesboro Country Club,,course,,,active,,,,,,,,,,GA,,US,33.0647495,-82.0284392,2026-10-11T15:11:49Z
+fb398cbb-5331-4b88-9dbd-50719f4d21c8,way/1502727726,Applewood Course,,course,,,active,,,,,,,,,,GA,,US,33.1959243,-82.0740298,2026-10-11T13:31:14Z
+fbc56d54-6415-4bb8-b9b6-f85c0b33a55f,way/34772919,Atlanta Country Club Golf Course,,course,,,active,18,72,,,,,,,,GA,,US,33.9354394,-84.429329,2026-10-11T15:11:51Z
+fc10b1ca-41cf-4daa-b71c-ba24db9822c0,way/34767683,,,course,,,active,,,,,,,,,,GA,,US,33.5335502,-84.2990646,2026-10-11T15:11:51Z
+fc693300-0b48-476c-82c9-09e5bd8861b9,relation/143001,Ansley Golf Club,,course,,,active,9,,,,,,,,,GA,,US,33.8019312,-84.3765615,2026-10-11T15:06:41Z
+fd5d6b4e-5ad5-45c6-9ff8-0dad8fde24df,way/1094647191,,,course,,,active,,,,,,,,,,GA,,US,34.4820115,-84.3577792,2026-10-11T15:12:24Z
+fd7b878b-debe-486d-a2c8-e76feed52683,way/713621808,,,course,,,active,,,,,,,,,,GA,,US,31.5877982,-83.5665518,2026-10-11T15:12:21Z
+fdb5a06f-6ed5-43ce-9b84-1e13b6b9e70b,way/1526904913,The National,,course,,,active,,,,,,,,,,GA,,US,33.4250323,-83.2096331,2026-10-11T15:06:40Z
+fdccb341-36ba-4fba-871a-a252bdfa4390,way/1526996399,Cuscowilla,,course,,,active,18,70,,,,,,,,GA,,US,33.4122392,-83.2545502,2026-10-11T15:12:29Z
