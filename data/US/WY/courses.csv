@@ -37,7 +37,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 93862644-adbb-4523-bf95-5d2a89156341,way/224582278,Purple Sage Golf Course,,course,,,active,18,72,,,,,,401 Kindler Drive,Evanston,WY,82930,US,41.2705323,-110.982079,2026-10-11T15:12:03Z
 ababf915-5262-470e-a963-93da879c8f47,way/427670871,Cheyenne Country Club,,course,,,active,18,,,,,,,800 Stinner Road,Cheyenne,WY,82009,US,41.1616746,-104.8461088,2026-10-11T15:12:15Z
 b12e9c0d-4de1-46da-b750-a547e2ae0093,way/444454659,Sundance Country Club,,course,,,active,9,,,,,,,1612 East Cleveland Street,Sundance,WY,82729,US,44.4069634,-104.3652828,2026-10-11T15:12:15Z
-b3259fb6-fc4e-4c06-951f-670586e34b85,way/1268438045,Antelope Hills Golf Course,,course,,,active,,32,,,,,,126 Clubhouse Drive,Dubois,WY,82513,US,43.5520707,-109.6639831,2026-10-11T15:12:28Z
+b3259fb6-fc4e-4c06-951f-670586e34b85,way/1268438045,Antelope Hills Golf Course,,course,,,active,,,,,,,,126 Clubhouse Drive,Dubois,WY,82513,US,43.5520707,-109.6639831,2026-10-11T15:12:28Z
 b4521b7c-ed35-43ee-9944-6f78093f9a04,way/27604263,Casper Country Club,,course,,,active,18,,,,,,,4149 Country Club Road,Casper,WY,82609,US,42.8194962,-106.2621021,2026-10-11T15:11:49Z
 bb919d39-b3fc-4387-af20-22100f08569e,relation/6533471,Olive Glenn Golf & Country Club,,course,,,active,18,,,,+1-307-587-5551,http://www.golfoliveglenn.com/,,801 Meadow Lane,Cody,WY,,US,44.5089619,-109.0705301,2026-10-11T15:12:38Z
 bd5c6d28-0c53-47fe-8e67-bd545b2306c6,way/445391535,Saratoga Inn Golf Course,,course,,,active,,,,,,,,601 East Pic Pike Road,Saratoga,WY,82331,US,41.4453938,-106.7984952,2026-10-11T15:12:15Z
@@ -46,7 +46,7 @@ c44c6f47-2632-4206-a516-d2daa53494bb,way/1301171654,Hay Creek Golf Club,,course,
 d02d9f7a-3edc-46a0-a979-d93c7555ec4c,way/1528300646,Foster Gulch Golf Course,,course,,,active,9,36,,,,,,929 Ln 13,Lovell,WY,82431,US,44.8114189,-108.4302599,2026-10-11T15:12:29Z
 d4950fe1-32c8-4407-b0ce-176a70379778,relation/3943866,Bell Nob Golf Course,,course,,,active,18,,,,+1 307 686 7069,https://www.campbellcountywy.gov/Facilities/Facility/Details/Bell-Nob-Golf-Course-25,,4600 Overdale Drive,Gillette,WY,82718,US,44.2808033,-105.5595565,2026-10-11T15:12:35Z
 db087f50-08b9-4597-965c-5640dcd9cc70,way/444356580,Lusk Municipal Golf Course,,course,,,active,9,,,,+1 307 334 2438,https://www.townoflusk.org/index.asp?SEC=BEF3DFA1-5F84-4DC3-9A89-34FCDE710898&Type=B_BASIC,,34 State Highway 273,Lusk,WY,82225,US,42.7578901,-104.478204,2026-10-11T13:30:44Z
-dc08df22-d98c-4bc2-9933-95757abf783a,way/192998962,Fossil Island Golf Club,,course,,,active,,69,,,,,,105 Highway 233,Kemmerer,WY,83101,US,41.8068835,-110.5383917,2026-10-11T15:12:01Z
+dc08df22-d98c-4bc2-9933-95757abf783a,way/192998962,Fossil Island Golf Club,,course,,,active,,,,,,,,105 Highway 233,Kemmerer,WY,83101,US,41.8068835,-110.5383917,2026-10-11T15:12:01Z
 e034d64f-70d5-4c08-aec2-e2410c1cb8f5,relation/11747372,Airport Golf Club,,course,,,active,18,,,,+1-307-637-6418,,,4801 Central Avenue,Cheyenne,WY,82009,US,41.1640098,-104.8341602,2026-10-11T15:12:41Z
 e16c99f6-12d9-4ead-9c7c-e7b882384cfb,way/444493761,Hidden Bridge Golf Club,,course,,,active,9,36,,,+1 307 752 6625,https://www.hiddenbridgegolf.com/,,550 Mydland Road,Sheridan,WY,82801,US,44.8001002,-106.9971953,2026-10-11T13:30:44Z
 e78aabb7-2b36-45a3-bc83-4cc5ce30a288,relation/20963207,Aspen Hills Golf Course,,course,,,active,9,,,,,,,781 Vista East Drive,Star Valley Ranch,WY,83127,US,42.9835309,-110.96261,2026-10-11T15:12:45Z
@@ -57,5 +57,5 @@ f3cdf4de-f828-4a2e-bd5a-2b639e7b2572,way/130345051,Jacoby Golf Course,,course,,,
 f64eb7d0-2851-490d-aac7-01cbb1c990bb,node/10011145459,Aspen Hills Golf Course,,course,,,active,,,,,+1-307-883-2899,https://svrawy.com/directory/,,781 Vista West Drive,Star Valley Ranch,WY,83127,US,42.9879696,-110.9597886,2026-10-11T13:29:32Z
 f85d9674-1573-4130-ac04-66bee17eafc8,way/170191581,Little America Golf Course,,course,,,active,9,,,,+1-307-775-8400,https://cheyenne.littleamerica.com/attractions/Golf_Course,,2800 West Lincolnway,Cheyenne,WY,82009,US,41.1186103,-104.8581636,2026-10-11T15:12:01Z
 f8a3f176-6189-41cd-a504-421865752cf9,way/438352798,Targhee Village Golf Course,,course,,,active,9,,,,,http://targheevillage.com/,,530 Perimeter Drive,Alta,WY,83414,US,43.7369169,-111.0320066,2026-10-11T15:12:15Z
-f8d959f2-919b-482f-878b-93c9632d4968,relation/20963377,The Powder Horn Golf Club,,course,,,active,,3,,,,,,23 County Club Lane,Sheridan,WY,82801,US,44.692127,-106.9752515,2026-10-11T15:12:45Z
+f8d959f2-919b-482f-878b-93c9632d4968,relation/20963377,The Powder Horn Golf Club,,course,,,active,,,,,,,,23 County Club Lane,Sheridan,WY,82801,US,44.692127,-106.9752515,2026-10-11T15:12:45Z
 ff9d27c8-cfed-4cd1-8392-ac3dcbc145e1,relation/19815936,The Club at 3 Creek,,course,,,active,18,72,,,,,,2800 Ranch House Cir,Jackson,WY,83001,US,43.4397899,-110.8220311,2026-10-11T15:06:54Z

@@ -1,7 +1,7 @@
-course_id,tee_key,name,color,gender,par,rating,slope,total_yardage
-153d42cb-15c5-4350-86c0-03969f77219c,black,Black,black,,,,,
-153d42cb-15c5-4350-86c0-03969f77219c,gold,Gold,gold,,,,,
-153d42cb-15c5-4350-86c0-03969f77219c,green,Green,green,,,,,
-153d42cb-15c5-4350-86c0-03969f77219c,silver,Silver,silver,,,,,
-6224cfae-ff3c-482a-9ebb-4f3eb36ad95e,blue,Blue,blue,,,,,
-6224cfae-ff3c-482a-9ebb-4f3eb36ad95e,red,Red,red,,,,,
+course_id,tee_key,name,color,total_yardage
+153d42cb-15c5-4350-86c0-03969f77219c,black,Black,black,
+153d42cb-15c5-4350-86c0-03969f77219c,gold,Gold,gold,
+153d42cb-15c5-4350-86c0-03969f77219c,green,Green,green,
+153d42cb-15c5-4350-86c0-03969f77219c,silver,Silver,silver,
+6224cfae-ff3c-482a-9ebb-4f3eb36ad95e,blue,Blue,blue,
+6224cfae-ff3c-482a-9ebb-4f3eb36ad95e,red,Red,red,

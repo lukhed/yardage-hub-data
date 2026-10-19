@@ -7,7 +7,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 40058126-84f9-433b-98a1-ff16a9e75846,way/549461479,Cold Bay Golf Course,,course,,,active,,,,,,,,,,AK,,US,55.2036533,-162.7155646,2026-10-11T15:12:18Z
 4076b960-5c01-4282-a8d1-60e60ad3a580,way/247981253,Sea Mountain Golf Course,,course,,,active,9,36,,,,,,,,AK,,US,57.1046667,-135.3937686,2026-10-11T15:12:05Z
 41adb1dd-4f08-478e-bb8e-2d3b7b728146,way/389777595,Sleepy Hollow Golf Course,,course,,,active,,,,,,,,,,AK,,US,61.6566448,-149.3820514,2026-10-11T15:06:28Z
-59cec25c-c58c-423a-a011-f7c5288282ce,relation/9072807,Moose Run Golf Course,,course,,public,active,,36,,,+1-907-384-4653,https://www.mooserungolfcourse.com/,,,,AK,,US,61.2353069,-149.6776,2026-10-11T15:06:49Z
+59cec25c-c58c-423a-a011-f7c5288282ce,relation/9072807,Moose Run Golf Course,,course,,public,active,,,,,+1-907-384-4653,https://www.mooserungolfcourse.com/,,,,AK,,US,61.2353069,-149.6776,2026-10-11T15:06:49Z
 633a2aea-2c1c-4a7f-ad10-9648a978348f,relation/14600059,Kenai Golf Course,,course,,,active,,,,,+1 907-283-7500,https://www.kenaigolfcourse.com/,,,,AK,,US,60.5580485,-151.1887431,2026-10-11T15:12:41Z
 6a9a0f1e-4d59-4691-ae32-d65ce3a50b94,way/60995962,Fairbanks Golf Course,,course,,,active,,,,,+1-907-479-6555,https://www.fairbanksgolfcourse.com/,,1735 Farmers Loop Road,Fairbanks,AK,99709,US,64.876099,-147.8139168,2026-10-11T15:11:55Z
 757e1815-8f2b-4fe0-bc3d-416d36374845,relation/10511108,Palmer Municipal Golf Course,,course,,,active,18,72,,,,,,,,AK,,US,61.5918639,-149.080517,2026-10-11T13:31:37Z
@@ -22,5 +22,5 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 a0ea0efa-c7db-4106-8c26-ce7cd5d00898,way/240024110,,,course,,,active,,,,,,,,,,AK,,US,56.4764324,-132.3538214,2026-10-11T15:12:03Z
 abd60bc8-2715-48b5-b4e2-07ae6805c5d0,way/240024109,Muskeg Meadows Golf Course,,course,,,active,,,,,,,,,,AK,,US,56.4763421,-132.3556585,2026-10-11T15:12:03Z
 c1a53ec3-1a20-49fd-bfdb-d2c3f41177ac,way/1458417694,Eagleglen Golf Course Elmendorf Air Force Base,,course,,,active,18,72,,,,,,,,AK,,US,61.2329053,-149.8122055,2026-10-11T15:12:29Z
-c8174043-3cf5-4c62-bf41-fc84d7027967,way/514291291,Settler's Bay Golf Course,,course,,,active,,63,,,+1 907-376-5466,https://www.settlersbay.com/,,7307 South Frontier Drive,Wasilla,AK,,US,61.5076454,-149.6084877,2026-10-11T15:12:18Z
+c8174043-3cf5-4c62-bf41-fc84d7027967,way/514291291,Settler's Bay Golf Course,,course,,,active,,,,,+1 907-376-5466,https://www.settlersbay.com/,,7307 South Frontier Drive,Wasilla,AK,,US,61.5076454,-149.6084877,2026-10-11T15:12:18Z
 d307b27b-7272-4c8f-8dce-2c4fe5e20022,way/29357224,Anchorage Golf Course,,course,,public,active,18,72,,,+1 907-522-3363,https://www.anchoragegolfcourse.com/,,3651 O'Malley Road,Anchorage,AK,,US,61.1266954,-149.8162006,2026-10-11T15:11:49Z

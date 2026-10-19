@@ -9,7 +9,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 06b2e5d4-427d-48f9-9051-84387c049f1c,way/1550000596,Landmand Golf Club,,course,,,active,18,73,,,,,,2073 South Bluff Road,Homer,NE,68030,US,42.3602576,-96.5328923,2026-10-11T15:12:30Z
 07fd43c1-b98b-4e00-8b8e-12bfeddfadf7,way/445345628,Chappell Golf Course,,course,,,active,,,,,+1 308 874 2729,https://www.chappellne.org/9-hole-golf-course,,,,NE,,US,41.0803528,-102.4617516,2026-10-11T15:12:15Z
 0a68b18c-8e3e-4f5b-9590-9f72c0b3be0f,way/447608554,,,course,,,active,9,36,,,,,,,,NE,,US,42.4202182,-97.0934838,2026-10-11T13:30:44Z
-0cfcdaaa-2eb2-4679-b40c-eb7654dd9df5,way/183501579,Champions Run Country Club,,course,,,active,,45,,,,https://www.championsomaha.com/Public/Champions-Run-6.html,,,,NE,,US,41.2890723,-96.1291671,2026-10-11T15:12:01Z
+0cfcdaaa-2eb2-4679-b40c-eb7654dd9df5,way/183501579,Champions Run Country Club,,course,,,active,,,,,,https://www.championsomaha.com/Public/Champions-Run-6.html,,,,NE,,US,41.2890723,-96.1291671,2026-10-11T15:12:01Z
 0fa4dc88-57ba-4f80-8fad-8233aa8f37b2,relation/6292447,Hidden Valley Golf Club,,course,,,active,18,70,,,+1-402-483-2532,https://www.hiddenvalleylincoln.com/,,10501 Pine Lake Road,Lincoln,NE,68526,US,40.7369873,-96.5705345,2026-10-11T15:06:47Z
 1015c255-549b-4090-82d1-6dd53270b7b0,way/261168037,Beatrice Country Club,,course,,,active,18,72,,,+1-402-223-2710,https://www.beatricecc.com/,,,,NE,,US,40.2391265,-96.7330931,2026-10-11T15:12:05Z
 128d7425-c42e-4901-b3ce-f3d9c5e96794,way/374945122,,,course,,,active,,,,,,,,,,NE,,US,41.6903628,-97.4751074,2026-10-11T15:12:14Z
@@ -21,7 +21,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 1a6a8e29-4a0f-4802-9a4d-cb4ec2b9d958,way/747954645,,,course,,,active,18,72,,,,,,,,NE,,US,42.0527763,-97.4145598,2026-10-11T15:12:21Z
 1bcb3a2e-e17f-4f15-a832-dc2e8369adbb,way/447530002,,,course,,,active,,,,,,,,,,NE,,US,42.7543339,-98.0308368,2026-10-11T15:12:15Z
 1d34298a-0f99-446a-8b2c-ee3a6f2546e5,way/182647694,The Pines Country Club,,course,,,active,,,,,,,,,,NE,,US,41.3293762,-96.3631371,2026-10-11T15:12:01Z
-1d8b0c6a-a8a2-49df-939b-abf80f33e426,relation/14129822,The Prairie Club,,course,,,active,,4,,,,http://www.theprairieclub.com/,,88897 NE 97,Valentine,NE,69201,US,42.7185115,-100.822847,2026-10-11T15:12:41Z
+1d8b0c6a-a8a2-49df-939b-abf80f33e426,relation/14129822,The Prairie Club,,course,,,active,,,,,,http://www.theprairieclub.com/,,88897 NE 97,Valentine,NE,69201,US,42.7185115,-100.822847,2026-10-11T15:12:41Z
 1df6ef9a-108c-4ccd-bf6d-86d59e8f3d60,relation/12165957,Riverview Golf and Country Club,,course,,,active,,,,,,,,,,NE,,US,41.8708221,-103.7185226,2026-10-11T15:12:41Z
 1e379950-a95b-4011-a3d1-23be0cc68683,way/189014298,Willow Lakes Golf Course,,course,,,active,18,72,,,,,,,,NE,,US,41.1238819,-95.9426407,2026-10-11T15:12:01Z
 20de3619-9813-433b-a15d-4e1143b8f974,way/152530581,Awarii Dunes Golf Course,,course,,,active,18,70,,,+1-308-743-1111,https://www.awariidunes.com/,,592 S Road,Axtell,NE,68924,US,40.596412,-99.0942656,2026-10-11T13:29:58Z
@@ -30,7 +30,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 242d96bf-663e-48b6-8316-3129589253f2,way/1356125382,Gibbon Valley View Golf Club,,course,,,active,,,,,,,,14155 Pawnee Road,Gibbon,NE,68840,US,40.8132669,-98.8335271,2026-10-11T15:12:29Z
 24c78086-c6cc-4fbc-a481-bddfb8aadb50,way/446158647,Broken Bow Country Club,,course,,,active,9,36,,,+1-308-872-6444,http://www.brokenbowcountryclub.com/,,,Broken Bow,NE,68822,US,41.4073144,-99.6708411,2026-10-11T15:12:15Z
 24e28d20-9a04-4250-a02b-38c479e572fc,relation/13665520,Crooked Creek Golf Course,,course,,,active,,,,,,,,,,NE,,US,40.807939,-96.5448884,2026-10-11T15:12:41Z
-25b35e7b-d6dc-40cb-aa55-edfdd567d2e9,way/185391060,Elmwood Park Golf Course,,course,,,active,,65,,,,,,,,NE,,US,41.2524174,-96.0102228,2026-10-11T15:12:01Z
+25b35e7b-d6dc-40cb-aa55-edfdd567d2e9,way/185391060,Elmwood Park Golf Course,,course,,,active,,,,,,,,,,NE,,US,41.2524174,-96.0102228,2026-10-11T15:12:01Z
 27613f4f-1f07-4e57-ada3-1b4a21f763ab,way/32616380,,,course,,,active,,,,,,,,,,NE,,US,41.7514908,-97.7801874,2026-10-11T15:11:51Z
 2762c9d1-94ee-4954-8ed6-81b29571ed16,way/236352698,Jackrabbit Run Golf Course,,course,,,active,18,72,,,,,,,,NE,,US,40.9558852,-98.3071204,2026-10-11T15:12:03Z
 280bb5b1-97dd-4e9e-9b4f-e8fe24cbe32b,way/1303842049,Country Drive Golf Course,,course,,,active,,,,,,,,951 County Road 4,Ashland,NE,68003,US,41.1429834,-96.3710959,2026-10-11T15:12:29Z
@@ -41,7 +41,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 30ee9f4d-60d0-4b8e-9588-27e553d99241,way/834835108,Falls City Country Club,,course,,,active,,,,,,https://fallscitygolf.com/,,64870 706 Trail,Falls City,NE,68355,US,40.068169,-95.6581738,2026-10-11T13:31:02Z
 34e31359-bd62-41cf-9248-5d98410baa58,way/483073817,River Wilds Golf Club,,course,,,active,18,71,,,+1 402 426 2941,www.riverwilds.com,,14002 N. HWY 75,"Blair, NE",NE,68008,US,41.5839364,-96.1638995,2026-10-11T15:12:17Z
 35416825-527f-4bc7-acaa-87dd8e658755,way/223095625,Charipar Golf Course,,course,,,active,,,,,,,,,,NE,,US,41.6960256,-97.2453706,2026-10-11T15:12:03Z
-36d64f46-0bae-4d3b-818c-043343b24aaf,way/296142787,Golf at Indian Creek - Blackbird Course,,course,,,active,,36,,,,https://www.golfatindiancreek.com/golf-course/the-course/map/,,,,NE,,US,41.2995185,-96.2248829,2026-10-11T15:06:23Z
+36d64f46-0bae-4d3b-818c-043343b24aaf,way/296142787,Golf at Indian Creek - Blackbird Course,,course,,,active,,,,,,https://www.golfatindiancreek.com/golf-course/the-course/map/,,,,NE,,US,41.2995185,-96.2248829,2026-10-11T15:06:23Z
 3712d545-a748-44b1-89b5-f32dab3fc582,way/907610866,Quail Run Golf Course,,course,,,active,18,72,,,,,,,,NE,,US,41.4074363,-97.3351337,2026-10-11T15:12:23Z
 37706306-dd92-4d66-9d5b-f9dc67930540,way/151309722,Buffalo Ridge Golf Course,,course,,,active,,,,,,,,,,NE,,US,40.7447049,-99.0595526,2026-10-11T13:29:58Z
 381fc642-d42f-4f56-81e4-21dad63190eb,way/177246364,Sedgwick County Golf Association,,course,,,active,,,,,,,,,,NE,,US,41.016081,-102.2751028,2026-10-11T15:12:01Z
@@ -53,31 +53,31 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 3e9f3a03-fd36-4977-a3e2-6b39891ee5b5,way/447923151,Twin Creeks Golf Course,,course,,,active,,,,,+1-402-385-2376,http://www.twincreekspender.com/,,State Highway 9,Pender,NE,68047,US,42.146936,-96.7240173,2026-10-11T15:12:15Z
 3faeb87b-55e5-4ab5-a32c-19bf7d7fbe20,way/152530051,Holdrege Country Club,,course,,,active,,,,,,,,,,NE,,US,40.4546368,-99.3873964,2026-10-11T15:12:00Z
 40fd1800-9490-489f-b4d2-297455015e2c,way/447055436,York Country Club,,course,,,active,18,70,,,+1 402 362 3721,https://www.yorkcountryclub.net/,,1016 West Elm Street,York,NE,68467,US,40.8611078,-97.6092475,2026-10-11T15:12:15Z
-4122509b-d572-43db-aec2-58b34091ebc1,way/183502303,Champions Run Country Club,,course,,,active,,27,,,,https://www.championsomaha.com/Public/Champions-Run-6.html,,,,NE,,US,41.286102,-96.1286425,2026-10-11T15:12:01Z
+4122509b-d572-43db-aec2-58b34091ebc1,way/183502303,Champions Run Country Club,,course,,,active,,,,,,https://www.championsomaha.com/Public/Champions-Run-6.html,,,,NE,,US,41.286102,-96.1286425,2026-10-11T15:12:01Z
 41b816f9-2c32-40a4-b6ab-76efa30ba8e8,way/208004011,The Golf Club at Table Creek,,course,,,active,18,71,,,,https://www.tablecreek.com/index.htm,,56331 Road 1,,NE,68401,US,40.6713588,-95.9290618,2026-10-11T15:12:03Z
 448804ee-0a47-4d0f-ac8d-fff1acf24146,relation/14498056,Jim Ager Memorial Golf Course,,course,,,active,,,,,+1-402-441-8963,https://lincolncitygolf.org/ager/,,3761 Normal Boulevard,Lincoln,NE,68506,US,40.794637,-96.6691213,2026-10-11T15:12:41Z
 4824e45f-58c8-4a5d-98ad-380e7545f569,way/321231225,Ashland Golf Club,,course,,,active,18,71,,,+1-402-944-3344,https://ashlandgolfclub.com/,,16119 Highway 6,Ashland,NE,68003,US,41.0044561,-96.3976316,2026-10-11T15:12:12Z
-48e393ba-d7ee-4f75-a113-475efe817302,relation/13812254,Holmes Park Golf Course,,course,,,active,,64,,,+1-402-441-8960,http://www.holmesgolfcourse.com/,,3701 South 70th Street,Lincoln,NE,68506,US,40.7744963,-96.6335876,2026-10-11T15:12:41Z
+48e393ba-d7ee-4f75-a113-475efe817302,relation/13812254,Holmes Park Golf Course,,course,,,active,,,,,+1-402-441-8960,http://www.holmesgolfcourse.com/,,3701 South 70th Street,Lincoln,NE,68506,US,40.7744963,-96.6335876,2026-10-11T15:12:41Z
 4952b1c7-6d3b-4c7d-910f-2dccb3399065,way/445180832,Gordon Country Club GC and Park,,course,,,active,,,,,,,,,,NE,,US,42.8036758,-102.2256184,2026-10-11T15:12:15Z
 499eefc5-ec2a-4052-92b1-21bfed55604a,relation/13673644,Hillcrest Country Club,,course,,,active,18,71,,,,,,,Lincoln,NE,,US,40.8073269,-96.5911575,2026-10-11T15:12:41Z
-4a616d05-5e56-434a-a408-7d4671ee6c47,way/183656953,Eagle Run Golf Course,,course,,,active,,10,,,,,,,,NE,,US,41.2860665,-96.1140344,2026-10-11T15:06:14Z
+4a616d05-5e56-434a-a408-7d4671ee6c47,way/183656953,Eagle Run Golf Course,,course,,,active,,,,,,,,,,NE,,US,41.2860665,-96.1140344,2026-10-11T15:06:14Z
 4bdac698-567b-4c67-9485-1afdcf554348,way/446013129,Hiline Golf Course,,course,,,active,,,,,,http://www.hilinegolf.com/,,,,NE,,US,40.5211121,-99.6363992,2026-10-11T15:12:15Z
 4d4f5330-0399-44bc-8f5c-10127b680bce,way/447108958,College Heights Country Club,,course,,,active,9,36,,,+1 402 826 4653,https://collegeheightscc.com/,,1225 East 4th Street,Wilber,NE,68333,US,40.6154913,-96.9454659,2026-10-11T15:12:15Z
 4f28357c-9b14-46ea-97de-4d6a6d0ffd2b,way/822291424,Alliance Municipal Golf Course,,course,,,active,,,,,,,,,,NE,,US,42.0677709,-102.8109775,2026-10-11T15:12:23Z
 4f5a27be-34fd-4439-b779-badbdfac691a,way/335691615,Imperial Country Club,,course,,,active,9,,,,,,,,,NE,,US,40.516111,-101.6546023,2026-10-11T15:12:14Z
 4fdf5756-ebd6-4aec-b376-c122663fb3c3,way/375887029,Driving & Practice Range,,practice,,,active,,,,,,,,,,NE,,US,42.2524973,-97.0122914,2026-10-11T15:12:14Z
 50793339-6795-49fa-ad56-2c8dc615f1bb,way/296308071,Quarry Oaks Golf Course,,course,,,active,18,71,,,+1-402-944-6000,https://quarryoaks.com/,,16600 Quarry Oaks Drive,Ashland,NE,68003,US,41.0138743,-96.2785186,2026-10-11T15:12:10Z
-507a00c3-85af-4f8a-a216-7fe5934dd629,way/183947412,Oak Hills Country Club,,course,,,active,,35,,,,,,,,NE,,US,41.1997913,-96.110392,2026-10-11T15:12:01Z
+507a00c3-85af-4f8a-a216-7fe5934dd629,way/183947412,Oak Hills Country Club,,course,,,active,,,,,,,,,,NE,,US,41.1997913,-96.110392,2026-10-11T15:12:01Z
 50ee607a-e68c-4697-995a-87d062de5bf0,relation/6653364,Northridge Country Club,,course,,,active,,,,,+1 402 374 2661,https://www.golfnorthridge.com/,,3398 County Road H,Tekamah,NE,68061,US,41.7877668,-96.2359881,2026-10-11T13:31:37Z
 510abafe-c2bb-480a-863e-037b43c11302,relation/4473489,Iron Horse Golf Club,,course,,,active,18,71,,,+1-402-944-9800,https://www.golfironhorse.com/,,900 Clubhouse Drive,Ashland,NE,68003,US,41.0376125,-96.348095,2026-10-11T15:12:36Z
 5290730e-211b-404e-abdd-4f227d085c73,way/186579720,Field Club of Omaha (south),,course,,,active,,,,,,https://www.fcomaha.com/,,,,NE,,US,41.2433808,-95.9691195,2026-10-11T13:30:03Z
 5318f153-699a-49d9-8a40-3965ead7ce1f,relation/12668089,Highlands Golf Course,,course,,,active,18,72,,,,,,,,NE,,US,40.8651546,-96.7432393,2026-10-11T15:12:41Z
-550a0570-f990-491f-8c42-c7de7c975cab,way/1350305109,Southern Hills Golf Club,,course,,,active,,57,,,,,,3005 South Southern Hills Drive,Hastings,NE,68901,US,40.5462817,-98.4379115,2026-10-11T13:31:14Z
+550a0570-f990-491f-8c42-c7de7c975cab,way/1350305109,Southern Hills Golf Club,,course,,,active,,,,,,,,3005 South Southern Hills Drive,Hastings,NE,68901,US,40.5462817,-98.4379115,2026-10-11T13:31:14Z
 55d36828-366a-451b-89c6-ac1ee962777c,relation/6639451,,,course,,,active,,,,,,,,,,NE,,US,40.8660608,-97.9905129,2026-10-11T15:12:38Z
 5732ca23-e15e-4dc6-90fc-e6c5d07b7367,way/445837034,Ash Hollow Golf Course,,course,,,active,,,,,+1 402 756 2418,http://www.golfashhollow.com/,,433 North Willson Street,Blue Hill,NE,68930,US,40.3392444,-98.4414599,2026-10-11T15:12:15Z
 577ed4b2-c7ae-4c4e-b5b8-677e5c0e1e4c,way/117819858,Scottsbluff Country Club,,course,,,active,18,71,,,,,,,,NE,,US,41.8979586,-103.680859,2026-10-11T15:06:10Z
 57ff45f2-d237-40c7-b18d-f6d2e2d6d3eb,way/186249517,Milt's Golf Course (9-Hole),,course,,,active,,,,,,,,,,NE,,US,41.2068542,-96.0132284,2026-10-11T15:12:01Z
-59fb14cb-54d1-4d49-819c-30c9744b3681,way/183920567,Happy Hollow Club,,course,,,active,,67,,,,https://www.happyhollowclub.com/Club/Scripts/Home/home.asp,,,,NE,,US,41.242587,-96.068573,2026-10-11T15:12:01Z
+59fb14cb-54d1-4d49-819c-30c9744b3681,way/183920567,Happy Hollow Club,,course,,,active,,,,,,https://www.happyhollowclub.com/Club/Scripts/Home/home.asp,,,,NE,,US,41.242587,-96.068573,2026-10-11T15:12:01Z
 5b94bece-f3f0-445e-9370-af61bb58a024,way/712572154,Overton Golf Club,,course,,,active,,,,,,,,,,NE,,US,40.7467331,-99.593558,2026-10-11T15:12:21Z
 5b997b02-a99f-4b6d-b6b9-61a3ac057cf8,way/526540112,Fair Play Golf Course,,course,,,active,18,72,,,,https://www.fairplaygolfcourse.com/,,55427 837th St.,Norfolk,NE,68701,US,41.9637784,-97.4386001,2026-10-11T15:12:18Z
 5e1cafc8-3c17-4005-bf6a-5b1e51036b9a,way/262583184,Syracuse Country Club,,course,,,active,,,,,,,,,,NE,,US,40.6643811,-96.1912935,2026-10-11T15:12:05Z
@@ -86,14 +86,14 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 6035508d-9b69-4713-ad8d-3a0f2c994761,way/404852755,,,course,,,active,18,71,,,,,,,,NE,,US,41.3313279,-96.0151354,2026-10-11T15:12:15Z
 609ce0c8-0b8d-458d-be16-5b9c305c658f,way/296308068,Albion Country Club,,course,,,active,,,,,+1-402-395-2493,http://www.albioncountryclub.com/,,2419 State Highway 91,Albion,NE,68620,US,41.6869953,-98.0207071,2026-10-11T15:06:23Z
 60fe78f4-6b92-4239-ada7-14c2cc451db8,way/187631201,Steve Hogan Golf Course,,course,,,active,,,,,+1-402-444-5396,https://parks.cityofomaha.org/images/stories/GolfCourses/Steve%20Hogan%20Course%20Map.pdf,,6315 North 30th Street,Omaha,NE,68111,US,41.3158715,-95.9507368,2026-10-11T15:12:01Z
-6153885f-731a-4e2b-95c8-64c6896694bb,way/184522769,Eagle Hills Golf Course,,course,,,active,,68,,,+1-402-592-7788,https://www.papillion.org/154/Eagle-Hills,,501 Eagle Hills Drive,Papillion,NE,68133,US,41.1563374,-95.9964512,2026-10-11T15:12:01Z
+6153885f-731a-4e2b-95c8-64c6896694bb,way/184522769,Eagle Hills Golf Course,,course,,,active,,,,,+1-402-592-7788,https://www.papillion.org/154/Eagle-Hills,,501 Eagle Hills Drive,Papillion,NE,68133,US,41.1563374,-95.9964512,2026-10-11T15:12:01Z
 6379c8f1-87fd-422b-80ac-8a7eb788f3fe,way/686214123,,,course,,,active,9,36,,,,,,,,NE,,US,40.8910798,-101.7300181,2026-10-11T15:12:21Z
 6512a0be-cd1d-4785-91f6-dab9d613d561,way/794407494,Courthouse and Jail Rock Golf Course,,course,,,active,,,,,,,,,,NE,,US,41.589553,-103.1046389,2026-10-11T15:12:21Z
 65a5a40c-a495-462f-a1af-b6631eaf464d,way/184069235,Oak Hills Country Club,,course,,,active,9,36,,,,,,,,NE,,US,41.1968063,-96.1006952,2026-10-11T15:12:01Z
 65de177c-1040-41a7-9949-3cf161616872,way/445921936,Cardinal Country Club,,course,,,active,,,,,,http://www.oxfordnebraska.net/golf-course.html,,,,NE,,US,40.2583399,-99.6333234,2026-10-11T15:06:28Z
 667a0f49-9665-4f8b-9509-64336d5fc13d,relation/16364561,Pioneers Golf Course,,course,,,active,18,71,,,+1-402-441-8966,http://pioneersgolf.com/,,3403 West Van Dorn Street,Lincoln,NE,68522,US,40.7792617,-96.7706881,2026-10-11T15:12:43Z
 68eda90c-9b6c-4f6f-9982-8f83b91331d5,way/445974722,Cozad Country Club,,course,,,active,,,,,+1 308 784 2585,https://www.cozadcountryclub.net/,,100 Country Club Road,Cozad,NE,69130,US,40.8485525,-99.9526132,2026-10-11T15:12:15Z
-6a17260b-c0f5-41ef-885b-c31c5c698c91,way/186260134,Benson Park Golf Course,,course,,,active,,72,,,,,,,,NE,,US,41.3031784,-96.0177523,2026-10-11T15:12:01Z
+6a17260b-c0f5-41ef-885b-c31c5c698c91,way/186260134,Benson Park Golf Course,,course,,,active,,,,,,,,,,NE,,US,41.3031784,-96.0177523,2026-10-11T15:12:01Z
 6b811b51-e60e-40b3-92f3-ef0084331476,way/296308069,Elkhorn Acres Golf Course,,course,,,active,,,,,+1-402-439-2191,https://www.elkhornacresgolf.com/,,56611 Golf Course Road,Stanton,NE,68779,US,41.9423693,-97.2074708,2026-10-11T15:12:10Z
 6bf201b2-d5e6-474a-808c-4270144b7927,way/183816555,Westwood Golf Course,,par3,,,active,9,27,,,,,,12929 West Center Road,Omaha,NE,68144,US,41.231452,-96.1123224,2026-10-11T15:06:14Z
 6caff296-2c6f-4bc6-bc34-e7c0d0590075,way/893814294,Scenic Knolls Golf Course,,course,,,active,9,,,,,,,,,NE,,US,41.9759412,-103.8186157,2026-10-11T15:12:23Z
@@ -113,7 +113,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 7e6053f2-145b-4650-ab99-e0f81e16c5ff,relation/3417151,Tregaron Golf Course,,course,,,active,,,,,,https://www.tregarongolf.com/,,,,NE,,US,41.1067014,-95.9430202,2026-10-11T15:12:33Z
 832e7d4a-812b-4965-8447-98a9b107b7ec,way/445604592,Wymore Country Club,,course,,,active,,,,,,https://www.wymorecountryclub.net/,,,,NE,,US,40.1195763,-96.6854163,2026-10-11T15:12:15Z
 842efee6-0847-4608-82ed-8440fc60be97,way/446115479,Minden Country Club,,course,,,active,,,,,,,,,,NE,,US,40.512457,-98.9485494,2026-10-11T15:12:15Z
-84cf617a-de12-46b1-b52f-7f20175e407e,way/183667270,The Knolls Golf Course,,course,,,active,,4,,,,https://www.knollsgolf.com/,,,,NE,,US,41.2959032,-96.0888023,2026-10-11T15:12:01Z
+84cf617a-de12-46b1-b52f-7f20175e407e,way/183667270,The Knolls Golf Course,,course,,,active,,,,,,https://www.knollsgolf.com/,,,,NE,,US,41.2959032,-96.0888023,2026-10-11T15:12:01Z
 851baf19-eba7-44fb-a77a-3fef67798c59,way/184258394,Johnny Goodman Golf Course,,course,,,active,18,72,,,,,,,,NE,,US,41.1968325,-96.0669314,2026-10-11T15:12:01Z
 8531e764-3b16-458a-9cd0-ecfe5ce080f3,way/62789958,Indian Trails Country Club,,course,,,active,,,,,+1-402-528-3404,https://www.indiantrailsclub.com/,,,,NE,,US,41.9067131,-96.8209279,2026-10-11T13:29:49Z
 856a2a91-843e-4652-8ab6-ed45bd17441d,way/487896428,Vanberg Golf Course,,course,,,active,,,,,,,,560 33rd Avenue,Columbus,NE,68521,US,41.4205527,-97.3753757,2026-10-11T15:12:17Z
@@ -121,11 +121,11 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 87685d36-bc81-4e2c-9b76-3a0f64440c1e,way/587940759,Superior Country Club,,course,,,active,,,,,,https://superiorcountryclub.com,,,,NE,,US,40.0640083,-98.0591356,2026-10-11T15:12:20Z
 8824c02d-6f3f-47f6-9815-860553391b12,way/142824031,Bassett Country Club,,course,,,active,,,,,,,,,,NE,,US,42.5717755,-99.5828858,2026-10-11T13:29:58Z
 8886f59a-5539-4071-ae31-82c308ee115a,way/447531619,Tatanka Golf Club,,course,,,active,18,72,,,+1 402 857 3504,https://www.tatankagolfclub.com/,,Ne 12,Niobrara,NE,68760,US,42.7279535,-97.8978435,2026-10-11T15:12:15Z
-88881b86-9835-4e02-97d2-e0bab34d5c69,way/183655347,Eagle Run Golf Course,,course,,,active,,9,,,,,,,,NE,,US,41.2889973,-96.1148597,2026-10-11T15:12:01Z
+88881b86-9835-4e02-97d2-e0bab34d5c69,way/183655347,Eagle Run Golf Course,,course,,,active,,,,,,,,,,NE,,US,41.2889973,-96.1148597,2026-10-11T15:12:01Z
 895d124e-b0cb-4d89-aabe-7a0a4e00f90f,relation/6616065,Eldorado Hills Golf Club,,course,,,active,18,72,,,+1 402 371 1453,https://www.eldogolf.com/,,1227 Eldorado Road,Norfolk,NE,68701,US,42.048757,-97.4603182,2026-10-11T15:12:38Z
 89a30488-6d9f-4c9e-8746-4111ea5748f8,way/842897967,Kirkman's Lakeview Golf Course,,course,,,active,,,,,,,,71550 631 Avenue,Humboldt,NE,68376,US,40.1935649,-95.9983086,2026-10-11T15:12:23Z
 8c018ef6-6aef-4904-8269-dfb2898d9f67,way/361652620,Old Dane Golf Club,,course,,,active,,,,,+1-402-987-1100,http://www.olddanegolf.com/,,466 Highway 35,Dakota City,NE,68731,US,42.4117465,-96.4361182,2026-10-11T13:30:39Z
-8c66e199-6019-4147-9b60-f14c87570666,way/448134487,North Bend Golf Course,,course,,,active,,59,,,+1 402 652 3666,https://www.northbendgolfcourse.com/,,400 Cottonwood Street,North Bend,NE,68649,US,41.4587648,-96.7885661,2026-10-11T15:12:15Z
+8c66e199-6019-4147-9b60-f14c87570666,way/448134487,North Bend Golf Course,,course,,,active,,,,,+1 402 652 3666,https://www.northbendgolfcourse.com/,,400 Cottonwood Street,North Bend,NE,68649,US,41.4587648,-96.7885661,2026-10-11T15:12:15Z
 8c938c6a-98eb-4e74-892e-e9f5380bb2cd,way/444795693,,,course,,,active,9,36,,,,,,,,NE,,US,42.6239391,-97.2743394,2026-10-11T15:12:15Z
 8cbd3dff-9366-4e4c-b1be-79aac6dee958,way/445854822,Alma Municipal Golf Course,,course,,,active,9,36,,,+1-308-928-2341,https://www.almacity.com/golf-course.html,,102 Dick Brown Drive,Alma,NE,,US,40.0995721,-99.3769056,2026-10-11T15:12:15Z
 8dce75a6-001a-4867-a3a7-9fc47e385bb9,way/605470193,Hidden Acres Golf Course,,course,,,active,,,,,,,,5536 West Lilac Road,Beatrice,NE,68310,US,40.2376679,-96.7984814,2026-10-11T15:12:20Z
@@ -134,7 +134,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 94b08a58-e230-4424-986f-7f3e80bdbb38,way/160554673,Mini Golf,,mini,,,active,,,,,,,,,,NE,,US,41.1547578,-96.038033,2026-10-11T15:12:01Z
 94c3ac90-1aaf-4788-b01c-a6b86e917206,way/445116535,Legend Buttes Golf Course,,course,,,active,,,,,+1 308 665 2431,https://crawfordnebraska.net/?page_id=548,,3440 Highway 20,Crawford,NE,69339,US,42.6809171,-103.4234223,2026-10-11T15:12:15Z
 94c588c9-86ab-4d59-ae9f-433f8600e9d2,relation/13730027,Wellington Greens Golf Course,,course,,,active,,,,,+1-402-326-8184,,,7600 Old Post Road,Lincoln,NE,68506,US,40.7899979,-96.6212939,2026-10-11T15:12:41Z
-960440e6-ff75-4256-8929-3f32f8c1f920,way/403972337,Golf at Indian Creek - Gray Hawk Course,,course,,,active,,16,,,,https://www.golfatindiancreek.com/golf-course/the-course/map/,,,,NE,,US,41.3006832,-96.2286702,2026-10-11T15:06:28Z
+960440e6-ff75-4256-8929-3f32f8c1f920,way/403972337,Golf at Indian Creek - Gray Hawk Course,,course,,,active,,,,,,https://www.golfatindiancreek.com/golf-course/the-course/map/,,,,NE,,US,41.3006832,-96.2286702,2026-10-11T15:06:28Z
 963f7d92-956d-4ee6-bd9d-105d244837dd,way/361721356,Cross Creek Golf Links,,course,,,active,,,,,+1 308 697 4768,https://www.crosscreekgolflinks.com/,,900 Cross Creek Road,Cambridge,NE,69022,US,40.2883238,-100.1666915,2026-10-11T15:12:14Z
 966c6a6e-4739-4a43-942a-b873ff3ebbf6,way/207409824,Wildwood Golf Course,,course,,,active,9,36,,,,,,,,NE,,US,40.6709868,-95.8803026,2026-10-11T15:12:03Z
 9809b98d-a6a5-4fea-ab01-f9d169298625,way/900544871,Four Winds Golf Course,,course,,,active,,,,,,,,,,NE,,US,41.2250404,-103.6139722,2026-10-11T15:12:23Z
@@ -144,7 +144,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 9b71425a-e714-4cb4-b325-722a9e88fcb9,way/823666146,,,course,,,active,,,,,,,,,,NE,,US,42.8286394,-99.741338,2026-10-11T15:12:23Z
 9f72efd1-5980-4875-819d-e0a6b2774fa5,relation/13646356,Firethorn Golf Club,,course,,,active,18,71,,,,,,9301 Firethorn Lane,Lincoln,NE,68520,US,40.7769426,-96.5954199,2026-10-11T15:12:41Z
 a0f2b62e-c60d-48c7-9ca5-639578f79893,way/510325496,Whitetail Run Golf Course,,course,,,active,,,,,+1-402-727-4403,,,2725 Reed Lane,Fremont,NE,68025,US,41.4125904,-96.5343405,2026-10-11T15:12:18Z
-a0f42c63-34d3-4f77-b91d-785f8d553cb6,way/296142788,Golf at Indian Creek - Red Feather Course,,course,,,active,,20,,,,https://www.golfatindiancreek.com/golf-course/the-course/map/,,,,NE,,US,41.2974818,-96.2227704,2026-10-11T13:30:27Z
+a0f42c63-34d3-4f77-b91d-785f8d553cb6,way/296142788,Golf at Indian Creek - Red Feather Course,,course,,,active,,,,,,https://www.golfatindiancreek.com/golf-course/the-course/map/,,,,NE,,US,41.2974818,-96.2227704,2026-10-11T13:30:27Z
 a34c8dec-5ffd-4f32-9d65-0ba59d52aa54,way/150706539,Meadowlark Hills Golf Course,,course,,,active,18,71,,,,,,,,NE,,US,40.7061222,-99.1269204,2026-10-11T15:12:00Z
 a351b1ef-1c63-4805-a939-958706371407,way/445824031,Red Cloud Golf Course,,course,,,active,9,36,,,,,,,,NE,,US,40.0998358,-98.4775252,2026-10-11T15:12:15Z
 a476c8f2-ec19-4b04-a364-eb18c9818720,node/12068447827,GrayBull Club,,course,,,active,,,,,,,,10847 Dormie Road,Maxwell,NE,69151,US,41.2341531,-100.5116103,2026-10-11T13:29:32Z
@@ -164,22 +164,22 @@ c435c35c-4c27-4c5c-a368-cc870d7554ef,way/445320648,Prairie Pines Golf Course,,co
 c4409e1e-edd6-4ce7-9d39-04666bfe58b7,way/520909685,Centura Hills Golf Club,,course,,,active,18,72,,,,,,,,NE,,US,41.0099516,-98.5966647,2026-10-11T15:12:18Z
 c4e4c6f2-7f7a-4c6a-bf5c-1157a84b8722,relation/13645799,NuMark Golf Course,,course,,,active,,,,,,,,9001 Pioneers Boulevard,Lincoln,NE,68526,US,40.7624377,-96.5965818,2026-10-11T15:12:41Z
 c6b1e3ea-39a4-4c10-8149-ebf7b0017483,way/447565678,,,course,,,active,,,,,,,,,,NE,,US,42.4624855,-97.8941157,2026-10-11T15:12:15Z
-c7ecebab-7182-414c-9a5f-5ca80b778acb,way/447069796,Friend Country Club,,course,,,active,,29,,,+1 402 947 6501,https://friendcountryclub.com/,,910 Cherry Street,Friend,NE,68359,US,40.646247,-97.2794604,2026-10-11T15:12:15Z
+c7ecebab-7182-414c-9a5f-5ca80b778acb,way/447069796,Friend Country Club,,course,,,active,,,,,+1 402 947 6501,https://friendcountryclub.com/,,910 Cherry Street,Friend,NE,68359,US,40.646247,-97.2794604,2026-10-11T15:12:15Z
 c8592a92-4266-4675-9ce9-76be1ac49c6e,way/1350303628,Bayside Golf Club,,course,,,active,18,71,,,,,,865 W Lakeview Rd,Brule,NE,69127,US,41.2491076,-101.8882772,2026-10-11T15:12:29Z
 c8a43c5c-454a-4141-a194-6ad61bd89c8a,relation/10094361,Woodland Hills Golf Course,,course,,,active,18,71,,,,,,6000 Woodland Hills Dr,Eagle,NE,68347,US,40.7512704,-96.4214403,2026-10-11T15:12:38Z
 cc824fa5-06c3-4595-ac9e-d9eb1a9d3969,way/296308070,Lawrence Country Club,,course,,,active,,,,,,,,,,NE,,US,40.2900158,-98.3255472,2026-10-11T15:12:10Z
 cd04c012-c88a-4e83-b1b3-12224621e136,way/729413385,,,course,,,active,18,72,,,,,,,,NE,,US,40.688035,-95.8945823,2026-10-11T15:12:21Z
-ce169d61-4dba-449c-b7ec-8569cb6e6b30,way/177417710,Miracle Hill Golf Course,,course,,,active,,66,,,,,,,,NE,,US,41.2721676,-96.0948028,2026-10-11T13:30:03Z
+ce169d61-4dba-449c-b7ec-8569cb6e6b30,way/177417710,Miracle Hill Golf Course,,course,,,active,,,,,,,,,,NE,,US,41.2721676,-96.0948028,2026-10-11T13:30:03Z
 cf8df7c6-0b65-4b58-9e64-76d4a0aa18b9,way/1053958175,,,course,,,active,18,70,,,,,,,,NE,,US,40.1874814,-101.0302243,2026-10-11T15:12:24Z
 d1002b7d-5160-4839-bbd1-370e9d16cecf,way/817665205,Ridgeview Country Club,,course,,,active,,,,,,,,,,NE,,US,42.8035012,-103.0212352,2026-10-11T13:30:58Z
 d2704f54-95ae-45ff-b2f2-b7d5b22e7eba,way/1415313149,,,course,,,active,,,,,,,,,,NE,,US,42.3625473,-97.8667515,2026-10-11T15:06:40Z
-d38e46e4-9f76-459c-959a-30b6d866506f,way/565151631,Miracle Hill Driving Range,,practice,,,active,,4,,,,,,,,NE,,US,41.270895,-96.0968225,2026-10-11T15:06:30Z
+d38e46e4-9f76-459c-959a-30b6d866506f,way/565151631,Miracle Hill Driving Range,,practice,,,active,,,,,,,,,,NE,,US,41.270895,-96.0968225,2026-10-11T15:06:30Z
 d788a5b6-48a7-44bb-a404-cf12e8bcc21b,way/59139107,Riverside Country Club,,course,,,active,18,71,,,+1-308-382-7298,https://www.riversidegolfclub.org/,,2820 Riverside Drive,Grand Island,NE,68801,US,40.8913881,-98.3493912,2026-10-11T15:11:55Z
 d839677b-9df5-4f17-9b53-30614d79a7c6,way/150820326,Kearney Country Club,,course,,,active,18,70,,,,,,,,NE,,US,40.70429,-99.1059736,2026-10-11T15:12:00Z
 d83f047b-8549-4578-bfc0-acdd2d473953,way/823172060,Chimney Rock Golf Course,,course,,,active,9,,,,,,,,,NE,,US,41.7768159,-103.328582,2026-10-11T15:12:23Z
 d844c031-f843-47c6-867e-b2cec2dfa1be,way/321229567,Fremont Golf Club,,course,,,active,,,,,+1-402-721-6641,https://www.fremontgolfclub.org/,,2710 North Somers Avenue,Fremont,NE,68025,US,41.4584261,-96.5030544,2026-10-11T15:12:12Z
 d85d56bd-c592-4cb5-a243-5c62fe7e84ee,way/446369533,Calamus Golf Course,,course,,,active,,,,,+1 308 346 5559,https://www.calamusgolf.com/,,82796 Whitetail Lane,Burwell,NE,68823,US,41.8237382,-99.1882485,2026-10-11T15:12:15Z
-d8797e32-5582-4775-9dbc-9dc653cf37d3,way/182967882,Golf at Indian Creek,,course,,,active,,12,,,,https://www.golfatindiancreek.com/wp-content/themes/golf/splash.php,,,,NE,,US,41.2968497,-96.2292724,2026-10-11T15:12:01Z
+d8797e32-5582-4775-9dbc-9dc653cf37d3,way/182967882,Golf at Indian Creek,,course,,,active,,,,,,https://www.golfatindiancreek.com/wp-content/themes/golf/splash.php,,,,NE,,US,41.2968497,-96.2292724,2026-10-11T15:12:01Z
 d997ff36-ff9b-4489-b2e5-26f3b1dfb137,way/445234120,Ainsworth Municipal Golf Course,,course,,,active,,,,,+1 402 387 1658,http://www.golfainsworth.com/,,,Ainsworth,NE,69210,US,42.5629956,-99.9919468,2026-10-11T15:12:15Z
 daef7c51-5f23-4f0f-8c49-cd3d54b75995,way/323264639,Crooked Creek Course,,course,,,active,,,,,,,,,,NE,,US,40.5302935,-98.0563554,2026-10-11T15:12:12Z
 db007db4-4b26-45d1-9112-ec2a6e94a4c3,way/675110718,Sand Hills Golf Club,,course,,,active,18,71,,,,https://www.golf.com/courses/us/nebraska/mullen/sand-hills-golf-club,,36430 Crenshaw Drive,Mullen,NE,69152,US,41.8703394,-101.1005771,2026-10-11T15:06:32Z
@@ -198,9 +198,9 @@ ea659c9a-8860-494e-ae71-b4c97ac73316,way/183933317,Sunset Valley Country Club,,c
 eb5564f8-4305-47f6-8108-1b93e6e26317,relation/15432816,Country Club of Lincoln,,course,,,active,18,72,,,+1-402-423-8502,https://www.ccl.cc/viewCustomPage.aspx?id=1,,3200 South 24th Street,Lincoln,NE,68502,US,40.7807737,-96.6873159,2026-10-11T15:12:43Z
 f07adbbb-21e8-4321-ab9b-3d170dc11125,way/487441984,Arnold Golf Course,,course,,,active,,,,,,,,,,NE,,US,41.4053009,-100.1871419,2026-10-11T15:12:17Z
 f0d7ec3d-11ff-48c8-a901-7fe06bdf5c57,way/318696626,,,course,,,active,,,,,,,,,,NE,,US,41.102442,-100.7966859,2026-10-11T15:12:12Z
-f0e47c4b-e91d-4f60-871f-1e12c4517cfe,relation/15670884,,,course,,,active,,36,,,,,,,,NE,,US,41.3138006,-96.1667915,2026-10-11T15:12:43Z
+f0e47c4b-e91d-4f60-871f-1e12c4517cfe,relation/15670884,,,course,,,active,,,,,,,,,,NE,,US,41.3138006,-96.1667915,2026-10-11T15:12:43Z
 f17495b3-8286-47a5-b445-de38aea3e431,way/292671184,Grandpa's Woods Golf Course,,course,,,active,,,,,,https://grandpaswoods.com/,,,,NE,,US,40.8768706,-96.2724183,2026-10-11T15:12:07Z
-f2059e70-984d-4d6f-8cfa-d5f04d3af80d,relation/14129821,CapRock Ranch,,course,,,active,,67,,,,https://www.caprockranch.com/,,38248 CapRock Lane,Valentine,NE,69201,US,42.7348273,-100.8115813,2026-10-11T15:12:41Z
+f2059e70-984d-4d6f-8cfa-d5f04d3af80d,relation/14129821,CapRock Ranch,,course,,,active,,,,,,https://www.caprockranch.com/,,38248 CapRock Lane,Valentine,NE,69201,US,42.7348273,-100.8115813,2026-10-11T15:12:41Z
 f3b39465-e8c7-43fb-9b62-914515454b32,way/445841373,,,course,,,active,,,,,,,,,,NE,,US,40.0998521,-98.9690509,2026-10-11T15:12:15Z
 f765f58e-6ae6-4928-9afd-9885c8fe9d4b,way/447939423,,,course,,,active,,,,,,,,,,NE,,US,41.8400929,-97.4588125,2026-10-11T15:12:15Z
 faedc509-e2ff-4447-8ef2-b4f256a8103d,way/1025614187,Evergreen Hills,,course,,,active,9,37,,,,,,,,NE,,US,41.9564603,-97.5959665,2026-10-11T15:12:24Z

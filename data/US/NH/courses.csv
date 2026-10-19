@@ -1,7 +1,7 @@
 id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
 00ebefe0-bee0-4d03-9034-29c43f4d28c1,way/160545912,Overlook Golf Club,,course,,,active,18,,,,,https://www.overlookgolfclub.com/,,,,NH,,US,42.7178926,-71.5461001,2026-10-11T15:12:01Z
 025af350-916f-42d0-830b-48916e1355b5,node/12790897142,Hole 8,,course,,,active,,,,,,,,,,NH,,US,43.1731163,-71.827129,2026-10-11T13:29:32Z
-05c3e452-322b-4c63-b135-0e1628a1d241,way/320123435,Apple Hill Golf Club,,course,,,active,,28,,,+1-603-642-4414,http://applehillgolf.com/,,69 East Road,East Kingston,NH,03827,US,42.9221774,-70.9821994,2026-10-11T15:12:12Z
+05c3e452-322b-4c63-b135-0e1628a1d241,way/320123435,Apple Hill Golf Club,,course,,,active,,,,,+1-603-642-4414,http://applehillgolf.com/,,69 East Road,East Kingston,NH,03827,US,42.9221774,-70.9821994,2026-10-11T15:12:12Z
 0da1197f-925c-4032-ac3f-0898cb6f2b6d,way/297832788,Linderhof Country Club,,par3,,,active,9,27,,,,https://www.linderhofcountryclub.com/thecourse,,,,NH,,US,44.1160288,-71.1876077,2026-10-11T15:06:23Z
 1227b9e8-94e3-42b5-ba8d-ba8ac17a9a2a,way/341023646,Profile Club,,course,,,active,9,36,,,+1-630-823-7083,https://www.profileclub.net/,,198 Profile Club Road,Franconia,NH,03580,US,44.2070796,-71.6957709,2026-10-11T15:12:14Z
 1597dabf-5d89-4ac0-86e6-f2357bd0a58c,node/12790897141,Hole 9,,course,,,active,,,,,,,,,,NH,,US,43.1738956,-71.8269408,2026-10-11T13:29:32Z
@@ -9,7 +9,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 1840bfa3-e731-439a-8e6c-1b256a117325,way/496320937,Fore on 4 Driving Range,,practice,,,active,,,,,+1-603-868 6600,https://foreon4.com/,,86 Concord Road,Lee,NH,03824,US,43.147687,-70.9975867,2026-10-11T15:06:29Z
 19f219dc-d893-4fcc-a96e-52f652211c2f,relation/17179580,Bald Peak Colony Club,,course,,,active,18,72,,,+1 603 544 2511,https://www.baldpeak.org/golf,,,,NH,,US,43.6967313,-71.3279906,2026-10-11T15:06:53Z
 1d9051be-b3ff-44f6-86ba-d63a031b7ca6,node/12790897143,Hole 5,,course,,,active,,,,,,,,,,NH,,US,43.1732963,-71.8289697,2026-10-11T13:29:32Z
-238d28f5-b410-48c0-a740-93ba5a8356dd,way/443670941,Atkinson Resort & Country Club,,course,,,active,,36,,,+1 603 362 8700,https://www.atkinsonresort.com/,,85 Country Club Drive,Atkinson,NH,03811,US,42.8193565,-71.176423,2026-10-11T15:12:15Z
+238d28f5-b410-48c0-a740-93ba5a8356dd,way/443670941,Atkinson Resort & Country Club,,course,,,active,,,,,+1 603 362 8700,https://www.atkinsonresort.com/,,85 Country Club Drive,Atkinson,NH,03811,US,42.8193565,-71.176423,2026-10-11T15:12:15Z
 28c89986-35ad-4eb9-a879-0fe8528571f1,relation/9934743,Hanover Country Club,,course,,,active,,,,,+1 603-646-2000,https://golf.dartmouth.edu/,,5 Hilton Field Road,Hanover,NH,03755,US,43.7169157,-72.2799649,2026-10-11T13:31:37Z
 2929185d-6371-4c40-92d8-6ddeebc3a1a8,node/13482507108,Colebrook Country Club,,course,,,active,,,,,+1-603-237-5566,,,15 Abenaki Ln,Colebrook,NH,03576,US,44.8948765,-71.487799,2026-10-11T13:29:32Z
 2e44a879-539f-47e0-bbf5-512ae52e2d6b,way/861153663,Intervale Country Club,,course,,,active,9,36,,,+1 603 647 6811,https://www.intervalecc.com/,,,,NH,,US,43.0304804,-71.4807352,2026-10-11T15:12:23Z
@@ -34,14 +34,14 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 544b4fb3-3216-4b03-95f6-f184d140af3c,way/32550957,Hoodkroft Country Club,,course,,,active,9,36,,,,https://www.hoodkroftcc.com/,,,,NH,,US,42.8866333,-71.3144477,2026-10-11T15:11:51Z
 5475e3fe-8725-46f6-8435-8bf089e93670,way/868053681,The Balsams Panorama Golf Course,,course,,,active,,,,,,https://thebalsamsresort.com/,,,,NH,,US,44.8836773,-71.3329861,2026-10-11T13:31:02Z
 54f33343-71bf-49dc-a65f-b46b806c7c81,way/802748361,Crotched Mountain Golf Club,,course,,,active,18,,,,,,,,,NH,,US,43.0190873,-71.8687125,2026-10-11T15:12:21Z
-5504030a-db22-4132-ac2f-b0feee4ec6e5,way/930777411,Cochecho Country Club,,course,,,active,,31,,,,,,143 Gulf Road,Dover,NH,03820,US,43.2007609,-70.8447284,2026-10-11T15:12:23Z
+5504030a-db22-4132-ac2f-b0feee4ec6e5,way/930777411,Cochecho Country Club,,course,,,active,,,,,,,,143 Gulf Road,Dover,NH,03820,US,43.2007609,-70.8447284,2026-10-11T15:12:23Z
 55bb01b3-a350-41bf-98f6-bbd28f459530,way/371542100,,,practice,,,active,,,,,,,,,,NH,,US,43.0444129,-70.9300947,2026-10-11T15:12:14Z
-58129594-2fe1-48cc-b9d7-7078bcb8a623,way/88981692,Hidden Valley Championship Course,,course,,,active,,36,,,+1 603 887 7888,http://www.hiddenvalleyrv.com/golfing.html,,,,NH,,US,42.9202644,-71.2454413,2026-10-11T15:11:55Z
+58129594-2fe1-48cc-b9d7-7078bcb8a623,way/88981692,Hidden Valley Championship Course,,course,,,active,,,,,+1 603 887 7888,http://www.hiddenvalleyrv.com/golfing.html,,,,NH,,US,42.9202644,-71.2454413,2026-10-11T15:11:55Z
 58c1e1cc-a8cb-4626-ac16-69df47ec6a47,way/1151076019,Farmington Country Club,,course,,,active,9,36,,,+1 603 755 2412,https://www.farmingtoncountryclubnh.com/,,,,NH,,US,43.383946,-71.051399,2026-10-11T13:31:09Z
 59a06f20-72ed-46da-9813-7f8a6a3165f6,way/1208922159,Baker Hill Golf Club,,course,,,active,18,72,,,+1-603-763-8900,https://www.bakerhill.org/,,101 Baker Hill Road,Newbury,NH,03255,US,43.3665484,-72.0175561,2026-10-11T15:12:27Z
 5c48820a-1ddc-4912-99dc-d4fcafc532aa,way/320123438,Breakfast Hill Golf Club,,course,,,active,18,72,,,+1-603-436-5001,https://breakfasthill.com/,,339 Breakfast Hill Road,Greenland,NH,03840,US,43.0173539,-70.8167503,2026-10-11T15:12:12Z
 6712806c-70c5-4c87-b130-014a250239ad,relation/17138854,Eastman Links,,course,,,active,18,71,,,+1 603 863 4500,https://www.eastmannh.org/golf-links,,6 Club House Lane,Grantham,NH,03753,US,43.503001,-72.1206938,2026-10-11T15:12:43Z
-67a11e20-0225-48e4-9420-30412ed4f2f9,way/320123444,Pease Golf Course,,course,,,active,,35,,,+1-603-433-1331,https://www.peasegolf.com/,,200 Grafton Drive,Portsmouth,NH,03801,US,43.0673565,-70.8194807,2026-10-11T15:12:12Z
+67a11e20-0225-48e4-9420-30412ed4f2f9,way/320123444,Pease Golf Course,,course,,,active,,,,,+1-603-433-1331,https://www.peasegolf.com/,,200 Grafton Drive,Portsmouth,NH,03801,US,43.0673565,-70.8194807,2026-10-11T15:12:12Z
 6831beda-23c3-490d-99b2-594deb6d775f,way/297832797,Loudon Country Club,,course,,,active,18,72,,,+1-603-783-3372,https://www.loudoncc.com/,,653 Route 106,Loudon,NH,03507,US,43.335274,-71.4764664,2026-10-11T15:12:10Z
 68398b21-3df0-47cb-8cc4-fbd48890b23c,relation/17210055,Concord Country Club,,course,,,active,18,70,,,+1 603 228 0232,https://www.concordcountryclub.org/,,,,NH,,US,43.2575529,-71.5383293,2026-10-11T15:12:43Z
 6877b8c5-7bb1-4fea-9fbb-d042c1326d8c,way/1244051521,Newport Golf Club,,course,,,active,18,71,,,+1-603-863-7787,https://newportgolfclub-nh.com/,,112 Unity Road,Newport,NH,03773,US,43.3497423,-72.1745751,2026-10-11T15:12:28Z
@@ -50,13 +50,13 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 72cf1e97-cf82-4685-9d7e-5b4000a29004,way/90393899,The Links - LaBelle Winery Golf Course,,par3,,,active,9,27,,,,http://www.labellewinery.com,,14 State Route 111,Derry,NH,03038,US,42.8552987,-71.2123421,2026-10-11T15:11:55Z
 7453971a-d5a6-4fc4-a4c3-17fc8d7be4b1,way/300469781,Waukewan Golf Course,,course,,,active,,,,,,https://www.waukewangolfclub.com/,,,,NH,,US,43.6874172,-71.5225444,2026-10-11T15:12:10Z
 748aecb5-6b13-4f21-a604-4b7658a254d2,way/1247769599,,,course,,,active,,,,,,,,,,NH,,US,43.7876022,-71.1739089,2026-10-11T15:12:28Z
-7723609b-dedd-4308-a173-f9867cce83bb,way/435405607,Locke Lake Links,,course,,private,active,,23,,,,https://lockelakecolony.com/,,,,NH,,US,43.3781982,-71.2423401,2026-10-11T15:12:15Z
+7723609b-dedd-4308-a173-f9867cce83bb,way/435405607,Locke Lake Links,,course,,private,active,,,,,,https://lockelakecolony.com/,,,,NH,,US,43.3781982,-71.2423401,2026-10-11T15:12:15Z
 7d3c1da3-fd9f-4505-9e8f-9b217acecdc3,relation/3524878,Souhegan Woods Golf Club,,course,,,active,18,71,,,+1 603-673-0200,https://www.playgolfne.com/souhegan_home/,,65 Thornton Ferry Road II,Amherst,NH,03031,US,42.8451651,-71.5742702,2026-10-11T13:31:22Z
 7e37194d-e25b-4352-8cf0-afb0ea23a9f5,way/272694277,Lake Sunapee Country Club,,course,,,active,18,70,,,+1 603 526 6040,https://www.lakesunapeecc.com/,,,,NH,,US,43.4007101,-71.9480952,2026-10-11T15:12:07Z
 806ba810-0f26-41ae-b74e-819acaa8b1d6,way/297832800,Mount Pleasant Course,,course,,,active,9,35,,,+1-603-278-4653,https://www.brettonwoods.com/activities/golf/overview,,Route 302,Bretton Woods,NH,03575,US,44.2553973,-71.4454676,2026-10-11T15:12:10Z
 80e68007-afb6-42db-958c-1696885b6c19,relation/17154512,Owl's Nest Resort Golf Course,,course,,,active,18,72,,,+1 603 726 3076,https://www.owlsnestresort.com/golf/,,,,NH,,US,43.867977,-71.6527368,2026-10-11T13:31:48Z
 839fb189-2c23-43f0-a265-b294054af03a,node/12790897147,Hole 1,,course,,,active,,,,,,,,,,NH,,US,43.1747018,-71.8284088,2026-10-11T13:29:32Z
-859abe73-c5f6-4ffb-98b4-755af4308578,way/160183777,Ponemah Green Family Golf Center,,course,,,active,,39,,,,https://www.playamherst.com/,,55 Ponemah Road,Amherst,NH,03031,US,42.8307253,-71.6136536,2026-10-11T15:12:01Z
+859abe73-c5f6-4ffb-98b4-755af4308578,way/160183777,Ponemah Green Family Golf Center,,course,,,active,,,,,,https://www.playamherst.com/,,55 Ponemah Road,Amherst,NH,03031,US,42.8307253,-71.6136536,2026-10-11T15:12:01Z
 873a1733-7e6f-468e-98c0-75f7b1a13c57,way/1087249507,Montcalm Golf Club,,course,,,active,18,72,,,+1-603-448-5665,https://montcalmgolfclub.com/,,2 Smith Pond Rd,Enfield,NH,03748,US,43.6060795,-72.172027,2026-10-11T15:12:24Z
 919fbcde-bf58-4438-b0a2-d137b7b5092b,way/71365982,Manchester Country Club,,course,,,active,18,70,,,,,,,,NH,,US,42.9449976,-71.4845444,2026-10-11T13:29:49Z
 94d1ce6f-c8aa-4c6d-bf89-a99ebdc56692,way/97786694,Whip Poor Will Golf Club,,course,,,active,9,36,,,,https://www.playgolfne.com/golf/proto/playgolfne/whippoorwill_home/whippoorwill_home.htm,,,,NH,,US,42.7852874,-71.4310098,2026-10-11T15:11:55Z
@@ -78,7 +78,7 @@ b7677dc2-5c71-4f9d-aa19-29af382f5a57,way/554950974,Province Lake Golf Course,,co
 be039b5e-56cf-4133-b1c2-4659ab96486d,way/1231783445,Granite Fields Golf Club,,course,,,active,,,,,+1-603-642-9977,https://granitefields.com/,,10 Diamond Oaks Boulevard,Kingston,NH,03848,US,42.8623831,-71.0815657,2026-10-11T13:31:09Z
 becaef69-feae-4403-a8d3-feb266190ab5,way/930777410,Cochecho Country Club,,course,,,active,,,,,,,,145 Gulf Road,Dover,NH,03820,US,43.1963106,-70.8508572,2026-10-11T15:06:35Z
 bf6210ce-9176-46a3-a5d9-ab9343262a06,way/1284547352,Den Brae Golf Course,,course,,,active,9,36,,,,https://www.denbrae.com/,,,,NH,,US,43.5015622,-71.636142,2026-10-11T15:06:39Z
-c065d6c4-a7ad-430d-bd23-db165c2d74e5,relation/12935336,Amherst Country Club,,course,,,active,,67,,,,https://www.playamherst.com/,,72 Ponemah Road,Amherst,NH,03031,US,42.8284866,-71.6071708,2026-10-11T13:31:42Z
+c065d6c4-a7ad-430d-bd23-db165c2d74e5,relation/12935336,Amherst Country Club,,course,,,active,,,,,,https://www.playamherst.com/,,72 Ponemah Road,Amherst,NH,03031,US,42.8284866,-71.6071708,2026-10-11T13:31:42Z
 c4e36f86-8e94-49ea-aa15-903d682970b7,relation/3961494,Wentworth by the Sea Country Club,,course,,,active,18,70,,,+1-603-433-3050,https://www.wentworthbytheseacc.com/,,60 Wentworth Road,Rye,NH,03870,US,43.0506145,-70.7365202,2026-10-11T15:12:35Z
 c70a70e5-49bd-41b6-b02c-7daefc7e630c,way/499560145,Granliden Golf Course,,course,,private,active,9,32,,,,https://www.granliden.com/golf,,,,NH,,US,43.4066674,-72.0783091,2026-10-11T15:12:18Z
 cb3a47d7-0ebd-42ad-8be3-6f39905c35c2,way/1035157797,Pine Grove Springs Golf Course,,course,,,active,9,36,,,,,,,,NH,,US,42.9048782,-72.4306097,2026-10-11T15:12:24Z
@@ -99,6 +99,6 @@ ec762b45-a08d-4de0-b6e9-4309b5d43295,way/341005917,Bethlehem Country Club,,cours
 f153ad57-f970-4920-831c-ded478aad146,way/139819548,Hidden Creek Country Club,,course,,,active,9,36,,,,http://www.hiddencreekgolfnh.com/,,,,NH,,US,42.8805808,-71.4493929,2026-10-11T15:12:00Z
 f780f619-1282-4182-b793-23df766a7a40,way/1245110021,Stonebridge Country Club,,course,,,active,18,71,,,+1 603 497 8633,http://golfstonebridgecc.com,,161 Gorham Pond Road,Goffstown,NH,03045,US,43.0372628,-71.6318075,2026-10-11T15:06:39Z
 f90d0309-2b5e-4063-8ff4-cbd835c776ee,way/1240475302,,,course,,,active,,,,,,,,,,NH,,US,43.73986,-71.6710369,2026-10-11T15:06:39Z
-fbd373f5-9422-460c-8d1d-3237acef710f,way/47797210,Hooper Golf Course,,course,,,active,,40,,,,,,,,NH,,US,43.062687,-72.4184481,2026-10-11T15:11:53Z
+fbd373f5-9422-460c-8d1d-3237acef710f,way/47797210,Hooper Golf Course,,course,,,active,,,,,,,,,,NH,,US,43.062687,-72.4184481,2026-10-11T15:11:53Z
 fe0e96de-a25d-43b4-bac7-fd5808b2c48e,way/320111052,Abenaqui Country Club,,course,,,active,18,72,,,+1-603-964-5563,https://www.abenaquicc.com/,,731 Central Road,Rye Beach,NH,03871,US,42.9772113,-70.776191,2026-10-11T15:12:12Z
 fe3b449d-238b-45bb-b094-a43e88d5cf4e,way/262547861,Pembroke Pines Country Club,,course,,,active,18,72,,,,https://www.pembrokepinescc.com/,,42 Whittemore Road,Pembroke,NH,03275,US,43.1645791,-71.4865713,2026-10-11T15:12:05Z

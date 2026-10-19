@@ -6,30 +6,30 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 011c415d-b50a-4aac-a125-ccd10ad04757,way/39257448,Williamsport Country Club,,course,,,active,18,72,,,,,,,,PA,,US,41.252132,-76.947445,2026-10-11T15:11:51Z
 015663fe-4067-41a3-ac7e-771b736804c8,way/33406621,Conestoga Country Club,,course,,,active,18,,,,+1 717-394-0664,https://www.conestogacc.com/,,1950 Stone Mill Road,Lancaster,PA,17604,US,40.0260761,-76.3561217,2026-10-11T15:11:51Z
 01bfc1dc-c7f3-4317-97e2-f252d2f113fd,way/678672706,Latrobe Country Club,,course,,,active,18,72,,,,,,,,PA,,US,40.2738673,-79.3731627,2026-10-11T15:06:32Z
-01fed1bd-f523-40a5-943f-39ade535c272,way/757695868,Highlands of Donegal,,course,,,active,,67,,,,,,,,PA,,US,40.0892463,-76.5077695,2026-10-11T15:12:21Z
+01fed1bd-f523-40a5-943f-39ade535c272,way/757695868,Highlands of Donegal,,course,,,active,,,,,,,,,,PA,,US,40.0892463,-76.5077695,2026-10-11T15:12:21Z
 026e3d62-75b5-4c91-b72f-230f6ff8007a,way/461973529,South Mountain Golf Course,,course,,,active,,,,,,,,,,PA,,US,39.8405259,-77.5119813,2026-10-11T13:30:48Z
 02fb5d21-8775-4698-86c9-b6e1428d5f2a,way/486684498,Glen Oak Country Club,,course,,,active,18,72,,,,,,250 Oakford Road,Clarks Summit,PA,18411,US,41.5134547,-75.7072603,2026-10-11T15:12:17Z
 032f5df8-dc3d-4f76-8b50-474abe23c0a5,way/503582156,Krendale Golf Course,,course,,,active,,,,,+1 724-482-4065,http://krendalegolfcourse.com/,,131 North Eberhart Road,Butler,PA,16001,US,40.8704757,-79.9615124,2026-10-11T13:30:51Z
 035a4f66-f463-4ab3-b8d0-1e83b73dc55b,relation/6123695,North Park Driving Range,,practice,,,active,,,,,,,,,,PA,,US,40.5901706,-80.0160437,2026-10-11T15:12:36Z
 036b1e4a-14ec-4b39-bcc3-c063e6a647ba,node/11141834431,Duffer's Indoor Golf,,practice,,,active,,,,,,,,247 Seneca Street,,PA,,US,41.4352256,-79.7085896,2026-10-11T15:05:59Z
-03cac62c-6a02-49af-94db-df2c2284148e,way/1422716211,,,course,,,active,,7,,,,,,,,PA,,US,41.1522186,-78.7018811,2026-10-11T15:12:29Z
+03cac62c-6a02-49af-94db-df2c2284148e,way/1422716211,,,course,,,active,,,,,,,,,,PA,,US,41.1522186,-78.7018811,2026-10-11T15:12:29Z
 045b7e0c-0161-440e-bdea-0feb9c425098,way/288642388,Sweetwater Golf Course,,course,,,active,,,,,,,,2554 Geryville Pike,Pennsburg,PA,18073,US,40.381335,-75.4656031,2026-10-11T15:12:07Z
 05671081-600e-4c7c-90c8-ab8e9fb87f7b,way/669611300,,,course,,,active,,,,,,,,,,PA,,US,40.1487322,-75.2944856,2026-10-11T15:12:20Z
-05884cef-277b-4379-ae40-9ced54df47e1,way/1205883324,Norvelt Golf Club,,course,,,active,,36,,,+1-724-423-5400,https://www.norveltgolfclub.com/,,168 Holly Place,Mt. Pleasant,PA,15666,US,40.1961247,-79.4851674,2026-10-11T15:12:27Z
+05884cef-277b-4379-ae40-9ced54df47e1,way/1205883324,Norvelt Golf Club,,course,,,active,,,,,+1-724-423-5400,https://www.norveltgolfclub.com/,,168 Holly Place,Mt. Pleasant,PA,15666,US,40.1961247,-79.4851674,2026-10-11T15:12:27Z
 05bc41e8-626a-4748-b1bd-d480d0424533,node/7851355200,Lords Valley Country Club,,course,,,active,,,,,,,,,,PA,,US,41.2966033,-75.0482902,2026-10-11T13:29:32Z
 05d313c1-52c0-4613-a28b-8e02ddcd7bbe,relation/21599693,Morgan Hill Golf Course,,course,,,active,18,71,,,,,,100 Clubhouse Drive,Easton,PA,18042,US,40.6651061,-75.2020843,2026-10-11T15:12:45Z
 072b29d1-e20b-44c7-b216-6b16d4f61ece,way/421361581,Irwin Country Club,,course,,,active,18,,,,,,,,,PA,,US,40.3663023,-79.7067495,2026-10-11T15:12:15Z
 08458b36-6b27-4438-9027-04282f00fd9e,way/1079897898,Harmony Ridge Golf Club,,course,,,active,,,,,,https://www.harmonyridgegolfclub.com/,,1280 Breitenstein Road,Ambridge,PA,15003,US,40.6060881,-80.2098461,2026-10-11T15:12:24Z
 08cb2a4f-f042-4272-abfb-e9c937e6cbee,way/501404047,Willowbrook Golf Course,,course,,,active,9,,,,,,,1833 Rostraver Road,Belle Vernon,PA,15012,US,40.1866581,-79.8013267,2026-10-11T13:30:51Z
-091170bf-1c4b-4d3d-b9e4-003db4ad2226,way/258612672,Oak Tree Country Club,,course,,,active,,67,,,,,,,,PA,,US,41.1750819,-80.510548,2026-10-11T15:12:05Z
+091170bf-1c4b-4d3d-b9e4-003db4ad2226,way/258612672,Oak Tree Country Club,,course,,,active,,,,,,,,,,PA,,US,41.1750819,-80.510548,2026-10-11T15:12:05Z
 09645cb2-b5e5-40ff-9358-30eef91dbceb,way/724644885,,,course,,,active,,,,,,,,,,PA,,US,40.1852851,-75.574158,2026-10-11T15:12:21Z
-096a1db2-fed4-47db-8129-229e023ea550,way/1248235338,Ledgerock Golf Club,,course,,,active,,68,,,+1-610-777-9711,https://www.ledgerockgolf.com/,,1 Greenbriar Drive,Mohnton,PA,19540,US,40.2576536,-75.9647489,2026-10-11T15:12:28Z
+096a1db2-fed4-47db-8129-229e023ea550,way/1248235338,Ledgerock Golf Club,,course,,,active,,,,,+1-610-777-9711,https://www.ledgerockgolf.com/,,1 Greenbriar Drive,Mohnton,PA,19540,US,40.2576536,-75.9647489,2026-10-11T15:12:28Z
 09d07a46-a49f-455d-9e95-411c2b4ff7af,way/255796328,Leaning Pines Public Golf Course,,course,,,active,,,,,,,,,,PA,,US,41.425281,-78.5500124,2026-10-11T13:30:12Z
 09e8b9f5-7693-4382-b3cb-b8bcfd463b18,way/284858656,Carlisle Barracks Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.2041528,-77.1649376,2026-10-11T15:12:07Z
 0a3eecd5-0467-422c-8b63-8626a346181f,way/1023486057,Richland Greens,,course,,,active,9,,,,,,,,,PA,,US,40.2812715,-78.8730745,2026-10-11T13:31:06Z
 0a597041-95fa-42dc-8f41-61fbc47824c3,way/272972507,Rowan Road Driving Range,,practice,,,active,,,,,,,,,,PA,,US,40.7024876,-80.0987143,2026-10-11T15:12:07Z
-0a64e707-1a8c-4f48-9564-a34b387ae45c,way/331793562,Lake Arthur Golf Club,,course,,,active,,11,,,,,,,,PA,,US,40.9292499,-79.9920906,2026-10-11T15:12:12Z
-0b1c5cb3-4e40-42ab-8a3d-3f1ade204909,way/1548721422,Saxon East at Saxon Golf Course,,course,,,active,,43,,,,,,839 Ekastown Road,Sarver,PA,16055,US,40.727699,-79.7884548,2026-10-11T13:31:18Z
+0a64e707-1a8c-4f48-9564-a34b387ae45c,way/331793562,Lake Arthur Golf Club,,course,,,active,,,,,,,,,,PA,,US,40.9292499,-79.9920906,2026-10-11T15:12:12Z
+0b1c5cb3-4e40-42ab-8a3d-3f1ade204909,way/1548721422,Saxon East at Saxon Golf Course,,course,,,active,,,,,,,,839 Ekastown Road,Sarver,PA,16055,US,40.727699,-79.7884548,2026-10-11T13:31:18Z
 0b1ea310-28e2-43f7-8b5d-6fd0a552805c,way/589971548,Scottish Heights,,course,,,active,18,71,,,,,,,,PA,,US,41.2173646,-78.7452253,2026-10-11T15:12:20Z
 0b6c7645-6b44-4590-957d-0c23cc656a4f,way/854204722,Harbor Ridge Golf Course,,course,,,active,,,,,,,,3730 Harbor Ridge Trail,Erie,PA,16510,US,42.1435946,-79.9363724,2026-10-11T15:12:23Z
 0b7fbf41-c549-4cdf-955f-2223c49c8dfe,way/184994197,Four Season's Golf Course,,course,,,active,18,,,,,,,,,PA,,US,40.0698775,-76.4062149,2026-10-11T15:12:01Z
@@ -43,18 +43,18 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 0e192a2b-d822-4f13-8f61-f97d1958072e,way/38795377,Liberty Forge,,course,,,active,,,,,,,,,,PA,,US,40.1749852,-76.9277686,2026-10-11T15:11:51Z
 0eeced45-9d18-4135-bf50-29211a75e083,node/8917065908,Long View Golf Center,,course,,,active,,,,,,,,,,PA,,US,40.3038899,-78.7601683,2026-10-11T13:29:32Z
 0ef7c369-6e0b-4f98-81ff-bcee1a822987,way/141910238,Flourtown Country Club,,course,,,active,,,,,,,,,,PA,,US,40.1048973,-75.2052027,2026-10-11T15:12:00Z
-0f0abbd2-0377-438d-90bd-94009abd718f,way/97517575,South Hills Golf Club,,course,,,active,,67,,,+1 717-637-7500,https://www.southhillsgc.com/,,925 Westminster Avenue,Hanover,PA,17331,US,39.7738037,-76.9946588,2026-10-11T15:11:55Z
+0f0abbd2-0377-438d-90bd-94009abd718f,way/97517575,South Hills Golf Club,,course,,,active,,,,,+1 717-637-7500,https://www.southhillsgc.com/,,925 Westminster Avenue,Hanover,PA,17331,US,39.7738037,-76.9946588,2026-10-11T15:11:55Z
 0fc16c47-9707-4bc6-b0ad-a972a563bb8e,way/890777780,Lakeland Golf Course,,course,,,active,9,32,,,,,,,,PA,,US,41.6039143,-75.7385699,2026-10-11T15:12:23Z
 11877388-6e87-4116-883a-24ba3071957c,way/136074311,Bella Vista Golf Course,,course,,,active,18,70,,,,,,,,PA,,US,40.2840949,-75.5603079,2026-10-11T15:11:57Z
 130e2955-884a-4fe2-9415-5d5c4e8c9da7,way/37551644,Mountain Valley Golf Course,,course,,,active,,,,,+1-570-467-2242,https://mtvalleygolf.com/,,1021 Brockton Mountain Drive,Barnesville,PA,18214,US,40.791956,-76.1211148,2026-10-11T15:11:51Z
-13bd1a3b-05bf-45a1-8fa8-08af80d085a2,way/252895503,Allegheny Country Club,,course,,,active,,4,,,,https://www.alleghenycountryclub.com/,,250 Country Club Road,Sewickley,PA,15143,US,40.5618082,-80.161936,2026-10-11T15:12:05Z
+13bd1a3b-05bf-45a1-8fa8-08af80d085a2,way/252895503,Allegheny Country Club,,course,,,active,,,,,,https://www.alleghenycountryclub.com/,,250 Country Club Road,Sewickley,PA,15143,US,40.5618082,-80.161936,2026-10-11T15:12:05Z
 141a8010-1559-431b-9bfe-cf7dab2ed9ef,way/50450132,Mountain View Country Club,,course,,,active,18,71,,,+1 814-466-7231,https://mtviewcountryclub.com/,,310 Elks Club Road,Boalsburg,PA,16827,US,40.7842115,-77.7594087,2026-10-11T15:11:53Z
 14d156ec-a0ea-4f30-9701-82fdfed60525,way/368960572,Green Acres Golf Course,,course,,,active,9,,,,,,,,,PA,,US,41.6544242,-79.7643933,2026-10-11T15:12:14Z
-14f5c85f-656b-4cb5-ac55-a6941c2e2a16,way/866993507,Lake Shore Golf Club,,course,,,active,,51,,,,,,,Erie,PA,16505,US,42.0670571,-80.2137268,2026-10-11T15:12:23Z
+14f5c85f-656b-4cb5-ac55-a6941c2e2a16,way/866993507,Lake Shore Golf Club,,course,,,active,,,,,,,,,Erie,PA,16505,US,42.0670571,-80.2137268,2026-10-11T15:12:23Z
 15f94870-2dd5-4f83-b12e-20ec3c8b5a40,way/1319268491,Venango Valley Inn and Golf,,course,,,active,18,,,,,,,,,PA,,US,41.7677202,-80.123091,2026-10-11T15:12:29Z
 1624b67e-abe6-41cc-9cf2-e7c834af374b,way/912168792,Bedford Elks Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.0073123,-78.4982772,2026-10-11T15:06:35Z
 16585375-ad1d-4707-b407-b33aa25e1313,way/1460565788,Blue Course,,course,,,active,,,,,,,,,,PA,,US,40.7863934,-77.8836615,2026-10-11T15:06:40Z
-17dc88ce-a05b-4c42-adb3-94b436bcc818,way/91996849,,,course,,,active,,5,,,,,,,,PA,,US,40.2048562,-75.2059362,2026-10-11T15:11:55Z
+17dc88ce-a05b-4c42-adb3-94b436bcc818,way/91996849,,,course,,,active,,,,,,,,,,PA,,US,40.2048562,-75.2059362,2026-10-11T15:11:55Z
 17f4ab23-b2e6-4742-b586-2b35ac131db3,way/514343531,Oxford Valley Public Golf Course,,course,,,active,9,31,,,,,,,,PA,,US,40.1729835,-74.8631259,2026-10-11T15:12:18Z
 17ff4557-2137-4796-a5c2-44d04e38da08,way/549174856,Emanon Country Club,,course,,,active,18,70,,,,http://emanoncc.com/,,543 Old State Road,Falls,PA,18615,US,41.4562296,-75.8661663,2026-10-11T15:12:18Z
 181d6dad-d006-4529-9383-32d734dd6028,node/12310135114,,,course,,,active,,,,,,,,,,PA,,US,40.4801807,-75.8762712,2026-10-11T13:29:32Z
@@ -62,7 +62,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 19014f21-9fb5-4b54-a375-b798ce3a5f24,node/8140882324,Stoughton Acres Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.9282298,-79.9418741,2026-10-11T13:29:32Z
 19988d5e-f60c-4992-8dc8-95edf2a72f10,way/73025835,,,course,,,active,,,,,,,,,,PA,,US,41.940413,-79.6227185,2026-10-11T15:06:07Z
 19cbb7bd-3eed-4f02-bb51-96dffc793c8c,way/32347397,Blue Mountain Golf Course,,course,,,active,18,71,,,+1-717-865-4401,https://www.bluemountaingolf.com/,,628 Blue Mountain Road,Fredericksburg,PA,17026,US,40.4605667,-76.4005092,2026-10-11T15:11:51Z
-1a43536b-ee58-4a92-b856-68ada2c718be,way/52734045,Penn National Golf Course,,course,,,active,,32,,,,,,,,PA,,US,39.8536632,-77.5439924,2026-10-11T15:06:05Z
+1a43536b-ee58-4a92-b856-68ada2c718be,way/52734045,Penn National Golf Course,,course,,,active,,,,,,,,,,PA,,US,39.8536632,-77.5439924,2026-10-11T15:06:05Z
 1add1ded-1942-4904-aba2-aafbfd3b892a,relation/6352026,Diamond Run Golf Club,,course,,,active,18,,,,,,,132 Laurel Oak Drive,Sewickley,PA,15143,US,40.5611634,-80.0979406,2026-10-11T15:12:36Z
 1b645788-4d0c-42b6-81b7-383932b49cc1,way/423683009,Hollenback Golf Course,,course,,,active,,,,,,,,,,PA,,US,41.263911,-75.8497641,2026-10-11T15:12:15Z
 1b7c90b6-6a4d-452f-8bbb-7acb7bc3abe2,way/264220920,Berkshire Country Club,,course,,,active,,,,,,https://www.berkshirecountryclub.org/,,1637 Bernville Road,,PA,,US,40.3614586,-75.9501265,2026-10-11T15:12:05Z
@@ -73,7 +73,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 1d5fa426-7fe3-4b69-974d-083e7fcf3198,way/361354723,Fort Cherry Golf Club,,course,,,active,18,70,,,,,,80 Fort Cherry Road,McDonald,PA,15057,US,40.3460551,-80.2722075,2026-10-11T15:12:14Z
 1d614aaf-b0c4-499f-86ff-dbe08f5fe2a2,way/691452218,,,course,,,active,,,,,,,,,,PA,,US,41.1082833,-75.5679483,2026-10-11T13:30:58Z
 1d76f0ba-089b-4606-bb67-5a9be96f1a56,way/483080113,,,course,,,active,,,,,,,,,,PA,,US,40.0850653,-79.3290187,2026-10-11T15:12:17Z
-1da6f806-9f80-41be-9f7c-16bfd2e8b7ce,way/1177683592,Cambrian Hills Golf Course,,course,,,active,,4,,,,,,,,PA,,US,40.6591973,-78.7260979,2026-10-11T15:12:27Z
+1da6f806-9f80-41be-9f7c-16bfd2e8b7ce,way/1177683592,Cambrian Hills Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.6591973,-78.7260979,2026-10-11T15:12:27Z
 1e5bb1e6-c7a7-44c8-a19a-d86e793f2cf8,node/3605574904,Out Door Country Club,,course,,,active,,,,,,https://odcc.com/,,1157 Detwiler Drive,,PA,,US,40.0101069,-76.7765904,2026-10-11T13:29:32Z
 1ead7bc8-8a0b-4dc8-980a-606c1dc2f9f2,way/596205135,Links at Spring Church,,course,,,active,18,73,,,,,,3257 Balsiger Road,Apollo,PA,15613,US,40.5895898,-79.498916,2026-10-11T15:12:20Z
 1f68bfa9-7ddc-448b-8b0b-77cd61eafc07,way/1532025363,,,course,,,active,,,,,,,,,,PA,,US,40.7119514,-80.4211718,2026-10-11T15:06:41Z
@@ -88,20 +88,20 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 21c1d8d4-d08a-427e-bc7b-92b1704957dd,way/963706916,Twin Woods Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.2834446,-75.2760238,2026-10-11T15:12:23Z
 22434728-5122-4100-b257-345a97d9e95a,way/908257012,Skippack Golf Course,,course,,,active,18,70,,,,,,,,PA,,US,40.2082446,-75.3811354,2026-10-11T15:12:23Z
 228221c5-94b3-4fd4-b67e-879eac0bcba0,way/120106721,Centre Hills Country Club,,course,,,active,,,,,,,,,,PA,,US,40.7930001,-77.8219862,2026-10-11T15:11:57Z
-229c22ed-f577-47c9-bed2-eb9cd11035eb,way/386282412,Meadowink Golf Course,,course,,,active,,68,,,,https://www.meadowinkgolf.com/,,4076 Bulltown Road,Murrysville,PA,15668,US,40.4529144,-79.6747233,2026-10-11T15:12:14Z
+229c22ed-f577-47c9-bed2-eb9cd11035eb,way/386282412,Meadowink Golf Course,,course,,,active,,,,,,https://www.meadowinkgolf.com/,,4076 Bulltown Road,Murrysville,PA,15668,US,40.4529144,-79.6747233,2026-10-11T15:12:14Z
 22cd2fc0-384a-4495-aa5f-e929b0be7746,way/1086494453,Cross Creek Golf Course,,course,,,active,,,,,+1 814-827-9611,https://www.crosscreekresort.com/,,3815 State Highway 8,Titusville,PA,16354,US,41.5652542,-79.6998599,2026-10-11T15:12:24Z
 22f35fe5-2de5-4f89-87ca-e79e9f625490,way/1118668619,Treetop Golf Course,,course,,,active,18,65,,,,,,,,PA,,US,40.2153666,-76.4901751,2026-10-11T15:12:24Z
 241d5819-18be-4536-8ab1-98aa825ec70b,way/909175484,Totteridge Golf Course,,course,,,active,18,72,,,,,,,,PA,,US,40.3588987,-79.5115826,2026-10-11T15:12:23Z
 249e27ac-9052-4cac-96fe-51dc723a627e,way/805553767,Wemberly Hills Golf Course,,course,,,active,9,36,,,,https://wemberlyhillsgc.com/,,,Olyphant,PA,,US,41.54669,-75.6374504,2026-10-11T15:12:21Z
 2584ce5e-08a5-42c2-afba-598200e5f475,way/131428482,Sandy Run Country Club,,course,,,active,18,,,,,,,,,PA,,US,40.1196517,-75.1983228,2026-10-11T15:11:57Z
 25d1de6a-7208-4bbc-a9c5-7140de2312af,way/593951818,Elkview Country Club,,course,,,active,,,,,,,,,,PA,,US,41.6341638,-75.5380116,2026-10-11T15:06:32Z
-26b017b6-62ff-4ef6-b702-5de60d07741b,way/12055561,Conewango Valley Country Club,,course,,,active,,67,,,+1 814 723 6480,https://www.conewangovalleycc.com/,,4961 Market Street,Warren,PA,16365,US,41.9125078,-79.1558692,2026-10-11T15:11:48Z
+26b017b6-62ff-4ef6-b702-5de60d07741b,way/12055561,Conewango Valley Country Club,,course,,,active,,,,,+1 814 723 6480,https://www.conewangovalleycc.com/,,4961 Market Street,Warren,PA,16365,US,41.9125078,-79.1558692,2026-10-11T15:11:48Z
 275daacb-58a4-446b-8f1e-fbd716e681db,node/11223003190,Indian Hills Golf Club & Grille,,course,,,active,,,,,,,,1167 Old Reading Road,Paxinos,PA,17860,US,40.8418616,-76.6298839,2026-10-11T13:29:32Z
 27ae3dc9-17cf-46fd-9879-652683910328,way/803148188,Terra Greens Golf Club,,course,,,active,,,,,,,,,,PA,,US,41.0179114,-75.1677119,2026-10-11T15:12:21Z
 28f6b9bb-519a-4cf6-bdba-fde51b45d544,way/105107618,Meadow Brook Golf Course,,course,,,active,18,,,,,,,,,PA,,US,39.7799928,-77.1987256,2026-10-11T15:11:55Z
 28fc4ce6-713a-4830-afa0-e9fbe9c98082,way/679953237,Saint Martin's Golf Course,,course,,,active,9,35,,,,https://www.philacricket.com/club/scripts/custom/custom.asp?NS=PG&PAGECFG=COURSETOURV2&CID=742#/,,,,PA,,US,40.065146,-75.214304,2026-10-11T15:12:20Z
 2bd09084-2f97-4015-96ca-98e48ee64c40,node/11226099749,Double Eagle Chip and Put,,course,,,active,,,,,,,,,,PA,,US,40.1995563,-74.7924178,2026-10-11T13:29:32Z
-2c19b8bc-9a9d-406e-b537-9167ffa10027,way/807609450,Oakview,,course,,,active,,66,,,,,,,,PA,,US,41.0381302,-80.0154748,2026-10-11T15:12:21Z
+2c19b8bc-9a9d-406e-b537-9167ffa10027,way/807609450,Oakview,,course,,,active,,,,,,,,,,PA,,US,41.0381302,-80.0154748,2026-10-11T15:12:21Z
 2c505848-1f3b-4184-8393-835f8c23b6ad,node/12310135113,,,course,,,active,,,,,,,,,,PA,,US,40.4989192,-75.8457128,2026-10-11T13:29:32Z
 2c6828c4-2c47-4c62-936f-2e6b8d4d744b,way/411853414,Cliff Park Inn Golf Course,,course,,,active,,,,,,,,155 Cliff Park Road,Milford,PA,18337,US,41.3070513,-74.8289743,2026-10-11T13:30:44Z
 2ca2f9dd-d86c-4cba-b0ac-6a3e6241044b,way/368960569,Mt Hope Golf Course,,course,,,active,,,,,,,,29790 State Route 27,Guys Mills,PA,16327,US,41.5970275,-79.9475277,2026-10-11T15:12:14Z
@@ -118,7 +118,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 3376e3d3-3673-458c-a9e8-2ffe1abf8033,way/81253636,White Manor Country Club,,course,,,active,18,71,,,,,,,,PA,,US,40.003636,-75.4813299,2026-10-11T15:06:07Z
 338a695a-e257-4d65-83ce-afa24c0c4136,way/895729220,PANORAMA GOLF COURSE,,course,,,active,18,72,,,,,,,Clifford Township,PA,,US,41.6487772,-75.5244348,2026-10-11T15:12:23Z
 33fceddc-ed81-4cd7-9781-e8805454c983,way/875041524,Stoughton Acres Golf Course,,course,,,active,18,72,,,,,,,,PA,,US,40.9297311,-79.9394395,2026-10-11T15:12:23Z
-34960b4e-d9ed-44c3-a891-17ef63ada304,way/226399934,,,par3,,,active,,18,,,,,,,,PA,,US,40.6924631,-79.9856846,2026-10-11T15:12:03Z
+34960b4e-d9ed-44c3-a891-17ef63ada304,way/226399934,,,par3,,,active,,,,,,,,,,PA,,US,40.6924631,-79.9856846,2026-10-11T15:12:03Z
 34c38528-6efe-4902-8459-e5f650e8251d,way/89844157,Jeffersonville Golf Club,,course,,,active,18,70,,,+1 610 539 0422,https://www.jeffersonvillegolfclub.org/,,2400 West Main Street,Norristown,PA,19403,US,40.1360334,-75.3889132,2026-10-11T15:11:55Z
 34e1d477-7033-45e4-8da5-e3cace29207f,way/278784269,Chisel Creek Golf Course,,course,,,active,,,,,,,,,,PA,,US,39.7423595,-75.8162954,2026-10-11T13:30:16Z
 34f0e795-fde5-430c-908e-9359436e983d,node/5824289945,Villas Crossing Golf Course,,course,,,active,,,,,,,,521 Golf Road,Tamaqua,PA,18252,US,40.7677534,-75.9053958,2026-10-11T13:29:32Z
@@ -126,41 +126,41 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 355895af-ec9e-470f-bcb7-d3712206fc3c,way/391848910,Sewickley Heights Golf Club,,course,,,active,18,72,,,+1 412-741-6450,https://www.shgc.org/,,126 Backbone Road,Sewickley,PA,15143,US,40.5840731,-80.1691484,2026-10-11T15:12:15Z
 35e11776-a1a7-4265-9697-93f193de7b09,way/1205970142,Highlands Golf Club at Seven Springs,,course,,,active,18,,,,+1-814-352-3191,https://www.highlands-golfclub.com/,,207 Golf Course Road,Champion,PA,15622,US,40.0241642,-79.2797566,2026-10-11T15:12:27Z
 367e8a14-96e2-4888-b94e-181a23d17c6b,way/141901147,Sunnybrook Country Club,,course,,,active,18,,,,,,,,,PA,,US,40.1126578,-75.2545247,2026-10-11T15:06:12Z
-369684cc-bdd7-4a22-819a-8c8b0b9451b7,way/1051628299,Tanglewood Golf Course,,course,,,active,,67,,,,https://tanglewoodgc.online/,,318 Tanglewood Road,Pulaski,PA,16143,US,41.1091366,-80.4905054,2026-10-11T15:12:24Z
+369684cc-bdd7-4a22-819a-8c8b0b9451b7,way/1051628299,Tanglewood Golf Course,,course,,,active,,,,,,https://tanglewoodgc.online/,,318 Tanglewood Road,Pulaski,PA,16143,US,41.1091366,-80.4905054,2026-10-11T15:12:24Z
 37297806-ef6a-47d3-ba28-1aaada6fbe30,way/1122811289,Caledonia Golf Club,,course,,,active,,,,,,,,,,PA,,US,39.9013199,-77.4719299,2026-10-11T15:12:24Z
 37d8d32c-2d0c-457a-8309-7aad136501dc,way/62692538,Pine Acres Country Club,,course,,,active,,,,,+1 814 362 2005,https://pineacrescc.com/,,1401 West Warren Road,Bradford,PA,16701,US,41.863501,-78.718923,2026-10-11T15:06:07Z
 386d4b5e-3d23-48ea-a573-c4bc2b545232,way/1055561630,Rolling Green Golf Course,,course,,,active,18,72,,,,,,2426 PA-136,Eighty Four,PA,,US,40.1821532,-80.0776633,2026-10-11T15:12:24Z
 3873f834-c8bf-4781-be9a-30cc7249dcb3,way/993778302,Lykens Valley Golf Course,,course,,,active,18,71,,,,,,,,PA,,US,40.5696423,-76.9034847,2026-10-11T15:12:24Z
-38bde68b-8705-4717-b599-99a0decf5d88,way/341962139,Westwood Golf Club,,course,,,active,,34,,,,https://westwoodlinks.net/,,825 Commonwealth Avenue,West Mifflin,PA,15122,US,40.3776582,-79.8832376,2026-10-11T13:30:39Z
+38bde68b-8705-4717-b599-99a0decf5d88,way/341962139,Westwood Golf Club,,course,,,active,,,,,,https://westwoodlinks.net/,,825 Commonwealth Avenue,West Mifflin,PA,15122,US,40.3776582,-79.8832376,2026-10-11T13:30:39Z
 38ca50c4-2a1a-45bc-8614-4d6058f2aeb0,way/257905083,Clarion Oaks,,course,,,active,,,,,,,,,,PA,,US,41.1903544,-79.3847496,2026-10-11T15:12:05Z
 38f3347c-578d-40ab-a97c-a924583cc515,way/126301751,Lakevue North Golf,,course,,,active,18,72,,,,,,,,PA,,US,40.7668508,-79.9180227,2026-10-11T15:11:57Z
 397169ba-d186-4cb4-98ed-e3b02c4ac9eb,way/570550839,Lenape Heights Golf Resort,,course,,,active,,,,,,https://www.lenapeheights.com/,,,,PA,,US,40.7407764,-79.5207199,2026-10-11T13:30:51Z
 398d396f-a128-4033-9c51-f513030946a7,way/345791831,,,course,,,active,18,72,,,,,,,,PA,,US,39.984167,-76.8079283,2026-10-11T15:12:14Z
-39cf4700-2c3b-435d-97b8-7195cf2be54c,way/1058420038,Willow Valley,,course,,,active,,26,,,+1 717-464-4448,https://golf.willowvalley.com/,,2400 Willow Street Pike,Lancaster,PA,,US,39.9921514,-76.2908868,2026-10-11T15:12:24Z
+39cf4700-2c3b-435d-97b8-7195cf2be54c,way/1058420038,Willow Valley,,course,,,active,,,,,+1 717-464-4448,https://golf.willowvalley.com/,,2400 Willow Street Pike,Lancaster,PA,,US,39.9921514,-76.2908868,2026-10-11T15:12:24Z
 3a23dad3-b7fa-4daf-a1c6-b50eb147a7b7,way/503425271,Pittsburgh North Golf Range & School,,practice,,,active,,,,,,,,,,PA,,US,40.6543578,-79.9374246,2026-10-11T15:12:18Z
 3a70b660-9f02-4c6a-a937-6d56c1c78651,way/1131303367,Glenmaura National Golf Club,,course,,,active,18,72,,,+1-570-343-4642,https://www.gngc.net/,,100 Glenmaura National Boulevard,Moosic,PA,18507,US,41.3506411,-75.6958146,2026-10-11T15:12:24Z
 3b2123c5-1c1d-4d72-8c77-45bbbfa9ce5c,way/1046980358,,,course,,,active,,,,,,,,,,PA,,US,41.5040889,-75.5527976,2026-10-11T15:06:36Z
 3c32a9e5-25d1-4e8a-ad67-905a5792a6e4,way/674514778,Stonewall Old Course,,course,,,active,18,70,,,,,,,,PA,,US,40.150211,-75.7867011,2026-10-11T15:12:20Z
-3c422b7e-71af-440a-a0b0-07fa7e9c9a3f,way/284570622,The Golf Course at Glen Mills,,course,,,active,,32,,,,,,,,PA,,US,39.9202553,-75.5036625,2026-10-11T15:12:07Z
+3c422b7e-71af-440a-a0b0-07fa7e9c9a3f,way/284570622,The Golf Course at Glen Mills,,course,,,active,,,,,,,,,,PA,,US,39.9202553,-75.5036625,2026-10-11T15:12:07Z
 3c6a64e9-f614-43a3-877d-f043987e28e2,way/299132590,Highland Springs Golf Course,,course,,,active,18,72,,,+1-304-737-2201,https://www.highlandspringsgolf.com/,,1600 Washington Pike,Wellsburg,PA,26070,US,40.2549439,-80.5199714,2026-10-11T15:12:10Z
 3c84db9b-a34e-43cd-867f-c2979896edf7,way/378971461,The Ridge Golf Club,,course,,,active,,,,,,,,10085 Peach Street,Waterford,PA,16441,US,42.0020315,-80.03059,2026-10-11T15:12:14Z
 3cda119b-6b31-47eb-8301-90395daf7985,way/1165950639,,,course,,,active,,,,,,,,,,PA,,US,40.2554969,-75.9729937,2026-10-11T15:12:27Z
-3d406ae7-92b5-4dfa-a824-bdd8883098d4,way/1085610260,,,course,,,active,,33,,,,,,,,PA,,US,41.1543856,-78.7107245,2026-10-11T15:12:24Z
+3d406ae7-92b5-4dfa-a824-bdd8883098d4,way/1085610260,,,course,,,active,,,,,,,,,,PA,,US,41.1543856,-78.7107245,2026-10-11T15:12:24Z
 3dd1ad77-bc39-4334-a6b3-b54b6ba6c82e,node/4923137562,Wind Wizards Disc Golf,,disc,,,active,,,,,,,,,,PA,,US,41.2305095,-76.7476694,2026-10-11T15:05:59Z
 3e002d6f-9c77-48d3-ae0f-79b87c9f7d70,way/424470322,,,course,,,active,,,,,,,,,,PA,,US,40.2963633,-75.6204201,2026-10-11T15:06:28Z
 3e2affab-102d-405b-b542-72f4e1fc5fb4,way/365152697,Doylestown Country Club,,course,,,active,18,72,,,,,,20 Country Club Lane,Doylestown,PA,18901,US,40.30718,-75.1183724,2026-10-11T13:30:39Z
-3f3d39e2-21ee-4fb4-a7af-23d3fb5e16fe,way/374742979,Cranberry Highlands Golf Course,,course,,,active,,27,,,,,,,,PA,,US,40.7281265,-80.1409392,2026-10-11T15:12:14Z
+3f3d39e2-21ee-4fb4-a7af-23d3fb5e16fe,way/374742979,Cranberry Highlands Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.7281265,-80.1409392,2026-10-11T15:12:14Z
 3fe4e3df-d8bb-4691-bdb9-0df3eee54d0e,way/1502493872,,,course,,,active,,,,,,,,,,PA,,US,40.4276883,-76.1225648,2026-10-11T15:12:29Z
 4007b5e5-c443-4531-aeec-0b6f4c820217,relation/6110059,Pittsburgh National Golf Course,,course,,,active,18,72,,,,,,,,PA,,US,40.6482638,-79.8798673,2026-10-11T15:12:36Z
-40176ad2-be23-4e33-aac0-bba94bfd2734,relation/3292974,Lancaster Country Club,,course,,,active,,35,,,,,,,,PA,,US,40.0623524,-76.2661035,2026-10-11T13:31:22Z
+40176ad2-be23-4e33-aac0-bba94bfd2734,relation/3292974,Lancaster Country Club,,course,,,active,,,,,,,,,,PA,,US,40.0623524,-76.2661035,2026-10-11T13:31:22Z
 40e52c55-809f-4a24-9520-c66e87f607ff,way/361770027,,,course,,,active,9,35,,,,,,,,PA,,US,41.3939049,-75.9097389,2026-10-11T15:12:14Z
 41a40104-d810-4f6d-9daf-8b2d692c327a,way/317784556,Mount Lebanon Golf Course,,course,,,active,9,34,,,+1-412-561-9761,https://mtlebanon.org/194/Golf-Course,,1000 Pine Avenue,Pittsburgh,PA,15234,US,40.3711299,-80.0244713,2026-10-11T15:12:12Z
-42386331-a07e-48dd-a497-f8dcf9e19edf,way/689050736,CC at Woodloch Springs,,course,,,active,,68,,,,,,,,PA,,US,41.4924745,-75.1092421,2026-10-11T15:12:21Z
+42386331-a07e-48dd-a497-f8dcf9e19edf,way/689050736,CC at Woodloch Springs,,course,,,active,,,,,,,,,,PA,,US,41.4924745,-75.1092421,2026-10-11T15:12:21Z
 42a41d6e-41f1-4109-90dd-46d9422bf8f4,way/105107270,Cedar Ridge Golf Course,,course,,,active,18,72,,,,,,,,PA,,US,39.7661459,-77.1887291,2026-10-11T13:29:49Z
 42d2ff8a-6741-4b27-8459-b52287f946a3,way/803498331,Glen Brook Golf Club,,course,,,active,18,72,,,,,,,,PA,,US,40.9680555,-75.2257514,2026-10-11T15:06:33Z
 4388ec8a-beb2-4f30-be6b-cfcab744f28d,way/1050163629,Valley Green Golf Course,,course,,,active,,,,,+17179384200,https://www.valleygreengolfcourse.com/,,1227 Valley Green Road,Goldsboro,PA,17319,US,40.1573959,-76.7815159,2026-10-11T15:12:24Z
-43e3d1c4-571d-4219-af0b-e4e334a549e8,way/846128831,Whispering Woods Golf Club,,course,,,active,,45,,,,,,7214 Grubb Road,Erie,PA,16506,US,42.0412418,-80.1490867,2026-10-11T15:06:35Z
-44178042-4650-4133-b575-29e1246111a4,way/278773543,Tanglewood Manor Golf Club,,course,,,active,,64,,,,https://www.twgolf.com/,,,,PA,,US,39.8557768,-76.2048334,2026-10-11T15:12:07Z
+43e3d1c4-571d-4219-af0b-e4e334a549e8,way/846128831,Whispering Woods Golf Club,,course,,,active,,,,,,,,7214 Grubb Road,Erie,PA,16506,US,42.0412418,-80.1490867,2026-10-11T15:06:35Z
+44178042-4650-4133-b575-29e1246111a4,way/278773543,Tanglewood Manor Golf Club,,course,,,active,,,,,,https://www.twgolf.com/,,,,PA,,US,39.8557768,-76.2048334,2026-10-11T15:12:07Z
 44fd504c-deb5-4400-ae5b-667d86a5efb4,way/538097989,Sylvan Hills Golf Course,,course,,,active,,,,,,,,221 Larch Street,Hollidaysburg,PA,16648,US,40.4413413,-78.3884302,2026-10-11T15:12:18Z
 452a0fbf-c090-4d56-bb96-fb900ae69b09,way/1095726094,,,course,,,active,,,,,,,,65 Springdale Drive,Uniontown,PA,15401,US,39.9035736,-79.7756055,2026-10-11T15:12:24Z
 459124df-ba0c-4b92-8e37-e0220bcc3ca3,way/61233950,Glenhardie Golf Club,,par3,,,active,9,27,,,,,,,,PA,,US,40.0866382,-75.4187243,2026-10-11T15:11:55Z
@@ -169,7 +169,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 4632f023-8496-4ec6-8c35-51ecb4b66f3a,way/720010228,Rolling Turf Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.2507447,-75.4754377,2026-10-11T15:12:21Z
 4653eacb-ef9b-4ec4-b0ad-e64561efe5d1,way/513869287,Schuylkill Country Club,,course,,,active,18,,,,,,,877 West Market Street,Orwigsburg,PA,17961,US,40.6481991,-76.1242178,2026-10-11T15:12:18Z
 46a204ff-ec52-4c19-82eb-bd88271d473a,way/551675519,The Montrose Club,,course,,,active,9,36,,,+1 570 278 3460,https://www.themontroseclub.com/,,870 Lake Avenue,Montrose,PA,18801,US,41.8398481,-75.8588752,2026-10-11T15:12:18Z
-4721fa40-3a9f-4b70-a5c4-ad12a2dfbb91,way/836909226,Practice Range,,practice,,,active,,4,,,,,,,,PA,,US,41.9088337,-79.1554251,2026-10-11T15:12:23Z
+4721fa40-3a9f-4b70-a5c4-ad12a2dfbb91,way/836909226,Practice Range,,practice,,,active,,,,,,,,,,PA,,US,41.9088337,-79.1554251,2026-10-11T15:12:23Z
 4978694d-f308-48b6-9e00-1a6592bea2e8,relation/7337878,Forest Hills Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.2236791,-77.2329999,2026-10-11T15:12:38Z
 4a62c3f7-240b-4a80-9bc9-2e5215e2fb1e,way/330232260,The Club at Twin Lakes,,course,,,active,18,71,,,,,,,,PA,,US,40.6515713,-75.5641368,2026-10-11T15:12:12Z
 4a7f5218-fd05-4fed-8bf4-a25d7ff961bc,way/1082332574,,,course,,,active,,,,,,,,,,PA,,US,40.9739958,-79.3448203,2026-10-11T15:12:24Z
@@ -205,9 +205,9 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 58c7be7d-c22a-463d-9fbe-8e2bd9040e3a,way/627827073,Belles Springs Golf Course,,course,,,active,,,,,,,,417 Fairground Road,Mill Hall,PA,17751,US,41.0624494,-77.4577534,2026-10-11T15:12:20Z
 590764e7-e785-4f90-a1af-0d4493db2b9d,way/286530401,Willow Hollow Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.3882916,-76.0066542,2026-10-11T15:12:07Z
 59264dc1-6ff1-4721-849e-e74c128f556e,way/765244447,River Forest Country Club,,course,,,active,18,72,,,,https://www.riverforestgolf.com/,,130 Club House Drive,Freeport,PA,16229,US,40.6575443,-79.6884019,2026-10-11T15:12:21Z
-5a5ba059-a6af-47e2-aa68-1426ca7ababa,way/552654171,Chippewa Golf Club,,course,,,active,,60,,,+1 724 239 4841,https://www.golfchippewa.com/,,128 Chippewa Road,Bentleyville,PA,15314,US,40.1212329,-80.0351666,2026-10-11T15:12:18Z
+5a5ba059-a6af-47e2-aa68-1426ca7ababa,way/552654171,Chippewa Golf Club,,course,,,active,,,,,+1 724 239 4841,https://www.golfchippewa.com/,,128 Chippewa Road,Bentleyville,PA,15314,US,40.1212329,-80.0351666,2026-10-11T15:12:18Z
 5a6380e3-9750-459a-89b8-7b6c61af0e3a,way/646020167,Wyoming Valley Country Club,,course,,,active,18,71,,,,,,1695 South Main Street,Wilkes-Barre,PA,18706,US,41.215306,-75.9355799,2026-10-11T15:12:20Z
-5a8dd7ab-4bed-424f-8b04-1f87a167c40c,way/833224525,Indian Run Golf Club,,course,,,active,,4,,,,,,1975 Avella Road,Avella,PA,15312,US,40.2578443,-80.4840686,2026-10-11T15:12:23Z
+5a8dd7ab-4bed-424f-8b04-1f87a167c40c,way/833224525,Indian Run Golf Club,,course,,,active,,,,,,,,1975 Avella Road,Avella,PA,15312,US,40.2578443,-80.4840686,2026-10-11T15:12:23Z
 5bdb27cb-cb26-4ef5-8327-f071a30faa36,way/211016503,,,course,,,active,,,,,,,,,,PA,,US,40.7297414,-75.1937999,2026-10-11T15:12:03Z
 5be38b80-730a-4a3f-b756-9f6040108928,way/488525108,Woodstone Golf Club,,course,,,active,18,72,,,,,,,,PA,,US,40.7787356,-75.5109134,2026-10-11T15:12:17Z
 5bfe4523-50e7-4c54-8636-f1cb8605679e,way/874422134,Huntingdon Country Club,,course,,,active,,,,,,,,,,PA,,US,40.4783813,-78.0490446,2026-10-11T15:12:23Z
@@ -219,12 +219,12 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 5cd31506-2326-431a-b012-986d69c14360,way/555977173,,,course,,,active,,,,,,,,,,PA,,US,40.1025163,-76.0758599,2026-10-11T15:12:18Z
 5d08b425-de3d-45e6-a03d-787357eb5fc2,way/1043104216,Duck Hollow Golf Club,,course,,,active,18,,,,,,,374 Duck Hollow Road,Uniontown,PA,15401,US,39.915722,-79.7769954,2026-10-11T15:12:24Z
 5d119c9d-bd38-412f-9802-ff7c1b368102,way/251111850,The Springhaven Club,,course,,,active,,,,,+1-610-876-8187,https://www.thespringhavenclub.com/,,600 South Providence Road,Wallingford,PA,19086,US,39.8856627,-75.3618883,2026-10-11T15:12:05Z
-5d327138-8e06-4694-aa2d-8a95fe6f9863,way/322892331,Indian Valley Country Club,,course,,,active,,3,,,+1 215 723 9886,https://www.indianvalleycc.com/,,650 Bergey Road,Telford,PA,18969,US,40.32095,-75.3572094,2026-10-11T15:12:12Z
+5d327138-8e06-4694-aa2d-8a95fe6f9863,way/322892331,Indian Valley Country Club,,course,,,active,,,,,+1 215 723 9886,https://www.indianvalleycc.com/,,650 Bergey Road,Telford,PA,18969,US,40.32095,-75.3572094,2026-10-11T15:12:12Z
 5d887a64-70d6-4c63-a2c0-155638d54b6e,way/785127806,,,course,,,active,,,,,,,,,,PA,,US,41.5453183,-75.1624667,2026-10-11T15:12:21Z
-5d99e07f-5069-4349-9eb9-35cfd517947a,way/406116700,Lone Pine Country Club,,course,,,active,,61,,,,,,,,PA,,US,40.1121953,-80.3002103,2026-10-11T15:12:15Z
+5d99e07f-5069-4349-9eb9-35cfd517947a,way/406116700,Lone Pine Country Club,,course,,,active,,,,,,,,,,PA,,US,40.1121953,-80.3002103,2026-10-11T15:12:15Z
 5dae8261-5c63-4c0a-b468-c299d0c2ca76,way/998616702,Stone Meadows Golf Course,,course,,,active,,,,,,,,,,PA,,US,41.168213,-75.6633037,2026-10-11T13:31:06Z
 5db4808c-76ce-4fee-9d31-692ee76f9794,way/308963689,Reading Country Club,,course,,,active,,,,,,,,,,PA,,US,40.3039464,-75.8507609,2026-10-11T15:12:12Z
-5e702a62-b5a8-421f-a3d6-cb1f32b5c048,way/1422510741,,,course,,,active,,4,,,,,,,,PA,,US,41.1569807,-78.7075567,2026-10-11T13:31:14Z
+5e702a62-b5a8-421f-a3d6-cb1f32b5c048,way/1422510741,,,course,,,active,,,,,,,,,,PA,,US,41.1569807,-78.7075567,2026-10-11T13:31:14Z
 5ec599df-73b2-4bf4-9684-2ffda4da6232,way/785254284,The Madison Club,,course,,,active,18,72,,,,,,519 Yukon Road,Madison,PA,15663,US,40.2337982,-79.6735019,2026-10-11T15:12:21Z
 603d9c17-b592-4663-88a7-42da4f7e8b57,way/137682402,Spring Mill Country Club,,course,,,active,18,72,,,,,,80 Jacksonville Road,Northampton Township,PA,18974,US,40.2080952,-75.0556001,2026-10-11T15:12:00Z
 609f8e68-b6dc-4eed-83a2-634bc8954a57,way/442779063,Deer Valley Golf Course,,course,,,active,18,72,,,,,,101 Stoudt Road,Hummelstown,PA,17036,US,40.2999138,-76.717163,2026-10-11T15:12:15Z
@@ -235,10 +235,10 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 63101d9b-cdcf-4fcf-935f-d8011e8e3425,way/178180905,Mayapple Golf Club,,course,,,active,18,,,,,https://mayapplegolfclub.com/,,1 Mayapple Drive,Carlisle,PA,17015,US,40.1817006,-77.1480581,2026-10-11T15:12:01Z
 63890f06-25b3-456c-9f06-c751a564a38a,way/141898549,Manufacturers' Golf & Country Club,,course,,,active,18,71,,,+1 215-886-3200,https://www.mg-cc.org/,,511 Dreshertown Road,Fort Washington,PA,19034,US,40.1254466,-75.1772707,2026-10-11T15:06:12Z
 63a04146-06d2-4232-9c06-37e5ab276864,way/190408665,Eagles Crossing Golf Club,,course,,,active,,,,,,,,501 Conodogquinet Avenue,,PA,17015,US,40.2164422,-77.2469525,2026-10-11T15:12:01Z
-63a339af-6593-4e8c-9b3e-b62915e68f6a,way/90945616,Huntingdon Valley Country Club,,course,,,active,,66,,,+1 215-657-1610,http://www.hvccpa.org,,2295 Country Club Drive,Huntingdon Valley,PA,19006,US,40.133449,-75.0963737,2026-10-11T15:11:55Z
+63a339af-6593-4e8c-9b3e-b62915e68f6a,way/90945616,Huntingdon Valley Country Club,,course,,,active,,,,,+1 215-657-1610,http://www.hvccpa.org,,2295 Country Club Drive,Huntingdon Valley,PA,19006,US,40.133449,-75.0963737,2026-10-11T15:11:55Z
 63dd77af-481a-4560-b815-be110de978b0,way/735331051,Clayton Park Golf Course,,course,,,active,9,32,,,,,,,,PA,,US,39.8620038,-75.4860062,2026-10-11T15:06:33Z
 6429396c-3a05-4750-a9c8-96bc87db12d5,way/73007811,Lawrence Park Golf Club,,course,,,active,18,72,,,,,,3700 East Lake Road,Erie,PA,16511,US,42.1573816,-80.0255628,2026-10-11T15:06:07Z
-64c15629-3b20-4d45-ab46-d5937788a32a,way/1422552487,,,course,,,active,,3,,,,,,,,PA,,US,41.1856285,-78.7382599,2026-10-11T15:12:29Z
+64c15629-3b20-4d45-ab46-d5937788a32a,way/1422552487,,,course,,,active,,,,,,,,,,PA,,US,41.1856285,-78.7382599,2026-10-11T15:12:29Z
 64ed4fe8-c90a-48ca-9c37-3c55f40ca528,way/935473833,Elk Valley Golf Course,,course,,,active,18,72,,,,,,7085 Van Camp Road,Fairview,PA,16415,US,41.9792088,-80.2132692,2026-10-11T15:06:35Z
 655fc85d-56d2-438d-915d-47bc696b7adf,way/29472936,Rolling Green Golf Club,,course,,,active,18,71,,,,,,,,PA,,US,39.9457405,-75.3368695,2026-10-11T15:11:49Z
 659daac9-de55-4cb5-98a0-922cea5520e8,way/284964227,Penn Oaks Golf Club,,course,,,active,,,,,,,,,,PA,,US,39.9100914,-75.5620756,2026-10-11T15:12:07Z
@@ -254,7 +254,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 691325f8-f006-4642-904a-0c73963c8b99,way/113666630,Green Oaks Country Club,,course,,,active,18,71,,,+1 412-793-2000,https://greenoakscc.com/,,5741 3rd Street,Verona,PA,15147,US,40.4866398,-79.8463257,2026-10-11T15:06:10Z
 69236be1-15d0-4e59-829d-e82345178ef7,way/37769921,Cedarbrook Country Club,,course,,,active,,,,,,,,180 Penllyn Pike,Blue Bell,PA,19422,US,40.1639278,-75.2460938,2026-10-11T15:11:51Z
 69348baf-1187-499b-840a-a271d401f95f,way/717777843,Culbertson Hills Golf Club,,course,,,active,,,,,,,,301 West Plum Street,Edinboro,PA,16412,US,41.874875,-80.1461127,2026-10-11T15:12:21Z
-6939c217-b3c0-4688-9a49-1ea937df9cfc,way/59515616,Cobbs Creek Golf Course Olde,,course,,,active,,65,,,,,,,,PA,,US,39.9712311,-75.2703851,2026-10-11T15:11:55Z
+6939c217-b3c0-4688-9a49-1ea937df9cfc,way/59515616,Cobbs Creek Golf Course Olde,,course,,,active,,,,,,,,,,PA,,US,39.9712311,-75.2703851,2026-10-11T15:11:55Z
 6a0a37d0-cd60-48a3-86dd-e7eb7da694b1,way/1361544669,,,course,,,active,,,,,,,,,,PA,,US,40.4964854,-78.2964526,2026-10-11T15:12:29Z
 6a5ef31a-0926-44cc-a3ad-c525dab03afe,way/521378392,Beaver Valley Golf Club,,course,,,active,,,,,,,,,,PA,,US,40.7299963,-80.3194383,2026-10-11T15:06:30Z
 6aa33023-84ec-40f1-b4c4-a94ccbe5b93c,way/341583403,Berwick Golf Club,,course,,,active,,,,,+1 570-752-6691,https://berwickgolfclub.com/,,473 Martzville Road,Berwick,PA,18603,US,41.0655397,-76.2625962,2026-10-11T15:06:26Z
@@ -269,13 +269,13 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 6f6fe66f-f36e-46c0-b435-6d6bb4c13e60,way/1549780615,,,course,,,active,,,,,,,,,,PA,,US,41.514922,-75.414041,2026-10-11T15:12:30Z
 702af3a8-3add-4132-857d-14beff0084c2,way/72501985,Carroll Valley Golf Resort,,course,,,active,18,71,,,,,,,,PA,,US,39.7569867,-77.3781789,2026-10-11T15:11:55Z
 7031bd6f-4e6c-4027-b137-490a874db926,way/637978838,Clinton County Country Club,,course,,,active,,,,,,,,,,PA,,US,41.1182644,-77.4932193,2026-10-11T15:12:20Z
-707e5e47-98d1-44ae-b3ac-dff4bacf368e,relation/3963288,Treesdale Golf and Country Club,,course,,,active,,3,,,+1 724-625-2220,https://www.clubcorp.com/Clubs/Treesdale-Golf-Country-Club,,One Arnold Palmer Drive,Gibsonia,PA,15044,US,40.6746328,-80.0185854,2026-10-11T15:12:35Z
-71758e64-ee9e-48d9-b757-a3da6e3e1173,way/1422552495,,,course,,,active,,26,,,,,,,,PA,,US,41.193601,-78.7347784,2026-10-11T15:12:29Z
+707e5e47-98d1-44ae-b3ac-dff4bacf368e,relation/3963288,Treesdale Golf and Country Club,,course,,,active,,,,,+1 724-625-2220,https://www.clubcorp.com/Clubs/Treesdale-Golf-Country-Club,,One Arnold Palmer Drive,Gibsonia,PA,15044,US,40.6746328,-80.0185854,2026-10-11T15:12:35Z
+71758e64-ee9e-48d9-b757-a3da6e3e1173,way/1422552495,,,course,,,active,,,,,,,,,,PA,,US,41.193601,-78.7347784,2026-10-11T15:12:29Z
 717d629c-3cf9-44d6-98a1-68c5e221d89b,way/1067007043,,,course,,,active,18,72,,,,,,,,PA,,US,40.6776375,-75.7353262,2026-10-11T13:31:06Z
 71c6f6bc-7ac7-4a53-8354-e6719129ca02,way/225722011,Merion Golf Club West,,course,,,active,18,,,,,,,,,PA,,US,39.9904488,-75.3336219,2026-10-11T15:12:03Z
 72394bef-b84f-426e-81b8-1ea1a4723e37,node/6919112260,Tower Golf,,course,,,active,,,,,,,,,,PA,,US,40.1885098,-80.2298479,2026-10-11T13:29:32Z
 724492e0-8aaf-4af0-ab81-a01a169fe5e0,relation/14980333,Quail Valley Golf Course,,course,,,active,18,72,,,,,,,,PA,,US,39.7420237,-77.1346022,2026-10-11T15:06:53Z
-731e3cae-af5e-4ba3-ba9f-94e9df08031e,way/186002613,Washington Country Club,,course,,,active,,56,,,,https://www.washingtoncountryclub.golf/,,599 Country Club Road,Washington,PA,15301,US,40.2085036,-80.2371463,2026-10-11T13:30:03Z
+731e3cae-af5e-4ba3-ba9f-94e9df08031e,way/186002613,Washington Country Club,,course,,,active,,,,,,https://www.washingtoncountryclub.golf/,,599 Country Club Road,Washington,PA,15301,US,40.2085036,-80.2371463,2026-10-11T13:30:03Z
 73550e9e-8fc9-4d97-8e20-99b1abf0e752,way/693406458,Elks Golf Club,,course,,,active,18,72,,,,,,115 Elks Club Road,Latrobe,PA,15650,US,40.3390677,-79.3717271,2026-10-11T13:30:58Z
 737f3a1a-2d97-4d0a-ac7a-10257c1d4a73,way/568533277,Ingleside Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.0003891,-75.7666399,2026-10-11T13:30:51Z
 744f2c3a-8bbf-4c82-b287-b45af036a433,relation/11285428,Water Gap Country Club and Resort,,course,,,active,18,72,,,,,,288 Mountain Road,Delaware Water Gap,PA,18327,US,40.9752332,-75.1530918,2026-10-11T15:12:41Z
@@ -303,21 +303,21 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 803cae76-bea6-4949-9a06-0d8a9eec563c,node/5912823939,Indian Mountain Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.9085336,-75.5085131,2026-10-11T13:29:32Z
 804dea74-29f0-45e1-902c-7d694b3cc5b5,way/262457785,Scranton Canoe Club,,course,,,active,9,30,,,,,,,,PA,,US,41.5147612,-75.8500478,2026-10-11T15:06:18Z
 8065d584-b03b-457d-bc34-39714b5cf5b1,node/8917065910,Windber Country Club,,course,,,active,,,,,,,,,,PA,,US,40.2854033,-78.7773095,2026-10-11T13:29:32Z
-81c9a35d-acda-4042-b65a-b3b5c24f7d61,way/37666401,Neshaminy Valley Golf Club,,course,,,active,,68,,,,,,,,PA,,US,40.2386306,-75.0700006,2026-10-11T15:11:51Z
+81c9a35d-acda-4042-b65a-b3b5c24f7d61,way/37666401,Neshaminy Valley Golf Club,,course,,,active,,,,,,,,,,PA,,US,40.2386306,-75.0700006,2026-10-11T15:11:51Z
 81edeca7-ef0e-4591-8736-0c8a903861c2,way/213574648,Cloverleaf Golf Course,,course,,,active,,,,,+1-724-468-4173,http://www.cloverleafgolfdelmont.com/,,351 Cloverleaf Drive,Delmont,PA,15626,US,40.3937973,-79.5881255,2026-10-11T15:06:16Z
 81f9ac31-b375-4bab-8680-1c0771521d64,way/297398386,Burgi's Back 9,,course,,,active,,,,,,,,,,PA,,US,40.5485672,-78.3501283,2026-10-11T13:30:27Z
 8261c10a-d7dc-4964-8250-ee8df9ef7b80,way/667046958,Royal Manchester Golf Links,,course,,,active,18,,,,+1 717-268-0490,,,5700 Board Road,Mount Wolf,PA,17345,US,40.0843364,-76.7021854,2026-10-11T15:06:32Z
 8274abe3-c5f1-4f69-8cbc-4b55f910f5db,relation/3963140,Sand Springs Country Club,,course,,,active,18,72,,,+1 570-788-5845,https://www.sandspringsgolf.com/,,10 Clubhouse Drive,Drum,PA,18222,US,41.0580156,-75.982148,2026-10-11T15:12:35Z
 82f97625-3230-4360-857e-e5e0856bdfda,way/910069676,Fern Hall (closed),,course,,,active,,,,,,,,,,PA,,US,41.648024,-75.536342,2026-10-11T15:12:23Z
 831ca121-db20-44d2-ba9e-456f22673d69,way/730014299,Skytop Mountain Golf Club,,course,,,active,,,,,,,,350 East Mountain Road,Port Matilda,PA,16870,US,40.8323465,-78.0007935,2026-10-11T15:12:21Z
-832f2ac5-3083-4cb6-8e3d-f0395db43420,way/141910239,,,course,,,active,,61,,,,,,,,PA,,US,40.2420007,-75.1493649,2026-10-11T15:12:00Z
-8338d788-9522-4fe4-87be-ed25574e8bd3,relation/1921906,,,course,,,active,,4,,,,,,,,PA,,US,40.2380157,-75.1482855,2026-10-11T15:12:30Z
-83545cd7-d911-454d-af75-b7baa7c706e5,way/386282411,Murrysville Golf Club,,course,,,active,,68,,,,,,,,PA,,US,40.4468874,-79.6824885,2026-10-11T15:12:14Z
+832f2ac5-3083-4cb6-8e3d-f0395db43420,way/141910239,,,course,,,active,,,,,,,,,,PA,,US,40.2420007,-75.1493649,2026-10-11T15:12:00Z
+8338d788-9522-4fe4-87be-ed25574e8bd3,relation/1921906,,,course,,,active,,,,,,,,,,PA,,US,40.2380157,-75.1482855,2026-10-11T15:12:30Z
+83545cd7-d911-454d-af75-b7baa7c706e5,way/386282411,Murrysville Golf Club,,course,,,active,,,,,,,,,,PA,,US,40.4468874,-79.6824885,2026-10-11T15:12:14Z
 83576ada-8162-4fdb-b72d-1665a91ebacf,way/193044856,Waynesboro Country Club,,course,,,active,18,72,,,+1 717 762 2603,https://www.waynesborocc.com/,,1100 Country Club Road,Waynesboro,PA,17268,US,39.7603041,-77.5260129,2026-10-11T15:12:01Z
 83791f13-c706-471a-ab8f-46f8a08d4aa8,way/292021491,Kennett Square Golf and Country Club,,course,,,active,18,71,,,,,,100 East Locust Lane,Kennett Square,PA,19348,US,39.8668056,-75.7105583,2026-10-11T13:30:16Z
 83f645f0-1719-4342-88f9-d74d607d0fd7,way/69962450,Sunnehanna Country Club,,course,,,active,18,70,,,,,,,,PA,,US,40.3248165,-78.943975,2026-10-11T13:29:49Z
 84510aa2-f024-4386-b2b1-534761a5e524,way/432000321,,,course,,,active,,,,,,,,,,PA,,US,41.0694405,-75.0660956,2026-10-11T15:12:15Z
-8470a8de-5d48-421d-86e5-0cdcb6f244b6,way/1422510739,,,course,,,active,,16,,,,,,,,PA,,US,41.1582528,-78.7040967,2026-10-11T15:12:29Z
+8470a8de-5d48-421d-86e5-0cdcb6f244b6,way/1422510739,,,course,,,active,,,,,,,,,,PA,,US,41.1582528,-78.7040967,2026-10-11T15:12:29Z
 84e8ac9b-fb67-453e-9c84-3bbc6e480112,way/730052461,Wanango Country Club,,course,,,active,18,,,,+1 814-676-8133,https://www.wanangocountryclub.com,,314 Chestnut Street,Reno,PA,16343,US,41.4139495,-79.7435547,2026-10-11T15:12:21Z
 85a8a1d2-902d-4aa1-aa54-881af6f5e005,relation/9881590,The Club at Nevillewood,,course,,,active,18,72,,,,,,,,PA,,US,40.3854099,-80.1227406,2026-10-11T15:12:38Z
 86203bdc-828c-424c-96fd-6b465a2b9ef4,way/867020860,Over Lake Golf Course,,course,,,active,,,,,,,,10601 West Ridge Road,Girard,PA,16417,US,41.9851448,-80.3497568,2026-10-11T13:31:02Z
@@ -325,7 +325,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 869a44ce-df8b-40f6-b438-08bbead08385,way/900483005,,,course,,,active,,,,,,,,,,PA,,US,41.901781,-78.6178274,2026-10-11T15:12:23Z
 86a97344-0d2e-4ea2-948c-b4899a7a18db,way/141910235,JC Melrose Country Club,,course,,,active,,,,,,,,,,PA,,US,40.0543538,-75.1058065,2026-10-11T15:12:00Z
 86eb1352-ec6e-4c9a-8a8f-28eac9890574,way/963460262,Commonwealth National Golf Club,,course,,,active,18,,,,,,,,,PA,,US,40.2027272,-75.1609639,2026-10-11T13:31:02Z
-86f0c63e-49d5-44f5-a139-cdd46f1a28ad,way/943991631,Glengarry Golf Links,,course,,,active,,52,,,,,,168 Lentz Road,Latrobe,PA,15650,US,40.2364358,-79.4232848,2026-10-11T15:12:23Z
+86f0c63e-49d5-44f5-a139-cdd46f1a28ad,way/943991631,Glengarry Golf Links,,course,,,active,,,,,,,,168 Lentz Road,Latrobe,PA,15650,US,40.2364358,-79.4232848,2026-10-11T15:12:23Z
 877b8b6a-862a-42cb-8b97-ca1a42662ddf,relation/8483303,,,course,,,active,,,,,,,,,,PA,,US,40.0899833,-75.1229805,2026-10-11T15:12:38Z
 87e0e885-bb2e-44d0-a65a-92d1ab9b4971,way/89782292,The Club at Shannondell,,course,,,active,,,,,,,,,,PA,,US,40.125788,-75.4211915,2026-10-11T15:11:55Z
 8851f0f0-1038-432f-8bf1-ca4570c89de6,node/3524431869,Grandview Golf Club,,course,,,active,,,,,,https://golfgrandview.com/,,2779 Carlisle Road,York,PA,17408,US,39.9817849,-76.8103764,2026-10-11T13:29:32Z
@@ -343,7 +343,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 8dc85453-a739-4a9e-9a9e-ded763896a7c,relation/5288262,Southpointe Golf Club,,course,,,active,,,,,,https://www.southpointegolfclub.com/,,,,PA,,US,40.2884139,-80.1693892,2026-10-11T15:06:47Z
 8dea7f37-b5df-4b32-b705-caf5b16ceb58,way/1545361152,,,course,,,active,,,,,,,,,,PA,,US,41.0775979,-80.2013841,2026-10-11T15:12:30Z
 8dec0a54-d2fd-429e-8619-b88c637da4c3,way/350458320,Northampton Country Club,,course,,,active,18,72,,,,,,5049 William Penn Highway,Easton,PA,18045,US,40.6701312,-75.2821615,2026-10-11T15:12:14Z
-8eba0783-f945-47fa-9436-e768569bea68,way/162618216,Turtle Creek,,course,,,active,,36,,,+1 610-489-5133,https://www.turtlecreekgolf.com/,,303 West Ridge Pike,Limerick,PA,19468,US,40.2234733,-75.5247248,2026-10-11T15:12:01Z
+8eba0783-f945-47fa-9436-e768569bea68,way/162618216,Turtle Creek,,course,,,active,,,,,+1 610-489-5133,https://www.turtlecreekgolf.com/,,303 West Ridge Pike,Limerick,PA,19468,US,40.2234733,-75.5247248,2026-10-11T15:12:01Z
 8ed648a4-d935-414c-b951-0bb6084a9ac3,way/334796366,Pennsylvania State Golf Courses,,course,,,active,,,,,,,,,,PA,,US,40.7890405,-77.8802848,2026-10-11T15:12:12Z
 8f310227-24f9-4f5f-bec9-cc5aa7dfb55c,way/141901143,Militia Hill,,course,,,active,,,,,,,,,,PA,,US,40.1128681,-75.2377548,2026-10-11T15:12:00Z
 8f991e1d-1fb3-455d-be79-600ebb57b45d,way/784824442,Butter Valley Golf Course,,course,,,active,18,72,,,,,,3243 Gehman Road,,PA,,US,40.3988019,-75.5615418,2026-10-11T15:12:21Z
@@ -352,18 +352,18 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 91870b52-0b6a-4655-88dc-f3c9d8ce3b66,way/886830580,Victory Hills Golf Course,,course,,,active,18,,,,+1-412-384-7730,https://www.golfvictoryhills.com/,,357 Pineview Drive,Elizabeth,PA,15037,US,40.2349802,-79.8464216,2026-10-11T15:12:23Z
 91abb384-eee7-4b3c-a756-2637475b97dc,way/298000452,Scally's Par-3 and Mini Golf,,mini,,,active,18,,,,,,,,,PA,,US,40.4773694,-80.1964756,2026-10-11T15:12:10Z
 935cf594-672c-402b-bc7f-e5c84deab7f8,way/784022728,Juniata Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.0172697,-75.1023193,2026-10-11T15:12:21Z
-9372b731-6f1e-42dd-8ad1-243a18b8bb7c,way/756080975,Three-Hole Golf Course,,course,,,active,,10,,,,,,,,PA,,US,40.3368399,-80.0763618,2026-10-11T15:12:21Z
+9372b731-6f1e-42dd-8ad1-243a18b8bb7c,way/756080975,Three-Hole Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.3368399,-80.0763618,2026-10-11T15:12:21Z
 93932936-6a2c-430a-bc54-d5190c69fad2,way/692656671,Phoenixville Country Club,,course,,,active,9,36,,,,,,,,PA,,US,40.0989041,-75.4862572,2026-10-11T15:12:21Z
 93e0b1a4-35fe-4d1a-a847-762bbffead97,way/142399799,Old York Road Country Club,,course,,,active,18,,,,,,,,,PA,,US,40.1852991,-75.2045848,2026-10-11T15:12:00Z
 94031cf9-67e7-46a7-8e93-b52adad927e9,way/1467061820,,,course,,private,active,,,,,,,,,,PA,,US,40.0295701,-75.2597621,2026-10-11T15:12:29Z
 943745df-f82b-4b98-897b-e0c2b277410f,node/6466631565,Great Bear Golf Club,,course,,,active,,,,,,,,1 Great Bear Court,East Stroudsburg,PA,18302,US,41.0543101,-75.0586629,2026-10-11T13:29:32Z
-9442f86c-c011-46ed-aea4-8b20acb1bb0d,way/218886035,3 Lakes Golf Course,,course,,,active,,4,,,+1 412-793-3025,https://www.3lakesgolf.com/,,6700 Saltsburg Road,Penn Hills,PA,15235,US,40.4778546,-79.8047199,2026-10-11T15:12:03Z
+9442f86c-c011-46ed-aea4-8b20acb1bb0d,way/218886035,3 Lakes Golf Course,,course,,,active,,,,,+1 412-793-3025,https://www.3lakesgolf.com/,,6700 Saltsburg Road,Penn Hills,PA,15235,US,40.4778546,-79.8047199,2026-10-11T15:12:03Z
 948078fa-fa99-46e9-99a5-5dd46faadcdb,relation/3614987,Shepherd Hills Golf Club,,course,,,active,18,70,,,,,,,,PA,,US,40.5526931,-75.5693105,2026-10-11T15:12:33Z
 956e8599-3e9d-4b55-823b-9803a90033c8,way/406116709,Lindenwood Golf Club,,course,,,active,27,108,,,+1-724-745-9889,https://www.lindenwoodgolf.com/,,360 Galley Road,Canonsburg,PA,15317,US,40.2474256,-80.1319554,2026-10-11T13:30:44Z
-95aecaec-75e6-44bf-a35b-af19430afc93,way/505062133,Rolling Fields Golf Course,,course,,,active,,24,,,,,,,,PA,,US,40.5069544,-79.6887886,2026-10-11T15:12:18Z
+95aecaec-75e6-44bf-a35b-af19430afc93,way/505062133,Rolling Fields Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.5069544,-79.6887886,2026-10-11T15:12:18Z
 96a98af3-56b7-490d-872b-d2f055770bcf,way/218887164,Longue Vue Club,,course,,,active,18,70,,,+1-412-793-2232,https://www.longuevue.org/,,400 Longue Vue Drive,Verona,PA,15147,US,40.4780899,-79.8605519,2026-10-11T15:12:03Z
-96ae5918-ce52-4fca-a3d3-b55b9222251e,way/115810262,Four Seasons Golf Course,,course,,,active,,61,,,+1 570-655-8869,https://fourseasonsgolfclubnepa.webs.com/,,750 Slocum Avenue,Exeter,PA,18643,US,41.3260533,-75.8299968,2026-10-11T13:29:54Z
-973f3a17-3d0f-40d4-af40-f6b525b6fdff,way/481761664,Willowbrook Country Club,,course,,,active,,4,,,,,,1208 Grossheimer Road,Apollo,PA,15613,US,40.5689718,-79.6197844,2026-10-11T15:12:17Z
+96ae5918-ce52-4fca-a3d3-b55b9222251e,way/115810262,Four Seasons Golf Course,,course,,,active,,,,,+1 570-655-8869,https://fourseasonsgolfclubnepa.webs.com/,,750 Slocum Avenue,Exeter,PA,18643,US,41.3260533,-75.8299968,2026-10-11T13:29:54Z
+973f3a17-3d0f-40d4-af40-f6b525b6fdff,way/481761664,Willowbrook Country Club,,course,,,active,,,,,,,,1208 Grossheimer Road,Apollo,PA,15613,US,40.5689718,-79.6197844,2026-10-11T15:12:17Z
 976f9947-1063-4da7-b112-c438254c1539,way/1000345070,Mound Grove Golf Course,,course,,,active,,,,,,,,10760 Donation Road,Waterford,PA,16441,US,42.0105845,-79.9710182,2026-10-11T13:31:06Z
 97a0a1b7-067c-4492-aa9a-aaea193e4b21,way/36853650,Cumberland Golf Club,,course,,,active,18,73,,,,,,,,PA,,US,40.1745114,-77.2823404,2026-10-11T15:11:51Z
 98147131-6125-4ca1-8674-3f58bba6dba1,way/839380533,,,course,,,active,,,,,,,,,,PA,,US,40.4018895,-76.2935054,2026-10-11T15:12:23Z
@@ -379,16 +379,16 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 9a1f48c8-88d6-4d47-a856-2512be2fc83e,relation/1189264,St. David's Golf Club,,course,,,active,18,,,,,,,,,PA,,US,40.060456,-75.3845709,2026-10-11T15:12:30Z
 9bca056b-a664-4b28-974e-c3e8e6440117,way/1209139356,Morgan Hills Golf Course,,course,,,active,,,,,,,,,,PA,,US,41.2309036,-76.1644498,2026-10-11T15:12:27Z
 9ca01b52-a348-4776-bc75-4d4a85ec9374,way/971394106,,,course,,,active,18,70,,,,,,,,PA,,US,40.094094,-74.9518392,2026-10-11T15:12:24Z
-9d15ea43-785b-4963-8495-37141c64fd70,way/479978521,Penn National Golf Course,,course,,,active,,61,,,,https://www.penngolf.com/,,,,PA,,US,39.866207,-77.5511848,2026-10-11T15:12:17Z
+9d15ea43-785b-4963-8495-37141c64fd70,way/479978521,Penn National Golf Course,,course,,,active,,,,,,https://www.penngolf.com/,,,,PA,,US,39.866207,-77.5511848,2026-10-11T15:12:17Z
 9d602c53-23a5-48ba-a26c-b7b66f739cbd,way/952009252,Doubletree Golf Range,,practice,,,active,,,,,,,,,,PA,,US,41.1285847,-80.3672578,2026-10-11T15:06:35Z
 9d6b260d-f346-4757-b3fe-d6583a81b26d,relation/11227315,Regent's Glen,,course,,,active,18,72,,,,,,,,PA,,US,39.9388582,-76.750963,2026-10-11T15:06:49Z
-9de0eee1-26d3-4ecd-bc3b-5f9c95a07d5d,way/308059517,St. Clair Country Club,,course,,,active,,36,,,,,,,,PA,,US,40.3321503,-80.0810008,2026-10-11T15:12:12Z
-9f777f5f-a7c4-408a-b3cb-37a63559dc09,way/1123780744,Hailwood,,course,,,active,,25,,,,,,,,PA,,US,41.6932366,-80.1314936,2026-10-11T15:12:24Z
-9fa2b492-af7d-40cb-8280-dbe234beecf7,way/78246217,Llanerch Country Club,,course,,,active,,68,,,,,,,,PA,,US,39.9669389,-75.310842,2026-10-11T15:06:07Z
+9de0eee1-26d3-4ecd-bc3b-5f9c95a07d5d,way/308059517,St. Clair Country Club,,course,,,active,,,,,,,,,,PA,,US,40.3321503,-80.0810008,2026-10-11T15:12:12Z
+9f777f5f-a7c4-408a-b3cb-37a63559dc09,way/1123780744,Hailwood,,course,,,active,,,,,,,,,,PA,,US,41.6932366,-80.1314936,2026-10-11T15:12:24Z
+9fa2b492-af7d-40cb-8280-dbe234beecf7,way/78246217,Llanerch Country Club,,course,,,active,,,,,,,,,,PA,,US,39.9669389,-75.310842,2026-10-11T15:06:07Z
 9fc61860-bfab-4930-81c4-370f50e2a1c5,way/41422052,Bethlehem Golf Club - 9 Hole Course,,course,,,active,,,,,,,,,,PA,,US,40.6390511,-75.3870827,2026-10-11T15:06:05Z
 a03a697c-c78a-45d0-8914-b2726abf4cd1,way/42691298,Fairview Golf Course,,course,,,active,18,,,,+1-717-273-3411,https://www.fairview.distinctgolf.com/,,2399 Quentin Road,Lebanon,PA,17042,US,40.2865334,-76.4348004,2026-10-11T15:11:53Z
 a0522b0d-7453-40a7-823d-ff843a7ae27a,way/486984008,Strawberry Green Driving Range,,practice,,,active,,,,,,,,,,PA,,US,39.9801473,-75.1902765,2026-10-11T15:12:17Z
-a07906f6-bad1-461c-bb1d-a214e858ff35,way/396742646,,,course,,,active,,68,,,,https://www.elmhurstcc.com/,,,,PA,,US,41.3517225,-75.5495732,2026-10-11T15:12:15Z
+a07906f6-bad1-461c-bb1d-a214e858ff35,way/396742646,,,course,,,active,,,,,,https://www.elmhurstcc.com/,,,,PA,,US,41.3517225,-75.5495732,2026-10-11T15:12:15Z
 a081db10-8657-474d-9607-b354917d6885,way/308994721,,,course,,,active,,,,,,,,,,PA,,US,40.4973351,-76.352415,2026-10-11T15:12:12Z
 a200e513-750a-429d-b0bc-e4414b0dbd71,way/510287674,Pleasant Valley Country Club,,course,,,active,18,69,,,+1-724-628-6360,https://www.pleasantvalley.golf/,,440 Pleasant Valley Road,Connellsville,PA,15425,US,40.0694745,-79.5425618,2026-10-11T15:12:18Z
 a21c9f60-2f9e-40bf-be66-fb8402bee606,way/136074312,Gilbertsville Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.2975899,-75.5725837,2026-10-11T15:11:57Z
@@ -406,19 +406,19 @@ a67864b3-91d8-4caf-a5d0-6bcb0f43f71e,way/62119320,Brookside Country Club,,course
 a6c88289-1da3-429f-948e-3dc5f5f0e8a5,relation/3777072,Broad Run Golfer's Club,,course,,,active,18,71,,,,,,,,PA,,US,39.9514044,-75.7086206,2026-10-11T15:12:33Z
 a6f4e465-b656-4f7b-b222-42f7c27f78e3,way/337111721,,,course,,,active,,,,,,,,,,PA,,US,40.9979181,-76.0706387,2026-10-11T15:12:14Z
 a77de2a8-4433-4d31-a2cd-d269cab2f462,way/152720826,Radley Run Country Club,,course,,,active,,,,,,https://www.radleyruncountryclub.com/,,1100 Country Club Road,Birmingham Township,PA,19382,US,39.9172977,-75.6233216,2026-10-11T15:12:00Z
-a85af27a-b523-4512-aa21-a18945b478b1,way/1422552494,,,course,,,active,,23,,,,,,,,PA,,US,41.1939383,-78.7309966,2026-10-11T15:12:29Z
+a85af27a-b523-4512-aa21-a18945b478b1,way/1422552494,,,course,,,active,,,,,,,,,,PA,,US,41.1939383,-78.7309966,2026-10-11T15:12:29Z
 aa2900f7-af01-4c1f-86e2-21ceee69e732,way/830087521,Sinking Valley Country Club,,course,,,active,,,,,,,,,,PA,,US,40.5968735,-78.273543,2026-10-11T13:31:02Z
 aa7d303f-920e-41c8-82bd-40aef3ecde63,way/555335001,Bellewood Country Club,,course,,,active,18,70,,,+1 610 718 9100,https://www.bellewoodgolf.com/,,400 East Schuylkill Road,North Coventry,PA,19465,US,40.2305812,-75.6472184,2026-10-11T15:12:18Z
 ab18e844-5323-4ecb-af88-05187676c8ca,way/446746240,Indiana Country Club,,course,,,active,,,,,,,,,,PA,,US,40.6358966,-79.1303456,2026-10-11T15:12:15Z
 ab30f32a-29b5-43e2-abaa-0e6bb2d8eeaf,relation/10735354,Youghiogheny Country Club,,course,,,active,18,,,,,,,1901 Greenock Buena Vista Road,McKeesport,PA,15135,US,40.3027668,-79.8159135,2026-10-11T15:12:38Z
 ab728889-bad2-4015-a1f0-0db4f2a7363b,way/485880727,Union League Golf Club,,course,,,active,,,,,,,,,,PA,,US,40.0659962,-74.9957979,2026-10-11T15:12:17Z
-ac8dd5a5-206d-4351-85c7-12018efe1908,way/1422510743,,,course,,,active,,8,,,,,,,,PA,,US,41.16004,-78.7078069,2026-10-11T15:12:29Z
+ac8dd5a5-206d-4351-85c7-12018efe1908,way/1422510743,,,course,,,active,,,,,,,,,,PA,,US,41.16004,-78.7078069,2026-10-11T15:12:29Z
 acebf86b-a763-4042-b417-ab11edcedb2f,way/205013552,Mountain View Golf Club,,course,,,active,18,71,,,,,,,,PA,,US,39.8019364,-77.3580401,2026-10-11T15:12:03Z
 ad482ca6-9d57-4e14-97bd-ec6eb92dd836,relation/21460267,Saucon Valley Country Club,,course,,,active,,,,,,,,,,PA,,US,40.5548031,-75.3748116,2026-10-11T15:12:45Z
 ae8826ea-dd9f-4bf1-94e8-b74bb9cb1ac2,way/73025362,,,course,,,active,18,71,,,,,,,,PA,,US,41.9481136,-79.6488218,2026-10-11T15:11:55Z
 af2ba3b8-fcf6-453e-b619-795ee688123b,way/134018636,Valley View Golf,,course,,,active,9,,,,+1-610-356-1810,https://www.valleyviewgolff.com/,,4600 West Chester Pike,Newtown Township,PA,19073,US,39.9752527,-75.4322254,2026-10-11T15:11:57Z
 af44128b-8661-4a88-97bf-53d185eb35e1,way/741162245,Sylvan Heights Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.9674712,-80.3022421,2026-10-11T15:12:21Z
-af85692a-d078-42a3-81c2-77f6ae484930,way/243673758,Spring Creek Golf Course,,course,,,active,,29,,,,,,,,PA,,US,40.2895533,-76.6363375,2026-10-11T13:30:12Z
+af85692a-d078-42a3-81c2-77f6ae484930,way/243673758,Spring Creek Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.2895533,-76.6363375,2026-10-11T13:30:12Z
 af8f42fd-79a1-4175-a062-73a34728d846,relation/3962729,Hartefeld National,,course,,,active,18,72,,,+1 610-268-8800,https://www.clubcorp.com/Clubs/Hartefeld-National,,One Hartefeld Drive,Avondale,PA,19311,US,39.8073138,-75.7274709,2026-10-11T15:12:35Z
 afdddcb4-7906-4035-8022-c11d8f2f90c8,way/793557237,Birdsfoot,,course,,,active,18,72,,,,,,,,PA,,US,40.7431078,-79.664876,2026-10-11T15:06:33Z
 b0506689-c448-4e5e-b05e-2387ba2b63dd,way/5735093,West Shore Country Club,,course,,,active,18,72,,,+1 717-761-4530,https://westshorecc.com/,,100 Brentwater Road,Camp Hill,PA,17011,US,40.2524333,-76.9394965,2026-10-11T13:29:32Z
@@ -429,7 +429,7 @@ b10b459d-179e-4a7c-94cd-1326776a823a,way/278772186,Moccasin Run Golf Course,,cou
 b1529ec5-dd97-4ded-831e-14f98b9a9a67,way/804451644,Fox Run Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.7970537,-80.3245271,2026-10-11T15:06:33Z
 b187e08b-ca8a-4666-bb48-b25aaf717103,relation/16860489,Greensburg Country Club,,course,,,active,18,70,,,+1-724-837-1810,https://www.greensburgcountryclub.golf/,,309 Pleasant Valley Road,Jeannette,PA,15644,US,40.3201004,-79.5732056,2026-10-11T15:12:43Z
 b19a2f10-c54b-4f67-8b6d-50912fd501a7,way/692776015,Jericho National Golf Club,,course,,,active,18,71,,,,,,,,PA,,US,40.307414,-74.9236837,2026-10-11T15:06:33Z
-b24119e1-4466-42e7-ab96-f164571c18fe,way/1422552486,,,course,,,active,,21,,,,,,,,PA,,US,41.1871091,-78.7322075,2026-10-11T15:12:29Z
+b24119e1-4466-42e7-ab96-f164571c18fe,way/1422552486,,,course,,,active,,,,,,,,,,PA,,US,41.1871091,-78.7322075,2026-10-11T15:12:29Z
 b241fd38-0765-4900-bd13-d3af93f52fd4,way/1415475520,Berkleigh Golf Club,,course,,,active,18,72,,,,https://www.berkleighgolf.com/,,14623 Kutztown Road,Kutztown,PA,19530,US,40.4970778,-75.8230918,2026-10-11T15:12:29Z
 b29396e7-8cd8-490e-80e7-d59797a4e497,way/625593459,Tyoga Country Club,,course,,,active,,,,,,,,,,PA,,US,41.7296512,-77.3396173,2026-10-11T15:12:20Z
 b2facf08-b741-4bb7-8895-a2f851c92e7d,way/727542876,Scott's Greens Golf Course,,course,,,active,9,33,,,,,,455 Green Grove Road,Scott,PA,18447,US,41.5238014,-75.6120139,2026-10-11T15:12:21Z
@@ -452,18 +452,18 @@ b6414302-ad21-4484-8689-2bdf11c20670,way/100290604,Anchored Soul Golf,,course,,,
 b683fa4d-b22e-4121-95ba-13b503fa7ff0,way/256927812,Fox Chapel Golf Club,,course,,,active,18,70,,,,,,426 Fox Chapel Road,Pittsburgh,PA,15238,US,40.5238582,-79.8786102,2026-10-11T15:12:05Z
 b6b2f0bb-68e8-4588-834a-5120e1d55832,node/6031225838,,,practice,,,active,,,,,,,,,,PA,,US,40.0365934,-76.4011789,2026-10-11T15:05:59Z
 b6ddce3d-59db-4314-ba18-b3c1c563473a,way/37890711,Hanover Country Club,,course,,,active,18,71,,,,,,,,PA,,US,39.8934084,-76.9798497,2026-10-11T15:11:51Z
-b6e45d1d-8a6a-4f2b-9972-e3c97d5a5617,way/946438193,Glengarry Golf Links,,course,,,active,,18,,,,,,,,PA,,US,40.2339324,-79.4284476,2026-10-11T13:31:02Z
+b6e45d1d-8a6a-4f2b-9972-e3c97d5a5617,way/946438193,Glengarry Golf Links,,course,,,active,,,,,,,,,,PA,,US,40.2339324,-79.4284476,2026-10-11T13:31:02Z
 b7054c6c-2f6d-4b5a-83e3-4388571c5682,way/697038259,Worcester Golf Club,,course,,,active,,,,,,,,,,PA,,US,40.20181,-75.3739994,2026-10-11T15:12:21Z
 b78e192d-4667-45db-aa94-d2f9db3dc025,way/1262955875,Windber Country Club,,course,,,active,18,,,,,,,,,PA,,US,40.2844338,-78.7785887,2026-10-11T15:12:28Z
 b7a2966a-2583-4257-8253-32ba49939453,way/10267416,Dauphin Highlands Golf Course,,course,,,active,18,72,,,,,,,,PA,,US,40.229213,-76.8080557,2026-10-11T15:11:48Z
 b82d2af0-498d-4951-8175-cbc4251f2f94,relation/16616060,Meadia Heights Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.0119762,-76.2950882,2026-10-11T15:12:43Z
 b844f760-2363-48aa-9443-518dbd2572e9,way/551446330,Rolling Acres Golf Course,,course,,,active,,,,,+1-724-843-6736,https://www.rollingacresgolf.com/,,350 Achortown Road,Beaver Falls,PA,15010,US,40.7391722,-80.4134347,2026-10-11T15:12:18Z
-b84b4f78-13de-4b19-ac70-e18f17aaf286,way/1111090431,,,course,,,active,,4,,,,,,,,PA,,US,40.2568168,-75.9686547,2026-10-11T15:12:24Z
-b8a26ea2-7898-49b4-97aa-03e67d11607c,way/469532052,Down River Golf Course,,course,,,active,,68,,,,,,,,PA,,US,40.0117737,-78.353456,2026-10-11T13:30:48Z
+b84b4f78-13de-4b19-ac70-e18f17aaf286,way/1111090431,,,course,,,active,,,,,,,,,,PA,,US,40.2568168,-75.9686547,2026-10-11T15:12:24Z
+b8a26ea2-7898-49b4-97aa-03e67d11607c,way/469532052,Down River Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.0117737,-78.353456,2026-10-11T13:30:48Z
 b8b66a60-727a-4469-99bc-bb8352ef7ef6,way/154143530,Hill Crest Country Club,,course,,,active,,,,,,,,,,PA,,US,40.5905113,-79.702227,2026-10-11T13:29:58Z
 b8f2745c-523a-4e39-a9e3-bc6caf4b0895,way/226431598,Ritzwood Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.7366155,-79.9454764,2026-10-11T15:12:03Z
 b9025e56-3348-4ee7-b8c4-7925efa9598a,relation/15395588,Hershey's Mill Golf Course,,course,,,active,9,,,,,,,,,PA,,US,40.0064696,-75.5594843,2026-10-11T15:12:43Z
-ba4324dc-62f3-4805-a4ae-e3e5346a601b,relation/7652437,PineCrest Country Club,,course,,,active,,7,,,,,,,,PA,,US,40.2566518,-75.2418871,2026-10-11T15:12:38Z
+ba4324dc-62f3-4805-a4ae-e3e5346a601b,relation/7652437,PineCrest Country Club,,course,,,active,,,,,,,,,,PA,,US,40.2566518,-75.2418871,2026-10-11T15:12:38Z
 baa42934-d262-4c8c-8646-d8ea184d2e98,way/560202693,Ebensburg Country Club,,course,,,active,,,,,,,,,,PA,,US,40.4926452,-78.7013953,2026-10-11T15:12:18Z
 bac266ad-8efe-408b-81b9-e04872aaed17,way/326040977,Laube Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.6884244,-79.678326,2026-10-11T13:30:33Z
 bb0ede1f-dff5-4b3a-af1d-5958e339a1f1,node/13701673426,Fore Factory DuBois,,course,,,active,,,,,,,,,,PA,,US,41.1206068,-78.7259452,2026-10-11T13:29:32Z
@@ -474,12 +474,12 @@ bc647680-4845-46ad-b8f4-0cad3707f725,way/37762923,Carlisle Country Club,,course,
 bca592a7-2bea-4b6c-a090-78cec81f0daa,way/1361912543,,,course,,,active,,,,,,,,,,PA,,US,40.3869892,-78.4169595,2026-10-11T15:12:29Z
 bd0625ef-16b4-4a77-af74-6e17793b7d5b,relation/18696852,Buhl Farm Golf Course,,course,,,active,9,34,,,,,,1290 Forker,Hermitage,PA,16148,US,41.2509572,-80.4919319,2026-10-11T15:12:45Z
 be2c7058-ea30-4662-b62f-99559b3205b5,way/373112782,Hartmann's Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.803478,-80.0997656,2026-10-11T15:12:14Z
-bea2ba2d-2dbd-4d62-92c9-730218ad7184,way/331950301,,,course,,,active,,19,,,,,,,,PA,,US,40.9906207,-76.0438128,2026-10-11T15:12:12Z
+bea2ba2d-2dbd-4d62-92c9-730218ad7184,way/331950301,,,course,,,active,,,,,,,,,,PA,,US,40.9906207,-76.0438128,2026-10-11T15:12:12Z
 c016e0fe-a976-4206-b1d5-398b3d320643,relation/14062785,White Deer County Golf Course,,course,,,active,,,,,,https://www.whitedeergc.com/,,,,PA,,US,41.176479,-76.9264627,2026-10-11T15:12:41Z
-c053548d-1551-4700-8f41-4444bc495a4f,way/115810261,Fox Hill Country Club,,course,,,active,,4,,,,,,,,PA,,US,41.3337957,-75.8114586,2026-10-11T15:11:57Z
+c053548d-1551-4700-8f41-4444bc495a4f,way/115810261,Fox Hill Country Club,,course,,,active,,,,,,,,,,PA,,US,41.3337957,-75.8114586,2026-10-11T15:11:57Z
 c1772640-03bb-447a-aa47-75dc3e37c2a4,way/469222348,,,course,,,active,,,,,,,,,,PA,,US,40.5065386,-78.6302281,2026-10-11T13:30:48Z
 c1937643-6df0-4a9e-896f-4728cdb92f71,way/67539701,Pickering Valley Golf Course,,course,,,active,18,72,,,,,,,,PA,,US,40.1006825,-75.5193357,2026-10-11T15:06:07Z
-c193f38e-a28c-4fde-b951-8c4d069c8e3b,way/1422510740,,,course,,,active,,4,,,,,,,,PA,,US,41.1552641,-78.7043649,2026-10-11T13:31:14Z
+c193f38e-a28c-4fde-b951-8c4d069c8e3b,way/1422510740,,,course,,,active,,,,,,,,,,PA,,US,41.1552641,-78.7043649,2026-10-11T13:31:14Z
 c1b26b40-9222-429b-a77d-82818e97e91a,way/1363582890,,,course,,,active,,,,,,,,,,PA,,US,39.9673035,-75.2648798,2026-10-11T15:12:29Z
 c20aaed8-aabe-4568-8a9c-78d4425aafb4,way/141910237,Green Valley Country Club,,course,,,active,18,72,,,,,,,,PA,,US,40.0934767,-75.2698491,2026-10-11T15:12:00Z
 c21423cf-e282-4e91-b582-5558d22468d5,way/387453116,,,course,,,active,,,,,,,,,,PA,,US,41.0005472,-80.4425794,2026-10-11T15:12:14Z
@@ -492,7 +492,7 @@ c580f4c0-6a6f-41ff-8517-6b3e68c21526,way/70009147,,,practice,,,active,,,,,,,,,,P
 c5820d26-b0a9-4b69-ade7-a80a7eddbca1,way/91743204,Bluestone Country Club,,course,,,active,18,71,,,,,,,,PA,,US,40.1606324,-75.2660685,2026-10-11T15:11:55Z
 c626bcf1-c562-4121-8191-70e885e11762,way/731231351,Grassy Lanes,,course,,,active,,,,,,,,,,PA,,US,40.8264379,-80.4563012,2026-10-11T13:30:58Z
 c6330dd2-737f-40a3-a65f-5021074f0b4c,node/3531678047,Morgan Hill Golf Course,,course,,,active,,,,,,,,100 Clubhouse Drive,Easton,PA,18042,US,40.66611,-75.2005446,2026-10-11T13:29:32Z
-c6c3c9b5-f0d9-41fb-9d8a-a41cb0260e73,way/505062134,Rolling Fields Golf Course,,course,,,active,,45,,,,,,,,PA,,US,40.5041777,-79.6934938,2026-10-11T15:12:18Z
+c6c3c9b5-f0d9-41fb-9d8a-a41cb0260e73,way/505062134,Rolling Fields Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.5041777,-79.6934938,2026-10-11T15:12:18Z
 c6e053a8-0966-43c1-bcc7-b72e0b03eea4,way/213199242,Hannastown Golf Club,,course,,,active,18,70,,,,,,,,PA,,US,40.3265495,-79.5308065,2026-10-11T15:06:16Z
 c71acf9c-f10c-4ff0-ae8f-ab22126dbc58,way/141910234,Middletown Country Club,,course,,,active,18,69,,,,https://www.middletowncc.com/,,420 North Bellevue Avenue,Langhorne,PA,19047,US,40.1789707,-74.9294805,2026-10-11T13:29:58Z
 c811bda2-a2fd-4aed-9ff4-bdd84f04b84a,way/544313200,,,course,,,active,18,72,,,,,,,,PA,,US,40.2279482,-79.2365879,2026-10-11T15:06:30Z
@@ -507,14 +507,14 @@ cbd2ba56-1800-4f4f-b9d0-1504adebc10d,way/1052361118,Walnut Creek Golf Course,,co
 cc33ed6f-fe0b-4e4f-9f0f-5d01dbba8ac2,way/66910596,Valley Brook Country Club,,course,,,active,18,72,,,,,,,,PA,,US,40.2986056,-80.1359281,2026-10-11T15:11:55Z
 ccc79140-d75d-48d6-992f-3e9fc50b2f14,way/221365908,Pittsburgh North Golf Course,,course,,,active,,,,,,,,3800 Bakerstown Road,Gibsonia,PA,15044,US,40.6565808,-79.9487633,2026-10-11T15:12:03Z
 cce2a64c-28b7-4d31-ac63-481ab005779c,way/779672223,Paxon Hollow Golf Club,,course,,,active,18,71,,,,,,,,PA,,US,39.9587649,-75.3737847,2026-10-11T15:06:33Z
-cd4a02a3-8b51-4152-8d03-731535da1f8b,way/992346373,Sleepy Hollow Golf Course,,course,,,active,,72,,,,https://sleepyhollowgolfcourse.com,,140 Sandy Banks Road,Greenfield Township,PA,18407,US,41.5814631,-75.5594662,2026-10-11T15:12:24Z
+cd4a02a3-8b51-4152-8d03-731535da1f8b,way/992346373,Sleepy Hollow Golf Course,,course,,,active,,,,,,https://sleepyhollowgolfcourse.com,,140 Sandy Banks Road,Greenfield Township,PA,18407,US,41.5814631,-75.5594662,2026-10-11T15:12:24Z
 cdae83e7-9f3a-4063-9ddf-ffe1a55700ea,way/784022735,Fishers Glen Driving Range,,practice,,,active,,,,,,,,,,PA,,US,40.0200512,-75.1050404,2026-10-11T15:12:21Z
-cdb40e98-695a-48e0-bf3d-acf40eacc013,way/37574735,Hershey Country Club,,course,,,active,,4,,,,,,,,PA,,US,40.2965117,-76.633512,2026-10-11T15:06:03Z
+cdb40e98-695a-48e0-bf3d-acf40eacc013,way/37574735,Hershey Country Club,,course,,,active,,,,,,,,,,PA,,US,40.2965117,-76.633512,2026-10-11T15:06:03Z
 cdb6aa92-473d-439a-ac17-afa4a324d49a,way/313216091,Grand View Golf Club,,course,,,active,18,,,,,https://www.pittsburghgolf.com/,,1000 Clubhouse Drive,North Braddock,PA,15104,US,40.400835,-79.8508125,2026-10-11T15:12:12Z
 ce681dfd-fad3-48d8-9274-0e2893ca87ae,relation/13195093,Steel Club,,course,,,active,9,35,,,+1 610 838 7018,https://www.steel.club/,,700 Linden Avenue,Hellertown,PA,18055,US,40.5815974,-75.3291658,2026-10-11T15:06:51Z
 cee0c139-2afc-49a9-8165-071f0d562825,way/270271002,Lehigh Country Club,,course,,,active,18,70,,,,,,,,PA,,US,40.5488358,-75.5106851,2026-10-11T15:12:07Z
 cef60525-5269-440e-b915-a1a78de58e8b,node/13069462116,Applecross Country Club,,course,,,active,,,,,,https://applecrosscc.com/,,,,PA,,US,40.0264992,-75.7782304,2026-10-11T13:29:32Z
-cf1b648e-9fdc-4d3a-85e7-31ffdd4fc774,way/991727377,Piney Apple Golf Course,,course,,,active,,4,,,,,,,,PA,,US,39.9893158,-77.3181494,2026-10-11T15:12:24Z
+cf1b648e-9fdc-4d3a-85e7-31ffdd4fc774,way/991727377,Piney Apple Golf Course,,course,,,active,,,,,,,,,,PA,,US,39.9893158,-77.3181494,2026-10-11T15:12:24Z
 cfdb00fd-9a66-424c-818e-657b3139fae7,way/207664513,Concord Country Club,,course,,,active,18,71,,,,,,,,PA,,US,39.8882859,-75.5440602,2026-10-11T15:12:03Z
 d00c03db-4cc3-42b7-909d-229a442a0f4e,way/74962250,Bala Golf Course,,course,,,active,,,,,,,,,,PA,,US,39.9962119,-75.2226897,2026-10-11T15:11:55Z
 d05b785c-2301-4dd5-b0b9-81fadfe77935,way/5120636,Armitage Golf Club,,course,,,active,18,,,,+1 717-737-5344,https://www.armitagegolfclub.com/,,800 Orr's Bridge Road,Mechanicsburg,PA,17050,US,40.262645,-76.960495,2026-10-11T15:05:59Z
@@ -529,8 +529,8 @@ d24c35a3-c60f-4fb1-a4df-1f97696c2978,way/186995521,Nemacolin Country Club,,cours
 d24efee2-bb61-41dd-90e3-874753a230eb,way/7988444,Cool Creek Golf Course,,course,,,active,18,,,,,,,,,PA,,US,40.0177164,-76.5444635,2026-10-11T15:11:48Z
 d2cbfaed-426a-4860-99ad-dc7c06922e2e,way/26240585,Spring Ford Country Club,,course,,,active,18,72,,,,,,48 Country Club Road,Royersford,PA,19468,US,40.204058,-75.529021,2026-10-11T13:29:34Z
 d2e5a79f-1ad6-45a7-902c-7d5d0257d6bc,way/480460422,Punxsutawney Country Club,,course,,,active,18,73,,,,,,,,PA,,US,40.9517823,-78.9922413,2026-10-11T15:12:17Z
-d3371423-26a3-4799-88ee-bbdf0ca71074,way/402632138,Saxon Golf Course,,course,,,active,,47,,,,,,,,PA,,US,40.7296051,-79.7910926,2026-10-11T15:12:15Z
-d3485587-c514-41ae-ba25-1d89ad7d71f8,way/59514802,McCall Golf and Country Club,,course,,,active,,62,,,,,,,,PA,,US,39.9709336,-75.2808883,2026-10-11T15:11:55Z
+d3371423-26a3-4799-88ee-bbdf0ca71074,way/402632138,Saxon Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.7296051,-79.7910926,2026-10-11T15:12:15Z
+d3485587-c514-41ae-ba25-1d89ad7d71f8,way/59514802,McCall Golf and Country Club,,course,,,active,,,,,,,,,,PA,,US,39.9709336,-75.2808883,2026-10-11T15:11:55Z
 d392119e-d615-48f2-9ee1-76cbda668cf4,way/298000453,Scenic Valley Golf Course,,course,,,active,18,,,,,,,,,PA,,US,40.2770168,-80.0498147,2026-10-11T15:12:10Z
 d4016166-bb7f-4ceb-83d3-38a32424d426,way/9528531,Willow Brook Golf Course,,course,,,active,9,35,,,,,,14 Sappho Cody Lane,Northampton,PA,18067,US,40.6661206,-75.4644301,2026-10-11T15:11:48Z
 d4455da9-601b-4dc8-ba28-ac35518f3055,relation/12360155,Saucon Valley Country Club,,course,,,active,,,,,+1 610-758-7150,http://www.sauconvalleycc.org/,,2050 Saucon Valley Road,Bethlehem,PA,18015,US,40.5562802,-75.3748116,2026-10-11T15:12:41Z
@@ -539,14 +539,14 @@ d523ab91-be0b-46c3-abc4-986e1ac6e4f6,way/550543426,Black Hawk Golf Course,,cours
 d5733852-73bf-40c3-ace9-29c873392fb6,way/270392850,Royal Oaks Golf Club,,course,,,active,18,71,,,+1 717-274-2212,https://www.golfatroyaloaks.com/,,3350 West Oak Street,Lebanon,PA,17042,US,40.3127769,-76.4605339,2026-10-11T13:30:16Z
 d5e3b564-aa30-4d9b-a496-b11a6fe2d514,relation/7303440,Lookaway Golf Club,,course,,,active,18,72,,,,,,4219 Upper Mountain Road,Buckingham,PA,18912,US,40.3011528,-75.0514074,2026-10-11T13:31:37Z
 d607f0f4-c548-4229-8adf-e2d4fa3264f6,way/189343486,Shannopin Country Club,,course,,,active,18,,,,,,,,,PA,,US,40.5131368,-80.0617101,2026-10-11T15:12:01Z
-d6383176-2213-4b17-885a-e1d3129013f0,way/374742982,Cranberry Highlands Golf Course,,course,,,active,,36,,,,,,,,PA,,US,40.7287165,-80.1348751,2026-10-11T15:12:14Z
+d6383176-2213-4b17-885a-e1d3129013f0,way/374742982,Cranberry Highlands Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.7287165,-80.1348751,2026-10-11T15:12:14Z
 d7925f0d-ac49-4eee-b689-8378688a0082,relation/20817887,Mainland Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.2505537,-75.3648503,2026-10-11T15:12:45Z
 d7e23e4f-f6c3-4843-bb1c-b42dcdc8b1a4,way/281699635,River Valley Country Club,,course,,,active,18,72,,,,,,,,PA,,US,41.9315095,-77.4775982,2026-10-11T15:12:07Z
 d7eae0fa-0d00-4096-bc33-17aa3b3d08ed,way/108526456,Tee's Golf Center,,practice,,,active,,,,,,,,,,PA,,US,40.0841523,-75.3128243,2026-10-11T15:11:57Z
 d8009af2-2299-4d66-bdc0-a708cd6981ad,way/34174977,Overlook Golf Course,,course,,,active,18,70,,,,,,,,PA,,US,40.0798443,-76.3137591,2026-10-11T15:11:51Z
 d889ab67-dd69-4479-b861-3649a56b3f2c,way/736478870,,,course,,,active,,,,,,,,,,PA,,US,39.8436705,-79.6576805,2026-10-11T15:12:21Z
 d88b9906-1013-44ae-97ac-7de2b2a14845,way/12055437,Jackson Valley Golf Course,,course,,,active,,,,,+1 814 489 7802,http://jacksonvalleygolfcourse.com/,,6927 Jackson Run Road,Warren,PA,16365,US,41.9117895,-79.2651446,2026-10-11T15:11:48Z
-d8bd44ce-0124-4fe9-a153-6aa244619055,way/1460568011,White Course,,course,,,active,,36,,,,,,,,PA,,US,40.7908133,-77.8784225,2026-10-11T15:06:40Z
+d8bd44ce-0124-4fe9-a153-6aa244619055,way/1460568011,White Course,,course,,,active,,,,,,,,,,PA,,US,40.7908133,-77.8784225,2026-10-11T15:06:40Z
 d8cf3fe5-c104-4b5f-927c-85233258375b,way/35797586,Colonial Golf and Tennis Club,,course,,,active,18,72,,,,,,,,PA,,US,40.3355559,-76.8094035,2026-10-11T15:11:51Z
 d93986da-ba6d-48c7-85d8-70859dfb5f39,way/231253988,,,course,,,active,,,,,,,,,,PA,,US,40.6438012,-80.0806357,2026-10-11T15:12:03Z
 daa54c55-5569-48eb-a040-0da908d20117,way/551498730,Cable Hollow Golf Course,,course,,,active,,,,,+1 814 757 4765,https://www.cablehollow.com/,,405 Norberg Road,Russell,PA,16345,US,41.9685532,-79.1081726,2026-10-11T15:12:18Z
@@ -564,7 +564,7 @@ dfaa9fd0-5846-4623-bb5f-75e798ea4ead,way/575649625,Whitford Country Club,,course
 dfe54706-25ce-45d0-b413-4bbcacb2e869,way/1537339310,,,course,,,active,,,,,,,,,,PA,,US,41.4913496,-79.8182126,2026-10-11T15:12:30Z
 e02b77fb-0b95-4dc7-9cde-56befcca2054,relation/10040111,Spring Hollow Golf Club,,course,,,active,,,,,,,,,,PA,,US,40.1860685,-75.5721894,2026-10-11T15:12:38Z
 e0864bf6-85bf-4dfa-9306-6710591db3c4,way/317784559,South Hills Country Club,,course,,,active,18,71,,,+1-412-885-1100,https://www.southhillscc.org/,,4305 Brownsville Road,Pittsburgh,PA,15236,US,40.3576282,-79.9860137,2026-10-11T13:30:33Z
-e0f0ae4f-dccd-408c-953c-40d69a1d6479,way/141910231,Philmont Country Club,,course,,,active,,11,,,,,,,,PA,,US,40.1312059,-75.0437836,2026-10-11T15:12:00Z
+e0f0ae4f-dccd-408c-953c-40d69a1d6479,way/141910231,Philmont Country Club,,course,,,active,,,,,,,,,,PA,,US,40.1312059,-75.0437836,2026-10-11T15:12:00Z
 e11d59b8-0415-4ac2-8e49-aead7eac3086,way/417607536,Northampton Valley Country Club,,course,,,active,18,70,,,,,,,,PA,,US,40.2239515,-74.9968109,2026-10-11T15:12:15Z
 e17b69f2-ca10-4b0b-b564-008b8b620dca,way/8078694,Rolling Pines Golf Course,,course,,,active,18,72,,,+1-570-752-1000,https://www.rollingpinesgc.com/,,335 Golf Course Road,Berwick,PA,18603,US,41.0458864,-76.3049714,2026-10-11T15:11:48Z
 e1978459-d2a0-4935-b56d-9aac54c99a6c,way/120072452,Lewistown Country Club,,course,,,active,,,,,,,,,,PA,,US,40.5632427,-77.6328695,2026-10-11T15:11:57Z
@@ -577,13 +577,13 @@ e30adffa-3b34-4834-9e60-74cd06455200,way/843616574,Sunset Golf Course,,course,,,
 e31bc944-382c-45d3-bb21-30820c349ea0,way/1560245979,Timber Trails Golf Course,,course,,,active,,,,,,https://lakenaomiclub.com/web/pages/pennsylvania-golf-resort-community,,,,PA,,US,41.1289448,-75.4533238,2026-10-11T15:12:30Z
 e325716a-6eaa-441d-af4a-abfd5ff79849,way/152255004,West Chester Country Club,,course,,,active,9,35,,,,,,,,PA,,US,39.9691002,-75.6139423,2026-10-11T15:12:00Z
 e36a675d-bca1-4bc1-8309-00de18bbc218,way/22173858,Radnor Valley Country Club,,course,,,active,18,70,,,,,,,,PA,,US,40.0200553,-75.3641794,2026-10-11T15:11:48Z
-e3cc21b6-662f-4e45-b87d-a65f9a60e421,way/424192138,Manor Golf Course,,course,,,active,,4,,,,,,153 Bran Road,Reading ( Mohns Hill ),PA,19608,US,40.2887025,-76.0474961,2026-10-11T15:12:15Z
+e3cc21b6-662f-4e45-b87d-a65f9a60e421,way/424192138,Manor Golf Course,,course,,,active,,,,,,,,153 Bran Road,Reading ( Mohns Hill ),PA,19608,US,40.2887025,-76.0474961,2026-10-11T15:12:15Z
 e4814fdd-0e13-400a-a0df-b938b4914d53,way/690966995,Applebrook Golf Club,,course,,,active,,,,,,,,100 Line Road,Malvern,PA,19355,US,40.0020674,-75.5320541,2026-10-11T15:12:21Z
-e65006a4-8102-4cde-9414-3ff49f828a7e,relation/1927246,Talamore Country Club,,course,,,active,,66,,,+1 215 641 1300,https://www.talamorecc.com/,,328 Talamore Drive,Ambler,PA,19002,US,40.1978634,-75.2001605,2026-10-11T15:12:30Z
+e65006a4-8102-4cde-9414-3ff49f828a7e,relation/1927246,Talamore Country Club,,course,,,active,,,,,+1 215 641 1300,https://www.talamorecc.com/,,328 Talamore Drive,Ambler,PA,19002,US,40.1978634,-75.2001605,2026-10-11T15:12:30Z
 e6560bcc-3469-4275-b005-dad020cb1a05,way/678132809,Uniontown Country Club,,course,,,active,18,,,,,,,,,PA,,US,39.883757,-79.7218326,2026-10-11T15:12:20Z
 e6680f24-06a1-4eae-b69d-e4ac7ed05237,way/570577928,White Oak Golf Course,,course,,,active,18,71,,,+1 814 257 8847,https://www.whiteoakfarmsinc.com/,,,,PA,,US,40.8520648,-79.2351829,2026-10-11T15:12:18Z
-e69d131f-db21-41d2-ad6f-5918de7e2215,way/421616361,Bridges Golf Club,,course,,,active,,64,,,,,,,Abbottstown,PA,,US,39.8724173,-77.0035595,2026-10-11T15:12:15Z
-e7e2de7c-3fc1-4172-acdb-d206770093ee,way/231749285,Heritage Hills Golf Course,,course,,,active,,64,,,,https://www.heritagehillsresort.com/,,,,PA,,US,39.9527814,-76.6723146,2026-10-11T15:12:03Z
+e69d131f-db21-41d2-ad6f-5918de7e2215,way/421616361,Bridges Golf Club,,course,,,active,,,,,,,,,Abbottstown,PA,,US,39.8724173,-77.0035595,2026-10-11T15:12:15Z
+e7e2de7c-3fc1-4172-acdb-d206770093ee,way/231749285,Heritage Hills Golf Course,,course,,,active,,,,,,https://www.heritagehillsresort.com/,,,,PA,,US,39.9527814,-76.6723146,2026-10-11T15:12:03Z
 e887ecf8-9f85-43dc-b749-19a02d1cefa2,way/945852571,Adventures Erie at Lake Pleasant,,course,,,active,,,,,,,,9188 Lake Pleasant Road,Erie,PA,16509,US,42.0615301,-79.985409,2026-10-11T15:12:23Z
 e932221f-3c62-419b-a9d4-f7a51355442e,relation/6174192,Oakmont Country Club,,course,,,active,18,71,,,,,,,,PA,,US,40.5290475,-79.824972,2026-10-11T15:12:36Z
 e9620fac-a6fb-4a02-a5a9-3579dc3d9c1f,way/91986712,1912 Club,,course,,,active,18,,,,,,,888 Plymouth Road,Plymouth Meeting,PA,19462,US,40.1211361,-75.3133443,2026-10-11T15:11:55Z
@@ -614,7 +614,7 @@ f2ca244c-f2b8-4808-be75-ece9a1efb8aa,way/645298569,Green Acres Golf Course,,cour
 f3caf466-8a44-4d99-b8fa-59902987babe,way/1089515605,,,course,,,active,,,,,,,,,,PA,,US,41.6683138,-80.1467602,2026-10-11T15:12:24Z
 f4e15eb0-8579-47a2-a41b-ae3eb7d85453,relation/16829095,Riverview Golf Course,,course,,,active,9,36,,,+1-717-770-5199,https://www.defensemwr.com/susquehanna/riverview-golf-course,,A Avenue,New Cumberland,PA,17070,US,40.2170005,-76.8403265,2026-10-11T15:12:43Z
 f59d8ecb-5a09-4b3d-a658-884130fdf360,way/1096347271,Kane Country Club,,course,,,active,,,,,,https://kanecountryclub.com/,,6654 US-6,Kane,PA,16765,US,41.6687127,-78.7566191,2026-10-11T15:12:24Z
-f59deb03-bb69-4acf-903c-7506e80f6fe2,way/1295489700,Blue Knob Golf Coub,,course,,,active,,33,,,+1-814-239-5111,https://blueknob.com/golf-course-pricing/golf-course/,,1424 Overland Pass,Claysburg,PA,16625,US,40.3013875,-78.5332189,2026-10-11T15:06:39Z
+f59deb03-bb69-4acf-903c-7506e80f6fe2,way/1295489700,Blue Knob Golf Coub,,course,,,active,,,,,+1-814-239-5111,https://blueknob.com/golf-course-pricing/golf-course/,,1424 Overland Pass,Claysburg,PA,16625,US,40.3013875,-78.5332189,2026-10-11T15:06:39Z
 f5a4436b-42cb-40a5-a605-3c60d88cd886,relation/7213703,Bucknell Golf Course,,course,,,active,,,,,,,,,,PA,,US,40.9478678,-76.8948245,2026-10-11T15:12:38Z
 f5d29eea-e3e7-44d3-8273-9b9fcc4af322,way/257731854,Mountain Laurel Golf Club,,course,,,active,,,,,,,,,,PA,,US,41.0521231,-75.7548517,2026-10-11T15:12:05Z
 f7451c60-4368-43b9-87de-e346f2fb2af1,way/85658411,,,course,,,active,,,,,,,,,,PA,,US,40.0742182,-75.4524552,2026-10-11T15:06:07Z
@@ -625,7 +625,7 @@ f9b0f276-dec4-46dc-9f35-44cac669a293,way/278781838,Pilgrims Oak Golf Course,,cou
 f9ba80c3-eb92-42c7-bc0d-789c3c641fcc,way/65001235,Sportsman's Golf Course,,course,,,active,,,,,+1 717-545-0023,https://www.sportsmansgolfcourse.com/,,3800 Linglestown Road,Harrisburg,PA,17110,US,40.3435214,-76.8474901,2026-10-11T15:06:07Z
 f9bfa986-1063-4e3e-b1a7-c0cfa42f36be,way/466581949,Frosty Valley Golf Links,,course,,,active,9,35,,,,,,,,PA,,US,40.3110861,-80.1139988,2026-10-11T15:12:17Z
 f9c0edea-3371-4f6c-9b4a-1ebb05ba7efa,way/255797011,Bavarian Hills,,course,,,active,,,,,,,,,,PA,,US,41.448574,-78.542205,2026-10-11T15:12:05Z
-fa67ce4f-e204-4733-ad29-6ac83a97dd0e,way/1033562173,Valley Country Club,,course,,,active,,49,,,,,,,,PA,,US,40.9884315,-76.0399848,2026-10-11T15:12:24Z
+fa67ce4f-e204-4733-ad29-6ac83a97dd0e,way/1033562173,Valley Country Club,,course,,,active,,,,,,,,,,PA,,US,40.9884315,-76.0399848,2026-10-11T15:12:24Z
 fa760e54-8c5c-4da2-8cc6-eedf55ed90a3,way/514910259,Double Eagle Driving Range,,practice,,,active,,,,,,,,,,PA,,US,40.2019444,-74.7926797,2026-10-11T15:12:18Z
 fac2ac41-6579-4caf-86f2-a1df8ec0fcd7,way/807341574,King Valley Golf Course,,course,,,active,18,72,,,,,,132 King Valley Lane,Imler,PA,16655,US,40.2492508,-78.4748781,2026-10-11T15:12:21Z
 fafa0f48-94a2-4f1a-9df5-f82f624cea49,way/141910229,Five Ponds Golf Course,,course,,,active,18,71,,,,,,West Street Road,Warminster,PA,18974,US,40.21952,-75.1122698,2026-10-11T13:29:58Z

@@ -3,7 +3,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 004a6b72-473d-4fd0-ae0e-501478bee541,node/10100433578,InHome Golf,,course,,,active,,,,,+1 800-557-5859,https://inhomegolf.com/home-golf-simulator-new-jersey,,1000 Wall Street West,Lyndhurst,NJ,07071,US,40.8069248,-74.1058254,2026-10-11T13:29:32Z
 0067b56c-39d4-4223-9d02-ed16955c4415,relation/222290,Montclair Golf Club,,course,,,active,,,,,+1-973-239-1800,,,25 Prospect Avenue,West Orange,NJ,07052,US,40.8197113,-74.244706,2026-10-11T15:12:30Z
 007053c4-0c5b-4725-8693-0bd629eeb294,relation/12833568,Valleybrook Golf Club,,course,,,active,,,,,,,,200 Golfview Drive,Blackwood,NJ,08012,US,39.8191052,-75.0574452,2026-10-11T15:12:41Z
-00789560-7579-4390-8fa6-2015cf5179a3,way/44108513,Orchard Hills Golf Course,,course,,,active,,31,,,+1 201 447 3782,https://golfbergencounty.com/,,404 Paramus Road,Paramus,NJ,07652,US,40.952685,-74.0874103,2026-10-11T13:29:44Z
+00789560-7579-4390-8fa6-2015cf5179a3,way/44108513,Orchard Hills Golf Course,,course,,,active,,,,,+1 201 447 3782,https://golfbergencounty.com/,,404 Paramus Road,Paramus,NJ,07652,US,40.952685,-74.0874103,2026-10-11T13:29:44Z
 03193bb9-5c07-4cb0-b93f-2d4a893a68ad,way/40407371,Medford Lakes Country Club,,course,,,active,,,,,,,,70 Oak Drive,Medford Lakes,NJ,08055,US,39.8591054,-74.7923713,2026-10-11T15:11:51Z
 037a3768-ceb5-4283-a19a-47f492e3e14b,way/39680490,Maplewood Country Club,,course,,,active,18,71,,,,,,,,NJ,,US,40.7257138,-74.2804278,2026-10-11T15:11:51Z
 057e4dd3-258d-48ae-a645-7a8c483b6abd,way/54926589,Cape May Golf Club,,course,,,active,18,71,,,,,,,,NJ,,US,38.9832827,-74.8923825,2026-10-11T15:06:07Z
@@ -14,7 +14,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 08927aa5-e543-48b4-a739-d7002c81e00f,relation/86055,Renaissance Golf Course,,course,,,active,18,,,,,https://www.renaissancegolfcourse.com,,,,NJ,,US,40.042368,-74.2678487,2026-10-11T15:06:41Z
 092a3e0e-7364-40f7-b5c4-b77dfb5dc10d,way/407396109,,,course,,,active,,,,,,,,,,NJ,,US,40.8164115,-74.274491,2026-10-11T15:12:15Z
 09f9957e-9d3c-4681-a8d3-d295b871eebe,relation/10533447,Spring Meadow Golf Course,,course,,,active,18,72,,,,,,,,NJ,,US,40.1530899,-74.1256401,2026-10-11T15:12:38Z
-0ad5d178-7a1f-48a2-9ea2-2e05e938e6ae,way/39648747,Lake Lackawanna Golf Course,,course,,,active,,17,,,,,,131 Lake Dr,Stanhope,NJ,,US,40.9495273,-74.6958041,2026-10-11T15:11:51Z
+0ad5d178-7a1f-48a2-9ea2-2e05e938e6ae,way/39648747,Lake Lackawanna Golf Course,,course,,,active,,,,,,,,131 Lake Dr,Stanhope,NJ,,US,40.9495273,-74.6958041,2026-10-11T15:11:51Z
 0c2ec2a5-b6a9-4558-bfbf-66e4fa003ae4,way/40321107,,,course,,,active,9,38,,,,,,,,NJ,,US,39.8234744,-75.1694062,2026-10-11T13:29:39Z
 0d8c6c98-1e25-40ea-9817-d1e554e9c179,way/29018535,B L England Golf Course,,course,,,active,,,,,,,,,,NJ,,US,39.2839424,-74.634028,2026-10-11T15:11:49Z
 0db4a6b6-ecbf-4cb8-b7d4-94c010c95fb6,way/40137081,Former Green Brook Country Club,,course,,,active,,,,,,,,,,NJ,,US,40.8670778,-74.2709363,2026-10-11T15:11:51Z
@@ -38,18 +38,18 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 1aeb08cb-f11c-4b29-b228-1946705c4c9a,relation/9932394,Arthur Hills Championship Course,,course,,,active,,,,,,,,,,NJ,,US,39.7841678,-74.2261134,2026-10-11T15:12:38Z
 1b648417-8a91-40ec-b439-b03ee83e5677,way/42061962,,,course,,,active,,,,,,,,,,NJ,,US,40.6339265,-74.7818058,2026-10-11T15:11:53Z
 1cd3a2e7-fe47-43c2-95d2-3f35d3b08436,way/39648486,Mount Tabor Golf Course,,course,,,active,18,71,,,,,,,,NJ,,US,40.8720747,-74.4729196,2026-10-11T15:11:51Z
-1cfb6fcc-f76d-4920-9998-4faab2dec7d4,way/40162040,,,course,,,active,,3,,,,,,,,NJ,,US,40.1866283,-74.1534997,2026-10-11T15:06:03Z
+1cfb6fcc-f76d-4920-9998-4faab2dec7d4,way/40162040,,,course,,,active,,,,,,,,,,NJ,,US,40.1866283,-74.1534997,2026-10-11T15:06:03Z
 1d87ab74-14dc-4be4-9482-14461daf7f16,way/40139379,Willis Athletics Training Center at Raritan Golf Range,,practice,,,active,,,,,,,,101 Orlando Drive,Raritan,NJ,08869,US,40.5656352,-74.6268926,2026-10-11T15:11:51Z
 1e06008f-5668-4ff3-a007-f8b8bcc8fb80,way/26697055,Greate Bay Resort and Country Club,,course,,,active,18,,,,,,,,,NJ,,US,39.3149243,-74.61184,2026-10-11T15:11:49Z
 1e21ff25-611a-42e2-a673-0b813d54598e,way/40419138,,,course,,,active,18,70,,,+1 908 526 0010,https://www.foxhollowgc.com/,,,,NJ,,US,40.6170399,-74.7055352,2026-10-11T15:11:51Z
 1e608dbc-f12c-41a5-9ce9-130380730cf4,way/27342467,Springdale Golf Club,,course,,,active,,,,,,,,1895 Clubhouse Drive,Princeton,NJ,08540,US,40.338003,-74.6610287,2026-10-11T15:11:49Z
-1eb9a269-def7-4971-803a-4a2ee0f1f27d,way/28571097,Harbor Pines Golf Club,,course,,,active,,68,,,,,,,,NJ,,US,39.3486908,-74.6185804,2026-10-11T13:29:34Z
+1eb9a269-def7-4971-803a-4a2ee0f1f27d,way/28571097,Harbor Pines Golf Club,,course,,,active,,,,,,,,,,NJ,,US,39.3486908,-74.6185804,2026-10-11T13:29:34Z
 1efc9ef5-3214-4398-9eae-efecc6fcdc66,relation/233270,,,course,,,active,18,,,,,,,,,NJ,,US,39.5132007,-74.8867159,2026-10-11T15:12:30Z
 22a40e85-18ed-4fe8-bb86-4cfb93ba6e52,way/26697046,Seaview Golf Club Pines Course,,course,,,active,18,71,,,,,,,,NJ,,US,39.4490167,-74.4806497,2026-10-11T15:11:49Z
 23715b06-17aa-4f47-bcdf-6a8a99b97bdc,way/40320578,,,course,,,active,,,,,,,,,,NJ,,US,39.1685325,-74.7603648,2026-10-11T15:11:51Z
-2453eca9-bfb8-4386-9a75-0ab69ef2b684,way/698906445,Neshanic Valley Golf Course,,course,,,active,,4,,,,,,,,NJ,,US,40.5279609,-74.7172501,2026-10-11T13:30:58Z
+2453eca9-bfb8-4386-9a75-0ab69ef2b684,way/698906445,Neshanic Valley Golf Course,,course,,,active,,,,,,,,,,NJ,,US,40.5279609,-74.7172501,2026-10-11T13:30:58Z
 2454c603-f02d-47b1-94b9-287a1370eadf,way/40164760,,,course,,,active,,,,,,,,,,NJ,,US,40.5825128,-74.6373223,2026-10-11T13:29:39Z
-257b2079-c8e6-46bc-9e77-34396ed4101d,relation/229863,McCullough's Emerald Golf Links,,course,,,active,,68,,,,,,,,NJ,,US,39.3584852,-74.6109366,2026-10-11T13:31:18Z
+257b2079-c8e6-46bc-9e77-34396ed4101d,relation/229863,McCullough's Emerald Golf Links,,course,,,active,,,,,,,,,,NJ,,US,39.3584852,-74.6109366,2026-10-11T13:31:18Z
 26007a66-0837-4927-a51e-82dd1b94426e,way/39680135,Rock Spring Golf Club at West Orange,,course,,,active,,,,,,,,90 Rock Spring Road,West Orange,NJ,07052,US,40.7678031,-74.267992,2026-10-11T15:06:03Z
 26ca5035-5e5a-4b4d-bdd2-da1167b276a3,way/27877509,Vineyard Golf at Renault Winery,,course,,,active,18,73,,,,,,,,NJ,,US,39.5436539,-74.5972096,2026-10-11T15:11:49Z
 277d3a65-f19f-4d4e-89f5-3aabe3346408,relation/14176101,Pine Barrens Golf Club,,course,,,active,18,72,,,,,,,,NJ,,US,40.0593194,-74.2935327,2026-10-11T13:31:42Z
@@ -75,18 +75,18 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 39ee2441-a8e0-4d88-ac92-2d9841f6a059,way/670131086,Hollywood Golf Club,,course,,,active,18,72,,,,,,510 Roseld Avenue,Ocean Township,NJ,07712,US,40.2504078,-74.0243066,2026-10-11T15:06:32Z
 3ad04705-a13e-4789-b8d0-85de87a9fb6a,way/39680266,Colonia Country Club,,course,,,active,,,,,+1 732 381 9500,http://coloniacc.net/,,300 Colonia Boulevard,Rahway,NJ,07067,US,40.5869186,-74.302557,2026-10-11T15:11:51Z
 3b07f561-5cb6-478a-826b-ae850b5b00a0,relation/223770,Newton Country Club,,course,,,active,,,,,+1-973-383-4817,http://www.newtoncountryclub.org/,,25 Club Rd,Newton,NJ,,US,41.047139,-74.7243522,2026-10-11T15:12:30Z
-3be65397-23ad-4c0b-a169-f04958eaa225,way/55327296,Cascades Golf Club,,course,,,active,,51,,,,,,,,NJ,,US,41.1593783,-74.5529165,2026-10-11T15:11:55Z
+3be65397-23ad-4c0b-a169-f04958eaa225,way/55327296,Cascades Golf Club,,course,,,active,,,,,,,,,,NJ,,US,41.1593783,-74.5529165,2026-10-11T15:11:55Z
 3c017629-6032-476f-8cfe-d5613f4577e3,way/44108723,The Ridgewood Country Club,,course,,,active,18,71,,,+1 201-599-3900,https://www.rcc1890.com/,,96 West Midland Avenue,Paramus,NJ,07652,US,40.942722,-74.079312,2026-10-11T15:11:53Z
 3c42164a-3989-461e-8bc4-ca620d02b35f,way/427306875,,,course,,,active,,,,,,,,,,NJ,,US,40.7682959,-74.3813099,2026-10-11T15:06:28Z
 3ef63f1d-0b34-4e7c-b492-54901f217343,way/39680724,Cobblestone Creek Country Club,,course,,,active,18,,,,+1 609 896 0259,https://www.greenacres.club/,,2170 Lawrence Road,Lawrence Township,NJ,08648,US,40.2803213,-74.72528,2026-10-11T15:11:51Z
 3eff232c-7ca2-4b11-ae49-9bae1e5342e1,way/40165253,,,course,,,active,,,,,,,,,,NJ,,US,40.7935904,-74.3581129,2026-10-11T15:11:51Z
-3f04c990-07be-41d3-975e-ae3d7ec6ea12,way/40136694,Francis Byrne Golf Course,,course,,,active,,58,,,+1 973 736 2306,https://www.essexcountyparks.org/golf/francis-byrne-golf-course,,Pleasant Valley Way,West Orange,NJ,07052,US,40.787813,-74.2687409,2026-10-11T15:11:51Z
+3f04c990-07be-41d3-975e-ae3d7ec6ea12,way/40136694,Francis Byrne Golf Course,,course,,,active,,,,,+1 973 736 2306,https://www.essexcountyparks.org/golf/francis-byrne-golf-course,,Pleasant Valley Way,West Orange,NJ,07052,US,40.787813,-74.2687409,2026-10-11T15:11:51Z
 418050f0-3392-4d63-aa9a-e615fb780c68,way/40369688,Navesink Country Club,,course,,,active,,,,,,,,,,NJ,,US,40.3727869,-74.06224,2026-10-11T15:11:51Z
 42d9f9a8-7be8-4f59-aaec-b35b9771e7ba,way/41915398,Walkhill Golf Club Franklin,,course,,,active,,,,,,,,34 Maple Road,Franklin,NJ,07416,US,41.1129172,-74.5951343,2026-10-11T15:11:53Z
 44f47a0f-9850-453d-8e28-c12f91b2d79b,way/40149863,,,course,,,active,18,,,,,,,,,NJ,,US,40.2221868,-74.3766328,2026-10-11T15:11:51Z
-45c071b1-5144-4336-8aed-74a1cdc432e0,way/42062157,Architects Golf Club,,course,,,active,,5,,,,,,,,NJ,,US,40.7098436,-75.1477847,2026-10-11T15:11:53Z
+45c071b1-5144-4336-8aed-74a1cdc432e0,way/42062157,Architects Golf Club,,course,,,active,,,,,,,,,,NJ,,US,40.7098436,-75.1477847,2026-10-11T15:11:53Z
 463072fc-0009-4e66-8f47-74f61bf3e791,relation/12621210,Greenbriar Woodlands Golf Club,,course,,,active,,,,,,,,,,NJ,,US,40.0302051,-74.193279,2026-10-11T15:12:41Z
-464353bd-f066-48fb-8bf3-5263cba3646c,way/39681185,Canoe Brook Country Club North Course,,course,,,active,,68,,,,,,,,NJ,,US,40.7382251,-74.3561175,2026-10-11T15:11:51Z
+464353bd-f066-48fb-8bf3-5263cba3646c,way/39681185,Canoe Brook Country Club North Course,,course,,,active,,,,,,,,,,NJ,,US,40.7382251,-74.3561175,2026-10-11T15:11:51Z
 46f1e16a-a14a-4d5e-8f9a-361695ff4c6b,way/713832729,Bel-Aire Golf Course,,course,,,active,,,,,,,,,,NJ,,US,40.153198,-74.0918664,2026-10-11T15:12:21Z
 48101009-5f20-47d6-912a-9153e504101b,relation/231857,Centerton Country Club,,course,,,active,,,,,,,,,,NJ,,US,39.5315135,-75.1499359,2026-10-11T15:12:30Z
 482fc1f3-879a-4934-ade3-dadd93128914,relation/222677,Fairmount Country Club,,course,,,active,18,72,,,+1-973-377-8900,https://www.fairmountcc.com/Home,,400 Southern Boulevard,Chatham,NJ,07928,US,40.7376503,-74.4240713,2026-10-11T15:12:30Z
@@ -94,22 +94,22 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 48f786d7-b12e-4296-9188-7dc36a89d62e,way/34362788,Moorestown Field Club,,course,,,active,9,36,,,,,,,,NJ,,US,39.9778492,-74.9447896,2026-10-11T15:11:51Z
 4a4448e2-3547-44b5-96f8-5a20e3cda4d7,relation/9932366,,,course,,,active,18,70,,,,,,,,NJ,,US,40.2613607,-74.3748853,2026-10-11T15:12:38Z
 4adaacef-e2ae-4175-9f78-ad08525c31e8,way/1113133786,Blair Academy,,course,,,active,,,,,,,,,,NJ,,US,40.9855903,-74.9666807,2026-10-11T15:12:24Z
-4c03ffe8-d3db-4e4d-acfe-fc4da2aac87f,way/1454502458,,,course,,,active,,13,,,,,,,,NJ,,US,40.5812787,-74.8117786,2026-10-11T15:12:29Z
+4c03ffe8-d3db-4e4d-acfe-fc4da2aac87f,way/1454502458,,,course,,,active,,,,,,,,,,NJ,,US,40.5812787,-74.8117786,2026-10-11T15:12:29Z
 4d174423-7725-4a3d-8eb4-75595b101feb,relation/223743,East Orange Golf Course,,course,,,active,18,71,,,,,,,,NJ,,US,40.7524124,-74.3445442,2026-10-11T13:31:18Z
-4e6bbb9d-106d-4209-ba90-24f19e74578a,relation/223730,Ash Brook Golf Course,,course,,,active,,8,,,+1 907 756 0414,https://www.ashbrookgolfcourse.com/,,1210 Raritan Road,Scotch Plains,NJ,07076,US,40.6103911,-74.3661357,2026-10-11T13:31:18Z
+4e6bbb9d-106d-4209-ba90-24f19e74578a,relation/223730,Ash Brook Golf Course,,course,,,active,,,,,+1 907 756 0414,https://www.ashbrookgolfcourse.com/,,1210 Raritan Road,Scotch Plains,NJ,07076,US,40.6103911,-74.3661357,2026-10-11T13:31:18Z
 4ea0829c-5c98-43ae-bbf4-d04db5c94d1b,way/28571068,Ballamor Golf Club,,course,,,active,18,72,,,,,,,,NJ,,US,39.3775733,-74.6526987,2026-10-11T15:11:49Z
 4f1e66c6-23de-44fd-8708-ee4c1d7a1591,way/40998504,Atlantic City Golf Club,,course,,,active,18,,,,,,,,,NJ,,US,39.3674028,-74.542582,2026-10-11T15:06:05Z
 4f38c9a5-9774-4f89-9b52-b0f310a814a8,relation/276870,,,course,,,active,,,,,,,,,,NJ,,US,40.4668444,-74.8670539,2026-10-11T13:31:18Z
 526493e8-ce32-4a05-adfc-1c119115641e,way/934105967,,,course,,,active,,,,,,,,,,NJ,,US,40.351246,-74.0945022,2026-10-11T15:12:23Z
 526bf82e-c453-4b24-907e-692c03d8c75a,node/12006507319,Old Bridge Golf Club at Rose-Lambertson,,course,,,active,,,,,,,,157 Lambertson Road,Matawan,NJ,07747,US,40.418108,-74.2743096,2026-10-11T13:29:32Z
 538e0021-71b4-471e-9c63-11c15205eed4,way/40180579,Cranbury Golf Club,,course,,,active,,,,,,,,,,NJ,,US,40.2810735,-74.593743,2026-10-11T15:11:51Z
-53f9bde7-2e0c-49c6-ad35-7eab534fa13c,way/40407200,,,course,,,active,,4,,,,,,,,NJ,,US,39.7947988,-75.0095506,2026-10-11T15:11:51Z
+53f9bde7-2e0c-49c6-ad35-7eab534fa13c,way/40407200,,,course,,,active,,,,,,,,,,NJ,,US,39.7947988,-75.0095506,2026-10-11T15:11:51Z
 551df563-b144-4bcc-b252-bb57ead642f2,way/1434075248,First Tee Course,,course,,,active,,,,,,,,,,NJ,,US,40.0906306,-74.1884287,2026-10-11T15:12:29Z
 57598f8f-e769-4638-98b3-d57017de6df9,relation/3956372,Farmstead Golf and Country club,,course,,,active,18,71,,,,,,88 Lawrence Road,Lafayette,NJ,,US,41.0518831,-74.7035606,2026-10-11T15:12:35Z
-57c93dab-79c2-4acf-ad22-be7a15128532,way/713872715,Fiddler's Elbow Country Club,,course,,,active,,60,,,+1 908-439-2123,https://www.fiddlerselbowcc.com/,,811 Rattlesnake Bridge Road,Bedminster,NJ,07921,US,40.6411721,-74.7322219,2026-10-11T15:12:21Z
+57c93dab-79c2-4acf-ad22-be7a15128532,way/713872715,Fiddler's Elbow Country Club,,course,,,active,,,,,+1 908-439-2123,https://www.fiddlerselbowcc.com/,,811 Rattlesnake Bridge Road,Bedminster,NJ,07921,US,40.6411721,-74.7322219,2026-10-11T15:12:21Z
 58437f9d-be84-4e53-ab24-8a9cd594352b,way/40331562,Indian Spring Country Club,,course,,,active,18,70,,,,,,,,NJ,,US,39.8813612,-74.8905335,2026-10-11T15:11:51Z
-5a0947fc-ac1d-42b0-b458-69dbd11469d1,way/44108676,Paramus Golf Course,,course,,,active,,68,,,+1-201-447-6079,https://www.paramusgolfcourse.com/,,314 Paramus Road,Paramus,NJ,07652,US,40.9461081,-74.088453,2026-10-11T15:11:53Z
-5a248af4-cb30-4e4d-abfe-1f0d29b57bb1,way/39854038,TPC Jasna Polana,,course,,,active,,69,,,,,,,,NJ,,US,40.3346243,-74.695527,2026-10-11T13:29:39Z
+5a0947fc-ac1d-42b0-b458-69dbd11469d1,way/44108676,Paramus Golf Course,,course,,,active,,,,,+1-201-447-6079,https://www.paramusgolfcourse.com/,,314 Paramus Road,Paramus,NJ,07652,US,40.9461081,-74.088453,2026-10-11T15:11:53Z
+5a248af4-cb30-4e4d-abfe-1f0d29b57bb1,way/39854038,TPC Jasna Polana,,course,,,active,,,,,,,,,,NJ,,US,40.3346243,-74.695527,2026-10-11T13:29:39Z
 5a304335-156b-4dcc-96a9-c2fb1834cc23,way/39835869,Baltusrol Golf Course,,course,,,active,18,72,,,,,,201 Shunpike Road,Springfield,NJ,07081,US,40.6983726,-74.3334465,2026-10-11T15:11:51Z
 5b0135ce-4650-4b69-a830-4ae3d39008a9,way/42059008,,,course,,,active,,,,,,,,,,NJ,,US,40.6045367,-75.1096731,2026-10-11T15:11:53Z
 5b9612a9-09e2-4695-878c-ad64836e5132,way/39681930,Deal Golf and Country Club,,course,,,active,,,,,,,,1 Golf Lane,Deal,NJ,07723,US,40.2467193,-74.0123503,2026-10-11T15:11:51Z
@@ -122,8 +122,8 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 605a092b-c5ce-43c6-88b3-701c68fdebbd,way/39830610,Ramsey Golf and Country Club,,course,,,active,,,,,,,,,,NJ,,US,41.0505173,-74.133723,2026-10-11T13:29:39Z
 60ac552e-b820-416d-85e5-a54e76d79c64,relation/21375375,Canoe Brook Country Club,,course,,,active,,,,,,https://www.canoebrook.org/,,1108 Morris Turnpike,Summit,NJ,07901,US,40.7357467,-74.3581944,2026-10-11T13:31:51Z
 63597867-f29a-4b5c-b86e-099f27dc4191,way/40512889,,,course,,,active,,,,,,,,,,NJ,,US,40.1155399,-74.6921818,2026-10-11T15:11:51Z
-640de7bf-7405-44d7-bbcc-81b112fadba3,way/40136692,Essex County Country Club,,course,,,active,,54,,,+1 973 731 1400,https://www.essexcountycc.com/,,350 Mount Pleasant Avenue,West Orange,NJ,07052,US,40.784233,-74.2620303,2026-10-11T15:06:03Z
-6545d1d3-d19f-4c9c-9fbf-3b9dc45af6a3,way/1453968266,Cherry Valley Country Club,,course,,,active,,61,,,,,,,,NJ,,US,40.3992092,-74.710544,2026-10-11T15:12:29Z
+640de7bf-7405-44d7-bbcc-81b112fadba3,way/40136692,Essex County Country Club,,course,,,active,,,,,+1 973 731 1400,https://www.essexcountycc.com/,,350 Mount Pleasant Avenue,West Orange,NJ,07052,US,40.784233,-74.2620303,2026-10-11T15:06:03Z
+6545d1d3-d19f-4c9c-9fbf-3b9dc45af6a3,way/1453968266,Cherry Valley Country Club,,course,,,active,,,,,,,,,,NJ,,US,40.3992092,-74.710544,2026-10-11T15:12:29Z
 677819b6-d1f8-4ccc-be8b-7c5e40ddb52d,way/39847755,Plainfield Country Club,,course,,,active,18,72,,,+1 908 757 1800,https://www.plainfieldcc.com/,,1591 Woodland Avenue,Edison,NJ,08820,US,40.5934815,-74.3856459,2026-10-11T15:06:03Z
 6828d8ec-bf0f-4e15-b492-ec67b9c1983c,way/1144889005,Salem Country Club,,course,,,active,,,,,,,,,,NJ,,US,39.5589989,-75.5118214,2026-10-11T13:31:09Z
 6913e748-46f1-478d-b55c-f6cf77642520,relation/10409867,,,course,,,active,,,,,,,,,,NJ,,US,41.0156105,-74.8282997,2026-10-11T15:12:38Z
@@ -135,7 +135,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 6fd4250f-e3d4-4548-ad02-50046f5b782c,way/1553879921,Trout National,,course,,,active,,,,,,https://www.troutnational-thereserve.com/,,,,NJ,,US,39.4182116,-75.0081119,2026-10-11T15:12:30Z
 704cc078-53fa-460e-8ce7-039147b206bb,way/231765336,Minerals Family Golf Center,,course,,,active,,,,,,,,,,NJ,,US,41.1800926,-74.5229887,2026-10-11T15:12:03Z
 70701a2b-fe36-4a79-b36a-db992a26c692,relation/227520,Battleground Country Club,,course,,,active,18,71,,,+1 732-462-7575,https://www.battlegroundcc.com/,,1 Covenhoven Road,Manalapan,NJ,07726,US,40.2632993,-74.3354372,2026-10-11T15:12:30Z
-71ab3840-2d70-4e42-94a2-95c90f2450fa,relation/227731,Galloping Hill Golf Course,,course,,,active,,63,,,,,,,,NJ,,US,40.6851578,-74.2825631,2026-10-11T15:12:30Z
+71ab3840-2d70-4e42-94a2-95c90f2450fa,relation/227731,Galloping Hill Golf Course,,course,,,active,,,,,,,,,,NJ,,US,40.6851578,-74.2825631,2026-10-11T15:12:30Z
 736adccf-9e40-4591-bc3c-711951f58cff,way/40206829,Hidden Acres golf Course,,course,,,active,9,35,,,+1-973-948-2000,https://hiddenacresgolfnj.com/,,,,NJ,,US,41.2638348,-74.8074694,2026-10-11T15:11:51Z
 73a4939b-35d2-489e-9e09-4a9a942f66b3,way/842875702,,,course,,,active,,,,,,,,,,NJ,,US,40.0390905,-74.171849,2026-10-11T15:12:23Z
 776f25bf-5a00-435b-b27b-ebb6bfbded2b,way/220048569,Ballyowens Golf Club,,course,,,active,18,72,,,+1-855-977-6473,https://www.crystalgolfresort.com/golf/courses/ballyowen/,,,,NJ,,US,41.1372872,-74.5845985,2026-10-11T13:30:07Z
@@ -144,7 +144,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 79e87340-7f67-4749-89cc-8294c1c431b7,way/28355201,Sea Oaks Golf Club,,course,,,active,,,,,,,,,,NJ,,US,39.6202884,-74.3307586,2026-10-11T13:29:34Z
 7a2afdac-355c-46b2-823c-8feec9e6a19c,way/41777149,Hopewell Valley Golf & Country Club,,course,,,active,,,,,,https://golfmercercounty.com,,114 Pennington-Hopewell Road,Hopewell,NJ,08525,US,40.3624178,-74.7845907,2026-10-11T13:29:44Z
 7a5261a4-6205-487a-a41e-34e6e4b8df43,way/40225803,Trenton Country Club,,course,,,active,,,,,,https://www.trentoncc.com/,,,,NJ,,US,40.2448038,-74.8143002,2026-10-11T13:29:39Z
-7c75bf0e-5d20-4707-8209-52e0ae65f7a4,relation/19888144,,,course,,,active,,11,,,,,,,,NJ,,US,40.390862,-74.7185324,2026-10-11T15:06:54Z
+7c75bf0e-5d20-4707-8209-52e0ae65f7a4,relation/19888144,,,course,,,active,,,,,,,,,,NJ,,US,40.390862,-74.7185324,2026-10-11T15:06:54Z
 7cab741b-c5a0-4b49-bf71-0856f73577bd,relation/144754,Laurel Creek Golf Course,,course,,,active,18,71,,,,,,,,NJ,,US,39.9924613,-74.8946002,2026-10-11T15:12:30Z
 7edf3795-2f26-4945-b48b-0c4bb6af1c9c,way/40183254,Peddie School Golf Course,,course,,,active,,,,,,,,,,NJ,,US,40.2539812,-74.5226641,2026-10-11T15:11:51Z
 7f6fd8e0-1d0f-4cdf-a9c8-1b3fa00acef6,way/31846574,Woodlake Country Club,,course,,,active,,,,,,,,,,NJ,,US,40.091418,-74.1678179,2026-10-11T15:11:51Z
@@ -154,9 +154,9 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 8349857a-bb63-469c-844d-2ee108676ed1,way/687995959,Ridge at Back Brook,,course,,,active,18,72,,,,,,,,NJ,,US,40.4418595,-74.8263434,2026-10-11T15:12:21Z
 83d1c769-59bc-4c37-b057-dc9cb674e670,relation/19370694,Eagle Oaks Golf and Country Club,,course,,,active,,,,,,,,,,NJ,,US,40.2137196,-74.1561225,2026-10-11T15:06:54Z
 85607a97-338c-4b7b-889e-e405c1bf74a9,way/39680642,,,course,,,active,,,,,,,,,,NJ,,US,40.2294708,-74.0327678,2026-10-11T15:11:51Z
-85969ebf-453d-4156-b308-1ebf5bcb6f8e,way/40161149,Metedeconk National Golf Club,,course,,,active,,67,,,,,,,,NJ,,US,40.1612058,-74.3365209,2026-10-11T15:11:51Z
+85969ebf-453d-4156-b308-1ebf5bcb6f8e,way/40161149,Metedeconk National Golf Club,,course,,,active,,,,,,,,,,NJ,,US,40.1612058,-74.3365209,2026-10-11T15:11:51Z
 878c5eae-3e4f-4d7a-a1b9-306af019d0ce,relation/12184215,Eagle Ridge Golf Club,,course,,,active,9,36,,,,,,,,NJ,,US,40.0630225,-74.2505163,2026-10-11T15:12:41Z
-87bc9140-3204-462c-b566-6344aea73b7f,way/40220034,,,course,,,active,,4,,,,,,,,NJ,,US,40.5791429,-74.8068703,2026-10-11T13:29:39Z
+87bc9140-3204-462c-b566-6344aea73b7f,way/40220034,,,course,,,active,,,,,,,,,,NJ,,US,40.5791429,-74.8068703,2026-10-11T13:29:39Z
 8c42ad4d-e686-48a0-bbcf-3b2d7c6028ce,way/451650105,Black Oak Golf Club,,course,,,active,,,,,,,,,,NJ,,US,40.8026654,-74.7328557,2026-10-11T15:12:17Z
 8c64eb7d-66ec-47d1-be1a-5268fe9df86e,relation/228290,Beaver Brook Country Club,,course,,,active,,,,,+1 908-735-4200,https://www.beaverbrookcc.com/,,25 Country Club Drive,Annandale,NJ,08801,US,40.6330006,-74.8955349,2026-10-11T15:12:30Z
 8cb1668d-c8ab-4d7a-8b58-074c8030ef12,relation/233743,Deerwood Country Club,,course,,,active,,,,,,,,,,NJ,,US,40.0168761,-74.7933058,2026-10-11T15:12:30Z
@@ -166,10 +166,10 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 8eccb066-5913-4f46-9927-59f9410d38ec,way/32432163,Ocean County Golf Course at Forge Pond,,course,,,active,,,,,,,,,,NJ,,US,40.0700612,-74.144706,2026-10-11T15:11:51Z
 904bf715-378f-4d37-9e58-da7722605c73,relation/21145348,Manasquan River Golf Club,,course,,,active,18,72,,,,,,,,NJ,,US,40.1033157,-74.066769,2026-10-11T15:06:54Z
 90a18273-4bd8-44d1-b727-dc1d996f7129,way/39680283,Shackamaxon Country Club,,course,,,active,18,,,,,https://www.shackamaxoncc.com/,,100 Tillinghast Turn,Scotch Plains,NJ,07076,US,40.6275663,-74.3517437,2026-10-11T15:11:51Z
-918b065b-8fe5-4580-b1ce-7b49963db6cb,way/1203838132,Trump National Philly,,course,,,active,,53,,,,,,,,NJ,,US,39.7877747,-75.0051703,2026-10-11T15:12:27Z
+918b065b-8fe5-4580-b1ce-7b49963db6cb,way/1203838132,Trump National Philly,,course,,,active,,,,,,,,,,NJ,,US,39.7877747,-75.0051703,2026-10-11T15:12:27Z
 91af99e9-c5fd-47ed-9136-58521d28bc16,way/40333487,Washington Township Municipal Golf Course,,course,,,active,,,,,,,,197 Fries Mill Road,Blackwood,NJ,08012,US,39.7341517,-75.0506802,2026-10-11T15:11:51Z
 92231633-3ce9-4090-b8ff-131b650c0209,way/39829930,Ramsey Golf and Country Club,,course,,,active,,,,,,,,,,NJ,,US,41.048119,-74.1373057,2026-10-11T15:11:51Z
-92295389-0c6b-41e5-9dec-4ef0c67a81e3,relation/270447,Berkshire Valley Golf Course,,course,,,active,,65,,,,http://www.golfmorriscounty.com/fees/berkshire-valley-fees.html,,28 Cozy Lake Road,Jefferson,NJ,,US,41.0030444,-74.5122411,2026-10-11T15:12:30Z
+92295389-0c6b-41e5-9dec-4ef0c67a81e3,relation/270447,Berkshire Valley Golf Course,,course,,,active,,,,,,http://www.golfmorriscounty.com/fees/berkshire-valley-fees.html,,28 Cozy Lake Road,Jefferson,NJ,,US,41.0030444,-74.5122411,2026-10-11T15:12:30Z
 92cfefee-a7ec-4687-9a0d-eb0f75762990,way/40164392,Quail Brook Golf Course,,course,,,active,18,72,,,+1-732-560-9199,https://www.quailbrookgolf.com/,,625 New Brunswick Road,Somerset,NJ,08873,US,40.5148523,-74.514788,2026-10-11T13:29:39Z
 9465791e-9fd0-45cb-8707-a10a63fdad3e,way/231765279,Minerals Family Golf Center,,course,,,active,,,,,,,,,,NJ,,US,41.1811926,-74.5238404,2026-10-11T15:12:03Z
 94807076-1b0a-42d8-802a-4816116b312e,way/28345662,Ocean County Golf Course at Atlantis,,course,,,active,,,,,,,,,,NJ,,US,39.5803216,-74.3574448,2026-10-11T15:11:49Z
@@ -197,15 +197,15 @@ a5c1d8cf-50f8-4692-b7dc-b4219f14c2ef,way/41775614,Mountain View Golf Course,,cou
 a747a87c-a108-4597-8dd8-3663f87773cf,way/33658436,Rancocas Golf Club,,course,,,active,,,,,,,,,,NJ,,US,40.0164534,-74.8967554,2026-10-11T15:11:51Z
 aa16f546-1181-425a-82bd-ebdcae0929bd,relation/11922099,Bey Lea Golf Course,,course,,,active,,,,,,,,,,NJ,,US,39.9898813,-74.1905865,2026-10-11T13:31:42Z
 aa2c4590-ff71-461c-bf16-8f340acc69aa,way/40386474,,,course,,,active,,,,,,,,,,NJ,,US,39.8284626,-74.8663561,2026-10-11T15:06:03Z
-aa805281-80aa-4516-8fc6-bab619c3c262,relation/279301,Knoll Country Club,,course,,,active,,55,,,,,,990 Greenbank Road,Boonton,NJ,,US,40.8951821,-74.3825925,2026-10-11T15:12:30Z
+aa805281-80aa-4516-8fc6-bab619c3c262,relation/279301,Knoll Country Club,,course,,,active,,,,,,,,990 Greenbank Road,Boonton,NJ,,US,40.8951821,-74.3825925,2026-10-11T15:12:30Z
 aadd7c16-4d45-488b-ab4b-bf28e6594b72,relation/9304038,White Beeches Golf and Country Club,,course,,,active,18,,,,,,,,,NJ,,US,40.9561765,-74.0070472,2026-10-11T15:12:38Z
 ab5e1b3e-4b33-47f6-97ea-3e3f7a104ad3,relation/18857099,,,practice,,,active,,,,,,,,,,NJ,,US,40.275839,-74.174422,2026-10-11T15:06:54Z
-abe3a967-9b01-4f79-b977-1134330db187,way/820204638,Pine Valley Country Club,,course,,,active,,32,,,,https://pinevalleycountryclub.com/,,,,NJ,,US,39.7878968,-74.9716827,2026-10-11T15:12:23Z
-ac03a332-3551-42f9-aedb-6286b7a45541,way/41776712,,,course,,,active,,61,,,,,,,,NJ,,US,40.4718015,-74.8495378,2026-10-11T15:11:53Z
+abe3a967-9b01-4f79-b977-1134330db187,way/820204638,Pine Valley Country Club,,course,,,active,,,,,,https://pinevalleycountryclub.com/,,,,NJ,,US,39.7878968,-74.9716827,2026-10-11T15:12:23Z
+ac03a332-3551-42f9-aedb-6286b7a45541,way/41776712,,,course,,,active,,,,,,,,,,NJ,,US,40.4718015,-74.8495378,2026-10-11T15:11:53Z
 ad370a72-0f9d-461f-92ae-162aaafa75d9,way/40139956,Warrenbrook Golf Course,,course,,,active,,,,,,,,,,NJ,,US,40.6134931,-74.4856133,2026-10-11T15:06:03Z
 ad895031-5826-46d1-8faf-4674fe599543,way/891029292,Deer Run Golf Club,,course,,,active,9,35,,,,,,,,NJ,,US,40.9151827,-74.3242158,2026-10-11T15:12:23Z
 add6e017-441c-44e5-ab29-f172595846a4,way/714627861,,,course,,,active,,,,,,,,,,NJ,,US,39.8484014,-74.8788016,2026-10-11T15:12:21Z
-af475c41-34dd-4c26-87a4-a14712bf8790,way/39681559,Spring Lake Golf Club,,course,,,active,,5,,,,,,,,NJ,,US,40.1497464,-74.0453868,2026-10-11T15:11:51Z
+af475c41-34dd-4c26-87a4-a14712bf8790,way/39681559,Spring Lake Golf Club,,course,,,active,,,,,,,,,,NJ,,US,40.1497464,-74.0453868,2026-10-11T15:11:51Z
 af5013d3-e9c1-45b6-a54b-83d81e5b8c96,way/190678941,Suneagles Golf Club,,course,,,active,18,72,,,+1-732-389-4300,https://www.suneaglesgolf.com/web/pages/home,,2000 Lowther Drive,Eatontown,NJ,07724,US,40.2993753,-74.073998,2026-10-11T15:12:01Z
 b00be3d8-1098-455c-9e1e-da8ed0be82af,way/41061070,Minebrook Golf Course,,course,,,active,18,70,,,,,,,,NJ,,US,40.8343406,-74.8160687,2026-10-11T15:11:53Z
 b035dc6a-4b2e-4e71-95fd-95c1e73c25b7,way/1136808155,,,course,,,active,,,,,,,,,,NJ,,US,39.4542412,-74.9868254,2026-10-11T15:12:27Z
@@ -217,14 +217,14 @@ b2939d3f-c619-4313-a645-6ff63e4e41b0,relation/11078349,The Shore Club,,course,,,
 b49ec35a-2fc9-428a-8776-077f937b3c0b,way/1102239715,,,course,,,active,,,,,,,,,,NJ,,US,40.2451786,-74.7683406,2026-10-11T15:12:24Z
 b538aa61-2a9d-451a-82db-74bfa740845e,way/468893370,Coakley-Russo Memorial Golf Course,,course,,,active,,,,,,,,,,NJ,,US,40.6654237,-74.5539258,2026-10-11T13:30:48Z
 b5bd57bb-d0ec-4b89-8047-04227af818c7,way/27459421,Liberty National Golf Club,,course,,,active,18,72,,,+1-201-333-4105,http://www.libertynationalgc.com,,100 Caven Point Road,Jersey City,NJ,07305,US,40.6939989,-74.0744617,2026-10-11T15:11:49Z
-b6826744-c632-4463-953d-8b1f067b4af1,way/1454502456,,,course,,,active,,15,,,,,,,,NJ,,US,40.5755808,-74.8103287,2026-10-11T15:12:29Z
+b6826744-c632-4463-953d-8b1f067b4af1,way/1454502456,,,course,,,active,,,,,,,,,,NJ,,US,40.5755808,-74.8103287,2026-10-11T15:12:29Z
 b7200b83-b932-4bb1-a3d2-30242ce87c1a,way/717310664,,,course,,,active,,,,,,,,,,NJ,,US,39.9480859,-74.9820376,2026-10-11T15:12:21Z
 b7ccfb71-5cc9-44aa-8c9f-ebc74f1eb3f6,way/40136721,,,course,,,active,,,,,,,,,,NJ,,US,40.7777917,-74.5635439,2026-10-11T13:29:39Z
-b7ee911b-2607-47ca-9796-1c46e7f6142c,way/32212357,Cedar Creek Golf Club,,course,,,active,,69,,,,,,,,NJ,,US,39.8863319,-74.2028026,2026-10-11T15:11:51Z
+b7ee911b-2607-47ca-9796-1c46e7f6142c,way/32212357,Cedar Creek Golf Club,,course,,,active,,,,,,,,,,NJ,,US,39.8863319,-74.2028026,2026-10-11T15:11:51Z
 b81814ec-3acb-432e-8d66-00eccd358010,way/39830995,Willowbrook Golf Center,,course,,,active,,,,,,,,366 US-46,Wayne,NJ,07470,US,40.892696,-74.2474879,2026-10-11T15:11:51Z
-b8da9ecd-03a1-4fcc-a52e-f49af3c72577,way/40720134,Sky View Golf & Banquets,,course,,,active,,25,,,,,,,,NJ,,US,41.055633,-74.6478904,2026-10-11T15:11:53Z
-b8e7df48-dc9b-4d8d-bf39-b26aafb70479,relation/3354115,,,course,,,active,,63,,,,,,,,NJ,,US,39.1809308,-74.7449544,2026-10-11T15:06:43Z
-b9af3684-ab2f-456c-b6f7-224563e9f897,way/1454502455,,,course,,,active,,4,,,,,,,,NJ,,US,40.5767295,-74.8076559,2026-10-11T15:12:29Z
+b8da9ecd-03a1-4fcc-a52e-f49af3c72577,way/40720134,Sky View Golf & Banquets,,course,,,active,,,,,,,,,,NJ,,US,41.055633,-74.6478904,2026-10-11T15:11:53Z
+b8e7df48-dc9b-4d8d-bf39-b26aafb70479,relation/3354115,,,course,,,active,,,,,,,,,,NJ,,US,39.1809308,-74.7449544,2026-10-11T15:06:43Z
+b9af3684-ab2f-456c-b6f7-224563e9f897,way/1454502455,,,course,,,active,,,,,,,,,,NJ,,US,40.5767295,-74.8076559,2026-10-11T15:12:29Z
 bc7d1085-2713-4ba4-b9d6-a7acf394d477,way/39648062,,,course,,,active,,,,,,,,,,NJ,,US,41.0126266,-74.0154708,2026-10-11T15:11:51Z
 bd03782a-a2c2-40c2-9be9-fce8acbe8d6f,way/842277636,,,course,,,active,,,,,,,,,,NJ,,US,40.0297449,-74.1516905,2026-10-11T15:12:23Z
 bdb359ec-ed30-4ebe-a048-5793fc1ebac1,way/40164768,Plainfield West Nine,,course,,,active,9,33,,,+1-908-769-3672,https://www.castnergolf.com/plainfield-west-9/,,,Edison,NJ,,US,40.598916,-74.3922744,2026-10-11T15:11:51Z
@@ -232,14 +232,14 @@ bdee1053-2fd4-40b3-913e-406b71d7b467,relation/5362327,Bowling Green Golf Club,,c
 bf6f3ae3-4f95-4cae-92c0-0a1aee8191b9,relation/233465,Stone Harbor Golf Club,,course,,,active,,,,,,,,,,NJ,,US,39.1095854,-74.8129218,2026-10-11T15:12:30Z
 bf8d87ef-a20e-482b-905b-07cb58d69c59,node/11682355446,Panther Valley Golf & Country Club,,course,,,active,,,,,+1 908-850-0800,,,1 Forest Drive,Allamuchy Township,NJ,07820,US,40.9083016,-74.8306091,2026-10-11T13:29:32Z
 c05642a5-1daf-4bcc-abab-113e7c8e9667,way/695751794,Howell Park Golf Course,,course,,,active,18,72,,,,,,,,NJ,,US,40.1785509,-74.1798208,2026-10-11T15:12:21Z
-c12c2f40-5c73-4903-a78b-340970c8e513,way/39680957,Canoe Brook Country Club South Course,,course,,,active,,68,,,,,,,,NJ,,US,40.7336016,-74.3614416,2026-10-11T15:11:51Z
+c12c2f40-5c73-4903-a78b-340970c8e513,way/39680957,Canoe Brook Country Club South Course,,course,,,active,,,,,,,,,,NJ,,US,40.7336016,-74.3614416,2026-10-11T15:11:51Z
 c12ec1f6-13c1-40b5-88db-81cccdc40fd7,way/32430647,Lakewood Country Club,,course,,,active,18,72,,,,,,,,NJ,,US,40.1078463,-74.2473642,2026-10-11T15:06:03Z
 c1e3b422-60f7-471d-ae0f-ac78bd159176,relation/240569,Great Gorge,,course,,,active,,,,,,,,,,NJ,,US,41.1904289,-74.5257462,2026-10-11T15:12:30Z
 c2056b6f-c5ef-453d-a206-db99efef131d,way/40136848,,,course,,,active,,,,,,,,,,NJ,,US,40.82072,-74.1843875,2026-10-11T15:11:51Z
 c37d7bc7-7e72-4871-ad6f-9fecf4cde02c,way/34900077,Riverton Country Club,,course,,,active,,,,,,,,,,NJ,,US,40.0003559,-75.003482,2026-10-11T13:29:39Z
 c38a866d-aaef-455a-befc-6931b5be3b53,way/39647672,Upper Montclair Country Club,,course,,,active,18,72,,,,,,,,NJ,,US,40.8435051,-74.1742522,2026-10-11T15:11:51Z
 c4e2ef30-e59e-40f4-bcd1-097cc06534b9,way/220048565,Black Bear,,course,,,active,18,72,,,+1 855 977 6473,https://www.crystalgolfresort.com/golf/courses/black-bear/,,138 NJ 23,Franklin,NJ,07416,US,41.1161778,-74.573643,2026-10-11T15:12:03Z
-c549a2f0-3619-4e59-8716-24c0535fd476,way/268603774,Riverwinds Golf Course,,course,,,active,,67,,,,,,,,NJ,,US,39.8609666,-75.2000077,2026-10-11T15:12:07Z
+c549a2f0-3619-4e59-8716-24c0535fd476,way/268603774,Riverwinds Golf Course,,course,,,active,,,,,,,,,,NJ,,US,39.8609666,-75.2000077,2026-10-11T15:12:07Z
 c5fd7033-863f-44cc-bd1c-984155612eea,way/271044920,Twin Willows Par 3 Golf,,par3,,,active,,,,,,,,,,NJ,,US,40.9303068,-74.2914853,2026-10-11T15:06:19Z
 c6360da9-15c6-4775-b184-012c52bc73a1,way/40411335,Golden Pheasant Golf Course,,course,,,active,,,,,,,,,,NJ,,US,39.9389333,-74.7986135,2026-10-11T15:11:51Z
 c655188a-151c-46e0-bc51-4cf997ddb8c7,way/40136623,,,course,,,active,,,,,,,,,,NJ,,US,40.7673265,-74.3824491,2026-10-11T15:11:51Z
@@ -256,14 +256,14 @@ cbaa1bd8-d06b-49e5-b488-d0991d262596,way/39831264,Mountain Ridge Country Club,,c
 cc98f7d6-206e-413f-886c-43586c84d9ef,way/39648128,Crestmont Country Club,,course,,,active,,,,,,,,,,NJ,,US,40.8067822,-74.2762254,2026-10-11T15:11:51Z
 ccdab46b-c142-4803-869c-3eef076b8994,way/39681544,Fairway Mews Golf Club,,course,,,active,,,,,,,,,,NJ,,US,40.1548897,-74.0427218,2026-10-11T15:06:03Z
 cdb948ee-5685-40f2-9681-17e23d2bf4c8,way/40386525,,,course,,,active,,,,,,,,,,NJ,,US,39.8275554,-74.8627063,2026-10-11T15:11:51Z
-ce90cdf3-e78c-47b4-a35e-d1b1d60a0024,way/40407196,,,course,,,active,,7,,,,,,,,NJ,,US,39.7868102,-74.9989966,2026-10-11T15:11:51Z
+ce90cdf3-e78c-47b4-a35e-d1b1d60a0024,way/40407196,,,course,,,active,,,,,,,,,,NJ,,US,39.7868102,-74.9989966,2026-10-11T15:11:51Z
 cf7a5d63-164b-45a8-bf69-16fea23c02ea,way/271579815,Packanack Golf Club,,course,,,active,,,,,,,,7 Osborne Terrace,Wayne,NJ,07470,US,40.9308156,-74.2606576,2026-10-11T15:12:07Z
 cfb1f257-8ac0-4bff-93bb-e016a48f0fa7,way/40182033,,,course,,,active,,,,,,,,,,NJ,,US,41.3068061,-74.7545807,2026-10-11T15:11:51Z
 cfdfcfce-8c9b-4922-b94f-10ec6dcf78bd,way/40394795,,,course,,,active,,,,,,,,,,NJ,,US,39.8628698,-74.7928912,2026-10-11T15:11:51Z
 d05135ab-e158-46f0-8757-6fd773a6ec0d,way/39835783,Shady Rest Country Club,,course,,,active,,,,,,,,820 Jerusalem Road,,NJ,,US,40.6573692,-74.3754622,2026-10-11T15:11:51Z
 d1024628-4a12-4542-80ca-058c224cb91c,way/40145029,Pebble Creek Golf Club,,course,,,active,18,69,,,,,,,,NJ,,US,40.2839448,-74.1662056,2026-10-11T13:29:39Z
 d1ac3495-8a57-4453-bdda-c32c0138b160,way/40145517,,,course,,,active,,,,,,,,,,NJ,,US,40.3520111,-74.0960315,2026-10-11T13:29:39Z
-d347e9cb-af25-4a75-924a-bfec7cece345,way/40720631,Sky View Golf & Banquets,,course,,,active,,31,,,,,,,,NJ,,US,41.0497893,-74.6513125,2026-10-11T15:11:53Z
+d347e9cb-af25-4a75-924a-bfec7cece345,way/40720631,Sky View Golf & Banquets,,course,,,active,,,,,,,,,,NJ,,US,41.0497893,-74.6513125,2026-10-11T15:11:53Z
 d4dc9960-5f1d-49ee-8604-ee63c96d4378,relation/223651,Rockleigh Golf Course,,course,,,active,9,36,,,,,,,,NJ,,US,40.9972592,-73.9378547,2026-10-11T15:12:30Z
 d5e0d314-c5c2-4aa6-b2bf-a4df6dc64756,way/40206530,Culver Lake Golf Course,,course,,,active,,,,,,,,,,NJ,,US,41.1641293,-74.7673415,2026-10-11T15:11:51Z
 d7287ec9-0992-49e0-b9f4-1850ba4aa7af,way/273592481,Preakness Valley Golf Course,,course,,,active,18,71,,,,,,209 Totowa Road,Wayne,NJ,07470,US,40.9169982,-74.232341,2026-10-11T15:12:07Z
@@ -280,14 +280,14 @@ dd48a09d-8a44-49c9-b1e5-3ec9ff27308b,relation/14121465,Hendricks Field Golf Cour
 dd68228d-920a-48f0-9327-3d597e3768df,way/40339855,,,course,,,active,,,,,,,,,,NJ,,US,39.5012552,-74.9221435,2026-10-11T15:11:51Z
 ddbe6f11-bb2c-476b-bf71-b44791ae7d91,way/39680169,Raintree Golf Course,,course,,,active,,,,,,,,,,NJ,,US,40.2440793,-74.3103086,2026-10-11T15:11:51Z
 de54aa00-7874-4a02-b2f5-9e59c1d6a352,way/714955284,,,course,,,active,,,,,,,,,,NJ,,US,39.546794,-75.3130643,2026-10-11T15:12:21Z
-de6c7a81-74c5-4c58-810c-177ef8956498,way/714658698,,,course,,,active,,3,,,,,,,,NJ,,US,39.7869413,-75.0099666,2026-10-11T15:12:21Z
+de6c7a81-74c5-4c58-810c-177ef8956498,way/714658698,,,course,,,active,,,,,,,,,,NJ,,US,39.7869413,-75.0099666,2026-10-11T15:12:21Z
 df474ab8-5f49-48e3-b082-cce8556b94c3,way/39853529,,,course,,,active,,,,,,,,,,NJ,,US,40.2081558,-74.1611561,2026-10-11T15:11:51Z
 df75d91e-5698-4e71-9c54-a706e7e39c16,way/40164606,,,course,,,active,,,,,,,,,,NJ,,US,40.5418862,-74.4609217,2026-10-11T15:11:51Z
 dfab4823-bce1-49ea-888f-37b0706cdb34,way/39854594,Rutgers University Golf Course,,course,,,active,,,,,,,,,,NJ,,US,40.5183457,-74.4704107,2026-10-11T15:11:51Z
 dfb43c7f-61d4-4a62-8fc7-5b9751de2445,relation/18280915,Princeton Country Club,,course,,,active,,,,,,,,,,NJ,,US,40.3133173,-74.6726027,2026-10-11T13:31:51Z
 e0efc857-c9d5-444c-92bf-732317332fca,way/863148416,Pitman Golf Course,,course,,,active,,,,,,,,501 Pitman Road,Sewell,NJ,08080,US,39.7409184,-75.1540684,2026-10-11T15:12:23Z
 e0feb45e-db53-4468-b918-2dd5a411e8b2,way/273592487,,,course,,,active,,,,,,,,,,NJ,,US,40.915061,-74.2477859,2026-10-11T15:12:07Z
-e12c56d6-4912-481f-b9b3-7b119205ac15,relation/13403295,Glen Ridge Country Club,,course,,,active,,4,,,,https://glenridgecc.com/,,555 Ridgewood Avenue,Glen Ridge,NJ,07028,US,40.8213362,-74.1898319,2026-10-11T15:12:41Z
+e12c56d6-4912-481f-b9b3-7b119205ac15,relation/13403295,Glen Ridge Country Club,,course,,,active,,,,,,https://glenridgecc.com/,,555 Ridgewood Avenue,Glen Ridge,NJ,07028,US,40.8213362,-74.1898319,2026-10-11T15:12:41Z
 e135fbbd-f4fa-41d4-80f9-cd9705ccf1f3,way/40508489,Sakima Country Club,,course,,,active,,,,,,,,,,NJ,,US,39.6998825,-75.472119,2026-10-11T15:11:51Z
 e14012b4-4615-490c-a246-b2c6c01792ae,relation/14889342,Blair Golf Course,,course,,,active,9,,,,,,,2 Park Street,Blairstown,NJ,,US,40.9879532,-74.9678122,2026-10-11T15:12:43Z
 e2435bc7-d5fc-4b82-b20b-700e8a82161c,way/40164869,Trump National Golf Club Bedminster,,course,,,active,18,72,,,+1 908-470-4400,https://www.trumpnationalbedminster.com/,,900 Lamington Road,Bedminster,NJ,07921,US,40.6536157,-74.6981838,2026-10-11T15:06:03Z
@@ -298,7 +298,7 @@ e580eb76-f8d5-457c-a121-e235eed5d59d,way/40375312,Basking Ridge Country Club,,co
 e6a65cbc-0eb2-4722-9923-88ba5d113acb,way/39848921,Rockaway River Country Club,,course,,,active,18,,,,+1 973 627 0063,https://www.rockawayrivercc.com/,,39 Pocono Road,Denville,NJ,07834,US,40.8995321,-74.4632527,2026-10-11T15:11:51Z
 e729079e-47b7-46ec-8957-a94581c40336,way/40216799,Fairway Valley Golf Club,,course,,,active,,,,,+1 908-689-1530,https://www.fairwayvalleygolfclub.com/,,76 Mine Hill Road,Washington,NJ,07882,US,40.7810962,-74.991058,2026-10-11T15:11:51Z
 e7b2f5be-fc6a-4ae3-982a-d273bf88d3c7,way/28570652,Blue Heron Pines Golf Club,,course,,,active,,,,,,,,,,NJ,,US,39.4827569,-74.600041,2026-10-11T15:11:49Z
-e873878f-471d-4856-8a40-a0fa97db0a14,way/1507960268,Sky View Golf & Banquets,,course,,,active,,15,,,,,,,,NJ,,US,41.050365,-74.6562249,2026-10-11T15:12:29Z
+e873878f-471d-4856-8a40-a0fa97db0a14,way/1507960268,Sky View Golf & Banquets,,course,,,active,,,,,,,,,,NJ,,US,41.050365,-74.6562249,2026-10-11T15:12:29Z
 e93011c1-8f8f-47e0-8598-1618dac67b66,way/40182030,,,course,,,active,,,,,,,,,,NJ,,US,41.300382,-74.7648492,2026-10-11T15:11:51Z
 e9417f7a-3c6c-4266-8d20-5455bed2abe0,way/42061456,Hawk Pointe Golf Club,,course,,,active,,,,,+1 908-689-1870,https://www.hawkpointegolf.com/,,4 Clubhouse Drive,Washington,NJ,07882,US,40.7380822,-74.9684482,2026-10-11T15:11:53Z
 eaa418d2-ceeb-43da-8fdf-1f39cae9711e,way/40211969,,,course,,,active,,,,,,,,,,NJ,,US,41.0353584,-74.7083016,2026-10-11T13:29:39Z
@@ -308,7 +308,7 @@ eb4036d5-e86e-40d1-8ce3-8ed2fc2352d3,way/41914877,Arcola Country Club,,course,,,
 eb60a195-34a6-4832-8752-da1a2225be68,relation/11809362,,,course,,,active,,,,,,,,,,NJ,,US,39.0696179,-74.8220766,2026-10-11T15:12:41Z
 eb6c94ec-07d9-4869-af05-f98fbe82b5ae,way/40313557,Golf Land,,course,,,active,,,,,,,,Haddonfield-Berlin Road,Voorhees,NJ,,US,39.850533,-74.9776038,2026-10-11T15:11:51Z
 ebf5dd51-6073-4288-8cb0-ee440d05ec34,way/40164916,Weequahic Golf Course,,course,,,active,,,,,,,,,,NJ,,US,40.6968679,-74.2065624,2026-10-11T15:11:51Z
-ecb64a83-84d3-4d49-8853-d6d3feeb806a,way/666034004,"Trump National Golf Club, Colts Neck",,course,,,active,,52,,,,,,One Trump National Boulevard,Colts Neck,NJ,07722,US,40.2784079,-74.179628,2026-10-11T15:12:20Z
+ecb64a83-84d3-4d49-8853-d6d3feeb806a,way/666034004,"Trump National Golf Club, Colts Neck",,course,,,active,,,,,,,,One Trump National Boulevard,Colts Neck,NJ,07722,US,40.2784079,-74.179628,2026-10-11T15:12:20Z
 ee3ec865-b206-4b40-baf0-c785571eabae,way/231765322,Minerals Family Golf Center,,course,,,active,,,,,,,,,,NJ,,US,41.1780801,-74.520969,2026-10-11T15:12:03Z
 ee473e33-485d-416b-9628-bdf359239b5e,way/1295721420,Old Bridge Golf Course - The Rose Lambertson,,course,,,active,18,71,,,,https://www.obnjgolf.com/,,157 Lambertson Road,Matawan,NJ,07747,US,40.4144412,-74.2719161,2026-10-11T15:12:28Z
 eea0c1ce-7643-4a31-a3e5-b6623643e8b9,way/41915586,Peace Pipe Country Club,,course,,,active,,,,,,,,1 Lee Road,,NJ,,US,40.9133088,-74.4515504,2026-10-11T15:11:53Z
@@ -325,5 +325,5 @@ f730a271-d571-457a-a0ef-e2ed363cd165,way/155746188,,,course,,,active,,,,,,,,,,NJ
 f74eed65-a11c-4482-8410-db8850dbe15d,way/39681388,,,course,,,active,,,,,,,,,,NJ,,US,40.3258145,-74.4447751,2026-10-11T15:11:51Z
 f84f1fde-796f-487f-9f4b-b562db6e2491,way/30287892,Tavistock Country Club,,course,,,active,,,,,,,,,,NJ,,US,39.8763057,-75.0277412,2026-10-11T15:11:49Z
 fc6977f5-8218-43e9-aeb0-9edca13986dc,way/757118037,,,course,,,active,,,,,,,,,,NJ,,US,40.0296575,-74.5803566,2026-10-11T15:12:21Z
-fe3c4480-9e5a-459b-a094-512608dfd742,way/1454502459,,,course,,,active,,35,,,,,,,,NJ,,US,40.5904138,-74.8030475,2026-10-11T15:12:29Z
-ff54bd9a-1a74-4014-96d3-411c3cea4ca7,way/40407197,,,course,,,active,,5,,,,,,,,NJ,,US,39.7909754,-75.0114389,2026-10-11T15:11:51Z
+fe3c4480-9e5a-459b-a094-512608dfd742,way/1454502459,,,course,,,active,,,,,,,,,,NJ,,US,40.5904138,-74.8030475,2026-10-11T15:12:29Z
+ff54bd9a-1a74-4014-96d3-411c3cea4ca7,way/40407197,,,course,,,active,,,,,,,,,,NJ,,US,39.7909754,-75.0114389,2026-10-11T15:11:51Z

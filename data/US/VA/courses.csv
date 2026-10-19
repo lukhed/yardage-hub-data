@@ -1,6 +1,6 @@
 id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
 00859311-b898-4ed9-8c58-cecd4ca3899b,way/1084361702,Prince George Golf Course,,course,,,active,18,72,,,,,,,,VA,,US,37.1356313,-77.2504292,2026-10-11T15:12:24Z
-00d74ce2-288d-487b-bb54-c0709a684662,way/52305790,South Riding Golf Course,,course,,,active,,23,,,,,,,,VA,,US,38.9094557,-77.5177614,2026-10-11T15:11:53Z
+00d74ce2-288d-487b-bb54-c0709a684662,way/52305790,South Riding Golf Course,,course,,,active,,,,,,,,,,VA,,US,38.9094557,-77.5177614,2026-10-11T15:11:53Z
 010367fd-4e84-418e-a6c3-d1c140ed1da5,way/679365139,Virginia Beach National Golf Club,,course,,,active,,,,,,https://www.vbnational.com/,,2500 Tournament Drive,Virginia Beach,VA,23456,US,36.7562396,-76.0754631,2026-10-11T15:12:20Z
 015179d9-73da-497c-b41a-d03987f39bfa,way/517130645,Green's Folly Golf Course,,course,,,active,,,,,+1 434 572 4998,https://www.greensfolly.com/,,1085 Green's Folly Road,South Boston,VA,24592,US,36.7367263,-78.9269086,2026-10-11T13:30:51Z
 01c0c893-25ee-47f9-9209-b8aa6d861574,way/1089562431,Amelia Golf & Country Club,,course,,,active,,,,,,,,,,VA,,US,37.3523773,-77.9648451,2026-10-11T15:12:24Z
@@ -38,7 +38,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 20741fb9-6180-4b6e-b31a-02ffbdc70a78,way/574231934,Ballyhack Golf Club,,course,,,active,18,72,,,,,,,,VA,,US,37.2301789,-79.890802,2026-10-11T15:12:18Z
 21bd7a03-38cd-48ab-991b-38ed649d5c98,way/39589321,New Post Golf Driving Range,,practice,,,active,,,,,,,,9815 Sandy Lane Drive,Woodford,VA,22580,US,38.2293133,-77.4034623,2026-10-11T15:11:51Z
 22402dc9-280a-49a5-bbd6-2247b76d5083,way/518032130,Boonsboro Country Club,,course,,,active,,,,,,https://boonsborocc.com/,,,,VA,,US,37.4586501,-79.2520796,2026-10-11T15:12:18Z
-230e8275-d7bc-4436-b910-8e103ff3a050,relation/1948017,Belle Haven Country Club,,course,,,active,,63,,,,https://www.bellehavencc.com/,,,,VA,,US,38.7859372,-77.0576382,2026-10-11T15:12:30Z
+230e8275-d7bc-4436-b910-8e103ff3a050,relation/1948017,Belle Haven Country Club,,course,,,active,,,,,,https://www.bellehavencc.com/,,,,VA,,US,38.7859372,-77.0576382,2026-10-11T15:12:30Z
 23c0feae-6fbb-4dfa-a754-7ef7d7e8f353,way/610922556,,,course,,,active,,,,,,,,,,VA,,US,37.4934882,-77.9214526,2026-10-11T15:12:20Z
 25529bfc-cb3a-4aa7-bef8-095795cba104,relation/10993974,,,course,,,active,,,,,,,,,,VA,,US,36.7034766,-76.9894168,2026-10-11T15:12:38Z
 26df53e9-8949-4e11-8040-0723973e6f60,way/808088901,,,course,,,active,,,,,,,,,,VA,,US,36.8740483,-81.7622072,2026-10-11T13:30:58Z
@@ -48,18 +48,18 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 2b73ffc7-f293-4965-bf2d-200aa4292b21,relation/19243771,Devil's Knob Golf Course,,course,,,active,,,,,,,,,,VA,,US,37.9244596,-78.9505808,2026-10-11T13:31:51Z
 2ba56ac4-e3a6-4e38-9a06-2cbc368f732f,way/663443875,Primland Golf Resort,,course,,,active,18,71,,,,,,,,VA,,US,36.6642016,-80.4306936,2026-10-11T15:12:20Z
 2be0e965-499e-49db-9da9-d3f32b88e099,way/574688179,The Crossings Golf Club,,course,,,active,18,,,,,https://www.thecrossingsgc.com/,,,,VA,,US,37.6613189,-77.4407726,2026-10-11T15:12:18Z
-2c1a7239-a6b1-46c7-b427-66dffbda9f0f,way/1442885672,Brickshire Golf Club,,course,,,active,,36,,,,,,,,VA,,US,37.480384,-76.9927299,2026-10-11T15:12:29Z
+2c1a7239-a6b1-46c7-b427-66dffbda9f0f,way/1442885672,Brickshire Golf Club,,course,,,active,,,,,,,,,,VA,,US,37.480384,-76.9927299,2026-10-11T15:12:29Z
 2c2782db-7bdd-47e9-be75-252fa74c8644,way/232067440,Salisbury Country Club,,course,,,active,,,,,+1 804-794-6841,https://www.salisburycountryclub.com/,,13620 West Salisbury Road,Midlothian,VA,23113,US,37.5246904,-77.6553003,2026-10-11T15:12:03Z
 2d2ae3f0-5e0c-4b0a-ac51-fd1ab31e9c08,relation/3971083,Heritage Hunt Golf & Country Club,,course,,,active,,,,,+1 703-743-2000,http://www.heritagehunt.net/,,6901 Arthur Hills Drive,Gainesville,VA,20155,US,38.8170657,-77.5975052,2026-10-11T15:12:35Z
 2d34ec82-c9d4-4ff0-ae6a-a832e914f442,way/404167826,Aeropines Golf Course,,course,,,active,,,,,,,,,,VA,,US,36.7973693,-76.0275802,2026-10-11T15:12:15Z
-2eb2690f-c958-4c48-ade4-56b1340b077e,relation/16291378,,,course,,,active,,20,,,,,,,,VA,,US,37.2813999,-77.6518584,2026-10-11T15:12:43Z
+2eb2690f-c958-4c48-ade4-56b1340b077e,relation/16291378,,,course,,,active,,,,,,,,,,VA,,US,37.2813999,-77.6518584,2026-10-11T15:12:43Z
 304b704d-78d6-4470-939e-824f77ddb81e,way/51865232,Rasberry Falls Golf Club,,course,,,active,18,72,,,,,,,,VA,,US,39.1623686,-77.5548886,2026-10-11T15:11:53Z
 3114f422-3bd2-4511-ad7b-09fe185ad10c,way/588720635,Eastern Shore Yacht and Country Club Golf Course,,course,,,active,,,,,,,,,,VA,,US,37.6556436,-75.8191279,2026-10-11T15:12:20Z
 31e53a08-dd85-42dd-a802-0d26fe73a3b0,relation/15535410,Williamsburg National Golf Club - The Yorktown Course,,course,,,active,,,,,,,,,,VA,,US,37.2653167,-76.803837,2026-10-11T15:12:43Z
 33677665-a964-43c7-a995-c1387f8cc5a4,relation/1999902,Hidden Creek Country Club,,course,,,active,,,,,,https://www.hiddencreekcc.com/,,Clubhouse Road,,VA,,US,38.9583449,-77.3425854,2026-10-11T15:12:30Z
 33b35d6d-1c1f-4050-907a-4fefc7fb767e,way/69227476,Westwood Country Club,,course,,,active,18,71,,,,,,,,VA,,US,38.9145464,-77.2513086,2026-10-11T13:29:49Z
 349730c4-9dac-47b6-abd0-65467e2879ac,relation/3295444,Country Club of Culpeper,,course,,,active,,,,,,,,,,VA,,US,38.4626924,-78.0156651,2026-10-11T15:06:43Z
-34a686d2-4f58-4186-a19e-1a1eab07dc48,way/51865714,Bristow Manor Golf Club,,course,,,active,,40,,,,,,,,VA,,US,38.7088543,-77.5347088,2026-10-11T15:11:53Z
+34a686d2-4f58-4186-a19e-1a1eab07dc48,way/51865714,Bristow Manor Golf Club,,course,,,active,,,,,,,,,,VA,,US,38.7088543,-77.5347088,2026-10-11T15:11:53Z
 35b92db7-f532-44cf-8054-f4e06f64e7b8,relation/5425900,The Pines Golf Course,,course,,,active,,,,,,https://jble-eustismwr.com/morale/the-pines-golf-course/,,,,VA,,US,37.1391563,-76.5955417,2026-10-11T15:12:36Z
 362b0f3a-42d3-4171-9162-480c59bb819a,way/82509241,Meadowcreek Golf Course,,course,,,active,18,,,,+1-434-977-0615,https://www.meadowcreekgolf.org/,,1400 Pen Park Road,Charlottesville,VA,22901,US,38.0519764,-78.4534354,2026-10-11T15:11:55Z
 36d982de-8a70-4496-a5e5-e1803d3fb1da,way/94847493,Old Hickory Golf Club,,course,,,active,,,,,,,,,,VA,,US,38.6949961,-77.3442844,2026-10-11T15:06:07Z
@@ -87,17 +87,17 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 49171ccf-2d54-487d-bc8e-a46ea3af8dcf,way/121033387,River Bend Club,,course,,,active,18,71,,,,https://www.rbgcc.org/,,375 Walker Road,Great Falls,VA,22066,US,39.0170708,-77.2876972,2026-10-11T15:11:57Z
 4a2df6a0-c5e6-4bb3-a137-d549815a08df,relation/12537218,Chesapeake Golf and Country Club,,course,,,active,18,,,,,,,,,VA,,US,36.7087347,-76.2841107,2026-10-11T13:31:42Z
 4a626b70-f584-4d63-98ea-a84cccdc0496,relation/4476435,The Virginian,,course,,,active,18,72,,,+1-276-645-7050,https://thevirginian.com/,,22512 Clubhouse Ridge,Bristol,VA,24202,US,36.6232803,-82.0903335,2026-10-11T15:06:47Z
-4ae226ab-d9dd-4524-86ba-3b57a9a4aac2,way/1120662024,,,course,,,active,,28,,,,,,,,VA,,US,38.4090023,-78.7055481,2026-10-11T13:31:06Z
+4ae226ab-d9dd-4524-86ba-3b57a9a4aac2,way/1120662024,,,course,,,active,,,,,,,,,,VA,,US,38.4090023,-78.7055481,2026-10-11T13:31:06Z
 4b5d5d80-a15a-41ef-9264-c6d35f2eb5f8,relation/11681335,Stumpy Lake Golf Course,,course,,,active,18,,,,+1-757-467-6119,https://www.stumpylakegolf.com,,4797 Indian River Road,Virginia Beach,VA,23456,US,36.768524,-76.1603842,2026-10-11T15:12:41Z
 4be837fd-2d61-418c-841b-a307dda75fd6,way/144402819,Pinecrest Golf Course,,course,,,active,,,,,,https://www.fairfaxcounty.gov/parks/golf/pinecrestgc/,,6600 Little River Turnpike,Alexandria,VA,22312,US,38.8264503,-77.1654052,2026-10-11T15:12:00Z
-4c89ee75-1a13-47b6-8c33-813cb6097213,way/791472200,,,course,,,active,,65,,,,,,,,VA,,US,37.710681,-77.6215929,2026-10-11T15:12:21Z
+4c89ee75-1a13-47b6-8c33-813cb6097213,way/791472200,,,course,,,active,,,,,,,,,,VA,,US,37.710681,-77.6215929,2026-10-11T15:12:21Z
 4ca2e25f-42d9-4d05-a42d-5618443095b4,way/402077663,Lambert's Point Golf Course,,course,,,active,9,,,,,,,,,VA,,US,36.8830011,-76.3195525,2026-10-11T13:30:44Z
 4ccd2c39-f27f-4de7-ac50-c4ccb516bb0f,way/604212995,The Cascades,,course,,,active,18,70,,,,https://www.omnihotels.com/hotels/homestead-virginia/golf/cascades-course,,,Hot Springs,VA,24445,US,37.9509501,-79.8701656,2026-10-11T13:30:54Z
 4d3efb68-0cd1-436b-a38a-a62e8d40af3d,way/51037222,The Woodlands Golf Course,,course,,,active,18,70,,,,,,,,VA,,US,37.0273937,-76.3286382,2026-10-11T15:11:53Z
 4d66691f-c9f5-4646-8b65-3ff32b63d450,relation/1269154,Pete Dye River Course of Virginia Tech,,course,,,active,18,72,,,,,,,,VA,,US,37.1458181,-80.5363943,2026-10-11T15:12:30Z
 4ecc2c61-185a-4679-a225-900aaa7a3d37,way/797526848,,,course,,,active,18,71,,,,,,,,VA,,US,37.1051299,-81.6306964,2026-10-11T13:30:58Z
 4edc43bd-e7a6-4904-a3d3-4e81490e11ea,way/1192239562,Nottoway River Country Club,,course,,,active,,,,,,,,,,VA,,US,37.0465446,-78.0369541,2026-10-11T15:12:27Z
-4fe12604-895e-4600-a158-0e5515ea7860,way/38330272,Blue Hills Golf Club,,course,,,active,,59,,,+1-540-344-7848,https://bluehillsgc.com/,,2002 Blue Hills Drive NE,Roanoke,VA,24012,US,37.3112301,-79.9078166,2026-10-11T15:11:51Z
+4fe12604-895e-4600-a158-0e5515ea7860,way/38330272,Blue Hills Golf Club,,course,,,active,,,,,+1-540-344-7848,https://bluehillsgc.com/,,2002 Blue Hills Drive NE,Roanoke,VA,24012,US,37.3112301,-79.9078166,2026-10-11T15:11:51Z
 4ff8830c-f422-4220-ae53-810b4b383801,way/463863756,Packsaddle Ridge Golf Club,,course,,,active,18,72,,,,,,,,VA,,US,38.466521,-78.7480896,2026-10-11T15:12:17Z
 502487a6-481a-4573-8527-98c30d38a1ab,way/51846893,Augustine Golf Course,,course,,,active,18,,,,,,,,,VA,,US,38.442549,-77.4759375,2026-10-11T15:11:53Z
 504be9c7-d1fe-4764-b147-c30b4aa9cc3e,way/565584750,The Links at City park,,course,,,active,9,,,,,https://portsmouthparks.com/232/The-Links-at-City-Park,,7 Cpl J M Williams Avenue,Portsmouth,VA,23704,US,36.8305972,-76.3710241,2026-10-11T15:12:18Z
@@ -112,11 +112,11 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 5ac87bf6-1cfe-4943-9871-21c057e5afce,relation/12576727,Green Hills Golf Course,,course,,,active,,,,,,,,,,VA,,US,38.3245938,-78.4028457,2026-10-11T15:12:41Z
 5ad35478-81e8-47e4-bfe8-4c12a6db31ec,way/515671282,Hidden Valley Country Club,,course,,,active,18,71,,,+1 540 389 8146,https://www.hiddenvalleycc.com/,,2500 Romar Road,Salem,VA,24153,US,37.2586436,-80.0467656,2026-10-11T13:30:51Z
 5bf730a7-5a7c-4d13-a56c-cd1effa9ae02,way/205823881,Fredericksburg Country Club,,course,,,active,18,73,,,,,,11031 Tidewater Trail,Fredericksburg,VA,22408,US,38.2634668,-77.4293151,2026-10-11T13:30:07Z
-5ca41cf2-24d9-4e5f-8eef-7bde0ea34577,way/298698195,The Country Club of Virginia - James River,,course,,,active,,17,,,+1 804-287-1330,https://www.theccv.org/,,,,VA,,US,37.570983,-77.6122451,2026-10-11T15:12:10Z
+5ca41cf2-24d9-4e5f-8eef-7bde0ea34577,way/298698195,The Country Club of Virginia - James River,,course,,,active,,,,,+1 804-287-1330,https://www.theccv.org/,,,,VA,,US,37.570983,-77.6122451,2026-10-11T15:12:10Z
 5cf75154-7822-4a11-9494-45b86924b0a0,way/983275282,Auburn Hills,,course,,,active,18,72,,,,,,,,VA,,US,37.0784081,-80.4425747,2026-10-11T15:12:24Z
 5e09b8f6-8d7d-4575-bc81-abd7573709be,way/52013786,Bull Run Golf Course,,course,,,active,18,72,,,,,,,,VA,,US,38.8795609,-77.6418997,2026-10-11T13:29:44Z
 5e1450e1-1490-48c8-8932-8c9e06361694,way/144402823,Washington Golf and Country Club,,course,,,active,18,70,,,+1-703-524-4600,https://www.washingtongolfcc.org/,,3017 North Glebe Road,Arlington,VA,22207,US,38.9107976,-77.1239047,2026-10-11T15:12:00Z
-5ede147e-22d2-45fc-8a71-baca492fd560,relation/7482247,Regency at Dominion Valley,,course,,,active,,7,,,+1 571-261-2505,http://www.regencydominionvalley.com/golf.html,,,,VA,,US,38.8466946,-77.6458878,2026-10-11T13:31:37Z
+5ede147e-22d2-45fc-8a71-baca492fd560,relation/7482247,Regency at Dominion Valley,,course,,,active,,,,,+1 571-261-2505,http://www.regencydominionvalley.com/golf.html,,,,VA,,US,38.8466946,-77.6458878,2026-10-11T13:31:37Z
 5f464f91-83cc-4b3a-8c27-96d213bfde0b,relation/7507533,,,course,,,active,,,,,,,,,,VA,,US,36.6957204,-81.9549614,2026-10-11T15:12:38Z
 60406b7a-45ba-45b9-ab07-b03ba2c36534,way/498143941,Viniterra Golf Course,,course,,,active,18,,,,,,,,,VA,,US,37.5401904,-77.0744942,2026-10-11T15:12:17Z
 60950cc2-bbb9-467f-a2b8-9198f056174e,relation/15101713,Lakeview Golf Club,,course,,,active,,,,,,,,,,VA,,US,38.3898284,-78.8260444,2026-10-11T15:12:43Z
@@ -155,7 +155,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 77f4bb91-2f1a-4b36-b889-cc7cd4c1cf63,relation/6209148,Royal New Kent Golf Club,,course,,,active,18,72,,,,,,,,VA,,US,37.4747455,-77.0159872,2026-10-11T15:12:36Z
 783401d4-e03b-4699-a34c-151710815d8e,way/82387098,The First Tee Chesterfield Golf Club,,course,,,active,,,,,+1 804-275-8050,http://www.thefirstteerichmondchesterfield.org/,,6736 Huntingcreek Drive,Richmond,VA,23237,US,37.400424,-77.4938565,2026-10-11T15:11:55Z
 786f9c10-b0cd-44df-a035-6f62e584d83d,way/232468752,Providence Golf Club,,course,,,active,18,71,,,+1 804-276-1865,https://www.providencegolfclub.com/,,1160 South Providence Road,Richmond,VA,23236,US,37.4818554,-77.561601,2026-10-11T15:12:03Z
-7b880c0f-ea17-4ad9-a5ea-f5f0f854fe43,relation/5392822,Ashley Plantation,,course,,,active,,23,,,+1 540 992 4653,https://www.ashleyplantation.com/,,919 Greenfield Street,Daleville,VA,24083,US,37.4405761,-79.8948371,2026-10-11T15:12:36Z
+7b880c0f-ea17-4ad9-a5ea-f5f0f854fe43,relation/5392822,Ashley Plantation,,course,,,active,,,,,+1 540 992 4653,https://www.ashleyplantation.com/,,919 Greenfield Street,Daleville,VA,24083,US,37.4405761,-79.8948371,2026-10-11T15:12:36Z
 7ba0d68f-a7e7-4cc5-9dcf-2472f01747fc,way/550779838,,,course,,,active,,,,,,,,,,VA,,US,38.4690539,-77.371528,2026-10-11T15:12:18Z
 7ca2beba-ba59-4165-baa1-5bf7aa72b61d,relation/15513710,Brandermill Country Club,,course,,,active,18,,,,,https://www.acumengolf.com/brandermill/,,,,VA,,US,37.4367982,-77.6516292,2026-10-11T15:12:43Z
 7cbed776-6c89-454e-ab09-db58cfe18a3d,way/172863831,Oakmont Driving Range,,practice,,,active,,,,,,,,,,VA,,US,38.8749202,-77.3179511,2026-10-11T15:12:01Z
@@ -185,9 +185,9 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 8e1720e3-1475-48d3-aa36-a56add01ab26,way/48208604,1757 Golf Club,,course,,,active,18,70,,,,,,,,VA,,US,39.0136273,-77.4471863,2026-10-11T15:06:05Z
 8e976b6c-8c45-4bdc-a66c-8253eb759078,way/241882903,,,course,,,active,,,,,,,,,,VA,,US,39.0931476,-77.4740761,2026-10-11T15:12:05Z
 8eb23832-8ccd-4d40-a40c-e1f7ab1f589a,relation/19984509,Old Trail Golf Club,,course,,,active,,,,,+1 434 823 8101,https://oldtrailgolf.com/,,5494 Golf Drive,Crozet,VA,22932,US,38.0560354,-78.719319,2026-10-11T15:12:45Z
-8ef0d3ba-79ba-4d2c-86b3-db5932424dac,relation/1906507,Twin Lakes Golf Course,,course,,,active,,5,,,,,,,,VA,,US,38.8219655,-77.4053721,2026-10-11T15:12:30Z
+8ef0d3ba-79ba-4d2c-86b3-db5932424dac,relation/1906507,Twin Lakes Golf Course,,course,,,active,,,,,,,,,,VA,,US,38.8219655,-77.4053721,2026-10-11T15:12:30Z
 8ffe7204-8f7e-44ed-84e5-64178bc7ad9f,relation/4082647,Sycamore Creek Golf Course,,course,,,active,18,70,,,+1 804-784-3544,http://sycamorecreekgolfcourse.com/,,1991 Manakin Road,Manakin-Sabot,VA,23103,US,37.6767658,-77.6886159,2026-10-11T13:31:27Z
-92c3626d-06cd-49a1-af4e-db4fd490f53b,way/903195999,Elson Redmond Memorial Driving Range,,practice,,,active,,18,,,,,,,,VA,,US,37.5595206,-77.4375521,2026-10-11T15:12:23Z
+92c3626d-06cd-49a1-af4e-db4fd490f53b,way/903195999,Elson Redmond Memorial Driving Range,,practice,,,active,,,,,,,,,,VA,,US,37.5595206,-77.4375521,2026-10-11T15:12:23Z
 94344d13-0fab-47bd-a67d-6d8c6197629e,way/211846055,,,course,,,active,,,,,,,,,,VA,,US,39.1052185,-78.2112087,2026-10-11T13:30:07Z
 95963148-0abe-4d09-a030-6a2a0cf2a9ad,way/143655277,Creighton Farms Golf Club,,course,,,active,18,72,,,,,,,,VA,,US,38.9939211,-77.6105371,2026-10-11T15:12:00Z
 95db2783-f70e-4b07-aeb7-bf0c735bfe16,way/338564347,Gloucester Golf Club,,course,,,active,,,,,,,,,,VA,,US,37.3992408,-76.5331168,2026-10-11T13:30:39Z
@@ -202,23 +202,23 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 9a0e43b5-e4f7-41e3-950b-d188a34521bb,way/1428385310,Bedford Country Club,,course,,,active,,,,,,https://bedfordcountryclub.com/,,,,VA,,US,37.3756338,-79.5431293,2026-10-11T15:12:29Z
 9a576384-e268-481a-b2a1-17b2b2426a46,relation/11545719,Kempsville Greens Golf Course,,course,,,active,18,,,,,,,4840 Princess Anne Road,Virginia Beach,VA,23462,US,36.8229402,-76.1429854,2026-10-11T15:12:41Z
 9acf0745-c384-441a-b44b-7e98dcd1d7ae,relation/1959419,Chantilly National Golf and Country Club,,course,,,active,18,72,,,,https://www.cngcc.org/,,,,VA,,US,38.8628998,-77.4680791,2026-10-11T15:12:30Z
-a148df28-0968-4cc1-b439-6d9e4181d08c,way/609030049,Virginia Golf Center,,course,,,active,,4,,,,,,5801 Clifton Road,Centreville,VA,20121,US,38.8285659,-77.399207,2026-10-11T15:12:20Z
+a148df28-0968-4cc1-b439-6d9e4181d08c,way/609030049,Virginia Golf Center,,course,,,active,,,,,,,,5801 Clifton Road,Centreville,VA,20121,US,38.8285659,-77.399207,2026-10-11T15:12:20Z
 a21d197c-9205-4235-9d87-1bb1e89eceb5,way/610922560,,,course,,,active,,,,,,,,,,VA,,US,37.5069029,-77.9236681,2026-10-11T15:12:20Z
 a39ec98e-a910-49d6-bcc0-b20184c84413,relation/5487092,Two Rivers Golf Course,,course,,,active,18,,,,,,,,,VA,,US,37.2475612,-76.8541565,2026-10-11T15:12:36Z
-a3f384a8-5b74-4a59-9bb1-8e51d1a6688c,way/51866090,Bristow Manor Golf Club,,course,,,active,,32,,,,,,,,VA,,US,38.7049547,-77.5288459,2026-10-11T13:29:44Z
-a5732a2d-efb3-4f58-89fe-c7eb37594940,way/52243397,South Riding Golf Course,,course,,,active,,19,,,,,,,,VA,,US,38.8967054,-77.5094809,2026-10-11T15:11:53Z
+a3f384a8-5b74-4a59-9bb1-8e51d1a6688c,way/51866090,Bristow Manor Golf Club,,course,,,active,,,,,,,,,,VA,,US,38.7049547,-77.5288459,2026-10-11T13:29:44Z
+a5732a2d-efb3-4f58-89fe-c7eb37594940,way/52243397,South Riding Golf Course,,course,,,active,,,,,,,,,,VA,,US,38.8967054,-77.5094809,2026-10-11T15:11:53Z
 a5b69464-4a9f-4a89-980b-4ad37c06808d,way/846573247,Pendleton Golf Club,,course,,,active,18,72,,,,https://www.pendletongolfva.com/,,,,VA,,US,38.0057832,-77.5344604,2026-10-11T15:12:23Z
-a5f454d3-4151-4c35-8330-3fcb2a596bce,way/242651981,Golden Horseshoe Golf Club Gold Course,,course,,,active,,67,,,,,,,,VA,,US,37.2609315,-76.6961535,2026-10-11T15:12:05Z
+a5f454d3-4151-4c35-8330-3fcb2a596bce,way/242651981,Golden Horseshoe Golf Club Gold Course,,course,,,active,,,,,,,,,,VA,,US,37.2609315,-76.6961535,2026-10-11T15:12:05Z
 a67d6c56-7276-497a-8931-3f354803b7d7,relation/17624382,Medal of Honour Golf Course,,course,,,active,18,71,,,+1-703-784-2424,https://quantico.usmc-mccs.org/recreation-fitness/recreation/outdoor-recreation/golf-course,,3313 Fuller Heights Rd,Quantico,VA,22134,US,38.530803,-77.3083623,2026-10-11T15:12:45Z
 a67f4b8e-d2b5-4c79-963e-8fccc24407d6,way/636072578,,,course,,,active,,,,,,,,,,VA,,US,37.3329446,-79.9530242,2026-10-11T15:12:20Z
 a6c6b1f7-9314-4b5d-91ed-25dd5d1933cf,way/227990119,Eaglewood Golf Course,,course,,,active,18,,,,,https://jbleforcesupport.com/langley/eaglewood-golf-course,,,,VA,,US,37.0911916,-76.3696065,2026-10-11T15:12:03Z
 a6f44064-ddac-4c6a-9ac9-8c688a77f4ff,way/82747978,Spotswood Country Club,,course,,,active,18,72,,,,,,,,VA,,US,38.4286727,-78.8337969,2026-10-11T15:11:55Z
-a73800ed-4bb8-49fc-a387-d0e5dc1301c0,way/683926085,,,course,,,active,,16,,,,,,,,VA,,US,37.2823853,-77.6439443,2026-10-11T15:12:20Z
+a73800ed-4bb8-49fc-a387-d0e5dc1301c0,way/683926085,,,course,,,active,,,,,,,,,,VA,,US,37.2823853,-77.6439443,2026-10-11T15:12:20Z
 a7f4b75f-2c00-4562-bcfe-6a6d50255654,way/468929721,Colonial Hills Golf Club,,course,,,active,18,71,,,,,,,,VA,,US,37.3814986,-79.2744674,2026-10-11T15:12:17Z
 aa36259a-0eea-40de-8f7a-c5f6804d9270,way/610922558,,,course,,,active,,,,,,,,,,VA,,US,37.499132,-77.9256851,2026-10-11T15:06:32Z
 aac05fd8-a092-4821-ae4d-6e88c20f30e5,way/43586651,Algonkian Regional Park Golf Course,,course,,,active,18,72,,,,,,,,VA,,US,39.0578668,-77.3747901,2026-10-11T15:11:53Z
-ab5d7abf-6daa-4c9b-834b-83c31488c296,way/1023342531,Shenvalee Creek Course,,course,,,active,,46,,,,,,,,VA,,US,38.6387323,-78.6678472,2026-10-11T15:12:24Z
-ac7584a7-e2b3-449f-bcbe-fbfc6d5da38d,relation/12608022,The Country Club of Virginia - Tuckahoe Creek,,course,,,active,,55,,,+1 804-287-1330,https://www.theccv.org/,,,,VA,,US,37.572934,-77.6234414,2026-10-11T15:06:51Z
+ab5d7abf-6daa-4c9b-834b-83c31488c296,way/1023342531,Shenvalee Creek Course,,course,,,active,,,,,,,,,,VA,,US,38.6387323,-78.6678472,2026-10-11T15:12:24Z
+ac7584a7-e2b3-449f-bcbe-fbfc6d5da38d,relation/12608022,The Country Club of Virginia - Tuckahoe Creek,,course,,,active,,,,,+1 804-287-1330,https://www.theccv.org/,,,,VA,,US,37.572934,-77.6234414,2026-10-11T15:06:51Z
 ac8d6b6b-f5ae-40f5-af85-5daafc48c01f,relation/1929960,Fort Belvoir Golf Club,,course,,,active,,,,,+1-703-806-5878,https://belvoir.armymwr.com/programs/golf-club,,8450 Beulah Street,Fort Belvoir,VA,22060,US,38.7300765,-77.1618701,2026-10-11T15:12:30Z
 adfe4aca-e897-4efb-9452-97b47f55f906,way/240329991,Kingsmill Resort: The Woods Course,,course,,private,active,18,72,,,,https://www.kingsmill.com/golf/the-woods-course/,,,,VA,,US,37.2249061,-76.6329549,2026-10-11T15:12:03Z
 aecc1b20-9234-45ed-a64a-2eecad5cb6ba,relation/14989971,Shenvalee Miller Course,,course,,,active,,,,,,,,,,VA,,US,38.6341578,-78.6664838,2026-10-11T15:12:43Z
@@ -236,7 +236,7 @@ b9c7e95a-1ee9-4b79-953f-af0535807178,way/666598294,Great Oaks Country Club,,cour
 baa7b909-ee91-4d76-abfc-b37e0811cdec,way/235765797,Willow Oaks Country Club,,course,,,active,18,72,,,,,,,,VA,,US,37.5401049,-77.5052131,2026-10-11T15:12:03Z
 bbba8d50-73aa-41ff-adbc-94408130f7f9,way/697601995,Belmont Golf Course & Recreation Center,,course,,,active,18,,,,,,,,,VA,,US,37.6156342,-77.4632576,2026-10-11T15:12:21Z
 bc0d49c3-cb6a-4911-80ce-e6874187094c,way/664885252,Blue Ridge Country Club,,course,,,active,,,,,,,,,,VA,,US,36.7110924,-80.8600873,2026-10-11T13:30:54Z
-bd5b447f-65ef-4f47-82a8-6cbf7af711ee,way/52243402,South Riding Golf Course,,course,,,active,,25,,,,,,,,VA,,US,38.9055053,-77.5105129,2026-10-11T15:11:53Z
+bd5b447f-65ef-4f47-82a8-6cbf7af711ee,way/52243402,South Riding Golf Course,,course,,,active,,,,,,,,,,VA,,US,38.9055053,-77.5105129,2026-10-11T15:11:53Z
 bd6e3ca3-3ce1-4361-9e0d-42873df43081,relation/19327491,The Golf Club at the Highlands,,course,,,active,18,72,,,,https://www.highlands-golf.com/,,,,VA,,US,37.3311897,-77.5282146,2026-10-11T15:06:54Z
 bdfd0066-ef2b-42fe-9666-339e5fabf31c,way/814665407,,,course,,,active,,,,,,,,,,VA,,US,37.8227325,-79.7916292,2026-10-11T15:12:21Z
 be00c203-8e09-43bb-aa54-010d53ff8962,relation/7483481,King Carter Golf Club,,course,,,active,,,,,+1 804 435 7842,http://www.kingcartergolfclub.com/,,480 Old Saint Johns Road,Irvington,VA,22480,US,37.6929613,-76.4027829,2026-10-11T13:31:37Z
@@ -257,13 +257,13 @@ c895ca71-4c86-4be8-9098-2825d1d14157,way/518157072,,,course,,,active,,,,,,,,,,VA
 c8d6e632-616f-48b5-8c1c-dcb7d5fc3f47,node/3085307735,Tee It Up Indoor Golf,,practice,,,active,,,,,,,,,,VA,,US,37.5254554,-77.6095524,2026-10-11T15:05:59Z
 c9425629-d409-45c4-a4df-ec2581213647,way/402786471,Red Wing Lake Golf Course,,course,,,active,18,,,,,,,,,VA,,US,36.7983555,-75.9787457,2026-10-11T15:12:15Z
 ca675b9b-82e5-4de7-a799-b6e3e77d61dd,way/46844310,Meadowbrook Country Club,,course,,,active,18,71,,,,,,,,VA,,US,37.4473891,-77.4663293,2026-10-11T15:11:53Z
-cbc4b134-7a0c-4f96-96ae-4175c4d26711,way/683926084,,,course,,,active,,20,,,,,,,,VA,,US,37.2761762,-77.6409946,2026-10-11T15:12:20Z
-ccbd79c6-4f9a-4d57-b941-df3e944d4b44,way/664489776,,,course,,,active,,16,,,,,,,,VA,,US,37.2730746,-77.6486,2026-10-11T15:12:20Z
+cbc4b134-7a0c-4f96-96ae-4175c4d26711,way/683926084,,,course,,,active,,,,,,,,,,VA,,US,37.2761762,-77.6409946,2026-10-11T15:12:20Z
+ccbd79c6-4f9a-4d57-b941-df3e944d4b44,way/664489776,,,course,,,active,,,,,,,,,,VA,,US,37.2730746,-77.6486,2026-10-11T15:12:20Z
 cd72d3cf-732f-45a1-b9fd-1db5899d6faa,relation/15510456,Magnolia Green Golf Club,,course,,,active,18,72,,,+1 804-639-5701,https://www.magnoliagreengolfclub.com,,17301 Memorial Tournament Drive,Moseley,VA,23120,US,37.4021487,-77.743524,2026-10-11T15:06:53Z
 ced11b87-7c82-4017-8307-d8e68ecae6f5,way/241866971,,,course,,,active,,,,,,,,,,VA,,US,39.0933413,-77.4750758,2026-10-11T15:12:05Z
-ced4f5ae-4992-459c-b97e-030a11ec4a87,relation/15532791,Ford's Colony Country Club - Blackheath Course,,course,,,active,,46,,,,,,,,VA,,US,37.2986779,-76.7926017,2026-10-11T15:12:43Z
+ced4f5ae-4992-459c-b97e-030a11ec4a87,relation/15532791,Ford's Colony Country Club - Blackheath Course,,course,,,active,,,,,,,,,,VA,,US,37.2986779,-76.7926017,2026-10-11T15:12:43Z
 cfe02f54-ada9-4b55-8a73-1c02b6773010,way/51138354,,,course,,,active,,,,,,,,,,VA,,US,37.0685695,-76.4050614,2026-10-11T15:11:53Z
-d0d45044-af9a-4ad1-b207-125ac77240fc,relation/15532699,Ford's Colony Country Club - Blue Heron Course,,course,,,active,,63,,,,,,,,VA,,US,37.2943322,-76.7737548,2026-10-11T15:12:43Z
+d0d45044-af9a-4ad1-b207-125ac77240fc,relation/15532699,Ford's Colony Country Club - Blue Heron Course,,course,,,active,,,,,,,,,,VA,,US,37.2943322,-76.7737548,2026-10-11T15:12:43Z
 d12dd073-c2af-4a13-8950-7497bef3ab37,way/890523830,,,course,,,active,,,,,,,,,,VA,,US,36.6546918,-82.5620579,2026-10-11T15:12:23Z
 d1a8f617-32a8-490b-8d62-9eda62e5f81e,way/702368721,,,course,,,active,,,,,,,,,,VA,,US,36.5803886,-78.1450332,2026-10-11T15:12:21Z
 d32e4be6-46b0-4c7a-a8bc-ab33aecc0cc2,way/546790867,,,course,,,active,,,,,,,,,,VA,,US,37.1333524,-79.7225583,2026-10-11T15:12:18Z
@@ -273,14 +273,14 @@ d43e8af6-c345-449d-9f0b-18eb57adb665,relation/5847614,River Creek Golf Course,,c
 d5b54d16-c67a-44fd-819e-47da92e6112d,way/798872921,,,course,,,active,,,,,,,,,,VA,,US,36.9492006,-82.2105628,2026-10-11T15:12:21Z
 d5d75d50-bd27-432c-b626-5837d2a19c6c,way/804696578,Thorn Spring Golf Course,,course,,,active,18,72,,,,,,,,VA,,US,37.0831675,-80.7394398,2026-10-11T15:12:21Z
 d6156df2-a73a-4f2c-8742-325cd99a55ce,way/854646335,Lynch Links Golf Course of Emory & Henry College,,course,,,active,,,,,,,,,,VA,,US,36.7695796,-81.8332587,2026-10-11T15:12:23Z
-d72926a6-5d67-46ec-8e52-076ddebb31f8,way/298698180,Bowling Green Country Club,,course,,,active,,25,,,,https://www.bowlinggreencountryclub.net/,,838 Bowling Green Road,Front Royal,VA,22630,US,38.9871885,-78.122104,2026-10-11T15:12:10Z
+d72926a6-5d67-46ec-8e52-076ddebb31f8,way/298698180,Bowling Green Country Club,,course,,,active,,,,,,https://www.bowlinggreencountryclub.net/,,838 Bowling Green Road,Front Royal,VA,22630,US,38.9871885,-78.122104,2026-10-11T15:12:10Z
 daaf2d8c-83f6-4ba0-8af0-ad86b4fb90ce,way/896047312,Loudoun Golf and Country Club,,course,,,active,18,72,,,+1 540-338-7679,https://loudoungolf.com/,,36967 West Main Street,Purcellville,VA,20132,US,39.1327251,-77.7295241,2026-10-11T15:06:35Z
 dbbfe95e-aeba-452b-9410-56ada1a47ad3,relation/4082779,Kingsmill Resort: The River Course,,course,,,active,,,,,+1-757-253-1703,https://www.kingsmill.com/,,1010 Kingsmill Road,Williamsburg,VA,23185,US,37.2296304,-76.6749792,2026-10-11T15:12:35Z
 dc5048e7-9999-410b-8f9a-2c12dd3d4c5f,relation/20137924,Potomac Shores Golf Club,,course,,,active,18,72,,,,,,,,VA,,US,38.5767919,-77.2805018,2026-10-11T13:31:51Z
 dc6018eb-aef6-4fbf-bdf1-07464c0ea89f,relation/17240231,,,course,,,active,,,,,,,,,,VA,,US,37.5480013,-79.0487766,2026-10-11T15:12:43Z
 dc6252fb-ba37-481e-8845-69546057ec79,way/550784724,,,course,,,active,,,,,,,,,,VA,,US,38.4710647,-77.3686445,2026-10-11T15:12:18Z
 dc679639-ef67-4441-b10d-cde3acf6534c,way/82808694,Country Club,,course,,,active,,,,,,,,,,VA,,US,37.1673516,-78.1108528,2026-10-11T13:29:49Z
-dc8b10a2-b03c-48da-b7f2-4fa31f154e10,way/94847490,,,course,,,active,,9,,,,,,,,VA,,US,38.6859721,-77.3483224,2026-10-11T15:11:55Z
+dc8b10a2-b03c-48da-b7f2-4fa31f154e10,way/94847490,,,course,,,active,,,,,,,,,,VA,,US,38.6859721,-77.3483224,2026-10-11T15:11:55Z
 dc98cb16-1591-459c-a2fa-d8e10c4bdc28,relation/3970891,Front Royal Golf Club,,course,,,active,,,,,+1-540-636-9061,https://frontroyalgolfclub.com/,,,,VA,,US,38.960693,-78.1838563,2026-10-11T15:12:35Z
 dcbfb41d-b3a4-4e7e-a5d1-8169a5e1b5bd,way/67713150,Poplar Forest Golf Course,,course,,,active,,,,,+1-434-534-9418,http://www.poplarforestgolf.com/,,,,VA,,US,37.3502246,-79.2698266,2026-10-11T15:11:55Z
 ddbda0fb-44f7-48fe-b008-40cbef79f594,relation/8257798,Bay Creek Golf Course,,course,,,active,,,,,,https://www.baycreek.net/,,1 Clubhouse Way,Cape Charles,VA,23310,US,37.2485525,-76.0112137,2026-10-11T15:12:38Z
@@ -305,22 +305,22 @@ ecc18853-8746-4947-bfc5-2e05870f8a03,way/802700943,Lonesome Pine Country Club,,c
 ecfb89dd-792a-457a-8ee6-614575e2b2ef,relation/13460148,The Brookwoods Golf Club,,course,,,active,18,,,,+1-804-932-3737,https://www.brookwoodsgolf.com,,7325 Club Drive,Quinton,VA,23141,US,37.5048676,-77.1686649,2026-10-11T15:12:41Z
 eeaa355e-0903-4e0d-b6aa-f5be4ad8d846,way/849043790,,,course,,,active,,,,,,,,,,VA,,US,37.3364555,-79.1221311,2026-10-11T15:12:23Z
 efa66f4b-0e7f-406f-b4db-c9bd270e983a,way/1051287206,Briery Country Club,,course,,,active,,,,,,https://www.brierycountryclub.com/,,395 Country Club Road,Keysville,VA,23947,US,37.0729647,-78.484391,2026-10-11T15:12:24Z
-f05dcc90-5019-44e5-8882-a840d952d66b,way/368084371,Golden Horseshoe Golf Club Green Course,,course,,,active,,69,,,,,,,,VA,,US,37.259644,-76.6893677,2026-10-11T15:12:14Z
+f05dcc90-5019-44e5-8882-a840d952d66b,way/368084371,Golden Horseshoe Golf Club Green Course,,course,,,active,,,,,,,,,,VA,,US,37.259644,-76.6893677,2026-10-11T15:12:14Z
 f0a990f9-3afb-4124-acca-2a2e2b5c1b9b,way/412769362,Lexington Golf and Country Club,,course,,,active,,,,,,https://www.lexingtongolfandcountryclub.com/,,141 Country Club Road,Lexington,VA,24450,US,37.7712924,-79.462836,2026-10-11T15:06:28Z
 f0e4ab89-6b9c-435d-bdb2-8f7fb0cc966c,way/277934444,Farmville Municipal Golf Course,,course,,,active,,,,,,,,,,VA,,US,37.3560417,-78.4360846,2026-10-11T15:12:07Z
 f1358e44-5daa-4aa3-af63-b7837b18139f,relation/6375943,Cardinal Golf Course,,course,,,active,18,72,,,,,,,,VA,,US,37.2233582,-77.3244485,2026-10-11T15:12:36Z
 f1887782-d948-4214-8498-19e18c82378d,way/1125732485,Danville Golf Club,,course,,,active,9,,,,+1-434-792-7225,https://www.danvillegolfclub.com/,,2725 West Main Street,Danville,VA,24540,US,36.5559889,-79.4540865,2026-10-11T15:12:24Z
-f4230b86-ce8d-4101-a44e-19ab6c4d6713,way/51550961,Oakmont Golf Course,,par3,,,active,,24,,,,,,,,VA,,US,38.8772969,-77.3156389,2026-10-11T15:11:53Z
+f4230b86-ce8d-4101-a44e-19ab6c4d6713,way/51550961,Oakmont Golf Course,,par3,,,active,,,,,,,,,,VA,,US,38.8772969,-77.3156389,2026-10-11T15:11:53Z
 f42a6d1f-f8c4-4cc3-801b-f785c683eb10,way/51807335,Forest Greens Golf Course,,course,,,active,,,,,,,,,,VA,,US,38.5434352,-77.3533519,2026-10-11T15:11:53Z
-f51b2660-4642-481b-85f6-c028a7ccc24e,relation/15532763,Ford's Colony Country Club - Marsh Hawk Course,,course,,,active,,50,,,,,,,,VA,,US,37.3051088,-76.7835358,2026-10-11T15:12:43Z
-f5ac04d2-adf4-4e8e-a0c8-1160a29f21e4,relation/3970894,The Dominion Club,,course,,,active,,64,,,+1 804-360-1200,http://tdcva.com/,,6000 Dominion Club Drive,Glen Allen,VA,23059,US,37.7034481,-77.6074915,2026-10-11T15:12:35Z
+f51b2660-4642-481b-85f6-c028a7ccc24e,relation/15532763,Ford's Colony Country Club - Marsh Hawk Course,,course,,,active,,,,,,,,,,VA,,US,37.3051088,-76.7835358,2026-10-11T15:12:43Z
+f5ac04d2-adf4-4e8e-a0c8-1160a29f21e4,relation/3970894,The Dominion Club,,course,,,active,,,,,+1 804-360-1200,http://tdcva.com/,,6000 Dominion Club Drive,Glen Allen,VA,23059,US,37.7034481,-77.6074915,2026-10-11T15:12:35Z
 f5b68198-d08a-418f-925e-1eb7dc864ea6,relation/13805080,Aquia Harbour Golf Club,,course,,,active,,,,,+1-540-659-4478,https://aquiagolf.com/,,204 Bow Cove,,VA,,US,38.4706568,-77.3727595,2026-10-11T15:12:41Z
 f5c39232-9439-45af-bf90-390d9356fbca,way/468929717,London Downs Golf Club,,course,,,active,18,72,,,,,,,,VA,,US,37.2952085,-79.3077287,2026-10-11T15:12:17Z
 f5f97004-1369-4611-94a0-63e5c22d721b,node/11035653309,City Park Starter Shack,,course,,,active,,,,,,,,,,VA,,US,36.8327389,-76.3701668,2026-10-11T13:29:32Z
 f866e3db-12bb-4bdb-a1a3-aad02ee2e915,way/264482170,The Country Club of Virginia - Westhampton,,course,,,active,18,70,,,+1 804-288-2891,https://www.theccv.org/,,6031 Saint Andrews Lane,Richmond,VA,23226,US,37.5718711,-77.5298569,2026-10-11T15:12:05Z
 f95aaad9-f1bf-47c8-98f6-ca2c9c60d11e,way/517130644,Halifax Country Club,,course,,,active,,,,,+1 434 476 2940,http://www.halifaxccgolf.com/,,5136 Halifax Road,Halifax,VA,24558,US,36.7517651,-78.9247392,2026-10-11T15:12:18Z
 f9f2c0f5-92d3-4874-b92d-22d3a8640d2b,relation/3971085,Robert Trent Jones Golf Club,,course,,,active,18,72,,,+1 703-754-4050,https://www.rtjgc.com/,,One Turtle Point Drive,Gainesville,VA,20155,US,38.7792878,-77.63415,2026-10-11T15:12:35Z
-facc17b4-fe40-4198-b9f8-996de31914a2,relation/7481845,Dominion Valley Country Club,,course,,,active,,65,,,+1 571-222-6900,https://www.dominionvalleycountryclub.com/,,15200 Arnold Palmer Drive,Haymarket,VA,20169,US,38.8360753,-77.6452457,2026-10-11T15:12:38Z
+facc17b4-fe40-4198-b9f8-996de31914a2,relation/7481845,Dominion Valley Country Club,,course,,,active,,,,,+1 571-222-6900,https://www.dominionvalleycountryclub.com/,,15200 Arnold Palmer Drive,Haymarket,VA,20169,US,38.8360753,-77.6452457,2026-10-11T15:12:38Z
 fb14cead-cefa-49d5-a9a6-7b3e349e7fc9,way/44851684,Four Winds Golf Course,,course,,,active,,,,,,,,,,VA,,US,38.2393452,-77.2646911,2026-10-11T15:11:53Z
 fc8e365a-7610-48a7-9b11-5e06af4b398e,way/543145547,Massanutten Resort Golf Club,,course,,,active,,,,,,,,,,VA,,US,38.4089783,-78.7144708,2026-10-11T15:12:18Z
 fd41e08f-21bc-49a2-8dfb-a20e49cea0e8,node/13418250629,No. 1 Golf Lounge,,course,,,active,,,,,,https://no1golflounge.com,,5938 Centreville Crest Lane,,VA,,US,38.838175,-77.4345795,2026-10-11T13:29:32Z

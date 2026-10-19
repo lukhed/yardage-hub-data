@@ -32,13 +32,13 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 3258480c-0bbe-4381-8889-f7401bc83710,way/1469241786,Links on the Bayou,,course,,,active,18,70,,,,https://linksonthebayougolf.com/,,271 Vandenburg Drive,Alexandria,LA,71303,US,31.3061922,-92.539034,2026-10-11T15:12:29Z
 32f2daec-62e0-45d2-a435-c873d64bc877,way/216738151,Bayou Barriere Golf Course,,course,,,active,,,,,+1 504-394-9500,http://www.bayoubarriere.com/,,7427 Highway 23,Belle Chasse,LA,70037,US,29.8760881,-90.0023536,2026-10-11T15:06:16Z
 330bbedc-f562-4a15-8254-de65fe2b2214,way/1009373439,Squire Creek Country Club,,course,,,active,18,72,,,,,,289 Squire Creek Parkway,Choudrant,LA,71227,US,32.573662,-92.5091188,2026-10-11T15:12:24Z
-347eb25d-d1d5-4068-94c6-68f967ed1909,way/1011010638,Southern Trace Country Club,,course,,,active,,4,,,,,,200 Southern Trace Parkway,Shreveport,LA,71106,US,32.3398892,-93.7226139,2026-10-11T15:12:24Z
+347eb25d-d1d5-4068-94c6-68f967ed1909,way/1011010638,Southern Trace Country Club,,course,,,active,,,,,,,,200 Southern Trace Parkway,Shreveport,LA,71106,US,32.3398892,-93.7226139,2026-10-11T15:12:24Z
 395a4edc-b6d0-4655-92c4-a626e7699997,way/215115493,Colonial Golf Course,,course,,,active,,,,,,,,,,LA,,US,29.9318724,-90.2091787,2026-10-11T15:12:03Z
 39c82c05-38b0-4034-b161-190a6ee733db,relation/12603802,Contraband Bayou Golf Club at L'Auberge Du Lac,,course,,,active,18,71,,,+1 337-395-7220,https://www.llakecharles.com/amenities/golf-course/,,777 Avenue L'Auberge,Lake Charles,LA,70601,US,30.2036438,-93.2550183,2026-10-11T15:06:51Z
 3c1bc744-a95f-41fc-9b9b-b2d5c6ebfcb1,node/7071780887,Le Triomphe Golf and Country Club,,course,,,active,,,,,,,,,,LA,,US,30.0933658,-91.9449704,2026-10-11T13:29:32Z
 3c895527-b6c2-426e-af89-362b0772286e,relation/12981782,Huntington Golf Course,,course,,,active,18,72,,,,,,8300 Pines Road,Shreveport,LA,71129,US,32.421251,-93.8612587,2026-10-11T15:12:41Z
 3dd6608a-25c3-4adc-82bf-8d8b1ec86627,way/357110483,,,course,,,active,,,,,,,,,,LA,,US,32.7966041,-91.9245204,2026-10-11T15:06:26Z
-3ea22088-5b57-4724-a4bf-fe56720b5d96,way/300927937,Wetlands Golf Course,,course,,,active,,68,,,+1 337-291-7151,https://wetlandsgc.com/,,2129 North University Avenue,Lafayette,LA,70507,US,30.2590442,-92.04868,2026-10-11T15:12:10Z
+3ea22088-5b57-4724-a4bf-fe56720b5d96,way/300927937,Wetlands Golf Course,,course,,,active,,,,,+1 337-291-7151,https://wetlandsgc.com/,,2129 North University Avenue,Lafayette,LA,70507,US,30.2590442,-92.04868,2026-10-11T15:12:10Z
 41b738ee-465e-430c-98c5-e706c61a704a,way/27887431,Audubon Park Golf Course,,course,,,active,,,,,,,,,,LA,,US,29.9298094,-90.1272194,2026-10-11T15:11:49Z
 46341eee-4beb-4a98-8ade-4459788b83c0,way/681299610,Frenchmans Bend,,course,,,active,18,72,,,,,,1484 Fenchmans Bend Rd,Monroe,LA,71203,US,32.6385901,-92.0498298,2026-10-11T13:30:54Z
 46a2c879-9f87-4a2a-9675-e206bbc12e74,way/777784667,Lake D'Arbonne Country Club,,course,,,active,,,,,,,,,,LA,,US,32.7263113,-92.3419891,2026-10-11T15:12:21Z
@@ -64,7 +64,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 811bce3d-8f5a-474f-98a0-f8e90f7bc8cf,way/1510501674,Prison View Golf Course,,course,,,active,,,,,,,,,,LA,,US,30.9573303,-91.5720082,2026-10-11T15:12:29Z
 86b6244c-717f-4099-8baa-5c6cb9a060d9,way/300988667,Colonial Acres Golf Course,,course,,,active,,,,,,,,,,LA,,US,29.6260214,-90.7394482,2026-10-11T13:30:27Z
 874cff8b-7c63-49bf-8bbb-3cc8c65e7874,relation/4001247,Cane Row Golf and Turf Club,,course,,,active,18,,,,+1 337-367-0863,https://www.squirrel-run.com/,,500 Darby Lane,New Iberia,LA,70560,US,30.0346632,-91.832395,2026-10-11T15:12:35Z
-89544a6e-ab8d-42eb-b456-6be334c436ad,relation/13285520,,,course,,,active,,68,,,,,,,,LA,,US,32.3389727,-93.7218991,2026-10-11T15:12:41Z
+89544a6e-ab8d-42eb-b456-6be334c436ad,relation/13285520,,,course,,,active,,,,,,,,,,LA,,US,32.3389727,-93.7218991,2026-10-11T15:12:41Z
 8a119ad9-ea16-444e-96e9-7197f6746a78,way/654152846,,,course,,,active,,,,,,,,,,LA,,US,32.1729186,-91.6762819,2026-10-11T15:12:20Z
 8b3d663c-2990-4ec6-87c0-fa5b82521629,way/30035262,New Orleans Country Club,,course,,,active,,,,,,,,,,LA,,US,29.9773646,-90.1176749,2026-10-11T15:11:49Z
 8c17e3c8-8c0d-4394-8f37-7a938fb6eff2,relation/3999929,Olde Oaks Golf Course,,course,,,active,,,,,+1 318-742-0333,https://www.oldeoaksgolfclub.com/,,60 Golf Club Drive,Haughton,LA,71037,US,32.4414057,-93.5740938,2026-10-11T15:12:35Z
@@ -96,7 +96,7 @@ c25d1a31-ca3b-47a2-8cbf-377cc85df3bb,way/366029890,Oaak Knoll Country Club,,cour
 c3ff10a2-d70f-4759-b356-e165a58f3705,way/1448036697,Hole In One Driving Range,,practice,,,active,,,,,,,,,,LA,,US,32.532072,-92.6714951,2026-10-11T15:12:29Z
 c5156ef2-532d-4201-a125-a37ad9dac937,way/475940015,,,course,,,active,,,,,,,,,,LA,,US,30.2505947,-93.1594256,2026-10-11T15:12:17Z
 c6757664-db53-4fc0-ac74-6c257574b12e,way/1084154318,,,course,,,active,,,,,,,,,,LA,,US,32.9598257,-93.458916,2026-10-11T15:12:24Z
-cc9a1ae8-89bd-4886-ae35-31b061ae7499,way/216732458,Metairie Country Club,,course,,,active,,69,,,,https://www.metairiecc.org/,,580 Woodvine Avenue,Metairie,LA,70005,US,29.9771652,-90.1327134,2026-10-11T13:30:07Z
+cc9a1ae8-89bd-4886-ae35-31b061ae7499,way/216732458,Metairie Country Club,,course,,,active,,,,,,https://www.metairiecc.org/,,580 Woodvine Avenue,Metairie,LA,70005,US,29.9771652,-90.1327134,2026-10-11T13:30:07Z
 ce19b778-4070-4c56-8345-b9684f5410d1,way/300862099,Bomber Bayou Golf Course,,course,,,active,,,,,+1 318-456-2263,http://www.barksdaleservices.com/index.php?src=gendocs&ref=Golf&category=Recreati,,180 Bossier Road,Barksdale Air Force Base,LA,71110,US,32.5002098,-93.6877695,2026-10-11T13:30:27Z
 ce50c6e0-e211-4730-87ba-c01254acce42,way/301184092,Fashion Golf Course,,course,,,active,,,,,,,,,,LA,,US,29.9599587,-90.4127458,2026-10-11T15:12:10Z
 cebdf7e8-ce3b-4aea-86a5-7a98257199c3,way/300883787,Red Oaks Golf Club,,course,,,active,,,,,,,,,,LA,,US,30.5788351,-92.0376494,2026-10-11T15:12:10Z

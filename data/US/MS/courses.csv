@@ -7,7 +7,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 0ba9c64d-1740-4ada-a06d-3e31c1079c9b,way/517718391,Pearl Municipal Golf Course,,course,,,active,,,,,,,,1001 Center City Drive,Pearl,MS,39208,US,32.2723156,-90.1059258,2026-10-11T13:30:51Z
 0e35cd7d-d3c2-4bdd-a711-c29ec58e43e9,way/95122394,,,course,,,active,,,,,,,,,,MS,,US,30.4203529,-89.0618365,2026-10-11T15:11:55Z
 0fc210e5-9e4f-4e09-92a6-05189e451a46,way/361078384,Indianola Country Club,,course,,,active,,,,,,,,,,MS,,US,33.4489189,-90.6707645,2026-10-11T15:06:26Z
-11407d22-e788-4b2c-bd31-5c8f4edff2cc,way/1010037020,,,course,,,active,,64,,,,,,,,MS,,US,32.41846,-89.0881214,2026-10-11T13:31:06Z
+11407d22-e788-4b2c-bd31-5c8f4edff2cc,way/1010037020,,,course,,,active,,,,,,,,,,MS,,US,32.41846,-89.0881214,2026-10-11T13:31:06Z
 11950515-d18d-4816-9641-c3963e8cf144,way/1311391810,The Bridges Golf Club,,course,,,active,18,,,,,,,,,MS,,US,30.3340351,-89.3507597,2026-10-11T15:12:29Z
 1235b004-d898-4b26-b8f6-0d5744ad019c,relation/3077806,Saint Andrews Golf Club,,course,,,active,,,,,,,,,,MS,,US,30.3512185,-88.7134181,2026-10-11T15:12:33Z
 16f841ae-ef34-4d1d-b34c-32c7de6400ab,way/601123708,,,course,,,active,,,,,,,,,,MS,,US,34.3564686,-89.586449,2026-10-11T15:12:20Z
@@ -27,7 +27,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 3cf054dc-e02d-4586-8b5d-26362f8f3c07,relation/3990654,Whisper Lake Country Club,,course,,,active,,,,,+1-601-853-0202,http://www.randywatkinsgolf.com/golf/proto/randywatkinsgolf2/wl_course/wl_course.htm,,414 Annandale Parkway,Madison,MS,39110,US,32.4991402,-90.1862527,2026-10-11T15:12:35Z
 40195bf0-0abb-4945-bc54-98ea6db0631e,way/166260032,,,course,,,active,,,,,,,,,,MS,,US,30.4366259,-88.9766825,2026-10-11T15:12:01Z
 407a8b26-b1f0-4c6b-be95-06d4b49e97a8,way/1074815052,Greenville Golf Course,,course,,,active,,,,,,,,,,MS,,US,33.4950933,-90.9924413,2026-10-11T15:12:24Z
-4181fdd9-935b-444c-bcdc-58b450fa3037,relation/2758286,Diamondhead Golf Club,,course,,,active,,5,,,,,,,,MS,,US,30.394516,-89.3664499,2026-10-11T15:06:43Z
+4181fdd9-935b-444c-bcdc-58b450fa3037,relation/2758286,Diamondhead Golf Club,,course,,,active,,,,,,,,,,MS,,US,30.394516,-89.3664499,2026-10-11T15:06:43Z
 42a7fed3-f701-4c0c-b06c-d381a6c08d55,way/322523802,Cleveland Country Club,,course,,,active,18,,,,+1-662-843-2777,http://www.clevelandcc.org/,,601 Fayette Davis Avenue,Cleveland,MS,38732,US,33.7584739,-90.7362746,2026-10-11T15:12:12Z
 433984f4-a23d-4bb2-8843-89c26fd599a7,way/487005879,Back Acres Country Club,,course,,,active,,,,,+1 662 562 9838,http://backacc.com/,,Country Club Drive,Senatobia,MS,38668,US,34.5752574,-89.9381314,2026-10-11T13:30:48Z
 4478f805-3225-4d24-8f0d-cf91afc45e87,way/899630289,,,course,,,active,18,,,,,,,,,MS,,US,32.425475,-90.2898766,2026-10-11T15:12:23Z
@@ -37,8 +37,8 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 553f3675-34d0-467c-9797-788f80e57a76,way/1465431371,Pine Creek Golf Club,,course,,,active,18,,,,,,,,,MS,,US,31.1503456,-89.3560728,2026-10-11T15:12:29Z
 556a5969-7118-4b44-903d-f80151233bd1,way/533470065,Ackia Golf Course,,course,,,active,,,,,,,,,,MS,,US,33.9730382,-88.5064415,2026-10-11T15:12:18Z
 56c11829-7679-4789-a7b2-90f1b230e025,relation/4470712,Windance Country Club,,course,,,active,18,,,,,,,,,MS,,US,30.4637084,-89.1601007,2026-10-11T15:12:36Z
-574e4734-dce5-4997-bd0f-ca695399d125,way/1551083596,The Oaks Golf Club,,course,,,active,,65,,,,,,24328484 Clubhouse Dr.,Pass Christian,MS,,US,30.3918,-89.2525773,2026-10-11T13:31:18Z
-5bdc7f34-abe6-4522-be00-630b3145b2d9,way/1076823852,,,course,,,active,,44,,,,,,,,MS,,US,31.6791593,-89.6002845,2026-10-11T15:12:24Z
+574e4734-dce5-4997-bd0f-ca695399d125,way/1551083596,The Oaks Golf Club,,course,,,active,,,,,,,,24328484 Clubhouse Dr.,Pass Christian,MS,,US,30.3918,-89.2525773,2026-10-11T13:31:18Z
+5bdc7f34-abe6-4522-be00-630b3145b2d9,way/1076823852,,,course,,,active,,,,,,,,,,MS,,US,31.6791593,-89.6002845,2026-10-11T15:12:24Z
 5f08539b-4e6b-4ea0-9068-bcc60762f519,way/1430549640,The Meadows Golf and Driving Range,,practice,,,active,,,,,+1-601-940-1960,,,110 Spell Lane,Florence,MS,39073,US,32.1347265,-90.0929284,2026-10-11T15:12:29Z
 62ccf89c-b52f-4cc0-9fc9-f0d76d302ac7,relation/2758295,,,course,,,active,,,,,,,,,,MS,,US,30.3219814,-89.2780798,2026-10-11T15:12:33Z
 62ed6ca8-3127-4398-afd9-a1939f62a57a,relation/7158449,Cherokee Valley Golf Course,,course,,,active,,,,,+1 662 893 4444,https://www.olivebranchgolf.com/,,6635 Crumpler Boulevard,Olive Branch,MS,38654,US,34.9538979,-89.8595962,2026-10-11T15:12:38Z
@@ -72,7 +72,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 964108c0-90c5-4261-b008-82fea93f6313,way/297539946,Leflore County County Club,,course,,,active,,,,,,,,,,MS,,US,33.5295955,-90.2743619,2026-10-11T13:30:27Z
 98428be4-e133-4291-b975-2539405c2ab7,node/13752964948,River Bend Links,,course,,,active,,,,,,,,1205 Nine Lakes Drive,Tunica Resorts,MS,38664,US,34.813435,-90.4206974,2026-10-11T13:29:32Z
 9be55223-88da-4f47-9a4b-b2d7d6fefe4d,relation/7144481,Northwood Country Club,,course,,,active,18,71,,,+1 601 485 4491,https://www.northwoodcountryclub.org/,,4300 Country Club Drive,Meridian,MS,39307,US,32.4044625,-88.6924743,2026-10-11T15:12:38Z
-9c2fa1be-aa7a-498b-ac0c-335e9c95a92a,relation/14336652,North Creek Golf Club,,course,,,active,,16,,,,,,8770 North Creek Boulevard,Southaven,MS,38671,US,34.9872955,-90.0700748,2026-10-11T15:12:41Z
+9c2fa1be-aa7a-498b-ac0c-335e9c95a92a,relation/14336652,North Creek Golf Club,,course,,,active,,,,,,,,8770 North Creek Boulevard,Southaven,MS,38671,US,34.9872955,-90.0700748,2026-10-11T15:12:41Z
 9dc6fbec-5b09-46b5-93ec-c0843e654ccf,way/1544777581,Grand Bear,,course,,,active,,,,,,,,,Saucier,MS,39574,US,30.5103278,-89.0601608,2026-10-11T15:12:30Z
 a0bfe00e-be95-4a93-9679-929801b96579,way/322523805,Derrall Foreman Golf Course,,course,,,active,,,,,+1-662-846-4585,https://www.deltastate.edu/student-affairs/derrall-foreman-golf-course/,,,,MS,,US,33.7520399,-90.7324688,2026-10-11T15:12:12Z
 a0d67c62-bfd2-4397-99db-636432aca289,way/486473456,Starkville Country Club,,course,,,active,,,,,+1 662 323 1733,https://starkvillecc.org/,,1800 South Montgomery Street,Starkville,MS,39760,US,33.4140539,-88.8060213,2026-10-11T15:12:17Z
@@ -82,16 +82,16 @@ a6a9c11b-ccb9-4d91-aafe-bf5d92652b87,way/486676753,,,course,,,active,,,,,,,,,,MS
 a9041ace-a26a-4c56-a8a8-b8551cf6ff25,relation/14987522,,,course,,,active,,,,,,,,,,MS,,US,34.9764361,-89.8232366,2026-10-11T15:12:43Z
 a9f1e540-c417-4289-a324-a322ee115ac7,way/1418369168,Aberdeen Country Club,,course,,,active,9,,,,,,,,,MS,,US,33.8294508,-88.5704566,2026-10-11T15:12:29Z
 af7a3712-492c-487a-b44c-f16e36954850,way/1443131866,Eagle Ridge Golf Course,,course,,,active,,,,,,,,,,MS,,US,32.2495648,-90.408195,2026-10-11T15:12:29Z
-b16f5281-33ed-4a78-900e-2f86d1ca1e9e,relation/3990650,Annandale Golf Club,,course,,,active,,32,,,,https://www.theannandalegolfclub.com/,,100 Annandale Golf Club Drive,Madison,MS,39110,US,32.4939163,-90.1950504,2026-10-11T15:12:35Z
+b16f5281-33ed-4a78-900e-2f86d1ca1e9e,relation/3990650,Annandale Golf Club,,course,,,active,,,,,,https://www.theannandalegolfclub.com/,,100 Annandale Golf Club Drive,Madison,MS,39110,US,32.4939163,-90.1950504,2026-10-11T15:12:35Z
 b21ea31e-c7b9-4282-ad74-c37082dae404,way/475588799,Lakeside Disc Golf Course,,disc,,,active,,,,,,,,,,MS,,US,33.4412415,-88.8591623,2026-10-11T15:06:29Z
 b2876d37-9212-498f-92a4-f83d69fb231f,way/1072884129,Bel-Air Golf Course Tupelo,,course,,,active,,,,,,,,,,MS,,US,34.2840927,-88.7259203,2026-10-11T15:12:24Z
-b3d5c212-d8bd-47c8-bd61-b6ef0b101e73,relation/2758296,,,course,,,active,,7,,,,,,,,MS,,US,30.3918789,-89.2505011,2026-10-11T15:12:33Z
-baf116d1-fd21-4bdb-991f-90d63ed3fe11,relation/3884145,Great Southern Golf Club,,course,,,active,,64,,,,http://greatsoutherngolf.com/,,,,MS,,US,30.3910544,-89.0099115,2026-10-11T15:12:35Z
-c08ff3f9-88f0-4c12-b954-cd65e4b25881,relation/2548722,Grand Bear Golf Course,,course,,,active,,57,,,,,,,,MS,,US,30.5103141,-89.0600028,2026-10-11T15:06:43Z
+b3d5c212-d8bd-47c8-bd61-b6ef0b101e73,relation/2758296,,,course,,,active,,,,,,,,,,MS,,US,30.3918789,-89.2505011,2026-10-11T15:12:33Z
+baf116d1-fd21-4bdb-991f-90d63ed3fe11,relation/3884145,Great Southern Golf Club,,course,,,active,,,,,,http://greatsoutherngolf.com/,,,,MS,,US,30.3910544,-89.0099115,2026-10-11T15:12:35Z
+c08ff3f9-88f0-4c12-b954-cd65e4b25881,relation/2548722,Grand Bear Golf Course,,course,,,active,,,,,,,,,,MS,,US,30.5103141,-89.0600028,2026-10-11T15:06:43Z
 c45b479e-078e-45fb-a921-43f2a5863b68,way/44731629,Gulf Hills,,course,,,active,,,,,,,,,,MS,,US,30.4315703,-88.8359907,2026-10-11T15:11:53Z
 c86144eb-9ec3-4648-b4f6-9e1af84c5f88,way/638360188,,,course,,private,active,,,,,,,,,,MS,,US,32.1384558,-88.7232235,2026-10-11T15:12:20Z
 c8c0684d-f78f-475a-aa9b-6be7583ef955,way/1443131865,Eagle Ridge Driving Range,,practice,,,active,,,,,,,,,,MS,,US,32.2445185,-90.4116239,2026-10-11T15:06:40Z
-c9a9c0b8-2ae0-4a83-995c-703caa77cc3e,way/296752925,Greenwood Country Club Golf Course,,course,,,active,,68,,,,,,,,MS,,US,33.5068717,-90.1547268,2026-10-11T15:12:10Z
+c9a9c0b8-2ae0-4a83-995c-703caa77cc3e,way/296752925,Greenwood Country Club Golf Course,,course,,,active,,,,,,,,,,MS,,US,33.5068717,-90.1547268,2026-10-11T15:12:10Z
 ca064b0d-67e8-41a8-8408-4e09048b64f8,way/475588689,Link's Golf Course,,course,,,active,,,,,,,,,,MS,,US,33.4433753,-88.8655046,2026-10-11T15:12:17Z
 cc3066a6-196b-45f4-beb1-feaf04c8e92c,relation/3552349,Shell Landing,,course,,,active,18,71,,,+1-228-497-5683,https://www.shelllandinggolf.com/,,3499 Shell Landing Boulevard,Gautier,MS,39553,US,30.3864379,-88.6757298,2026-10-11T15:12:33Z
 d6ccfa07-5b2c-417c-b551-c1a8fc4e25ed,way/1017731707,Country Club of Columbia,,course,,,active,,,,,,,,,,MS,,US,31.2658102,-89.8303322,2026-10-11T15:12:24Z
@@ -101,7 +101,7 @@ d8a35544-66f0-4e61-b47b-1d21ab2f8264,way/468617802,Clarksdale Country Club,,cour
 d93257ef-15e0-45c1-84e2-9d031d24d20a,way/486272544,,,course,,,active,,,,,,,,,,MS,,US,32.7603312,-89.0861724,2026-10-11T15:06:29Z
 de7c1647-92eb-48a6-9c95-ff9c7d4ec8dc,way/590627072,Country Club of Canton,,course,,,active,18,72,,,+1 601 859 6359,https://countryclubofcanton.net/,,183 Country Club Road,Canton,MS,39046,US,32.6085706,-89.9904514,2026-10-11T15:12:20Z
 e7356ec2-77cd-4093-8762-d2872ba0f7fd,way/486474423,Mississippi State University Golf Course,,course,,,active,18,71,,,+1-662-325-3028,https://www.golf.msstate.edu/,,14279 Old Highway 82 East,Starkville,MS,39759,US,33.4826568,-88.7352102,2026-10-11T15:12:17Z
-e7b5a40f-ddd6-457e-827b-d714b7df2596,relation/2758285,,,course,,,active,,67,,,,,,,,MS,,US,30.3858627,-89.3577212,2026-10-11T15:12:33Z
+e7b5a40f-ddd6-457e-827b-d714b7df2596,relation/2758285,,,course,,,active,,,,,,,,,,MS,,US,30.3858627,-89.3577212,2026-10-11T15:12:33Z
 e8775c4b-6d16-4e0f-91d6-15ffa1e9b938,way/590782421,,,course,,,active,,,,,,,,,,MS,,US,32.7643506,-89.205667,2026-10-11T15:12:20Z
 ea62947a-6e9c-466d-8fe1-a120be568b2e,way/485763661,Duncan Park Golf,,course,,,active,,,,,+1 601 442 5955,http://cityofnatchez.us/Facilities/Facility/Details/Duncan-Park-Golf-21,,,,MS,,US,31.540512,-91.3898914,2026-10-11T15:06:29Z
 ecfba975-7b85-41dd-ac8a-76678ffea330,way/1068096769,,,course,,,active,,,,,,,,,,MS,,US,32.4684503,-88.6655784,2026-10-11T15:12:24Z

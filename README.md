@@ -13,6 +13,26 @@ database, as plain CSV files you can open in a spreadsheet or load into anything
 > reviewed, credited to you, and land in the live API right away and in this repo with the next
 > snapshot. The fastest way to help is to [add a course's scorecard link](#the-easiest-way-to-help-add-a-scorecard-link).
 
+## How complete is the data
+
+Most open golf data is a list of names and locations. This is how far yardage-hub has gotten
+toward everything a scoring app needs, counted every week:
+
+Of **16,237 golf courses** (snapshot 2026-10-19; driving ranges, disc, and mini golf not counted), this is how many have each kind of data:
+
+| | Courses | Share |
+|---|---:|---:|
+| A published scorecard is linked | 112 | 1% |
+| The scorecard link was set or checked working in the last year | 112 | 1% |
+| Every hole has its par | 5,703 | 35% |
+| Every hole has its handicap (stroke index) | 2,365 | 15% |
+| At least one set of tees | 202 | 1% |
+| A course rating and slope | 76 | <1% |
+| Hole-by-hole yardages for a set of tees | 167 | 1% |
+| Pars, handicaps, ratings, and yardages: everything a scoring app needs | 67 | <1% |
+
+**By state and region:** [COVERAGE.md](COVERAGE.md) has every state, and each state's folder has its regions, e.g. [Michigan](data/US/MI/). Low numbers are where your [help](#help-fix-the-data) goes furthest.
+
 ## Download
 
 - **Everything in one file:** the zip on the [latest release](https://github.com/lukhed/yardage-hub-data/releases/latest). It has
@@ -60,7 +80,7 @@ change is reviewed before it goes live, and every value keeps a record of where 
 
 ## What's in the files
 
-Each region has four CSV files: `data/<country>/<state>/` (courses with no state are in
+Each state has five CSV files and a README with its coverage by region: `data/<country>/<state>/` (courses with no state are in
 `_unknown/`). They join on `course_id`, and tees on `course_id` + `tee_key`.
 
 ### `courses.csv`: one row per course
@@ -82,21 +102,29 @@ Each region has four CSV files: `data/<country>/<state>/` (courses with no state
 
 ### `holes.csv`
 
-`course_id`, `number`, `par`, `handicap` (the stroke index, 1 = hardest).
+`course_id`, `number`, `par`, `handicap` (the stroke index, 1 = hardest), `women_par` (only where
+the women's par differs), `women_handicap` (when the card has a women's handicap row).
 
-### `tees.csv`
+### `tees.csv`: one row per set of tees
 
-`course_id`, `tee_key` (stable per course, e.g. `blue`, `red-f`), `name`, `color`, `gender`
-(`M`/`F`, when the card rates the tee for one), `par`, `rating`, `slope`, `total_yardage` (as
+`course_id`, `tee_key` (stable per course, e.g. `blue`), `name`, `color`, `total_yardage` (as
 published).
+
+### `tee_ratings.csv`
+
+`course_id`, `tee_key`, `gender` (`M`/`F`, or empty when the source doesn't say), `par`,
+`rating`, `slope`. A set of tees rated for men and women has two rows.
 
 ### `tee_holes.csv`
 
 `course_id`, `tee_key`, `hole_number`, `yards`.
 
-### `manifest.json`
+### `manifest.json`, `coverage.json`, and the coverage pages
 
-The snapshot date, row counts, and the courses per region.
+`manifest.json` has the snapshot date, row counts, and the courses per state. `coverage.json` has
+how complete the data is nationally, by state, and by region (the numbers behind
+[COVERAGE.md](COVERAGE.md) and each state folder's README). Every course in `courses.csv` belongs
+to one region; the [API](https://lukeheide.com/sports/yardage-hub/docs) gives each course's region.
 
 ### Things to know
 
@@ -104,9 +132,9 @@ The snapshot date, row counts, and the courses per region.
   pairs of nines, or named courses like West and North), each is its own course with its own
   ratings, and a row of kind `facility` groups them. If you want a list of places to play golf,
   skip `facility` rows; if you want a list of clubs, use them.
-- **Coverage varies.** Every course has a location; most have holes and pars from
-  OpenStreetMap; tees, ratings, and yardages come from published scorecards and contributors
-  and are still being filled in. An empty cell means we don't know yet, which is where your
+- **Coverage varies** ([how much](COVERAGE.md)). Every course has a location; most have holes and
+  pars from OpenStreetMap; tees, ratings, and yardages come from published scorecards and
+  contributors and are still being filled in. An empty cell means we don't know yet, which is where your
   [help](#help-fix-the-data) comes in.
 - **`kind` is inferred** from OpenStreetMap tags, names, and mapped holes, so a few are wrong.
   Those can be fixed with an edit too.

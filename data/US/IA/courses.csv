@@ -28,7 +28,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 104f9a04-8f88-4bc0-a600-88d7f4d57f14,relation/3954513,Deer Run Golf Course,,course,,,active,,,,,,,,,,IA,,US,41.350032,-93.5894861,2026-10-11T15:12:35Z
 11709eca-c25e-4a3b-bac1-56fdac8f5278,way/296975114,Sloan Golf Course,,course,,,active,,,,,,,,,,IA,,US,42.2362232,-96.2342776,2026-10-11T13:30:27Z
 1185402a-8e93-4aa6-abab-00c1aed29048,way/236507114,Dyersville Golf and Country Club,,course,,,active,,,,,,,,,,IA,,US,42.4906685,-91.0972599,2026-10-11T15:12:03Z
-118e2066-330d-4173-bb34-252dda55d45a,way/296975108,Primghar Golf and Country Club,,course,,,active,,5,,,+1 712-957-6781,http://primghariowa.org/index.php?id=90,,720 2nd Street Northeast,Primghar,IA,51245,US,43.0868432,-95.6141605,2026-10-11T15:06:23Z
+118e2066-330d-4173-bb34-252dda55d45a,way/296975108,Primghar Golf and Country Club,,course,,,active,,,,,+1 712-957-6781,http://primghariowa.org/index.php?id=90,,720 2nd Street Northeast,Primghar,IA,51245,US,43.0868432,-95.6141605,2026-10-11T15:06:23Z
 11fe9677-4b0d-42c9-8fdc-df04f648e196,relation/13655587,,,course,,,active,9,34,,,,,,,,IA,,US,42.4630772,-94.6419444,2026-10-11T15:12:41Z
 120f7c0b-2986-4997-887b-e5c82d078c12,way/243246126,Riceville Country Club,,course,,,active,,,,,,,,,,IA,,US,43.3661902,-92.5484816,2026-10-11T15:12:05Z
 126ec9a9-21ea-4429-8cb6-096200857ded,way/206162328,Gates Park Golf Course,,course,,,active,,,,,+1-319-291-4485,https://www.golfgatespark.com/,,820 East Donald Street,Waterloo,IA,50703,US,42.5235332,-92.3235512,2026-10-11T15:12:03Z
@@ -36,7 +36,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 144230e4-7de4-4982-ae79-d242cfb7aed9,way/297465693,Duck Creek Golf Course,,course,,,active,18,72,,,+1 563-326-7824,https://www.cityofdavenportiowa.com/department/division.php?structureid=375,,3000 East Locust Street,Davenport,IA,52803,US,41.543898,-90.5264009,2026-10-11T15:12:10Z
 14750d8c-0db7-4631-b448-2e8cd71b4079,relation/1507320,Tournament Club of Iowa,,course,,,active,18,71,,,,,,,,IA,,US,41.7861809,-93.720781,2026-10-11T15:12:30Z
 14ca6819-3706-4b6a-a9c9-39af60beaa7a,way/297465717,Rustic Ridge Golf Course,,course,,,active,9,36,,,+1 563-285-8119,http://www.golfrusticridge.com/,,1151 East Iowa Street,Eldridge,IA,52748,US,41.6474788,-90.571248,2026-10-11T15:12:10Z
-16c6831d-8789-4b02-b01a-1a7b6d6816a0,way/297307959,Cedar Creek Golf Course,,course,,,active,,63,,,+1-641-683-0646,http://www.cedarcreekgolfcourse.com/,,13120 Angle Road,Ottumwa,IA,52501,US,41.080923,-92.4148838,2026-10-11T15:12:10Z
+16c6831d-8789-4b02-b01a-1a7b6d6816a0,way/297307959,Cedar Creek Golf Course,,course,,,active,,,,,+1-641-683-0646,http://www.cedarcreekgolfcourse.com/,,13120 Angle Road,Ottumwa,IA,52501,US,41.080923,-92.4148838,2026-10-11T15:12:10Z
 173b89f0-fdc1-49b0-9bd9-081e623f60a6,way/340335230,Legend Trail Golf Course,,course,,,active,,,,,,,,,,IA,,US,42.5739837,-92.7638388,2026-10-11T15:12:14Z
 1824e0d5-aac4-4af6-9067-10f2a31798e9,way/297296961,Des Moines Driving Range,,practice,,,active,,,,,+1 515-289-1703,https://markegly.com/des-moines-range,,2944 Northeast 66th Avenue,Des Moines,IA,50313,US,41.6786843,-93.6577434,2026-10-11T15:12:10Z
 183a2c17-2135-477c-bc09-8773cf1fa3fc,way/74271995,Airport National Golf Course,,course,,,active,,,,,+1-319-848-4500,https://www.airportnationalpublicgolf.com/,,3001 Wright Brothers Blvd East,Cedar Rapids,IA,52404,US,41.886479,-91.6224837,2026-10-11T15:06:07Z
@@ -46,8 +46,8 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 1996a557-055f-42d9-806a-7272d7b69bd4,way/245015758,Waukon Golf and Country Club,,course,,,active,,,,,,,,,,IA,,US,43.2653923,-91.4711466,2026-10-11T15:12:05Z
 199fcab0-b7fb-4497-a660-ea15cecca454,way/297393096,Walton Golf Club,,course,,,active,9,34,,,+1 641-472-4909,https://www.thewaltonclub.com/,,2265 Walton Lake Road,Fairfield,IA,52556,US,41.0139887,-91.9321106,2026-10-11T15:12:10Z
 1b7618d9-9b3e-44f9-98fd-1e59d277ff48,way/48272363,Bunker Hill Golf Course,,course,,,active,18,,,,,,,,,IA,,US,42.512099,-90.6985145,2026-10-11T15:11:53Z
-1b99bb1e-008a-49e4-b402-b8a41d3849cf,relation/3954514,Don Williams Golf Course,,course,,,active,,31,,,,,,,,IA,,US,42.1257104,-94.0243173,2026-10-11T15:12:35Z
-1c72e21d-5693-41de-9248-d0d11f4a5472,way/192362008,Westwood Golf Course (9-hole),,course,,,active,,4,,,,,,,,IA,,US,41.2517861,-95.9095358,2026-10-11T15:12:01Z
+1b99bb1e-008a-49e4-b402-b8a41d3849cf,relation/3954514,Don Williams Golf Course,,course,,,active,,,,,,,,,,IA,,US,42.1257104,-94.0243173,2026-10-11T15:12:35Z
+1c72e21d-5693-41de-9248-d0d11f4a5472,way/192362008,Westwood Golf Course (9-hole),,course,,,active,,,,,,,,,,IA,,US,41.2517861,-95.9095358,2026-10-11T15:12:01Z
 1d1c18c5-5764-4db1-95be-ff4e8f0087d8,way/297060676,Manson Golf and Country Club,,course,,,active,,,,,+1 712-469-3996,http://www.golfmanson.com/,,1500 Country Club Lane,Manson,IA,50563,US,42.5372086,-94.5273078,2026-10-11T13:30:27Z
 1f16c55d-02de-42bb-8f5f-c330319b842c,way/325051465,Collison Par 3 Golf Course,,par3,,,active,,,,,,,,,,IA,,US,42.0970122,-92.888979,2026-10-11T15:12:12Z
 1f506195-ee2b-4d27-92bd-98229c0bcd56,way/297307956,Oakland Acres Golf Club,,course,,,active,,,,,+1 641-236-7111,http://www.oaklandacresgolfclub.com/,,13476 Highway 6 East,Grinnell,IA,50112,US,41.7207298,-92.8196204,2026-10-11T15:12:10Z
@@ -66,7 +66,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 2686b8b8-f4b3-44a0-81c0-068059818449,way/325314320,The Harvester Golf Club,,course,,,active,18,72,,,,,,,,IA,,US,41.8705314,-93.2136175,2026-10-11T15:12:12Z
 2689d4a4-d0aa-4fe3-879b-4348ec3d2dcb,relation/12870702,Twin Pines Golf Course,,course,,,active,18,72,,,,,,,,IA,,US,42.0248529,-91.6967006,2026-10-11T15:12:41Z
 26f0a87d-56ac-4adf-9bb9-fa686e4ca932,way/297125985,Beaver Meadows Golf Club,,course,,,active,,,,,,,,,,IA,,US,42.583197,-92.7858987,2026-10-11T15:06:23Z
-2827bcdc-6cf0-4f95-bae7-250df30bd1ad,way/297465692,Davenport Country Club,,course,,,active,,63,,,+1 563-332-4050,https://davenportcc.com/,,25500 Valley Drive,Pleasant Valley,IA,52767,US,41.5815075,-90.40898,2026-10-11T13:30:27Z
+2827bcdc-6cf0-4f95-bae7-250df30bd1ad,way/297465692,Davenport Country Club,,course,,,active,,,,,+1 563-332-4050,https://davenportcc.com/,,25500 Valley Drive,Pleasant Valley,IA,52767,US,41.5815075,-90.40898,2026-10-11T13:30:27Z
 28421077-f13c-47cd-875c-888019731158,way/297465715,Palmer Hills Golf Course,,course,,,active,18,,,,+1 563-332-8296,https://palmerhillsgolf.com/,,2999 Middle Road,Bettendorf,IA,52722,US,41.5445402,-90.4921627,2026-10-11T13:30:27Z
 28c53571-62a3-4bf8-ba20-916d60d7fa25,way/240331140,Tri-Club Golf Club,,course,,,active,,,,,,,,,,IA,,US,43.0757777,-91.4758643,2026-10-11T15:12:03Z
 28f9260e-2bb2-4b84-949e-c254d86eb5b3,way/296975101,Green Valley Golf Club,,course,,,active,,,,,+1 712-252-2025,http://www.greenvalleyfloyd.org/,,4300 Donner Avenue,,IA,,US,42.4256982,-96.3559265,2026-10-11T15:12:10Z
@@ -82,7 +82,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 2ded40cb-e3d2-4680-9c6a-5f0fa9abf67f,way/805800443,Wapsi Oaks Country Club,,course,,,active,,,,,+1-563-246-2216,https://www.wapsioaks.com,,1594 Highway 30,Calamus,IA,52729,US,41.8321781,-90.785433,2026-10-11T15:12:21Z
 301fa7ce-a5c6-4e61-8193-a91b7f7ed882,relation/3954515,Echo Valley Country Club,,course,,,active,,,,,+1 515-285-0101,https://echovalleycc.com/,,3150 Echo Valley Drive,Norwalk,IA,50211,US,41.5045727,-93.6613581,2026-10-11T13:31:27Z
 30223d8d-c29a-4ced-8192-304243d88271,way/477106892,,,course,,,active,,,,,,,,,,IA,,US,41.5211544,-92.0891943,2026-10-11T15:12:17Z
-30c34de1-87de-4e50-b0d6-ab1654a13429,way/297132033,Nishna Hills Golf Club,,course,,,active,,66,,,+1 712 243 9931,http://www.nishnahills.com/,,1504 East 14th Street,Atlantic,IA,50022,US,41.3987492,-94.989783,2026-10-11T15:12:10Z
+30c34de1-87de-4e50-b0d6-ab1654a13429,way/297132033,Nishna Hills Golf Club,,course,,,active,,,,,+1 712 243 9931,http://www.nishnahills.com/,,1504 East 14th Street,Atlantic,IA,50022,US,41.3987492,-94.989783,2026-10-11T15:12:10Z
 30f4d0d8-9b3a-4cd3-b9b5-630998e50e69,way/969247481,,,course,,,active,,,,,,,,,,IA,,US,42.9478746,-91.789836,2026-10-11T15:06:36Z
 31912c09-5e0f-4daf-83e2-766648f35286,way/218724473,Silver Lake Country Club,,course,,,active,,,,,,,,165 Country Club Drive,Lake Park,IA,51347,US,43.4366126,-95.3474556,2026-10-11T15:06:16Z
 3440e46c-179e-4816-a148-69eb20240c72,way/318169922,,,course,,,active,9,35,,,,,,,,IA,,US,41.5956087,-95.835482,2026-10-11T15:12:12Z
@@ -101,7 +101,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 3bf8ae96-b486-4062-8c12-013a6d579ea7,way/68775343,Talons of Tuscany Golf Club,,course,,,active,18,72,,,,,,,,IA,,US,41.7532553,-93.5757627,2026-10-11T15:11:55Z
 3d05af5b-855e-4a6b-99e1-eef388310e0c,way/297125988,Edgewater Golf Course,,course,,,active,,,,,+1-319-283-3258,http://golfoelwein.com/course/edgewater-golf-course/,,1432 Q Avenue,Oelwein,IA,50662,US,42.6518898,-91.9216601,2026-10-11T13:30:27Z
 3d15dd50-c07f-41da-906a-783cf3b0a886,way/164365614,Silver Springs Golf Club,,course,,,active,,,,,,,,,,IA,,US,43.1368905,-91.7733413,2026-10-11T13:30:03Z
-3ee210de-8c55-4e00-a7f9-83a545701d1a,way/1085890200,,,course,,,active,,27,,,,,,,,IA,,US,41.722174,-92.3843908,2026-10-11T15:12:24Z
+3ee210de-8c55-4e00-a7f9-83a545701d1a,way/1085890200,,,course,,,active,,,,,,,,,,IA,,US,41.722174,-92.3843908,2026-10-11T15:12:24Z
 3f37bc70-a29f-4b38-be73-cb0a113e06e3,way/319639527,Meadow Acres Golf Course,,course,,,active,,,,,+1-712-477-2576,https://www.meadowacresgolfcourse.com/,,1831 135th Street,Larchwood,IA,51241,US,43.4528337,-96.4132088,2026-10-11T15:12:12Z
 3fb8843f-83d4-4fbc-bbf0-db8ceecb4351,way/421920818,Edmundson Golf Course,,course,,,active,18,69,,,+1 641-673-5120,https://www.oskaloosaiowa.org/index.aspx?NID=100,,1608 Edmundson Drive,Oskaloosa,IA,52577,US,41.2786089,-92.6564226,2026-10-11T15:06:28Z
 3fc9ea4c-cde1-48bf-8077-c509efbebeb1,way/297132019,Atlantic Golf & Country Club,,course,,,active,18,69,,,+1 712-243-3656,https://www.theagcc.com/,,102 West 29th Street,Atlantic,IA,50022,US,41.3857866,-95.0203747,2026-10-11T15:12:10Z
@@ -175,14 +175,14 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 71abfd59-b596-45dc-8637-68fbeddfaed8,way/114891362,Lenox Community Golf Course,,course,,,active,,,,,+1 641 333 2990,http://mferguson314.wixsite.com/lenox-iowa/golf-course,,100 Country Club Drive,Lenox,IA,50851,US,40.8998313,-94.5527877,2026-10-11T15:06:10Z
 736e074c-396d-4996-818a-8c7d4e95033a,relation/2892527,Backbone Golf and Country Club,,course,,,active,,,,,,,,,,IA,,US,42.6413776,-91.5595996,2026-10-11T15:12:33Z
 73832884-c94e-4d26-a013-c1b2d938bc1f,way/1047217480,Manning Manilla Golf Course,,course,,,active,9,36,,,,,,3535 IA-141,Manning,IA,51455,US,41.9031484,-95.1821901,2026-10-11T15:12:24Z
-73f78bf9-827b-4cc5-8472-814f09198db8,relation/13924556,Willow Creek Golf Course,,course,,,active,,61,,,+1 515-285-4558,https://www.willowgolf.com/,,140 Army Post Road,West Des Moines,IA,50265,US,41.5248041,-93.7057574,2026-10-11T15:12:41Z
+73f78bf9-827b-4cc5-8472-814f09198db8,relation/13924556,Willow Creek Golf Course,,course,,,active,,,,,+1 515-285-4558,https://www.willowgolf.com/,,140 Army Post Road,West Des Moines,IA,50265,US,41.5248041,-93.7057574,2026-10-11T15:12:41Z
 73fdaae9-44a5-44f3-ba58-44d820a9e680,way/1169679129,,,course,,,active,,,,,,,,,,IA,,US,42.0668493,-91.011203,2026-10-11T15:12:27Z
 7410a034-c2b4-4539-a8c6-3b48f47ec389,way/297296971,Hill Golf Course,,course,,,active,,,,,,,,,,IA,,US,42.0327185,-94.273995,2026-10-11T13:30:27Z
 74143bf7-ca79-49f2-9470-00a6e78cf8ca,way/256632751,Fort Dodge Country Club,,course,,,active,18,70,,,,,,,,IA,,US,42.5061738,-94.2115385,2026-10-11T15:12:05Z
 74e0d724-11e5-490c-8448-5b3ea8cfc900,relation/10712609,Pebble Creek Golf Course,,course,,,active,,,,,,,,,,IA,,US,41.5873507,-90.3987608,2026-10-11T15:12:38Z
-7587486c-2ec5-4448-bac9-1832e17fa15c,way/50594588,Dodge Riverside Golf Club,,course,,,active,,68,,,+1 712-328-4660,https://www.councilbluffs-ia.gov/index.aspx?NID=255,,2 Harrahs Boulevard,Council Bluffs,IA,51501,US,41.2563307,-95.9127498,2026-10-11T13:29:44Z
+7587486c-2ec5-4448-bac9-1832e17fa15c,way/50594588,Dodge Riverside Golf Club,,course,,,active,,,,,+1 712-328-4660,https://www.councilbluffs-ia.gov/index.aspx?NID=255,,2 Harrahs Boulevard,Council Bluffs,IA,51501,US,41.2563307,-95.9127498,2026-10-11T13:29:44Z
 76846533-7874-482a-ba14-94ce6f5bc25e,way/74272017,Gardner Golf Course,,course,,,active,18,72,,,,,,,,IA,,US,42.0077098,-91.5558736,2026-10-11T15:11:55Z
-7a002e66-4928-4839-8fa2-b46aa3fc4103,relation/13889651,Willow Creek Golf Course,,course,,,active,,36,,,+1 712-546-6849,https://www.lemarsiowa.com/cvb/willowcreek.htm,,935 Park Lane,Le Mars,IA,51031,US,42.8059607,-96.147042,2026-10-11T15:12:41Z
+7a002e66-4928-4839-8fa2-b46aa3fc4103,relation/13889651,Willow Creek Golf Course,,course,,,active,,,,,+1 712-546-6849,https://www.lemarsiowa.com/cvb/willowcreek.htm,,935 Park Lane,Le Mars,IA,51031,US,42.8059607,-96.147042,2026-10-11T15:12:41Z
 7a7d0739-46df-4a06-8875-5557bc83878e,way/1019547981,Wapsipinicon Country Club,,course,,,active,,,,,+1 319-462-3930,https://www.wapsicountryclub.org/,,,,IA,,US,42.0942351,-91.2819076,2026-10-11T15:12:24Z
 7b2a84d6-3b2b-4f8e-98e3-7680701d5fa3,way/287891902,Saddleback Ridge Golf Course,,course,,,active,18,72,,,+1 319-624-1477,https://www.saddlebackridgegolf.com/,,4646 180th Street Northeast,Solon,IA,52333,US,41.8056578,-91.4786298,2026-10-11T13:30:16Z
 7bad64ff-0289-4c7d-ae3e-485d507f0cb9,way/293941289,Carroll Municipal Golf Course,,course,,,active,18,71,,,+1 712-792-9190,https://www.cityofcarroll.com/index.php/departments/parks-a-recreation/municipal-golf-course,,2266 North Main Street,Carroll,IA,51401,US,42.0878225,-94.8640583,2026-10-11T13:30:20Z
@@ -211,7 +211,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 895d6ebd-5aef-41c9-9440-b6d51b726b65,way/304298828,Prairie Links Golf Course & Event Center,,course,,,active,,,,,,,,,,IA,,US,42.7049339,-92.46418,2026-10-11T15:12:12Z
 89e2e552-e30a-4bb9-b4cb-86673bf8d12f,way/374317117,Bedford Golf Course,,course,,,active,,,,,,,,,,IA,,US,40.6893549,-94.7231244,2026-10-11T15:12:14Z
 8a456a09-64ec-4859-ae9b-e4b5a06b54c0,way/44807109,Coldwater Golf Links,,course,,,active,18,70,,,+15152334664,https://www.coldwatergolf.com/,,1400 South Grand Avenue,Ames,IA,50010,US,42.0126088,-93.6222433,2026-10-11T15:06:05Z
-8a874b4b-992c-44f3-a653-cad3c484f722,relation/16204297,Beaver Creek Golf Club,,course,,,active,,36,,,,,,,,IA,,US,41.7177703,-93.7701357,2026-10-11T15:12:43Z
+8a874b4b-992c-44f3-a653-cad3c484f722,relation/16204297,Beaver Creek Golf Club,,course,,,active,,,,,,,,,,IA,,US,41.7177703,-93.7701357,2026-10-11T15:12:43Z
 8ae44261-4310-4601-9d91-13005b0a0087,way/256488353,Highland Park Golf Course,,course,,,active,,,,,,,,,,IA,,US,43.1738129,-93.1842115,2026-10-11T13:30:12Z
 8b50a7f4-a325-4131-bb0e-88eae447450c,way/48272313,Dubuque Country Club,,course,,,active,18,70,,,,,,,,IA,,US,42.4852996,-90.6846034,2026-10-11T15:06:05Z
 8ba46833-1fc0-46f2-8a3a-af63f1b95b59,way/297060683,Ridge Stone Golf Club,,course,,,active,,,,,+1 641-892-8050,http://www.ridgestonegolf.com/,,7 Brickyard Road,Sheffield,IA,50475,US,42.8860454,-93.2267034,2026-10-11T15:12:10Z
@@ -259,11 +259,11 @@ a00607e9-272d-4762-a932-2feaeeddce10,way/354958019,Lake City Country Club,,cours
 a046f782-bb30-4289-8266-3924e64b14c4,way/191873625,Council Bluffs Country Club,,course,,,active,,,,,,,,,,IA,,US,41.215355,-95.8502092,2026-10-11T13:30:03Z
 a07f3d9a-5d07-41f0-9168-f1ba79a77aaa,way/297393076,Flint Hills Golf Course,,course,,,active,18,71,,,+1 319-752-2018,http://www.flinthillsgolf.com/,,12842 102nd Avenue,Burlington,IA,52601,US,40.8640013,-91.1213075,2026-10-11T15:12:10Z
 a1a9fd2a-921c-46e1-ad9a-437e42f8e897,way/154719948,Clarmond Country Club,,course,,,active,9,36,,,,,,,,IA,,US,42.7918394,-93.6795714,2026-10-11T15:12:00Z
-a306cc2b-c1c5-4b24-844b-0bcb2218b7b7,way/317130465,,,course,,,active,,4,,,,,,,,IA,,US,43.3462169,-92.1434115,2026-10-11T15:12:12Z
+a306cc2b-c1c5-4b24-844b-0bcb2218b7b7,way/317130465,,,course,,,active,,,,,,,,,,IA,,US,43.3462169,-92.1434115,2026-10-11T15:12:12Z
 a4948757-4b18-44b6-962b-dc39d577f322,way/46226621,River Bend Municipal Golf Course,,course,,,active,9,36,,,+15157332611,,,,,IA,,US,42.1913424,-93.5826229,2026-10-11T15:11:53Z
 a535c7dd-b928-4eeb-aab2-949ef518f6ae,way/412833315,Stone Creek Golf Club,,course,,,active,9,36,,,,,,812 Long Street,Williamsburg,IA,52361,US,41.6554921,-92.0148553,2026-10-11T15:06:28Z
 a5f5ea82-e05c-4544-870b-d23ff0128476,way/297060687,Slippery Elm Golf Course,,course,,,active,9,35,,,,,,,,IA,,US,42.9984891,-93.602628,2026-10-11T15:12:10Z
-a6fcc88c-1967-43de-8eb0-0f9eb69b0f2f,way/477610759,Albia Golf and Leisure,,course,,,active,,27,,,+1 641 932 5002,http://www.albiagolfandleisure.com/,,300 Country Club Road,Albia,IA,52531,US,41.0317801,-92.7852619,2026-10-11T15:12:17Z
+a6fcc88c-1967-43de-8eb0-0f9eb69b0f2f,way/477610759,Albia Golf and Leisure,,course,,,active,,,,,+1 641 932 5002,http://www.albiagolfandleisure.com/,,300 Country Club Road,Albia,IA,52531,US,41.0317801,-92.7852619,2026-10-11T15:12:17Z
 a715fbcf-e8f0-4f97-ae11-d108f1b961fd,way/479298686,Aurelia Golf Club,,course,,,active,9,35,,,+1 712 434 5498,https://www.aureliaia.com/Aurelia_Golf_Club_Inc.htm,,601 Valor Road,Aurelia,IA,51005,US,42.718448,-95.4313871,2026-10-11T15:12:17Z
 a7c2cf55-41d7-47fe-8859-4b0c6ba5831d,way/61317658,Waveland Golf Course,,course,,,active,18,72,,,,,,,,IA,,US,41.5964098,-93.6888385,2026-10-11T15:11:55Z
 a8858185-e440-4968-a9c5-724c8ec5e70c,way/390293738,Vinton Country Club,,course,,,active,,,,,+1 319 472 4052,https://vintoncountryclub.com/,,314 North 9th Avenue,Vinton,IA,52349,US,42.1742857,-92.0095172,2026-10-11T15:12:15Z
@@ -294,7 +294,7 @@ b591ced3-929d-44d3-a73f-75d9c05da42a,way/296975107,Prairie Rose Golf Club,,cours
 b59740ac-d353-4733-86d6-a4a242053260,way/296975103,Hidden Acres Golf Course,,course,,,active,,,,,+1 712-239-9942,https://www.hiddenacresgolf.com/,,5 South Hidden Acres Drive,Sioux City,IA,51108,US,42.580022,-96.3757229,2026-10-11T15:12:10Z
 b760d325-4942-48c6-a6e8-c8fe649bed36,way/297060685,River View Golf Course,,course,,,active,,,,,,,,,,IA,,US,43.3547114,-94.782786,2026-10-11T15:12:10Z
 b77b861d-824d-4272-a867-36214d5710b5,way/297393090,Sheaffer Memorial Golf Park,,course,,,active,,,,,+1 319-528-6214,https://www.sheaffergolf.com/,,1760 308th Avenue,Fort Madison,IA,52567,US,40.70295,-91.3134402,2026-10-11T15:12:10Z
-b78409bd-a118-4d45-8a96-e7099e06aa6d,way/47004969,Bright Grandview Golf Course,,course,,,active,,62,,,,,,,,IA,,US,41.6186999,-93.5563284,2026-10-11T15:11:53Z
+b78409bd-a118-4d45-8a96-e7099e06aa6d,way/47004969,Bright Grandview Golf Course,,course,,,active,,,,,,,,,,IA,,US,41.6186999,-93.5563284,2026-10-11T15:11:53Z
 b8191624-d78f-44fd-95eb-03ee3a1a67ef,way/82699232,Waverly Municipal Golf Course,,course,,,active,18,70,,,+1 319 352 1530,https://www.waverlygolf.com/,,,Waverly,IA,50677,US,42.7154668,-92.4796354,2026-10-11T15:11:55Z
 b975f133-e56a-4590-ba75-4700b7ef3359,way/297125995,Jackson Heights Golf Club,,course,,,active,9,,,,+1 563-776-9181,https://www.jacksonheightsgolf.com/,,3249 County Road V64,Jackson Junction,IA,52171,US,43.1117047,-92.0378442,2026-10-11T15:12:10Z
 b9ac80bd-566a-452b-9437-edd5a7aebe43,way/1035867443,,,course,,,active,,,,,,,,,,IA,,US,42.4102611,-94.9980467,2026-10-11T13:31:06Z
@@ -307,7 +307,7 @@ bf540e92-5f2e-4cb4-8f09-18ba1559bf80,relation/3953717,Lake Panorama National Gol
 bf99c1c0-2eea-47bb-82d1-ab0650bde2b9,way/296975110,Remsen Golf Course,,course,,,active,,,,,,,,,,IA,,US,42.8118407,-95.9844858,2026-10-11T15:06:23Z
 bfe52c3a-b26a-4776-a3fb-74a304c1f1d2,way/297393077,Cedars Edge Golf Course,,course,,,active,,,,,,https://cedarsedgegolf.com/,,3 Ember Lane,West Branch,IA,52358,US,41.6795382,-91.3612175,2026-10-11T15:12:10Z
 c0320232-1254-4e08-a626-ac4c5010ad97,way/256664390,Woods Edge Golf Course,,course,,,active,,,,,,,,,,IA,,US,42.6398157,-91.406241,2026-10-11T15:12:05Z
-c0327922-e6ff-41b9-992e-dafdfc18f8aa,way/151313431,Elmwood Country Club,,course,,,active,,67,,,,,,,,IA,,US,42.0244732,-92.9331514,2026-10-11T13:29:58Z
+c0327922-e6ff-41b9-992e-dafdfc18f8aa,way/151313431,Elmwood Country Club,,course,,,active,,,,,,,,,,IA,,US,42.0244732,-92.9331514,2026-10-11T13:29:58Z
 c1f126cf-f087-496c-87a4-d5653e5d6b14,way/348451269,Osceola Municipal Golf Course,,course,,,active,,,,,+1 641-342-3717,http://osceolacountryclub.com/,,400 East Fayette Street,Osceola,IA,50213,US,41.025064,-93.7564401,2026-10-11T15:12:14Z
 c2499096-7058-4b87-8bc1-282b702cf05e,way/245518298,Crestwood Golf Club,,course,,,active,18,71,,,,,,,,IA,,US,41.4369056,-94.7731225,2026-10-11T15:12:05Z
 c373a58b-ba40-49da-8593-8db0ecb8ec5c,way/50612139,Avoca Golf Club,,course,,,active,9,36,,,,,,,,IA,,US,41.4919603,-95.3306383,2026-10-11T15:11:53Z
@@ -318,7 +318,7 @@ c8a3f66c-7cb5-48fb-8bd1-8a8432ca9611,way/74271726,Saint Andrews Golf Course,,cou
 ca7e3101-9116-4eef-a666-58bb281473ef,way/318003606,Pine Lake Golf Course,,course,,,active,,,,,,,,,,IA,,US,42.372512,-93.0716977,2026-10-11T13:30:33Z
 ca9588d8-b266-4876-9342-5ee0c620def9,way/477127737,Marengo Golf Club,,course,,,active,,,,,+1 319 642 3508,,,1655 M Avenue,Marengo,IA,52301,US,41.7648129,-92.0676529,2026-10-11T15:12:17Z
 cbca54cb-4ee0-488c-86ab-63eded8912c9,way/297393075,Fairfield Golf and Country Club,,course,,,active,9,37,,,+1 641-472-4212,https://fgacc.com/,,905 East Harrison Avenue,Fairfield,IA,52556,US,40.9978445,-91.9535718,2026-10-11T15:12:10Z
-cc667ec8-f541-4cc8-8528-e7dd52502e90,way/297465704,Hidden Hills Golf Course,,course,,,active,,85,,,+1 563-332-5616,https://www.hiddenhills-golf.com/,,4335 Indiana Avenue,Bettendorf,IA,,US,41.6008753,-90.4701702,2026-10-11T15:12:10Z
+cc667ec8-f541-4cc8-8528-e7dd52502e90,way/297465704,Hidden Hills Golf Course,,course,,,active,,,,,+1 563-332-5616,https://www.hiddenhills-golf.com/,,4335 Indiana Avenue,Bettendorf,IA,,US,41.6008753,-90.4701702,2026-10-11T15:12:10Z
 cc9b2d4a-fafd-402c-b2fe-a8644c8c147b,way/297393086,Muscatine Municipal Golf Course,,course,,,active,,,,,+1 563-263-4735,http://www.muscatineiowa.gov/index.aspx?NID=171,,1820 Highway 38,Muscatine,IA,52761,US,41.4753611,-91.0441134,2026-10-11T13:30:27Z
 cd4c424f-11d7-4489-a000-d7d0852fd7ae,way/980756019,Willow Run Country Club,,course,,,active,9,35,,,,https://willowruncountryclub.com/,,,,IA,,US,42.6737419,-92.3228079,2026-10-11T15:12:24Z
 cefc06fc-a302-417e-90bd-fc2b4883218c,way/731221353,Amana Colonies Golf Course,,course,,,active,18,72,,,,,,,,IA,,US,41.8140424,-91.9096277,2026-10-11T15:12:21Z
@@ -345,14 +345,14 @@ e01d37e3-e327-485d-882d-1d7bace30a9a,way/37815652,Rock Valley Golf Club,,course,
 e0ae0872-2dff-4f90-a442-7a9442210019,way/297132022,Dunlap Golf Club,,course,,,active,,,,,,,,,,IA,,US,41.848531,-95.6007547,2026-10-11T15:12:10Z
 e18bb964-74c0-410d-9f54-8a2cc792833e,way/196621365,Webster City Country Club,,course,,,active,,,,,,,,,,IA,,US,42.4772461,-93.8290578,2026-10-11T15:12:01Z
 e1dd166b-2ac0-4827-bbf9-410ec0212e5a,way/102681377,Wakonda Club,,course,,,active,18,72,,,+1 515-285-4962,https://www.wakondaclub.com/,,3915 Fleur Drive,Des Moines,IA,50321,US,41.551828,-93.6400973,2026-10-11T13:29:49Z
-e3716357-a0de-4cb6-966e-c791801f74ea,way/1071762254,Rooling Hills Golf Course,,course,,,active,,28,,,,,,,,IA,,US,43.2111113,-96.1402375,2026-10-11T15:12:24Z
+e3716357-a0de-4cb6-966e-c791801f74ea,way/1071762254,Rooling Hills Golf Course,,course,,,active,,,,,,,,,,IA,,US,43.2111113,-96.1402375,2026-10-11T15:12:24Z
 e3915fcc-18c5-48ec-adea-722342277e36,way/239695299,Big Rock Country Club,,course,,,active,,,,,,,,,,IA,,US,42.844414,-91.7819117,2026-10-11T15:12:03Z
 e3d985a1-e89d-4f6a-b5ce-72ec5d983393,way/242898424,Lone Pine Golf Course,,course,,,active,,,,,,,,,,IA,,US,42.6354722,-91.1996052,2026-10-11T15:12:05Z
 e40f8ca5-54a8-4e12-b40b-d8076bb8f53e,way/297125996,Jewell Golf and Country Club,,course,,,active,,,,,+1 515-827-5631,http://www.jewellgolfandcountryclub.com/,,,,IA,,US,42.3149891,-93.6440045,2026-10-11T13:30:27Z
 e5ec0ecb-8605-48b1-96e5-c59deb323c9a,way/296975102,Hawarden Golf Course,,course,,,active,,,,,+1 712-551-4444,https://www.cityofhawarden.com/?page_id=241,,4502 Buchanan Avenue,Hawarden,IA,51023,US,42.9942574,-96.4655226,2026-10-11T15:12:10Z
-e707a3db-fbff-4342-bb24-9f5c2ceef244,relation/12088208,Woodland Hills Golf Course,,course,,,active,,36,,,+1 515-289-1326,https://www.golfwoodlandhills.com/,,620 Northeast 66th Avenue,Des Moines,IA,50313,US,41.6792049,-93.6080403,2026-10-11T15:12:41Z
+e707a3db-fbff-4342-bb24-9f5c2ceef244,relation/12088208,Woodland Hills Golf Course,,course,,,active,,,,,+1 515-289-1326,https://www.golfwoodlandhills.com/,,620 Northeast 66th Avenue,Des Moines,IA,50313,US,41.6792049,-93.6080403,2026-10-11T15:12:41Z
 e836f407-4509-4d84-beae-4aef9d8688ba,way/164289571,Meadowbrook Country Club,,course,,,active,,,,,,,,,,IA,,US,42.8553333,-92.1039865,2026-10-11T15:12:01Z
-e89370fe-a91d-473e-a3be-3f452f04fcff,relation/1434939,Jester Park Golf Course,,course,,,active,,68,,,,,,,,IA,,US,41.7824759,-93.7838722,2026-10-11T15:06:41Z
+e89370fe-a91d-473e-a3be-3f452f04fcff,relation/1434939,Jester Park Golf Course,,course,,,active,,,,,,,,,,IA,,US,41.7824759,-93.7838722,2026-10-11T15:06:41Z
 e8948ebf-0624-4931-8a5d-ffd7006044d8,way/297132026,Essex Golf Club,,course,,,active,,,,,,,,,,IA,,US,40.841785,-95.3361608,2026-10-11T15:12:10Z
 e8c53fb3-67a7-48e5-81e1-6b595d708f12,way/634303536,West Grand Golf,,course,,,active,,,,,,,,6450 Raccoon River Drive,West Des Moines,IA,50266,US,41.5358607,-93.7982173,2026-10-11T15:12:20Z
 e9048356-01b7-411f-b56d-6dd4117e8704,way/297132035,Quail Run Golf Course,,course,,,active,9,36,,,+1 712-485-2266,https://www.quailrun-ia.com/,,29512 285th Street,Neola,IA,51559,US,41.4429016,-95.6363464,2026-10-11T15:12:10Z
@@ -387,7 +387,7 @@ faa37bc2-cd12-4bc0-9ecd-380b56d88fcd,way/1071721295,Otter Valley Country Club,,c
 fb25b3e0-3536-4182-9e0f-8d1a9892e517,way/463532406,Wahkonsa Country Club,,course,,,active,,,,,,,,,,IA,,US,41.6017147,-90.9542781,2026-10-11T15:12:17Z
 fb665b95-2bf7-48a7-9147-bb53fb35dd87,way/296975112,Sanborn Golf and Country Club,,course,,,active,9,36,,,,,,,,IA,,US,43.1746595,-95.6686966,2026-10-11T15:12:10Z
 fb844718-35e7-49ee-ad53-73ae31acd027,way/74272035,Jones Golf Course,,course,,,active,,,,,,,,,,IA,,US,41.9470537,-91.6493019,2026-10-11T15:11:55Z
-fb8a2d71-6bee-47b7-887a-11ae59396941,relation/10543316,Jester Park Executive Golf Course,,course,,,active,,31,,,,,,,,IA,,US,41.7784914,-93.7800609,2026-10-11T13:31:37Z
+fb8a2d71-6bee-47b7-887a-11ae59396941,relation/10543316,Jester Park Executive Golf Course,,course,,,active,,,,,,,,,,IA,,US,41.7784914,-93.7800609,2026-10-11T13:31:37Z
 fb8b3e0f-d447-4f4c-bcb0-bed5f7e44bd6,way/243245931,Oakleaf Golf and Country Club,,course,,,active,,,,,,,,,,IA,,US,42.3371772,-92.6360532,2026-10-11T15:06:18Z
 fba17ed6-3538-464c-af27-dd2c13acb61e,way/191267755,Elks Lodge Country Club,,course,,,active,,,,,,,,,,IA,,US,41.6765855,-91.5507386,2026-10-11T15:12:01Z
 fcfd06e9-9e39-4855-ba88-b857fb13adcc,way/438663415,Majestic Hills Golf Course,,course,,,active,18,71,,,+1-712-263-5194,https://majestichillsgolf.com/,,2505 Boulders Drive,Denison,IA,51442,US,42.0012016,-95.341327,2026-10-11T13:30:44Z

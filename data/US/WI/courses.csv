@@ -13,11 +13,11 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 04c1856c-2646-4c46-8006-9cb6b0332ade,way/239910862,The Golf Course at Branch River,,course,,,active,,,,,+1-920-684-3319,https://golfbranchriver.com/,,3212 North Union Road,Cato,WI,54230,US,44.1379874,-87.7706234,2026-10-11T13:30:07Z
 04ca349a-066b-4e7e-8cc5-ae9e8bd7694a,way/1324184477,Bob Burns Golf,,course,,,active,,,,,,,,,,WI,,US,44.3182083,-88.409666,2026-10-11T15:06:40Z
 050a763d-b8f5-4b7b-8938-43032ed881c2,way/274465187,Shepherds Meadow Golf Course,,course,,,active,,,,,+1-608-635-3837,http://shepherdsmeadowgolf.com/,,1004 Links Drive,Poynette,WI,53955,US,43.4007967,-89.3906076,2026-10-11T15:12:07Z
-0515980a-0adb-43b0-92d5-f043f96dc058,way/46417916,Hilly Haven Golf Course,,course,,,active,,48,,,+1-920-336-6204,https://www.hillyhaven.com/,,920-336-6204 County Road PP,De Pere,WI,54115,US,44.3477946,-88.0445013,2026-10-11T15:11:53Z
+0515980a-0adb-43b0-92d5-f043f96dc058,way/46417916,Hilly Haven Golf Course,,course,,,active,,,,,+1-920-336-6204,https://www.hillyhaven.com/,,920-336-6204 County Road PP,De Pere,WI,54115,US,44.3477946,-88.0445013,2026-10-11T15:11:53Z
 058cd731-c639-4664-9008-96adcae5fe6b,way/292637513,Krooked Kreek Golf Course,,course,,,active,18,72,,,+1-715-294-3673,https://www.krookedkreek.com/,,2448-A County M,Osceola,WI,54020,US,45.3141973,-92.6641505,2026-10-11T15:06:19Z
 06253944-a708-40c2-a227-438dcf5aa280,node/8197911202,Appleton Indoor Golf,,practice,,,active,,,,,,,,,,WI,,US,44.2601023,-88.4574077,2026-10-11T15:05:59Z
 06d76825-e99b-43b4-b2e6-c925cdbc9c52,way/24217984,Blackhawk Country Club,,course,,,active,18,72,,,,https://www.blackhawkcc.com/,,3606 Blackhawk Drive,,WI,53705,US,43.0785374,-89.4586867,2026-10-11T15:11:49Z
-06e35d52-200d-4a4d-8072-6f90b443395a,relation/3899794,Wausau Country Club,,course,,,active,,5,,,+1-715-359-6161,http://www.wausaucountryclub.com/,,208 Country Club Road,Schofield,WI,54476,US,44.9063758,-89.6199484,2026-10-11T15:12:35Z
+06e35d52-200d-4a4d-8072-6f90b443395a,relation/3899794,Wausau Country Club,,course,,,active,,,,,+1-715-359-6161,http://www.wausaucountryclub.com/,,208 Country Club Road,Schofield,WI,54476,US,44.9063758,-89.6199484,2026-10-11T15:12:35Z
 06f499f5-0ee3-46d7-a7fc-427558652ce0,way/417406582,Saint Croix National Golf & Event Center,,course,,,active,18,,,,,,,1603 32nd Street,Somerset,WI,54025,US,45.0915009,-92.7290422,2026-10-11T15:12:15Z
 08cbf84f-f52a-4727-bdcc-1e66f5e70f8c,way/27372779,Oakwood Park Golf Course,,course,,,active,18,72,,,+1-414-281-6700,http://milwaukeecountygolfcourses.com/oakwood_details/,,3600 West Oakwood Road,Franklin,WI,53132,US,42.8645097,-87.9661821,2026-10-11T15:11:49Z
 0b24e0b3-493c-45f6-9104-c58fa3cb2c58,way/489455853,Verona Meadows,,course,,,active,,,,,,http://www.veronameadowsgolf.com/,,2905 Shady Oak Lane,Verona,WI,53593,US,43.0146059,-89.5637539,2026-10-11T15:12:17Z
@@ -27,7 +27,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 0e6f8b2c-be84-4417-ac53-ecf4766e5044,way/46595798,Green Bay Country Club,,course,,,active,18,,,,+1-920-339-4222,https://www.greenbaycountryclub.com/,,2400 Klondike Road,Green Bay,WI,54311,US,44.4447143,-87.9588577,2026-10-11T15:11:53Z
 0eb5614e-a75e-45d3-a9c3-84d2b61a1e84,relation/7614664,Spring Brook Golf Course,,course,,,active,,,,,+1-608-254-1477,https://www.spring-brook.com/golf.cfm,,242 Lake Shore Drive,Wisconsin Dells,WI,53965,US,43.6076612,-89.8122132,2026-10-11T15:06:49Z
 0ebd744c-dda5-4ff8-8ea1-fa02570908b8,way/344636394,Morningstar Golf's Club,,course,,,active,18,,,,,,,,,WI,,US,42.902969,-88.2686038,2026-10-11T15:12:14Z
-0fe60ca7-d66d-4985-8ac9-1e9dd7b39943,way/544425714,,,course,,,active,,68,,,,,,,,WI,,US,42.9674154,-88.4800131,2026-10-11T15:06:30Z
+0fe60ca7-d66d-4985-8ac9-1e9dd7b39943,way/544425714,,,course,,,active,,,,,,,,,,WI,,US,42.9674154,-88.4800131,2026-10-11T15:06:30Z
 0ffc43da-cd0d-4dbb-a1d3-59d0927971eb,way/292024350,Hickory Hills Country Club,,course,,,active,,,,,+1-920-849-2912,https://www.hhccgolf.com/,,W3095 Hickory Hills Road,Chilton,WI,53014,US,44.0545004,-88.1931977,2026-10-11T15:12:07Z
 1066aeb5-476e-48fa-ab53-879c49045cd3,way/292388761,Paganica Golf Course,,course,,,active,,,,,+1-262-567-0171,http://www.paganicagolfcourse.net/,,1335 South Silver Lake Street,Oconomowoc,WI,53066,US,43.0886201,-88.4931383,2026-10-11T13:30:16Z
 10de5f6a-d625-4d34-b469-794d6d14078f,relation/11372030,River Island Golf Course,,course,,,active,,,,,,,,,,WI,,US,44.8643709,-88.1381318,2026-10-11T15:12:41Z
@@ -48,7 +48,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 1bef2106-ec0e-41b9-83ac-1134f18f8189,way/292256118,The Rock Golf Club,,course,,,active,9,36,,,+1-920-324-2621,https://www.rockgolfclub.com/,,700 County Park Road,Waupun,WI,53963,US,43.6465639,-88.7662199,2026-10-11T15:12:07Z
 1c229ade-c061-4de8-ab2b-cd3d471b923d,way/45277222,Tribute Golf Course,,course,,,active,,,,,,,,,,WI,,US,44.990263,-89.6100023,2026-10-11T15:11:53Z
 1ce19b1a-a4ce-4689-801e-cbaad830560b,way/290626358,Skyline Golf Course,,course,,,active,,,,,+1-715-284-2613,https://www.golfskyline.com/,,612 North 11th Street,Black River Falls,WI,54615,US,44.303579,-90.8641602,2026-10-11T15:12:07Z
-1d234f6c-65ac-49a3-a13e-6243c4a33d7b,relation/6292488,Abbey Springs Golf Course,,course,,,active,,4,,,+1 262 275 6113,https://abbeysprings.org/,,1 Country Club Drive,Fontana,WI,53125,US,42.5416213,-88.5484799,2026-10-11T15:12:36Z
+1d234f6c-65ac-49a3-a13e-6243c4a33d7b,relation/6292488,Abbey Springs Golf Course,,course,,,active,,,,,+1 262 275 6113,https://abbeysprings.org/,,1 Country Club Drive,Fontana,WI,53125,US,42.5416213,-88.5484799,2026-10-11T15:12:36Z
 1e4d6186-dc16-45b8-9bd8-3c4039cb8180,way/372780750,,,course,,,active,,,,,,,,,,WI,,US,43.3134039,-88.0713147,2026-10-11T15:12:14Z
 1e9ccd36-98c1-4080-bda1-154539885625,way/585288412,Rolling Oaks Golf Course,,course,,,active,,,,,+1-715-537-3409,https://www.rollingoaksgolf.net/,,440 West Division Avenue,Barron,WI,54812,US,45.3978165,-91.8668119,2026-10-11T15:12:20Z
 1f21f4f5-c8a6-41c1-bf16-62216c46b684,way/46596019,Twin Oaks Country Club,,course,,,active,,,,,,,,,,WI,,US,44.4058003,-87.8732576,2026-10-11T15:06:05Z
@@ -60,15 +60,15 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 209a155a-e3fa-4291-9597-9e137e460e2d,way/260229033,Wedgewood,,course,,,active,,,,,+1-920-685-6161,https://www.wedgewoodsupperclub.com/golf,,1200 East Huron Street,Omro,WI,,US,44.0363858,-88.7287273,2026-10-11T15:12:05Z
 21941990-0fcf-43e5-9e46-d5e811731cf1,way/45849949,Washington Park Municipal Golf Course,,course,,,active,9,35,,,+1-262-653-4090,http://kenoshamunigolf.com/,,2205 Washington Road,Kenosha,WI,53140,US,42.5988905,-87.8389796,2026-10-11T15:06:05Z
 21c40873-b211-408c-98c2-d05f610daa24,way/274468891,Northbrook Country Club,,course,,,active,18,71,,,+1-920-845-2383,https://www.northbrookcc.com/,,407 Northbrook Road,Luxemburg,WI,54217,US,44.5561346,-87.7101703,2026-10-11T15:12:07Z
-22eef0cc-480c-45c4-921c-1208fa0d4560,way/23810685,Edgerton Towne Country Club,,course,,,active,,38,,,+1-608-884-4231,https://www.edgertontcc.com/,,115 Jenson Street,Edgerton,WI,53534,US,42.8364773,-89.055577,2026-10-11T15:11:49Z
+22eef0cc-480c-45c4-921c-1208fa0d4560,way/23810685,Edgerton Towne Country Club,,course,,,active,,,,,+1-608-884-4231,https://www.edgertontcc.com/,,115 Jenson Street,Edgerton,WI,53534,US,42.8364773,-89.055577,2026-10-11T15:11:49Z
 22fec911-525b-4c53-bced-d581f1e161d8,way/305808852,,,course,,,active,,,,,,,,,,WI,,US,44.1681217,-91.2577983,2026-10-11T15:12:12Z
 23585431-f4a3-4d1d-97fd-bccad6c67ab2,way/117149909,The Oaks Golf Course,,course,,,active,18,71,,,+1-608-837-4774,https://golftheoaks.com/,,4740 Pierceville Road,Cottage Grove,WI,53527,US,43.1124346,-89.178441,2026-10-11T15:06:10Z
 241f8557-00bb-464d-991b-38abd14a426d,way/292256132,The Ridges Golf Course,,course,,,active,18,72,,,+1-715-424-3204,https://www.ridgesgolfcourse.com/,,2311 Griffith Avenue,Wisconsin Rapids,WI,54494,US,44.3558728,-89.7937428,2026-10-11T15:12:07Z
 2470bd73-7137-4237-bf53-ecbb0dda768b,way/1213303348,Grand Geneva Golf Resort,,course,,,active,,,,,,,,,,WI,,US,42.6092199,-88.3937827,2026-10-11T15:12:27Z
-2497c149-a78a-489a-a428-cf4fe563492d,way/262087704,Lake Breeze Golf Club,,course,,,active,,4,,,+1-920-582-7585,https://www.lakebreezegolfclub.com/,,6333 Ball Prairie Road,Winneconne,WI,54986,US,44.1201935,-88.658736,2026-10-11T15:12:05Z
+2497c149-a78a-489a-a428-cf4fe563492d,way/262087704,Lake Breeze Golf Club,,course,,,active,,,,,+1-920-582-7585,https://www.lakebreezegolfclub.com/,,6333 Ball Prairie Road,Winneconne,WI,54986,US,44.1201935,-88.658736,2026-10-11T15:12:05Z
 24c149ec-c466-4c88-8a99-b1cf65aad053,relation/5297178,Lake Forest Golf Club,,course,,,active,,,,,,https://www.lakeforest-golfclub.com/index.html,,3801 Golf View Road,Eagle River,WI,54521,US,45.9264748,-89.1928983,2026-10-11T15:12:36Z
 25256dde-4f96-4f18-8d10-6a43aaa15d3a,relation/5325147,River Club of Mequon,,course,,,active,,,,,+1-262-242-1400,https://www.riverclubofmequon.com/,,12400 North Ville du Parc Drive,Mequon,WI,53092,US,43.2433822,-87.9556914,2026-10-11T15:12:36Z
-253ee6aa-7bd9-471a-88d6-cce16c641202,way/230864269,The Woods Golf Club,,course,,,active,,52,,,+1-920-468-5729,https://www.golfthewoods.com/,,530 Erie Road,Green Bay,WI,54311,US,44.492795,-87.9123501,2026-10-11T13:30:07Z
+253ee6aa-7bd9-471a-88d6-cce16c641202,way/230864269,The Woods Golf Club,,course,,,active,,,,,+1-920-468-5729,https://www.golfthewoods.com/,,530 Erie Road,Green Bay,WI,54311,US,44.492795,-87.9123501,2026-10-11T13:30:07Z
 25a8fde7-5973-4858-a3f3-3729299e0900,way/23825608,Bridges Golf Course,,course,,,active,18,,,,+1-608-244-1822,https://www.golfthebridges.com/,,2702 Shopko Drive,Madison,WI,53704,US,43.1155815,-89.3451477,2026-10-11T15:11:49Z
 25b447f6-d19e-4580-a5fc-0a9ae439e289,way/74452148,Maxwelton Braes Golf Resort,,course,,,active,18,70,,,+1-920-421-4653,https://www.maxweltonbraes.com/golf/,,7670 Highway 57,Baileys Harbor,WI,54202,US,45.0439262,-87.1362268,2026-10-11T15:11:55Z
 25de7bf0-c83c-49a2-b2d6-a9019feaee1b,way/256668789,De Smidt's Golf Course & Country Club,,course,,,active,,,,,,,,N7559 Shaffer Road,Crivitz,WI,54114,US,45.235538,-88.0849384,2026-10-11T15:12:05Z
@@ -91,7 +91,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 2f7a14fb-3654-419f-af64-4bcbe9c9a955,way/512207999,The Club at Lac La Belle,,course,,,active,18,71,,,+1-262-567-7833,https://www.clubatlaclabelle.com/,,6996 Pennsylvania Street,Oconomowoc,WI,53066,US,43.1447525,-88.520854,2026-10-11T15:12:18Z
 2f985bf3-35e9-42f0-9bbb-38549773f6dd,way/292466647,South Hills Country Club,,course,,,active,,,,,+1-262-835-4400,https://www.southhillsgolf.com/,,3047 Highway 41,Franksville,WI,,US,42.7605224,-87.9488487,2026-10-11T15:12:07Z
 2fc06652-dffa-4c54-976e-a25c9b7b32b9,relation/11015543,Voyager Village,,course,,,active,,,,,,,,,,WI,,US,45.9650686,-92.1512937,2026-10-11T15:12:38Z
-3046fa9f-3795-45cc-8e74-f383ae827295,way/1552049150,Sandbox at Sand Valley,,par3,,,active,,51,,,,,,,,WI,,US,44.1781367,-89.8561117,2026-10-11T15:12:30Z
+3046fa9f-3795-45cc-8e74-f383ae827295,way/1552049150,Sandbox at Sand Valley,,par3,,,active,,,,,,,,,,WI,,US,44.1781367,-89.8561117,2026-10-11T15:12:30Z
 3060fe22-3837-4929-a5b9-3b7807041611,way/292388786,Whitnall Park Golf Course,,course,,,active,18,71,,,+1-414-425-7931,http://milwaukeecountygolfcourses.com/whitnall_details/,,6751 South 92nd Street,Franklin,WI,53132,US,42.919451,-88.0364075,2026-10-11T15:12:07Z
 31240642-a882-43fe-a86c-920bdc375d07,relation/12322219,Wild Rock Golf Club at The Wilderness,,course,,,active,18,72,,,+1-608-253-4653,https://www.wildrockgolf.com/,,856 Canyon Road,Wisconsin Dells,WI,53965,US,43.5910933,-89.7667816,2026-10-11T13:31:42Z
 313187af-8389-499f-9880-980ec64e9122,way/23810859,Hawks Landing Golf Club,,course,,,active,,,,,+1 608 848 4295,https://www.hawkslandinggolfclub.com/,,88 Hawks Landing Circle,Verona,WI,53593,US,43.0357006,-89.5459921,2026-10-11T13:29:34Z
@@ -130,9 +130,9 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 46060b48-fe50-4028-9d27-014a29c4c4cd,relation/4201149,The Legend at Bristlecone,,course,,,active,18,71,,,+1 262 367 7880,http://www.thelegendclubs.com/,,1500 Arlene Drive,Hartland,WI,53029,US,43.1141172,-88.3224776,2026-10-11T15:12:36Z
 474f2205-1588-4b6d-b8d5-bd9a895592c3,way/23604605,Lancaster Country Club,,course,,,active,,,,,+1-608-723-4266,http://www.lancastercountryclub.com/,,5E Golf Road,Lancaster,WI,53813,US,42.8371508,-90.7032091,2026-10-11T15:11:48Z
 485d85e1-d8ca-4523-a055-f8805566e661,way/25926585,Rolling Meadows Golf Course,,course,,,active,18,72,,,+1-920-929-3735,https://www.rollingmeadowsgolfcourse.com/,,560 West Rolling Meadows Drive,Fond du Lac,WI,54935,US,43.7479946,-88.4827084,2026-10-11T13:29:34Z
-48c31cae-c829-49c7-8a10-18dbb6883975,way/183946839,Twin Lakes Country Club,,course,,,active,,5,,,+1-262-877-2500,https://www.tlccgolf.com/,,1230 Legion Drive,Twin Lakes,WI,53181,US,42.5340796,-88.234931,2026-10-11T15:12:01Z
-48cfc900-9eea-4d13-8088-2f7fcf0198bd,relation/12096884,Westridge Golf Club,,course,,,active,,65,,,+1-920-725-2050,http://www.golfwgc.com/,,8130 Golf Course Drive,Neenah,WI,54956,US,44.1888625,-88.5390224,2026-10-11T15:12:41Z
-48d15e90-0813-43ee-bf86-ddd88a044983,way/306033189,Clifton Highlands Short Course,,par3,,,active,,29,,,,,,,,WI,,US,44.789527,-92.7458759,2026-10-11T15:12:12Z
+48c31cae-c829-49c7-8a10-18dbb6883975,way/183946839,Twin Lakes Country Club,,course,,,active,,,,,+1-262-877-2500,https://www.tlccgolf.com/,,1230 Legion Drive,Twin Lakes,WI,53181,US,42.5340796,-88.234931,2026-10-11T15:12:01Z
+48cfc900-9eea-4d13-8088-2f7fcf0198bd,relation/12096884,Westridge Golf Club,,course,,,active,,,,,+1-920-725-2050,http://www.golfwgc.com/,,8130 Golf Course Drive,Neenah,WI,54956,US,44.1888625,-88.5390224,2026-10-11T15:12:41Z
+48d15e90-0813-43ee-bf86-ddd88a044983,way/306033189,Clifton Highlands Short Course,,par3,,,active,,,,,,,,,,WI,,US,44.789527,-92.7458759,2026-10-11T15:12:12Z
 48edf030-2367-4733-a008-72da50a5102c,way/338909338,Pine Hills Golf Club,,course,,,active,,,,,+1-715-787-3778,https://www.pinehillsgolf.net/,,N9499 Pine Hills Drive,Gresham,WI,54128,US,44.9360081,-88.7749764,2026-10-11T15:12:14Z
 49096496-98a9-4dac-9f13-8b3d2eaaf607,way/292500416,Hiawatha Golf Club,,course,,,active,,,,,+1-608-372-5589,https://www.golfhiawatha.com/,,10229 Ellsworth Road,Tomah,WI,54660,US,44.0285598,-90.5298979,2026-10-11T15:12:07Z
 49b93c22-6a3e-4660-941d-778a765da317,way/285608846,Crane Meadows Golf Course,,course,,,active,,,,,+1-715-355-1264,https://www.golfcranemeadows.com/,,8103 Weston Avenue,Weston,WI,54476,US,44.8842731,-89.5191863,2026-10-11T15:12:07Z
@@ -162,15 +162,15 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 56d1f498-4d95-4620-8e91-d9e16b6ca2ad,way/41312386,Peninsula State Park Golf Course,,course,,,active,18,71,,,+1-920-854-5791,https://www.peninsulagolf.org/,,9890 Shore Road,Ephraim,WI,54211,US,45.150864,-87.1926205,2026-10-11T15:11:53Z
 57038bb4-1842-45fc-96b2-52bcb2543c88,way/292010201,Royal Scot Golf Course,,course,,,active,,,,,+1-920-866-2356,https://www.royalscotgolfclub.com/,,4831 Church Road,New Franken,WI,54229,US,44.5569162,-87.8360637,2026-10-11T15:12:07Z
 576b5125-6ccf-49b8-8ca8-8be0373eb2c2,way/665740661,Crystal Springs Golf Course,,course,,,active,18,72,,,,,,,,WI,,US,44.5261433,-88.354663,2026-10-11T15:12:20Z
-57def5cd-7c38-43e5-90be-3e746e3dd3e4,relation/9760057,,,course,,,active,,51,,,,,,,,WI,,US,43.8186885,-88.0088562,2026-10-11T13:31:37Z
+57def5cd-7c38-43e5-90be-3e746e3dd3e4,relation/9760057,,,course,,,active,,,,,,,,,,WI,,US,43.8186885,-88.0088562,2026-10-11T13:31:37Z
 583adc2c-64d4-4451-be88-2bfd18f5c1c9,way/184154857,Moorland Road Golf Center,,course,,,active,,,,,,http://www.moorlandgolf.com/,,5900 South Moorland Road,New Berlin,WI,53151,US,42.9352825,-88.1108994,2026-10-11T15:12:01Z
 587beabc-86cb-4c8f-a78d-9004f399e213,way/28043356,Platteville Golf and Country Club,,course,,,active,,,,,+1-608-348-4653,https://www.plattevillegolf.com/,,6729 North Water Street,Platteville,WI,53818,US,42.751214,-90.4707875,2026-10-11T15:11:49Z
 589acd3e-6522-4cff-b256-f3aab45e978c,way/264696260,Timber Ridge Golf Club,,course,,,active,18,72,,,+1-715-356-9502,https://www.timberridgegolfclub.com/,,10030 Timber Ridge Road,Minocqua,WI,54548,US,45.8224998,-89.7427603,2026-10-11T15:12:05Z
 59773659-2ef1-4f46-8991-1ff3ee3d0d21,way/292744980,Seven Lakes Golf Course,,course,,,active,,,,,,,,,,WI,,US,44.1143893,-87.8265272,2026-10-11T15:12:07Z
-59b18c6e-8c10-4163-a777-82b3853aa2a0,way/292500394,Arcadia Country Club,,course,,,active,,15,,,+1-608-323-3626,https://arcadiacountryclub.com/,,340 Golf Lane,Arcadia,WI,54612,US,44.252882,-91.4774427,2026-10-11T15:06:19Z
+59b18c6e-8c10-4163-a777-82b3853aa2a0,way/292500394,Arcadia Country Club,,course,,,active,,,,,+1-608-323-3626,https://arcadiacountryclub.com/,,340 Golf Lane,Arcadia,WI,54612,US,44.252882,-91.4774427,2026-10-11T15:06:19Z
 59b34df9-dff1-42de-b79e-557d7404da58,way/117152922,Jefferson Golf Club,,course,,,active,,,,,+1-920-674-2783,https://www.jeffersongolf13.com/,,913 Golf Drive,Jefferson,WI,53549,US,42.9992214,-88.7925609,2026-10-11T15:06:10Z
 59dbf916-b7d2-4c5b-a310-730f86d1d36a,way/511779746,Woodland Golf Course,,course,,,active,,,,,,,,,,WI,,US,42.847945,-87.8743927,2026-10-11T15:12:18Z
-5a1d32f7-cc23-4a12-979d-38636d6a47e2,way/1183735637,Short Course,,par3,,,active,,18,,,,https://www.peninsulagolf.org/golf/short-course,,,,WI,,US,45.1463801,-87.1861162,2026-10-11T15:12:27Z
+5a1d32f7-cc23-4a12-979d-38636d6a47e2,way/1183735637,Short Course,,par3,,,active,,,,,,https://www.peninsulagolf.org/golf/short-course,,,,WI,,US,45.1463801,-87.1861162,2026-10-11T15:12:27Z
 5a90c24b-f5f3-44ed-9f5b-03ff9dfd8bea,way/461399130,Clear Lake Golf Club,,course,,,active,9,36,,,+1-715-263-2500,,,100 Golf Drive,Clear Lake,WI,54005,US,45.2576254,-92.2529952,2026-10-11T15:12:17Z
 5aa420b8-8674-4f18-a28c-a48308891c74,way/23810966,Bass Creek Golf Club,,course,,,active,,,,,+1-608-876-6631,https://www.golfbasscreek.com/,,1303 South Murphy Road,Janesville,WI,53548,US,42.6573091,-89.2184446,2026-10-11T15:11:49Z
 5ab5dfe4-9475-4f4b-bc96-3c2e21bd5679,way/603933516,The Golf Course at Camelot,,course,,,active,18,73,,,+1 920-269-4949,https://www.golfcamelot.com/,,W192 State Highway 67,Lomira,WI,53048,US,43.5913321,-88.40581,2026-10-11T15:12:20Z
@@ -201,7 +201,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 66c8a792-bc00-49b0-8d77-44b4cc1ad827,relation/14579919,The Four Seasons Island Resort,,course,,,active,,,,,+1-877-324-5244,https://www.thefourseasonswi.com/golf/golf.htm,,N16800 Shoreline Drive,Pembine,WI,54156,US,45.5669321,-87.8352576,2026-10-11T15:12:41Z
 675f6957-71b0-4cd9-9fe8-48c2d9e464e7,way/1304407129,Sand Valley Golf Resort,,course,,,active,18,72,,,,,,,,WI,,US,44.1916126,-89.8515398,2026-10-11T13:31:14Z
 67ae0f0e-be88-4a79-a18f-4cf225a2e892,way/330292965,,,course,,,active,,,,,,,,,,WI,,US,45.2369178,-91.1248793,2026-10-11T13:30:33Z
-683fdf1e-1a03-44fd-b343-1a874dc1b3cf,way/266256646,Bull's Eye Country Club,,course,,,active,,36,,,+1-715-423-2230,https://www.bullseyecountryclub.com/,,2800 Ridgewood Trail,Wisconsin Rapids,WI,54494,US,44.3666988,-89.8495819,2026-10-11T15:12:05Z
+683fdf1e-1a03-44fd-b343-1a874dc1b3cf,way/266256646,Bull's Eye Country Club,,course,,,active,,,,,+1-715-423-2230,https://www.bullseyecountryclub.com/,,2800 Ridgewood Trail,Wisconsin Rapids,WI,54494,US,44.3666988,-89.8495819,2026-10-11T15:12:05Z
 68aa743f-67ad-48ac-9980-77257c7d892e,relation/11900910,Barker Lake Golf Course,,course,,,active,,,,,+1-715-266-4152,https://haywardlakes.com/barkerlake/,,6877W Golf Course Road,Winter,WI,54896,US,45.917188,-91.0235905,2026-10-11T15:12:41Z
 68ba4443-f7d2-42d6-a06a-60a4e6bdd6ea,node/13576230114,The Baths,,course,,,active,,,,,,,,,,WI,,US,43.7244933,-87.7803879,2026-10-11T13:29:32Z
 69929398-0eb6-4504-8fae-17f1e0e044a6,way/292388746,Dretzka Park Golf Course,,course,,,active,18,72,,,+1-414-354-7300,http://milwaukeecountygolfcourses.com/dretzka_details/,,12020 West Bradley Road,Milwaukee,WI,53224,US,43.1681187,-88.0558271,2026-10-11T15:12:07Z
@@ -217,10 +217,10 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 6f9512f5-adf7-4243-89db-38b0c65587c3,way/255741480,Telemark Golf Course,,course,,,active,,,,,+1-715-798-3104,https://telemarkgolfcourse.com/,,41885 Valhalia Townhouse Road,Cable,WI,54821,US,46.1824671,-91.2386317,2026-10-11T15:12:05Z
 7081ca41-0350-423b-9fca-4a6d944e57bc,way/25926601,Beaver Dam Country Club,,course,,,active,18,72,,,+1-920-885-4106,https://www.beaverdamcountryclub.com/,,W8884 Sunset Drive,Beaver Dam,WI,53916,US,43.4965941,-88.8478182,2026-10-11T15:06:00Z
 710ca084-8156-46a2-a9df-d7dc81023f76,way/292500419,Hickory Grove Country Club,,course,,,active,,,,,+1-608-822-3314,https://hickorygrovegolfcourse.com/,,14562 US Highway 61,Fennimore,WI,53809,US,43.0356006,-90.6584304,2026-10-11T15:12:07Z
-7294d0c6-5eb8-4f79-807d-fc62c195dcd2,way/264074811,Forest Hills Golf Course,,course,,,active,,73,,,+1 608 779 4653,https://www.foresthillsgolf.org/,,600 Losey Boulevard North,La Crosse,WI,54601,US,43.8167711,-91.2089923,2026-10-11T13:30:12Z
+7294d0c6-5eb8-4f79-807d-fc62c195dcd2,way/264074811,Forest Hills Golf Course,,course,,,active,,,,,+1 608 779 4653,https://www.foresthillsgolf.org/,,600 Losey Boulevard North,La Crosse,WI,54601,US,43.8167711,-91.2089923,2026-10-11T13:30:12Z
 74a5a44f-6905-4f4b-9edb-57cf983b41cd,way/23443024,Windy Acres Golf Course,,course,,,active,9,36,,,,,,,,WI,,US,42.5368691,-89.5778994,2026-10-11T15:05:59Z
 762565f3-3bbb-4ad7-b2fe-027a35fe9679,way/852438229,Birchwood Golf Course,,course,,,active,,,,,,,,,,WI,,US,42.5490803,-90.6190984,2026-10-11T15:12:23Z
-76c6e5a2-b1e1-4f13-aecc-11de9527d5e1,way/27260407,Wild Ridge Golf Course,,course,,,active,,59,,,+1-715-834-1766,https://wildridgegolf.com/,,3905 Kane Road,Eau Claire,WI,54703,US,44.8326186,-91.5696044,2026-10-11T15:11:49Z
+76c6e5a2-b1e1-4f13-aecc-11de9527d5e1,way/27260407,Wild Ridge Golf Course,,course,,,active,,,,,+1-715-834-1766,https://wildridgegolf.com/,,3905 Kane Road,Eau Claire,WI,54703,US,44.8326186,-91.5696044,2026-10-11T15:11:49Z
 76db2db4-5089-4338-aacc-ac440223becc,way/84735139,Petrifying Springs Golf Course,,course,,,active,18,69,,,+1-262-697-4653,https://www.petrifyingspringsgolf.com/,,4909 7th Street,Kenosha,WI,53144,US,42.6503636,-87.8672296,2026-10-11T15:06:07Z
 76e10635-df91-4df8-906b-66ad3ec0f2a0,way/133901493,Nine Springs Golf Course,,course,,,active,9,,,,+1 608 271 5877,,,,,WI,,US,43.0232561,-89.4206275,2026-10-11T15:11:57Z
 77eedbec-3c6d-47e8-a9f9-f89e71d4a0f7,way/292256111,Hon-E-Kor Country Club,,course,,,active,,,,,+1-262-626-2520,https://www.hon-e-kor.com/,,1141 Riverview Drive,Kewaskum,WI,53040,US,43.515106,-88.2144325,2026-10-11T15:12:07Z
@@ -247,7 +247,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 80cf3670-8714-4dbb-9ba5-ee1cf8be9b94,way/292388784,Western Lakes Golf Course,,course,,,active,18,,,,+1-262-691-0900,https://westernlakes.com/,,W287 N1963 Oakton Road,Pewaukee,WI,53072,US,43.0541634,-88.3172157,2026-10-11T15:12:07Z
 812e52fc-54dc-4bc6-a0b6-9a4918d66562,relation/4319678,Walnut Grove Golf Course,,course,,,active,18,70,,,,,,211 Walnut Drive,Cochrane,WI,54622,US,44.2268544,-91.8236218,2026-10-11T15:12:36Z
 81da9b7e-de4b-4b1d-a4b3-415f2c97fd96,way/23817622,Turtleback Golf Course,,course,,,active,18,,,,+1-715-234-7641,https://www.turtlebackgolf.com/,,1985 18 1/2 Street,Rice Lake,WI,54868,US,45.4941211,-91.7718822,2026-10-11T15:11:49Z
-82156225-26ad-47c9-8e10-34289606c02e,relation/8900988,,,course,,,active,,30,,,,,,,,WI,,US,44.5121408,-89.1154054,2026-10-11T15:12:38Z
+82156225-26ad-47c9-8e10-34289606c02e,relation/8900988,,,course,,,active,,,,,,,,,,WI,,US,44.5121408,-89.1154054,2026-10-11T15:12:38Z
 8295f3eb-e645-4243-8d82-a130a125680d,relation/5489625,Whispering Springs Golf Club,,course,,,active,18,72,,,+1 920 921 8053,https://whisperingspringsgolf.com/,,380 Whispering Springs Drive,Fond du Lac,WI,54937,US,43.7919532,-88.3748472,2026-10-11T13:31:32Z
 82b3f215-d5f8-4a30-9cb6-733b48d93872,way/286339498,Big Oaks Golf Course,,course,,,active,,,,,,,,6117 123rd Place,Pleasant Prairie,WI,53158,US,42.4984915,-87.8766737,2026-10-11T15:12:07Z
 8348fb26-0a94-443d-a4c8-fb5d70229be9,way/292466644,Meadowbrook Country Club,,course,,,active,18,71,,,+1-262-898-9900,http://www.mccdicarlo.com/,,2149 North Green Bay Road,Racine,WI,53405,US,42.7422112,-87.8304235,2026-10-11T15:12:07Z
@@ -294,7 +294,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 97d9df03-fb99-47b6-a1b2-d446be4e0e1c,way/23689898,Marshfield Country Club,,course,,,active,18,70,,,+1-715-384-4409,https://www.golfmcc.com/,,11426 Wren Road,Marshfield,WI,54449,US,44.6612291,-90.2138508,2026-10-11T15:11:49Z
 98269b94-ebca-4a73-b307-5ab951558d8b,way/36894805,Edelweiss Chalet Country Club,,course,,,active,,,,,+1-608-527-2315,https://www.edelweissccc.com/,,W4764 Edelweiss Road,New Glarus,WI,53574,US,42.7957601,-89.5990688,2026-10-11T15:06:03Z
 989b2865-a616-414b-85ee-8b8476f30fb6,way/292388739,Autumn Ridge Colf Course,,course,,,active,,,,,+1-920-758-3333,https://www.autumnridgegolfcourse.com/,,One Straight Drive,Valders,WI,54245,US,43.9901402,-87.8625448,2026-10-11T15:12:07Z
-99d28e84-f053-498b-9e8b-e173f32057bd,way/758644689,Alpine Valley Resort,,course,,,active,,4,,,,,,,,WI,,US,42.7382042,-88.430519,2026-10-11T15:12:21Z
+99d28e84-f053-498b-9e8b-e173f32057bd,way/758644689,Alpine Valley Resort,,course,,,active,,,,,,,,,,WI,,US,42.7382042,-88.430519,2026-10-11T15:12:21Z
 9a41e463-7c7a-4b67-a40b-c65e537fe6e1,way/1561063393,Hidden Greens North Golf Club,,course,,,active,18,72,,,,,,,Solon Springs,WI,,US,46.3623235,-91.7859648,2026-10-11T15:12:30Z
 9b3afaf7-d3cf-4dac-a417-3617a5919f50,way/690014652,Pine Valley Golf Course,,course,,,active,18,71,,,+1-715-443-2848,https://www.golfpinevalley.net/,,301 136th Avenue,Marathon,WI,54448,US,44.9497006,-89.8034635,2026-10-11T15:12:21Z
 9b3ee060-35b5-4636-88e5-bef269fe3b03,way/23442796,Butternut Hills Golf Course,,course,,,active,,,,,+1-715-635-8563,http://www.butternuthillsgolf.com/,,N2981 Golf Road,Sarona,WI,54870,US,45.7423722,-91.697565,2026-10-11T15:11:48Z
@@ -316,7 +316,7 @@ a226f06e-1249-446a-9c50-1f181e5ac332,way/31251999,Goldeneye Club,,course,,,activ
 a27008a2-5b60-43cc-80f0-ac4a092928ff,way/30684024,Fairfield Hills Golf Course,,course,,,active,,,,,+1-608-356-5524,https://www.fairfieldhillsgolfcourse.com/,,S3308 Fox Hill Road,Baraboo,WI,53913,US,43.5270817,-89.7573067,2026-10-11T15:11:49Z
 a2cba078-0667-47c2-a4b7-e790713da82f,way/23817226,Hayward Golf Club,,course,,,active,18,71,,,+1-715-634-2760,https://www.haywardgolf.com/,,16005 Radio Hill Road,Hayward,WI,54843,US,46.0196031,-91.4965947,2026-10-11T15:11:49Z
 a3365478-3e95-4225-9ff0-afe729ddb8c7,way/206048033,Silver Spring Golf Club,,course,,,active,,,,,+1-262-252-4994,https://www.silverspringgolf.com/,,N56W21318 Silver Spring Drive,Menomonee Falls,WI,53051,US,43.1256366,-88.1722314,2026-10-11T15:12:03Z
-a3772f69-e648-4f02-b070-b27786a8ce07,way/175945362,Windwood of Watertown,,course,,,active,,4,,,+1-920-262-0702,https://windwoodofwatertown.com/,,W5710 County Road CW,Watertown,WI,53098,US,43.2007932,-88.6745016,2026-10-11T15:12:01Z
+a3772f69-e648-4f02-b070-b27786a8ce07,way/175945362,Windwood of Watertown,,course,,,active,,,,,+1-920-262-0702,https://windwoodofwatertown.com/,,W5710 County Road CW,Watertown,WI,53098,US,43.2007932,-88.6745016,2026-10-11T15:12:01Z
 a3ea1232-d34d-4f6a-9da8-cbf7e9257f03,relation/11176499,Pinewood Country Club,,course,,,active,18,71,,,+1-715-282-5500,https://www.pinewoodcc.com/,,9000 Pinewood Valley Road,Harshaw,WI,54529,US,45.6885647,-89.6675619,2026-10-11T15:12:38Z
 a4b57ec9-981c-41fc-8522-952111e0db3a,way/685852867,,,course,,,active,,,,,,,,,,WI,,US,45.9123751,-92.3626565,2026-10-11T15:12:21Z
 a5588919-cc86-4947-9068-2401aff53e92,way/840008738,,,course,,,active,,,,,,,,,,WI,,US,45.2604319,-91.1078223,2026-10-11T15:06:35Z
@@ -350,7 +350,7 @@ b1bfee47-1770-4962-99a4-7d5660ac54e2,way/608807209,Castle Rock Golf Course,,cour
 b1d612eb-afd5-40ca-9d4a-c57d4132fbb1,way/292388741,Chenequa Country Club,,course,,,active,18,,,,+1-262-367-1320,https://www.chenequacc.org/,,6250 North Highway 83,Hartland,WI,53029,US,43.1393496,-88.3651638,2026-10-11T15:12:07Z
 b213ec8f-b938-4e15-af44-7754fd96303b,way/450100171,Riverside Golf & Recreation,,course,,,active,,,,,,,,11701 State Highway 27/70,Raddison,WI,54867,US,45.7778412,-91.2811414,2026-10-11T15:12:15Z
 b349b471-88de-4981-8b5a-4963fb173040,way/28503325,Mound View Golf Course,,course,,,active,,,,,+1-608-339-3814,https://moundviewgolf.com/,,1930 14th Court,Friendship,WI,53934,US,43.9770833,-89.8385105,2026-10-11T15:06:00Z
-b3e77885-3a51-49dc-824e-1c879d9bb7c2,way/292500408,Drugan's Castle Mound,,course,,,active,,67,,,,https://www.drugans.com/,,W7665 Sylvester Road,Holmen,WI,54636,US,44.0312402,-91.2808972,2026-10-11T15:12:07Z
+b3e77885-3a51-49dc-824e-1c879d9bb7c2,way/292500408,Drugan's Castle Mound,,course,,,active,,,,,,https://www.drugans.com/,,W7665 Sylvester Road,Holmen,WI,54636,US,44.0312402,-91.2808972,2026-10-11T15:12:07Z
 b40f6597-8974-42c9-8672-f3b18937c8ff,way/266069657,Bristol Oaks Golf Club,,course,,,active,18,72,,,+1-262-857-2302,https://www.bristoloaks.com/,,16801 75th Street,Bristol,WI,53104,US,42.5599323,-88.0160339,2026-10-11T13:30:12Z
 b49e9eae-d7e9-45af-a0fc-79beecbc3a26,way/255625417,Lake Superior View Golf,,course,,,active,,,,,+1-715-373-1100,https://lakesuperiorviewgolf.com/,,950 County Highway C,Washburn,WI,54891,US,46.6772368,-90.9119247,2026-10-11T15:12:05Z
 b4b2207b-0b13-4b9d-8de3-fe5e18d8abf3,way/47156703,Lake Mills Golf Course,,course,,,active,,,,,+1-920-648-5013,https://www.lakemillsgolfclub.com/,,800 South Main Street,Lake Mills,WI,53551,US,43.068607,-88.9061842,2026-10-11T15:11:53Z
@@ -376,7 +376,7 @@ bd0946f4-9d30-4705-9abf-73554e6f127b,way/334223624,Badlands Golf Course,,course,
 bd196ffd-823e-449a-a192-5ba615c6b577,way/85873860,Tee-Hi Golf Course,,course,,,active,,,,,,,,,,WI,,US,45.1327697,-90.3369778,2026-10-11T13:29:49Z
 bd1a916d-c968-4752-baa5-ffb42e0846fd,way/23816450,Osseo Golf Club,,course,,,active,,,,,+1-715-597-3215,https://www.osseogolfclub.com/,,715-597-3215 2nd Street,Osseo,WI,54758,US,44.573161,-91.2149176,2026-10-11T13:29:34Z
 bdb4a47e-1c9e-434d-afb4-e3a1a9d471c5,way/126075117,Old Hickory Golf Club,,course,,,active,18,72,,,+1-920-887-7179,http://www.thenewoldhickory.com/,,W7596 Highway 33 East,Beaver Dam,WI,53916,US,43.4512132,-88.7759882,2026-10-11T15:11:57Z
-bf5d6e35-b444-485f-9923-645854853873,way/292637526,New Richmond Golf Club,,course,,,active,,67,,,+1-715-246-6724,https://www.nrgolfclub.com/,,1226 180th Avenue,New Richmond,WI,54017,US,45.1234385,-92.5615625,2026-10-11T15:12:07Z
+bf5d6e35-b444-485f-9923-645854853873,way/292637526,New Richmond Golf Club,,course,,,active,,,,,+1-715-246-6724,https://www.nrgolfclub.com/,,1226 180th Avenue,New Richmond,WI,54017,US,45.1234385,-92.5615625,2026-10-11T15:12:07Z
 bfa71147-a940-498e-902c-658a87732452,way/292388783,West Bend Lakes Golf Club,,course,,,active,,,,,+1-262-675-9922,https://westbendlakesgolf.com/,,1241 Highway 33,West Bend,WI,53095,US,43.4221286,-88.096147,2026-10-11T15:12:07Z
 bfe8a8db-724f-47fd-ace5-a6c9c5327efc,way/31500578,Rib Mountain Golf Course,,course,,,active,,,,,,,,,,WI,,US,44.9323979,-89.6837915,2026-10-11T15:11:49Z
 c0656c95-0c82-4dbf-855c-663046c91806,way/237103187,Wander Springs Golf Course,,course,,,active,,,,,+1-920-864-4653,https://wandersprings.com/,,4342 Wayside Road,Greenleaf,WI,54162,US,44.2492023,-87.9069244,2026-10-11T15:12:03Z
@@ -397,7 +397,7 @@ c9ec2739-f31c-4496-9abb-09b8492808bd,way/257607345,Beechwood Golf Course,,course
 caaa61cb-b2c5-45de-9b1f-2435a2664405,way/292466641,Kenosha Country Club,,course,,,active,18,70,,,+1-262-552-8488,http://www.kenoshacountryclub.com/,,500 13th Avenue,Kenosha,WI,53141,US,42.6582377,-87.8309948,2026-10-11T15:12:07Z
 cac9a468-3c9f-4353-a25f-aa5cf4322d86,way/782867909,Whispering Pines Golf Course,,course,,,active,18,72,,,+17152894653,https://whisperingpinesgc.net/,,,Cadott,WI,,US,44.9404175,-91.1765898,2026-10-11T15:12:21Z
 cb33bb66-3e6a-4194-98e0-072c8d8412ae,way/26999188,Mellen Country Club,,course,,,active,,,,,,,,,,WI,,US,46.3593446,-90.6789699,2026-10-11T15:11:49Z
-cc778bda-dbf5-4ae0-a815-4da1d135dcb9,relation/4082324,Clifton Highlands Golf Club,,course,,,active,,62,,,+1-715-262-5141,https://www.cliftonhighlands.com/,,N6890 1230th Street,Prescott,WI,54021,US,44.7900635,-92.7530689,2026-10-11T15:12:35Z
+cc778bda-dbf5-4ae0-a815-4da1d135dcb9,relation/4082324,Clifton Highlands Golf Club,,course,,,active,,,,,+1-715-262-5141,https://www.cliftonhighlands.com/,,N6890 1230th Street,Prescott,WI,54021,US,44.7900635,-92.7530689,2026-10-11T15:12:35Z
 ccb73f33-8738-490e-8703-4da7cc5172d9,way/28569271,Washington County Golf Course,,course,,,active,18,72,,,+1-262-670-6616,https://www.golfwcgc.com/,,6439 Clover Road,Hartford,WI,53027,US,43.3330763,-88.3526583,2026-10-11T15:11:49Z
 cd978da6-f898-4c94-8058-3ac99d268147,way/28771644,Door Creek Golf Course,,course,,,active,18,71,,,+1-608-839-5656,https://www.doorcreekgolfcourse.com/,,4321 Vilas Road,Cottage Grove,WI,53527,US,43.0814441,-89.2344482,2026-10-11T15:11:49Z
 ce97050d-19e5-4fb8-903d-a8e8cf00361c,way/447987808,Big Fish Golf Course,,course,,,active,18,72,,,,https://golfbigfish.com/,,14122W True North Lane,Hayward,WI,54843,US,45.9917226,-91.3943893,2026-10-11T13:30:44Z
@@ -459,7 +459,7 @@ e5b54fd5-bccc-4303-baa5-04f270fa34b2,way/592116883,White Tail Golf Course,,cours
 e5c718fc-01af-4ccc-afd2-1fef53969dfe,way/124510851,Majestic Oaks at Lake Lawn Resort,,course,,,active,18,70,,,+1-800-338-5253,https://www.lakelawnresort.com/golf/,,2400 East Geneva Street,Delavan,WI,53115,US,42.6240942,-88.6024703,2026-10-11T13:29:54Z
 e6c656eb-2fbe-4ab7-a4af-d031c4074b1a,relation/5338766,The Legend at Brandybrook,,course,,,active,18,72,,,,,,,,WI,,US,43.0066213,-88.3512514,2026-10-11T13:31:32Z
 e7a0acc1-7db8-49f2-8346-38d86abf1c1c,relation/19325439,Pleasant View Golf Course,,course,,,active,,,,,+1-608-831-6666,https://www.golfpleasantview.com/,,1322 Pleasant View Drive,Middleton,WI,53562,US,43.08573,-89.5488504,2026-10-11T15:12:45Z
-ea5e1ba1-d9c4-4f6d-bbaa-6d7fb5af146b,way/917634949,Highlands Course,,course,,,active,,26,,,,,,,,WI,,US,44.2380598,-88.5740147,2026-10-11T15:12:23Z
+ea5e1ba1-d9c4-4f6d-bbaa-6d7fb5af146b,way/917634949,Highlands Course,,course,,,active,,,,,,,,,,WI,,US,44.2380598,-88.5740147,2026-10-11T15:12:23Z
 eaa0b088-4bdd-456d-b5e1-695af29c8480,way/238152703,Fox Creek,,course,,,active,,,,,+1-920-755-3647,,,,,WI,,US,44.2328775,-87.6523399,2026-10-11T15:12:03Z
 eaffddf1-f0f7-4c93-b90b-93e6485a65cd,way/172414811,The Club at Strawberry Creek,,course,,,active,18,72,,,+1-262-857-8400,https://www.strawberrycreekclub.com/,,14810 72nd Street,Kenosha,WI,53142,US,42.5730264,-87.9848867,2026-10-11T13:30:03Z
 eb03e0b7-2e49-4e9d-87bb-2c0053594910,way/893769995,GLC Links,,par3,,,active,9,27,,,,,,,,WI,,US,43.8416091,-88.9985838,2026-10-11T15:12:23Z
@@ -477,7 +477,7 @@ f22a8334-b5b7-461e-bb60-99a500c7886c,way/292637543,Pine Crest Golf Course,,cours
 f25af1c6-5871-47e8-8dc0-04a7bac3489e,way/28110784,Norsk Golf Club,,course,,,active,9,36,,,+1-608-437-3399,https://www.norskgolfclub.com/,,2755 Golf Bowl Road,Mount Horeb,WI,53572,US,43.0064185,-89.7177527,2026-10-11T13:29:34Z
 f3045fec-7b03-491c-9cb5-ea029afdc95d,way/117538994,Watertown Coutry Club,,course,,,active,18,70,,,+1-920-261-5009,https://www.watertowncc.com/,,1340 North Water Street,Watertown,WI,53098,US,43.2266852,-88.730291,2026-10-11T15:06:10Z
 f3813d51-5785-41ae-9351-ed456ba097da,way/262294937,Butte des Morts Country Club,,course,,private,active,18,70,,,+1 920 738 5555,https://buttedesmortscc.org/,,3600 West Prospect Avenue,Appleton,WI,54915,US,44.2475988,-88.4609758,2026-10-11T13:30:12Z
-f38f9591-fb01-454f-9fda-f4277948fdef,way/223784851,Maple Hills Golf Course,,course,,,active,,8,,,+1-715-253-2448,http://www.maplehillsgolfcourse.net/,,N6621 Cardinal Lane,Wittenberg,WI,54499,US,44.8300437,-89.1210268,2026-10-11T15:12:03Z
+f38f9591-fb01-454f-9fda-f4277948fdef,way/223784851,Maple Hills Golf Course,,course,,,active,,,,,+1-715-253-2448,http://www.maplehillsgolfcourse.net/,,N6621 Cardinal Lane,Wittenberg,WI,54499,US,44.8300437,-89.1210268,2026-10-11T15:12:03Z
 f3b34805-8ecf-422f-923c-f1e0bb9b5dce,way/429530766,Par 3 Course,,par3,,,active,9,27,,,,,,,,WI,,US,43.0445199,-89.477215,2026-10-11T15:12:15Z
 f40778cb-da8b-4105-8bf2-328bb61e9dd3,way/847543555,Nicolet Country Club,,course,,,active,,,,,+1 715 674 4780,https://www.nicoletcountryclub.com/,,5245 Fairway Court,Laona,WI,54541,US,45.5598155,-88.6964504,2026-10-11T13:31:02Z
 f4b23dd0-a77e-4b08-b5f3-9ddfed1f49f2,way/292466638,Hawk's View Golf Club,,course,,,active,,,,,+1-877-429-5788,https://www.hawksviewgolfclub.com/,,7377 Krueger Road,Lake Geneva,WI,53147,US,42.6204508,-88.4234658,2026-10-11T15:12:07Z
@@ -486,7 +486,7 @@ f6efea00-8379-4328-bb45-49dc049394f5,way/31775149,Prairie du Chien Country Club,
 f78feec4-d9e1-4082-8559-4b12c634c001,way/27372830,Greenfield Park Golf Course,,course,,,active,18,,,,+1-414-256-4010,,,12035 West Greenfield Avenue,West Allis,WI,53214,US,43.0133816,-88.0622507,2026-10-11T15:06:00Z
 f8a0fd1a-cfc8-4802-bfad-c9037e1c7ff5,way/292637482,Bristol Ridge Golf Course,,course,,,active,18,72,,,+1-715-247-3673,https://www.bristolridgegolfcourse.com/,,1978 County Road C,Somerset,WI,54025,US,45.1481488,-92.6383706,2026-10-11T15:12:07Z
 f92921d4-4f59-4371-b7f3-1b2ba36d5bfe,relation/4629672,,,course,,,active,,,,,,,,,,WI,,US,45.478008,-91.0838022,2026-10-11T15:12:36Z
-fa325bef-c974-4599-9912-350736dc4dc6,way/1507374454,Winagamie Pines and Woodlands 18,,course,,,active,,66,,,,,,,,WI,,US,44.2398521,-88.5784862,2026-10-11T15:12:29Z
+fa325bef-c974-4599-9912-350736dc4dc6,way/1507374454,Winagamie Pines and Woodlands 18,,course,,,active,,,,,,,,,,WI,,US,44.2398521,-88.5784862,2026-10-11T15:12:29Z
 fb64d5b9-7ae8-4567-90a8-776d39aa6ac7,way/28487753,Wisconsin Club,,course,,,active,,,,,+1-414-353-8800,https://www.wisconsinclub.com/,,6200 West Good Hope Road,Milwaukee,WI,53223,US,43.1523102,-87.9915611,2026-10-11T15:11:49Z
 fbbe9a27-ad05-4448-9fa8-58f2f47b73f2,way/172019819,Fire Ridge Golf Club,,course,,,active,18,73,,,+1-262-375-2252,https://www.fireridgegc.com/,,2241 Highway W,Grafton,WI,53024,US,43.3539577,-87.9309576,2026-10-11T15:12:01Z
 fe1b21b9-cbbd-45cc-9c57-f0140865fc9d,way/457363059,Hartford Golf Club,,course,,,active,,,,,,,,,,WI,,US,43.2997461,-88.3917282,2026-10-11T15:12:17Z

@@ -16,7 +16,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 210559bc-2c1a-4ba1-928d-c9a37b642f41,way/1509865680,WinStar Golf Club & Academy,,course,,,active,,,,,+1-580-276-4229,,,10813 Pro Shop Road,Thackerville,OK,73459,US,33.7486553,-97.1217781,2026-10-11T15:12:29Z
 244d5324-2158-48d1-806d-f18dc5b7f764,way/244980067,Oklahoma City Golf & Country Club,,course,,,active,18,69,,,+1 405 848 5611,https://www.okcgcc.com/,,7000 Northwest Grand Boulevard,Nichols Hills,OK,73116,US,35.5406639,-97.5532325,2026-10-11T15:12:05Z
 27a89cc3-5ae0-4f74-a460-108c91f86176,way/594269602,,,course,,,active,18,70,,,,,,,,OK,,US,35.8569179,-97.9205525,2026-10-11T15:12:20Z
-28280c1c-5030-40f1-aa84-dbf9f361bd68,way/897360284,River Bend North Nine,,course,,,active,,29,,,,,,,,OK,,US,35.0703264,-97.9040572,2026-10-11T15:12:23Z
+28280c1c-5030-40f1-aa84-dbf9f361bd68,way/897360284,River Bend North Nine,,course,,,active,,,,,,,,,,OK,,US,35.0703264,-97.9040572,2026-10-11T15:12:23Z
 2b802294-0f32-4404-abc8-08dcec6526cf,way/371931074,Perry Golf & Country Club,,course,,,active,9,35,,,,,,2001 North 9th Street,Perry,OK,73077,US,36.3078712,-97.2959271,2026-10-11T15:12:14Z
 2bdce9ba-242a-4a1b-86ff-27ab4d7002f1,way/1218756145,River Oaks Golf Club,,course,,,active,18,71,,,+1-405-771-5800,https://riveroaksgolfok.com/,,10909 Clubhouse Rd,Edmond,OK,73013,US,35.583832,-97.4162112,2026-10-11T15:12:27Z
 2c175e72-0bb2-4754-bf08-756a96b73a50,way/361995747,,,course,,,active,,,,,,,,,,OK,,US,35.8321411,-96.411503,2026-10-11T15:06:26Z
@@ -38,13 +38,13 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 4337425f-ae7c-46df-9efc-fa0c42de8b7a,node/10013811957,,,course,,,active,,,,,,,,,,OK,,US,35.430703,-96.2869542,2026-10-11T13:29:32Z
 43f981d2-7439-4802-8583-b3f3f374269c,way/1086013705,,,course,,,active,,,,,,,,,,OK,,US,35.9974024,-95.8930859,2026-10-11T13:31:06Z
 483421e0-a2bb-4518-bf72-bdd7798791f8,way/232480170,The Links,,course,,,active,18,,,,,,,,,OK,,US,36.1702046,-97.0647791,2026-10-11T15:12:03Z
-4a820fee-0f2e-4917-b1ff-7902c3ce462b,way/1445905942,GC of Edmond,,course,,,active,,51,,,,,,,,OK,,US,35.6854015,-97.4340117,2026-10-11T15:12:29Z
-4be7ffb9-6ca9-4d6e-8494-14e2469ba324,way/558056480,Cherokee Springs Golf Club,,course,,,active,,15,,,,,,,,OK,,US,35.8800574,-94.9640189,2026-10-11T15:12:18Z
+4a820fee-0f2e-4917-b1ff-7902c3ce462b,way/1445905942,GC of Edmond,,course,,,active,,,,,,,,,,OK,,US,35.6854015,-97.4340117,2026-10-11T15:12:29Z
+4be7ffb9-6ca9-4d6e-8494-14e2469ba324,way/558056480,Cherokee Springs Golf Club,,course,,,active,,,,,,,,,,OK,,US,35.8800574,-94.9640189,2026-10-11T15:12:18Z
 4c3944f8-8531-4eab-9b88-e3ad56dbf8b5,way/181218194,Lake Hefner Golf Course,,course,,,active,,,,,+1 405 843 1565,https://www.okcgolf.com/golf-course/lake-hefner-golf-club,,4491 South Lake Hefner Drive,Oklahoma City,OK,73116-1530,US,35.5505044,-97.6044065,2026-10-11T15:06:14Z
 4c57ab10-2938-4907-97e2-6410ceb30b5f,way/677095750,,,par3,,,active,9,27,,,,,,,,OK,,US,35.3217598,-97.5939116,2026-10-11T15:12:20Z
 50361b9b-df04-4770-81e7-e45ec8ee5049,node/13092589852,,,course,,,active,,,,,,,,,,OK,,US,36.070104,-95.6272718,2026-10-11T13:29:32Z
 57d77e90-1405-4775-ba1f-b44395dee873,way/1277903189,Legacy Golf Course,,course,,,active,9,35,,,,,,,Longdale,OK,,US,36.1555451,-98.5990949,2026-10-11T15:12:28Z
-5ad22f9e-d47b-44b1-864b-995423160514,way/558056481,Cherokee Springs Golf Club,,course,,,active,,16,,,,,,,,OK,,US,35.8816728,-94.9607563,2026-10-11T15:12:18Z
+5ad22f9e-d47b-44b1-864b-995423160514,way/558056481,Cherokee Springs Golf Club,,course,,,active,,,,,,,,,,OK,,US,35.8816728,-94.9607563,2026-10-11T15:12:18Z
 5c1acfb3-60e5-4a9c-bcba-940838d3a09f,relation/14622885,,,course,,,active,,,,,,,,,,OK,,US,36.7940296,-97.7452205,2026-10-11T15:12:41Z
 5d568628-3cea-498c-a0a4-a5274fec3325,way/495099599,Tinker Golf Course,,course,,,active,18,72,,,,,,6441 Arnold Street,Oklahoma City,OK,73145,US,35.4313961,-97.413661,2026-10-11T15:12:17Z
 5dfe4475-3503-4853-8072-770159331dfc,way/111323640,Broken Arrow Golf & Athletic Club,,course,,,active,18,70,,,+1-918-355-0602,https://www.brokenarrowgolfac.com/,,1651 East Omaha Street,Broken Arrow,OK,74012,US,36.0842672,-95.7706829,2026-10-11T15:11:57Z
@@ -54,7 +54,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 65d7dd0a-7ded-4c4e-8cc7-e199e6696ec1,way/362084669,Generations Golf Course,,course,,,active,,,,,,,,164779 South Broadway,Marlow,OK,73055,US,34.62895,-97.9713778,2026-10-11T13:30:39Z
 661a96ea-5489-4404-b48b-71828234cf34,way/454912986,Lawton Country Club,,course,,,active,,,,,+1 580 353 2076,https://www.lawtoncc.com/,,4601 West Gore Boulevard,Lawton,OK,73505,US,34.6126214,-98.4525962,2026-10-11T15:12:17Z
 66591e21-e3b5-4d99-9805-ee1ce239f61d,way/279545358,Cobblestone Golf Course,,course,,,active,,,,,,,,700 East Smith Ferry Road,Muskogee,OK,74403,US,35.703054,-95.3670504,2026-10-11T15:12:07Z
-66e2b28b-bbd6-4e2d-a135-b3ee8d281f52,way/769791424,Silverhorn Golf Club,,course,,,active,,62,,,,,,,,OK,,US,35.5855834,-97.5004309,2026-10-11T15:06:33Z
+66e2b28b-bbd6-4e2d-a135-b3ee8d281f52,way/769791424,Silverhorn Golf Club,,course,,,active,,,,,,,,,,OK,,US,35.5855834,-97.5004309,2026-10-11T15:06:33Z
 69277a2e-1079-463b-b2c7-ce9f9e70d47f,way/1278206457,Boiling Springs Golf Club,,course,,,active,18,71,,,+1-580-256-1206,https://www.boilingspringsgolfclub.com/,,5283 State Highway 34C,Woodward,OK,73801,US,36.4509455,-99.3135646,2026-10-11T13:31:12Z
 694c03a6-e9ae-450f-9d2c-bd5aff928470,way/189483177,The Golf Club of Oklahoma,,course,,,active,18,72,,,+1-918-486-6575,https://www.golfcluboklahoma.com/,,20400 East 141st Street South,Broken Arrow,OK,74014,US,35.9661921,-95.7425774,2026-10-11T15:12:01Z
 6a6d033c-14f8-4c37-9729-e516bf195ec5,way/1428185074,Lakeview Golf Club,,course,,,active,18,70,,,,,,,,OK,,US,34.2179676,-97.148272,2026-10-11T15:12:29Z
@@ -64,7 +64,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 6d27a375-3e5f-4e6c-aa43-cc3fdb969b94,way/201148656,Kah-Wah-C Country Club,,course,,,active,,,,,,,,,,OK,,US,36.5840326,-96.6647559,2026-10-11T15:12:03Z
 71fd2eca-0d3a-4ea9-8cd6-1ab059fefaa3,way/218021047,,,course,,,active,,,,,,,,,,OK,,US,35.8607078,-98.4225865,2026-10-11T15:12:03Z
 74e37506-1c7e-40e3-9438-ddc4e0f50dba,way/248774894,Meadowbrook Country Club,,course,,,active,,,,,+1-918-252-4121,https://www.meadowbrookcc.net/,,9300 East 81st Street South,Broken Arrow,OK,74014,US,36.0427156,-95.8737887,2026-10-11T15:12:05Z
-75f2bb9c-ce89-41f8-8630-93fa9eec6fe4,relation/3947927,Oak Tree National,,course,,,active,,49,,,+1-405-348-2004,https://www.oaktreenational.com/,,1515 West Oak Tree Drive,Edmond,OK,73025,US,35.7192146,-97.5053636,2026-10-11T15:12:35Z
+75f2bb9c-ce89-41f8-8630-93fa9eec6fe4,relation/3947927,Oak Tree National,,course,,,active,,,,,+1-405-348-2004,https://www.oaktreenational.com/,,1515 West Oak Tree Drive,Edmond,OK,73025,US,35.7192146,-97.5053636,2026-10-11T15:12:35Z
 76db79d1-4e8d-4ca4-a851-6b5d4f5045db,way/500500113,Cedar Creek Golf Course,,course,,,active,18,72,,,,,,,,OK,,US,34.2041981,-94.7321834,2026-10-11T15:12:18Z
 77a14907-bbb5-4f8a-bbaa-59bdd2486a67,way/279491103,,,course,,,active,,,,,,,,,,OK,,US,35.7368256,-95.4160425,2026-10-11T13:30:16Z
 7a2e8fec-5257-441e-8917-6913644c6bb3,way/294264732,Earlywine Golf Club,,course,,,active,,,,,,,,,,OK,,US,35.3558134,-97.5764901,2026-10-11T15:12:08Z
@@ -85,7 +85,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 8b0ad55b-38ca-4c09-8cf7-7970b9f0b8de,way/1000651976,,,course,,private,active,,,,,,,,,,OK,,US,35.2858655,-99.038049,2026-10-11T15:12:24Z
 8b3d7402-5de8-4fe9-b4c5-4f2f2ac84db4,way/1494140868,,,course,,,active,,,,,,,,,,OK,,US,35.853082,-95.5912341,2026-10-11T15:06:40Z
 8bc70369-c4b5-4df9-af74-a44d820a76af,way/605641935,Wentz Golf Course,,course,,,active,18,71,,,,,,,,OK,,US,36.7330575,-97.0263135,2026-10-11T15:12:20Z
-8dbadb7e-28db-4e95-a0d8-63e72091482b,relation/19581332,Cedar Valley International Golf Course,,course,,,active,,37,,,,,,,,OK,,US,35.8619036,-97.559732,2026-10-11T15:06:54Z
+8dbadb7e-28db-4e95-a0d8-63e72091482b,relation/19581332,Cedar Valley International Golf Course,,course,,,active,,,,,,,,,,OK,,US,35.8619036,-97.559732,2026-10-11T15:06:54Z
 8de55ec2-79b5-4963-9a4f-2ed04ab66fe0,relation/7903080,Coffee Creek Golf Course,,course,,,active,18,70,,,,,,,,OK,,US,35.6928901,-97.4872347,2026-10-11T15:12:38Z
 8eb40b68-94b6-4125-8aac-76465ab6ff21,way/841090093,Lil' Links Golf Course,,course,,,active,,,,,,,,,,OK,,US,35.9901749,-95.8308753,2026-10-11T15:12:23Z
 8edafb51-75cc-4e7c-98cb-174436cd9416,way/362084673,Duncan Golf and Tennis Club,,course,,,active,,,,,+1 580 255 7706,https://www.duncangolfandtennisclub.com/,,1800 Country Club Road,Duncan,OK,73533,US,34.5285589,-97.9619563,2026-10-11T13:30:39Z
@@ -98,8 +98,8 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 9dc8a24e-e782-4c8c-a29c-bd0beebf3e0b,way/803468596,Ponca City Country Club,,course,,,active,18,72,,,,,,1101 North Pecan Road,Ponca City,OK,74604,US,36.7159209,-97.0447842,2026-10-11T15:12:21Z
 9f2fa2b3-fc58-4c21-8646-63568f2e28ae,way/296794836,Hidden Creek Family Golf Course,,course,,,active,9,30,,,+1-405-732-9999,https://midwestcityok.org/Facilities/Facility/Details/Hidden-Creek-Family-Golf-Course-3,,3210 Belaire Drive,Midwest City,OK,73130,US,35.4739165,-97.3908205,2026-10-11T13:30:27Z
 a4615c43-9f80-4ecf-b133-1bce1cdeb3ad,relation/6876811,Adams Golf Course,,course,,,active,18,72,,,,,,,,OK,,US,36.7524295,-95.9070189,2026-10-11T15:12:38Z
-a4b33b29-6b8a-454e-b8c9-ea8890174e72,way/1056420039,Cherokee Hills Golf Club,,course,,,active,,4,,,,,,770 West Cherokee Street,Catoosa,OK,74015,US,36.1676703,-95.7682746,2026-10-11T15:12:24Z
-a65a7ea4-b2f7-4bb6-84cb-ca957dc5b068,way/1079323807,,,course,,,active,,32,,,,,,,,OK,,US,34.6410435,-99.2889895,2026-10-11T15:12:24Z
+a4b33b29-6b8a-454e-b8c9-ea8890174e72,way/1056420039,Cherokee Hills Golf Club,,course,,,active,,,,,,,,770 West Cherokee Street,Catoosa,OK,74015,US,36.1676703,-95.7682746,2026-10-11T15:12:24Z
+a65a7ea4-b2f7-4bb6-84cb-ca957dc5b068,way/1079323807,,,course,,,active,,,,,,,,,,OK,,US,34.6410435,-99.2889895,2026-10-11T15:12:24Z
 a83f0171-8c35-44b4-8dad-4832c3f16fdf,relation/4498299,Cedar Ridge Country Club,,course,,,active,18,71,,,+1 918 252 2501,https://www.crccok.com/,,10302 South Garnett Road East,Broken Arrow,OK,74011,US,36.0118502,-95.8596234,2026-10-11T15:12:36Z
 a8a0f43f-31e9-4910-b416-02be41bef406,way/306474663,Sapulpa City Golf Course,,course,,,active,18,71,,,,https://www.rockcreekgolf.club/,,,,OK,,US,35.9917544,-96.1340117,2026-10-11T15:12:12Z
 a9187ca3-41b4-4050-9ebb-8e238c60ced9,way/456128841,,,course,,,active,,,,,,,,,,OK,,US,34.40039,-96.1552509,2026-10-11T15:12:17Z
@@ -121,20 +121,20 @@ bfe8031b-03bf-4b85-90b7-825cf3876fc5,way/1131240533,,,course,,,active,,,,,,,,,,O
 bfee2abf-fe84-4d10-afa5-4e76537704dc,way/237984555,White Barn Par 3 Golf,,par3,,,active,,,,,,,,,,OK,,US,36.1479171,-97.0361052,2026-10-11T15:12:03Z
 c01d637b-4c61-41ae-a550-f54322d2a292,way/456488464,,,course,,,active,,,,,,,,,,OK,,US,35.2680888,-95.1391388,2026-10-11T15:06:29Z
 c0ca259a-fd1d-4e15-81e3-fc832f869d65,relation/16718878,Bailey Ranch Golf Club,,course,,,active,18,72,,,,,,,,OK,,US,36.2807696,-95.861646,2026-10-11T15:12:43Z
-c1087adb-ee4d-4b4d-8318-ecf4982453d6,way/558054646,Cherokee Springs Golf Club,,course,,,active,,41,,,,,,,,OK,,US,35.8819468,-94.9708375,2026-10-11T15:06:30Z
+c1087adb-ee4d-4b4d-8318-ecf4982453d6,way/558054646,Cherokee Springs Golf Club,,course,,,active,,,,,,,,,,OK,,US,35.8819468,-94.9708375,2026-10-11T15:06:30Z
 c21b53a1-b21a-47fd-a5fa-425253818b29,way/1005404422,Pebble Creek Golf Course,,par3,,,active,9,27,,,,,,,,OK,,US,35.3934584,-97.7185659,2026-10-11T15:12:24Z
 c21f39e4-67d3-48f5-9d9d-8d7c67227fc8,way/1026613499,Territory Golf & Country Club,,course,,,active,,,,,,https://www.territorygolf.com/,,800 Territory Lane,Duncan,OK,73533,US,34.5091435,-98.0572133,2026-10-11T15:12:24Z
 c227e094-e9ce-4a38-adc4-90068603b64c,way/379475525,Cobblestone Creek Golf Course,,par3,,,active,9,27,,,,https://www.cobblestonecreekgolfclub.com/index.html,,1350 Cobblestone Creek Drive,Norman,OK,73072,US,35.1638499,-97.4214871,2026-10-11T15:12:14Z
 c35bec6e-6962-4323-97aa-d248ce4fad2f,way/593209979,Riverside Golf Course,,course,,,active,18,70,,,+1 580 323 5958,http://www.riversidegolf.co/,,,Clinton,OK,73601,US,35.5221662,-98.9541015,2026-10-11T15:12:20Z
 c5bedfa1-ce01-4be4-83ca-52a83e60b314,way/608024667,Woodward Municipal Golf Course,,course,,,active,9,35,,,,,,2500 Whittaker Way,Woodward,OK,73801,US,36.4216687,-99.3761699,2026-10-11T15:12:20Z
 c9e7c4e8-0eaa-49a3-a9e2-d9cdad8eb07f,way/492134255,Shangri La Golf Club,,course,,,active,18,,,,,,,,,OK,,US,36.5690503,-94.8443452,2026-10-11T15:12:17Z
-cd1f3edb-235e-4324-aab9-417044abc6db,relation/19581333,Cedar Valley Augusta Golf Course,,course,,,active,,38,,,,,,,,OK,,US,35.8644238,-97.5633343,2026-10-11T15:06:54Z
+cd1f3edb-235e-4324-aab9-417044abc6db,relation/19581333,Cedar Valley Augusta Golf Course,,course,,,active,,,,,,,,,,OK,,US,35.8644238,-97.5633343,2026-10-11T15:06:54Z
 ce30665e-47c5-4c55-bc92-c67c13588090,way/880513168,,,course,,,active,,,,,,,,,,OK,,US,35.2392597,-96.6636077,2026-10-11T15:12:23Z
 cf997676-c71a-40eb-b0fe-e9eb6660bb52,relation/20456747,O'Brien Park Golf Course,,course,,,active,,,,,,,,,,OK,,US,36.2465696,-95.9559381,2026-10-11T15:12:45Z
 d0928ad1-f96a-4278-82e2-060bf84c1902,way/1268832543,,,course,,,active,9,36,,,,,,,,OK,,US,34.5175767,-96.9775741,2026-10-11T15:12:28Z
-d17ff635-ddad-4f29-8747-0aa61f4b0c86,way/1428189455,Cimarron National Golf Club - Aqua Canyon Course,,course,,,active,,61,,,,,,,,OK,,US,35.8743511,-97.4917574,2026-10-11T15:12:29Z
+d17ff635-ddad-4f29-8747-0aa61f4b0c86,way/1428189455,Cimarron National Golf Club - Aqua Canyon Course,,course,,,active,,,,,,,,,,OK,,US,35.8743511,-97.4917574,2026-10-11T15:12:29Z
 d2707aac-1f87-4a5b-8f36-7a4524206eaf,way/552190833,Owasso Golf and Athletic Club,,course,,,active,18,72,,,,,,,,OK,,US,36.2697347,-95.8211599,2026-10-11T13:30:51Z
-d2a01772-ce1c-4233-8b67-ba0fd0db0f1b,relation/19543484,Oak Tree Country Club East Course,,course,,,active,,54,,,,,,,,OK,,US,35.7178067,-97.4883219,2026-10-11T15:12:45Z
+d2a01772-ce1c-4233-8b67-ba0fd0db0f1b,relation/19543484,Oak Tree Country Club East Course,,course,,,active,,,,,,,,,,OK,,US,35.7178067,-97.4883219,2026-10-11T15:12:45Z
 d3509a59-76fd-48a6-8743-5a333cf0dbd1,way/232479257,Stillwater Golf And Country Club,,course,,,active,18,70,,,+1-405-372-1100,https://thestillwatercountryclub.com/,,5215 West Country Club Drive,Stillwater,OK,74074,US,36.1067734,-97.1274028,2026-10-11T15:12:03Z
 d418d4c8-0e63-4e6b-9c9c-9acb1924e439,way/189296448,The Oaks Country Club,,course,,,active,18,71,,,+1-918-446-6161,https://www.oakscountryclub.com/,,6500 South 49th West Avenue,Tulsa,OK,74133,US,36.0646219,-96.0436059,2026-10-11T15:12:01Z
 d58e8aae-6bd5-4b67-b93b-c0e285cebae1,way/456381678,Pauls Valley Municipal Golf Course,,course,,,active,9,,,,+1 405 238 7462,https://www.paulsvalley.com/golf-course,,1910 N3240 Road,Pauls Valley,OK,73075,US,34.7072015,-97.2275639,2026-10-11T13:30:48Z
@@ -142,11 +142,11 @@ d654548a-0589-4bc5-9b23-cafe795ad5e4,way/394742216,Five-Hole Golf Course,,course
 d71b198b-9986-44de-ab10-f559c37e5637,way/798418710,Choctaw Creek,,course,,,active,18,,,,+1 405 769 7166,https://www.choctawcreekgolf.org/,,22000 North Hiwassee Road,Choctaw,OK,73020,US,35.489226,-97.2959825,2026-10-11T15:12:21Z
 d7eda07d-afeb-482a-8e57-07c2d3626f35,way/758834047,,,course,,,active,,,,,,,,,,OK,,US,36.7390532,-102.4861862,2026-10-11T15:12:21Z
 d8c0cad3-3778-48e2-bbea-9be3dbeff0cf,way/279491102,Muskogee Golf Club,,course,,,active,18,71,,,,,,2400 North Country Club Road,Muskogee,OK,74403,US,35.7793663,-95.3189184,2026-10-11T15:12:07Z
-d99ced8d-3ed8-4608-882e-afff9a4034ac,way/239023494,Cimarron National Golf Club Course,,course,,,active,,63,,,,,,,,OK,,US,35.8743033,-97.4836443,2026-10-11T15:12:03Z
+d99ced8d-3ed8-4608-882e-afff9a4034ac,way/239023494,Cimarron National Golf Club Course,,course,,,active,,,,,,,,,,OK,,US,35.8743033,-97.4836443,2026-10-11T15:12:03Z
 da76d845-f2e2-41ad-8a77-bcddc60111eb,way/1428185071,Dornick Hills Golf and Country Club,,course,,,active,18,70,,,,,,,,OK,,US,34.2211105,-97.1376149,2026-10-11T15:12:29Z
 daf7a450-79c5-43b4-bf12-3652a8e14217,way/244116857,James E. Stewart Golf Course,,course,,,active,,,,,,http://okcgolf.com/stewart/,,,,OK,,US,35.4749944,-97.4712516,2026-10-11T15:12:05Z
 de74a90a-5d8f-45cd-af7e-edd35e6e8dfe,way/296794837,South Lakes Golf Course,,course,,,active,18,,,,+1-918-746-3760,https://www.southlakesgolf.com/,,9253 South Elwood Avenue West,Jenks,OK,74037,US,36.0282829,-95.9892308,2026-10-11T15:12:10Z
-de8d5c4b-247c-4142-84f6-bdc88acd4064,relation/15008907,,,course,,,active,,27,,,,,,,,OK,,US,36.3163593,-95.6526573,2026-10-11T15:12:43Z
+de8d5c4b-247c-4142-84f6-bdc88acd4064,relation/15008907,,,course,,,active,,,,,,,,,,OK,,US,36.3163593,-95.6526573,2026-10-11T15:12:43Z
 dfd5ac2f-6f00-49e3-ae34-03c61005f5b0,way/194224759,Guthrie Golf & Country Club,,course,,,active,9,35,,,+1-405-282-1315,,,3401 East Highway 105,Guthrie,OK,73044,US,35.8752512,-97.3865043,2026-10-11T15:12:01Z
 e70a42db-2c94-40ca-822a-3d10cc0ef438,way/893051753,Belmar Golf Club,,course,,,active,18,71,,,,,,,,OK,,US,35.2945078,-97.4308822,2026-10-11T15:12:23Z
 e7930b1f-460f-456b-b940-28de60bc5ac3,way/232480169,Lakeside Memorial Golf Course,,course,,,active,18,70,,,+1-405-372-3399,,,5201 North Washington Street,Stillwater,OK,74075,US,36.1776004,-97.065229,2026-10-11T15:06:16Z

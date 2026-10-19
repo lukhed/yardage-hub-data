@@ -3,7 +3,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 01c72de3-fba2-4783-af88-5bedfcfa670e,way/752852726,Green Brian Golf Course,,course,,,active,,,,,,,,1130 Morris Majestic Road,Morris,AL,35116,US,33.7587168,-86.7938034,2026-10-11T15:12:21Z
 01cf0557-4505-4c91-95e2-921665bc5cd4,way/222810194,Grayson Valley Country Club,,course,,,active,,,,,,,,,,AL,,US,33.6438354,-86.641287,2026-10-11T15:12:03Z
 0283ebf6-4ce2-45fb-8956-65ebbf96d2a3,relation/18511323,Huntsville Country Club,,course,,,active,,,,,+1-256-859-3000,https://www.huntsvillecountryclub.com/,,2601 Oakwood Avenue,Huntsville,AL,35810,US,34.7462502,-86.6148051,2026-10-11T15:12:45Z
-032cbdee-be04-41cc-9d95-5c09bf715e87,relation/3746845,Highland Oaks Golf Course,,course,,,active,,5,,,+1 334-712-2820,https://www.rtjgolf.com/highlandoaks/,,904 Royal Parkway,Dothan,AL,36305,US,31.2269181,-85.4938628,2026-10-11T15:12:33Z
+032cbdee-be04-41cc-9d95-5c09bf715e87,relation/3746845,Highland Oaks Golf Course,,course,,,active,,,,,+1 334-712-2820,https://www.rtjgolf.com/highlandoaks/,,904 Royal Parkway,Dothan,AL,36305,US,31.2269181,-85.4938628,2026-10-11T15:12:33Z
 0450d80f-aaac-4e2f-8800-b9ec3d382b21,relation/2644276,,,course,,,active,,,,,,,,,,AL,,US,30.3100401,-87.6776977,2026-10-11T15:12:33Z
 07778c4b-de10-42b4-83ad-0b92fa7ea038,relation/6997762,Arrowhead Country Club,,course,,,active,,,,,+1 334 272 7180,https://www.arrowheadcountryclub.net/,,50 Ocala Drive,Montgomery,AL,36117,US,32.3781956,-86.1396261,2026-10-11T15:12:38Z
 0823106f-4238-4d09-83f6-7f0f6a098e79,relation/18957532,Kiva Dunes Golf Course,,course,,,active,18,72,,,,,,,,AL,,US,30.2353437,-87.8944364,2026-10-11T15:12:45Z
@@ -30,7 +30,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 21b8747d-17bd-4ade-9e91-257bf4e14861,way/474903970,,,course,,,active,18,72,,,,,,,,AL,,US,34.8098507,-87.3230037,2026-10-11T15:12:17Z
 21ef82bc-0f28-4d1a-aaa5-fa6ce27a55ac,way/300541463,Lakewinds Golf Course,,course,,,active,,,,,+1 256-825-9860,https://www.acpr.me/golf-course.php,,County Road 40,Alexander City,AL,,US,32.8805967,-85.8744936,2026-10-11T15:12:10Z
 222d1121-bc77-4b85-bf30-ddafebf7399d,relation/14294988,,,course,,,active,,,,,,,,,,AL,,US,33.4835372,-86.6809305,2026-10-11T15:12:41Z
-2303cd99-3e91-40ca-b23b-85aa71e1f96c,way/356084432,Senator,,course,,,active,,38,,,+1 334 285 1114,https://www.rtjgolf.com/capitolhill/,,,,AL,,US,32.4480744,-86.3942059,2026-10-11T15:12:14Z
+2303cd99-3e91-40ca-b23b-85aa71e1f96c,way/356084432,Senator,,course,,,active,,,,,+1 334 285 1114,https://www.rtjgolf.com/capitolhill/,,,,AL,,US,32.4480744,-86.3942059,2026-10-11T15:12:14Z
 2361db19-05d7-4d40-a110-4d669bbed514,way/475719147,,,course,,,active,,,,,,,,,,AL,,US,34.6964625,-86.7410632,2026-10-11T15:12:17Z
 254a5df5-60c2-4d98-b955-e605050a2211,relation/20708793,The Golf Club of the Wharf,,course,,,active,,,,,+1 251-968-7366,,,520 Clubhouse Drive,Gulf Shores,AL,36542,US,30.2675809,-87.703369,2026-10-11T13:31:51Z
 25e0112a-011c-46fc-a14b-35f9c08d7c18,way/79122855,Ol' Colony Golf Complex,,course,,,active,18,,,,,,,,,AL,,US,33.2564757,-87.5388676,2026-10-11T15:11:55Z
@@ -39,12 +39,12 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 296169af-2ad5-4b3f-835f-5bc101addf89,relation/19922806,Fox Run,,course,,,active,,,,,,,,,,AL,,US,34.8767335,-86.5402972,2026-10-11T15:12:45Z
 2a3b42ec-eb6d-47b1-af08-0fdcaa2be185,way/204782565,Blackberry Trail Golf Course,,course,,,active,18,72,,,,,,,,AL,,US,34.8556296,-87.6273753,2026-10-11T15:12:03Z
 2b7b6ec9-2213-449d-a2e8-9d8195d79ca1,way/623966947,,,course,,,active,,,,,,,,,,AL,,US,32.6031451,-88.2032999,2026-10-11T15:12:20Z
-2c6db5ff-fffc-4b95-a1c7-91096d33e126,relation/21399546,Deer Run Golf Course,,course,,,active,,65,,,,,,1175 County Road 100,Moulton,AL,35650,US,34.4273142,-87.3182563,2026-10-11T15:12:45Z
+2c6db5ff-fffc-4b95-a1c7-91096d33e126,relation/21399546,Deer Run Golf Course,,course,,,active,,,,,,,,1175 County Road 100,Moulton,AL,35650,US,34.4273142,-87.3182563,2026-10-11T15:12:45Z
 2cbbdbb6-2c92-41ee-af84-d5fee4e5db1c,relation/21261174,Soldiers Creek Golf Club,,course,,,active,,,,,,,,,,AL,,US,30.3998383,-87.5370224,2026-10-11T15:12:45Z
 2eebc076-b414-4b39-8a88-fb4f92409274,way/110486624,Cider Ridge Golf Club,,course,,,active,18,72,,,,,,,,AL,,US,33.5938382,-85.7494033,2026-10-11T15:11:57Z
 2f21e073-0cc2-49aa-9e4b-87ce8f380154,way/946195972,Horse Creek Golf Course,,course,,,active,,,,,,,,,,AL,,US,33.74333,-87.062469,2026-10-11T15:12:23Z
 2f75cc3d-8f3a-4d4c-be4c-6469fb9ef5a0,way/202440681,,,course,,,active,,,,,,,,,,AL,,US,33.6133592,-86.6127595,2026-10-11T15:12:03Z
-358112af-6851-4d37-99a1-6daae443599e,way/819187494,,,course,,,active,,4,,,,,,,,AL,,US,33.3261218,-86.9734491,2026-10-11T15:12:23Z
+358112af-6851-4d37-99a1-6daae443599e,way/819187494,,,course,,,active,,,,,,,,,,AL,,US,33.3261218,-86.9734491,2026-10-11T15:12:23Z
 35a10415-54e2-42e5-9d6f-dfc238d7cde4,way/300541466,Lakewood Golf Course,,course,,,active,,,,,+1 334-291-4726,http://www.phenixcityal.us/default.asp?ID=170,,,,AL,,US,32.505797,-85.0309321,2026-10-11T15:12:10Z
 36681b30-7289-4ce3-ae02-a2ef1d385e9d,way/474089420,Desoto Country Club and Golf Course,,course,,,active,,,,,,,,,,AL,,US,34.4649508,-85.6966451,2026-10-11T15:12:17Z
 3a8e9cbd-8df3-4f39-baae-11ec65897d49,way/671154011,,,course,,,active,,,,,,,,,,AL,,US,33.3451819,-86.824712,2026-10-11T15:12:20Z
@@ -52,7 +52,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 3db644d8-6633-43db-b37e-2cd061802271,way/300296712,Scottsboro Country Club and Golf Course,,course,,,active,,,,,,,,,,AL,,US,34.6377214,-86.0463891,2026-10-11T15:06:23Z
 426ad532-15a6-4ddd-93e8-528b98fb751e,way/183297264,Roebuck Municipal Golf Course,,course,,,active,18,,,,,,,8920 Roebuck Boulevard,Birmingham,AL,35206,US,33.580795,-86.7146728,2026-10-11T15:12:01Z
 42c522b6-7936-46aa-8a0a-d8d70610f2f9,way/186369880,Greystone G&CC Legacy,,course,,,active,,,,,,,,,,AL,,US,33.4590706,-86.6233069,2026-10-11T15:12:01Z
-45393844-42a7-49ae-9f30-eb61e2a031ee,way/1272057159,Vestavia Country Club,,course,,,active,,9,,,,https://www.vestaviacc.com/18-hole-golf-course,,400 Beaumont Drive,Birmingham,AL,35216,US,33.4517295,-86.7775434,2026-10-11T15:12:28Z
+45393844-42a7-49ae-9f30-eb61e2a031ee,way/1272057159,Vestavia Country Club,,course,,,active,,,,,,https://www.vestaviacc.com/18-hole-golf-course,,400 Beaumont Drive,Birmingham,AL,35216,US,33.4517295,-86.7775434,2026-10-11T15:12:28Z
 45878a6c-5ebc-48d2-b5ba-4c0f1d617d56,way/761056541,,,course,,,active,,,,,,,,,,AL,,US,33.5298063,-86.8068613,2026-10-11T15:12:21Z
 46d90bd5-921f-47d6-9228-db60bcdc548f,way/186369883,Greystone G&CC Legacy,,course,,,active,,,,,,,,,,AL,,US,33.4498475,-86.6367039,2026-10-11T15:12:01Z
 4733da9c-36eb-4d2c-9510-d89eeba9d826,way/242415710,Heron Lakes Country Club,,course,,,active,18,,,,+1 251 666 7040,https://heronlakescountryclub.com/,,3851 Government Boulevard,Mobile,AL,36693,US,30.6418286,-88.1297882,2026-10-11T15:06:18Z
@@ -71,7 +71,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 5901e024-bda6-4685-b00d-42b49271ded5,way/329573834,Briarmeade Golf Club,,course,,,active,,,,,,,,,,AL,,US,33.959241,-85.9461809,2026-10-11T15:12:12Z
 5b3d33cb-215b-4787-bcb6-0fe56645af40,relation/11541999,Tall Pines Golf Club,,course,,,active,,,,,,,,,,AL,,US,33.1548674,-87.463804,2026-10-11T13:31:42Z
 5c5b5746-9750-43c3-82e4-9330c687a006,way/110486673,Indian Oaks Golf Club,,course,,,active,,,,,,,,,,AL,,US,33.7265567,-85.8679282,2026-10-11T13:29:54Z
-5dd0178f-7f55-4b00-92d6-beb4688b44e5,way/244377875,Albertville Golf and Country Club,,course,,,active,,62,,,,,,,,AL,,US,34.2963567,-86.1990439,2026-10-11T15:06:18Z
+5dd0178f-7f55-4b00-92d6-beb4688b44e5,way/244377875,Albertville Golf and Country Club,,course,,,active,,,,,,,,,,AL,,US,34.2963567,-86.1990439,2026-10-11T15:06:18Z
 5ed6364c-1be4-4993-a7d6-bc0994101db1,relation/20814078,,,course,,,active,,,,,,,,,,AL,,US,32.2216952,-85.507587,2026-10-11T13:31:51Z
 5ef35444-467e-46c7-90ab-8cc05c7aae9e,way/653267527,The Golf Club,,course,,,active,,,,,,,,,,AL,,US,34.9179122,-87.2633958,2026-10-11T15:12:20Z
 5ef8a53e-3b5c-482a-8ba0-31089eecb0e6,way/1373129371,The Whip,,course,,,active,,,,,+1 205-559-2692,,,2920 Lurleen Drive,Susan Moore,AL,35952,US,34.1075089,-86.4262527,2026-10-11T15:06:40Z
@@ -130,15 +130,15 @@ aceaca7a-6ebf-48d2-957f-82fdb74855f4,way/183261017,Highland Park Golf Course,,co
 ad3e2c59-1ff3-4a99-b34e-2c334718edf8,relation/19087248,Andalusia Country Club,,course,,,active,,,,,,,,,,AL,,US,31.3164581,-86.5141115,2026-10-11T13:31:51Z
 ae844214-7be2-4ce3-a95a-193ec1eec3f0,relation/7096134,Valley View Golf Course,,course,,,active,,,,,,,,,,AL,,US,34.8181778,-86.5670966,2026-10-11T15:12:38Z
 b0435644-1a6b-4627-a3f9-f49086941495,relation/13922941,Cypress Tree Golf Club,,course,,,active,,,,,+1 334 953 2209,,,1461 March Street,Maxwell Air Force Base,AL,36112,US,32.3921801,-86.3557202,2026-10-11T15:12:41Z
-b1b47439-d881-4499-92f1-65ca226e53f2,way/472686843,Burning Tree Country Club,,course,,,active,,36,,,,,,,,AL,,US,34.5227543,-86.9347628,2026-10-11T15:12:17Z
+b1b47439-d881-4499-92f1-65ca226e53f2,way/472686843,Burning Tree Country Club,,course,,,active,,,,,,,,,,AL,,US,34.5227543,-86.9347628,2026-10-11T15:12:17Z
 b1bdcf41-d317-4fd5-820c-23202276ffb7,way/300728519,Gulf Links Golf Course,,course,,,active,18,64,,,,,,,,AL,,US,30.357548,-87.6788543,2026-10-11T15:12:10Z
 b38dc052-f695-4bd2-82d4-666a727a620c,way/883918138,,,course,,,active,,,,,,,,,,AL,,US,32.5325294,-85.515537,2026-10-11T15:12:23Z
 b5574af8-3eb2-491e-902d-360225e2cdbd,way/300296704,Indian Hills Golf Club,,course,,,active,,,,,,,,,,AL,,US,34.4909664,-86.9317362,2026-10-11T15:12:10Z
 b6a87b7f-08d0-46b3-a841-e457c7b073cd,relation/3303849,,,course,,,active,,,,,,,,,,AL,,US,34.5864745,-86.0780238,2026-10-11T15:06:43Z
-b8f3170f-4d7a-43cb-8105-76ce729ca570,way/356084428,Legislator,,course,,,active,,47,,,+1 334 285 1114,https://www.rtjgolf.com/capitolhill/,,,,AL,,US,32.444726,-86.3944627,2026-10-11T15:06:26Z
+b8f3170f-4d7a-43cb-8105-76ce729ca570,way/356084428,Legislator,,course,,,active,,,,,+1 334 285 1114,https://www.rtjgolf.com/capitolhill/,,,,AL,,US,32.444726,-86.3944627,2026-10-11T15:06:26Z
 b93e5f17-1282-4bd3-8a5b-965d97ec6554,relation/19097887,Evans Barnes Golf Course,,course,,,active,,,,,+1 334-222-8400,http://www.cityofandalusia.com/leisure-services/evans-barnes-golf-course.html,,1735 Danelly Boulevard,Andalusia,AL,36420,US,31.3247657,-86.4505568,2026-10-11T15:12:45Z
 b9be5fcb-756b-43aa-99a6-8fa3c9387da5,way/724112748,Robert Trent Jones Golf Trail at the Shoals,,course,,,active,,,,,,https://www.rtjgolf.com/theshoals/,,,,AL,,US,34.8108518,-87.5414846,2026-10-11T15:12:21Z
-ba344aa4-51ae-4b12-96ab-489a047ff892,way/55545772,Hoover Country Club,,course,,,active,,69,,,,,,,,AL,,US,33.4007881,-86.8195568,2026-10-11T15:11:55Z
+ba344aa4-51ae-4b12-96ab-489a047ff892,way/55545772,Hoover Country Club,,course,,,active,,,,,,,,,,AL,,US,33.4007881,-86.8195568,2026-10-11T15:11:55Z
 ba4af6aa-8b5a-46b0-80b4-8a4f9bd4bf08,relation/3993860,Terrapin Hills Country Club,,course,,,active,,,,,+1 256-845-4624,http://www.terrapinhillscountryclub.com/,,5501 Club Drive Northwest,Fort Payne,AL,35967,US,34.5117515,-85.684016,2026-10-11T15:12:35Z
 bb638de1-056b-4bf8-ad82-d6746c0f4fe4,way/300475355,Boaz Golf and Country Club,,course,,,active,,,,,,,,,,AL,,US,34.1726743,-86.1500832,2026-10-11T15:12:10Z
 bbd2ef70-b48e-46a6-859a-b9bf652c1125,way/112560011,Silver Lakes,,course,,,active,,,,,,,,,,AL,,US,33.8803953,-85.9279353,2026-10-11T13:29:54Z
@@ -148,9 +148,9 @@ c01bf646-5859-4e89-b095-f6d7d51a5eb2,way/511538344,Musgrove Country Club,,course
 c0c94479-c86a-4b29-9dc4-1f4339f0bafd,way/301848266,Pell City Country Club,,course,,,active,,,,,,,,,,AL,,US,33.5617602,-86.2513536,2026-10-11T15:12:12Z
 c12f39d1-9bed-4caa-919b-e1f6c5b37d5a,relation/3180364,Glenlakes Golf Club,,course,,,active,18,72,,,,,,,,AL,,US,30.3631171,-87.6324392,2026-10-11T13:31:22Z
 c421e775-1d8f-4fcb-a18b-56f80128908a,way/300296717,Sunset Landing Golf Course,,course,,,active,18,72,,,+1 256-464-5050,https://www.flyhuntsville.com/hsv/sunset-landing-golf-course/,,,,AL,,US,34.6562369,-86.7774641,2026-10-11T15:06:23Z
-c7400f63-851c-49bd-a251-5e8e9c062edf,way/356084423,Judge,,course,,,active,,52,,,+1 334 285 1114,https://www.rtjgolf.com/capitolhill/,,,,AL,,US,32.4431924,-86.3854269,2026-10-11T15:12:14Z
+c7400f63-851c-49bd-a251-5e8e9c062edf,way/356084423,Judge,,course,,,active,,,,,+1 334 285 1114,https://www.rtjgolf.com/capitolhill/,,,,AL,,US,32.4431924,-86.3854269,2026-10-11T15:12:14Z
 c9153a65-7559-478c-8bf9-8924bab690b1,way/326762174,Auburn Links,,course,,,active,,,,,,,,,,AL,,US,32.5467534,-85.5095788,2026-10-11T15:12:12Z
-ca8b9cb6-4026-4e1e-922e-f3e70908b8cc,relation/17920108,Isle Dauphine Golf Club,,course,,,active,,4,,,,,,,,AL,,US,30.2456853,-88.1112846,2026-10-11T15:06:54Z
+ca8b9cb6-4026-4e1e-922e-f3e70908b8cc,relation/17920108,Isle Dauphine Golf Club,,course,,,active,,,,,,,,,,AL,,US,30.2456853,-88.1112846,2026-10-11T15:06:54Z
 cce048ee-2f29-44c4-9f50-f1c21009b34a,way/110486114,Cane Creek Golf Course,,course,,,active,18,72,,,,,,,,AL,,US,33.7235627,-85.8006879,2026-10-11T15:11:57Z
 ccf9fd38-822c-4b7e-aa15-e4dd66b17934,way/238364682,,,course,,,active,,,,,,,,,,AL,,US,31.8459109,-86.6352502,2026-10-11T15:12:03Z
 cd365eb8-a39a-48e7-8ff7-21627a1a836a,way/300296723,Twin Pines Golf Course,,course,,,active,18,71,,,,,,,,AL,,US,34.5698012,-87.6727597,2026-10-11T15:12:10Z
@@ -160,7 +160,7 @@ cfe1ffa3-8a6e-4fdc-80cf-474928824936,relation/3998460,Jackson Links,,course,,,ac
 cfeab4f3-3e2a-40aa-a0df-3a6851a14069,relation/3993862,Hillside Golf Course,,course,,,active,,,,,+1 256-883-0850,https://www.vhcc.com/,,,,AL,,US,34.6519183,-86.5381381,2026-10-11T15:06:45Z
 d06930be-6414-41c8-a8c5-6fa57ef8ff79,relation/3999536,Magnolia Grove Golf Course,,course,,,active,,,,,+1 251-645-0075,https://www.rtjgolf.com/magnoliagrove/,,7001 Magnolia Grove Parkway,Mobile,AL,36618,US,30.7381441,-88.1988862,2026-10-11T15:12:35Z
 d351c96f-2a1c-4503-b159-582406490173,relation/2981995,Cypress Lakes Golf & Country Club,,course,,,active,18,71,,,,,,,,AL,,US,34.7337824,-87.6559079,2026-10-11T15:06:43Z
-d3c3aacb-075c-40b7-8a30-1328340493b2,way/300541498,Willow Point Golf & Country Club,,course,,,active,,68,,,+1 256-212-1407,https://www.willowpoint.com/,,2544 Willow Point Road,Alexander City,AL,35010,US,32.7864011,-85.975708,2026-10-11T15:12:10Z
+d3c3aacb-075c-40b7-8a30-1328340493b2,way/300541498,Willow Point Golf & Country Club,,course,,,active,,,,,+1 256-212-1407,https://www.willowpoint.com/,,2544 Willow Point Road,Alexander City,AL,35010,US,32.7864011,-85.975708,2026-10-11T15:12:10Z
 d498d381-607f-46a5-a0b5-0477f3cf6866,way/883918143,,,course,,,active,,,,,,,,,,AL,,US,32.5339706,-85.5098212,2026-10-11T13:31:02Z
 d4c8a9d4-677c-4777-ad2b-efac1754a208,way/1074372484,Old Overton Club,,course,,,active,,,,,,https://www.oldovertonclub.com/,,,,AL,,US,33.4966949,-86.6755065,2026-10-11T15:06:36Z
 d4e9303d-22fb-4c08-9810-254ac783252f,way/439210060,Enterprise Country Club,,course,,,active,,,,,,,,,,AL,,US,31.3582647,-85.8241721,2026-10-11T15:12:15Z
@@ -176,7 +176,7 @@ dee4e977-d22d-432a-abae-f0a6895be9dd,way/1058244014,Marion Military Institute Go
 e0ac3748-0c27-41b5-bec9-60c992065f4a,relation/18894114,Heritage Golf,,course,,,active,18,,,,+1 205-274-2390,https://heritagegolfalabama.com/,,1364 Heritage Road,Oneonta,AL,35121,US,33.981808,-86.4561285,2026-10-11T13:31:51Z
 e1309ae9-f6d7-4dbc-825e-580a0a59323c,way/513714010,Cambrian Ridge,,course,,,active,,,,,+1-334-382-9787,https://www.rtjgolf.com/cambrianridge/,,101 Sunbelt Parkway,Greenville,AL,36037,US,31.8970306,-86.6845938,2026-10-11T13:30:51Z
 e1b873c6-41a3-4949-b03f-aa3e6ae0401d,way/300710009,Evergreen Golf Club,,course,,,active,,,,,+1-251-578-5214,http://www.evergreenalgolf.com/,,18382 Highway 31,Evergreen,AL,36401,US,31.4340422,-86.8859449,2026-10-11T15:12:10Z
-e2d1f338-bb8a-405d-a295-3344aa6c31ce,relation/7443800,Vanity Fair Golf and Tennis Club,,course,,,active,,5,,,,,,,,AL,,US,31.5158131,-87.3417515,2026-10-11T15:12:38Z
+e2d1f338-bb8a-405d-a295-3344aa6c31ce,relation/7443800,Vanity Fair Golf and Tennis Club,,course,,,active,,,,,,,,,,AL,,US,31.5158131,-87.3417515,2026-10-11T15:12:38Z
 e3999146-420c-4094-80d4-afaca26c21c3,way/512595795,,,course,,,active,,,,,,,,,,AL,,US,31.2778865,-86.2835782,2026-10-11T13:30:51Z
 e4ffe5ef-3d03-486c-99a3-b12540a5e209,node/5647283533,Rock Creek Golf Course,,course,,,active,,,,,,,,,,AL,,US,30.5735185,-87.8869447,2026-10-11T13:29:32Z
 e610f8e4-07ef-448b-8625-b7456e23f389,way/482361775,Repar Golf DP,,course,,,active,,,,,,,,,,AL,,US,34.5562816,-87.0166374,2026-10-11T15:06:29Z

@@ -1,7 +1,7 @@
 id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
 00bdccd5-153b-4da5-b5ca-cf2d53a19706,way/949141042,,,course,,,active,18,72,,,,,,,,TN,,US,35.4445791,-86.7518202,2026-10-11T13:31:02Z
-00e0b37c-c4f8-492c-a906-d6e69dde8fe1,way/208261464,Valleybrook Golf and Country Club,,course,,,active,,68,,,,,,,,TN,,US,35.1554275,-85.2073304,2026-10-11T15:12:03Z
-014bd871-988a-4a9e-96a6-2395095b93eb,relation/20784196,Stonebridge Golf Course,,course,,,active,,61,,,,,,,,TN,,US,35.2123699,-89.752984,2026-10-11T15:12:45Z
+00e0b37c-c4f8-492c-a906-d6e69dde8fe1,way/208261464,Valleybrook Golf and Country Club,,course,,,active,,,,,,,,,,TN,,US,35.1554275,-85.2073304,2026-10-11T15:12:03Z
+014bd871-988a-4a9e-96a6-2395095b93eb,relation/20784196,Stonebridge Golf Course,,course,,,active,,,,,,,,,,TN,,US,35.2123699,-89.752984,2026-10-11T15:12:45Z
 015edab5-2533-451a-8458-2c787acd1fbf,way/648246676,Wynridge Golf Club,,course,,,active,,,,,,,,,,TN,,US,36.3533421,-89.1442021,2026-10-11T13:30:54Z
 0181b223-d301-4f26-8aa9-98d8b23557ee,way/714964563,,,course,,,active,,,,,,,,,,TN,,US,35.1474356,-85.334459,2026-10-11T15:12:21Z
 026bc055-01e7-400b-93d2-389b44bdeb05,way/1168159871,The Crossings Golf Club,,course,,,active,,,,,,,,,,TN,,US,36.359463,-82.6007278,2026-10-11T15:12:27Z
@@ -10,13 +10,13 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 068bff40-6852-4f90-b64f-000cfc377056,way/555241986,Patriot Hills Golf Club,,course,,,active,,,,,,,,735 Constitution Drive,Jefferson City,TN,37760,US,36.0595022,-83.4820169,2026-10-11T15:12:18Z
 068e83ab-ada8-49b4-bbad-86813bc8dc50,way/321389368,Big Hollow Par III,,course,,,active,,,,,+1-423-323-6615,http://www.bighollowpar3.com/,,1901 Highway 394,Blountville,TN,37617,US,36.5268301,-82.3235276,2026-10-11T15:12:12Z
 09849449-cb81-4e75-aa91-9fb543be07da,way/1014651386,,,course,,,active,,,,,,,,,,TN,,US,36.2316816,-88.7958538,2026-10-11T15:12:24Z
-0a2613c0-eee0-4367-9aec-91b778c95ee9,way/1353838551,Clarksville Country Club,,course,,,active,,40,,,,,,,,TN,,US,36.5318251,-87.2891812,2026-10-11T13:31:14Z
+0a2613c0-eee0-4367-9aec-91b778c95ee9,way/1353838551,Clarksville Country Club,,course,,,active,,,,,,,,,,TN,,US,36.5318251,-87.2891812,2026-10-11T13:31:14Z
 0d0284b8-2ff8-4ba9-a2e8-7733bb752b70,way/280058619,,,course,,,active,,,,,,,,,,TN,,US,35.4570207,-86.4113698,2026-10-11T15:12:07Z
 0ed7c63f-5c61-40fa-88ba-102f0a0369f0,relation/13851922,Sevierville Golf Club,,course,,,active,,,,,,,,,,TN,,US,35.902283,-83.5909019,2026-10-11T13:31:42Z
 13624e4e-ff4f-4776-882c-2c511933efdc,node/11610995427,,,course,,,active,,,,,,,,,,TN,,US,36.5597088,-82.4241113,2026-10-11T13:29:32Z
 17248282-22a9-42d3-9a08-d271a1d55e3f,way/896078723,Graysburg Hills Golf Course,,course,,,active,,,,,,,,,,TN,,US,36.3126137,-82.7069238,2026-10-11T13:31:02Z
 18c61a78-bf31-4ca8-a952-beae944c3360,way/1165263055,Warrior's Path State Park Golf Course,,course,,,active,18,72,,,,,,,,TN,,US,36.5047374,-82.4773531,2026-10-11T15:12:27Z
-19bc5fc8-792c-49b1-a23a-52a67fda570a,way/81459470,,,course,,,active,,33,,,,,,,,TN,,US,35.0105111,-85.1974714,2026-10-11T15:11:55Z
+19bc5fc8-792c-49b1-a23a-52a67fda570a,way/81459470,,,course,,,active,,,,,,,,,,TN,,US,35.0105111,-85.1974714,2026-10-11T15:11:55Z
 1a19787e-1c75-4a0a-915c-2e50883ef214,way/498599736,Ironwood Golf Course,,course,,,active,18,72,,,+1 931 528 2331,https://ironwoodgolfcourse.net/,,3801 Ironwood Road,Cookeville,TN,38501,US,36.2244714,-85.5300181,2026-10-11T15:12:17Z
 1a4bdd8f-fdca-46db-966b-5706384bd933,relation/13643460,Knoxville Municipal Golf Course,,course,,,active,18,72,,,+1-865-691-7143,https://www.golfknox.com/,,3925 Schaad Road,Knoxville,TN,37921,US,35.9955366,-84.0437672,2026-10-11T15:06:51Z
 1b6218b7-8517-4635-8907-91e2031a3258,way/213540819,Harpeth Hills Golf Course,,course,,,active,18,72,,,+1-615-862-8493,https://www.nashville.gov/departments/parks/golf-courses/harpeth-hills-golf-course,,2424 Old Hickory Blvd,Nashville,TN,37221,US,36.056416,-86.8823446,2026-10-11T15:06:16Z
@@ -25,7 +25,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 1f10ba26-213d-43da-98e6-454d9fa6e049,way/675178540,Cherokee Country Club,,course,,,active,18,70,,,,,,,,TN,,US,35.9343496,-83.9899499,2026-10-11T15:12:20Z
 1f25041f-e8dc-4005-a9e6-0919a295be92,node/4703606320,Springbrook Golf and Country Club,,course,,,active,,,,,,,,,,TN,,US,35.5161388,-84.5570264,2026-10-11T13:29:32Z
 1f4d9e3d-fc95-4476-b7b9-15f8ebebc50b,way/1520259591,Fox Den Country Club,,course,,,active,,,,,,,,"12284 N Fox Den Dr,",Knoxville,TN,37934,US,35.8768493,-84.1905072,2026-10-11T15:12:29Z
-211086cc-fa7a-4d97-8b9f-772248474d28,relation/11810361,The Links at Overton Park,,course,,,active,,30,,,+1-901-725-9905,https://www.memphistn.gov/Government/ParksNeighborhoods/GolfCourses/LinksatOvertonPark.aspx,,2080 Poplar Avenue,,TN,,US,35.1438883,-89.9912112,2026-10-11T15:12:41Z
+211086cc-fa7a-4d97-8b9f-772248474d28,relation/11810361,The Links at Overton Park,,course,,,active,,,,,+1-901-725-9905,https://www.memphistn.gov/Government/ParksNeighborhoods/GolfCourses/LinksatOvertonPark.aspx,,2080 Poplar Avenue,,TN,,US,35.1438883,-89.9912112,2026-10-11T15:12:41Z
 2151d0bc-b5c5-402f-91ac-a07132b3d3c2,way/476939187,Springbrook Golf and Country Club,,course,,,active,,,,,,,,,,TN,,US,35.5161547,-84.55609,2026-10-11T15:12:17Z
 21ae6340-42cd-4f2e-9bf1-f4c1843cddbf,relation/19834510,Two Rivers Golf Course,,course,,,active,18,72,,,,,,,,TN,,US,36.1907655,-86.6802436,2026-10-11T15:12:45Z
 21ae79a1-acb2-4253-85da-a164f433fb4e,relation/16546397,Foxland,,course,,,active,18,72,,,,,,,,TN,,US,36.3382898,-86.5062223,2026-10-11T15:12:43Z
@@ -34,7 +34,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 24ba90cf-f75c-4cb3-b410-ecbfe55148a6,way/835796616,Holston Hills Country Club,,course,,,active,18,72,,,,,,,,TN,,US,35.9927646,-83.8424528,2026-10-11T15:12:23Z
 24ddea35-85dc-4bf3-ae8b-fb928799b728,way/451257890,ETSU Golf Course,,course,,,active,,,,,,https://etsubucs.com/facilities/warren-greene-golf-center/5,,,,TN,,US,36.2946735,-82.369655,2026-10-11T13:30:48Z
 28d05444-194d-477a-90d0-b75c5c34456d,relation/14250452,LaFallotte Country Club,,course,,,active,,,,,,,,,,TN,,US,36.3837294,-84.0981908,2026-10-11T15:12:41Z
-2984b9dd-f5eb-40b8-8ff2-d5e4ba96d7c6,way/173629658,,,course,,,active,,12,,,,,,,,TN,,US,35.1291832,-85.3043947,2026-10-11T15:12:01Z
+2984b9dd-f5eb-40b8-8ff2-d5e4ba96d7c6,way/173629658,,,course,,,active,,,,,,,,,,TN,,US,35.1291832,-85.3043947,2026-10-11T15:12:01Z
 29a5d3a5-af60-416c-a6cb-cb02c3187a8f,way/544268897,Harpeth Valley Golf Center,,par3,,,active,9,27,,,+1-615-646-8858,https://www.harpethvalleygolf.com/,,7629 Old Harding Rd,Nashville,TN,37221,US,36.0564806,-86.9451411,2026-10-11T15:12:18Z
 29c1d8e2-4d18-40a0-b2fe-7e34f8d0b74a,way/1072477038,Creekside Golf Course,,course,,,active,,,,,,,,,,TN,,US,35.8862381,-83.7244967,2026-10-11T15:12:24Z
 2a25f66b-5fd7-45b6-a419-c1dc3c9842fe,way/555238978,The Country Club,,course,,,active,18,72,,,,,,1635 Doyal Drive,Morristown,TN,37814,US,36.2160982,-83.3257282,2026-10-11T15:12:18Z
@@ -53,7 +53,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 341a1e89-0770-4658-8f72-6d38bfbbbe69,way/826207894,Poplar Meadows Country Club,,course,,,active,,,,,,,,,,TN,,US,36.377915,-88.9808719,2026-10-11T15:12:23Z
 3474898c-9190-48bf-be6d-52fccdb974b1,way/860819023,Country HIlls,,course,,,active,18,70,,,+1-615-824-1100,https://chillsgc.com/,,1501 Saundersville Rd,Hendersonville,TN,37075,US,36.3477323,-86.5642544,2026-10-11T15:06:35Z
 34cbebda-c56a-449f-b162-e3b96f950d26,way/460653192,Fulton Country Club,,course,,,active,18,70,,,+1 731 479 3016,http://www.fultoncountryclub.com/,,9307 State Line Road,South Fulton,TN,38257,US,36.4991791,-88.8494303,2026-10-11T13:30:48Z
-36c0c231-1296-46ee-886b-2c52562bb715,way/736671946,Dead Horse Lake,,course,,,active,,10,,,,,,,,TN,,US,35.9190806,-84.1104706,2026-10-11T15:12:21Z
+36c0c231-1296-46ee-886b-2c52562bb715,way/736671946,Dead Horse Lake,,course,,,active,,,,,,,,,,TN,,US,35.9190806,-84.1104706,2026-10-11T15:12:21Z
 378d2c99-a02e-4b6e-9346-a7e6e730401a,way/485868988,Beverly Park Junior Golf Course,,course,,,active,,,,,,,,,,TN,,US,36.0597418,-83.8901882,2026-10-11T15:12:17Z
 387a760a-2472-4d16-858a-86063aa17f70,way/545769229,Memphis Athletic Ministries Park Golf Course,,course,,,active,,,,,,,,,,TN,,US,35.0832727,-89.9914751,2026-10-11T15:12:18Z
 39031132-07d6-4f26-9285-10eb2ce09a28,way/498149196,Greymere Country Club,,course,,,active,,,,,+1 931 388 4455,https://www.graymerecc.com/,,2100 Country Club Lane,Columbia,TN,38401,US,35.5955196,-87.0719683,2026-10-11T15:12:17Z
@@ -63,7 +63,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 3f1055f7-c06a-4f05-8b28-b664186f8fa7,way/968982216,Jerry Carpenter Practice Grounds,,practice,,,active,,,,,,,,,,TN,,US,36.3480477,-88.8659488,2026-10-11T15:12:24Z
 3f2046d4-5e41-48de-9f95-c4ac94341cd9,way/108064716,The Links at Pine Hill Golf Course,,course,,,active,,,,,+1-901-775-9434,https://www.memphistn.gov/Government/ParksNeighborhoods/GolfCourses/LinksatPineHill.aspx,,1005 Alice Avenue,Memphis,TN,,US,35.0900832,-90.0307491,2026-10-11T15:06:10Z
 40e88bb8-8f95-429a-9eab-162ed8341fe4,node/10049038761,Fall Creek Falls Golf Course,,course,,,active,,,,,,,,,,TN,,US,35.646262,-85.3551612,2026-10-11T13:29:32Z
-45ab10ed-b304-4aa6-b33f-ae585b02d2d7,relation/13848203,Egwani Farms,,course,,,active,,65,,,,,,,,TN,,US,35.8321182,-83.947608,2026-10-11T13:31:42Z
+45ab10ed-b304-4aa6-b33f-ae585b02d2d7,relation/13848203,Egwani Farms,,course,,,active,,,,,,,,,,TN,,US,35.8321182,-83.947608,2026-10-11T13:31:42Z
 470e82e0-1bc9-4868-90db-0c4d7d9eccbb,node/6592200401,Nolichucky View Golf Course,,course,,,active,,,,,,,,,,TN,,US,36.0798914,-82.8683603,2026-10-11T13:29:32Z
 4772720e-b8f1-41f8-a317-b054dbccc2a3,relation/13072043,Avalon Golf & Country Club,,course,,,active,18,72,,,,,,,,TN,,US,35.8585368,-84.2566056,2026-10-11T15:12:41Z
 47d0b288-2f05-4041-adae-aba6288181e5,way/833172347,,,course,,,active,,,,,,,,,,TN,,US,35.3426597,-89.8581571,2026-10-11T15:12:23Z
@@ -79,7 +79,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 5097c5bc-750c-45c0-a479-a655c19c422b,way/497864809,Harriman Golf Course,,course,,,active,9,35,,,,,,,,TN,,US,35.9216578,-84.567961,2026-10-11T15:06:29Z
 50c6d5fb-330c-416c-a49b-5cece70f5e83,way/454898842,Lakehaven Golf and Country Club,,course,,,active,,,,,,,,Lakehaven Road,Charleston,TN,37310,US,35.3730068,-84.8992503,2026-10-11T15:12:17Z
 52436945-d7dc-46d5-97e0-9eb0a4131124,way/671291523,Fair Oaks Golf Course,,course,,,active,18,72,,,,,,,,TN,,US,35.2403693,-89.5097019,2026-10-11T15:12:20Z
-581876e0-d961-421c-957e-3aaf45b7923a,relation/11718936,,,course,,,active,,60,,,,,,,,TN,,US,36.0184173,-86.9538778,2026-10-11T15:12:41Z
+581876e0-d961-421c-957e-3aaf45b7923a,relation/11718936,,,course,,,active,,,,,,,,,,TN,,US,36.0184173,-86.9538778,2026-10-11T15:12:41Z
 5985bd72-a9a1-4991-899b-5863375b2aea,way/1358693358,Heatherhurst Golf Club,,course,,,active,,,,,,,,,,TN,,US,36.0368516,-84.8837357,2026-10-11T15:12:29Z
 59bb8b51-3198-40e1-a13e-74cf9308d655,way/520144391,Belle Acres Golf Course,,course,,,active,,,,,,,,,,TN,,US,36.1635607,-85.4844733,2026-10-11T15:12:18Z
 5a572ca0-8bca-48c6-a679-faa8b3414ea4,relation/12429006,The Governors Club,,course,,,active,18,72,,,+1-615-776-4311,https://www.thegovernorsclub.com/,,18 Governors Way,Brentwood,TN,37027,US,35.9781796,-86.7327509,2026-10-11T15:06:51Z
@@ -94,7 +94,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 680456cd-1d3b-405e-9742-f2053a607816,way/972011709,Carroll Lake Golf Course,,course,,,active,,,,,,,,,,TN,,US,36.1101945,-88.4713757,2026-10-11T15:06:36Z
 685908e3-859b-4c07-9760-06a9652c6241,way/293327470,Stones River Country Club,,course,,,active,,,,,,,,,,TN,,US,35.8756431,-86.4155042,2026-10-11T15:12:08Z
 6d785ce9-0cac-49a8-8188-906a592ca558,relation/21197756,,,course,,,active,,,,,,,,,,TN,,US,36.572472,-82.2383935,2026-10-11T15:12:45Z
-6e7f70b8-022c-4dbf-847f-4f0e871e1ab6,relation/13646276,Dead Horse Lake Golf Course,,course,,,active,,62,,,+1-865-693- 5270,https://deadhorselake.com/,,555 Frank Gardner Lane,Knoxville,TN,37923,US,35.91991,-84.1098855,2026-10-11T15:12:41Z
+6e7f70b8-022c-4dbf-847f-4f0e871e1ab6,relation/13646276,Dead Horse Lake Golf Course,,course,,,active,,,,,+1-865-693- 5270,https://deadhorselake.com/,,555 Frank Gardner Lane,Knoxville,TN,37923,US,35.91991,-84.1098855,2026-10-11T15:12:41Z
 6eeabd7b-749b-4ae2-bf8f-724424e90a9a,relation/13639952,The Greens at Deerfield,,course,,,active,,,,,,,,161 The Clubhouse Drive,La Follette,TN,37766,US,36.3467937,-84.0063598,2026-10-11T15:12:41Z
 6ff9c362-baad-40b5-8c1c-7b0403e772d6,way/555237886,Valley Ridge Golf Course,,course,,,active,9,35,,,,,,1180 Valley Home Road,Morristown,TN,37813,US,36.1908148,-83.3191187,2026-10-11T15:12:18Z
 71b4fce3-dc7b-4bfe-a01f-0f344f19380a,way/384865193,Paris Country Club,,course,,,active,,,,,,,,,,TN,,US,36.3439627,-88.2502245,2026-10-11T15:12:14Z
@@ -106,14 +106,14 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 742ec439-1a9b-43e0-a9f2-3d5d832cb3f4,way/160259350,Quail Ridge Golf Course,,course,,,active,,,,,,,,,,TN,,US,35.2379014,-89.8538978,2026-10-11T15:12:01Z
 7615340a-9975-4761-9ddc-69f8bd930fd4,way/188508775,Whittle Springs Golf Course,,course,,,active,18,70,,,+1-865-525-1022,https://www.golfwhittlesprings.com/,,3113 Valley View Drive,Knoxville,TN,37917,US,36.0160239,-83.9085497,2026-10-11T15:06:14Z
 766c9670-5de2-4b51-8934-aee70adc43fc,relation/11726594,Cumberland Cove Golf Course,,course,,,active,,,,,,,,,,TN,,US,36.0837665,-85.2289817,2026-10-11T15:12:41Z
-777616e9-d846-4a71-9d02-5fcb05c2cd67,way/81176980,,,course,,,active,,9,,,,,,,,TN,,US,35.1325135,-85.3050516,2026-10-11T15:11:55Z
-78719b45-caee-40b4-8a79-075279de2db6,way/274827951,The Links at Fox Meadows,,course,,,active,,66,,,,http://www.cityofmemphis.org/Government/ParksNeighborhoods/GolfCourses/LinksatFoxMeadows.aspx,,3064 Clarke Rd.,Memphis,TN,38115,US,35.0662281,-89.8715675,2026-10-11T15:06:19Z
+777616e9-d846-4a71-9d02-5fcb05c2cd67,way/81176980,,,course,,,active,,,,,,,,,,TN,,US,35.1325135,-85.3050516,2026-10-11T15:11:55Z
+78719b45-caee-40b4-8a79-075279de2db6,way/274827951,The Links at Fox Meadows,,course,,,active,,,,,,http://www.cityofmemphis.org/Government/ParksNeighborhoods/GolfCourses/LinksatFoxMeadows.aspx,,3064 Clarke Rd.,Memphis,TN,38115,US,35.0662281,-89.8715675,2026-10-11T15:06:19Z
 79b546f9-8732-4bd9-a468-e717cefcbab9,way/195285866,Jackson National Golf Club,,course,,,active,18,72,,,+1-731-424-3146,https://www.golfjacksontn.us/,,307 Henderson Road,Jackson,TN,38305,US,35.6858642,-88.7963187,2026-10-11T13:30:03Z
 79ccb708-6a5d-4ebf-8e47-b92168642fb4,relation/5740356,Cole Park Golf Course,,course,,,active,18,72,,,+1-270-798-4906,https://campbell.armymwr.com/programs/cole-park-golf-course,,1601 Club Loop,Fort Campbell,TN,42223,US,36.6136934,-87.4397852,2026-10-11T15:12:36Z
 79e45655-7a2e-4476-8c7a-1d28f4d1f187,way/193370408,,,course,,,active,,,,,,,,,,TN,,US,35.6750888,-88.8379202,2026-10-11T15:12:01Z
 7a278ccc-0ef8-4369-86df-6a6ec6e01b1b,way/81094476,Lupton City Golf Club,,course,,,active,,,,,+1-423-364-6947,http://www.luptoncitygolf.com/,,,,TN,,US,35.1007671,-85.2633089,2026-10-11T15:11:55Z
 7a5ffe2d-15cb-4958-af92-2a923b82ad9c,way/1154158170,Lakeside Golf Course,,course,,,active,,,,,,,,,,TN,,US,35.8492995,-84.4954314,2026-10-11T15:12:27Z
-7d3b11b6-8a9f-41d4-b7cc-fc39ed1a3fa7,way/555241198,Dandridge Golf & Country Club,,course,,,active,,40,,,,,,1247 Stonewall Jackson Drive,Dandridge,TN,37725,US,36.0442829,-83.4012413,2026-10-11T15:12:18Z
+7d3b11b6-8a9f-41d4-b7cc-fc39ed1a3fa7,way/555241198,Dandridge Golf & Country Club,,course,,,active,,,,,,,,1247 Stonewall Jackson Drive,Dandridge,TN,37725,US,36.0442829,-83.4012413,2026-10-11T15:12:18Z
 7d8fb82a-ce39-492b-9263-3c5d24a6ebf2,way/321057454,Oak Ridge Country Club,,course,,,active,18,72,,,+1 865-482-2436,https://oakridgecountryclub.org/,,150 Gum Hollow Road,Oak Ridge,TN,37830,US,35.9759767,-84.3283811,2026-10-11T15:12:12Z
 7da5391f-5fca-41aa-98b1-8fd0538652a3,way/403759447,Fairways and Greens Golf Center,,course,,,active,,,,,,http://fairwaysandgreens.org,,626 Simmons Road,Knoxville,TN,37932,US,35.9138296,-84.137546,2026-10-11T15:12:15Z
 7ff4a689-37cf-4c5e-a175-e2042de254e4,way/321389372,Tri Cities Golf Club,,course,,,active,,,,,+1-423-323-4178,https://www.tricitiesgc.com/,,2354 Feathers Chapel Road,Blountville,TN,37617,US,36.5174157,-82.3016527,2026-10-11T15:12:12Z
@@ -122,27 +122,27 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 83f8e46b-c95b-4414-9f93-469137dc2079,way/456281177,Indian Hills Golf Club,,course,,,active,,,,,+1-615-895-3642,https://www.indianhillsgc.com/,,405 Calumet Trace,Murfreesboro,TN,37127,US,35.794294,-86.3927068,2026-10-11T15:12:17Z
 841db66b-7bf8-4d86-83bb-2d2ce30ca255,way/191631200,Richland Country Club,,course,,,active,18,72,,,+1-615-370-0030,https://www.richlandcc.com/,,1 Club Drive,Nashville,TN,37215,US,36.049727,-86.8219736,2026-10-11T15:12:01Z
 85d2903f-b676-42e5-9b47-41249a3fe097,way/1316373325,Troubadour Golf and Field Club,,course,,,active,,,,,,https://thetroubadourclub.com/,,,,TN,,US,35.8273386,-86.6786149,2026-10-11T15:12:29Z
-88420f8e-8ae3-4863-91c3-d7d5da7c2351,way/555241199,Dandridge Golf & Country Club,,course,,,active,,4,,,,,,1247 Stonewall Jackson Drive,Dandridge,TN,37725,US,36.0422109,-83.4003961,2026-10-11T13:30:51Z
+88420f8e-8ae3-4863-91c3-d7d5da7c2351,way/555241199,Dandridge Golf & Country Club,,course,,,active,,,,,,,,1247 Stonewall Jackson Drive,Dandridge,TN,37725,US,36.0422109,-83.4003961,2026-10-11T13:30:51Z
 88fe4830-3348-40af-b3b3-378d506fa13a,way/468838067,Lebanon Golf & Country Club,,course,,,active,9,36,,,+1-615-444-8300,https://www.lebanongolfandcountryclub.com/,,1300 Coles Ferry Pike,Lebanon,TN,37087,US,36.2219377,-86.3075233,2026-10-11T15:12:17Z
 8b5db12d-2e2b-4fdd-9b14-b82025da60e6,relation/13835482,The Patch at The Preserve,,course,,,active,,,,,,,,,,TN,,US,35.9108541,-84.413084,2026-10-11T13:31:42Z
 8c2830da-542c-437b-90b8-c088779581cd,way/648246220,,,course,,,active,,,,,,,,,,TN,,US,36.3506667,-89.1506537,2026-10-11T15:12:20Z
-8ddf5bb5-99d6-43da-b94d-5928a32d83b2,way/778704605,Elizabethton Municipal Golf Course,,course,,,active,,8,,,+1-423-542-8051,https://elizabethton.golf/,,185 Buck Van Huss Road,Elizabethton,TN,37643,US,36.321208,-82.266396,2026-10-11T15:12:21Z
+8ddf5bb5-99d6-43da-b94d-5928a32d83b2,way/778704605,Elizabethton Municipal Golf Course,,course,,,active,,,,,+1-423-542-8051,https://elizabethton.golf/,,185 Buck Van Huss Road,Elizabethton,TN,37643,US,36.321208,-82.266396,2026-10-11T15:12:21Z
 8fc77549-505f-47fd-85f9-996c7b09c2b8,way/1324404874,Copper Basin Golf Course,,course,,,active,,,,,,,,,,TN,,US,35.0254317,-84.3249637,2026-10-11T15:12:29Z
 9015ec33-3a3d-4eee-97c8-d7c27406867e,way/496783038,The Cedars Golf Course,,course,,,active,,,,,,,,,,TN,,US,36.5418007,-82.2266341,2026-10-11T15:12:17Z
 921c01d1-923d-4c74-b323-f270ba805c12,relation/4849521,Irene Golf & Country Club,,course,,,active,,,,,+1-901-752-1521,https://www.irenegolfcc.com/,,8141 Irene Boulevard,Memphis,TN,38125,US,35.0168386,-89.7888814,2026-10-11T15:12:36Z
 928f3540-6799-4b4f-b4fd-0504dcfdb9fc,way/576032565,Grand Valley Lakes Golf Course,,course,,private,active,,,,,,,,,,TN,,US,35.1575572,-88.9976612,2026-10-11T15:12:18Z
-93def14b-992d-46e2-b1c2-8f05af0a73a4,way/256890436,Vinny Links Golf Course,,course,,,active,,49,,,+1-615-645-9863,https://www.nashville.gov/departments/parks/golf-courses/vinnylinks-golf-course,,2009 Sevier Street,Nashville,TN,37206,US,36.165698,-86.73717,2026-10-11T15:06:18Z
+93def14b-992d-46e2-b1c2-8f05af0a73a4,way/256890436,Vinny Links Golf Course,,course,,,active,,,,,+1-615-645-9863,https://www.nashville.gov/departments/parks/golf-courses/vinnylinks-golf-course,,2009 Sevier Street,Nashville,TN,37206,US,36.165698,-86.73717,2026-10-11T15:06:18Z
 93df3568-b0ac-4f9d-8772-7a26dddda1a9,relation/21281786,Cattails at Meadowview,,course,,,active,18,71,,,+1 423 578 6622,,,,,TN,,US,36.5104639,-82.5683797,2026-10-11T13:31:51Z
-965d9c55-9987-4018-bf4b-c290ca434383,way/1086842439,Creeks Bend Golf Club,,course,,,active,,66,,,,,,,,TN,,US,35.1478332,-85.2128145,2026-10-11T15:06:36Z
+965d9c55-9987-4018-bf4b-c290ca434383,way/1086842439,Creeks Bend Golf Club,,course,,,active,,,,,,,,,,TN,,US,35.1478332,-85.2128145,2026-10-11T15:06:36Z
 9741396f-5257-4687-ba2c-5ae1dcd36db2,way/131035237,,,course,,,active,,,,,,,,,,TN,,US,35.1788597,-85.2326281,2026-10-11T15:11:57Z
-9917115a-f0f7-4113-9f86-3d03a6e8160c,relation/13708126,Centennial Golf Course,,course,,,active,,67,,,,,,,,TN,,US,36.0111254,-84.1776871,2026-10-11T15:12:41Z
+9917115a-f0f7-4113-9f86-3d03a6e8160c,relation/13708126,Centennial Golf Course,,course,,,active,,,,,,,,,,TN,,US,36.0111254,-84.1776871,2026-10-11T15:12:41Z
 99be17ab-f494-4bcf-99d6-97b7b35d5c11,way/1187423904,Bear Trace at Cumberland Mountain State Park,,course,,,active,18,72,,,+1-931-707-1640,https://tnstateparks.com/golf/course/bear-trace-at-cumberland-mountain,,407 Wild Plum Lane,Crossville,TN,38572,US,35.8913472,-85.0074042,2026-10-11T15:12:27Z
 9b121ad9-cc81-48f0-a23d-14a568e769f4,way/467630882,Nashville Golf & Athletic Club,,course,,,active,18,72,,,+1-615-370-3346,https://www.ngac.net/,,1703 Crockett Springs Trail,Brentwood,TN,37027,US,35.9590046,-86.788684,2026-10-11T15:12:17Z
 9db5949b-3415-4726-b433-242963d509ae,way/496963864,Hardeman County Golf Club,,course,,,active,,,,,,,,,,TN,,US,35.2815839,-89.0097039,2026-10-11T15:12:17Z
 9ec80c94-fd07-4981-b23a-6409cb16e68a,relation/7314808,White Plains Golf Course,,course,,,active,9,38,,,+1 931 537 6397,https://www.whiteplainsgolfcourse.com/,,4000 Plantation Drive,Cookeville,TN,38506,US,36.1825844,-85.4299445,2026-10-11T13:31:37Z
 9fc36bc9-e427-45df-85de-21f94b06a248,way/1560628067,Crockett Ridge Golf Course,,course,,,active,18,72,,,+1 423 279 1700,,,4439 L Jack Drive,Kingsport,TN,37664,US,36.5594695,-82.4208254,2026-10-11T15:12:30Z
 9fd1a973-9b5b-47c9-abe0-a92db7902f22,way/600883555,Bear Trace Golf Course,,course,,,active,18,71,,,,,,,,TN,,US,35.2054523,-86.2604621,2026-10-11T15:12:20Z
-a00b7969-f32d-4f90-8ee6-ed81e075de3b,way/256611068,Temple Hills Golf Course,,course,,,active,,12,,,,,,,,TN,,US,36.0252706,-86.9537938,2026-10-11T15:12:05Z
+a00b7969-f32d-4f90-8ee6-ed81e075de3b,way/256611068,Temple Hills Golf Course,,course,,,active,,,,,,,,,,TN,,US,36.0252706,-86.9537938,2026-10-11T15:12:05Z
 a0138a76-e870-45f1-a675-e0571b8d536b,relation/13662607,Tennessee National Golf Club,,course,,,active,18,72,,,,,,,,TN,,US,35.765372,-84.4117095,2026-10-11T15:12:41Z
 a1e0ed0d-8141-44e6-a3cd-fd6409381267,way/131035240,,,course,,,active,,,,,,,,,,TN,,US,35.1778465,-85.2330894,2026-10-11T15:11:57Z
 a428f6ef-6b63-46b9-ae85-508a6b22cea9,way/441090105,Willow Creek Golf Club,,course,,,active,18,72,,,+1-865-675-0100,https://www.willowcreekgolf.com/,,12300 Kingston Pike,Farragut,TN,37934,US,35.8614002,-84.1889288,2026-10-11T15:12:15Z
@@ -159,10 +159,10 @@ af845ce7-f7be-469f-ad68-5ecfd2401b8f,way/860287540,Sweetens Cove Golf Club,,cour
 af85cc37-9f45-495b-99a2-b7e1da58b506,way/615661380,Chatata Valley Golf Club,,course,,,active,18,72,,,,,,,Cleveland,TN,,US,35.1674121,-84.7847671,2026-10-11T15:12:20Z
 b0a6a2e2-b389-4d40-9a9d-e3eb5bec8fcc,way/382366596,Franklin Bridge Golf Course,,course,,,active,18,71,,,+1-615-794-9400,https://franklinbridgegolf.com/,,750 Riverview Drive,Franklin,TN,37064,US,35.8935044,-86.8389336,2026-10-11T15:12:14Z
 b1423652-5331-46e0-92b7-ac23336ee9af,way/126653356,The Links at Galloway,,course,,,active,18,70,,,+1-901-685-7805,https://www.memphistn.gov/Government/ParksNeighborhoods/GolfCourses/LinksatGalloway.aspx,,3815 Walnut Grove Road,,TN,,US,35.1290823,-89.9361474,2026-10-11T15:11:57Z
-b33f8c6d-f7ca-405b-af69-4860b865ab64,way/1109707105,Lambert Acres Golf Club,,course,,,active,,9,,,,,,,,TN,,US,35.7486358,-83.8838373,2026-10-11T15:12:24Z
+b33f8c6d-f7ca-405b-af69-4860b865ab64,way/1109707105,Lambert Acres Golf Club,,course,,,active,,,,,,,,,,TN,,US,35.7486358,-83.8838373,2026-10-11T15:12:24Z
 b383f1b2-fd42-4248-93a8-c3d751c8d427,way/486660782,Franklin County Country Club,,course,,,active,,,,,,,,,,TN,,US,35.1707433,-86.094274,2026-10-11T15:12:17Z
 b3a37d05-99de-48c7-9818-0060cbef7b54,relation/20780204,Signal Mountain Golf and Country Club,,course,,,active,18,71,,,,,,,,TN,,US,35.1290922,-85.3492923,2026-10-11T15:12:45Z
-b477cac8-c682-4d3a-b7f0-eefbacb72aa6,way/384260125,Memphis National Golf Course,,course,,,active,,52,,,,,,,,TN,,US,35.0745224,-89.7204465,2026-10-11T15:12:14Z
+b477cac8-c682-4d3a-b7f0-eefbacb72aa6,way/384260125,Memphis National Golf Course,,course,,,active,,,,,,,,,,TN,,US,35.0745224,-89.7204465,2026-10-11T15:12:14Z
 b64c550c-1cfc-4de6-a9d3-5a5b5d40fe77,way/571865359,Links at Riverside Golf Course,,course,,,active,9,36,,,,,,,,TN,,US,35.1031588,-90.0791071,2026-10-11T15:12:18Z
 b76e4ca0-9e4a-40ec-90a4-e8db3c72a5b5,way/468561315,UT Day Golf Practice Facility,,practice,,,active,,,,,,,,,,TN,,US,35.9349941,-83.9506246,2026-10-11T15:12:17Z
 b7920986-b1a7-43fb-8b74-2a7566f79a17,way/320125896,McCabe Golf Course,,course,,,active,,,,,+1-615-862-8491,https://www.nashville.gov/Parks-and-Recreation/Golf-Courses/McCabe-Golf-Course.aspx,,100 46th Avenue North,Nashville,TN,37209,US,36.1387751,-86.8467445,2026-10-11T15:12:12Z
@@ -172,13 +172,13 @@ bc49fab1-8e4e-4a27-92fb-5568898e74c1,way/1518774722,Rockwood Golf Course,,course
 bc9ed4b9-ef31-4d62-81a8-21c7914fbafb,way/168667121,Brainerd Golf Course,,course,,,active,18,72,,,+1-423-855-2692,https://chattanooga.gov/general-services/public-golf-courses/brainerd,,5203 Old Mission Road,Chattanooga,TN,37411,US,35.0185843,-85.2193353,2026-10-11T15:12:01Z
 be8f56c6-3540-4697-8b07-3cb9078f1814,relation/14384353,Bent Creek Golf Course,,course,,,active,18,72,,,+1-865-436-3947,https://www.bentcreekgolf.com/,,3919 E. Parkway,Gatlinburg,TN,37738,US,35.761025,-83.3474717,2026-10-11T15:06:51Z
 bff9a9b3-e2f9-488d-8f38-3574ff998c16,way/384126902,Colonial Country Club,,course,,,active,18,72,,,,https://www.colonialcountryclub.org/index.php/golf,,,,TN,,US,35.1947292,-89.7759737,2026-10-11T15:12:14Z
-c238c4e6-8898-4e0e-840b-855d5cb98f99,way/213531420,Percy Warner Golf Course,,course,,,active,,11,,,,,,,,TN,,US,36.0837953,-86.8702416,2026-10-11T15:12:03Z
+c238c4e6-8898-4e0e-840b-855d5cb98f99,way/213531420,Percy Warner Golf Course,,course,,,active,,,,,,,,,,TN,,US,36.0837953,-86.8702416,2026-10-11T15:12:03Z
 c32b74cb-d893-4b5a-a1b0-f4f621fc672f,relation/11785206,Swan Lake Golf Course,,course,,,active,18,70,,,+1-931-645-7479,https://www.cityofclarksville.com/453/Golf-Courses,,1514 Golf Club Ln,Clarksville,TN,37043,US,36.5522254,-87.2975168,2026-10-11T15:12:41Z
 c35bbb43-20ad-4fc3-9730-030182da696b,way/382367915,Westhaven Golf Club,,course,,,active,,,,,+1 615 224 2990,http://www.privategolfcoursefranklintn.com/,,4000 Golf Club Lane,Franklin,TN,37064,US,35.9360251,-86.9407781,2026-10-11T15:12:14Z
-c3df587a-7a06-4fd4-96db-997be9676842,way/393628177,Concord Golf Course,,course,,,active,,60,,,,,,,,TN,,US,35.0115481,-85.1805633,2026-10-11T15:12:15Z
+c3df587a-7a06-4fd4-96db-997be9676842,way/393628177,Concord Golf Course,,course,,,active,,,,,,,,,,TN,,US,35.0115481,-85.1805633,2026-10-11T15:12:15Z
 c4d1780f-5cfd-42ec-bed4-d5ec7985d60d,way/491988668,Three Ridges Golf Course,,course,,,active,18,72,,,,,,6101 Wise Springs Road,knoxville,TN,37918,US,36.0861364,-83.8428809,2026-10-11T15:12:17Z
 c5010966-7ec9-4140-bf3a-8d1fb7ea4c41,way/196256039,Bent Tree Golf Course,,course,,,active,,,,,,,,,,TN,,US,35.6185444,-88.7727275,2026-10-11T13:30:03Z
-c67123ac-709a-4fa6-81d9-f09d1f194339,way/499135540,Gaylord Springs Golf Links,,course,,,active,,9,,,+1 615 458 1730,https://www.gaylordsprings.com/,,18 Springhouse Lane,Nashville,TN,37214,US,36.2195643,-86.6802058,2026-10-11T15:12:18Z
+c67123ac-709a-4fa6-81d9-f09d1f194339,way/499135540,Gaylord Springs Golf Links,,course,,,active,,,,,+1 615 458 1730,https://www.gaylordsprings.com/,,18 Springhouse Lane,Nashville,TN,37214,US,36.2195643,-86.6802058,2026-10-11T15:12:18Z
 c72ab59b-eaf7-409f-8e01-6201ba352bf4,way/485868987,Beverly Park Golf Course,,course,,,active,,,,,,,,,,TN,,US,36.0579302,-83.8935159,2026-10-11T15:12:17Z
 c73796f5-ef4e-4d35-b35b-aa48c581fc89,relation/13018875,Lenox Events and Golf,,course,,,active,,,,,,,,2100 Clubhouse Drive,Dyersburg,TN,38024,US,36.0558561,-89.4106144,2026-10-11T15:12:41Z
 c8cea760-63d6-4afa-8633-c33f54bdcf7d,relation/14515231,Indian Hills Golf Course,,course,,,active,18,72,,,+1-615-895-3642,https://www.indianhillsgc.com/,,405 Calumet Trace,Murfreesboro,TN,37127,US,35.794294,-86.3927068,2026-10-11T15:12:41Z
@@ -192,7 +192,7 @@ cdf1f20d-3374-4619-bf38-cd4658c82d64,relation/18900038,Ted Rhodes Golf Course,,c
 cefdc7d0-5a9e-481e-9e81-94e3e24e5ffe,relation/15554124,Shiloh Golf Course,,course,,,active,18,71,,,,,,2913 Caney Branch Road,Adamsville,TN,38310,US,35.2061957,-88.3617468,2026-10-11T15:12:43Z
 cf616374-1448-4aed-9476-55865e5235fa,way/256889992,Shelby Golf Course,,course,,,active,,,,,,,,,,TN,,US,36.1750092,-86.7308922,2026-10-11T13:30:12Z
 cf997ee2-eaac-4552-bbc7-e9696b4ebbac,way/1287034557,,,course,,,active,,,,,,,,,,TN,,US,35.9718981,-85.8206109,2026-10-11T15:12:28Z
-cffc0da8-6a73-4ec2-b5f5-4a082ccad846,way/1004609967,Fox Den Country Club,,course,,,active,,43,,,,,,,,TN,,US,35.8733444,-84.192492,2026-10-11T15:12:24Z
+cffc0da8-6a73-4ec2-b5f5-4a082ccad846,way/1004609967,Fox Den Country Club,,course,,,active,,,,,,,,,,TN,,US,35.8733444,-84.192492,2026-10-11T15:12:24Z
 d0d7af45-3d9f-4707-90d0-5296948c6d2e,relation/18165746,,,course,,,active,18,72,,,,,,,,TN,,US,35.1415519,-85.1537968,2026-10-11T15:06:54Z
 d229737f-c04d-4bf8-97bc-0f4e101e5635,way/468182086,Brentwood Country Club,,course,,,active,,,,,,https://bcctn.org/,,,,TN,,US,36.0193923,-86.8033223,2026-10-11T15:06:29Z
 d22f4303-4f71-405b-a9d4-6b7626f03a9e,relation/7299300,Redtail Mountain,,course,,,active,,,,,+1 423 727 7600,https://www.redtailmountain.com/golf,,300 Clubhouse Lane,Redtail Mountain,TN,37683,US,36.4263644,-81.78664,2026-10-11T15:12:38Z
@@ -205,7 +205,7 @@ d69c1493-4e3f-4124-89ef-53d4627ef7e5,way/498848482,Hunters Point Golf Club,,cour
 d75e3d72-6f82-42a5-a08d-98feb23caeeb,way/321389714,The Golf Club of Bristol,,course,,,active,18,71,,,+1 423-652-1700,http://countryclubofbristol.com/,,6045 Old Jonesboro Road,Bristol,TN,37620,US,36.5888341,-82.120736,2026-10-11T15:12:12Z
 da18fd2a-395b-4295-a4af-9360287b4151,relation/7301268,"Woodlake Lodge, Golf, and Country Club",,course,,,active,18,72,,,+1 877 423 4653,https://www.woodlakegolf.com/,,330 Woodlake Boulevard,Tazewell,TN,37879,US,36.399725,-83.5602175,2026-10-11T15:12:38Z
 da6e54b4-9dd2-4f13-abf6-cdcce825336e,way/188477283,Beaver Creek Country Club,,course,,,active,18,70,,,,,,,,TN,,US,36.066519,-83.9472043,2026-10-11T15:12:01Z
-da9612c7-022a-45e6-adb8-cb7afed98d4c,relation/20769235,Fox Den Golf and Country Club,,course,,,active,,29,,,,,,,Knoxville,TN,,US,35.8768493,-84.1905072,2026-10-11T15:12:45Z
+da9612c7-022a-45e6-adb8-cb7afed98d4c,relation/20769235,Fox Den Golf and Country Club,,course,,,active,,,,,,,,,Knoxville,TN,,US,35.8768493,-84.1905072,2026-10-11T15:12:45Z
 da9ff1e4-5ac7-434e-b3f5-1eae812968e9,way/1019726621,,,course,,,active,,,,,,,,,,TN,,US,36.4607589,-89.0616721,2026-10-11T15:12:24Z
 dda67931-fed9-455a-bc2c-1196252106d6,way/1089397203,Long Hollow Golf Course,,course,,,active,18,71,,,+1-615-451-3120,https://www.gallatintn.gov/485/Golf,,1080 Long HollowPike,Gallatin,TN,37066,US,36.3893039,-86.4839511,2026-10-11T15:12:24Z
 dde0894c-06ad-4887-9d3f-08f6298fc969,way/940615586,Lightning Bug Golf Course,,course,,,active,,,,,,,,,,TN,,US,35.8558795,-86.6315448,2026-10-11T15:12:23Z
@@ -213,9 +213,9 @@ de7755cc-2a8c-41d3-b0d3-f4132e761191,way/208870482,,,course,,,active,,,,,,,,,,TN
 dedc142c-3ac4-419e-ae83-28388833235b,way/131035241,,,course,,,active,,,,,,,,,,TN,,US,35.1788115,-85.2340685,2026-10-11T15:06:10Z
 df16dc7e-9d45-4d1f-b841-320f03a685d6,relation/7314786,Golden Eagle Golf Club,,course,,,active,18,70,,,+1 931 372 4653,https://www.ttugoldeneaglegolfclub.com/,,1500 Country Club Road,Cookeville,TN,38501,US,36.1838537,-85.470184,2026-10-11T15:12:38Z
 dfbf22b2-e814-415c-afca-3ca9c818eb3e,relation/5204453,,,course,,,active,18,73,,,,,,,,TN,,US,35.1402898,-85.0659692,2026-10-11T15:12:36Z
-dff3b58c-e14e-4002-93f9-e596c746fe2e,way/421076650,,,course,,,active,,65,,,,,,,,TN,,US,36.4307121,-88.0931401,2026-10-11T15:12:15Z
+dff3b58c-e14e-4002-93f9-e596c746fe2e,way/421076650,,,course,,,active,,,,,,,,,,TN,,US,36.4307121,-88.0931401,2026-10-11T15:12:15Z
 e283c6ed-904f-4161-af13-68e7cacd5b32,way/583933303,Southern Hills Golf Course,,course,,,active,,,,,,,,,,TN,,US,36.1067979,-85.6031554,2026-10-11T15:06:32Z
-e3c5ab7d-eb81-4148-9be5-a3fd31aec4dd,way/168667575,Brown Acres Golf Course,,course,,,active,,39,,,,,,,,TN,,US,35.0078874,-85.1943025,2026-10-11T15:12:01Z
+e3c5ab7d-eb81-4148-9be5-a3fd31aec4dd,way/168667575,Brown Acres Golf Course,,course,,,active,,,,,,,,,,TN,,US,35.0078874,-85.1943025,2026-10-11T15:12:01Z
 e4536e3b-9a88-4860-8a12-750044500c07,way/915695657,,,course,,,active,,,,,,,,,,TN,,US,35.9754713,-86.7379039,2026-10-11T15:06:35Z
 e4e0a8bf-f4a4-46d9-8ee4-966d3ac8d055,node/8322016513,Waterville Golf Course (Cherokee Springs),,course,,,active,,,,,,,,,,TN,,US,35.1029722,-84.8675218,2026-10-11T13:29:32Z
 e7c59dcd-0a26-4035-9be1-0336f0d4de8d,way/1230712190,,,course,,,active,,,,,,,,,,TN,,US,35.1784976,-88.6209669,2026-10-11T15:12:27Z
@@ -231,10 +231,10 @@ f3cda153-89d5-40eb-877f-ebf33bc26649,way/1430116123,Fairvue,,course,,,active,,,,
 f3f8dfdb-d723-4ea0-b3da-474a1e43e4bf,node/3757248489,Mt. Pleasant Country Club & 9 Hole Golf Course,,course,,,active,,,,,,,,7996 Enterprise Road,Mount Pleasant,TN,38474,US,35.5040195,-87.1946133,2026-10-11T13:29:32Z
 f4a9b8d0-81a3-4812-96be-6732b3377dd0,way/517721197,Fall Creek Falls Golf Course,,course,,,active,18,72,,,,,,,,TN,,US,35.6478417,-85.3547439,2026-10-11T15:12:18Z
 f692b987-2936-4873-a2e5-cf2efe6e4427,way/631813335,Ross Creek Landing Golf Course,,course,,,active,18,72,,,,https://www.rosscreeklandinggolfclub.com/,,,,TN,,US,35.3769596,-87.9739418,2026-10-11T15:12:20Z
-f6b26caa-a8ad-4b15-bdb8-129bf55cdca5,way/1430116124,Fairvue,,course,,,active,,8,,,,,,,,TN,,US,36.3454416,-86.4849938,2026-10-11T15:12:29Z
+f6b26caa-a8ad-4b15-bdb8-129bf55cdca5,way/1430116124,Fairvue,,course,,,active,,,,,,,,,,TN,,US,36.3454416,-86.4849938,2026-10-11T15:12:29Z
 f7d66f32-d0f5-4ed1-b6b1-4b8ee0a4f635,way/107076863,,,course,,,active,,,,,,,,,,TN,,US,35.944898,-86.8397535,2026-10-11T15:11:57Z
-f7e2a7cf-66b1-4af8-9937-8ffdb1d06400,way/498941084,Hermitage Golf Course,,course,,,active,,52,,,+1-615-987-0324,https://www.hermitagegolf.com/,,3939 Old Hickory Boulevard,Old Hickory,TN,37138,US,36.2275437,-86.6421591,2026-10-11T15:12:18Z
-f8d4419a-573d-49db-b3c4-2a1e86d0685c,way/1430116122,Fairvue,,course,,,active,,37,,,,,,,,TN,,US,36.3477058,-86.4919991,2026-10-11T15:12:29Z
-fc204ed9-b1ab-41e0-a898-392a5c7fdc87,way/105241606,The Links at Audubon,,course,,,active,,66,,,+1-901-683-6941,https://www.memphistn.gov/Government/ParksNeighborhoods/GolfCourses/TheLinksatAudubon.aspx,,4160 Park Avenue,Memphis,TN,,US,35.1113508,-89.9174546,2026-10-11T15:11:55Z
+f7e2a7cf-66b1-4af8-9937-8ffdb1d06400,way/498941084,Hermitage Golf Course,,course,,,active,,,,,+1-615-987-0324,https://www.hermitagegolf.com/,,3939 Old Hickory Boulevard,Old Hickory,TN,37138,US,36.2275437,-86.6421591,2026-10-11T15:12:18Z
+f8d4419a-573d-49db-b3c4-2a1e86d0685c,way/1430116122,Fairvue,,course,,,active,,,,,,,,,,TN,,US,36.3477058,-86.4919991,2026-10-11T15:12:29Z
+fc204ed9-b1ab-41e0-a898-392a5c7fdc87,way/105241606,The Links at Audubon,,course,,,active,,,,,+1-901-683-6941,https://www.memphistn.gov/Government/ParksNeighborhoods/GolfCourses/TheLinksatAudubon.aspx,,4160 Park Avenue,Memphis,TN,,US,35.1113508,-89.9174546,2026-10-11T15:11:55Z
 fede667a-6f79-4586-b601-a2f92b37027c,way/274850234,The Links at Whitehaven,,course,,,active,9,36,,,+1-901-396-1608,https://www.memphistn.gov/Government/ParksNeighborhoods/GolfCourses/LinksatWhitehaven.aspx,,750 East Holmes Road,,TN,,US,35.0107456,-90.0397253,2026-10-11T13:30:16Z
 ffd47210-a289-4e0c-97c6-b046338b1d2a,relation/15728213,Smoky Mountain Golf Club,,course,,,active,,,,,,,,,,TN,,US,35.9308747,-83.1893164,2026-10-11T13:31:48Z

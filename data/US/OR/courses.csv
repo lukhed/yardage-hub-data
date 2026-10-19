@@ -5,7 +5,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 0b0b9230-c86d-4b6e-9894-cae4d1ffd847,way/745491408,,,course,,,active,18,,,,,,,,,OR,,US,44.5161157,-122.8003999,2026-10-11T15:12:21Z
 0c2c0be5-aec7-47fb-a9ae-251163d8eecf,way/215481121,Laurelwood Golf Course,,course,,,active,9,35,,,,,,,,OR,,US,44.0260621,-123.0671678,2026-10-11T15:06:16Z
 0e4ac3b3-b151-41dc-acf0-8061f7581564,way/917752383,,,course,,,active,18,,,,,,,,,OR,,US,42.5450815,-124.371578,2026-10-11T15:12:23Z
-0e655001-99b9-44fe-b4a9-10596bbab3d7,relation/13030479,McNary Golf Club,,course,,,active,,69,,,,https://mcnarygolfclub.com/,,155 McNary Estates Drive North,Keizer,OR,97303,US,45.0120693,-123.0320765,2026-10-11T15:12:41Z
+0e655001-99b9-44fe-b4a9-10596bbab3d7,relation/13030479,McNary Golf Club,,course,,,active,,,,,,https://mcnarygolfclub.com/,,155 McNary Estates Drive North,Keizer,OR,97303,US,45.0120693,-123.0320765,2026-10-11T15:12:41Z
 0e8c5ecd-2890-402c-97d0-e0b1b3cd7d6a,way/741537980,,,course,,,active,18,72,,,,,,,,OR,,US,44.6643976,-123.1052082,2026-10-11T15:12:21Z
 0eeee640-93b4-4ad1-a2a0-a003a45020c7,relation/14595730,Chehalem Glenn Golf Course,,course,,,active,,,,,,,,4501 East Fernwood Road,Newberg,OR,97132,US,45.3004828,-122.9341234,2026-10-11T15:12:41Z
 0f6af382-9248-4b6d-9439-884dc910f611,relation/14139994,,,course,,,active,18,,,,,,,,,OR,,US,44.8868631,-124.027337,2026-10-11T15:12:41Z
@@ -14,7 +14,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 145562c7-600b-4a1e-b694-bc7c5a7aba2a,way/177179968,Stewart Meadows Golf Course,,course,,,active,9,35,,,+1-541-770-6554,https://www.stewartmeadowsgolf.com/,,1301 South Holly Street,Medford,OR,,US,42.308876,-122.8653987,2026-10-11T15:12:01Z
 159ee897-0280-40c4-94b6-036cbf0b4ea1,way/362513478,Practice Center,,practice,,,active,,,,,,,,,,OR,,US,43.1964352,-124.3835924,2026-10-11T15:06:26Z
 1777e9dc-2e57-4ed4-bd22-33fd109d8d11,way/260744563,Vernonia Golf Course,,course,,,active,,,,,,,,,,OR,,US,45.846845,-123.2401496,2026-10-11T15:12:05Z
-183a5b9e-bb13-45b0-afa4-e82af7a57f24,way/356701386,Bend Golf & Country Club,,course,,,active,,65,,,,https://www.bendgolfclub.com/,,,,OR,,US,44.0132161,-121.3109166,2026-10-11T15:12:14Z
+183a5b9e-bb13-45b0-afa4-e82af7a57f24,way/356701386,Bend Golf & Country Club,,course,,,active,,,,,,https://www.bendgolfclub.com/,,,,OR,,US,44.0132161,-121.3109166,2026-10-11T15:12:14Z
 19a91b24-5ebd-41da-8ad8-dd03dd57b369,way/30516571,Langdon Farms Golf Course,,course,,private,active,,,,,,,,,,OR,,US,45.2749003,-122.7665415,2026-10-11T15:11:49Z
 1baf8d79-97d3-4e32-bb32-b8b9773dfc19,relation/11095178,Eastmoreland Golf Course,,course,,,active,18,72,,,,https://www.portland.gov/parks/eastmoreland-golf-course,,,,OR,,US,45.4728535,-122.6352346,2026-10-11T15:12:38Z
 1c513dcd-7c6a-45da-8f48-e63f4e2a1c8e,way/1056725973,,,course,,,active,,,,,,,,,,OR,,US,44.0780327,-121.3103414,2026-10-11T15:12:24Z
@@ -27,13 +27,13 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 29289d93-447d-4a33-bb85-9bec1387558d,way/459096023,,,course,,,active,,,,,,,,,,OR,,US,42.4411459,-122.8428636,2026-10-11T15:12:17Z
 2996415b-4542-44cf-8b48-bb437548ead3,way/597841119,Mark Clark Golf Course,,course,,,active,,,,,,,,,,OR,,US,42.1903636,-120.4175596,2026-10-11T15:12:20Z
 2a9b3427-a6c2-482e-9562-d5a412724c5d,way/751745796,,,course,,,active,,,,,,,,,,OR,,US,44.8564734,-121.1672571,2026-10-11T15:12:21Z
-2be2414a-d391-4c8a-96a4-f126af6deb1f,way/158904851,Gearhart Golf Links,,course,,,active,,65,,,,,,,,OR,,US,46.0327162,-123.9204462,2026-10-11T15:12:01Z
-2c667f03-7a4c-4269-8a35-0ace177f0e2b,way/283724683,Roseburg Country Club,,course,,,active,,8,,,,,,,,OR,,US,43.2685871,-123.4033365,2026-10-11T13:30:16Z
+2be2414a-d391-4c8a-96a4-f126af6deb1f,way/158904851,Gearhart Golf Links,,course,,,active,,,,,,,,,,OR,,US,46.0327162,-123.9204462,2026-10-11T15:12:01Z
+2c667f03-7a4c-4269-8a35-0ace177f0e2b,way/283724683,Roseburg Country Club,,course,,,active,,,,,,,,,,OR,,US,43.2685871,-123.4033365,2026-10-11T13:30:16Z
 2d836062-b42e-4786-939c-896b10c792c5,way/285375235,Astoria Golf & Country Club,,course,,,active,,,,,,,,,,OR,,US,46.1050044,-123.925436,2026-10-11T15:12:07Z
 2d8ce65a-dc8a-4a2c-8948-1534bbfdc767,way/193282296,Reames Golf and Country Club,,course,,,active,,,,,,,,,,OR,,US,42.1866253,-121.7954958,2026-10-11T15:12:01Z
 307605bd-f5a0-4259-8515-6da13801a377,way/492879856,Amaze Zing Golf,,course,,,active,,,,,,,,,,OR,,US,43.0542632,-124.1311106,2026-10-11T15:06:29Z
-30f321a0-e4a0-4ece-b086-2836c4cb837c,way/362513476,Bandon Trails,,course,,,active,,60,,,,,,,,OR,,US,43.178152,-124.3855727,2026-10-11T15:12:14Z
-325f4241-6a5b-4909-a54e-84c3dbb21303,way/892462106,Sunset Bay Golf Course,,course,,,active,,47,,,,,,,,OR,,US,43.3225434,-124.3671567,2026-10-11T15:12:23Z
+30f321a0-e4a0-4ece-b086-2836c4cb837c,way/362513476,Bandon Trails,,course,,,active,,,,,,,,,,OR,,US,43.178152,-124.3855727,2026-10-11T15:12:14Z
+325f4241-6a5b-4909-a54e-84c3dbb21303,way/892462106,Sunset Bay Golf Course,,course,,,active,,,,,,,,,,OR,,US,43.3225434,-124.3671567,2026-10-11T15:12:23Z
 353fb776-d696-4413-8656-5676b3596969,way/635013286,Elkhorn Valley Golf Course,,course,,,active,18,71,,,,,,32295 North Fork Road,Lyons,OR,97358,US,44.8028614,-122.4180633,2026-10-11T13:30:54Z
 3590d262-adaa-48e5-af87-d5293a3b2ff6,way/1203860829,Ocean Dunes Golf Links,,course,,,active,,,,,,,,,Florence,OR,97439,US,43.9916529,-124.0866285,2026-10-11T15:12:27Z
 37e500a7-391a-4c26-abdc-7962c323ba48,way/320289924,,,course,,,active,,,,,,,,,,OR,,US,44.2936043,-121.1512045,2026-10-11T13:30:33Z
@@ -56,9 +56,9 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 4dbdc578-db14-432c-b883-4c39065651ef,node/5255454495,Stewart Park Golf Course,,course,,,active,,,,,,,,,,OR,,US,43.2217382,-123.3710263,2026-10-11T13:29:32Z
 4f1340d5-65ab-4069-b34a-53888cc99f15,way/355573237,Quail Run Golf Course,,course,,,active,18,72,,,,,,,,OR,,US,43.7582546,-121.4957191,2026-10-11T15:12:14Z
 4f3f4d40-88da-487c-9be2-984d2c58d919,way/124953002,Eugene Country Club,,course,,private,active,18,72,,,,https://www.eugenecountryclub.com/,,,,OR,,US,44.066534,-123.0873941,2026-10-11T15:06:10Z
-4fc13ffb-f9eb-4f82-8888-4cd8356b1406,way/516918774,,,course,,,active,,3,,,,,,,,OR,,US,44.2533202,-121.2527272,2026-10-11T15:06:30Z
+4fc13ffb-f9eb-4f82-8888-4cd8356b1406,way/516918774,,,course,,,active,,,,,,,,,,OR,,US,44.2533202,-121.2527272,2026-10-11T15:06:30Z
 5007fb8a-87df-4586-9691-5e650f602c94,way/1056725975,,,course,,,active,,,,,,,,,,OR,,US,44.0805036,-121.3151025,2026-10-11T15:12:24Z
-50891662-5061-4017-8158-bb3e882702c5,way/516918780,,,course,,,active,,4,,,,,,,,OR,,US,44.256533,-121.2574365,2026-10-11T15:12:18Z
+50891662-5061-4017-8158-bb3e882702c5,way/516918780,,,course,,,active,,,,,,,,,,OR,,US,44.256533,-121.2574365,2026-10-11T15:12:18Z
 53ac9b45-40a5-4a52-885a-d1695dcd4e58,way/98522582,Trysting Tree Golf Club,,course,,,active,18,71,,,,,,,,OR,,US,44.5716881,-123.2447724,2026-10-11T15:11:55Z
 542b2f70-5529-4934-898f-8e29c5aa2d5e,way/183193453,,,course,,,active,,,,,,,,,,OR,,US,44.9375999,-123.161723,2026-10-11T15:12:01Z
 55342390-6ec6-4a0a-8471-8c4b76a22065,way/296591779,Bear Creek Golf Course,,course,,,active,,,,,+1-541-773-1822,https://www.golfbearcreek.com/,,2355 South Pacific Highway,Medford,OR,97501,US,42.3059779,-122.8472479,2026-10-11T15:12:10Z
@@ -76,32 +76,32 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 61c8a618-4f48-4283-a48a-aba40eb06f5c,relation/10405659,Chinook Winds Golf Resort,,course,,,active,,,,,,,,,,OR,,US,45.0022458,-123.9891454,2026-10-11T15:12:38Z
 64324569-10d2-4f8e-aa94-9658b248a335,way/1292890177,Salmon Run Golf Course,,course,,,active,18,71,,,+1-541-469-4888,https://www.salmonrungolf.com/,,99040 South Bank Chetco River Rd,Brookings,OR,97415,US,42.0538124,-124.210588,2026-10-11T13:31:12Z
 644e7059-58d3-4e6b-ba35-cc06b18a4016,way/146072029,Willamette Valley Country Club,,course,,private,active,18,,,,+1-503-266-4066,http://www.willamettevalleycc.com/,,900 Country Club Place,Canby,OR,97013,US,45.2848953,-122.6829834,2026-10-11T15:12:00Z
-6486aa45-8a82-4691-9907-e53f2519a508,way/129296323,Albany Golf Course,,course,,,active,,66,,,,,,,,OR,,US,44.643486,-123.1021026,2026-10-11T15:11:57Z
+6486aa45-8a82-4691-9907-e53f2519a508,way/129296323,Albany Golf Course,,course,,,active,,,,,,,,,,OR,,US,44.643486,-123.1021026,2026-10-11T15:11:57Z
 64a80017-ff07-427a-828e-c7a5f806bf02,way/561936321,Trails End Golf Center,,course,,,active,,,,,,,,,,OR,,US,45.3665479,-122.5890675,2026-10-11T13:30:51Z
 683a56e8-6631-45c2-9882-e9295dcb2c6e,way/283193506,Grants Pass Golf Club,,course,,,active,18,72,,,,https://www.gpgolfclub.com/,,,,OR,,US,42.39346,-123.3462194,2026-10-11T15:12:07Z
 6990dfc5-f6e4-483a-842d-1de49179f28d,node/9627544533,Brasada Canyons Pro Shop,,course,,,active,,,,,,,,,,OR,,US,44.1554995,-121.047211,2026-10-11T13:29:32Z
 6bca74c2-0822-48ba-84ab-52f3bb0b484f,way/362513477,Bandon Dunes Golf Resort,,course,,,active,,,,,,,,,,OR,,US,43.1986374,-124.3909077,2026-10-11T15:12:14Z
 6dce152b-9ef3-43c0-a78b-157d53cee68c,relation/8004001,Glaze Meadow Golf Course,,course,,,active,18,72,,,,,,,,OR,,US,44.3476629,-121.6573244,2026-10-11T13:31:37Z
-6e3783c5-167a-4813-8baa-2ab11cebeda6,relation/12705143,Old Back Nine Golf Club,,course,,,active,,7,,,,https://www.oldbacknine.com/,,,,OR,,US,44.0045969,-121.3120861,2026-10-11T15:12:41Z
+6e3783c5-167a-4813-8baa-2ab11cebeda6,relation/12705143,Old Back Nine Golf Club,,course,,,active,,,,,,https://www.oldbacknine.com/,,,,OR,,US,44.0045969,-121.3120861,2026-10-11T15:12:41Z
 6e8f7fb5-7376-401e-8313-f742e7438a0f,way/143621082,Sunset Grove Golf Club,,course,,private,active,,,,,,,,,,OR,,US,45.5650311,-123.1009611,2026-10-11T15:12:00Z
 6f9f5a22-1fe8-4e52-8a1e-b35368c5b678,way/296591780,Centennial Golf Club,,course,,,active,18,72,,,+1-877-893-4653,https://www.centennialgolfclub.com/,,1900 North Phoenix Road,Medford,OR,97504,US,42.3026292,-122.8245591,2026-10-11T15:12:10Z
 70542493-0a05-4cd4-949f-7166e19b8047,way/1147460359,,,course,,,active,,,,,,,,,,OR,,US,44.5898063,-123.228541,2026-10-11T13:31:09Z
 71edd8e3-429d-45c3-aa7d-770c8ca2dfef,way/1540940976,Shortys,,course,,,active,,,,,,,,,,OR,,US,43.1788505,-124.3940272,2026-10-11T15:12:30Z
-73ab4ea2-1b41-4214-a300-2a284f3a7355,way/136348508,The Reserve,,course,,private,active,,5,,,,,,,,OR,,US,45.4858715,-122.9220964,2026-10-11T15:12:00Z
+73ab4ea2-1b41-4214-a300-2a284f3a7355,way/136348508,The Reserve,,course,,private,active,,,,,,,,,,OR,,US,45.4858715,-122.9220964,2026-10-11T15:12:00Z
 76996d70-363d-40b8-89b4-ff9da2c144f3,way/260668748,Salem Golf Club,,course,,,active,18,72,,,+1-503-363-6652,https://www.salemgolfclub.com/,,2025 Golf Course Road South,Salem,OR,97302,US,44.9161345,-123.0721222,2026-10-11T15:12:05Z
 76dedc2d-a008-4a8c-8932-782ddd929ecd,way/30516492,Langdon Farms Golf Course,,course,,private,active,,,,,,,,,,OR,,US,45.2749317,-122.7718586,2026-10-11T15:11:49Z
 78ec343c-8ed5-4fbe-a9ac-91d1ebbbebc3,relation/5301309,Woodlands Golf Course,,course,,,active,18,72,,,,,,,,OR,,US,43.9017331,-121.432846,2026-10-11T15:12:36Z
-7b3de776-724a-47eb-ae64-66e8976bc1e6,relation/21058472,Heron Lakes Great Blue,,course,,,active,,27,,,,https://portlandparksgolf.com/heron-lakes-course-info/,,3500 North Victory Boulevard,Portland,OR,97217,US,45.6010601,-122.7026876,2026-10-11T15:06:54Z
+7b3de776-724a-47eb-ae64-66e8976bc1e6,relation/21058472,Heron Lakes Great Blue,,course,,,active,,,,,,https://portlandparksgolf.com/heron-lakes-course-info/,,3500 North Victory Boulevard,Portland,OR,97217,US,45.6010601,-122.7026876,2026-10-11T15:06:54Z
 7c6fa5a2-7be1-40ca-95ff-478ac87f3406,way/320236405,The Greens at Redmond,,course,,,active,,,,,,,,,,OR,,US,44.239634,-121.2023705,2026-10-11T15:06:24Z
 7ccfae20-7a58-458a-be5d-2b2e85daf595,way/199007238,Christmas Valley Golf Course,,course,,,active,9,,,,,,,,,OR,,US,43.244124,-120.6885736,2026-10-11T15:12:03Z
 7dc5d637-5a8e-4756-b669-b9d0accc4491,relation/14236725,Crosswater Golf Course,,course,,,active,18,72,,,,,,,,OR,,US,43.8521643,-121.4487041,2026-10-11T15:12:41Z
-80e47e88-3ea2-4039-afbd-ba62d0d43a55,way/780645556,Tetherow Golf Club,,course,,,active,,64,,,,,,,,OR,,US,44.0322394,-121.360172,2026-10-11T15:12:21Z
+80e47e88-3ea2-4039-afbd-ba62d0d43a55,way/780645556,Tetherow Golf Club,,course,,,active,,,,,,,,,,OR,,US,44.0322394,-121.360172,2026-10-11T15:12:21Z
 8145b620-4b07-47bd-afcc-fc1cf005db8a,way/153474835,Meriwether National Golf Course,,course,,private,active,18,72,,,,,,,,OR,,US,45.482577,-122.9453082,2026-10-11T15:12:00Z
 819deb27-2933-4327-99d9-2c55969217be,relation/14044578,Bayou Golf Club,,course,,,active,,,,,+1-503-472-4651,https://www.bayougolfcourse.com/,,9301 Southwest Bayou Drive,McMinnville,OR,97128,US,45.1704023,-123.2140998,2026-10-11T15:12:41Z
 824ebe15-32d7-458f-887e-e48242d8d7ea,way/181916216,Illahe Hills Country Club,,course,,,active,18,,,,+1-503-364-0117,https://www.illahehills.com/,,3376 Country Club Drive South,Salem,OR,97302,US,44.9100148,-123.1046084,2026-10-11T15:12:01Z
 8403e573-7af5-4d69-b356-83f063ea82ce,way/96855100,Columbia Edgewater Country Club,,course,,,active,18,72,,,,https://www.cecc.com/,,2220 Northeast Marine Drive,Portland,OR,97211,US,45.5955089,-122.6463741,2026-10-11T15:11:55Z
 85cdbd81-a82c-4cdf-87ce-bfc3fb9ade21,way/187257806,Rivergreens Golf Club,,course,,private,active,,,,,,,,,,OR,,US,45.3749105,-122.6063428,2026-10-11T15:12:01Z
-872ecb61-90c1-418f-bcd9-58f0c083ea8e,way/514900744,Wildhorse Golf Course,,course,,,active,,9,,,,,,,,OR,,US,45.6548012,-118.6711886,2026-10-11T15:12:18Z
+872ecb61-90c1-418f-bcd9-58f0c083ea8e,way/514900744,Wildhorse Golf Course,,course,,,active,,,,,,,,,,OR,,US,45.6548012,-118.6711886,2026-10-11T15:12:18Z
 89802a4d-d6dc-4eed-94c4-83bc576cee00,way/180624782,,,course,,,active,,,,,,,,,,OR,,US,44.825166,-122.8183938,2026-10-11T15:12:01Z
 8a8c02fd-be02-4002-96f7-1d5462693c75,way/202067972,Emerald Valley Golf Course,,course,,,active,18,72,,,+1 541 895 2174,https://www.emeraldvalleygolf.com/,,83301 Dale Kuni Road,Creswell,OR,97426,US,43.9232018,-122.9940734,2026-10-11T15:12:03Z
 8c6f52d5-04a0-4086-bfcd-e06f96d9cc8c,way/468998043,Willow Creek Country Club,,course,,,active,,,,,,,,,,OR,,US,45.3693411,-119.5729191,2026-10-11T15:12:17Z
@@ -121,7 +121,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 96cb44be-c85b-4c37-a732-fd47c41605b5,way/184099485,Greenlea Golf Course,,course,,,active,9,31,,,,,,,,OR,,US,45.4155301,-122.3887713,2026-10-11T15:12:01Z
 99a547ef-0bc6-4312-add0-cf4cd8a67906,way/1255781856,,,course,,,active,9,36,,,,,,,,OR,,US,45.6673445,-121.5920572,2026-10-11T15:12:28Z
 9baa2805-5abe-4bd7-bcf0-1511eab48ac4,relation/3944986,Rogue Valley Country Club,,course,,,active,,,,,+1-541-772-5965,https://www.rvcc.com/,,2660 Hillcrest Road,Medford,OR,97504,US,42.3257483,-122.8261095,2026-10-11T15:12:35Z
-9fc53ca0-5067-4fd2-918f-3505e8937d81,way/738065456,Cross Creek Golf Course,,course,,,active,,16,,,,,,,,OR,,US,44.9781653,-123.307935,2026-10-11T15:12:21Z
+9fc53ca0-5067-4fd2-918f-3505e8937d81,way/738065456,Cross Creek Golf Course,,course,,,active,,,,,,,,,,OR,,US,44.9781653,-123.307935,2026-10-11T15:12:21Z
 9fe3633e-1d12-46aa-a799-491286877c8b,way/153436531,McKay Creek Golf Course,,course,,private,active,9,36,,,,,,,,OR,,US,45.5255003,-123.0071985,2026-10-11T15:12:00Z
 a026c5d8-12d0-4443-8947-41ddd1be7d2a,relation/8004002,Big Meadow Golf Course,,course,,,active,,,,,,,,,,OR,,US,44.3715886,-121.6670823,2026-10-11T15:06:49Z
 a0bc7e5b-5a0a-4c4a-947a-a4c434bfd616,way/146982317,Tualatin Country Club,,course,,private,active,,,,,,,,,,OR,,US,45.3921742,-122.7719599,2026-10-11T15:12:00Z
@@ -141,13 +141,13 @@ b55f585f-9a07-4d8a-9c64-b7a22363ae25,way/331422337,Corvallis Country Club,,cours
 b604f7fa-a2a9-4e09-9599-8ee74b0f8fcb,way/318802782,Red Mountain Golf Course,,course,,,active,,,,,,,,324 Mountain Greens Lane,Grants Pass,OR,,US,42.5514357,-123.3683577,2026-10-11T15:12:12Z
 b679efb1-1300-41a7-8cbf-f787402f636e,way/430079112,Prineville Golf and Country Clup,,course,,,active,,,,,,,,7120 Northeast Ochoco Highway,Prineville,OR,97754,US,44.3006535,-120.7566375,2026-10-11T15:12:15Z
 b847e20c-bbfd-460d-8db3-c0697291097c,way/552755491,Cougar Canyon Golf Course,,course,,,active,18,72,,,,,,1316 Fairway Drive,Myrtle Creek,OR,97457,US,43.0140389,-123.2673418,2026-10-11T15:12:18Z
-b8707ae1-6f37-4226-9f75-37aa655eba6c,way/516918775,The Resort Course At Eagle Crest,,course,,,active,,61,,,,,,,,OR,,US,44.2611175,-121.2558053,2026-10-11T13:30:51Z
+b8707ae1-6f37-4226-9f75-37aa655eba6c,way/516918775,The Resort Course At Eagle Crest,,course,,,active,,,,,,,,,,OR,,US,44.2611175,-121.2558053,2026-10-11T13:30:51Z
 b990b9af-e334-4481-802e-147a9b14c3ab,relation/14919901,Harbor Links Golf Course,,course,,,active,18,71,,,+1-541-882-0609,https://www.harborlinksgolf.net/,,601 Harbor Isle Blvd,Klamath Falls,OR,97601,US,42.2510798,-121.8098696,2026-10-11T13:31:48Z
 ba06684f-b215-4689-b5d9-cb7b1c747306,way/320236407,The Greens at Redmond,,course,,,active,,,,,,,,,,OR,,US,44.2409906,-121.1985903,2026-10-11T13:30:33Z
 badfe9b7-fd73-4386-a250-1df26f69e793,way/157151317,Rock Creek Country Club,,course,,private,active,18,72,,,,,,,,OR,,US,45.5540401,-122.8811587,2026-10-11T13:30:03Z
 bccf2ee8-9e09-4c6a-9bc7-fbe4867c7860,way/743763704,Eagle Landing Golf Course,,course,,,active,,,,,,,,,,OR,,US,45.4403202,-122.5578252,2026-10-11T13:30:58Z
 bcd687f9-ff4b-45ad-b642-554927407cd7,way/1137374461,,,course,,,active,9,,,,,,,,,OR,,US,44.9198631,-123.2737742,2026-10-11T15:12:27Z
-be745ce2-8d1d-4cf1-8748-92b868b0ceda,way/516918777,,,course,,,active,,4,,,,,,,,OR,,US,44.2555209,-121.2550271,2026-10-11T15:12:18Z
+be745ce2-8d1d-4cf1-8748-92b868b0ceda,way/516918777,,,course,,,active,,,,,,,,,,OR,,US,44.2555209,-121.2550271,2026-10-11T15:12:18Z
 c10eea26-e417-4c50-861d-2c04d3680a34,relation/6549434,Rose City Golf Course,,course,,,active,18,,,,,https://www.portland.gov/parks/rose-city-golf-course,,,,OR,,US,45.539574,-122.5902636,2026-10-11T15:12:38Z
 c11d2b16-59ac-4ca8-a551-20de0d3e4a35,way/320860969,Oak Knoll Golf Course,,course,,,active,,,,,+1-541-482-4311,https://www.oakknollgolf.org/,,3070 Highway 66,Ashland,OR,97520,US,42.1804264,-122.6553985,2026-10-11T15:06:24Z
 c17f6db1-9d15-4800-8e8a-eafefc788600,way/143653936,Forest Hills Golf Course,,course,,private,active,18,,,,,,,,,OR,,US,45.4802528,-123.0471136,2026-10-11T15:12:00Z
@@ -173,12 +173,12 @@ d0ea0e12-d07d-4dc9-969c-f25e2bdc5eb9,way/270761370,The Dalles Country Club,,cour
 d469731b-301e-4919-8057-86440c942898,way/904342362,Silvies Ranch,,course,,,active,18,71,,,,,,,,OR,,US,44.0590784,-118.9849473,2026-10-11T15:12:23Z
 d6a9bec3-eea6-4a24-a21b-e9c8eaf4328b,way/331173622,Tokatee Golf Club,,course,,,active,18,72,,,+1-541-822-3220;+1 800 452 6376,https://tokatee.com/,,54947 McKenzie Highway,Blue River,OR,97413,US,44.1802802,-122.2101553,2026-10-11T13:30:33Z
 d9dd580f-d4c9-4f6a-8091-c3e171b7d5d3,way/142411196,Persimmon Country Club,,course,,private,active,18,72,,,,,,,,OR,,US,45.465813,-122.4221328,2026-10-11T15:12:00Z
-de851a77-7ec6-438b-92af-869591802d5c,way/674855473,Bandon Preserve,,course,,,active,,44,,,,,,57744 Round Lake Drive,Bandon,OR,97411,US,43.183966,-124.3945939,2026-10-11T15:12:20Z
+de851a77-7ec6-438b-92af-869591802d5c,way/674855473,Bandon Preserve,,course,,,active,,,,,,,,57744 Round Lake Drive,Bandon,OR,97411,US,43.183966,-124.3945939,2026-10-11T15:12:20Z
 e11727d3-8115-4641-8cec-1d3d45dd4bd4,way/1049137675,Salishan Golf Links,,course,,,active,,,,,,,,7755 N Highway 101,Gleneden Beach,OR,97388,US,44.8868631,-124.027337,2026-10-11T15:12:24Z
 e360d52e-f852-434b-ba7d-5e56e15e1491,node/13382410268,Fore Seasons Golf,,course,,,active,,,,,,,,1069 Valley River Way,Eugene,OR,97401,US,44.069027,-123.102109,2026-10-11T13:29:32Z
 e3beef00-f4c3-41c8-8974-ab5609266a42,way/424977162,Shield Crest Golf Course,,course,,,active,18,72,,,,,,,,OR,,US,42.1941537,-121.6708003,2026-10-11T15:12:15Z
 e5e317bf-e842-4221-898c-fbc5dc23e971,way/96457214,Waverly Country Club,,course,,private,active,,,,,,,,,,OR,,US,45.4520074,-122.6528334,2026-10-11T15:11:55Z
-e6f2bc88-a488-475d-87b3-dc19c93b2305,way/431590846,The Pub Courses at Edgefield,,par3,,,active,,60,,,,,,,,OR,,US,45.5349519,-122.4085052,2026-10-11T15:06:28Z
+e6f2bc88-a488-475d-87b3-dc19c93b2305,way/431590846,The Pub Courses at Edgefield,,par3,,,active,,,,,,,,,,OR,,US,45.5349519,-122.4085052,2026-10-11T15:06:28Z
 ea142b8d-f248-4caf-85d5-3e0a9e3129da,way/415831919,Pendleton Country Club,,course,,,active,,,,,,,,,,OR,,US,45.5651331,-118.7967726,2026-10-11T15:12:15Z
 eab8d2a1-18f8-4b52-93f0-b1caef5652f1,way/670785945,Coos Golf Club,,course,,,active,18,72,,,,,,93884 Coos-Sumner Lane,Coos Bay,OR,97420,US,43.2911971,-124.1992338,2026-10-11T15:06:32Z
 eba4cfa8-d7fe-4abe-a548-3f99662e7a1a,way/55682263,Oswego Lake Country Club,,course,,private,active,18,,,,,,,20 Iron Mountain Boulevard,Lake Oswego,OR,97034,US,45.4197471,-122.6866611,2026-10-11T15:11:55Z
@@ -194,6 +194,6 @@ f87dca53-42d4-40ba-8d5a-2c9fefe01740,way/751364558,Colwood Golf Center,,course,,
 fb81ff8f-5ca1-4e38-8421-b3228cb5200a,way/438313039,Desert Peaks Golf Course,,course,,,active,,,,,,,,,,OR,,US,44.6537165,-121.1464531,2026-10-11T15:12:15Z
 fd1c8deb-35a7-4935-acf8-e5b588559e36,way/1518797803,Eagle Crest Ridge Course,,course,,,active,18,72,,,,,,,,OR,,US,44.2646282,-121.2761995,2026-10-11T15:12:29Z
 fdea7f48-8a75-4ee5-8ffa-8dbbeed4d1e3,relation/17908305,,,course,,,active,,,,,,,,,,OR,,US,44.9794668,-123.0718609,2026-10-11T15:12:45Z
-feb6ae71-6525-4993-98d0-a8578c06a54f,relation/21058473,Heron Lakes Greenback,,course,,,active,,26,,,,https://portlandparksgolf.com/heron-lakes-course-info/,,3500 North Victory Boulevard,Portland,OR,97217,US,45.6043612,-122.7038124,2026-10-11T15:12:45Z
+feb6ae71-6525-4993-98d0-a8578c06a54f,relation/21058473,Heron Lakes Greenback,,course,,,active,,,,,,https://portlandparksgolf.com/heron-lakes-course-info/,,3500 North Victory Boulevard,Portland,OR,97217,US,45.6043612,-122.7038124,2026-10-11T15:12:45Z
 ff0691be-c488-4311-84e3-b96e9c130118,way/1539596594,,,course,,,active,,,,,,,,,,OR,,US,46.044322,-123.9246557,2026-10-11T15:12:30Z
 ff31ab65-2f36-4569-875a-9ec4e2ff84c9,relation/6430131,OGA Golf Course,,course,,,active,,,,,,,,,,OR,,US,45.1581403,-122.8492424,2026-10-11T15:12:36Z

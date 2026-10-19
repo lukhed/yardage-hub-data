@@ -1,12 +1,12 @@
 id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
-00c9710f-ee20-4f27-bf5f-9ee992c913a1,way/1273931345,,,course,,,active,,68,,,,,,,,KY,,US,38.0903356,-84.4834249,2026-10-11T15:12:28Z
+00c9710f-ee20-4f27-bf5f-9ee992c913a1,way/1273931345,,,course,,,active,,,,,,,,,,KY,,US,38.0903356,-84.4834249,2026-10-11T15:12:28Z
 0109a8ba-4f89-4595-b1f9-fa4c1e014406,relation/3132230,Boone Links Golf Course,,course,,,active,9,36,,,,,,,,KY,,US,39.0093064,-84.678948,2026-10-11T13:31:22Z
 018d699e-8a39-4a18-8f4c-c1e51ad6851e,node/13830213437,Different Strokes,,course,,,active,,,,,,https://www.dsgolfcenter.com/louisville-ky,,3742 River Road,Louisville,KY,40207,US,38.2872042,-85.6833715,2026-10-11T13:29:32Z
 0420eec0-7b93-42d8-ab0e-59e769f305f9,way/479584034,Tates Creek Golf Course,,course,,,active,18,72,,,+1-859-272-3428,https://www.lexingtonky.gov/tates-creek-golf-course,,1400 Gainesway Dr,Lexington,KY,40517,US,37.9838068,-84.4703325,2026-10-11T15:12:17Z
 053052c6-0bdb-4c93-9bc8-9f797a6253a4,way/1012733329,Kenny Perry's Country Creek Golf Course,,course,,,active,18,72,,,,,,,,KY,,US,36.6907032,-86.5421646,2026-10-11T13:31:06Z
 06192d4a-407b-456b-844c-c1ad9231508b,way/445047448,Lakeview Springs Golf,,course,,,active,9,29,,,+1-502-695-5870,https://franklincounty.ky.gov/golf-complex/,,112 Park Avenue,Frankfort,KY,40601,US,38.2117729,-84.8227768,2026-10-11T15:12:15Z
 07bf1a64-2cd5-4d3f-a025-dfa04d545ae5,way/297625179,The Brook Golf Club,,course,,,active,,,,,+1-859-873-8404,http://thebrookgc.com/,,2260 Lexington Road,Versailles,KY,40383,US,38.052616,-84.6881798,2026-10-11T15:12:10Z
-0bc18076-6642-41a7-b1e6-e2b80336b0ef,way/188868419,,,course,,,active,,39,,,,,,,,KY,,US,36.9686964,-86.4231907,2026-10-11T15:12:01Z
+0bc18076-6642-41a7-b1e6-e2b80336b0ef,way/188868419,,,course,,,active,,,,,,,,,,KY,,US,36.9686964,-86.4231907,2026-10-11T15:12:01Z
 0bfd094b-e38f-4dd9-b5db-c40a93039a09,way/285529283,Kearney Hill Golf Links,,course,,,active,18,73,,,,,,3403 Kearney Road,Lexington,KY,40511,US,38.1237905,-84.536771,2026-10-11T15:12:07Z
 13ca5a3f-e56a-4b53-8fda-93a4ab6b8e6b,way/59547177,Madisonville Country Club,,course,,,active,18,71,,,,,,,,KY,,US,37.290645,-87.5011765,2026-10-11T15:11:55Z
 15238a9e-5d91-44f8-8240-9505d4363536,way/144790700,Gay Brewer Jr Golf Course,,course,,,active,,,,,,,,469 Parkway Drive,Lexington,KY,40504,US,38.0385012,-84.5295306,2026-10-11T15:12:00Z
@@ -17,34 +17,34 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 1b6f2645-7faa-44a4-89a3-f216bf2a2822,way/471701839,,,course,,,active,,,,,,,,,,KY,,US,37.6538304,-84.7422524,2026-10-11T15:12:17Z
 1baa1913-2dcf-476a-a01b-1b1e260cb4d3,way/645076367,Mineral Mound State Park Golf Course,,course,,,active,18,72,,,,,,,,KY,,US,37.0625846,-88.0893217,2026-10-11T15:12:20Z
 1c75d6b4-3781-40f1-ab24-f8385c7a7b8e,relation/20778830,Glasgow Golf and Country Club,,course,,,active,18,,,,,,,,,KY,,US,37.0405251,-85.9082007,2026-10-11T15:12:45Z
-1c97af3b-5d43-4903-b8ac-f822701925d7,way/1011749418,,,course,,,active,,39,,,,,,,,KY,,US,36.7580565,-86.5643013,2026-10-11T15:12:24Z
+1c97af3b-5d43-4903-b8ac-f822701925d7,way/1011749418,,,course,,,active,,,,,,,,,,KY,,US,36.7580565,-86.5643013,2026-10-11T15:12:24Z
 1cbc7cfa-4c55-4e83-a83a-dee8d24630e2,way/1443587796,Ohio County Community Golf Course,,course,,,active,,,,,,,,1153 Country Club Lane,Hartford,KY,42347,US,37.4529286,-86.8622754,2026-10-11T15:12:29Z
 1e3d5f9a-71a0-43c4-a1cb-c73fdc7a4d88,way/848670061,Eagle Ridge Golf Course,,course,,,active,18,71,,,,,,,,KY,,US,38.071803,-82.6955528,2026-10-11T15:12:23Z
 1e52630a-9c35-4f1d-8e87-8dd255e20108,way/297625155,Lindsey Golf Course,,course,,,active,18,72,,,+1-502-624-2717,https://knox.armymwr.com/programs/lindsey-golf-course,,4024 Bullion Boulevard,Fort Knox,KY,40121,US,37.8896325,-85.9665799,2026-10-11T15:12:10Z
-205f82f7-9588-40d4-bdc6-e71807230753,way/383282196,,,course,,,active,,35,,,,,,,,KY,,US,37.3017303,-87.1433691,2026-10-11T15:12:14Z
+205f82f7-9588-40d4-bdc6-e71807230753,way/383282196,,,course,,,active,,,,,,,,,,KY,,US,37.3017303,-87.1433691,2026-10-11T15:12:14Z
 206eca32-478b-4349-83d6-b7947cea42c9,way/848663384,Wasioto Winds Golf Course,,course,,,active,,,,,,,,,,KY,,US,36.7393139,-83.7034285,2026-10-11T15:12:23Z
 20b4719e-377a-43da-9eb5-6fa365262da1,relation/3959253,Cherry Blossom Golf Club,,course,,,active,18,72,,,+1-502-570-9849,https://www.cherryblossomgolf.com/,,150 Clubhouse Drive,Georgetown,KY,40324,US,38.2361458,-84.5227455,2026-10-11T15:12:35Z
 219d22cb-fe34-4a3e-b16b-840259bdeba1,way/361767602,,,course,,,active,,,,,,,,,,KY,,US,37.6050838,-82.7289794,2026-10-11T15:12:14Z
-23321b58-c970-4d10-bb4a-181b45d7686e,way/416463534,Lexington Country Club,,course,,,active,,32,,,,,,,,KY,,US,38.0810256,-84.4343736,2026-10-11T15:12:15Z
+23321b58-c970-4d10-bb4a-181b45d7686e,way/416463534,Lexington Country Club,,course,,,active,,,,,,,,,,KY,,US,38.0810256,-84.4343736,2026-10-11T15:12:15Z
 23544505-c3ee-4131-8bf3-76fc8b2fdb96,way/1113443892,Green Meadow Country Club,,course,,,active,9,35,,,,,,,,KY,,US,37.53376,-82.6045624,2026-10-11T15:12:24Z
-23eccb2c-162e-4094-a5cb-7f23961b57e0,way/80397711,Lassing Pointe Golf Course,,course,,,active,,68,,,,,,,,KY,,US,38.9323808,-84.6882407,2026-10-11T15:06:07Z
+23eccb2c-162e-4094-a5cb-7f23961b57e0,way/80397711,Lassing Pointe Golf Course,,course,,,active,,,,,,,,,,KY,,US,38.9323808,-84.6882407,2026-10-11T15:06:07Z
 247225b2-c812-4162-ac71-5ba358c92b35,way/59620426,City Park Golf Course,,course,,,active,9,36,,,+1-270-824-2156,http://www.madisonvillegov.com/Madisonville_Kentucky/index.asp?Page=Golf%20Course,,755 Park Avenue,Madisonville,KY,42431,US,37.3115649,-87.4816457,2026-10-11T13:29:49Z
 256c70fe-f5af-4ba1-bd52-90fc68d87d5e,way/643900575,Doe Valley,,course,,,active,,,,,,,,,,KY,,US,38.0013642,-86.1835034,2026-10-11T15:12:20Z
 2768f894-7bda-43dd-9a16-ccb368f3e368,way/203726123,,,mini,,,active,,,,,,,,,,KY,,US,38.8839414,-84.7468643,2026-10-11T15:12:03Z
 27839b95-b102-4bca-aa0c-2a5fdd8a8705,relation/6809615,Old Silo Golf Course,,course,,,active,18,72,,,+1 859 498 4697,http://www.oldsilo.com/,,350 Silver Lake Drive,Mount Sterling,KY,40353,US,38.0787958,-83.9677846,2026-10-11T15:12:38Z
 2838815c-3e0b-4836-8992-54ea4f270aeb,way/1160795820,,,course,,,active,18,71,,,,,,,,KY,,US,38.6710587,-82.9156948,2026-10-11T15:12:27Z
 2882bcd5-928d-4dfa-b6ff-27399e9c5bec,way/645101416,Providence Municipal Golf Course,,course,,,active,9,36,,,,,,2300 Westerfield Drive,Providence,KY,42450,US,37.4068092,-87.7357338,2026-10-11T15:12:20Z
-2af115d7-d133-47a4-943e-48a2f1f4784d,way/1053211934,,,course,,,active,,68,,,,,,,,KY,,US,37.8045672,-85.9963738,2026-10-11T15:12:24Z
+2af115d7-d133-47a4-943e-48a2f1f4784d,way/1053211934,,,course,,,active,,,,,,,,,,KY,,US,37.8045672,-85.9963738,2026-10-11T15:12:24Z
 2b462dc7-1099-42cc-b929-28d9d775ac60,way/889110624,,,course,,,active,,,,,,,,,,KY,,US,36.859363,-87.8133812,2026-10-11T15:12:23Z
 2bf4d31c-9bbe-48b9-a4fc-40f21e50c61e,relation/13660792,Fox Hollow Golf Club,,course,,,active,,,,,,,,,,KY,,US,36.9608951,-85.8971129,2026-10-11T15:12:41Z
 2d9ff7e7-d703-4ca7-8dd9-09f168222b6e,way/725221873,Coal Ridge Golf Course,,course,,,active,,,,,,,,,,KY,,US,38.229786,-84.4738323,2026-10-11T13:30:58Z
 2e4d1dbb-8ef3-4fec-a03d-8d8ada5d1dcb,relation/20433393,Lake Forest Country Club,,course,,,active,18,73,,,,,,,,KY,,US,38.2664148,-85.4841037,2026-10-11T13:31:51Z
 2f7bdac1-463a-4220-a856-fd641a6ec228,way/1157264489,Kerry Landing Clubhouse,,course,,,active,,,,,,,,,,KY,,US,36.8808013,-88.2445331,2026-10-11T15:12:27Z
-30dfb1e7-d0e8-4a87-9afb-86b4f0a3501c,way/1073710505,The Pearl Club,,course,,,active,,12,,,,,,6501 Summit Drive,Owensboro,KY,42303,US,37.8064861,-87.0017953,2026-10-11T15:12:24Z
+30dfb1e7-d0e8-4a87-9afb-86b4f0a3501c,way/1073710505,The Pearl Club,,course,,,active,,,,,,,,6501 Summit Drive,Owensboro,KY,42303,US,37.8064861,-87.0017953,2026-10-11T15:12:24Z
 32670ba1-d350-42dc-a879-5d67cb7b5722,way/796623667,Kincaid Lake Golf Course,,course,,,active,,,,,,https://kincaidlakegolfcourse.com/,,,,KY,,US,38.7193706,-84.2955799,2026-10-11T15:06:33Z
 32bdf78b-f19d-4766-91be-921645e99ffc,relation/3959256,Golf Club of the Bluegrass,,course,,,active,,,,,+1-859-223-4516,http://www.golfclubofthebluegrass.com/,,6000 Harrodsburg Road,Nicholasville,KY,40356,US,37.9496758,-84.6053635,2026-10-11T15:12:35Z
 3590d939-940c-48f9-b369-950afe756d0b,way/405594524,Meadowbrook Golf Course,,course,,,active,,,,,,,,,,KY,,US,37.9776909,-84.5143835,2026-10-11T15:12:15Z
-3616c453-0de6-436c-95f0-b2b7c3c0a6bf,way/339613845,Persimmon Ridge Golf Club,,course,,,active,,22,,,,,,,,KY,,US,38.2848775,-85.4408148,2026-10-11T15:12:14Z
+3616c453-0de6-436c-95f0-b2b7c3c0a6bf,way/339613845,Persimmon Ridge Golf Club,,course,,,active,,,,,,,,,,KY,,US,38.2848775,-85.4408148,2026-10-11T15:12:14Z
 380057a6-22ca-4fb2-b878-eaf1f75812fd,way/461369681,Eagle Creek Golf Course,,course,,,active,18,,,,+1-502-222-7927,https://www.eaglecreekgolfky.com/,,2820 South Highway 53,LaGrange,KY,40031,US,38.3798779,-85.3711268,2026-10-11T15:12:17Z
 3856d4c4-d77c-427e-be09-ee10ca16cda9,node/11154753277,StoneCrest Golf Course,,course,,,active,,,,,,,,918 Club House Drive,Prestonsburg,KY,,US,37.6801175,-82.7450398,2026-10-11T13:29:32Z
 38936728-7298-4feb-8d94-9421a0c182eb,way/1164484927,Hillcrest,,course,,,active,9,35,,,,,,,,KY,,US,37.7287956,-87.0775536,2026-10-11T15:12:27Z
@@ -66,16 +66,16 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 4e59be16-daea-4134-8624-c8d7e46fa9b2,node/10775943574,Griffin Gate Golf Club,,course,,,active,,,,,,,,,,KY,,US,38.0915042,-84.4846173,2026-10-11T13:29:32Z
 4f07ed44-7a87-479c-b51a-dabb80e7387f,way/1268218712,Raven Rock Golf Course,,course,,,active,18,71,,,,,,,,KY,,US,37.1765817,-82.6528724,2026-10-11T13:31:12Z
 4f63b310-7527-4d42-b578-549d2ca244c4,way/59665129,Bobby Nichols Golf Course,,course,,,active,9,35,,,+1-502-937-9051,https://louisvilleky.gov/content/bobby-nichols-golf-course,,4301 East Pages Lane,Louisville,KY,40272,US,38.1262049,-85.836662,2026-10-11T15:11:55Z
-513cc621-9144-4439-87b3-9ab72920b79a,way/544416846,Deerfield Golf Club,,course,,,active,,67,,,,,,,,KY,,US,38.643513,-83.7863939,2026-10-11T15:12:18Z
+513cc621-9144-4439-87b3-9ab72920b79a,way/544416846,Deerfield Golf Club,,course,,,active,,,,,,,,,,KY,,US,38.643513,-83.7863939,2026-10-11T15:12:18Z
 53ef869c-8b98-4d1a-8681-9f879162e145,way/59542701,Big Spring Country Club,,course,,,active,,,,,,,,,,KY,,US,38.2307536,-85.6506293,2026-10-11T15:11:55Z
-559c7d62-455e-4004-a638-10694892cd61,way/339612048,,,course,,,active,,12,,,,,,,,KY,,US,38.2895198,-85.4293894,2026-10-11T15:06:26Z
+559c7d62-455e-4004-a638-10694892cd61,way/339612048,,,course,,,active,,,,,,,,,,KY,,US,38.2895198,-85.4293894,2026-10-11T15:06:26Z
 56951dd4-d6a3-44e0-87db-75613ef41aac,way/38722744,Iroquois Golf Course,,course,,,active,18,71,,,+1-502-574-6454,https://www.metroparksgolf.net/,,1501 Rundill Road,Louisville,KY,40214,US,38.1695194,-85.7896198,2026-10-11T13:29:39Z
 56a1259f-9559-448c-82bb-f1a9e20e20e0,way/59549989,Oxmoor Country Club,,course,,,active,18,72,,,+1-502-491-7877,https://oxmoorcountryclub.com/,,9000 Limehouse Court,Louisville,KY,40220,US,38.2269646,-85.6040076,2026-10-11T15:11:55Z
-56ad34d6-45a1-41fa-ad35-87f99d645fbf,way/815704011,Longview Golf Club,,course,,,active,,69,,,+1-502-863-2165,,,3243 Frankfort Pike,Georgetown,KY,40324,US,38.2145654,-84.6584297,2026-10-11T13:30:58Z
+56ad34d6-45a1-41fa-ad35-87f99d645fbf,way/815704011,Longview Golf Club,,course,,,active,,,,,+1-502-863-2165,,,3243 Frankfort Pike,Georgetown,KY,40324,US,38.2145654,-84.6584297,2026-10-11T13:30:58Z
 58a2d61c-dd40-42fd-bad8-5cc156a82a54,way/456257160,Olde Stone Golf Course,,course,,,active,,,,,,,,,,KY,,US,36.9093783,-86.3925782,2026-10-11T15:12:17Z
 592c5e0a-2c16-45c3-9264-58dac6e3f1d8,way/220489681,Hurstbourne Country Club,,course,,,active,,,,,,,,,,KY,,US,38.2398747,-85.5922481,2026-10-11T15:12:03Z
 59d6322d-50ba-4e89-a99a-cb0b7d69fc1f,way/417794592,Campbellsville Country Club,,course,,,active,18,72,,,+1-270-465-3620,https://www.campbellsvillecc.com/,,3064 Hodgenville Road,Campbellsville,KY,42718,US,37.3670648,-85.3788836,2026-10-11T15:12:15Z
-59e900ed-5626-448d-8f9a-beb329015bc9,way/645635014,,,course,,,active,,4,,,,,,,,KY,,US,38.0233985,-84.382795,2026-10-11T15:12:20Z
+59e900ed-5626-448d-8f9a-beb329015bc9,way/645635014,,,course,,,active,,,,,,,,,,KY,,US,38.0233985,-84.382795,2026-10-11T15:12:20Z
 5a4aec99-aa9f-4fc3-b792-0c61733ec857,way/255960454,Sun Valley Golf Course,,course,,,active,18,71,,,+1-502-574-6454,https://www.metroparksgolf.net/sunvalley/,,6505 Bethany Lane,Louisville,KY,40272,US,38.1023133,-85.8850382,2026-10-11T15:12:05Z
 5e5ad61c-f0c9-4650-8845-a39ea776fdcb,way/1201813086,,,course,,,active,,,,,,,,,,KY,,US,38.5226405,-82.7577108,2026-10-11T13:31:09Z
 5eac5bb8-b1bc-411f-b37b-819e92c0735f,way/322153805,Clear Creek Golf Center,,course,,,active,9,30,,,+1-502-633-0375,https://www.clearcreekgolfcenter.com/,,717 Burks Branch Road,Shelbyville,KY,40065,US,38.2279655,-85.2202573,2026-10-11T15:12:12Z
@@ -94,7 +94,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 66b2227b-aede-4fb0-8632-c8e546e6c3c0,way/1014643112,,,course,,,active,,,,,,,,,,KY,,US,36.6900641,-89.0042925,2026-10-11T15:12:24Z
 66f1e366-3324-45c1-8db2-3aaf69173e38,way/220367090,Bellefonte Country Club,,course,,,active,18,70,,,,,,,,KY,,US,38.4906711,-82.6969476,2026-10-11T13:30:07Z
 69110a65-a97e-408c-9160-742d72435fe5,way/598991302,Paxton Park Golf Course,,course,,,active,18,,,,,,,,,KY,,US,37.0609747,-88.6282911,2026-10-11T13:30:54Z
-6a29ac80-62b6-4c9d-a326-8fc3eb9d2061,way/297625011,,,course,,,active,,29,,,,,,,,KY,,US,38.4660715,-82.7103843,2026-10-11T15:12:10Z
+6a29ac80-62b6-4c9d-a326-8fc3eb9d2061,way/297625011,,,course,,,active,,,,,,,,,,KY,,US,38.4660715,-82.7103843,2026-10-11T15:12:10Z
 6c2e97af-8706-4b4f-ae9d-53cacfadf672,way/462229928,Owensboro Country Club,,course,,,active,18,,,,,,,400 East Byers Avenue,Owensboro,KY,42303,US,37.7352253,-87.1037427,2026-10-11T15:06:29Z
 6ebdc2a9-d89b-4b5a-aee4-38a8e88a61ae,way/768961616,Harmony Landing,,course,,,active,18,71,,,+1-502-228-1161,https://www.bigspringcc.com/,,13201 Reading Road,Goshen,KY,40026,US,38.4026232,-85.6027686,2026-10-11T13:30:58Z
 6f8e56cb-864c-420b-ba09-aba83ed6d4cf,way/170685721,Meadowood Golf Course,,course,,,active,9,35,,,+1-859-586-0422,https://www.meadowoodky.com/,,1911 Golf Club Drive,Burlington,KY,41005,US,39.0272011,-84.6961045,2026-10-11T15:12:01Z
@@ -108,18 +108,18 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 76a2489e-2b49-4c64-ab4c-5c6d6266ed29,relation/3959251,Andover Golf & Country Club,,course,,,active,,,,,+1-859-263-3710,https://www.golfandover.com/,,3450 Todds Road,Lexington,KY,40509,US,38.0022393,-84.4149721,2026-10-11T15:12:35Z
 76f2ad2e-df61-4c51-8c8a-a0fe735e0b04,way/1339896689,,,course,,,active,18,72,,,,,,,,KY,,US,38.025633,-83.6298633,2026-10-11T15:12:29Z
 77b3fcc1-da0a-4840-93e4-b378de59cf41,way/646110152,,,course,,,active,,,,,,,,,,KY,,US,36.8266018,-84.1877616,2026-10-11T15:12:20Z
-77c27c16-6097-4759-9807-033f8a57800e,relation/13678844,,,course,,,active,,4,,,,,,,,KY,,US,37.6436634,-85.8168244,2026-10-11T15:12:41Z
+77c27c16-6097-4759-9807-033f8a57800e,relation/13678844,,,course,,,active,,,,,,,,,,KY,,US,37.6436634,-85.8168244,2026-10-11T15:12:41Z
 77e3b510-281a-4c5f-ab1f-d6ef27dbfe61,way/271770799,The Pines at Lindsey WIlson,,course,,,active,,,,,,,,,,KY,,US,37.0804204,-85.3487554,2026-10-11T15:12:07Z
 7b11caec-dcf2-44db-ba6b-aea51d1349f5,way/316464691,,,course,,,active,,,,,,,,,,KY,,US,38.3881957,-84.2746832,2026-10-11T13:30:33Z
-7be92dae-ef4b-4524-9ae2-ec31d0511645,way/188935830,CrossWinds Municipal Golf Course,,course,,,active,,33,,,,,,,,KY,,US,36.9708507,-86.4262083,2026-10-11T15:12:01Z
+7be92dae-ef4b-4524-9ae2-ec31d0511645,way/188935830,CrossWinds Municipal Golf Course,,course,,,active,,,,,,,,,,KY,,US,36.9708507,-86.4262083,2026-10-11T15:12:01Z
 7fcc042f-6907-4041-80e0-6ece929aa394,node/11933918169,Diamond Caverns Golf Course,,course,,,active,,,,,,,,,,KY,,US,37.1118548,-86.056336,2026-10-11T13:29:32Z
 80200af0-ec6f-4f2a-9413-b0756c50a5a5,relation/3959257,Keene Run Golf Course,,course,,,active,18,72,,,,https://www.keenetracegolf.com/,,5600 Harrodsburg Road,Nicholasville,KY,40356,US,37.9600569,-84.6029904,2026-10-11T15:12:35Z
-81ad6aed-35f7-4229-9777-ffe698c27aeb,way/682397367,,,course,,,active,,4,,,,,,,,KY,,US,38.3504697,-84.0446376,2026-10-11T15:06:32Z
+81ad6aed-35f7-4229-9777-ffe698c27aeb,way/682397367,,,course,,,active,,,,,,,,,,KY,,US,38.3504697,-84.0446376,2026-10-11T15:06:32Z
 823a99bc-33ea-48eb-a485-9f7c3f5693b3,way/1564552351,Windridge Country Club,,course,,,active,18,70,,,,,,,,KY,,US,37.727778,-87.0316117,2026-10-11T15:12:30Z
 82b43cdd-130e-404e-8283-c0196ffcafcf,node/3231740356,Crooked Creek Pro Shop,,course,,,active,,,,,,,,,London,KY,40744,US,37.0854076,-84.0310272,2026-10-11T13:29:32Z
 85211c28-05a4-4272-a5a1-b00d59b2cb5f,way/848667378,,,course,,,active,,,,,,,,,,KY,,US,37.7560084,-85.2160396,2026-10-11T15:12:23Z
 861e9ff1-fae3-4e8a-ad12-1a6e2d677a49,way/297625128,Gibson Bay Golf Course,,course,,,active,18,,,,+1-859-623-0225,https://www.gibsonbay.com/,,2000 Gibson Bay Drive,Richmond,KY,40475,US,37.7312762,-84.2550796,2026-10-11T15:12:10Z
-88c1db4e-07b5-4058-9450-24d4582e3438,relation/20681781,Perry Park Golf Resort - Buckskin,,course,,,active,,13,,,,,,,,KY,,US,38.543871,-85.0063036,2026-10-11T15:12:45Z
+88c1db4e-07b5-4058-9450-24d4582e3438,relation/20681781,Perry Park Golf Resort - Buckskin,,course,,,active,,,,,,,,,,KY,,US,38.543871,-85.0063036,2026-10-11T15:12:45Z
 89ddfefd-131c-4321-8a3c-da8ded447c13,relation/13357683,Cherokee Golf Course,,course,,,active,9,35,,,+1-502-458-9450,https://www.metroparksgolf.net/cherokee/,,2501 Alexander Road,Louisville,KY,40204,US,38.2410224,-85.7040679,2026-10-11T15:12:41Z
 8b38e975-c827-4f6a-84de-5a0d4f2f723e,way/579658844,Thoroughbred Golf Club,,course,,,active,,,,,,https://thoroughbred.golf/,,,,KY,,US,37.8846751,-84.487419,2026-10-11T15:12:20Z
 8d0fe127-028c-47c8-b8e5-b6d7645bc0ef,way/1485895364,Glen Oaks Country Club,,course,,,active,18,72,,,,,,,,KY,,US,38.3317122,-85.5527547,2026-10-11T15:12:29Z
@@ -151,10 +151,10 @@ a39cae00-55ba-417f-9971-efeebfd9e8bd,way/271771129,Winchester Country Club,,cour
 a4312e36-a969-4c73-80a1-f2d758688722,way/383896124,,,course,,,active,18,,,,,,,,,KY,,US,37.265267,-88.2601417,2026-10-11T15:06:26Z
 a4368481-f775-4751-a2c0-f26991c08479,way/322857407,,,course,,,active,,,,,,,,,,KY,,US,38.7614042,-84.6269716,2026-10-11T15:12:12Z
 a6e22336-ed73-4790-97ca-ad9b3eaa6bbf,way/295447954,,,course,,,active,18,72,,,,,,,,KY,,US,37.8736435,-87.5385139,2026-10-11T15:12:08Z
-a6f4ede8-556f-4dda-811d-74a406dc19b3,way/1011749417,,,course,,,active,,33,,,,,,,,KY,,US,36.7599709,-86.5719808,2026-10-11T13:31:06Z
+a6f4ede8-556f-4dda-811d-74a406dc19b3,way/1011749417,,,course,,,active,,,,,,,,,,KY,,US,36.7599709,-86.5719808,2026-10-11T13:31:06Z
 a7c70971-c60d-4835-a6eb-32b862eb4730,way/297625187,The Woodford Club,,course,,,active,,,,,+1-859-495-2582,https://www.thewoodfordclub.com/,,3495 McCowans Ferry Road,Versailles,KY,40383,US,38.013279,-84.7716275,2026-10-11T15:12:10Z
 a82a0617-9772-445b-b826-9a71103fb72b,way/1101367849,Lakewood Country Club of Russell Springs,,course,,,active,,,,,,,,,,KY,,US,37.0120664,-85.1196225,2026-10-11T15:06:36Z
-a88207ba-1ef3-416e-82ec-b5d650e33e5b,way/642939039,,,course,,,active,,67,,,,,,,,KY,,US,37.0220243,-88.3235708,2026-10-11T13:30:54Z
+a88207ba-1ef3-416e-82ec-b5d650e33e5b,way/642939039,,,course,,,active,,,,,,,,,,KY,,US,37.0220243,-88.3235708,2026-10-11T13:30:54Z
 a8fb6202-3f65-4ddd-8fdf-4e37304efc55,way/1193632486,The Crossings Golf Course,,course,,,active,18,71,,,+1-502-994-0812,https://www.facebook.com/playthecrossings,,205 Letts Road,Brooks,KY,,US,38.0791475,-85.7216527,2026-10-11T15:12:27Z
 aa5f834d-201c-42fe-aa29-7868cf0f2db4,way/170418636,City of Florence Golf Course,,course,,,active,18,58,,,,,,,,KY,,US,39.0076179,-84.6473299,2026-10-11T15:12:01Z
 aa7170ef-9d34-4905-9e68-23d5e579fffd,way/846456282,Hickman Country Club,,course,,,active,,,,,,,,2779 State Route 125,Hickman,KY,42050,US,36.5457187,-89.1601792,2026-10-11T15:12:23Z
@@ -171,7 +171,7 @@ b7494eaa-667a-465c-8a28-14e0907f1890,way/1011269642,Sleepy Hollow Golf Course,,c
 b7677d36-c551-499f-976c-12191dd7ae60,way/645288726,,,course,,,active,,,,,,,,,,KY,,US,36.7483807,-88.657466,2026-10-11T15:12:20Z
 ba6821c1-c062-4b52-b9ac-b1bd1d1d3f8b,relation/3959252,Champions Trace,,course,,,active,18,73,,,+1-859-223-7272,https://www.keenetracegolf.com/,,20 Avenue of Champions,Nicholasville,KY,40356,US,37.9717334,-84.6355946,2026-10-11T15:12:35Z
 bb2bcf7e-5ee1-47d5-8766-a97f9e42134d,way/1124161585,Rolling Hills Country Club,,course,,,active,18,72,,,,,,,,KY,,US,37.033361,-88.6460705,2026-10-11T15:12:24Z
-bb2dfc80-8bf1-4f5f-b631-c7f8ab49ba47,way/763332087,Perry Park Golf Resort - Antlers,,course,,,active,,27,,,,,,,,KY,,US,38.5337512,-85.005362,2026-10-11T15:12:21Z
+bb2dfc80-8bf1-4f5f-b631-c7f8ab49ba47,way/763332087,Perry Park Golf Resort - Antlers,,course,,,active,,,,,,,,,,KY,,US,38.5337512,-85.005362,2026-10-11T15:12:21Z
 bb8eddcf-691a-4750-a407-4fa5f5d5ee56,way/231245928,Oldham County Country Club,,course,,,active,18,71,,,+1-502-222-9133,https://oldhamcountycc.com/,,1870 Country Club Lane,La Grange,KY,40031,US,38.3926942,-85.445111,2026-10-11T15:12:03Z
 bba23fa1-21f6-4058-ad85-bcda4a49e442,way/460845787,Laurel Oaks Golf Course,,course,,,active,18,71,,,+1 606 759 5011,http://www.cityofmaysville.com/contact/laurel-oaks-golf-course/,,808 US 62,Maysville,KY,41056,US,38.607244,-83.818165,2026-10-11T13:30:48Z
 bc883a16-1195-4e42-aaa4-26a772b7c944,way/645133122,,,course,,,active,,,,,,,,,,KY,,US,37.0835663,-87.893866,2026-10-11T15:12:20Z
@@ -182,12 +182,12 @@ c2897c56-1fc6-48c9-ac04-f9c8ff6b447c,way/258025266,A. J. Jolly Golf Course,,cour
 c3df470c-560b-4e60-8801-536aa65a0a7b,relation/4487971,Shelbyville Country Club,,course,,,active,18,72,,,+1-502-633-0542,https://www.shelbyvillecc.com/,,47 Smithfield Road,Shelbyville,KY,40065,US,38.2229362,-85.229778,2026-10-11T15:12:36Z
 c525eb8b-8f26-4e84-b4e9-c7ae40327de8,way/310746944,Nevel Meade Golf Course,,course,,,active,18,72,,,+1-502-228-9522,https://nevelmeade.com/,,3123 Nevel Meade Drive,Prospect,KY,40059,US,38.3800784,-85.5607946,2026-10-11T15:06:24Z
 c5b5ce1d-ce19-44d8-9e57-5bc043d626cb,way/897294761,Pendleton Hills,,course,,,active,,,,,,https://pendletonhills.com/,,,,KY,,US,38.7570878,-84.3601848,2026-10-11T13:31:02Z
-c6acd9b9-e093-4825-b269-a4aeaa08f7fe,way/423702469,,,course,,,active,,4,,,,,,,,KY,,US,37.8009909,-85.4579784,2026-10-11T15:12:15Z
-caa14ebb-ca2c-41b6-b59b-9182910dd493,way/339612816,,,course,,,active,,32,,,,,,,,KY,,US,38.2896219,-85.4347338,2026-10-11T15:12:14Z
+c6acd9b9-e093-4825-b269-a4aeaa08f7fe,way/423702469,,,course,,,active,,,,,,,,,,KY,,US,37.8009909,-85.4579784,2026-10-11T15:12:15Z
+caa14ebb-ca2c-41b6-b59b-9182910dd493,way/339612816,,,course,,,active,,,,,,,,,,KY,,US,38.2896219,-85.4347338,2026-10-11T15:12:14Z
 cd1f2f48-e4d5-4e12-934d-a9578d135dda,way/1443823225,Man O' War Golf Learning Center,,course,,,active,,,,,,,,,,KY,,US,38.0333885,-84.5851434,2026-10-11T15:12:29Z
 cd2e8f5b-05d7-4e99-bb05-e8168990bccb,way/882455334,,,course,,,active,,,,,,,,,,KY,,US,38.3702485,-83.1191488,2026-10-11T15:12:23Z
 ce23f8e6-03d0-48d6-99b1-e615e166be76,way/456240791,Indian Hills Country Club,,course,,,active,18,71,,,+1-270-842-0041,https://www.indianhills-bgky.com/,,200 Indian Hills Drive,Bowling Green,KY,42103,US,36.9934109,-86.3998835,2026-10-11T15:12:17Z
-ce6d0d5f-cfe8-41cf-ba24-e79b28956cc6,way/339613844,,,course,,,active,,7,,,,,,,,KY,,US,38.2832683,-85.4326842,2026-10-11T15:12:14Z
+ce6d0d5f-cfe8-41cf-ba24-e79b28956cc6,way/339613844,,,course,,,active,,,,,,,,,,KY,,US,38.2832683,-85.4326842,2026-10-11T15:12:14Z
 cff67b34-2c81-4c56-90db-bfac9e9954ab,way/589106623,The Heritage At Marion Country Club,,course,,,active,,,,,+1 270 965 5415,http://www.theheritageatmarion.com/,,651 South Blackburn Street,Marion,KY,42064,US,37.324618,-88.089998,2026-10-11T15:12:20Z
 d104feb3-cca5-43c6-b59f-6a25edc7cab9,way/567940417,Henderson Municipal Golf Course,,course,,,active,,,,,+1-270-831-1263,https://www.cityofhendersonky.org/210/Golf,,1801 North Elm Street,Henderson,KY,42420,US,37.8579005,-87.5800584,2026-10-11T15:12:18Z
 d1541a2e-e278-4f8d-8b0f-35b9833559c0,way/589079809,,,course,,,active,9,36,,,,,,,,KY,,US,38.4413311,-83.7489992,2026-10-11T13:30:54Z
@@ -197,9 +197,9 @@ d3bc9eb8-7532-40b4-8931-96fa5df7f8dc,way/1352430471,River Bend Golf Club,,course
 d4c8fc03-4ece-4528-9fb0-5907c459a18e,way/59626585,Woodhaven Country Club,,course,,,active,,,,,,,,,,KY,,US,38.1693448,-85.6291475,2026-10-11T15:11:55Z
 d4e970bc-d544-42b8-a038-14976e20d098,way/830181214,Lafayette Golf Course,,course,,,active,18,72,,,,,,,Falls of Rough,KY,,US,37.5824998,-86.5560506,2026-10-11T15:06:35Z
 d4ff862c-189d-44da-9e81-1c818ad241a9,way/59991180,Charlie Vettner Golf Course,,course,,,active,18,72,,,+1-502-267-9958,https://www.metroparksgolf.net/charlievettiner/,,10207 Mary Dell Lane,Louisville,KY,40299,US,38.1738616,-85.5625361,2026-10-11T15:11:55Z
-d5c19ddd-c9a6-425f-b5aa-a74e98ff1d08,way/589249690,,,course,,,active,,36,,,,,,,,KY,,US,37.5539212,-84.6320117,2026-10-11T15:12:20Z
+d5c19ddd-c9a6-425f-b5aa-a74e98ff1d08,way/589249690,,,course,,,active,,,,,,,,,,KY,,US,37.5539212,-84.6320117,2026-10-11T15:12:20Z
 d659a16d-7e73-46fc-a0f9-648b9e04a8ff,way/482314303,,,course,,,active,,,,,,,,,,KY,,US,36.6161315,-83.7316619,2026-10-11T15:12:17Z
-d69a4c9e-0b6e-4a71-aa86-9de7c784466e,relation/20670643,Perry Park Golf Resort - Whitetail,,course,,,active,,20,,,,,,,,KY,,US,38.5394773,-85.0081109,2026-10-11T15:12:45Z
+d69a4c9e-0b6e-4a71-aa86-9de7c784466e,relation/20670643,Perry Park Golf Resort - Whitetail,,course,,,active,,,,,,,,,,KY,,US,38.5394773,-85.0081109,2026-10-11T15:12:45Z
 d89a1c7a-0069-4d24-b352-c6c5636ef421,way/848647978,,,course,,,active,18,73,,,,,,,,KY,,US,36.6608062,-85.2896236,2026-10-11T15:06:35Z
 dafe42dd-e5d4-4ea7-b577-7e4e54a9bfcb,way/80629225,,,course,,,active,18,72,,,,,,,,KY,,US,38.890161,-84.2630338,2026-10-11T15:11:55Z
 db51b4b3-5490-4cde-8989-674983c3cedb,way/1021700173,Elk Fork Country Club,,course,,,active,9,36,,,+1-270-265-6025,,,402 West Jefferson Street,Elkton,KY,42220,US,36.8146682,-87.1592005,2026-10-11T15:12:24Z
@@ -210,7 +210,7 @@ df00914b-3186-453f-b214-3a5135a52b9e,node/13520252549,,,course,,,active,,,,,,,,,
 e28daf30-2473-4793-a0d5-66479259732a,relation/11638500,Pennyrile Forest State Park Golf Course,,course,,,active,18,,,,,,,,,KY,,US,37.0791824,-87.6679613,2026-10-11T13:31:42Z
 e318e7c1-c54c-4d04-8b34-b9767e06d484,way/62477546,Standard Country Club,,course,,,active,18,72,,,+1-502-425-2857,http://www.standardclub.net/,,8208 Standard Club Drive,Louisville,KY,40241,US,38.2910739,-85.5955361,2026-10-11T13:29:49Z
 e4d2f0e3-a5f1-4a69-bbae-d6fac8067148,way/589060104,Stoner Creek,,course,,,active,9,,,,+1 859 987 0041,http://www.stonercreekparis.com/,,38 East Main Street,Paris,KY,40361,US,38.2125093,-84.2424989,2026-10-11T15:12:20Z
-e54b3bd0-d6a8-4995-9e6a-4757e9b704c0,way/59714994,Seneca Golf Course,,course,,,active,,36,,,,https://www.metroparksgolf.net/seneca/,,,,KY,,US,38.2352597,-85.6742838,2026-10-11T13:29:49Z
+e54b3bd0-d6a8-4995-9e6a-4757e9b704c0,way/59714994,Seneca Golf Course,,course,,,active,,,,,,https://www.metroparksgolf.net/seneca/,,,,KY,,US,38.2352597,-85.6742838,2026-10-11T13:29:49Z
 e6b1550e-ae3e-4316-bed3-cd87d7ddb8de,way/904892311,Lebanon Country Club,,course,,,active,,,,,,,,655 Country Club Drive,Lebanon,KY,40033,US,37.5544657,-85.2527776,2026-10-11T15:12:23Z
 e8dc1aad-4bd0-4009-a662-8eff2b284c5e,way/38726958,Audubon Country Club,,course,,,active,18,71,,,+1-502-636-1331,https://www.auduboncc.org/home,,3265 Robin Road,Louisville,KY,40213,US,38.2000358,-85.7235665,2026-10-11T15:11:51Z
 e946a946-069b-41f9-a6de-9b5191fa1ae4,way/1021615611,,,course,,,active,,,,,,,,,,KY,,US,37.6383548,-85.8193819,2026-10-11T15:12:24Z
