@@ -33,7 +33,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 09ecc932-50a8-46b2-be19-678b9f34db1b,way/372616774,National Golf Links,,course,,,active,18,72,,,,,,,,OH,,US,39.9305574,-83.6591615,2026-10-11T15:12:14Z
 0a69a16a-5633-4d31-bc36-6ea580e446ba,relation/3927363,North Olmsted Golf Club,,course,,,active,9,30,,,+1-440-777-0220,https://www.northolmstedgolfclub.com/,,5840 Canterbury Road,North Olmsted,OH,44070,US,41.4034872,-81.9156768,2026-10-11T15:12:35Z
 0aac9d79-cb34-428d-8913-2543bbd8104b,way/1205189957,Valley Vista Golf Course,,course,,,active,18,71,,,+1 740-634-2221,https://www.valleyvistagolf.com/,,1355 Tong Hollow Road,Bainbridge,OH,45612,US,39.2452033,-83.2538241,2026-10-11T15:12:27Z
-0aaf0422-6eda-4d92-a3aa-ee7dfbc8bc57,way/636898389,Dayton Country Club,,course,,,active,18,70,,,,,,,,OH,,US,39.7207553,-84.1864055,2026-10-11T13:30:54Z
+0aaf0422-6eda-4d92-a3aa-ee7dfbc8bc57,way/636898389,Dayton Country Club,,course,,,active,18,70,,,,https://www.daytoncountryclub.com/,,,,OH,,US,39.7207553,-84.1864055,2026-10-20T23:32:19Z
 0ad030d9-0220-4e4f-8262-60b5e28b5180,way/763506276,The Golf Club,,course,,,active,18,72,,,+1-614-855-7326,,,4522 Kitzmiller Road,New Albany,OH,43054,US,40.0665996,-82.7871338,2026-10-11T15:06:33Z
 0b1d0778-62d2-4268-aac7-0c94e5007ac1,relation/4791532,,,course,,,active,,,,,,,,,,OH,,US,41.3556691,-81.3988933,2026-10-11T15:12:36Z
 0b823781-f596-4a4c-8b87-e34694efa90d,way/339562838,Pebble Creek Golf Club,,course,,,active,,,,,+1-419-884-3434,http://www.pebblecreeklexington.com/,,4300 Algire Road,Lexington,OH,44904,US,40.6409441,-82.6142589,2026-10-11T15:12:14Z
@@ -59,7 +59,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 125ebff7-6bf9-4df6-be4f-1f7948981a2e,way/240897791,Sycamore Creek County Club,,course,,,active,,,,,,https://www.sycamorecreekcc.org/,,8300 Country Club Lane,Springboro,OH,45066,US,39.5646208,-84.2163527,2026-10-11T15:12:05Z
 12bbfc78-a780-4fb6-8284-9943f3febb6a,way/197945215,,,course,,,active,,,,,,,,,,OH,,US,40.8911062,-81.5156729,2026-10-11T15:12:03Z
 13586ffa-819e-4f93-957a-008e81a9a735,way/327890150,Shawnee Country Club,,course,,,active,,,,,,,,,,OH,,US,40.7133764,-84.1569517,2026-10-11T15:12:12Z
-13743d78-01df-4ed1-b8b7-da918cb30037,way/909290468,"Flying ""B"" Golf Course",,course,,,active,18,71,,,,,,,,OH,,US,40.9564704,-80.9008732,2026-10-11T15:12:23Z
+13743d78-01df-4ed1-b8b7-da918cb30037,way/909290468,"Flying ""B"" Golf Course",,course,,,active,18,71,,,,https://www.flyingbgolf.com/,,,,OH,,US,40.9564704,-80.9008732,2026-10-20T23:32:18Z
 13b11d7a-dca3-4286-b9aa-93e5da29435b,way/155966690,Penn Terra Golf Course,,course,,,active,18,70,,,+1-937-962-4515,http://pennterragc.com/,,7500 Salem Road,Lewisburg,OH,45338,US,39.8411597,-84.5135729,2026-10-11T15:12:00Z
 13e38417-3bd9-40da-b8a2-a793af053cac,way/906239622,Glenmoor Country Club,,course,,,active,,,,,,,,,,OH,,US,40.8440179,-81.4682436,2026-10-11T15:12:23Z
 144d1785-1089-48e9-b505-287abc9d9838,way/1383034968,Dogwood Hills Golf Course,,course,,,active,,,,,+1 740-663-2700,,,1193 Debord Road,Chillicothe,OH,45601,US,39.1999762,-83.0025566,2026-10-11T15:12:29Z
@@ -100,9 +100,9 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 22eaaa3a-ab9d-406e-8ea2-e89e074f52f3,relation/49218,The Oasis,,course,,,active,18,72,,,,,,,,OH,,US,39.2387009,-84.2480695,2026-10-11T15:12:30Z
 23025324-e2cf-4000-ad7f-4da571f30cf1,way/624141542,Greenhills Golf Course,,course,,,active,,,,,+1-513-825-6551,,,10 Enfield Street,Greenhills,OH,45218,US,39.2693685,-84.518429,2026-10-11T13:30:54Z
 233c74ca-1b2f-4c5c-b045-4d256d96d125,way/1264625354,Spud Run Golf,,course,,,active,9,33,,,,,,,,OH,,US,39.3658402,-82.9127458,2026-10-11T15:06:39Z
-2372cb49-4985-4153-873b-d7d1d9df0202,way/259166574,Hillcrest Golf Course,,course,,,active,18,70,,,,,,,,OH,,US,41.5885724,-84.5315683,2026-10-11T15:06:18Z
+2372cb49-4985-4153-873b-d7d1d9df0202,way/259166574,Hillcrest Golf Course,,course,,,active,18,70,,,,,,,,OH,,US,41.5885724,-84.5315683,2026-10-21T01:44:39Z
 23d83c88-0277-45a9-b25d-bfcbe9a1bf86,relation/9668252,The Sanctuary Golf Club,,course,,,active,18,71,,,,https://www.thesanctuarygolfclub.com/,,2017 Applegrove NW,North Canton,OH,44720,US,40.8937726,-81.3826774,2026-10-11T15:06:49Z
-24137cfb-1ad3-41cf-852a-29b19c13d87a,way/620907434,Sable Creek Golf Course,,course,,,active,18,72,,,,,,,,OH,,US,40.9458713,-81.279874,2026-10-11T15:12:20Z
+24137cfb-1ad3-41cf-852a-29b19c13d87a,way/620907434,Sable Creek Golf Course,,course,,,active,18,72,,,,https://sablecreekgolf.com/,,,,OH,,US,40.9458713,-81.279874,2026-10-20T23:32:20Z
 243366e2-75de-40c5-9bd5-a85b35f7952d,way/1126793767,,,course,,,active,,,,,,,,,,OH,,US,41.1707594,-83.6772351,2026-10-11T15:12:24Z
 24347b21-fa6a-43d8-b267-059169fab7ba,way/422556770,,,course,,,active,18,71,,,,,,,,OH,,US,39.9789518,-82.455281,2026-10-11T15:12:15Z
 2468df35-ba39-4c3a-9ef5-76dfba14536d,way/331472825,,,course,,,active,9,,,,,,,,,OH,,US,41.0771204,-82.4113175,2026-10-11T15:12:12Z
@@ -221,7 +221,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 583b1a49-a1e2-4a56-980f-5bab82749182,way/386421763,,,course,,,active,18,73,,,,,,,,OH,,US,41.4943859,-83.89762,2026-10-11T15:12:14Z
 58731d1d-02a9-42d8-a1bd-0edc3f872cec,way/33112336,,,course,,,active,18,71,,,,,,,,OH,,US,39.8792612,-83.2322047,2026-10-11T15:11:51Z
 58ee210f-e779-4e73-98d4-ad39b5913472,way/463493979,,,course,,,active,9,36,,,,,,,,OH,,US,39.9367278,-82.4403397,2026-10-11T15:06:29Z
-5928236c-a453-4f9d-b918-5ee258eef8a6,way/313116507,Ironwood Golf Course,,course,,,active,18,72,,,,,,,,OH,,US,41.5404815,-84.1607065,2026-10-11T15:12:12Z
+5928236c-a453-4f9d-b918-5ee258eef8a6,way/313116507,Ironwood Golf Course,,course,,,active,18,72,,,,https://www.ironwoodofwauseon.golf/,,,,OH,,US,41.5404815,-84.1607065,2026-10-20T23:32:19Z
 5998366a-130d-4443-bd14-9252bc2ec557,way/407607108,,,course,,,active,,,,,,,,,,OH,,US,41.2776235,-82.9694065,2026-10-11T15:12:15Z
 5a63c43d-3e40-4ccf-8f89-dea51de7a635,way/248028957,Valley of the Eagles,,course,,,active,,,,,,https://valleyeagles.com/,,1100 Gulf Road,Elyria,OH,44035,US,41.3956208,-82.0968161,2026-10-11T15:12:05Z
 5b4d7788-36c7-417e-bdc8-1ee94c97ef4c,way/330137547,Westerville Golf Center,,practice,,,active,,,,,,,,,,OH,,US,40.1125428,-82.9409219,2026-10-11T15:12:12Z
@@ -259,11 +259,11 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 6af24c5d-b0e3-4d76-b38d-2cbed16fb5ed,way/1272095329,,,course,,,active,,,,,,,,,,OH,,US,40.8828756,-81.3389088,2026-10-11T15:06:39Z
 6b0b3873-2ccf-4328-bc67-fcaba675a331,way/318227818,,,course,,,active,,,,,,,,,,OH,,US,41.4108936,-80.8652669,2026-10-11T15:06:24Z
 6b7d9d56-774b-4806-a9da-86ba74830881,way/653212622,,,course,,,active,18,72,,,,,,,,OH,,US,40.6228211,-84.2074221,2026-10-11T15:12:20Z
-6b9a6c8e-537c-429b-871e-c9fc79e2850a,way/244282331,Maumee Bay State Park Golf Course,,course,,,active,18,72,,,,,,,,OH,,US,41.6792178,-83.3617908,2026-10-11T15:12:05Z
+6b9a6c8e-537c-429b-871e-c9fc79e2850a,way/244282331,Maumee Bay State Park Golf Course,,course,,,active,18,72,,,,https://www.maumeebaylodge.com/,,,,OH,,US,41.6792178,-83.3617908,2026-10-20T23:32:19Z
 6c8569d6-8446-4a9e-9039-21daa1205a8c,way/321885264,Valleaire Golf Club,,course,,,active,18,72,,,,,,6969 Boston Road,Hinckley,OH,44233,US,41.2703871,-81.7347968,2026-10-11T15:12:12Z
 6c95b0f4-4478-44fd-b5db-cc51dbb2803c,relation/9281254,The Golf Club at Little Turtle,,course,,,active,,,,,,,,5400 Little Turtle Way,Westerville,OH,43081,US,40.086438,-82.8809952,2026-10-11T15:12:38Z
 6cb81ee5-32a1-464d-97a5-729d6c57ce79,way/80217556,Neumann Golf Course,,course,,,active,,,,,,,,,,OH,,US,39.1565861,-84.6908663,2026-10-11T15:11:55Z
-6ce1df49-ce05-4066-8ae0-c954295e1ec9,node/3917904354,Big Bend Golf Course,,course,,,active,,,,,,,,,,OH,,US,40.3945915,-81.3536983,2026-10-11T13:29:32Z
+6ce1df49-ce05-4066-8ae0-c954295e1ec9,node/3917904354,Big Bend Golf Course,,course,,,active,,,,,,https://bigbendgolfcourse.com/,,,,OH,,US,40.3945915,-81.3536983,2026-10-20T23:32:18Z
 6d4cf913-159f-41cf-874c-cdc2d9fd88c9,relation/20382099,Coldstream Country Club,,course,,,active,18,71,,,+1-513-231-3900,https://www.coldstreamcc.com/,,400 Asbury Road,Cincinnati,OH,45255,US,39.0512787,-84.3464507,2026-10-11T15:06:54Z
 6d9dba6c-75d7-40ff-8051-60a37ee7a4ee,way/381863279,Forest E. Everhart Memorial Golf Course,,course,,public,active,9,36,,,+1-740-774-8387,,,17273 State Route 104,Chillicothe,OH,45601,US,39.3870028,-83.0141872,2026-10-11T15:06:26Z
 6da32263-c78b-4284-b707-707150c67386,way/374521490,,,course,,,active,,,,,,,,,,OH,,US,41.3457465,-83.19015,2026-10-11T15:12:14Z
@@ -278,7 +278,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 6f973081-7615-4f46-ad85-ffe997f197a7,way/306394064,,,course,,,active,,,,,,,,,,OH,,US,40.9903228,-81.0052376,2026-10-11T15:12:12Z
 6fee30c2-3764-43b5-a867-0cd9ab0bb8be,relation/8812300,Beckett Ridge Country Club,,course,,,active,18,72,,,,https://www.beckettridgegolf.com/,,,,OH,,US,39.3491679,-84.4373934,2026-10-11T15:12:38Z
 6ff209ba-26ae-4f5a-a488-e228251372d8,way/759487167,,,course,,,active,,,,,,,,,,OH,,US,40.8916536,-80.7107971,2026-10-11T15:12:21Z
-714079e7-b385-4736-bb91-450d74ebbced,way/348347295,Kirtland Country Club,,course,,,active,,,,,,,,,,OH,,US,41.6296242,-81.3759812,2026-10-11T13:30:39Z
+714079e7-b385-4736-bb91-450d74ebbced,way/348347295,Kirtland Country Club,,course,,,active,,,,,,https://www.kirtlandcc.org/,,,,OH,,US,41.6296242,-81.3759812,2026-10-20T23:32:18Z
 7224205e-3ee1-4e04-876f-51a23914a655,way/189164898,Deerfield Golf Course,,course,,,active,9,,,,,,,,,OH,,US,40.69993,-84.5861623,2026-10-11T15:12:01Z
 72903e4d-e44e-4ed6-b217-f7533c0327cc,way/125420042,The Country Club,,course,,,active,,,,,,,,,,OH,,US,41.4859415,-81.4547433,2026-10-11T15:06:10Z
 733efce1-10f6-45fe-a0e2-ec1c9a86bdb6,way/1132038281,Edwin Shaw Challenge Golf Course,,course,,,active,,,,,,,,,,OH,,US,41.0170936,-81.4320618,2026-10-11T15:12:24Z
@@ -296,7 +296,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 776347da-18c2-4c94-9801-456346421a75,way/511087251,Jasper Hills Golf Club,,course,,,active,,,,,,,,,,OH,,US,39.6555537,-83.8146765,2026-10-11T13:30:51Z
 78a6b83c-10a1-4228-8ec7-e765407e245b,way/259650479,Willow Creek Golf Course,,course,,,active,18,72,,,,,,,,OH,,US,41.3962695,-82.3521137,2026-10-11T15:12:05Z
 79433e2a-53bc-4570-ab5f-80af9951cc74,way/1227000532,Meander Golf Course,,course,,,active,,,,,,,,,,OH,,US,41.083635,-80.8401967,2026-10-11T15:12:27Z
-7948a8e3-da75-4a0d-acf4-fc9ba0bf8d87,way/502550036,EagleSticks,,course,,,active,18,70,,,,,,2655 Maysville Pike,Zanesville,OH,43701,US,39.9026092,-82.0334338,2026-10-11T15:12:18Z
+7948a8e3-da75-4a0d-acf4-fc9ba0bf8d87,way/502550036,EagleSticks,,course,,,active,18,70,,,,https://www.eaglesticks.com/,,2655 Maysville Pike,Zanesville,OH,43701,US,39.9026092,-82.0334338,2026-10-20T23:38:25Z
 7a026b39-7b4e-4fc2-a854-fefd4b8a1852,way/169296404,Upper Lansdowne Golf Course,,course,,,active,,,,,,,,,,OH,,US,39.6712072,-82.8991946,2026-10-11T15:12:01Z
 7a1dbcd8-a171-4abd-b680-56341f766d71,way/79882317,Armco Park Golf Course,,course,,,active,,,,,,,,,,OH,,US,39.4541914,-84.2845231,2026-10-11T15:11:55Z
 7a6168d0-b2d5-48db-bb2e-e8f76acc3358,way/61041017,Mound Golf Course,,course,,,active,9,37,,,+1-937-866-2211,https://www.moundgolf.com/,,757 Mound Avenue,Miamisburg,OH,45342,US,39.6295281,-84.2783917,2026-10-11T15:11:55Z
@@ -304,7 +304,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 7a989102-3f8d-4f3e-b79d-e76ae5d25623,way/327264990,,,course,,,active,,,,,,,,,,OH,,US,39.5668181,-84.2964889,2026-10-11T15:12:12Z
 7aa52008-13fa-49b4-bca4-0e547abd3ba9,way/473319551,Caddie Shack,,course,,,active,,,,,,,,350 N North Ohio Street,Greenville,OH,45331,US,40.1021846,-84.6191166,2026-10-11T15:12:17Z
 7ab9cd89-da63-4cae-a525-3f7914c700a8,way/424862144,Adams County Country Club,,course,,,active,9,,,,,,,,,OH,,US,38.7954677,-83.5306388,2026-10-11T15:12:15Z
-7abf75f0-e04f-4331-bbe0-15d62ec977b5,way/256262488,Cambridge Country Club,,course,,,active,18,72,,,,,,60755 Southgate Road,Byesville,OH,43723,US,39.9776295,-81.5621035,2026-10-11T13:30:12Z
+7abf75f0-e04f-4331-bbe0-15d62ec977b5,way/256262488,Cambridge Country Club,,course,,,active,18,72,,,,https://cambridgeohiocountryclub.com/,,60755 Southgate Road,Byesville,OH,43723,US,39.9776295,-81.5621035,2026-10-20T23:32:20Z
 7bb609ce-d860-49ab-8a8e-55c6f71065fc,way/388384310,,,course,,,active,,,,,,,,,,OH,,US,41.3996939,-82.63995,2026-10-11T13:30:39Z
 7bdee64d-cfb3-43ad-84f8-e8e3ec7ae02c,way/698280459,,,course,,,active,18,72,,,,,,,,OH,,US,40.2797362,-81.7008547,2026-10-11T15:12:21Z
 7be9204d-cf43-4a43-9fe8-d012723f6e24,way/297625799,,,course,,,active,,,,,,,,,,OH,,US,41.0595764,-83.522363,2026-10-11T15:06:23Z
@@ -324,7 +324,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 7e5bcecd-359a-4d42-8ddd-f1fd014c912f,way/361885248,Alliance Country Club,,course,,,active,18,70,,,+1 330 823 1010,https://www.alliancecountryclub.com/,,725 East Milton Street,Alliance,OH,44601,US,40.8912183,-81.0949854,2026-10-11T15:12:14Z
 7e8256ce-592a-48fd-b84a-52b3951b0aa4,way/184745335,Carroll Meadows golf course,,course,,,active,18,71,,,,,,,,OH,,US,40.5870068,-81.0757526,2026-10-11T15:12:01Z
 7f0a55a7-d555-4be0-aba7-b0c8c5031154,way/1033615825,Tamarac Golf Course,,course,,,active,,,,,,,,,,OH,,US,40.7471347,-84.1744254,2026-10-11T15:12:24Z
-7f21a610-b2be-429f-8582-44e72eba1b70,way/948578054,Meigs Golf Course,,course,,,active,9,34,,,+1-740-992-6312,,,33080 Wills Hill Rd.,Pomeroy,OH,45769,US,39.043522,-81.9950831,2026-10-11T15:12:23Z
+7f21a610-b2be-429f-8582-44e72eba1b70,way/948578054,Meigs Golf Course,,course,,,active,9,34,,,+1-740-992-6312,https://www.meigsgolfcourse.com/,,33080 Wills Hill Rd.,Pomeroy,OH,45769,US,39.043522,-81.9950831,2026-10-20T23:32:21Z
 7f7b4938-0f7c-44e4-bdf7-a54303e2e6bd,node/11774204565,SGN Golf,,course,,,active,,,,,,,,,,OH,,US,39.6512713,-84.1071511,2026-10-11T13:29:32Z
 7f85183c-55f1-43ae-a040-1425c0ba75ed,way/838360735,Fairway River Links,,course,,,active,18,,,,,,,100 Liberty Avenue,Rayland,OH,43943,US,40.1822154,-80.686881,2026-10-11T13:31:02Z
 7fa4f7e0-a5b7-4470-a133-bd6bf1c8fb25,relation/9727277,Heritage Golf Club,,course,,,active,18,71,,,+1-614-777-1690,https://www.invitedclubs.com/clubs/heritage-golf-club,,3525 Heritage Club Drive,Hilliard,OH,43026,US,40.0221356,-83.1734212,2026-10-11T15:12:38Z
@@ -395,7 +395,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 991b566d-add2-4272-9c21-c76e9a4714e6,way/683470873,Westchester Golf Course,,course,,,active,18,72,,,+1-614-834-4653,https://westchestergolfcourse.com/,,6300 Bent Grass Blvd,Canal Winchester,OH,43110,US,39.8341196,-82.8291756,2026-10-11T15:12:20Z
 99790d04-c6b1-4ecf-b15c-f7c5ffbe33c0,relation/10042895,Shaker Run Golf Club,,course,,,active,,,,,,https://www.shakerrungolfclub.com/,,,,OH,,US,39.4533768,-84.2971675,2026-10-11T15:12:38Z
 999985d8-65b7-45a6-9006-cf76e8105cb2,way/258625148,Lake Forest Country Club,,course,,,active,,,,,,,,,,OH,,US,41.2503009,-81.4653489,2026-10-11T15:12:05Z
-99cf42f7-d332-438a-8e98-70b46621cac4,way/334679579,Sugar Isle Golf Course,,course,,,active,18,72,,,,,,2496 North Dayton-Lakeview Road,New Carlisle,OH,45344,US,39.9612668,-84.0221766,2026-10-11T15:06:24Z
+99cf42f7-d332-438a-8e98-70b46621cac4,way/334679579,Sugar Isle Golf Course,,course,,,active,18,72,,,,https://www.sugarislegc.com/,,2496 North Dayton-Lakeview Road,New Carlisle,OH,45344,US,39.9612668,-84.0221766,2026-10-20T23:32:18Z
 99d17397-ffef-464a-9182-2803543fcc10,way/122079866,"L.C. Boles Golf Course Holes 1-2,9",,course,,,active,,,,,,,,,,OH,,US,40.8120434,-81.9270123,2026-10-11T13:29:54Z
 9a5d279d-e2bf-4bfc-9359-068c1cb6b5f8,way/627599411,,,course,,,active,18,70,,,,,,,,OH,,US,40.01339,-84.2244655,2026-10-11T15:12:20Z
 9aa29153-69a3-4de7-8555-878c3e2a2f22,way/134366543,Echo HIlls Golf Course,,course,,,active,18,72,,,,,,,,OH,,US,40.1646282,-84.274712,2026-10-11T15:06:10Z
@@ -457,7 +457,7 @@ b355445d-4012-452f-aa52-f833bb0e6607,way/253674925,Highland Meadows Golf Club,,c
 b393c15e-e8a8-4c06-aa83-1626aaded24d,way/122079865,L.C. Boles Golf Course Holes 3-8,,course,,,active,,,,,,,,,,OH,,US,40.8104286,-81.922378,2026-10-11T13:29:54Z
 b561b88c-ced7-475d-8c67-6f92fd41285d,way/1193438771,Buckeye Hills Country Club,,course,,,active,,,,,+1-937-981-4136,http://www.buckeyehillsgolf.com/,,7261 Limes Road,Gr﻿een﻿field,OH,45123,US,39.3807105,-83.4482308,2026-10-11T13:31:09Z
 b5868cc9-23e2-49b9-93fc-d04ea1fc43ee,way/133578763,Shelby Oaks Golf Club,,course,,,active,,,,,,,,9900 Sidney-Freyburg Road,Sidney,OH,45365,US,40.3425562,-84.1280201,2026-10-11T15:11:57Z
-b5fececf-5793-4e8c-904a-3bd035df91cb,way/129737074,Fox Den Golf Course,,course,,,active,,,,,,,,,,OH,,US,41.1848545,-81.4068698,2026-10-11T15:11:57Z
+b5fececf-5793-4e8c-904a-3bd035df91cb,way/129737074,Fox Den Golf Course,,course,,,active,,,,,,https://www.foxdengc.com/,,,,OH,,US,41.1848545,-81.4068698,2026-10-20T23:32:20Z
 b6151d84-29a0-44fb-b109-6abc9f0e60f1,relation/1228072,Heritage Club,,course,,,active,18,72,,,,,,,,OH,,US,39.3747127,-84.3360492,2026-10-11T15:12:30Z
 b636486e-9fdb-4685-9f09-feb7dec593c9,way/1391660678,,,course,,,active,,,,,,,,,,OH,,US,41.3887712,-81.1473749,2026-10-11T15:12:29Z
 b73802d8-bef3-47b7-a394-c9924980530f,relation/13691164,Safari Golf Club,,course,,,active,18,72,,,+1-614-645-3444,https://www.safarigolf.com/,,4843 W Powell Road,Powell,OH,43065,US,40.1508123,-83.1137765,2026-10-11T15:12:41Z
@@ -636,7 +636,7 @@ ed300886-b69d-4b1d-976e-5a778dd1df9a,way/1391660680,,,course,,,active,,,,,,,,,,O
 ed49f5dd-f556-44c2-af2f-c751af857c90,way/56394229,Clovernook Country Club,,course,,,active,18,72,,,,https://www.clovernookcc.com/,,2035 West Galbraith Road,Cincinnati,OH,45239,US,39.2137034,-84.5663553,2026-10-11T13:29:49Z
 ed775369-8343-4750-af0f-1d85cc919ecb,way/572873302,Castle Shannon Golf Course,,course,,,active,,,,,,,,105 Castle Shannon Boulevard,Hopedale,OH,43976,US,40.3033722,-80.8498666,2026-10-11T15:12:18Z
 ed8bf487-8d7e-40ea-820f-ff763014d9ba,way/789111686,,,course,,private,active,,,,,,,,,,OH,,US,39.7525847,-84.1248634,2026-10-11T15:12:21Z
-edd4c77c-1f91-4ec9-8564-97b29f5b6dba,way/616376504,Spring Hills Golf Club,,course,,,active,,,,,,,,,,OH,,US,40.4506088,-80.8412218,2026-10-11T15:12:20Z
+edd4c77c-1f91-4ec9-8564-97b29f5b6dba,way/616376504,Spring Hills Golf Club,,course,,,active,,,,,,https://springhillsgolfclub.com/,,,,OH,,US,40.4506088,-80.8412218,2026-10-20T23:32:19Z
 ee44ba7b-4984-4f11-a6ba-4b3d13a66ff5,way/550937669,Old Avalon Golf Course,,course,,,active,,,,,,,,,,OH,,US,41.2329065,-80.7158467,2026-10-11T15:12:18Z
 ee78cbec-4057-4d20-99e2-1061723b70fc,way/34229031,The Grizzly Golf and Social Lodge,,course,,,active,18,71,,,,https://www.masongrizzly.com/,,6042 Fairway Drive,Mason,OH,45040,US,39.3491145,-84.2887134,2026-10-11T13:29:39Z
 eee2585a-7260-48a4-bd39-3f09703daf9a,way/1219667440,,,course,,,active,,,,,,,,,,OH,,US,39.3119941,-82.1575271,2026-10-11T15:06:38Z
@@ -678,7 +678,7 @@ fd8d69e8-6aff-4b95-9ddc-07582caeb8bc,relation/14436926,The Legends of Massillon,
 fda4519d-9ed2-452d-b402-48e4b0cfa574,way/908522753,,,course,,,active,,,,,,,,,,OH,,US,41.3840327,-83.6577978,2026-10-11T15:06:35Z
 fdbf7be3-de50-4b1f-9dfb-19425c789862,way/457111759,,,course,,,active,,,,,,,,,,OH,,US,41.0848865,-80.9701859,2026-10-11T15:12:17Z
 fdc7d457-eff3-4c5a-a294-a356c52ebaf7,node/12508584668,Sylvania Country Club,,course,,,active,,,,,+1-419-882-2082,https://www.sylvaniacc.org/,,5201 Corey Road,Sylvania,OH,43560,US,41.7093697,-83.6808734,2026-10-11T13:29:32Z
-fdfa1240-5fb7-482e-acc6-75cfd20ff5dd,way/1219668786,Fairgreens Golf Club,,course,,,active,9,,,,,,,Country Club Road,,OH,,US,39.0770141,-82.5719045,2026-10-11T15:12:27Z
+fdfa1240-5fb7-482e-acc6-75cfd20ff5dd,way/1219668786,Fairgreens Golf Club,,course,,,active,9,,,,,https://fairgreensgolfclub.com/,,Country Club Road,,OH,,US,39.0770141,-82.5719045,2026-10-20T23:32:20Z
 fef03fc4-d15c-4168-aa69-72954fd3455b,way/342389973,Dixie Driving Range,,practice,,,active,,,,,,,,,,OH,,US,41.4316465,-83.6521509,2026-10-11T15:12:14Z
 ff20cb7f-797e-42ec-b2e3-e234adcff62c,relation/15082941,Birch Run Golf Club,,course,,,active,18,70,,,,,,14451 Deshler Rd,North Baltimore,OH,45872,US,41.1707594,-83.6772351,2026-10-11T15:12:43Z
 ff46e000-987b-45b0-9435-35e6baedbccd,way/210252320,Hilliard Lakes Golf Club,,course,,,active,18,72,,,,,,,,OH,,US,41.4259346,-81.9749864,2026-10-11T15:12:03Z

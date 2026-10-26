@@ -1,5 +1,5 @@
 {
- "snapshot": "2026-10-19",
+ "snapshot": "2026-10-26",
  "counts": "golf courses (kinds course and par3), active",
  "measures": {
   "card": "A published scorecard is linked",
@@ -13,17 +13,17 @@
  },
  "national": {
   "name": "United States",
-  "courses": 16237,
-  "card": 112,
-  "confirmed": 112,
-  "pars": 5703,
-  "handicaps": 2365,
-  "tees": 202,
-  "ratings": 76,
-  "yardages": 167,
-  "complete": 67,
-  "fixes": 148,
-  "reports": 0
+  "courses": 16235,
+  "card": 147,
+  "confirmed": 147,
+  "pars": 5716,
+  "handicaps": 2385,
+  "tees": 229,
+  "ratings": 96,
+  "yardages": 194,
+  "complete": 87,
+  "fixes": 974,
+  "reports": 1
  },
  "states": {
   "AK": {
@@ -37,7 +37,7 @@
    "ratings": 0,
    "yardages": 0,
    "complete": 0,
-   "fixes": 0,
+   "fixes": 6,
    "reports": 0,
    "regions": {
     "ak-alaska": {
@@ -51,7 +51,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 6,
      "reports": 0
     }
    }
@@ -67,7 +67,7 @@
    "ratings": 0,
    "yardages": 0,
    "complete": 0,
-   "fixes": 0,
+   "fixes": 36,
    "reports": 0,
    "regions": {
     "al-birmingham-central": {
@@ -81,7 +81,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 10,
      "reports": 0
     },
     "al-north": {
@@ -95,7 +95,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 10,
      "reports": 0
     },
     "al-south": {
@@ -109,7 +109,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 16,
      "reports": 0
     }
    }
@@ -125,7 +125,7 @@
    "ratings": 0,
    "yardages": 0,
    "complete": 0,
-   "fixes": 0,
+   "fixes": 28,
    "reports": 0,
    "regions": {
     "ar-arkansas": {
@@ -139,7 +139,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 28,
      "reports": 0
     }
    }
@@ -185,7 +185,7 @@
    "ratings": 0,
    "yardages": 1,
    "complete": 0,
-   "fixes": 0,
+   "fixes": 20,
    "reports": 0,
    "regions": {
     "az-northern-western": {
@@ -199,7 +199,7 @@
      "ratings": 0,
      "yardages": 1,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 5,
      "reports": 0
     },
     "az-phoenix": {
@@ -213,7 +213,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 12,
      "reports": 0
     },
     "az-tucson-southern": {
@@ -227,23 +227,23 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 3,
      "reports": 0
     }
    }
   },
   "CA": {
    "name": "California",
-   "courses": 988,
-   "card": 3,
-   "confirmed": 3,
+   "courses": 987,
+   "card": 4,
+   "confirmed": 4,
    "pars": 380,
    "handicaps": 165,
    "tees": 12,
    "ratings": 0,
    "yardages": 7,
    "complete": 0,
-   "fixes": 3,
+   "fixes": 164,
    "reports": 0,
    "regions": {
     "ca-central-coast": {
@@ -257,7 +257,7 @@
      "ratings": 0,
      "yardages": 1,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 24,
      "reports": 0
     },
     "ca-far-north": {
@@ -271,7 +271,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 17,
      "reports": 0
     },
     "ca-fresno-bakersfield": {
@@ -285,7 +285,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 7,
      "reports": 0
     },
     "ca-los-angeles-ventura": {
@@ -299,7 +299,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 14,
      "reports": 0
     },
     "ca-north-bay-north-coast": {
@@ -313,7 +313,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 14,
      "reports": 0
     },
     "ca-orange-san-bernardino": {
@@ -327,7 +327,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 14,
      "reports": 0
     },
     "ca-riverside": {
@@ -341,7 +341,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 24,
      "reports": 0
     },
     "ca-sacramento": {
@@ -355,21 +355,21 @@
      "ratings": 0,
      "yardages": 5,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 11,
      "reports": 0
     },
     "ca-san-diego": {
      "name": "San Diego and Imperial",
      "courses": 122,
-     "card": 2,
-     "confirmed": 2,
+     "card": 3,
+     "confirmed": 3,
      "pars": 40,
      "handicaps": 21,
      "tees": 0,
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 2,
+     "fixes": 20,
      "reports": 0
     },
     "ca-san-francisco-east-bay": {
@@ -383,7 +383,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 7,
      "reports": 0
     },
     "ca-san-jose-peninsula": {
@@ -397,12 +397,12 @@
      "ratings": 0,
      "yardages": 1,
      "complete": 0,
-     "fixes": 1,
+     "fixes": 6,
      "reports": 0
     },
     "ca-stockton-modesto": {
      "name": "Stockton, Modesto and Yosemite",
-     "courses": 51,
+     "courses": 50,
      "card": 0,
      "confirmed": 0,
      "pars": 9,
@@ -411,37 +411,37 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 6,
      "reports": 0
     }
    }
   },
   "CO": {
    "name": "Colorado",
-   "courses": 266,
-   "card": 0,
-   "confirmed": 0,
+   "courses": 265,
+   "card": 1,
+   "confirmed": 1,
    "pars": 127,
    "handicaps": 68,
    "tees": 1,
    "ratings": 0,
    "yardages": 0,
    "complete": 0,
-   "fixes": 0,
+   "fixes": 58,
    "reports": 0,
    "regions": {
     "co-denver": {
      "name": "Denver Metro",
      "courses": 91,
-     "card": 0,
-     "confirmed": 0,
+     "card": 1,
+     "confirmed": 1,
      "pars": 51,
      "handicaps": 32,
      "tees": 0,
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 20,
      "reports": 0
     },
     "co-mountains-western-slope": {
@@ -455,12 +455,12 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 14,
      "reports": 0
     },
     "co-northern": {
      "name": "Boulder, Fort Collins and Northern Colorado",
-     "courses": 51,
+     "courses": 50,
      "card": 0,
      "confirmed": 0,
      "pars": 31,
@@ -469,7 +469,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 12,
      "reports": 0
     },
     "co-southern": {
@@ -483,7 +483,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 12,
      "reports": 0
     }
    }
@@ -491,15 +491,15 @@
   "CT": {
    "name": "Connecticut",
    "courses": 174,
-   "card": 0,
-   "confirmed": 0,
+   "card": 2,
+   "confirmed": 2,
    "pars": 135,
    "handicaps": 36,
    "tees": 1,
    "ratings": 0,
    "yardages": 1,
    "complete": 0,
-   "fixes": 0,
+   "fixes": 15,
    "reports": 0,
    "regions": {
     "ct-hartford-new-haven-eastern": {
@@ -513,21 +513,21 @@
      "ratings": 0,
      "yardages": 1,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 8,
      "reports": 0
     },
     "ct-western": {
      "name": "Fairfield County and Western Connecticut",
      "courses": 77,
-     "card": 0,
-     "confirmed": 0,
+     "card": 2,
+     "confirmed": 2,
      "pars": 61,
      "handicaps": 18,
      "tees": 0,
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 7,
      "reports": 0
     }
    }
@@ -565,29 +565,29 @@
   "DE": {
    "name": "Delaware",
    "courses": 46,
-   "card": 0,
-   "confirmed": 0,
+   "card": 1,
+   "confirmed": 1,
    "pars": 13,
    "handicaps": 5,
    "tees": 0,
    "ratings": 0,
    "yardages": 0,
    "complete": 0,
-   "fixes": 0,
+   "fixes": 13,
    "reports": 0,
    "regions": {
     "de-delaware": {
      "name": "Delaware",
      "courses": 46,
-     "card": 0,
-     "confirmed": 0,
+     "card": 1,
+     "confirmed": 1,
      "pars": 13,
      "handicaps": 5,
      "tees": 0,
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 13,
      "reports": 0
     }
    }
@@ -603,7 +603,7 @@
    "ratings": 0,
    "yardages": 1,
    "complete": 0,
-   "fixes": 0,
+   "fixes": 84,
    "reports": 0,
    "regions": {
     "fl-charlotte": {
@@ -617,7 +617,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 2,
      "reports": 0
     },
     "fl-collier": {
@@ -631,7 +631,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 4,
      "reports": 0
     },
     "fl-daytona": {
@@ -645,7 +645,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 5,
      "reports": 0
     },
     "fl-gainesville-ocala": {
@@ -659,7 +659,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 4,
      "reports": 0
     },
     "fl-heartland": {
@@ -673,7 +673,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 1,
      "reports": 0
     },
     "fl-jacksonville": {
@@ -687,7 +687,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 8,
      "reports": 0
     },
     "fl-lake": {
@@ -701,7 +701,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 4,
      "reports": 0
     },
     "fl-lee": {
@@ -715,7 +715,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 7,
      "reports": 0
     },
     "fl-manatee": {
@@ -729,7 +729,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 6,
      "reports": 0
     },
     "fl-miami-fort-lauderdale-keys": {
@@ -743,7 +743,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 3,
      "reports": 0
     },
     "fl-orlando-space-coast": {
@@ -757,7 +757,7 @@
      "ratings": 0,
      "yardages": 1,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 4,
      "reports": 0
     },
     "fl-palm-beach": {
@@ -771,7 +771,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 9,
      "reports": 0
     },
     "fl-panama-city-tallahassee": {
@@ -785,7 +785,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 3,
      "reports": 0
     },
     "fl-pasco-hernando": {
@@ -799,7 +799,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 2,
      "reports": 0
     },
     "fl-pensacola-emerald-coast": {
@@ -813,7 +813,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 7,
      "reports": 0
     },
     "fl-polk": {
@@ -827,7 +827,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 6,
      "reports": 0
     },
     "fl-sarasota": {
@@ -841,7 +841,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 3,
      "reports": 0
     },
     "fl-tampa-st-petersburg": {
@@ -855,7 +855,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 4,
      "reports": 0
     },
     "fl-treasure-coast": {
@@ -883,7 +883,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 2,
      "reports": 0
     }
    }
@@ -891,29 +891,29 @@
   "GA": {
    "name": "Georgia",
    "courses": 417,
-   "card": 0,
-   "confirmed": 0,
+   "card": 1,
+   "confirmed": 1,
    "pars": 116,
    "handicaps": 67,
    "tees": 2,
    "ratings": 0,
    "yardages": 2,
    "complete": 0,
-   "fixes": 0,
+   "fixes": 63,
    "reports": 0,
    "regions": {
     "ga-athens-augusta": {
      "name": "Athens, Augusta and East Georgia",
      "courses": 53,
-     "card": 0,
-     "confirmed": 0,
+     "card": 1,
+     "confirmed": 1,
      "pars": 17,
      "handicaps": 9,
      "tees": 0,
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 10,
      "reports": 0
     },
     "ga-atlanta": {
@@ -927,7 +927,7 @@
      "ratings": 0,
      "yardages": 1,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 9,
      "reports": 0
     },
     "ga-coast": {
@@ -941,7 +941,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 12,
      "reports": 0
     },
     "ga-cobb-northwest": {
@@ -955,7 +955,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 8,
      "reports": 0
     },
     "ga-north-mountains": {
@@ -969,7 +969,7 @@
      "ratings": 0,
      "yardages": 1,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 11,
      "reports": 0
     },
     "ga-south-metro-macon": {
@@ -983,7 +983,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 4,
      "reports": 0
     },
     "ga-southwest": {
@@ -997,7 +997,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 9,
      "reports": 0
     }
    }
@@ -1013,7 +1013,7 @@
    "ratings": 0,
    "yardages": 0,
    "complete": 0,
-   "fixes": 0,
+   "fixes": 1,
    "reports": 0,
    "regions": {
     "gu-guam": {
@@ -1027,7 +1027,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 1,
      "reports": 0
     }
    }
@@ -1035,29 +1035,29 @@
   "HI": {
    "name": "Hawaii",
    "courses": 126,
-   "card": 0,
-   "confirmed": 0,
+   "card": 1,
+   "confirmed": 1,
    "pars": 27,
    "handicaps": 17,
    "tees": 2,
    "ratings": 0,
    "yardages": 2,
    "complete": 0,
-   "fixes": 0,
+   "fixes": 29,
    "reports": 0,
    "regions": {
     "hi-hawaii": {
      "name": "Hawaii",
      "courses": 126,
-     "card": 0,
-     "confirmed": 0,
+     "card": 1,
+     "confirmed": 1,
      "pars": 27,
      "handicaps": 17,
      "tees": 2,
      "ratings": 0,
      "yardages": 2,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 29,
      "reports": 0
     }
    }
@@ -1073,7 +1073,7 @@
    "ratings": 0,
    "yardages": 1,
    "complete": 0,
-   "fixes": 0,
+   "fixes": 81,
    "reports": 0,
    "regions": {
     "ia-des-moines": {
@@ -1087,7 +1087,7 @@
      "ratings": 0,
      "yardages": 1,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 12,
      "reports": 0
     },
     "ia-east": {
@@ -1101,7 +1101,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 16,
      "reports": 0
     },
     "ia-north-central": {
@@ -1115,7 +1115,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 14,
      "reports": 0
     },
     "ia-northeast": {
@@ -1129,7 +1129,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 17,
      "reports": 0
     },
     "ia-northwest": {
@@ -1143,7 +1143,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 18,
      "reports": 0
     },
     "ia-southern": {
@@ -1157,7 +1157,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 4,
      "reports": 0
     }
    }
@@ -1173,7 +1173,7 @@
    "ratings": 0,
    "yardages": 2,
    "complete": 0,
-   "fixes": 0,
+   "fixes": 31,
    "reports": 0,
    "regions": {
     "id-idaho": {
@@ -1187,7 +1187,7 @@
      "ratings": 0,
      "yardages": 2,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 31,
      "reports": 0
     }
    }
@@ -1203,7 +1203,7 @@
    "ratings": 0,
    "yardages": 4,
    "complete": 0,
-   "fixes": 0,
+   "fixes": 102,
    "reports": 0,
    "regions": {
     "il-central": {
@@ -1217,7 +1217,7 @@
      "ratings": 0,
      "yardages": 4,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 8,
      "reports": 0
     },
     "il-chicago-cook": {
@@ -1231,7 +1231,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 27,
      "reports": 0
     },
     "il-dupage-fox-valley": {
@@ -1245,7 +1245,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 35,
      "reports": 0
     },
     "il-lake-mchenry": {
@@ -1259,7 +1259,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 23,
      "reports": 0
     },
     "il-metro-east-southern": {
@@ -1273,7 +1273,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 9,
      "reports": 0
     },
     "il-northwest": {
@@ -1743,16 +1743,16 @@
   "MI": {
    "name": "Michigan",
    "courses": 862,
-   "card": 109,
-   "confirmed": 109,
-   "pars": 379,
-   "handicaps": 217,
-   "tees": 111,
-   "ratings": 76,
-   "yardages": 108,
-   "complete": 67,
-   "fixes": 145,
-   "reports": 0,
+   "card": 137,
+   "confirmed": 137,
+   "pars": 392,
+   "handicaps": 237,
+   "tees": 138,
+   "ratings": 96,
+   "yardages": 135,
+   "complete": 87,
+   "fixes": 227,
+   "reports": 1,
    "regions": {
     "mi-detroit-ann-arbor": {
      "name": "Detroit, Ann Arbor and Downriver",
@@ -1765,35 +1765,35 @@
      "ratings": 28,
      "yardages": 42,
      "complete": 23,
-     "fixes": 65,
+     "fixes": 69,
      "reports": 0
     },
     "mi-flint-thumb": {
      "name": "Flint and the Thumb",
      "courses": 63,
-     "card": 7,
-     "confirmed": 7,
-     "pars": 26,
-     "handicaps": 20,
-     "tees": 7,
-     "ratings": 6,
-     "yardages": 7,
-     "complete": 6,
-     "fixes": 7,
+     "card": 12,
+     "confirmed": 12,
+     "pars": 29,
+     "handicaps": 23,
+     "tees": 12,
+     "ratings": 10,
+     "yardages": 12,
+     "complete": 10,
+     "fixes": 13,
      "reports": 0
     },
     "mi-lansing-jackson": {
      "name": "Lansing and Jackson",
      "courses": 74,
-     "card": 0,
-     "confirmed": 0,
-     "pars": 22,
-     "handicaps": 8,
-     "tees": 0,
-     "ratings": 0,
-     "yardages": 0,
-     "complete": 0,
-     "fixes": 1,
+     "card": 10,
+     "confirmed": 10,
+     "pars": 27,
+     "handicaps": 17,
+     "tees": 10,
+     "ratings": 5,
+     "yardages": 10,
+     "complete": 5,
+     "fixes": 18,
      "reports": 0
     },
     "mi-macomb-blue-water": {
@@ -1807,7 +1807,7 @@
      "ratings": 13,
      "yardages": 20,
      "complete": 13,
-     "fixes": 26,
+     "fixes": 29,
      "reports": 0
     },
     "mi-north": {
@@ -1821,63 +1821,63 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 9,
      "reports": 0
     },
     "mi-northwest": {
      "name": "Traverse City and Northwest Michigan",
      "courses": 67,
-     "card": 0,
-     "confirmed": 0,
+     "card": 1,
+     "confirmed": 1,
      "pars": 15,
      "handicaps": 9,
      "tees": 0,
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 5,
      "reports": 0
     },
     "mi-oakland-livingston": {
      "name": "Oakland and Livingston",
-     "courses": 112,
+     "courses": 111,
      "card": 40,
      "confirmed": 40,
-     "pars": 82,
+     "pars": 81,
      "handicaps": 45,
      "tees": 40,
      "ratings": 29,
      "yardages": 39,
      "complete": 25,
-     "fixes": 46,
-     "reports": 0
+     "fixes": 50,
+     "reports": 1
     },
     "mi-saginaw-bay": {
      "name": "Saginaw Bay and Central Michigan",
-     "courses": 53,
-     "card": 0,
-     "confirmed": 0,
-     "pars": 20,
-     "handicaps": 8,
-     "tees": 0,
-     "ratings": 0,
-     "yardages": 0,
-     "complete": 0,
-     "fixes": 0,
+     "courses": 54,
+     "card": 11,
+     "confirmed": 11,
+     "pars": 26,
+     "handicaps": 15,
+     "tees": 11,
+     "ratings": 10,
+     "yardages": 11,
+     "complete": 10,
+     "fixes": 19,
      "reports": 0
     },
     "mi-southwest": {
      "name": "Southwest Michigan",
      "courses": 77,
-     "card": 0,
-     "confirmed": 0,
+     "card": 1,
+     "confirmed": 1,
      "pars": 36,
-     "handicaps": 16,
-     "tees": 0,
-     "ratings": 0,
-     "yardages": 0,
-     "complete": 0,
-     "fixes": 0,
+     "handicaps": 17,
+     "tees": 1,
+     "ratings": 1,
+     "yardages": 1,
+     "complete": 1,
+     "fixes": 7,
      "reports": 0
     },
     "mi-upper-peninsula": {
@@ -1891,7 +1891,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 4,
      "reports": 0
     },
     "mi-west": {
@@ -1905,7 +1905,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 4,
      "reports": 0
     }
    }
@@ -2717,7 +2717,7 @@
    "ratings": 0,
    "yardages": 1,
    "complete": 0,
-   "fixes": 0,
+   "fixes": 16,
    "reports": 0,
    "regions": {
     "oh-akron-canton": {
@@ -2731,7 +2731,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 3,
      "reports": 0
     },
     "oh-cincinnati": {
@@ -2759,7 +2759,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 1,
      "reports": 0
     },
     "oh-columbus": {
@@ -2773,7 +2773,7 @@
      "ratings": 0,
      "yardages": 1,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 3,
      "reports": 0
     },
     "oh-dayton": {
@@ -2787,7 +2787,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 2,
      "reports": 0
     },
     "oh-north-central": {
@@ -2815,7 +2815,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 4,
      "reports": 0
     },
     "oh-youngstown-ohio-valley": {
@@ -2829,7 +2829,7 @@
      "ratings": 0,
      "yardages": 0,
      "complete": 0,
-     "fixes": 0,
+     "fixes": 3,
      "reports": 0
     }
    }

@@ -1,31 +1,31 @@
 id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
 001ee97d-7dde-4dc4-b966-bd2c37e7b721,way/175370310,Delano Public Golf Course,,course,,,active,18,,,,,,,,,CA,,US,35.7574034,-119.2384535,2026-10-11T15:12:01Z
 003ddd2e-70f3-41b0-9b62-0b1a9fbbe50f,way/44501020,Marine Memorial Golf Course,,course,,private,active,,,,,+1-760-725-4653,https://www.mccscp.com/golf,,,,CA,,US,33.2705799,-117.3299559,2026-10-11T15:11:53Z
-006b6993-632e-4ae0-bfdb-92d5e6df9c86,way/940726601,Teal Bend Golf Course,,course,,,active,18,73,,,,,,,,CA,,US,38.6971765,-121.617254,2026-10-11T15:12:23Z
+006b6993-632e-4ae0-bfdb-92d5e6df9c86,way/940726601,Teal Bend Golf Course,,course,,,active,18,73,,,,https://www.tealbendgolf.com/,,,,CA,,US,38.6971765,-121.617254,2026-10-21T11:30:21Z
 007d280e-ebb8-4fe8-a9a6-c1e095f72a9c,way/43985334,Las Positas Golf Course,,course,,,active,18,,,,+1-925-455-7820,https://www.playlaspositas.com/,,917 Clubhouse Dr,Livermore,CA,94551,US,37.6967456,-121.8285632,2026-10-11T15:11:53Z
-007e7a28-e0ac-4139-9a34-d975ad2eb8c7,way/556556024,Simi Hills Golf Course,,course,,,active,18,72,,,,,,5031 Alamo Street,Simi Valley,CA,,US,34.2934043,-118.6907493,2026-10-11T13:30:51Z
+007e7a28-e0ac-4139-9a34-d975ad2eb8c7,way/556556024,Simi Hills Golf Course,,course,,,active,18,72,,,,https://www.simihillsgolf.com/,,5031 Alamo Street,Simi Valley,CA,,US,34.2934043,-118.6907493,2026-10-20T11:38:29Z
 008107ea-157e-4fe7-836c-43ef43107bd8,way/1137888322,,,course,,,active,,,,,,,,,,CA,,US,32.9448005,-117.2052384,2026-10-11T15:12:27Z
 008f440b-4301-43b0-81f1-e9aabf8ba700,way/771988451,The Golf Center,,course,,,active,,,,,,,,,,CA,,US,33.7367936,-116.3624549,2026-10-11T15:12:21Z
 00b25f23-b773-4071-95fb-1f1e2b891a4e,relation/4080572,Seven Hills Golf Club,,course,,,active,,,,,+1-951-925-4815,https://www.golfsevenhills.com/,,1537 South Lyon Avenue,Hemet,CA,92543,US,33.7215071,-116.995881,2026-10-11T13:31:27Z
 00baedb0-8b3f-4b3d-b897-b09a465503d0,relation/3573744,Sunset Hills Country Club,,course,,private,active,18,71,,,+1-805-495-6484,https://www.sunsethillsclub.com/,,,,CA,,US,34.2370533,-118.8493323,2026-10-11T15:12:33Z
-00e7a0b5-464e-4b34-a221-5e49e8f019d2,way/247046075,Bayonet Golf Course,,course,,,active,,,,,,,,1 McClure Way,Seaside,CA,93955,US,36.6322857,-121.8211228,2026-10-11T15:12:05Z
+00e7a0b5-464e-4b34-a221-5e49e8f019d2,way/247046075,Bayonet Golf Course,,course,,,active,,,,,,https://www.bayonetblackhorse.com,,1 McClure Way,Seaside,CA,93955,US,36.6322857,-121.8211228,2026-10-21T02:02:24Z
 01002d30-cfa2-41c9-bae0-d38dd99443c1,way/942401570,Cimarron Golf Club,,course,,,active,,,,,,,,,,CA,,US,33.8249938,-116.4837079,2026-10-11T15:12:23Z
 012d1ca2-1a95-41a0-882f-ae2196113dee,way/1153078486,,,course,,,active,,,,,,,,,,CA,,US,37.368809,-122.1992096,2026-10-11T15:12:27Z
 019a1868-71f0-4d02-9a96-a06d2aa5220d,relation/21475105,The Springs Country Club,,course,,,active,,,,,+1 760 324 8292,https://www.thespringsrm.com/,,1 Duke Drive,Rancho Mirage,CA,92270,US,33.7639304,-116.4168752,2026-10-11T15:06:54Z
-022bfef0-10bb-4a54-9b28-f24383e92336,relation/6779609,Yorba Linda Golf Course,,course,,,active,,,,,,,,,,CA,,US,33.8770199,-117.795547,2026-10-11T13:31:37Z
+022bfef0-10bb-4a54-9b28-f24383e92336,relation/6779609,Yorba Linda Golf Course,,course,,,active,,,,,,https://www.yorbalindaclub.com/,,,,CA,,US,33.8770199,-117.795547,2026-10-20T11:42:12Z
 027d4712-5783-467e-93ac-22a0a8058868,relation/3567086,California Oaks Golf Club,,course,,,active,,,,,,https://i-golfing.com/,,,,CA,,US,33.5804258,-117.2061935,2026-10-11T15:12:33Z
 0297e3fd-875a-4700-b7bf-9622867bbb4b,relation/19385787,Dryden Park Golf Course,,course,,,active,18,,,,+1-209-577-5359,https://www.modestogov.com/prnd/recreation/golf/dryden.asp,,920 South Sunset Avenue,Modesto,CA,95351,US,37.6141235,-121.0047459,2026-10-11T15:12:45Z
 02a8bd38-0b35-4f09-b616-b5c2af35cd98,relation/19216074,Silver Rock Resort Golf Club,,course,,,active,,,,,,,,,,CA,,US,33.6654098,-116.2810081,2026-10-11T15:12:45Z
-038334ce-b1ab-4779-ae81-579a662d7153,way/43702339,Dairy Creek Golf Course,,course,,,active,18,71,,,,,,,,CA,,US,35.3368065,-120.7323192,2026-10-11T13:29:44Z
+038334ce-b1ab-4779-ae81-579a662d7153,way/43702339,Dairy Creek Golf Course,,course,,,active,18,71,,,,https://dairycreekslo.com/,,,,CA,,US,35.3368065,-120.7323192,2026-10-20T11:31:10Z
 03d7bd21-8cf1-4532-b23b-e26e97436628,relation/289486,Valley Gardens Golf Course,,course,,,active,,,,,,,,,,CA,,US,37.0448988,-122.0335705,2026-10-11T15:12:30Z
-044bd0b9-9ce7-4d8b-a787-69b54be67636,way/44403517,Pine Mountain Golf Club,,course,,,active,9,30,,,,,,,,CA,,US,34.8535421,-119.1658333,2026-10-11T15:11:53Z
+044bd0b9-9ce7-4d8b-a787-69b54be67636,way/44403517,Pine Mountain Golf Club,,course,,,active,9,30,,,,https://pinemountainclub.com/,,,,CA,,US,34.8535421,-119.1658333,2026-10-20T11:36:06Z
 046d71a4-4805-4ddb-b156-38750498060e,way/43925978,Merced Golf & Country Club,,course,,,active,18,,,,,https://mercedgcc.com/,,6333 North Golf Road,Merced,CA,95340,US,37.38197,-120.4525125,2026-10-11T15:06:05Z
 04bcbe11-96df-4522-bbd7-019b284dc25d,way/65251672,Aliso Viejo Resort and Golf Course,,course,,,active,18,,,,,,,,,CA,,US,33.6015063,-117.7276956,2026-10-11T13:29:49Z
 05099599-6b12-4146-aae6-679614715e2c,way/44500748,San Vicente Golf Club,,course,,,active,18,73,,,+1-760-789-8290,https://www.sanvicenteresort.com/,,24157 San Vicente Road,Ramona,CA,92065,US,33.0011275,-116.8114959,2026-10-11T15:06:05Z
-055400af-b903-4c1c-8e27-b77ef24d61c9,way/44501514,National City Golf Course,,course,,,active,,,,,,,,,,CA,,US,32.666776,-117.0844082,2026-10-11T15:11:53Z
+055400af-b903-4c1c-8e27-b77ef24d61c9,way/44501514,National City Golf Course,,course,,,active,,,,,,https://www.nationalcitygc.com/,,,,CA,,US,32.666776,-117.0844082,2026-10-21T11:31:39Z
 055f834d-3fa6-45e8-80d5-8b94137800c5,way/60322421,Eureka Municipal Golf Course,,course,,,active,,,,,,,,,,CA,,US,40.758639,-124.1687211,2026-10-11T15:11:55Z
-05c22e87-c351-4279-a6f7-f1183591efe5,way/44402456,China Lake Golf Course,,course,,,active,9,36,,,,,,,,CA,,US,35.6616676,-117.6346165,2026-10-11T15:06:05Z
-0641ca9c-474c-4f41-9a8c-7e414c64d9b8,relation/7485605,Martis Camp Golf Course,,course,,private,active,,,,,,,,,,CA,,US,39.2863364,-120.1683766,2026-10-11T15:12:38Z
+05c22e87-c351-4279-a6f7-f1183591efe5,way/44402456,China Lake Golf Course,,course,,,active,9,36,,,,https://chinalake.navylifesw.com/,,,,CA,,US,35.6616676,-117.6346165,2026-10-20T11:35:50Z
+0641ca9c-474c-4f41-9a8c-7e414c64d9b8,relation/7485605,Martis Camp Golf Course,,course,,private,active,,,,,,https://www.martiscamp.com/,,,,CA,,US,39.2863364,-120.1683766,2026-10-21T11:30:03Z
 06466754-aa67-4772-9ff8-bdcfa9a78fa5,way/32828211,Spartan Golf Complex,,course,,,active,,,,,,https://www.sjsu.edu/spartangolfcomplex/,,579 East Alma Avenue,San Jose,CA,95112,US,37.322325,-121.8641602,2026-10-11T15:11:51Z
 0650d9d2-c013-4f3d-84ff-2867de7b3dd5,relation/3573319,Diablo Grande Golf & Country Club,,course,,,active,,,,,+1-209-892-4653,http://www.diablogrande.com/,,9521 Morton Davis Drive,Patterson,CA,95363,US,37.3980434,-121.2605884,2026-10-11T15:06:43Z
 07085abe-c4a9-4b57-96b8-74a1bae2a6c6,relation/13185713,Glen Ivy Golf Club,,course,,,active,18,72,,,+1 951-277-7900,https://www.glenivygolf.com/,,24400 Trilogy Pkwy,Corona,CA,92883,US,33.7678273,-117.4998791,2026-10-11T15:12:41Z
@@ -37,7 +37,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 08cef934-fb1b-4940-9e69-3ffff3f7bb28,way/44580717,Rancho Maria Golf Club,,course,,,active,,,,,+1-805-937-2019,https://www.ranchomariagolf.com/,,,,CA,,US,34.8714365,-120.4831863,2026-10-11T15:11:53Z
 091e377e-aede-4279-b80d-e6321f4dc3b5,way/184370701,Oakmoore Golf Course,,course,,private,active,,,,,+1-209-943-1983,https://www.oakmooregolfcourse.com/,,3737 North Wilson Way,Stockton,CA,95205,US,37.9930578,-121.2692058,2026-10-11T15:12:01Z
 09639d7f-8b55-4925-b05a-d5fbf9238daf,way/256916759,Los Verdes Golf Course,,course,,,active,18,71,,,+1-310-377-7888,https://www.losverdesgc.com/,,7000 W. Los Verdes Drive,Rancho Palos Verdes,CA,90275,US,33.7547311,-118.4001586,2026-10-11T15:12:05Z
-099527ef-ffc1-48f4-87fc-ea036b8443e6,way/969679887,Del Mar Country Club,,course,,,active,,,,,,,,6001 Clubhouse Drive,Rancho Santa Fe,CA,,US,32.9770174,-117.1931913,2026-10-11T13:31:06Z
+099527ef-ffc1-48f4-87fc-ea036b8443e6,way/969679887,Del Mar Country Club,,course,,,active,,,,,,https://www.delmarcountryclub.com/,,6001 Clubhouse Drive,Rancho Santa Fe,CA,,US,32.9770174,-117.1931913,2026-10-21T11:30:42Z
 09abe93e-8ad8-424b-909e-135933723e8f,way/777640309,"Taylormade ""The Kingdom"" Test Course",,course,,,active,,,,,,,,2155 Salk Avenue,,CA,,US,33.1384393,-117.2821784,2026-10-11T15:12:21Z
 0a981c7f-01d3-4751-a8f7-b7ce14d0c1ac,relation/7492897,Northstar Golf Course,,course,,,active,18,,,,+1-800-466-6784,https://www.northstarcalifornia.com/info/summer/golf.asp,,168 Basque Drive,Truckee,CA,96161,US,39.291793,-120.1176505,2026-10-11T15:12:38Z
 0b171660-ad23-44d4-b396-49e039372e7c,way/36858684,Carmel Valley Ranch Golf Course,,course,,,active,18,70,,,+1 831-620-6406,https://www.carmelvalleyranch.com/,,,,CA,,US,36.5172469,-121.8006639,2026-10-11T15:11:51Z
@@ -52,7 +52,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 0d6a904e-f147-47ab-944b-bb3f5bc69b23,way/582890304,Redwood Canyon Golf Course,,course,,,active,18,71,,,+1-510-537-8001,https://www.redwoodcanyongolf.com,,17007 Redwood Road,Castro Valley,CA,94546,US,37.7310802,-122.0838103,2026-10-11T15:12:20Z
 0d6dbbb0-8b12-40f9-aa6e-1e3170237f36,relation/3571339,RoadRunner Golf & Country Club (Borrego),,course,,,active,,,,,+1-760-767-5800,https://www.roadrunnerclub.com/,,,,CA,,US,33.2600695,-116.3611805,2026-10-11T13:31:22Z
 0d829c7a-e3d2-4ffe-810c-964f8e94ed33,way/44487060,Benbow Valley Golf Course,,course,,,active,,,,,,,,,,CA,,US,40.068339,-123.7847809,2026-10-11T15:11:53Z
-0d870a32-0f41-4194-84cf-f4d25eeac337,way/43702687,Pismo State Beach Golf Course,,course,,,active,,,,,,,,,,CA,,US,35.1257443,-120.6335692,2026-10-11T15:11:53Z
+0d870a32-0f41-4194-84cf-f4d25eeac337,way/43702687,Pismo State Beach Golf Course,,course,,,active,,,,,,https://pismobeachgolf.com/,,,,CA,,US,35.1257443,-120.6335692,2026-10-20T11:31:53Z
 0dc3d423-4488-44e1-b9aa-977ae089083f,way/189343772,Sevillano Links,,course,,,active,,,,,+1-530-528-4600,http://www.sevillanolinks.com/,,2657 Everett Freeman Way,Corning,CA,96021,US,39.8708502,-122.2119268,2026-10-11T15:12:01Z
 0dd7b13a-3d14-4ba0-a54d-4f3726271cf6,relation/2188590,Cresta Verde Golf Club,,course,,,active,18,72,,,+1-951-737-2255,https://www.golfcrestaverde.com/,,1295 Cresta Road,Corona,CA,92879,US,33.8879704,-117.5430887,2026-10-11T15:12:33Z
 0df9ae9e-74d3-4890-a57f-42e774973853,relation/3567147,Sierra Star Golf Course,,course,,,active,,,,,,https://www.mammothmountain.com/golf,,,,CA,,US,37.6418706,-118.9798013,2026-10-11T15:12:33Z
@@ -62,7 +62,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 0f107fcd-8467-4244-975a-02f6d839e422,relation/17267331,The Links at Terranea,,par3,,,active,9,27,,,+1-866-547-3066,https://www.terranea.com/golf?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing,,100 Terranea Way,Rancho Palos Verdes,CA,90275,US,33.7408781,-118.3976521,2026-10-11T15:12:43Z
 0f2cdcb5-62a5-4281-ba0c-298615bc921e,way/305757078,Rancho Duarte Golf Course,,course,,,active,9,31,,,+1-626-357-9981,https://www.ranchoduartegolfcourse.org,,1000 Las Lomas Road,Duarte,CA,91010,US,34.1407926,-117.9436275,2026-10-11T15:12:12Z
 0f4ac820-a68f-4ab4-8361-8f7eda27c0ba,way/326190902,El Caballero Country Club,,course,,private,active,18,71,,,+1-818-654-3000,https://elcaballerocc.com/,,18300 Tarzana Drive,Tarzana,CA,91356,US,34.1539137,-118.5347715,2026-10-11T15:12:12Z
-0f8c0878-05d7-4c8e-bb5c-ee78531d3e72,relation/19335344,Butte Creek Country Club,,course,,,active,18,,,,,,,,,CA,,US,39.683277,-121.7702168,2026-10-11T15:06:54Z
+0f8c0878-05d7-4c8e-bb5c-ee78531d3e72,relation/19335344,Butte Creek Country Club,,course,,,active,18,,,,,https://www.buttecreekcountryclub.com/,,,,CA,,US,39.683277,-121.7702168,2026-10-20T11:33:42Z
 0fb298c7-d9cc-451b-b9a3-602bc06bafd4,way/189343693,Wilcox Oaks Golf Course,,course,,private,active,,,,,+1-530-527-6680,https://www.wilcoxoaksgolfclub.com/,,20995 Wilcox Golf Road,Red Bluff,CA,96080,US,40.219171,-122.259361,2026-10-11T13:30:03Z
 0fd96c4c-8a05-4d8a-b676-894bcd6f0f14,way/44368078,Mace Meadows Golf Course,,course,,,active,,,,,,,,,,CA,,US,38.4530965,-120.5359884,2026-10-11T15:11:53Z
 0fdb796a-ada8-4324-866c-7716b7736f35,way/1550934667,,,course,,private,active,,,,,,,,,,CA,,US,37.5405505,-122.3361039,2026-10-11T15:12:30Z
@@ -70,22 +70,22 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 10a20d88-98a9-4dbe-ba90-6cc5a15e0b5b,way/44389887,Table Mtn Municipal Golf Course,,course,,,active,,,,,,,,,,CA,,US,39.4939155,-121.6271555,2026-10-11T13:29:44Z
 10f4d48e-f2f1-42ac-98fc-eb1832b07e32,way/209135536,Plumas Pines Golf Course,,course,,,active,,,,,+1-530-836-1420,https://plumaspinesgolf.com/,,,,CA,,US,39.7945313,-120.6516612,2026-10-11T15:12:03Z
 10f73c46-7938-430a-825f-d43c2ab35513,way/44486277,Golden Era Golf Course,,course,,,active,,,,,,,,,,CA,,US,33.8268805,-116.9810744,2026-10-11T15:11:53Z
-11152c71-c13b-496f-8f8f-82b13813270c,way/44580821,The Mission Club,,course,,,active,,,,,,,,,,CA,,US,34.7127871,-120.4558995,2026-10-11T15:11:53Z
+11152c71-c13b-496f-8f8f-82b13813270c,way/44580821,The Mission Club,,course,,,active,,,,,,https://missionclubgolf.com/,,,,CA,,US,34.7127871,-120.4558995,2026-10-20T11:33:14Z
 111835b1-05f7-4988-b34a-65b3e9875644,way/1133902159,,,course,,private,active,,,,,,,,,,CA,,US,37.6965349,-121.8537538,2026-10-11T15:06:36Z
 11720848-35ec-4ec9-8883-2525db246bc3,way/753438873,Lomas Santa Fe Executive Golf Course,,course,,,active,18,56,,,+1-858-755-0195,https://www.lomassantafegc.com/,,1580 Sun Valley Road,Solana Beach,CA,92075,US,33.0018059,-117.243379,2026-10-11T15:06:33Z
 117fa795-b66d-4ba4-b601-d04b064666cb,way/70943563,Altadena Golf Course,,course,,,active,9,36,,,+1-626-797-3821,https://www.playaltadena.com/,,1456 E Mendocino St,Altadena,CA,91001,US,34.1826972,-118.1195379,2026-10-11T15:11:55Z
-11edc4b8-6a90-4174-8a96-1338e8888a05,way/158665487,Santa Ana Country Club,,course,,,active,18,,,,,,,,,CA,,US,33.6657405,-117.8887345,2026-10-11T15:12:01Z
+11edc4b8-6a90-4174-8a96-1338e8888a05,way/158665487,Santa Ana Country Club,,course,,,active,18,,,,,https://www.santaanacc.org/,,,,CA,,US,33.6657405,-117.8887345,2026-10-20T11:42:04Z
 11ef69e8-ed2c-4a69-8006-5456e9cdef6c,relation/3573722,Seven Oaks Golf & Country Club at Grand Island,,course,,,active,,,,,+1-661-664-6404,https://www.sevenoakscountryclub.com/,,2000 Grand Lakes Avenue,Bakersfield,CA,93311,US,35.3325255,-119.1277453,2026-10-11T15:12:33Z
-12af49de-8a40-4c7f-b69a-9ef382c0bfcb,relation/3016003,Escena Golf Club,,course,,,active,18,,,,,,,,,CA,,US,33.8347852,-116.4980709,2026-10-11T15:12:33Z
+12af49de-8a40-4c7f-b69a-9ef382c0bfcb,relation/3016003,Escena Golf Club,,course,,,active,18,,,,,https://escenagolf.com/,,,,CA,,US,33.8347852,-116.4980709,2026-10-20T11:43:00Z
 12c1e45e-732d-49d1-98c7-3d5ce65630c1,way/1208653921,Sequoyah Country Club,,course,,,active,18,,,,+1 510-632-2900,https://www.sequoyahcc.com/,,4550 Heafey Road,Oakland,CA,94605,US,37.7651065,-122.1350325,2026-10-11T15:12:27Z
-13053ac3-94aa-4f4b-877c-0cef03a827c7,relation/7497157,Oasis Country Club Golf Course,,course,,,active,,,,,,,,,,CA,,US,33.7400845,-116.325681,2026-10-11T15:12:38Z
-13151e2e-fe46-4f76-9bc2-491ca2efd383,way/94482998,Cottonwood Golf Club,,course,,,active,,,,,,,,,,CA,,US,32.7464624,-116.9154489,2026-10-11T15:11:55Z
+13053ac3-94aa-4f4b-877c-0cef03a827c7,relation/7497157,Oasis Country Club Golf Course,,course,,,active,,,,,,https://www.theoasiscountryclub.com/,,,,CA,,US,33.7400845,-116.325681,2026-10-21T11:27:46Z
+13151e2e-fe46-4f76-9bc2-491ca2efd383,way/94482998,Cottonwood Golf Club,,course,,,active,,,,,,https://cottonwoodgolf.com/,,,,CA,,US,32.7464624,-116.9154489,2026-10-21T11:30:40Z
 13221374-f22c-45f4-aae9-9caf4c323477,way/366756761,Smoke Tree Ranch Pitch & Putt,,par3,,,active,,,,,+1-800-787-3922,https://www.smoketreeranch.com/,,,,CA,,US,33.79805,-116.525558,2026-10-11T15:06:26Z
 133cdc96-e037-4e9b-9ad0-816d5e937b2a,relation/294803,Boulder Creek Golf & Country Club,,course,,,active,,,,,+1-831-338-2121,https://www.bouldercreekgolf.com/,,16901 Big Basin Highway,Boulder Creek,CA,95006,US,37.153233,-122.162803,2026-10-11T15:12:30Z
 134af7dd-6c3a-4820-addb-aa4d2b8cf7d3,relation/4076512,Green Tree Golf Course,,course,,,active,18,,,,+1-760-245-4860,https://www.victorvillegolf.com/,,14144 Green Tree Boulevard,Victorville,CA,92395,US,34.5057568,-117.3148964,2026-10-11T15:12:35Z
 135594c9-9fe1-4563-a4f0-49e5aeb57f37,way/213565038,Strawberry Farms Golf Club,,course,,,active,18,71,,,+1-949-551-1811,https://www.sf-golf.com/,,11 Strawberry Farms Road,Irvine,CA,92612,US,33.6468346,-117.7997764,2026-10-11T15:12:03Z
 136530a8-3476-492d-af4b-b20e601d8636,way/43701467,Sea Pines Golf Course,,course,,,active,,,,,,,,,,CA,,US,35.3148168,-120.8566114,2026-10-11T15:11:53Z
-13d2289b-64a4-4464-9bed-adeb7c7ffb93,way/1230883066,Ocean Hills Country Club,,course,,,active,18,55,,,+1-760-758-7080,,,4600 Leisure Village Way,Oceanside,CA,92056,US,33.160127,-117.2635397,2026-10-11T15:12:27Z
+13d2289b-64a4-4464-9bed-adeb7c7ffb93,way/1230883066,Ocean Hills Country Club,,course,,,active,18,55,,,+1-760-758-7080,https://www.oceanhillsliving.com/,,4600 Leisure Village Way,Oceanside,CA,92056,US,33.160127,-117.2635397,2026-10-21T11:31:56Z
 13f9f54a-885d-48d2-9983-7b187655e010,way/1134180347,The Institute LLC,,course,,private,active,,,,,+1-408-782-7101,,,,,CA,,US,37.1150012,-121.5895522,2026-10-11T15:12:24Z
 1402b0f8-c454-4e9f-8171-d8abfa505854,way/23631855,Baylands Golf Links,,course,,,active,18,71,,,+1-650-856-0881,https://www.baylandsgolflinks.com/,,1875 Embarcadero Rd,Palo Alto,CA,94303,US,37.4574075,-122.1189138,2026-10-11T15:11:48Z
 1454e09f-ce76-498b-90a2-1464afe537a5,way/476442702,,,course,,,active,,,,,,,,,,CA,,US,32.6888579,-117.123274,2026-10-11T15:12:17Z
@@ -102,12 +102,12 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 15845470-7c70-47f3-bde9-788cf7c530f7,relation/16036393,Wilson Golf Course,,course,,,active,,,,,,https://golf.lacity.org/course_wilson/,,5500 Griffith Park Drive,Los Angeles,CA,90027,US,34.1387374,-118.2827098,2026-10-11T15:12:43Z
 1593addb-f2a6-4089-abe7-f6619e9eea1b,way/305643538,Vista Valencia Golf Course,,course,,,active,,,,,+1-661-253-1870,https://www.vistavalenciagc.com/,,24700 Trevino Drive,Valencia,CA,91355,US,34.3860523,-118.5640456,2026-10-11T13:30:33Z
 15e0749e-adf4-474f-8119-b90445deec06,relation/7406504,Old Brockway Golf Club,,course,,,active,,,,,+1-530-546-9909,https://www.oldbrockway.com/,,400 Brassie Avenue,Tahoe Vista,CA,96143,US,39.2417843,-120.0358513,2026-10-11T15:12:38Z
-15eb226a-0963-4fb4-bf43-3369fd837e22,way/32684755,Buenaventura Golf Course,,course,,,active,18,72,,,,,,,,CA,,US,34.2401162,-119.2073953,2026-10-11T15:11:51Z
+15eb226a-0963-4fb4-bf43-3369fd837e22,way/32684755,Buenaventura Golf Course,,course,,,active,18,72,,,,https://buenaventuragolf.com/,,,,CA,,US,34.2401162,-119.2073953,2026-10-20T11:36:42Z
 162eced5-ca63-427e-ab15-a01c462dc6e4,way/44288872,,,course,,,active,,,,,,,,,,CA,,US,34.230321,-119.0918438,2026-10-11T15:11:53Z
 1632f5de-29aa-4855-9c83-e6b3fce6d891,way/146843110,Grizzly Ranch Club,,course,,,active,,,,,,https://www.grizzlyranch.com/,,,,CA,,US,39.843924,-120.4185218,2026-10-11T15:12:00Z
 1658ec21-f0cc-486f-a1c0-69b9c21406cb,relation/4071462,Serrano Country Club,,course,,,active,18,,,,+1 916-933-5005,https://serranocountryclub.org/,,5005 Serrano Parkway,El Dorado Hills,CA,95762,US,38.685679,-121.0468149,2026-10-11T15:12:35Z
-1688b968-4a36-42bf-909e-28fc5e8cd549,way/27028813,Gavilan Golf Course,,course,,,active,,,,,,,,,,CA,,US,36.9669954,-121.5651227,2026-10-11T15:11:49Z
-168d13b0-2f3d-40f1-997f-1d18b2f63356,way/426419472,Red Hill Country Club,,course,,,active,18,72,,,,,,,,CA,,US,34.1127604,-117.6251627,2026-10-11T13:30:44Z
+1688b968-4a36-42bf-909e-28fc5e8cd549,way/27028813,Gavilan Golf Course,,course,,,active,,,,,,https://www.gavilangolfcourse.com/,,,,CA,,US,36.9669954,-121.5651227,2026-10-21T11:34:34Z
+168d13b0-2f3d-40f1-997f-1d18b2f63356,way/426419472,Red Hill Country Club,,course,,,active,18,72,,,,https://www.redhillcc.com/,,,,CA,,US,34.1127604,-117.6251627,2026-10-20T11:41:42Z
 169aea61-0daa-41b2-b2c8-4cb4568eb6f2,way/247383537,Ridge Creek Dinuba Golf Club,,course,,,active,18,72,,,+1-877-465-3891; +1-559-591-2254,https://www.golfridgecreek.com/,,3018 Ridge Creek Drive,Dinuba,CA,93618,US,36.5388163,-119.4349292,2026-10-11T13:30:12Z
 16a99d51-9e72-4013-8f03-38271879fa2d,way/35679009,Torrey Pines North Course,,course,,,active,,,,,,https://www.torreypines.com/torrey-pines-north-course/,https://www.torreypines.com/wp-content/uploads/2020/11/TPN_11-24-20.pdf,11480 N Torrey Pines Rd,La Jolla,CA,92037,US,32.9087097,-117.2489801,2026-10-11T19:11:22Z
 16c807d5-c7ce-4130-922a-39b8bed29d06,relation/19223852,TPC Stadium Golf Course (PGA West),,course,,,active,,,,,+1-800-742-9378,http://www.pgawest.com/,,,,CA,,US,33.6496932,-116.2589392,2026-10-11T15:12:45Z
@@ -116,12 +116,12 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 17731410-4c86-4fb8-a928-89138bce30eb,way/27768470,Iron-Wood Nine Golf Course,,course,,,active,9,29,,,+1-562-916-8400,http://www.cerritos.us/RESIDENTS/recreation/facilities/iron_wood_nine_golf_course.php,,16449 Piuma Ave,Cerritos,CA,,US,33.8795423,-118.1062435,2026-10-11T13:29:34Z
 180b3175-efe1-4ba3-b44e-9748fad0e2ac,way/38834429,Rancho Del Pueblo Golf Course,,course,,,active,9,,,,+1-408-347-0990,https://www.ranchodelpueblo.com/,,1649 Hermocilla Way,San Jose,CA,95116,US,37.3459635,-121.8534245,2026-10-11T15:11:51Z
 18731a72-ebfa-4866-9ba2-203cf48256cb,relation/17764514,Tahoe City Golf Course,,course,,,active,9,33,,,+1-530-583-1516,https://www.playtcgc.com/,,251 North Lake Boulevard,Tahoe City,CA,96145,US,39.1707476,-120.1448868,2026-10-11T15:12:45Z
-18ce4258-7095-4232-bafe-9d263810c889,way/27927779,The Club at Crazy Horse Ranch,,course,,,active,18,72,,,,,,475 San Juan Grade Road,Salinas,CA,93906,US,36.7471615,-121.633968,2026-10-11T15:11:49Z
-18e497cf-76a2-45df-99df-b9dbf5ce2d66,way/703324846,Black Horse Golf Course,,course,,,active,,,,,,,,1 McClure Way,Seaside,CA,93955,US,36.627584,-121.8208528,2026-10-11T15:12:21Z
+18ce4258-7095-4232-bafe-9d263810c889,way/27927779,The Club at Crazy Horse Ranch,,course,,,active,18,72,,,,https://clubatcrazyhorse.com,,475 San Juan Grade Road,Salinas,CA,93906,US,36.7471615,-121.633968,2026-10-21T02:04:21Z
+18e497cf-76a2-45df-99df-b9dbf5ce2d66,way/703324846,Black Horse Golf Course,,course,,,active,,,,,,https://www.bayonetblackhorse.com/,,1 McClure Way,Seaside,CA,93955,US,36.627584,-121.8208528,2026-10-21T02:03:15Z
 18ebab67-e113-4f8e-a924-f84fd084e4b9,way/1246204999,,,practice,,,active,,,,,,,,,,CA,,US,33.0026878,-117.0700505,2026-10-11T15:06:39Z
 1913302e-aba5-4282-a1f7-d460a55e1edb,relation/3568809,Talega Golf Club,,course,,,active,,,,,+1 949-369-6226,https://www.talegagolfclub.com/,,,,CA,,US,33.4686977,-117.5896878,2026-10-11T15:12:33Z
 195c47b1-756d-41bb-8888-f2bf2df83351,relation/3570886,Wildhorse Golf Club,,course,,,active,18,72,,,+1-530-753-4900,http://wildhorsegolfclub.com/,,2323 Rockwell Drive,Davis,CA,95616,US,38.5696772,-121.7219387,2026-10-11T15:12:33Z
-19bef06d-92a8-4cc0-b6aa-4df3b0141796,relation/21507548,Caliente Springs,,course,,,active,,,,,,,,,,CA,,US,33.9296814,-116.438336,2026-10-11T15:12:45Z
+19bef06d-92a8-4cc0-b6aa-4df3b0141796,relation/21507548,Caliente Springs,,course,,,active,,,,,,https://www.calientesprings.com/,,,,CA,,US,33.9296814,-116.438336,2026-10-20T11:42:26Z
 19ffbf86-ad79-4e49-9da6-c97c6bc55240,way/28749668,DeLaveaga Golf Course,,course,,,active,18,70,,,+1-831-423-7214,https://www.delaveagagolf.com/,,401 Upper Park Road,Santa Cruz,CA,95065,US,36.9975141,-122.0007526,2026-10-11T13:29:34Z
 1a1aefb6-c613-481d-8759-9c2f80cc6337,way/165438695,Ridge Golf Course,,course,,,active,18,71,,,+1-530-888-7888,https://www.ridgegc.com/,,2020 Golf Course Road,Auburn,CA,95602,US,38.9460955,-121.0721774,2026-10-11T15:12:01Z
 1a30d17b-d716-457d-9d62-3530509401a1,relation/21023773,The Hideaway (Pete Dye & Clive Clark Courses),,course,,,active,18,,,,+1-760-777-7400,https://www.hideawaygolfclub.com/,,,,CA,,US,33.6636668,-116.2595763,2026-10-11T15:06:54Z
@@ -129,11 +129,11 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 1a7f6558-1e38-419f-977c-04f54b576f28,way/145659381,Yocha Dehe Golf Club,,course,,,active,18,72,,,,https://yochadehegolfclub.com/,,,,CA,,US,38.7377003,-122.1313008,2026-10-11T15:12:00Z
 1aa39c1b-ca3d-4e38-8f71-839b53ca844a,way/52014948,Porcupine Creek,,course,,private,active,18,73,,,,,,,,CA,,US,33.7346691,-116.4226473,2026-10-11T15:11:53Z
 1ac6ae9a-7de2-4b19-a60d-85ca2a291ef8,way/61700453,Sunnyside Country Club,,course,,private,active,18,72,,,+1-559-251-6011,https://www.sunnyside-cc.com/,,5704 East Butler Avenue,Fresno,CA,93727,US,36.7258313,-119.6889293,2026-10-11T15:11:55Z
-1af17d16-dc2d-4fee-8baa-33afae06bdf0,relation/12669482,Sunrise Country Club,,course,,,active,,,,,,,,,,CA,,US,33.7524887,-116.4139519,2026-10-11T15:12:41Z
+1af17d16-dc2d-4fee-8baa-33afae06bdf0,relation/12669482,Sunrise Country Club,,course,,,active,,,,,,https://www.sunrisecountryclub.com/,,,,CA,,US,33.7524887,-116.4139519,2026-10-21T11:29:03Z
 1b278fd3-1df9-4ed3-8f03-e52ee43ca167,relation/7497811,Palm Valley Country Club,,course,,private,active,,,,,+1-760-345-2737,https://www.palmvalley-cc.com/,,39205 Palm Valley Drive,Palm Desert,CA,92211,US,33.7654582,-116.3317979,2026-10-11T15:12:38Z
 1bae2adb-d7c0-4bdd-9d34-0e535acf94db,way/117047576,Meadowood Golf Club,,course,,,active,,,,,,,,,,CA,,US,38.5247297,-122.4685243,2026-10-11T15:06:10Z
 1c218830-a1ef-42e1-84d8-ce801263e2cf,way/130538534,Fairbanks Ranch Country Club,,course,,,active,,,,,+1 858-259-8811,http://www.fairbanksranch.com/,,15150 San Dieguito Road,Rancho Santa Fe,CA,92067,US,32.9795623,-117.2174863,2026-10-11T15:11:57Z
-1c42a081-943f-4d96-88af-914ef433a22d,way/44043742,Brooktrails Golf Course,,course,,,active,,,,,,,,,,CA,,US,39.4404865,-123.387549,2026-10-11T13:29:44Z
+1c42a081-943f-4d96-88af-914ef433a22d,way/44043742,Brooktrails Golf Course,,course,,,active,,,,,,https://www.brooktrailsgolf.com/,,,,CA,,US,39.4404865,-123.387549,2026-10-20T11:40:25Z
 1c4a0f92-fad8-481b-8d55-0165787b4657,way/44501177,Lake San Marcos Executive Golf Course,,course,,,active,18,58,,,+1-877-526-2671,https://www.thelakehouseresort.com/san-marcos-golf,,1025 La Bonita Drive,San Marcos,CA,92078,US,33.1209595,-117.2170824,2026-10-11T15:11:53Z
 1c77a088-c66e-4020-a7fe-02fb9329d95b,way/135246269,Desert Aire Golf Course,,course,,,active,,,,,+1-661-538-0370,https://www.desertairegolfcourse.com/,,3620 East Avenue P,Palmdale,CA,93550,US,34.6001772,-118.0619697,2026-10-11T15:11:57Z
 1d1cf81e-1dce-4784-9759-bcf2254e0a1c,way/100010941,Diamond Bar Golf Course,,course,,,active,,,,,+1-909-861-8282,https://www.diamondbargc.com/,,22751 Golden Springs Drive,Diamond Bar,CA,91765,US,34.0110547,-117.8213936,2026-10-11T15:11:55Z
@@ -163,18 +163,18 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 240b5922-93d0-4722-b97f-d25c3b075d3e,relation/3568825,Cathedral Canyon Golf Club,,course,,,active,,,,,+1-760-328-6571,https://www.cathedral-canyon.com/,,68311 Paseo Real,Rancho Mirage,CA,92234,US,33.7940736,-116.4677091,2026-10-11T15:06:43Z
 245d409a-c8db-47d4-a322-8b30d6e854fb,way/28773520,Mission Hills of Hayward Golf Course,,course,,,active,9,30,,,+1-510-888-0200,https://www.missionhillsgc.com/,,75 Industrial Parkway,Hayward,CA,94544,US,37.62545,-122.0459353,2026-10-11T15:11:49Z
 24914376-1e58-458e-84f6-d1a1d0e27639,way/45895011,Palos Verdes Golf Club,,course,,,active,18,70,,,+1-310-375-2533,https://www.pvgc.com/,,3301 Via Campesina,Palos Verdes Estates,CA,90274,US,33.7982985,-118.3757102,2026-10-11T15:11:53Z
-24c2bafa-fb3f-4362-908c-66138c8d44ed,relation/12669574,Heritage Palms Country Club,,course,,,active,,,,,,,,,,CA,,US,33.7290004,-116.2614472,2026-10-11T15:12:41Z
+24c2bafa-fb3f-4362-908c-66138c8d44ed,relation/12669574,Heritage Palms Country Club,,course,,,active,,,,,,https://www.heritagepalmsindio.com/,,,,CA,,US,33.7290004,-116.2614472,2026-10-21T11:26:30Z
 2537db29-6a29-4b98-ab3b-5d3686cb29f4,way/134191816,San Jose Country Club,,course,,private,active,,,,,+1-408-258-4901,https://www.sanjosecountryclub.org/,,15571 Alum Rock Avenue,San Jose,CA,95127,US,37.3859286,-121.822186,2026-10-11T15:11:57Z
 2594883a-ea0a-485f-a3d8-cc2c090755e5,way/208149182,Bixby Village Golf Course,,course,,,active,9,30,,,+1-562-498-7003,https://www.bixbyvillagegolfcourse.com/,,6180 Bixby Village Drive,Long Beach,CA,90803,US,33.7699444,-118.1137676,2026-10-11T15:12:03Z
 25a974f1-d5b5-4aaf-9b0d-314aeacaac69,relation/12772910,Morongo Golf Club at Tukwet Canyon,,course,,,active,,,,,,,,,,CA,,US,33.9516256,-117.0365812,2026-10-11T15:12:41Z
 25e943da-e509-42f2-8b37-e80567ca3f2c,relation/4078589,Sierra La Verne Country Club,,course,,,active,18,71,,,+1-909-596-2100,https://www.sierralavernecc.com/,,6300 Country Club Drive,La Verne,CA,91750,US,34.1395395,-117.7638971,2026-10-11T15:12:35Z
-25faf42b-cfe5-4199-bde1-ec04f4d8ba5e,way/168460622,Coyote Moon Golf Course,,course,,,active,18,72,,,,,,,,CA,,US,39.3330744,-120.2055354,2026-10-11T13:30:03Z
-265a7933-fa21-40b1-9a78-0b4219bb14d4,relation/19305773,Half Moon Bay Golf Links - The Ocean Course,,course,,,active,,,,,,,,,,CA,,US,37.4291833,-122.434218,2026-10-11T15:12:45Z
+25faf42b-cfe5-4199-bde1-ec04f4d8ba5e,way/168460622,Coyote Moon Golf Course,,course,,,active,18,72,,,,https://www.coyotemoongolf.com/,,,,CA,,US,39.3330744,-120.2055354,2026-10-20T11:33:48Z
+265a7933-fa21-40b1-9a78-0b4219bb14d4,relation/19305773,Half Moon Bay Golf Links - The Ocean Course,,course,,,active,,,,,,https://halfmoonbaygolf.com/,,,,CA,,US,37.4291833,-122.434218,2026-10-21T11:34:35Z
 269caffd-9d93-48c0-8e4e-469b9b0aa7b1,relation/12830334,Rolling Hills Country Club,,course,,private,active,,,,,+1-310-326-4343,https://www.rollinghillscc.com/,,27000 Palos Verdes Drive East,Rolling Hills Estates,CA,90274,US,33.7804509,-118.3274786,2026-10-11T15:12:41Z
 27595f08-8987-4159-bfc1-8a957230a404,way/45146686,Tilden Park Golf Course,,course,,,active,18,70,,,,https://www.tildenparkgc.com,,10 Golf Course Drive,Berkeley,CA,94708,US,37.8893572,-122.2420374,2026-10-11T15:11:53Z
-28314071-080c-4538-9503-08959cb27b51,way/28485119,Pruneridge Golf Club,,course,,,active,9,30,,,,,,,,CA,,US,37.3324749,-121.9650504,2026-10-11T15:11:49Z
+28314071-080c-4538-9503-08959cb27b51,way/28485119,Pruneridge Golf Club,,course,,,active,9,30,,,,https://pruneridgegolfclub.com/,,,,CA,,US,37.3324749,-121.9650504,2026-10-21T11:34:47Z
 2865b72e-617b-43dd-9bb1-683acb980622,relation/3568813,San Juan Hills Golf Club,,course,,,active,,,,,+1-949-493-1167,https://www.sanjuanhillsgolf.com/,,,,CA,,US,33.4941051,-117.6531425,2026-10-11T13:31:22Z
-286b8f60-06db-4b10-966b-86df3d48a2c0,relation/12551122,Portola Country Club,,course,,,active,,,,,,,,,,CA,,US,33.7405444,-116.369467,2026-10-11T15:06:51Z
+286b8f60-06db-4b10-966b-86df3d48a2c0,relation/12551122,Portola Country Club,,course,,,active,,,,,,http://www.portolacountryclub.com/,,,,CA,,US,33.7405444,-116.369467,2026-10-22T11:21:39Z
 28ab7872-6cab-414b-bf6d-ecec503b85d6,relation/3569001,Wilshire Country Club,,course,,private,active,18,71,,,+1-323-934-1121,https://www.wilshirecc.org/,,,,CA,,US,34.0760865,-118.3307238,2026-10-11T15:12:33Z
 28f8e049-bb73-4d61-9151-04853377752b,relation/326310,California Golf & Art Country Club,,course,,,active,,,,,+1 951-679-1182,http://www.calgolfandart.com/,,26583 Cherry Hills Boulevard,Sun City,CA,92586,US,33.703255,-117.200721,2026-10-11T15:12:30Z
 290d8c83-192a-4360-b94c-fbcd9041da33,relation/3570262,Hidden Valley Lake Golf Course,,course,,,active,,,,,+1-707-987-3035,https://www.golfhvl.com/,,19210 Hartmann Rd.,Hidden Valley Lake,CA,95467,US,38.798363,-122.5552756,2026-10-11T15:06:43Z
@@ -182,7 +182,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 2941e87f-c6c3-4d56-a3ae-59e04da8351e,way/44501325,,,course,,,active,,,,,,,,,,CA,,US,32.996394,-117.0729746,2026-10-11T15:11:53Z
 2a1104a0-7088-4753-b87f-36b22938973f,way/31226073,Eaton Canyon Golf Course,,course,,,active,9,35,,,+1-626-794-6773,https://www.playeatoncanyon.com/,,1150 N. Sierra Madre Villa Ave.,Pasadena,CA,91107,US,34.1662154,-118.0820801,2026-10-11T15:11:49Z
 2a3677cf-5ddf-4e79-8d09-460f1009daf4,way/323172257,Mt. Woodson Golf Club,,course,,,active,18,70,,,+1-760-788-3555,https://www.mtwoodsongolfclub.com/,,16422 N. Woodson Dr.,Ramona,CA,92065,US,33.015024,-116.9610679,2026-10-11T15:12:12Z
-2ab98fa4-beb2-4c45-9cd3-1a0c25853e34,way/147945598,Bradshaw Ranch Golf Course,,par3,,,active,9,27,,,,,,7350 Bradshaw Road,Sacramento,CA,95829,US,38.4907504,-121.3373689,2026-10-11T15:12:00Z
+2ab98fa4-beb2-4c45-9cd3-1a0c25853e34,way/147945598,Bradshaw Ranch Golf Course,,par3,,,active,9,27,,,,https://bradshawranchgolf.com/,,7350 Bradshaw Road,Sacramento,CA,95829,US,38.4907504,-121.3373689,2026-10-21T11:29:43Z
 2adb2178-db73-447d-8343-8c054438c7c1,way/305767575,Glen Oaks Golf & Learning Center,,par3,,,active,9,27,,,+1-626-335-7565,https://glenoaksglc.com/,,200 West Dawson Avenue,Glendora,CA,91740,US,34.1157896,-117.8657915,2026-10-11T15:12:12Z
 2b7282a4-f827-474d-a7e6-e666d2b3b7e9,relation/3735652,The Springs at Borrego,,course,,,active,,,,,+1-866-330-0003,https://www.springsatborrego.com/,,,,CA,,US,33.2666421,-116.3616043,2026-10-11T15:12:33Z
 2bb867ef-886b-4f6c-84a3-d0d26e3928a3,way/44486505,General Old Golf Course,,course,,,active,18,72,,,+1-951-697-6690,https://www.generaloldgolfcourse.com/,,"16700 Village West Drive,",March Air Reserve Base,CA,92518,US,33.8749576,-117.2804682,2026-10-11T15:11:53Z
@@ -195,8 +195,8 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 2e1b507e-6f79-439e-b221-7000959638f3,way/238036734,Monterey Peninsula Country Club - Dunes Course,,course,,,active,,,,,,https://www.mpccpb.org/,,,,CA,,US,36.6016846,-121.9477402,2026-10-11T15:12:03Z
 2e36e6f0-99a7-4e18-add2-00f601c2b1c4,way/711185923,,,course,,,active,,,,,,,,,,CA,,US,34.0436679,-117.8409045,2026-10-11T15:12:21Z
 2e8a41d4-4eef-4fa8-8a02-e0fb3c772081,way/127163587,Peach Tree Golf & Country Club,,course,,private,active,18,,,,+1-530-743-1897,https://www.peachtreecountryclub.com/,,,,CA,,US,39.1432709,-121.5415941,2026-10-11T15:06:10Z
-2e8f5001-b1c2-4901-acf5-32825217d9cf,way/31552224,Lone Tree Golf Course,,course,,,active,,,,,,,,,,CA,,US,37.9734803,-121.808938,2026-10-11T15:11:49Z
-2ed90ef7-a0fe-47f4-9f7d-70f464bfc84c,way/44486382,Oak Valley Golf Club,,course,,,active,,,,,,,,,,CA,,US,33.954352,-117.0005568,2026-10-11T15:11:53Z
+2e8f5001-b1c2-4901-acf5-32825217d9cf,way/31552224,Lone Tree Golf Course,,course,,,active,,,,,,https://www.lonetreegolfcourse.com/,,,,CA,,US,37.9734803,-121.808938,2026-10-21T11:33:39Z
+2ed90ef7-a0fe-47f4-9f7d-70f464bfc84c,way/44486382,Oak Valley Golf Club,,course,,,active,,,,,,https://www.oakvalleygolf.com/,,,,CA,,US,33.954352,-117.0005568,2026-10-21T11:27:40Z
 2eeee851-1d05-42f4-8923-529a74efa144,relation/19559718,Shady Canyon Golf Club,,course,,private,active,18,71,,,+1-949-856-7000,https://www.shadycanyongolfclub.com/,,100 Shady Canyon Drive,Irvine,CA,92603,US,33.6283494,-117.7919039,2026-10-11T15:12:45Z
 2f829b34-e8ab-4b26-bb25-405d7b989a27,way/1528352528,,,course,,private,active,,,,,,,,,,CA,,US,33.6179123,-117.5967296,2026-10-11T15:12:29Z
 2f98e3d3-117a-4702-ae14-1e638f06e774,relation/8205542,Old Greenwood Golf Course,,course,,,active,18,72,,,+1-530-550-7010,https://www.golfintahoe.com/Old_Greenwood,,12915 Fairway Drive,Truckee,CA,96161,US,39.3459943,-120.1513155,2026-10-11T15:12:38Z
@@ -215,7 +215,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 353d068e-e912-4087-84e9-ab9c73a9bf3e,relation/3581122,Jack Nicklaus Resort Golf Course,,course,,,active,,,,,+1-800-742-9378,http://www.pgawest.com/,,,,CA,,US,33.643923,-116.2514491,2026-10-11T15:12:33Z
 35621b19-f947-4ad4-a856-f3611552ecfa,way/198648425,DeBell Golf Club,,course,,,active,18,71,,,+1-818-845-0022,https://www.debellgolf.com/,,1500 East Walnut Avenue,Burbank,CA,91501,US,34.2070055,-118.3020368,2026-10-11T15:12:03Z
 35738530-ec9d-4292-be90-fc105ebb3244,way/291397117,Glendora Country Club,,course,,private,active,18,72,,,+1-626-335-3713,https://www.glendoracountryclub.com/,,2400 Country Club Drive,Glendora,CA,91741,US,34.1292182,-117.8207324,2026-10-11T15:12:07Z
-35b27882-5b2b-4cee-bacc-31b98b8fb12a,way/603935193,Ojai Valley Inn Golf Course,,course,,,active,,,,,,,,905 Country Club Rd,Ojai,CA,93023,US,34.4360979,-119.2590582,2026-10-11T15:12:20Z
+35b27882-5b2b-4cee-bacc-31b98b8fb12a,way/603935193,Ojai Valley Inn Golf Course,,course,,,active,,,,,,https://www.ojaivalleyinn.com/,,905 Country Club Rd,Ojai,CA,93023,US,34.4360979,-119.2590582,2026-10-20T11:38:03Z
 35c970e4-4713-4069-b8c8-319ab1c41851,way/23650049,El Macero Country Club,,course,,private,active,18,71,,,+1-530-753-3363; +1-916-446-4061,https://www.elmacerocc.org/,,,,CA,,US,38.5440577,-121.6857262,2026-10-11T15:11:48Z
 36018f5b-6f6e-409b-934c-4f29efd3fe8f,way/44501768,Mission Trails Golf Course,,course,,,active,18,71,,,+1-619-460-5400,https://www.missiontrailsgc.com/,,7380 Golfcrest Pl,San Diego,CA,92119,US,32.7964908,-117.0357822,2026-10-11T15:11:53Z
 367d1950-52cc-4196-8b6a-39866b248d78,way/135246938,Perenchio Golf Course (Private Pitch & Putt),,par3,,private,active,,,,,,,,,,CA,,US,34.0331832,-118.6868315,2026-10-11T15:06:10Z
@@ -226,8 +226,8 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 38817d7c-fd0a-4239-a1e4-e86184905ce8,relation/4080613,Mission Bay Golf Course and Practice Center,,course,,,active,18,58,,,+1 858-581-7880,https://www.sandiego.gov/park-and-recreation/golf/mbgolf.shtml,,2702 North Mission Bay Drive,San Diego,CA,92109,US,32.8004423,-117.2163287,2026-10-11T15:12:35Z
 38b3217b-4c7b-4e13-a489-122135bf82d3,way/24569234,Gleneagles Golf Course,,course,,,active,9,36,,,+1-330-425-3334,https://gleneaglesgc.com/,,2100 Sunnydale Avenue,San Francisco,CA,94134,US,37.7151219,-122.4200383,2026-10-11T15:11:49Z
 38cb9036-52bc-499d-9a5d-d71615e798a5,relation/21027704,Big Horn Golf Club - Canyons Course,,course,,,active,,,,,,https://www.bighorngolf.com/,,,,CA,,US,33.6858129,-116.3970769,2026-10-11T15:12:45Z
-38f5baaa-1a2b-4487-bad9-92a1843b61d5,way/75820602,Mt. Shasta Resort,,course,,,active,,,,,,,,,,CA,,US,41.2835558,-122.3218076,2026-10-11T15:11:55Z
-39022ed7-6944-499a-aad8-f71f6f772045,way/36807077,Corral de Tierra Country Club,,course,,,active,18,72,,,,,,,,CA,,US,36.5676135,-121.7275007,2026-10-11T15:11:51Z
+38f5baaa-1a2b-4487-bad9-92a1843b61d5,way/75820602,Mt. Shasta Resort,,course,,,active,,,,,,https://www.mountshastaresort.com/,,,,CA,,US,41.2835558,-122.3218076,2026-10-20T11:34:13Z
+39022ed7-6944-499a-aad8-f71f6f772045,way/36807077,Corral de Tierra Country Club,,course,,,active,18,72,,,,https://www.corraldetierracc.com/,,,,CA,,US,36.5676135,-121.7275007,2026-10-20T11:31:03Z
 395d6f28-53ab-48c2-9159-89a8195348c0,way/49508416,Compton Par 3 Golf Course,,par3,,,active,,,,,,,,,,CA,,US,33.8943604,-118.1852511,2026-10-11T15:06:05Z
 39b69802-84be-4236-a817-4835f65461f6,way/45855121,Yucaipa Valley Golf Club,,course,,,active,18,72,,,+1 909 790 6522,http://www.yucaipavalleygolf.com,,33725 Chapman Heights Rd,Yucaipa,CA,92399,US,34.0382072,-117.0679292,2026-10-11T15:11:53Z
 39d571df-6d09-4979-aa61-bf28b242d6a3,way/44486471,Desert Crest Country Club,,course,,,active,,,,,,,,,,CA,,US,33.9264472,-116.4514886,2026-10-11T13:29:44Z
@@ -237,82 +237,82 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 3a6ca3ac-cc28-4dce-bf2a-edefb68960bf,relation/326318,Mountain Vista Golf Club - San Gorgonio Course,,course,,,active,,,,,,https://www.mountainvistagolfclub.com/,,,,CA,,US,33.7892926,-116.2923884,2026-10-11T15:06:41Z
 3acbde28-be38-4d3e-985c-7ef93a46c18d,relation/12685862,Mountain View Country Club,,course,,private,active,,,,,+1-760-771-4311,https://www.mountainviewatlaquinta.com/,,,La Quinta,CA,,US,33.6781386,-116.2623845,2026-10-11T13:31:42Z
 3b5a9929-1a43-4bf6-b4d7-ebc312e50716,way/174593429,TPC Stonebrae,,course,,,active,18,,,,,https://stonebraecc.com/w,,202 Country Club Drive,202,CA,94542,US,37.6459594,-122.0022087,2026-10-11T15:12:01Z
-3b5cbca4-674b-4d19-a6cb-05c35849bab4,node/4022885165,Sherwood Country Club,,course,,,active,,,,,,,,,,CA,,US,34.1321158,-118.8847462,2026-10-11T13:29:32Z
+3b5cbca4-674b-4d19-a6cb-05c35849bab4,node/4022885165,Sherwood Country Club,,course,,,active,,,,,,https://www.sherwoodcc.com/,,,,CA,,US,34.1321158,-118.8847462,2026-10-20T11:38:28Z
 3b63914f-72c2-4c80-a658-7b98ed0fd2f2,way/28462160,Summit Ponte Golf Club,,course,,,active,18,72,,,,,,,,CA,,US,37.4563346,-121.8779675,2026-10-11T15:11:49Z
 3c5eb0b1-9403-4c3a-b71a-4e67d6f58d7f,relation/2417914,French Camp RV Park & Golf Course,,course,,,active,,,,,+1-209-234-1544,https://www.frenchcamp.com/,,3919 E. French Camp Rd.,Manteca,CA,95336,US,37.8653778,-121.2227478,2026-10-11T15:12:33Z
 3cad1132-a070-4ddd-867a-ba8ec78f51be,way/30903221,Golden Gate Park Golf Course,,par3,,,active,9,27,,,+1-415-751-8987,https://goldengateparkgolf.com/,,970 47th Ave,San Francisco,CA,94121,US,37.7683329,-122.5050409,2026-10-11T15:11:49Z
 3cb250c1-04f4-4439-90c1-b1854b045726,way/41391207,River Oaks Golf Course,,course,,,active,,,,,+1 209 537 4653,https://riveroaksceres.com/,,3441 Golf Links Road,Ceres,CA,95307,US,37.6127224,-120.9344377,2026-10-11T15:11:53Z
-3cc993f2-622a-4f94-89b5-1427b7e08404,relation/2142043,Lincoln Park Golf Course,,course,,,active,18,69,,,,,,300 34th Avenue,34th Avenue,CA,94121,US,37.7841885,-122.4991476,2026-10-11T13:31:18Z
+3cc993f2-622a-4f94-89b5-1427b7e08404,relation/2142043,Lincoln Park Golf Course,,course,,,active,18,69,,,,https://www.lincolnparkgolfcourse.com/,,300 34th Avenue,34th Avenue,CA,94121,US,37.7841885,-122.4991476,2026-10-21T11:33:37Z
 3cd429dd-928e-41ac-a7bb-23c3b60c7832,way/316149643,,,practice,,,active,,,,,,,,,,CA,,US,34.1912052,-118.4894356,2026-10-11T15:12:12Z
 3ce1cac0-dae5-4f68-bbac-33e0f58dfa07,relation/12875585,Shadow Ridge,,course,,,active,,,,,,,,,,CA,,US,33.7798975,-116.3837721,2026-10-11T13:31:42Z
-3cfb9824-3664-463c-93ba-f0e18d3273a2,way/44652708,Brentwood Country Club,,course,,,active,18,,,,,,,,,CA,,US,34.0471295,-118.4804425,2026-10-11T13:29:44Z
+3cfb9824-3664-463c-93ba-f0e18d3273a2,way/44652708,Brentwood Country Club,,course,,,active,18,,,,,https://www.brentwoodcc.net/,,,,CA,,US,34.0471295,-118.4804425,2026-10-20T11:36:41Z
 3d3bc37d-f416-4e94-bed2-aea8e18e5f88,way/125602596,Apple Mountain Golf Course,,course,,,active,18,69,,,,https://applemountaingolfresort.com/,,3455 Carson Road,Camino,CA,95709,US,38.7517215,-120.712983,2026-10-11T15:06:10Z
 3d767e0a-c7bd-45dd-9e20-e9358ad1b79a,way/305753776,Arcadia Par 3 Golf Course,,par3,,,active,18,54,,,+1-626-443-9367,https://arcadiagc.com/,,620 East Live Oak Avenue,Arcadia,CA,91006,US,34.1030435,-118.0178762,2026-10-11T15:12:12Z
 3ddf8480-3656-4244-99a9-44b61cf93b6c,way/233658640,Lake Forest Golf & Practice Center,,course,,private,active,9,29,,,+1-949-859-1455,https://www.lakeforestgolfcenter.com/,,23308 Cherry Avenue,Lake Forest,CA,92630,US,33.6221147,-117.6897008,2026-10-11T15:12:03Z
 3e1b8d8e-6067-4ef1-b2c9-7331f6cf167a,way/1162481658,Cinnabar Hills Golf Club,,course,,,active,,,,,+1-408-323-7814,https://www.cinnabarhills.com/,,23600 McKean Road,San Jose,CA,95141,US,37.1705946,-121.7488381,2026-10-11T15:12:27Z
 3e21dff3-1fe1-4569-9587-dd78055b71a1,relation/3568991,Van Buren Golf Center,,course,,,active,9,31,,,+1 951 688 2563,https://www.vanburengolf.net/,,6720 Van Buren Boulevard,Riverside,CA,92503,US,33.9550308,-117.4568355,2026-10-11T15:12:33Z
 3e40e721-65f6-4db3-8025-60e0d0392ea0,way/1277900117,,,course,,,active,,,,,,,,,,CA,,US,33.4688621,-117.5956317,2026-10-11T15:12:28Z
-3e866d2e-aa14-487d-b8af-60714337c0be,relation/12615190,Tamarisk Country Club,,course,,,active,,,,,,,,,,CA,,US,33.7758995,-116.4289624,2026-10-11T15:12:41Z
+3e866d2e-aa14-487d-b8af-60714337c0be,relation/12615190,Tamarisk Country Club,,course,,,active,,,,,,https://www.tamariskcc.com/,,,,CA,,US,33.7758995,-116.4289624,2026-10-21T11:29:06Z
 3f1a7d27-ed79-4323-b217-4c041330c2d7,node/11112182040,Napa Valley Country Club,,course,,,active,,,,,,https://www.napavalleycc.com/,,3385 Hagen Road,Napa,CA,94558,US,38.3183286,-122.2410222,2026-10-11T13:29:32Z
 3f208fb4-1d9b-4b4e-818e-bae617cb1c98,way/1312909584,The Havens Country Club,,course,,,active,18,71,,,,,,29354 Vista Valley Drive,Vista,CA,92084,US,33.2446511,-117.193927,2026-10-11T15:12:29Z
 3f530118-8a67-497d-a0df-550cca35ed40,relation/3567134,Half Moon Bay Golf Links - The Old Course,,course,,,active,,,,,,https://www.halfmoonbaygolf.com/,,2 Miramontes Point Rd,Half Moon Bay,CA,94019,US,37.4357909,-122.4357204,2026-10-11T15:12:33Z
 3f5326e8-803e-4b89-acf0-f2a689edd3ed,way/110351253,The Legends Golf Club,,course,,,active,18,72,,,+1-951-694-9998,https://thelegendsgc.com/,,41687 Temeku Drive,Temecula,CA,92591,US,33.514818,-117.1168166,2026-10-11T15:11:57Z
 3f7461e7-a1b8-4ea2-8189-c9f16e01dc45,way/222839605,High Country Villas,,course,,,active,,,,,,,,,,CA,,US,33.0412207,-117.2480215,2026-10-11T13:30:07Z
 3f90570b-0772-4566-a05b-430317ea13c4,way/27286634,CordeValle Golf Club,,course,,,active,18,72,,,,,,,,CA,,US,37.0673028,-121.6332383,2026-10-11T15:06:00Z
-3fa088e3-d050-45ad-a0c1-bdaff8b42eba,way/44388854,Arbuckle Golf Course,,course,,,active,,,,,,,,,,CA,,US,39.0084082,-122.1409096,2026-10-11T15:11:53Z
+3fa088e3-d050-45ad-a0c1-bdaff8b42eba,way/44388854,Arbuckle Golf Course,,course,,,active,,,,,,https://arbucklegolfclub.com/,,,,CA,,US,39.0084082,-122.1409096,2026-10-20T11:33:32Z
 3fddaffe-7b35-46df-b01e-1d23cffe6cd4,way/43951175,Orinda Country Club,,course,,,active,18,71,,,,,,,,CA,,US,37.893001,-122.1938947,2026-10-11T15:11:53Z
 3fe02f89-3bca-46b9-9216-117871864c3e,way/44289065,Sinaloa Golf Course,,par3,,,active,9,27,,,+1-805-581-2662,https://www.sinaloagolf.com/,,980 Madera Road,Simi Valley,CA,93065,US,34.2572615,-118.7950892,2026-10-11T15:11:53Z
 3fe516fe-f2ad-4800-bd95-a4558aa12f7e,way/185739081,,,course,,public,active,,,,,,,,,,CA,,US,37.8024774,-122.434334,2026-10-11T15:12:01Z
-3fffde81-d1fa-437c-a81f-522e81a44dcf,way/44500732,Rancho Carlsbad Golf Course,,course,,,active,,,,,,,,,,CA,,US,33.1482319,-117.2867567,2026-10-11T15:11:53Z
+3fffde81-d1fa-437c-a81f-522e81a44dcf,way/44500732,Rancho Carlsbad Golf Course,,course,,,active,,,,,,https://ranchocarlsbadgolf.com/,,,,CA,,US,33.1482319,-117.2867567,2026-10-21T11:32:06Z
 4006e24d-4570-4839-9e58-07181cc9ac6d,way/289680769,Wawona Golf Course,,course,,,active,,,,,,http://www.yosemitepark.com/golf.aspx,,,,CA,,US,37.5355985,-119.6567594,2026-10-11T13:30:16Z
 401f52f4-032e-4b44-8538-1f19bbd5ff86,way/30933784,Lakeside Golf Club,,course,,private,active,18,70,,,+1-818-984-0601,https://www.lakesidegolfclub.com/,,4500 Lakeside Drive,Burbank,CA,91505,US,34.1445193,-118.3507996,2026-10-11T15:11:49Z
-40352e6d-61a9-4347-b292-85c8f3a053f0,way/36857890,Tehama Golf Club,,course,,,active,18,72,,,,,,,,CA,,US,36.5603711,-121.833351,2026-10-11T13:29:39Z
+40352e6d-61a9-4347-b292-85c8f3a053f0,way/36857890,Tehama Golf Club,,course,,,active,18,72,,,,https://tehamagolfclub.clubhouseonline-e3.com/,,,,CA,,US,36.5603711,-121.833351,2026-10-20T11:33:00Z
 40520961-a0f3-4d05-8a22-760c2669e38e,relation/4082110,Arnold Palmer Course,,course,,,active,,,,,+1-760-324-9400,https://www.clubcorp.com/Clubs/Mission-Hills-Country-Club/,,,,CA,,US,33.7929743,-116.4238145,2026-10-11T15:12:35Z
 4091d7c9-5b99-4efc-b7b3-58f174b2cde6,relation/3570202,Ukiah Valley Golf Course,,course,,,active,,,,,+1-707-467-2832,https://www.ukiahgolf.com/,,599 Park Boulevard,Ukiah,CA,95482,US,39.1566256,-123.221997,2026-10-11T15:12:33Z
 40e8afae-aaad-4d2b-8c78-1ada74a51484,way/1257062334,The Industry Hills Golf Club - Babe Zaharias Course,,course,,,active,,,,,,https://ihgolfclub.com/los-angeles-golf-courses/babe-golf-course/,,1 Industry Hills Parkway,Industry,CA,91744,US,34.0197524,-117.9257439,2026-10-11T15:12:28Z
 410fe90f-b83b-435d-b344-67550cea0297,way/305214814,Churn Creek Golf Course,,course,,,active,,,,,+1-530-222-6353,http://www.ccgagolfredding.com/,,7335 Churn Creek Road,Redding,CA,96002,US,40.5057734,-122.3198678,2026-10-11T15:06:24Z
 41467e12-62a4-4561-98c9-22bdfc6712d1,way/265942999,Cherry Island Golf Course,,course,,,active,18,72,,,+1-916-991-7293,https://www.golfcherryisland.com/,,2360 Elverta Road,Elverta,CA,95626,US,38.7094935,-121.4083434,2026-10-11T13:30:12Z
 4149744c-7201-40be-a847-a478f65e5577,way/67988172,Dos Lagos Golf Course,,course,,,active,18,70,,,+1-951-277-8787,https://www.doslagosgolf.com/,,4507 Cabot Drive,Corona,CA,92883,US,33.8149354,-117.502759,2026-10-11T15:06:07Z
-421d5bab-6de6-43b3-a207-ccc8d7664cdc,way/130359926,Sorrento Canyon Golf Center,,course,,,active,,,,,,,,,,CA,,US,32.8919668,-117.189601,2026-10-11T15:11:57Z
+421d5bab-6de6-43b3-a207-ccc8d7664cdc,way/130359926,Sorrento Canyon Golf Center,,course,,,active,,,,,,https://sorrentocanyongolfcenter.wordpress.com/,,,,CA,,US,32.8919668,-117.189601,2026-10-21T11:32:21Z
 426dedc2-14ce-42f2-bb44-49616d35aaa6,way/16753994,San Francisco Golf Club,,course,,private,active,18,71,,,,,,1310 Junipero Serra Boulevard,San Francisco,CA,94132,US,37.7097025,-122.4777811,2026-10-11T15:11:48Z
 42be64c8-8172-41eb-9e7e-8eda990154a9,relation/7160577,Whittier Narrows Golf Course,,course,,,active,,,,,+1-626-288-1044,https://www.whittiernarrowsgc.com/,,8640 Rush Street,Rosemead,CA,91770,US,34.0504344,-118.077151,2026-10-11T15:12:38Z
 42d3c009-e37a-454d-ac6a-5f977928b697,way/44501433,,,course,,,active,,,,,,,,,,CA,,US,32.9995018,-117.0794677,2026-10-11T15:06:05Z
-42f8fafa-5502-46f5-b9a5-ee00180c27d9,relation/1506345,Big Canyon Country Club,,course,,private,active,18,72,,,,,,,,CA,,US,33.6231336,-117.8686796,2026-10-11T15:06:41Z
+42f8fafa-5502-46f5-b9a5-ee00180c27d9,relation/1506345,Big Canyon Country Club,,course,,private,active,18,72,,,,https://www.bigcanyoncc.org/,,,,CA,,US,33.6231336,-117.8686796,2026-10-20T11:41:30Z
 432ffeeb-878c-43fe-a308-b3113a2daeca,way/726990937,Tecolote Canyon Golf Course,,course,,,active,18,58,,,+1-858-279-1600,https://www.tecolotecanyon.com/,,2755 Snead Avenue,San Diego,CA,92111,US,32.7889986,-117.1871225,2026-10-11T15:12:21Z
-4370600d-842c-42cd-89ec-aa6f8609386e,relation/12704558,Desert Princess Resort and Country Club,,course,,,active,,,,,,,,,,CA,,US,33.837402,-116.4842095,2026-10-11T13:31:42Z
+4370600d-842c-42cd-89ec-aa6f8609386e,relation/12704558,Desert Princess Resort and Country Club,,course,,,active,,,,,,https://www.desertprincesscc.com/,,,,CA,,US,33.837402,-116.4842095,2026-10-20T11:42:56Z
 43dcfe08-87c9-45d6-9662-c9c8a4040fd4,way/1564572187,La Rocca,,course,,,active,,,,,,,,,,CA,,US,33.7168751,-116.3583642,2026-10-11T15:12:30Z
 449c722e-a408-48f0-a9fe-1a3c7d3c6ce4,way/900726599,Goose Creek Golf Club,,course,,,active,18,71,,,+1-951-735-3982,https://goosecreekgc.com/,,11418 68th Street,Jurupa Valley,CA,91752,US,33.9632109,-117.5303124,2026-10-11T15:12:23Z
 45203cc5-d067-4bdf-b8fa-f5fb640014c2,way/250074027,Laguna Woods Golf Course,,course,,,active,,,,,+1 949-597-4336; +1 949-680-6091; +1 949-597-4200,https://www.lagunawoodsvillage.com/,,24112 Moulton Parkway,Laguna Woods,CA,92637,US,33.6157383,-117.725756,2026-10-11T15:06:18Z
-455a9c4e-d6e1-4205-b3e9-a9ef1014a4cf,way/117047448,Napa Valley Country Club,,course,,,active,,,,,,,,,,CA,,US,38.3160643,-122.2416383,2026-10-11T13:29:54Z
-45a93e14-0e5c-4202-a45f-25162917f530,way/38311179,Venetian Gardens Golf Course,,course,,,active,,,,,,,,,,CA,,US,37.9926509,-121.3270654,2026-10-11T15:11:51Z
+455a9c4e-d6e1-4205-b3e9-a9ef1014a4cf,way/117047448,Napa Valley Country Club,,course,,,active,,,,,,https://www.napavalleycc.com/,,,,CA,,US,38.3160643,-122.2416383,2026-10-20T11:41:04Z
+45a93e14-0e5c-4202-a45f-25162917f530,way/38311179,Venetian Gardens Golf Course,,course,,,active,,,,,,https://venetiangardens.org/,,,,CA,,US,37.9926509,-121.3270654,2026-10-21T11:37:16Z
 45aff8a8-7676-41c4-a098-71e9acd8feec,way/305213075,Yurok Golf Club,,course,,,active,,,,,,,,,,CA,,US,40.9535173,-123.6272915,2026-10-11T15:12:12Z
 463d3a4d-47a1-4734-8d3c-3074f88c22ea,relation/12697434,Outdoor Resort Indio,,course,,,active,,,,,+1-760-775-7255,https://orindio.com/,,80394 Avenue 48,Indio,CA,92201,US,33.7030936,-116.2622638,2026-10-11T15:12:41Z
-46b3252e-8df9-4d17-9d71-c7ec4e729ba3,way/43701484,Morro Bay Golf Course,,course,,,active,18,71,,,,,,,,CA,,US,35.3522111,-120.8387154,2026-10-11T15:06:05Z
+46b3252e-8df9-4d17-9d71-c7ec4e729ba3,way/43701484,Morro Bay Golf Course,,course,,,active,18,71,,,,https://morrobaygolf.org/,,,,CA,,US,35.3522111,-120.8387154,2026-10-21T11:25:50Z
 46d43c30-d8c0-4d01-8708-53d6e8a1943f,way/127163580,Plumas Lake Golf & Country Club,,course,,,active,,,,,+1-530-742-3201,https://www.plumaslake.com/,,1551 Country Club Road,Olivehurst,CA,95961,US,39.0340784,-121.5630756,2026-10-11T15:11:57Z
 47313049-7b15-4dde-a9c5-63eef6963b0f,way/147943290,Dry Creek Ranch Golf Course,,course,,,active,18,,,,+1-209-745-2330,http://dcrgc.com/,,809 Crystal Way,Galt,CA,95632,US,38.2439835,-121.2866462,2026-10-11T15:12:00Z
 47e2b115-1b35-4282-8e3e-e087e7de8620,way/44486330,Arroyo Fairways Mobile Home Club,,course,,private,active,,,,,,,,,,CA,,US,33.7456483,-116.9130386,2026-10-11T15:11:53Z
-4825c82d-5071-418a-aeda-dec74e0d5eb3,relation/2784293,Indian Palms Golf Course,,course,,,active,,,,,,,,,,CA,,US,33.6934197,-116.2255797,2026-10-11T15:12:33Z
+4825c82d-5071-418a-aeda-dec74e0d5eb3,relation/2784293,Indian Palms Golf Course,,course,,,active,,,,,,https://www.indianpalmsvacationclub.com/,,,,CA,,US,33.6934197,-116.2255797,2026-10-21T11:26:51Z
 485518a4-0f70-4072-9dba-b11aff1ee344,way/43701987,San Luis Obispo Country Club,,course,,,active,18,72,,,,,,,,CA,,US,35.2150636,-120.6272317,2026-10-11T15:06:05Z
 48a148f3-5291-4e80-b240-b33816772da1,way/128312850,Miramar Memorial Golf Course,,course,,,active,,,,,,https://www.mccsmiramar.com/golfcourse/,,3750 Anderson Avenue,San Diego,CA,,US,32.8837377,-117.1482095,2026-10-11T15:06:10Z
 48c83a3f-5956-4afa-9508-d8128da79a19,relation/21032793,Desert Island Country Club,,course,,,active,18,72,,,+1 760 328 2111,https://di71.com/,,71-777 Frank Sinatra Drive,Rancho Mirage,CA,92270,US,33.768771,-116.4124232,2026-10-11T15:12:45Z
 499621e9-66fd-4689-9820-44d53d92890c,relation/3570706,Spring Creek Golf & Country Club,,course,,private,active,18,72,,,+1-209-599-3258,https://www.springcreekcc.com/,,1580 Spring Creek Drive,Ripon,CA,95366,US,37.7429757,-121.1008009,2026-10-11T13:31:22Z
 4a0c4062-7909-4d32-87d7-9275f4b63af7,way/1528330329,,,course,,private,active,,,,,,,,,,CA,,US,33.6182783,-117.5962734,2026-10-11T13:31:14Z
 4a38b7b1-051e-41ad-bf0b-d272d97ae7bc,way/394176107,Soboba Springs Golf Course,,course,,,active,18,72,,,,,,,,CA,,US,33.7947489,-116.9338811,2026-10-11T15:12:15Z
-4a534f34-3153-4aaa-b1c0-3251a1ef0eec,way/849739536,Rancho Monserate Country Club,,course,,,active,,,,,,,,,,CA,,US,33.3182869,-117.1631115,2026-10-11T15:12:23Z
-4ac7bca9-7600-4739-bf00-df7e17274e76,way/44403485,Horse Thief Golf,,course,,,active,,,,,,,,,,CA,,US,35.0899035,-118.644305,2026-10-11T13:29:44Z
-4ad12015-54b5-4feb-85cf-54b933c81ad6,way/238108018,Hunter Ranch Golf Course,,course,,,active,,,,,,,,,,CA,,US,35.6488477,-120.6210249,2026-10-11T15:12:03Z
+4a534f34-3153-4aaa-b1c0-3251a1ef0eec,way/849739536,Rancho Monserate Country Club,,course,,,active,,,,,,https://www.ranchomonseratecountryclub.com/,,,,CA,,US,33.3182869,-117.1631115,2026-10-21T11:32:08Z
+4ac7bca9-7600-4739-bf00-df7e17274e76,way/44403485,Horse Thief Golf,,course,,,active,,,,,,https://horsethiefcountryclub.wordpress.com/,,,,CA,,US,35.0899035,-118.644305,2026-10-20T11:36:02Z
+4ad12015-54b5-4feb-85cf-54b933c81ad6,way/238108018,Hunter Ranch Golf Course,,course,,,active,,,,,,https://www.hunterranchgolf.com/,,,,CA,,US,35.6488477,-120.6210249,2026-10-20T11:31:15Z
 4b35c7f2-9fec-4b9b-b797-a3a51ea9149a,way/61196036,Selma Valley Golf Course,,course,,,active,,,,,+1-559-896-2424,,,12389 E Rose Ave,Selma,CA,93662,US,36.5650555,-119.5687971,2026-10-11T15:11:55Z
-4bae7738-3b77-4096-8165-bceedeb2aaa6,way/43963228,Elkhorn Golf Course,,course,,,active,18,71,,,,,,,,CA,,US,38.0536858,-121.3278436,2026-10-11T15:11:53Z
+4bae7738-3b77-4096-8165-bceedeb2aaa6,way/43963228,Elkhorn Golf Course,,course,,,active,18,71,,,,https://www.elkhorngc.com/,,,,CA,,US,38.0536858,-121.3278436,2026-10-21T11:35:52Z
 4c6f2e08-e0fc-4723-a96e-42a44d3b0e83,way/295611284,Leisure World Seal Beach,,par3,,private,active,9,27,,,+1-562-431-6586,https://www.lwsb.com/,,Golden Rain Road,Seal Beach,CA,90740,US,33.7666901,-118.0815166,2026-10-11T15:12:08Z
 4cc5f2a3-145b-42e3-9815-48821fe0c0a0,way/265867895,McInnis Golf Course,,course,,,active,9,31,,,+1-415-492-1800,https://www.mcinnisparkgolfcenter.com/,,350 Smith Ranch Road,San Rafael,CA,94903,US,38.0218019,-122.5202646,2026-10-11T15:12:05Z
 4cf9c9c2-27ce-4c7b-9e21-2464beb29af0,relation/5941163,Greg Norman Course Resort Course (PGA West),,course,,,active,18,73,,,+1-800-742-9378,http://www.pgawest.com/,,,,CA,,US,33.6458399,-116.2421975,2026-10-11T15:12:36Z
 4d2b1ac1-f80a-47ce-9ba6-3e065bf29e61,way/255709753,The Course at Wente Vineyards,,course,,,active,18,72,,,+1-925-456-2477,https://wentevineyards.com,,5040 Arroyo Road,Livermore,CA,94550,US,37.6306997,-121.7547688,2026-10-11T15:12:05Z
 4d368815-0f80-4e9c-816e-e6ba551ae6db,relation/3579046,Tri Palm County Club,,course,,private,active,,,,,+1-760-343-3669,https://tripalmcc.com/,,,,CA,,US,33.8064537,-116.3757668,2026-10-11T15:06:43Z
-4db97954-1299-4b67-be6f-b1288d0f57c5,way/231044210,Redlands Country Club,,course,,private,active,18,,,,,,,1749 Garden Street,Redlands,CA,92373,US,34.0230359,-117.1476406,2026-10-11T15:12:03Z
+4db97954-1299-4b67-be6f-b1288d0f57c5,way/231044210,Redlands Country Club,,course,,private,active,18,,,,,https://www.redlandscountryclub.com/,,1749 Garden Street,Redlands,CA,92373,US,34.0230359,-117.1476406,2026-10-20T11:41:43Z
 4dd06b0d-1633-44ec-9d8a-da90d12217cd,way/139819142,River Oaks Golf Club,,course,,,active,,,,,+1-530-656-2182,https://riveroaksgolfclub.net/,,201 Lee Road,Nicolaus,CA,95659,US,38.8790412,-121.605761,2026-10-11T15:12:00Z
 4e0555af-dbb0-45a7-8f3d-b214e6aaa464,way/305803593,San Dimas Canyon Golf Course,,course,,,active,18,72,,,+1 909-599-2313,https://www.sandimasgc.com/,,2100 Terrebonne Avenue,San Dimas,CA,91773,US,34.1383455,-117.7810782,2026-10-11T15:12:12Z
 4e534991-e62e-4e1d-af20-823f30d762d5,way/133589224,,,course,,,active,,,,,+1-805-734-1333,https://www.30fss.com/golf.html,,,,CA,,US,34.7902615,-120.5555991,2026-10-11T15:11:57Z
-4e56de60-b915-423f-b86b-5648523b74c5,way/232039312,Lake Tahoe Golf Course,,course,,,active,18,71,,,,,,2500 Emerald Bay Road,South Lake Tahoe,CA,96150,US,38.870219,-120.0134061,2026-10-11T15:12:03Z
+4e56de60-b915-423f-b86b-5648523b74c5,way/232039312,Lake Tahoe Golf Course,,course,,,active,18,71,,,,https://www.laketahoegc.com/,,2500 Emerald Bay Road,South Lake Tahoe,CA,96150,US,38.870219,-120.0134061,2026-10-21T11:29:52Z
 4ea6e02e-a7e3-414b-bdc9-2e2819815a44,way/218011711,Anaheim Hills Golf Course,,course,,,active,18,71,,,+1-714-998-3041,https://www.anaheimhillsgc.com/,,6501 East Nohl Ranch Road,Anaheim,CA,92807,US,33.8435018,-117.7660787,2026-10-11T15:12:03Z
 4eb15419-b133-455d-b6a9-b8ecae8e37e1,way/305211960,BeauPre Golf Course,,course,,,active,,,,,+1-707-839-2342,http://www.beaupregolf.com/,,1777 Norton Road,McKinleyville,CA,95519,US,40.9601815,-124.0933556,2026-10-11T13:30:33Z
 4eb80e10-5495-480e-badc-06c2b8c22384,way/24869382,Manteca Park Golf Course,,course,,,active,18,,,,+1-209-825-2500,https://www.ci.manteca.ca.us/golf/,,305 N. Union Rd.,Manteca,CA,95336,US,37.8027466,-121.2435851,2026-10-11T15:11:49Z
@@ -333,14 +333,14 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 51d44996-5922-4ba7-bdc7-064bbf8360ba,way/265723036,Turkey Creek Golf Club,,course,,,active,18,71,,,+1-916-434-9100,https://www.clubcorp.com/Clubs/Turkey-Creek-Golf-Club,,1525 Highway 193,Lincoln,CA,95648,US,38.8926163,-121.2586715,2026-10-11T15:12:05Z
 52c970bb-550f-49a8-b77e-de87402d60c8,way/43762604,Emerald Hills Golf Course,,course,,,active,9,,,,,,,,,CA,,US,37.4537851,-122.2648999,2026-10-11T15:11:53Z
 534d83f7-4da4-4f60-b3c4-5a672a15fbb4,way/162935416,Riverview Golf Course,,course,,,active,18,70,,,+1-714-543-1115,https://www.riverviewgolf.com/,,1800 West Santa Clara Avenue,Santa Ana,CA,92706,US,33.7704174,-117.8922869,2026-10-11T15:12:01Z
-536971fa-14e6-4448-a1e3-17d5e3b34cf2,way/478760624,Lake Wildwood Golf Course,,course,,,active,18,,,,,,,,,CA,,US,39.2242801,-121.1954158,2026-10-11T15:12:17Z
+536971fa-14e6-4448-a1e3-17d5e3b34cf2,way/478760624,Lake Wildwood Golf Course,,course,,,active,18,,,,,https://lakewildwoodgolfcourse.clubhouseonline-e3.net/,,,,CA,,US,39.2242801,-121.1954158,2026-10-20T11:34:07Z
 539c27da-baa1-4846-99d6-ac71efd9ca5c,way/542172234,Anneberg Golf Course,,course,,,active,,,,,,,,,,CA,,US,33.7761995,-116.4127256,2026-10-11T15:12:18Z
 53bf734c-2696-45ba-9ded-921510902c49,relation/3569424,Tierra del Sol Golf Course,,course,,,active,,,,,+1-760-373-2384;+1-888-465-3837,http://www.tdsgolfclub.com/,,,,CA,,US,35.1258986,-117.9526723,2026-10-11T13:31:22Z
 53f873b3-9cf8-436b-bc8a-78e2a479223e,way/754357742,,,course,,,active,,,,,,,,,,CA,,US,32.8037725,-117.0923146,2026-10-11T15:12:21Z
 5418fab7-0c33-464c-abd3-1ad298eaf835,way/44580785,River Course at the Alisal,,course,,,active,,,,,+1 805-688-6042,https://www.rivercourse.com/,,150 Alisal Road,Solvang,CA,93463,US,34.5867638,-120.1314372,2026-10-11T15:11:53Z
 54267058-0d23-4637-8999-d378e1561a2e,way/224151197,la Contenta Lakes Golf,,course,,,active,,,,,,,,,,CA,,US,38.1804802,-120.8214295,2026-10-11T15:12:03Z
 54880053-5c63-40a3-bd04-cc91bcdb3e5d,way/209135543,Feather River Inn,,course,,,active,,,,,+1-888-324-6400; +1-530-836-2623,http://www.featherriverinn.com,,,,CA,,US,39.7884707,-120.6319036,2026-10-11T15:12:03Z
-54f3eb32-1f93-4695-9313-5756ecb338e0,way/194888441,Windsor Golf Club,,course,,,active,18,74,,,,,,,,CA,,US,38.5290934,-122.8100495,2026-10-11T15:12:01Z
+54f3eb32-1f93-4695-9313-5756ecb338e0,way/194888441,Windsor Golf Club,,course,,,active,18,74,,,,https://windsorgolf.com/,,,,CA,,US,38.5290934,-122.8100495,2026-10-20T11:41:18Z
 551fb716-2d1b-43ff-8bc5-9ae829f94312,way/1150725542,,,course,,,active,,,,,,,,,,CA,,US,33.2067948,-117.0123289,2026-10-11T15:12:27Z
 55db2d54-b72e-4bc4-9e50-c7381db83a55,way/305739120,The Lakes at El Segundo,,course,,,active,,,,,+1-310-322-0202,https://golfthelakes.com/,,400 South Sepulveda Boulevard,El Segundo,CA,90245,US,33.9121421,-118.3937751,2026-10-11T15:12:12Z
 55e551dd-ddfe-4d40-98a9-7905bb1136a1,way/252175058,River Oaks Golf Course (Paso Robles),,course,,,active,,,,,+1-805-226-8099,https://www.estrellaassociates.com/relaxation_recreation.php?estrella=river_oaks_golf_course,,700 Clubhouse Drive,Paso Robles,CA,93446,US,35.650448,-120.6798801,2026-10-11T15:06:18Z
@@ -349,33 +349,33 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 575aa152-d833-4e63-bda1-eb0c44ac3f75,way/175503691,Wasco Valley Rose Golf Club,,course,,,active,,,,,+1-661-758-8301; +1-888-758-8301,http://www.valleyrosegolf.com/,,301 N Leonard Ave,Wasco,CA,93280,US,35.6051377,-119.3891805,2026-10-11T15:12:01Z
 5760e635-d431-4877-a269-7f7a343617c8,way/962415597,Claremont Golf Course,,course,,,active,,,,,,,,,,CA,,US,34.1124892,-117.718021,2026-10-11T15:12:23Z
 57c87e56-e3bf-4dbf-8fda-f8a122f6476d,relation/4080620,Colina Park Golf Course,,par3,,,active,18,54,,,+1-619-255-4425,https://www.colinaparkgolf.com/,,4085 52nd Street,San Diego,CA,92105,US,32.7514269,-117.0825603,2026-10-11T15:12:35Z
-57fc92fa-96b4-4a2d-afc7-d730e48dce0b,way/397895551,Monterey Peninsula Country Club - Shore Course,,course,,,active,,,,,,,,,,CA,,US,36.5980262,-121.9555946,2026-10-11T15:12:15Z
+57fc92fa-96b4-4a2d-afc7-d730e48dce0b,way/397895551,Monterey Peninsula Country Club - Shore Course,,course,,,active,,,,,,http://www.montereypeninsulagolf.com/,,,,CA,,US,36.5980262,-121.9555946,2026-10-20T11:31:38Z
 582b31fd-a746-472a-9c8e-de0789090310,way/171532123,Rancho Irvine Golf Course,,course,,,active,18,72,,,,,,,,CA,,US,33.6640096,-117.8332577,2026-10-11T15:12:01Z
 58354c09-6249-4010-afb4-29bcd0180d59,relation/3571053,Aptos Seascape Golf Course,,course,,,active,18,71,,,+1-831-688-3213,https://www.seascapegc.com/,,610 Clubhouse Drive,Aptos,CA,95003,US,36.9608737,-121.8826548,2026-10-11T15:12:33Z
 58532041-9ad0-4af2-bfd5-5c0e2c7be62c,way/1528352529,,,course,,private,active,,,,,,,,,,CA,,US,33.6178484,-117.5965936,2026-10-11T15:12:29Z
 58876687-d2c4-4e63-ae40-1542e3609316,way/1213083701,Sea 'N Air Golf Club,,course,,,active,18,71,,,+1-619-545-9659,https://sandiego.navylifesw.com/programs/434d53dc-2cfd-4df4-9a2f-9610df25efef,,Naval Air Station North Island,Coronado,CA,92135,US,32.6925719,-117.1961396,2026-10-11T15:12:27Z
 58c4e956-3cfe-4335-bdb9-e6befbed6b55,relation/8115505,Rams Hill Golf Club,,course,,,active,18,72,,,+1 760 767 3500,http://www.ramshillgolf.com/,,1881 Rams Hill Road,Borrego Springs,CA,92004,US,33.1901268,-116.3172823,2026-10-11T15:12:38Z
 593166ee-a861-4bd6-9dc9-c413e18d375a,way/836257787,Candlewood Country Club,,course,,,active,18,70,,,+1-562-941-1228,https://www.candlewoodcc.com/,,1400 Telegraph Road,Whittier,CA,90604,US,33.9290912,-118.034055,2026-10-11T13:31:02Z
-5934214b-597d-484e-b7d7-1b2fa62426cf,relation/12569167,Chaparral Country Club,,course,,,active,,,,,,,,,,CA,,US,33.743409,-116.3788011,2026-10-11T13:31:42Z
+5934214b-597d-484e-b7d7-1b2fa62426cf,relation/12569167,Chaparral Country Club,,course,,,active,,,,,,https://www.chaparralcc.org/,,,,CA,,US,33.743409,-116.3788011,2026-10-20T11:42:35Z
 5a087541-6cf4-4d5e-a1ff-a4838eee84b0,relation/324056,North Ranch Country Club,,course,,,active,18,73,,,+1-805-496-1995,https://www.northranchcc.org/,,4761 Valley Spring Drive,Westlake Village,CA,91362-4357,US,34.1860413,-118.8047405,2026-10-11T15:12:30Z
 5a486269-6ac0-4687-b4be-27c0ec0d1085,way/1530362970,Oaks North Golf Course - South,,course,,,active,,,,,,,,,,CA,,US,33.0316648,-117.0550005,2026-10-11T15:12:30Z
-5a9d8559-b1ad-4e3e-967b-db09c1677dcd,relation/16141671,Mile Square Golf Course,,course,,,active,,,,,,,,,,CA,,US,33.7203371,-117.9475106,2026-10-11T15:12:43Z
+5a9d8559-b1ad-4e3e-967b-db09c1677dcd,relation/16141671,Mile Square Golf Course,,course,,,active,,,,,,https://milesquaregolfcourse.com/,,,,CA,,US,33.7203371,-117.9475106,2026-10-20T11:41:37Z
 5ae1312b-7142-478f-8016-76e1d32c4d1b,relation/326560,Country Club of Rancho Bernardo;Rancho Bernardo Golf Course,,course,,private,active,,,,,+1 858-487-1134,https://www.ccofrb.com/,,12280 Greens East Road,San Diego,CA,92128,US,33.0317673,-117.0633401,2026-10-11T15:12:30Z
 5b1df3ec-7f0e-49e4-8000-cf39b01b41aa,way/133347648,Modesto Creekside Golf Course,,course,,,active,18,,,,+1 209 571 5123,https://www.creeksidegolfclub.com/,,701 Lincoln Avenue,Modesto,CA,95354,US,37.648935,-120.9392499,2026-10-11T15:11:57Z
 5b93a68d-fbea-4649-87b0-4e142eb245af,way/305782509,Palm Lake Golf Course,,course,,,active,,,,,,,,1300 West Phillips Boulevard,Pomona,CA,91766,US,34.044827,-117.7679367,2026-10-11T15:12:12Z
 5c0b4e76-2892-44ec-b566-00f19cd0de09,way/25401721,Deep Cliff Golf Course,,course,,,active,18,60,,,+1-408-253-5357,https://www.playdeepcliff.com/,,10700 Clubhouse Lane,Cupertino,CA,95014,US,37.3096442,-122.0645751,2026-10-11T15:11:49Z
 5c27a3d9-a671-42e4-b711-d6b965950130,relation/11215970,Arrowood Golf Course,,course,,,active,18,71,,,+1 760-967-8400,https://arrowoodgolf.com/,,5201A 5201A Village Dr,Oceanside,CA,92057,US,33.2709658,-117.2880101,2026-10-11T15:12:38Z
-5cd1e9ca-44ab-43b6-832c-2064a3dd02bf,node/7830916648,Mayacama Golf Club,,course,,,active,,,,,,,,1240 Mayacama Club Drive,Santa Rosa,CA,,US,38.5292028,-122.7337554,2026-10-11T13:29:32Z
+5cd1e9ca-44ab-43b6-832c-2064a3dd02bf,node/7830916648,Mayacama Golf Club,,course,,,active,,,,,,https://mayacama.com/golf-course/,,1240 Mayacama Club Drive,Santa Rosa,CA,,US,38.5292028,-122.7337554,2026-10-21T02:09:22Z
 5d478591-a5ff-4fd9-8991-441ca75d026c,way/875423008,Moorpark Country Club,,course,,,active,,,,,+1-805-532-2834,https://www.moorparkcc.com/,,11800 Championship Drive,Moorpark,CA,93021,US,34.3021236,-118.8976111,2026-10-11T13:31:02Z
-5d9ce3f5-3d2f-4f81-93c8-d726e40b0859,relation/21028141,The Reserve Golf Club,,course,,private,active,,,,,,,,,,CA,,US,33.6907335,-116.3675706,2026-10-11T15:12:45Z
+5d9ce3f5-3d2f-4f81-93c8-d726e40b0859,relation/21028141,The Reserve Golf Club,,course,,private,active,,,,,,https://www.thereserveclub.com/,,,,CA,,US,33.6907335,-116.3675706,2026-10-21T11:29:20Z
 5dc5b831-4260-46f2-bf27-8eacb9309116,way/31569767,Angeles National Golf Club,,course,,,active,18,72,,,+1-818-951-8771,https://www.angelesnational.com/,,9401 Foothill Blvd.,Sunland,CA,91040,US,34.2684811,-118.3295471,2026-10-11T15:11:51Z
 5e8b5db8-8158-4be3-9367-07b2518bac5a,relation/3567057,La Valle Coastal Club,,course,,,active,,,,,+1 858 756 2471,https://lavallecoastalclub.com/,,5690 Cancha de Golf,Rancho Santa Fe,CA,92091,US,32.9924314,-117.2100393,2026-10-11T15:12:33Z
-5ec08f58-a99f-4ef5-b5c6-960f067c4d48,way/35893490,Sierra Lakes,,course,,,active,18,72,,,,,,,,CA,,US,34.1438888,-117.4449714,2026-10-11T15:11:51Z
+5ec08f58-a99f-4ef5-b5c6-960f067c4d48,way/35893490,Sierra Lakes,,course,,,active,18,72,,,,https://www.sierralakes.com/,,,,CA,,US,34.1438888,-117.4449714,2026-10-20T11:42:05Z
 5ed67340-ca80-4183-b58f-261598d07875,relation/16417006,Lake Lindero Golf Course,,course,,,active,9,29,,,+1-818-706-2277,https://lakelinderogolf.com/,,5719 Lake Lindero Dr,Agoura Hills,CA,91301,US,34.1563094,-118.790756,2026-10-11T15:12:43Z
-5f36430c-1c55-4446-95a7-2ab7d0bb3d49,way/43926052,Rancho del Rey Golf Course,,course,,,active,18,,,,,,,,,CA,,US,37.3437192,-120.5823039,2026-10-11T15:06:05Z
-5f3f485a-bff4-4b75-a62c-3e3ad777cc9c,way/44501324,The Heights Country Club,,course,,,active,,,,,,,,16066 Bernardo Heights Parkway,San Diego,CA,92128,US,33.001318,-117.0725428,2026-10-11T15:11:53Z
+5f36430c-1c55-4446-95a7-2ab7d0bb3d49,way/43926052,Rancho del Rey Golf Course,,course,,,active,18,,,,,https://ranchodelreygolfclub.com/,,,,CA,,US,37.3437192,-120.5823039,2026-10-21T11:37:10Z
+5f3f485a-bff4-4b75-a62c-3e3ad777cc9c,way/44501324,The Heights Country Club,,course,,,active,,,,,,https://theheightsgolf.greensidegolfer.com/,,16066 Bernardo Heights Parkway,San Diego,CA,92128,US,33.001318,-117.0725428,2026-10-21T11:32:50Z
 5f49434e-2c76-41db-a981-70b39bd2ddd2,relation/3570710,The Golf Club at Brentwood,,course,,,active,18,,,,+1-925-516-3400,https://brentwoodgolf.com/,,100 Summerset Drive,Brentwood,CA,94513,US,37.9198199,-121.7248276,2026-10-11T15:12:33Z
-5f93862e-f741-4cd0-b6c2-bc731e196aef,way/1522065657,Copper Valley Golf Club,,course,,,active,18,72,,,,,,1001 Saddle Creek Drive,Copperopolis,CA,95228,US,37.9170825,-120.6424416,2026-10-11T15:12:29Z
+5f93862e-f741-4cd0-b6c2-bc731e196aef,way/1522065657,Copper Valley Golf Club,,course,,,active,18,72,,,,https://www.coppervalleygolf.com/,,1001 Saddle Creek Drive,Copperopolis,CA,95228,US,37.9170825,-120.6424416,2026-10-21T11:35:28Z
 5fce7a36-9500-414f-8ad8-2a32e9043570,relation/4076326,Birnam Wood Golf Club,,course,,,active,,,,,+1-805-969-2223,https://www.bwgc.net/,,1941 East Valley Road,Santa Barbara,CA,93108,US,34.4340253,-119.609223,2026-10-11T15:12:35Z
 5fd9db31-5ed0-4457-97f5-52c9cd65380f,relation/15028812,Woodley Lakes Municipal Golf Course,,course,,,active,18,72,,,+1 818-780-6886,https://golf.lacity.org/cdp_woodley.htm,,6331 Woodley Avenue,Van Nuys,CA,91406,US,34.1800339,-118.488184,2026-10-11T15:12:43Z
 60358612-9795-421b-96bc-382d2a2ced81,way/44501091,Club Circle Golf Course,,course,,,active,,,,,+1-760-767-5944,https://clubcircleresort.com/,,,,CA,,US,33.2327022,-116.3568896,2026-10-11T15:11:53Z
@@ -384,7 +384,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 615e92bb-3da5-4a9f-a6ef-d08c53a73b5d,way/43762741,Peninsula Golf and Country Club,,course,,,active,18,,,,,,,,,CA,,US,37.5416668,-122.3237564,2026-10-11T15:11:53Z
 61d35a62-0c71-4b08-8ced-7e52143148df,relation/12417001,The Club at Morningside,,course,,,active,,,,,+1-760-324-1234,https://www.clubatmorningside.com/,,39033 Morningside Drive,Rancho Mirage,CA,92270,US,33.7648164,-116.4311777,2026-10-11T15:12:41Z
 61e34a88-5bb6-42b2-8fd9-7f4260e7f794,way/162935421,Willowick Municipal Golf Course,,course,,,active,18,71,,,+1-714-554-0672,https://www.willowickgolf.com/,,3017 W 5th Street,Santa Ana,CA,92703,US,33.7525853,-117.9114972,2026-10-11T13:30:03Z
-62082b37-bc83-4606-b26d-3d6cc27f2be5,way/44388900,Desert Trails Golf Course,,course,,,active,,,,,,,,,,CA,,US,32.7691563,-115.5462615,2026-10-11T15:11:53Z
+62082b37-bc83-4606-b26d-3d6cc27f2be5,way/44388900,Desert Trails Golf Course,,course,,,active,,,,,,https://www.deserttrailsrv.com/,,,,CA,,US,32.7691563,-115.5462615,2026-10-21T11:30:50Z
 62822054-2f42-4ff5-bde9-b863f4717e62,way/61247192,Fort Washington Golf & Country Club,,course,,private,active,18,73,,,+1-559-434-1702; +1-559-434-9120,https://www.fortwashingtoncc.org/,,10272 North Millbrook,Fresno,CA,93730,US,36.884796,-119.7611462,2026-10-11T13:29:49Z
 62cc60e2-f1cc-4da1-9e64-b38b0403652e,way/45306823,Alondra Park Golf Course,,course,,,active,,,,,+1-310-217-9915,https://www.alondragc.com/,,16400 South Prairie Avenue,Lawndale,CA,90260,US,33.8824092,-118.3395126,2026-10-11T13:29:44Z
 62fc56ea-ef03-4ec7-9c44-4e3601ac6b69,way/545394912,Inland Golf Range,,practice,,,active,,,,,,,,,,CA,,US,34.0503748,-117.2405934,2026-10-11T15:06:30Z
@@ -399,7 +399,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 63ec8b88-42e5-4a07-af07-6e30d0468dd0,relation/3567101,Monterey Country Club,,course,,,active,,,,,,https://www.montereycc.com/,,,,CA,,US,33.7434059,-116.3831772,2026-10-11T15:12:33Z
 643487ad-5624-4bb7-800f-e560d73dcb99,way/40186200,Los Robles Greens Golf Course,,course,,,active,18,71,,,+1-805-495-6421,https://www.losroblesgreens.com/,,299 South Moorpark Road,Thousand Oaks,CA,91361,US,34.1779814,-118.8834771,2026-10-11T13:29:39Z
 646c378f-3a10-4959-9eed-1262886a2b70,way/61104562,Sherwood Forest Golf Club,,course,,,active,18,,,,+1-559-787-2611,https://www.sherwoodforestgolfclub.com/,,79 North Frankwood Avenue,Sanger,CA,93657,US,36.7399923,-119.4512092,2026-10-11T15:11:55Z
-648e6c73-08cf-4f73-a6f9-f880093d8535,way/24655757,Hillcrest Country Club,,course,,,active,,,,,+1-310-553-8911,,,10000 West Pico Boulevard,Los Angeles,CA,,US,34.0480463,-118.4048826,2026-10-11T15:11:49Z
+648e6c73-08cf-4f73-a6f9-f880093d8535,way/24655757,Hillcrest Country Club,,course,,,active,,,,,+1-310-553-8911,https://www.hcc-la.com/,,10000 West Pico Boulevard,Los Angeles,CA,,US,34.0480463,-118.4048826,2026-10-21T02:06:05Z
 648f6d56-bab1-49ba-b291-2cc62fc02e78,relation/324053,Sterling Hills Golf Club,,course,,,active,18,71,,,+1 805 604 1234,https://www.sterlinghillsgolf.com/,,901 Sterling Hills Drive,Camarillo,CA,93010,US,34.2427517,-119.0910238,2026-10-11T15:12:30Z
 64a8990b-ecca-4430-9101-21a3d85e32fe,way/1534757929,,,course,,,active,,,,,,,,,,CA,,US,33.5437887,-116.1903099,2026-10-11T13:31:18Z
 64b1bcdc-bda4-47e6-b1f8-4cf84e437b97,way/44289094,Rustic Canyon Golf Course,,course,,,active,18,72,,,+1-805-530-0221,https://www.rusticcanyongolfcourse.com/,,15100 Happy Camp Canyon Road,Moorpark,CA,93021,US,34.3115668,-118.8658506,2026-10-11T15:11:53Z
@@ -412,7 +412,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 65f12143-e84e-418b-ba45-be2dc58eb6fc,way/1447852243,,,course,,,active,,,,,,,,,,CA,,US,32.9123189,-117.0813596,2026-10-11T15:12:29Z
 65f2c55e-3ffa-4704-abf8-6a67afd5e872,relation/326567,Eastlake Country Club,,course,,,active,,,,,,,,,,CA,,US,32.6400847,-116.9575984,2026-10-11T15:12:30Z
 65f9ce81-5e91-42b6-915c-f310fd77dab8,way/517802071,,,course,,,active,,,,,,,,,,CA,,US,37.9486288,-122.0976321,2026-10-11T15:12:18Z
-666d84f2-972d-487a-bd72-fbaed52a45c4,relation/8729635,Ponderosa Golf Course,,course,,,active,9,35,,,,,,,,CA,,US,39.3244999,-120.165786,2026-10-11T15:12:38Z
+666d84f2-972d-487a-bd72-fbaed52a45c4,relation/8729635,Ponderosa Golf Course,,course,,,active,9,35,,,,https://www.ponderosagolfcoursetruckee.com/,,,,CA,,US,39.3244999,-120.165786,2026-10-20T11:34:54Z
 673e6520-e036-4466-b256-04c2f50ab686,way/294560976,Calabasas Golf and Country Club,,course,,,active,18,72,,,+1-818-222-8111,https://www.calabasasgolf.com/,,4515 Park Entrada,Calabasas,CA,91302,US,34.1409286,-118.6577099,2026-10-11T15:12:08Z
 67804f50-d87a-45e7-90e7-6c1de5bb75ab,way/938235918,Mather Golf Course,,course,,,active,18,72,,,,,,,,CA,,US,38.5497082,-121.2565875,2026-10-11T15:12:23Z
 67907ae9-9509-4eb3-9e51-50ef2867fa0c,way/42013525,Riverside Golf Course,,course,,,active,18,,,,,,,,,CA,,US,36.8449367,-119.9041124,2026-10-11T15:11:53Z
@@ -420,7 +420,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 67d5e907-1a3a-48a3-b25b-865dd6858c9f,way/51104896,Sand Canyon Country Club,,course,,,active,,,,,+1-661-252-8484,https://www.sandcanyoncc.com/,,27734 Sand Canyon Rd,Santa Clarita,CA,91387,US,34.410805,-118.4089086,2026-10-11T15:11:53Z
 682f17a1-288c-4b1b-8c25-71cdf51ab605,relation/4075034,Forest Meadows Golf Course,,course,,,active,18,60,,,+1-209-728-3439,https://www.forestmeadowsgolf.com/,,633 Forest Meadows Drive,Murphys,CA,95247,US,38.1615274,-120.4100626,2026-10-11T15:12:35Z
 685eff32-f7f0-4cba-9862-0136aad806a5,way/486638916,Del Web Golf Course,,course,,,active,,,,,,,,,,CA,,US,37.8308227,-121.2408583,2026-10-11T15:12:17Z
-68825629-f2b7-418e-ba58-a07b395c9d8b,relation/20410537,Del Mar Country Club,,course,,,active,,,,,,,,6001 Clubhouse Drive,Rancho Santa Fe,CA,,US,32.9777019,-117.1931913,2026-10-11T13:31:51Z
+68825629-f2b7-418e-ba58-a07b395c9d8b,relation/20410537,Del Mar Country Club,,course,,,active,,,,,,https://www.delmarcountryclub.com/,,6001 Clubhouse Drive,Rancho Santa Fe,CA,,US,32.9777019,-117.1931913,2026-10-21T11:30:46Z
 68f645bf-0dd9-4f43-bdae-e0d215f48211,relation/3569007,Bel-Air Country Club,,course,,private,active,18,70,,,+1-310-472-9563,https://www.bel-aircc.golf/,,10768 Bellagio Road,Los Angeles,CA,90077,US,34.0797515,-118.4508824,2026-10-11T15:12:33Z
 691d5995-fb2a-4d07-b7dd-6bdf9d60e365,relation/4069644,Lake Oroville Golf Course,,course,,,active,,,,,+1 530 589 0777,http://oroville.chamberofcommerce.me/orovillechamber/mem_LOGEC,,,,CA,,US,39.5275273,-121.4706874,2026-10-11T13:31:27Z
 693aae29-3699-4ba4-a9c1-153135e26a27,way/23630832,The Golf Club at Moffett Field,,course,,,active,18,72,,,+1-650-386-0720,https://www.moffettgolf.com/,,934 Macon Road,Moffett Field,CA,94035,US,37.422872,-122.0413996,2026-10-11T15:11:48Z
@@ -428,15 +428,15 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 699778ab-437e-4c39-ba01-26471781765a,way/38202931,Sunken Gardens Golf Course,,course,,,active,9,29,,,+1-408-739-6588,https://sunnyvale.ca.gov/Departments/CommunityServices/GolfCourses.aspx,,1010 South Wolfe Road,Sunnyvale,CA,94086,US,37.3560156,-122.0114041,2026-10-11T15:11:51Z
 69d5c3df-4bd5-4a24-a008-c2ec283610aa,relation/1792322,Diablo Grande Resort,,course,,,active,,,,,,,,,,CA,,US,37.3980434,-121.2605884,2026-10-11T15:06:41Z
 69f4b959-98cc-4760-a3cc-cf7b61479be6,relation/7147745,San Clemente Municipal Golf Course,,course,,,active,,,,,+1-949-361-8384,http://sanclementegc.com/,,50 E. Avenida Magdalena,San Clemente,CA,92672,US,33.4090214,-117.5956243,2026-10-11T15:12:38Z
-6a002138-1510-426f-8ab5-192c527ba707,way/44581370,Tulare Golf and Country Club,,course,,,active,,,,,,,,,,CA,,US,36.1602492,-119.3216001,2026-10-11T15:11:53Z
+6a002138-1510-426f-8ab5-192c527ba707,way/44581370,Tulare Golf and Country Club,,course,,,active,,,,,,https://tularegolf.com/,,,,CA,,US,36.1602492,-119.3216001,2026-10-20T11:36:32Z
 6a5716ce-8f40-4aa9-a777-b1e5001b38ef,relation/21320526,Desert Willow Golf Resort,,course,,,active,18,,,,,https://www.desertwillow.com/,,,,CA,,US,33.7653284,-116.3648064,2026-10-11T15:12:45Z
 6a67eff2-1bd6-4e46-a2cb-22ac73859c3e,way/41443030,El Prado Golf Courses,,course,,,active,,,,,+1-909-597-1751,https://www.elpradogolfcourses.com/,,6555 Pine Ave.,Chino,CA,91708,US,33.9500405,-117.6618254,2026-10-11T15:11:53Z
 6a7162e1-ce5d-4b45-b89d-14d8f7b93300,way/133950735,Dad Miller Golf Course,,course,,,active,18,71,,,+1-714-765-3481,https://www.dadmillergc.com/,,430 North Gilbert Street,Anaheim,CA,92801,US,33.8369041,-117.9680028,2026-10-11T15:11:57Z
 6a8ec28d-63f8-4cb9-8cd2-b4fb19656b85,way/296139046,Palo Alto Hills Golf Course and Country Club,,course,,,active,18,,,,,,,,,CA,,US,37.3762757,-122.1736175,2026-10-11T13:30:27Z
-6a916d0c-698d-44e9-ab87-495d6203cbea,way/184368989,J B Golf Course,,course,,,active,,,,,+1-209-886-5670,,,24305 California 4,Farmington,CA,95230,US,37.9326591,-121.0150974,2026-10-11T13:30:03Z
-6ab87192-5a18-46b9-982e-3fefde16bc4f,way/44421430,Belmont Pines Golf Course,,course,,,active,,,,,,,,,,CA,,US,38.822431,-122.7184494,2026-10-11T15:11:53Z
+6a916d0c-698d-44e9-ab87-495d6203cbea,way/184368989,J B Golf Course,,course,,,closed,,,,,+1-209-886-5670,,,24305 California 4,Farmington,CA,95230,US,37.9326591,-121.0150974,2026-10-22T13:05:08Z
+6ab87192-5a18-46b9-982e-3fefde16bc4f,way/44421430,Belmont Pines Golf Course,,course,,,active,,,,,,https://www.belmontpinesgolfcourse.com/,,,,CA,,US,38.822431,-122.7184494,2026-10-20T11:40:13Z
 6b0917b0-eeae-4960-9170-9c302e1d9ea5,relation/3573729,Snowcreek Resort Golf Course,,course,,,active,,,,,+1-760-934-6633,https://www.mammothmountain.com/golf,,,,CA,,US,37.6276581,-118.9758523,2026-10-11T15:12:33Z
-6b1bbcb5-6b97-4cce-ab49-322d0b5b95a7,way/369572200,Oakmont Country Club,,course,,,active,,,,,,,,,,CA,,US,34.1970032,-118.2328482,2026-10-11T15:12:14Z
+6b1bbcb5-6b97-4cce-ab49-322d0b5b95a7,way/369572200,Oakmont Country Club,,course,,,active,,,,,,https://www.oakmontcc.com/,,,,CA,,US,34.1970032,-118.2328482,2026-10-20T11:38:02Z
 6b557287-db43-48cf-ac19-7d89f86878da,relation/13105339,Arroyo Seco Golf Course,,par3,,,active,18,54,,,+1-323-255-1506,https://www.arroyosecogc.com/,,1055 Lohman Lane,South Pasadena,CA,91030,US,34.1151385,-118.1693104,2026-10-11T15:12:41Z
 6b5b5961-d7d3-4bc9-b5ea-3609c993d674,way/192168936,Westdrift Golf,,par3,,,active,9,27,,,+1-310-939-1411,https://westdrift.com/experience/golf/,,1400 Parkview Ave.,Manhattan Beach,CA,90266,US,33.898754,-118.3871399,2026-10-11T15:12:01Z
 6b77b39c-5f8e-4e90-9b22-5efbf3ee01c3,relation/3568934,Lakewood Country Club,,course,,,active,18,72,,,+1-562-421-0550,https://www.lakewoodgolfcc.com/,,3101 Carson Street,Lakewood,CA,90712,US,33.8336592,-118.1519245,2026-10-11T15:12:33Z
@@ -451,17 +451,17 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 6d281dfe-f789-4dd7-99e6-bdc17c23b162,way/196873161,Scholl Canyon Golf Course,,course,,,active,18,60,,,+1-818-243-4100,https://www.schollcanyongc.com/,,3800 East Glenoaks Boulevard,Glendale,CA,91206,US,34.1596883,-118.1984153,2026-10-11T15:12:03Z
 6d4aaab2-9c8d-4c62-a8cb-0ecc16665596,way/1137888321,,,course,,,active,,,,,,,,,,CA,,US,32.9464368,-117.2037013,2026-10-11T15:12:27Z
 6d505e7d-a451-41eb-9f56-bbff1d69211a,node/1576233524,Lost Canyons Golf Course,,course,,,active,,,,,,,,,,CA,,US,34.3137581,-118.7340198,2026-10-11T13:29:32Z
-6d67601c-8673-44cb-880f-21e8f1df7c92,way/184370272,Escalon Golf Course,,course,,,active,9,32,,,+1-209-838-1277,,,17051 S Escalon Bellota Rd,Escalon,CA,95320,US,37.8079284,-120.9993346,2026-10-11T15:12:01Z
+6d67601c-8673-44cb-880f-21e8f1df7c92,way/184370272,Escalon Golf Course,,course,,,active,9,32,,,+1-209-838-1277,https://escalongc.com/,,17051 S Escalon Bellota Rd,Escalon,CA,95320,US,37.8079284,-120.9993346,2026-10-21T11:35:59Z
 6d7bf7b1-dbe9-4cf7-8557-ceec30150d5d,relation/3567102,Rancho Las Palmas Country Club,,course,,,active,,,,,+1-760-862-4551,https://www.rancholaspalmascountryclub.com/,,42000 Bob Hope Drive,Rancho Mirage,CA,92270,US,33.7405495,-116.3996591,2026-10-11T15:12:33Z
 6d850f87-4197-48a2-a21b-eea8ee62936d,way/701221024,The Club at Pasadera,,course,,,active,,,,,,,,,,CA,,US,36.5758213,-121.7745173,2026-10-11T15:12:21Z
-6e1e4899-ba0c-40e4-8172-31724d5513a5,way/1246462624,Northwood Golf Club,,course,,,active,9,35,,,,,,,,CA,,US,38.4785367,-122.994249,2026-10-11T13:31:12Z
+6e1e4899-ba0c-40e4-8172-31724d5513a5,way/1246462624,Northwood Golf Club,,course,,,active,9,35,,,,https://northwoodgolf.com/,,,,CA,,US,38.4785367,-122.994249,2026-10-20T11:41:06Z
 6e291b08-781b-4ba7-9767-bba18a82e988,way/1528352531,,,course,,private,active,,,,,,,,,,CA,,US,33.6176723,-117.5957982,2026-10-11T15:06:40Z
 6e4d58aa-f594-4100-910c-ba7a5182ca0c,relation/7508059,Marrakesh Country Club,,course,,private,active,18,60,,,,https://www.marrakeshcountryclub.com,,,,CA,,US,33.7067729,-116.3781977,2026-10-11T15:12:38Z
 6e586b03-22c2-4dd8-8bd7-533da00eb3a7,way/260374522,Healdsburg Golf Club at Tayman Park,,course,,,active,9,35,,,,https://www.healdsburggolfclub.com/index.htm,,927 South Fitch Mountain Road,Healdsburg,CA,95448,US,38.6160814,-122.8559126,2026-10-11T13:30:12Z
 6e616d6b-9098-470f-8000-c7380d13708e,way/1137888320,,,course,,,active,,,,,,,,,,CA,,US,32.9445441,-117.2089859,2026-10-11T15:12:27Z
 6ea34786-3b9e-45ae-92c0-8b1f481e6504,way/171173211,Lake Don Pedro Golf Course,,course,,,active,,,,,,,,,,CA,,US,37.6348134,-120.3530917,2026-10-11T15:12:01Z
-70480604-a412-472f-85f4-837993ffab11,way/457833881,La Rinconada Country Club,,course,,,active,18,70,,,,,,,,CA,,US,37.2550978,-121.975447,2026-10-11T15:12:17Z
-706964fd-fa87-4fae-abfa-d0c7aa87f0cc,relation/5553944,Schaffer's Mill Golf Course,,course,,,active,18,71,,,,,,,,CA,,US,39.3087018,-120.1695342,2026-10-11T13:31:32Z
+70480604-a412-472f-85f4-837993ffab11,way/457833881,La Rinconada Country Club,,course,,,active,18,70,,,,https://larinconadacc.com/,,,,CA,,US,37.2550978,-121.975447,2026-10-21T11:34:37Z
+706964fd-fa87-4fae-abfa-d0c7aa87f0cc,relation/5553944,Schaffer's Mill Golf Course,,course,,,active,18,71,,,,https://www.schaffersmill.com/,,,,CA,,US,39.3087018,-120.1695342,2026-10-21T11:30:07Z
 70fb425e-bd51-4d82-8f70-a7eaaec3f08f,relation/8906833,Trilogy Golf Club at La Quinta,,course,,,active,18,72,,,+1-760-771-0707,https://www.thegolfclubatlaquinta.com/,,60151 Trilogy Parkway,La Quinta,CA,92253,US,33.6055099,-116.2421013,2026-10-11T13:31:37Z
 71464505-c043-41fa-94b1-06ea0a37f25c,relation/2238355,Copper River Country Club,,course,,private,active,18,,,,+1-559-434-5255,https://www.copperrivercountryclub.com/,,,,CA,,US,36.9037481,-119.743498,2026-10-11T15:12:33Z
 717ef74b-0213-4774-8a88-1c25252dbf71,way/44175814,Whites Bridge Country Club,,course,,,active,,,,,,,,,,CA,,US,36.7381332,-120.2186607,2026-10-11T15:11:53Z
@@ -477,17 +477,17 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 741a4770-8de0-490e-914b-1f2bfc59a377,relation/12172608,Moraga Country Club,,course,,private,active,18,71,,,+1-925-376-2200,https://www.moragacc.com/,,1600 St Andrews Dr,St Andrews Dr,CA,94556,US,37.8370683,-122.1458617,2026-10-11T15:12:41Z
 747da08a-2eb4-4ca4-8f61-5ee012c70ded,way/44501199,,,course,,,active,,,,,,,,,,CA,,US,33.0085676,-117.0688964,2026-10-11T15:11:53Z
 748b8939-c6d0-4e87-bbe8-f95d6f3dbbf9,way/156750376,Tregnan Golf Academy,,course,,,active,,,,,,,,,,CA,,US,34.1213054,-118.2755517,2026-10-11T15:12:00Z
-7499531b-6f5d-44e3-82d7-d803b6c8270c,way/518538313,Desert Falls Country Club,,course,,,active,,,,,,,,,,CA,,US,33.765243,-116.3504427,2026-10-11T15:12:18Z
+7499531b-6f5d-44e3-82d7-d803b6c8270c,way/518538313,Desert Falls Country Club,,course,,,active,,,,,,https://www.desertfallscountryclub.com/,,,,CA,,US,33.765243,-116.3504427,2026-10-20T11:42:52Z
 75d46a54-e4a1-4c34-91db-4cf6050e88e8,relation/7508060,Desert Springs,,course,,,active,,,,,,,,,,CA,,US,33.7525268,-116.36503,2026-10-11T15:12:38Z
-76282faf-8186-47cf-8142-74107c2a2240,way/1413089180,Lake Almanor West Golf,,course,,,active,,,,,,,,,,CA,,US,40.2411269,-121.2057254,2026-10-11T13:31:14Z
+76282faf-8186-47cf-8142-74107c2a2240,way/1413089180,Lake Almanor West Golf,,course,,,active,,,,,,,,,,CA,,US,40.2411269,-121.2057254,2026-10-21T01:44:39Z
 7659d4dd-0bba-46b6-879a-13734a668ddf,relation/3570877,Foxtail Golf Club,,course,,,active,,,,,+1-707-584-7766,https://www.playfoxtail.com/,,100 Golf Course Drive,Rohnert Park,CA,94928,US,38.3599303,-122.7010283,2026-10-11T13:31:22Z
 77539ba0-f8d4-4fde-acd0-ce8c2f819163,way/44487048,Baywood Golf Course,,course,,,active,,,,,,,,,,CA,,US,40.8460071,-124.049079,2026-10-11T13:29:44Z
-775f11ad-f48d-4439-9bc2-16d90fd4e235,way/592502121,Winchester Country Club,,course,,,active,18,72,,,,,,16664 Winchester Club Drive,Meadow Vista,CA,95722,US,38.9892732,-121.0471763,2026-10-11T15:12:20Z
+775f11ad-f48d-4439-9bc2-16d90fd4e235,way/592502121,Winchester Country Club,,course,,,active,18,72,,,,https://www.winchestercountryclub.com/,,16664 Winchester Club Drive,Meadow Vista,CA,95722,US,38.9892732,-121.0471763,2026-10-21T11:30:25Z
 77decf42-d81a-473e-958c-88c871e2bda9,way/40056999,Spindrift Pitch & Putt  (La Jolla Beach & Tennis Club),,par3,,,active,,,,,+1 858-551-4653,https://www.ljbtc.com/,,,,CA,,US,32.8531276,-117.2579334,2026-10-11T15:11:51Z
 783c6d3d-7a5e-4ebe-9444-d2320c12297c,relation/4082111,Dinah Shore Tournament Course,,course,,,active,,,,,+1-760-324-9400,https://www.clubcorp.com/Clubs/Mission-Hills-Country-Club/,,,,CA,,US,33.7935139,-116.4322251,2026-10-11T13:31:27Z
 78ea2c18-ce3e-4c6f-a023-c6ff454bf39d,way/558405670,,,course,,,active,,,,,,,,,,CA,,US,36.8830571,-119.7966276,2026-10-11T15:12:18Z
-79290a8c-2c3e-4815-928b-e1e2e48ac6cc,relation/11841797,Poppy Hills Golf Course,,course,,,active,18,71,,,,,,,,CA,,US,36.5847987,-121.9400424,2026-10-11T15:12:41Z
-792ee5fe-5c53-4094-ac8a-367cb9ee4fdf,way/44500947,The Heights Country Club,,course,,,active,,,,,,,,,,CA,,US,33.0059386,-117.0680047,2026-10-11T15:11:53Z
+79290a8c-2c3e-4815-928b-e1e2e48ac6cc,relation/11841797,Poppy Hills Golf Course,,course,,,active,18,71,,,,https://poppyhillsgolf.ncga.org/,,,,CA,,US,36.5847987,-121.9400424,2026-10-20T11:31:56Z
+792ee5fe-5c53-4094-ac8a-367cb9ee4fdf,way/44500947,The Heights Country Club,,course,,,active,,,,,,https://theheightsgolf.greensidegolfer.com/,,,,CA,,US,33.0059386,-117.0680047,2026-10-22T11:23:10Z
 79837596-b26f-46cf-a2ad-86434a37d41b,way/468522362,Eastlake Country Club,,course,,,active,,,,,,http://www.eastlakecountryclub.com,,,,CA,,US,32.6468311,-116.9623249,2026-10-11T15:12:17Z
 7986a0bd-1a01-4827-9d2a-071ec239198c,way/468697513,Los Coyotes Country Club,,course,,,active,,,,,+1-714-994-7788,https://www.loscoyotescc.com/,,8888 Los Coyotes Drive,Buena Park,CA,90621,US,33.886764,-117.976989,2026-10-11T15:12:17Z
 7a050938-7b0d-45e0-88cd-85cbf0445011,relation/19553069,Hesperia Golf & Country Club,,course,,,active,18,72,,,+1-760-244-9301,http://www.golfhesperiaparks.com/,,17970 Bangor Avenue,Hesperia,CA,92345,US,34.4072138,-117.2685205,2026-10-11T15:06:54Z
@@ -498,7 +498,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 7cd6207b-c6a5-4998-8dbe-4e00b17d58fa,way/453233114,,,course,,,active,,,,,,,,,,CA,,US,34.2527827,-116.0874754,2026-10-11T15:12:17Z
 7d25a580-3021-48d4-a243-155643ad449a,way/961157213,Steele Canyon Golf Club,,course,,,active,,,,,+1-619-441-6900,https://www.steelecanyon.com/,,3199 Stonefield Drive,Jamul,CA,91935,US,32.7438437,-116.8941841,2026-10-11T15:12:23Z
 7d77be4d-619b-467c-b43e-1d2dc1344fac,way/976399929,,,course,,,active,,,,,,,,,,CA,,US,32.8006113,-115.417815,2026-10-11T15:12:24Z
-7da23e96-cac0-421a-84ef-51522b1aa0ea,relation/1207278,Olivas Park Golf Course,,course,,,active,18,72,,,,,,3750 Olivas Park Drive,Ventura,CA,93001,US,34.2404803,-119.247768,2026-10-11T15:06:41Z
+7da23e96-cac0-421a-84ef-51522b1aa0ea,relation/1207278,Olivas Park Golf Course,,course,,,active,18,72,,,,https://olivaslinks.com/,,3750 Olivas Park Drive,Ventura,CA,93001,US,34.2404803,-119.247768,2026-10-20T11:38:04Z
 7df31046-21ba-4ce8-b594-ebe4da66ebba,relation/2864237,The Plantation Golf Club,,course,,,active,18,72,,,,https://theplantationgc.com/,,,,CA,,US,33.6785235,-116.2294426,2026-10-11T15:12:33Z
 7e64f536-a4b1-4aa5-9682-73393dcab5b3,relation/2079275,Sun Lakes Country Club and Golf Course,,course,,,active,,,,,+1-909-845-2135,https://www.sunlakescc.com/,,,,CA,,US,33.9161515,-116.9379714,2026-10-11T15:12:30Z
 7e68c5b3-1d72-4945-934a-7d2bd12ac548,way/1150725543,,,course,,,active,,,,,,,,,,CA,,US,33.2103096,-117.0179753,2026-10-11T15:12:27Z
@@ -519,12 +519,12 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 8202afb7-8fb6-4002-9888-07414930ae0e,relation/3572281,Camarillo Springs Golf Course,,course,,,active,,,,,+1-805-484-1075,https://www.camarillospringsgolf.com/,,791 Camarillo Springs Rd.,Camarillo,CA,93012,US,34.2001207,-118.9906094,2026-10-11T15:12:33Z
 8304873d-78ab-494a-be32-cc0ada8b287d,way/27166963,Skylinks Golf Course,,course,,,active,18,72,,,+1-562-421-3388,https://www.skylinksgc.com/,,4800 E. Wardlow Road,Long Beach,CA,90808,US,33.817008,-118.1379166,2026-10-11T15:11:49Z
 83716488-100c-4b2d-80e6-dc50c6884837,way/30407983,La Jolla Country Club,,course,,,active,18,,,,,,,,,CA,,US,32.8384746,-117.266791,2026-10-11T15:11:49Z
-837a0dc9-e456-491c-b394-b398024c719f,relation/10254443,Nakoma Resort Golf Course,,course,,,active,,,,,,,,,,CA,,US,39.7699616,-120.5223236,2026-10-11T15:12:38Z
+837a0dc9-e456-491c-b394-b398024c719f,relation/10254443,Nakoma Resort Golf Course,,course,,,active,,,,,,https://nakomaresort.com/,,,,CA,,US,39.7699616,-120.5223236,2026-10-20T11:34:21Z
 83a5fa84-6410-4263-9cb5-3c0815afcfe4,way/288126850,Forebay Golf Club,,course,,,active,,,,,,,,,,CA,,US,37.1016178,-121.0309126,2026-10-11T15:12:07Z
-83d11a34-054b-4edf-8b76-4fe152c25607,relation/326323,Rancho la Quinta Country Club,,course,,private,active,,,,,+1-760-777-7799;+1-760-777-7755,,,,,CA,,US,33.6927326,-116.2818597,2026-10-11T15:12:30Z
+83d11a34-054b-4edf-8b76-4fe152c25607,relation/326323,Rancho la Quinta Country Club,,course,,private,active,,,,,+1-760-777-7799;+1-760-777-7755,https://www.rancholaquinta.com/,,,,CA,,US,33.6927326,-116.2818597,2026-10-21T11:28:18Z
 83fcefc0-0d17-4a22-89b3-a87d2f1784be,way/445135458,,,practice,,,active,,,,,,,,,,CA,,US,33.6075704,-117.6243874,2026-10-11T15:12:15Z
 84676d4f-ea61-457b-b33f-48d037a28048,way/83332241,The Crossings at Carlsbad,,course,,,active,18,72,,,+1-760-444-1800,https://thecrossingsatcarlsbad.com/,,5800 The Crossings Drive,Carlsbad,CA,,US,33.1297857,-117.2981814,2026-10-11T15:11:55Z
-846d6253-7202-424e-8bbd-7da7152a56bb,way/69693303,Costa Mesa Country Club,,course,,,active,,,,,,,,,,CA,,US,33.6633124,-117.9270874,2026-10-11T15:06:07Z
+846d6253-7202-424e-8bbd-7da7152a56bb,way/69693303,Costa Mesa Country Club,,course,,,active,,,,,,https://www.costamesacountryclub.com/,,,,CA,,US,33.6633124,-117.9270874,2026-10-20T11:41:31Z
 847063ad-2165-47e5-9ede-98509a232bcd,relation/174348,River Ridge Golf Club,,course,,,active,,,,,+1-805-983-4653,https://www.riverridge-golfclub.com/,,2401 W. Vineyard Ave.,Oxnard,CA,93036,US,34.2276422,-119.2083499,2026-10-11T15:06:41Z
 84b845fb-1760-4c08-aa8e-558856229038,way/305357421,Black Oak Golf Course,,course,,,active,9,36,,,+1-530-878-1900,http://www.golfblackoak.com/,,2455 Black Oak Drive,Auburn,CA,95602,US,38.9652664,-121.0711093,2026-10-11T15:12:12Z
 84c74665-f65d-4729-852f-4f29012997b0,way/1184081753,South Gate Golf Course,,par3,,,active,9,27,,,+1-323-357-9658,https://www.cityofsouthgate.org/Government/Departments/Parks-and-Recreation/Search-Programs-Activities/Golf-Course,,9615 Pinehurst Avenue,South Gate,CA,90280,US,33.9439439,-118.1835737,2026-10-11T15:06:38Z
@@ -537,11 +537,11 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 862a494c-b27e-4f4d-a32e-4f0b398dc42f,way/147942436,Cordova Golf Course,,course,,,active,18,65,,,+1-916-362-1196,https://cordovagc.com/,,9425 Jackson Road,Sacramento,CA,95826,US,38.5362179,-121.3474962,2026-10-11T13:29:58Z
 86354c07-222b-42bd-bfee-9acc87a94c88,way/62102530,Maderas Golf Club,,course,,,active,18,72,,,+1-858-451-8100,https://www.maderasgolf.com/,,17750 Old Coach Road,Poway,CA,92064,US,33.0383198,-117.0258291,2026-10-11T15:11:55Z
 868ddc78-cf13-42d7-b98f-455765fcd61d,relation/3919785,Indio Municipal Golf Course,,course,,,active,,,,,+1-760-391-4049,https://indio.org/index.aspx?page=171,,,,CA,,US,33.7458627,-116.211285,2026-10-11T13:31:27Z
-869066ec-0edc-464d-80db-0ee699d9419b,relation/13836791,Castle Creek Country Club,,course,,,active,18,,,,,,,,,CA,,US,33.2527073,-117.1438325,2026-10-11T15:12:41Z
+869066ec-0edc-464d-80db-0ee699d9419b,relation/13836791,Castle Creek Country Club,,course,,,active,18,,,,,https://www.castlecreekcountryclub.com/,,,,CA,,US,33.2527073,-117.1438325,2026-10-21T11:30:38Z
 8752ba74-8d25-4986-b965-1c9bb41acbc5,node/1594713657,Sierra Golf and Country Club,,course,,,active,,,,,,,,,,CA,,US,38.7232365,-120.7671558,2026-10-11T13:29:32Z
 884d6d7a-5296-4564-afe2-fbafda67cd1e,relation/16318153,Recreation Park 9 Golf Course,,course,,,active,9,31,,,+1-562-438-4012,https://www.recpark9.com/,,5000 East 7th Street,Long Beach,CA,90804,US,33.7734237,-118.1328718,2026-10-11T13:31:48Z
 8887d767-ff22-408b-afcb-8d195aa2fd0a,way/813491334,Hawk’s Landing Golf Club,,course,,,active,18,71,,,+1-760-365-0033,https://www.hawkslandinggolf.com/,,55100 Martinez Trail,Yucca Valley,CA,92284,US,34.1208143,-116.4597155,2026-10-11T15:06:33Z
-88ac3078-4264-4019-995d-13b049e3d851,relation/18013001,Saticoy Country Club,,course,,,active,18,72,,,,,,4450 Clubhouse Drive,Somis,CA,93066,US,34.2736874,-119.1071108,2026-10-11T15:12:45Z
+88ac3078-4264-4019-995d-13b049e3d851,relation/18013001,Saticoy Country Club,,course,,,active,18,72,,,,https://www.thesaticoyclub.com/,,4450 Clubhouse Drive,Somis,CA,93066,US,34.2736874,-119.1071108,2026-10-20T11:38:19Z
 88d99441-0c7c-4e95-840b-5651f40cc889,way/210339919,Black Gold Golf Club,,course,,,active,18,72,,,+1-714-961-0060,https://www.blackgoldgolf.com/,,1 Black Gold Drive,Yorba Linda,CA,92886,US,33.9064119,-117.8172567,2026-10-11T15:12:03Z
 8904dadb-a4b1-452b-ad94-fb97a2bbba8b,relation/5150430,Castlewood Country Club - Hill Course,,course,,,active,,,,,+1-925-846-2871,https://www.castlewoodcc.org/,,707 Country Club Circle,Pleasanton,CA,94566,US,37.6327665,-121.8962782,2026-10-11T15:12:36Z
 893e2904-f8b2-404e-b252-a8125eb22fb2,way/133588755,Rancho San Marcos Golf Course,,course,,,active,,,,,+1-877-776-1804; +1-805-683-6334,https://www.rsm1804.com/,,4600 Highway 154,Santa Barbara,CA,93105,US,34.5483237,-119.8768726,2026-10-11T15:11:57Z
@@ -551,7 +551,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 898370ef-7108-4bf5-996d-0832c27710b8,way/265942998,Antelope Greens Golf Course,,course,,,active,18,57,,,+1-916-334-5764,https://antelopegreensgolf.com/,,2721 Elverta Road,Antelope,CA,95843,US,38.718915,-121.3983611,2026-10-11T15:12:05Z
 898fb8a9-79e4-4e8a-ac8f-2b39a802e741,relation/3728465,Ridgemark Golf & Country Club,,course,,,active,18,,,,+1-831-637-8151,http://www.ridgemark.com/,,3800 Airline Highway,Hollister,CA,95023,US,36.8094288,-121.3607457,2026-10-11T13:31:22Z
 89ddd7da-0d17-47fa-b14a-927591cdd648,relation/18052129,Pine Mountain Lake Golf Course,,course,,,active,18,70,,,,,,,,CA,,US,37.8532713,-120.2154166,2026-10-11T15:12:45Z
-89e170d5-564e-46e2-9ebd-e67d2c750eaa,way/1271396979,Fairgrounds Golf Course,,course,,,active,9,,,,+1 707-284-3520,,,1350 Bennett Valley Road,Santa Rosa,CA,95404,US,38.4293308,-122.7021427,2026-10-11T13:31:12Z
+89e170d5-564e-46e2-9ebd-e67d2c750eaa,way/1271396979,Fairgrounds Golf Course,,course,,,active,9,,,,+1 707-284-3520,https://www.fairgroundsgolfcourse.com/,,1350 Bennett Valley Road,Santa Rosa,CA,95404,US,38.4293308,-122.7021427,2026-10-20T11:40:51Z
 8a4ab9d3-d121-42c3-a140-61b452c6a525,relation/3092771,Claremont Country Club,,course,,private,active,,,,,,https://www.invitedclubs.com/,,5295 Broadway Terrace #15,Danville,CA,94618,US,37.8378449,-122.2428861,2026-10-11T15:12:33Z
 8a5899e4-d2b2-4bf9-8d06-eaa68e69912a,way/133950737,Meadowlark Golf Club,,course,,,active,18,70,,,+1-714-846-1364,https://www.meadowlarkgc.com/,,16782 Graham Street,Huntington Beach,CA,92649,US,33.7190789,-118.0294432,2026-10-11T15:11:57Z
 8a672a87-cf78-47e0-a1c1-d20ca4e49cd5,relation/2955020,Shorecliffs Golf Club,,course,,,active,,,,,+1-949-492-1177,https://www.shorecliffsgolfclub.com/,,501 Avenida Vaquero,San Clemente,CA,92672,US,33.4540113,-117.6417475,2026-10-11T15:12:33Z
@@ -562,10 +562,10 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 8b044a6d-bf3b-49ea-bcad-fb25ce5d62b1,relation/7911325,Silver Creek Valley Country Club,,course,,,active,18,,,,,,,,,CA,,US,37.2784824,-121.7699906,2026-10-11T13:31:37Z
 8b45cc1f-bb0a-4d7d-a6ea-c67e6d9b9028,way/24473088,,,course,,,active,,,,,,,,,,CA,,US,37.6279909,-122.4351196,2026-10-11T15:06:00Z
 8b910acd-dcd5-4275-a81c-de18b51d2c03,way/24481574,California Golf Club of San Francisco,,course,,,active,18,72,,,,https://www.calclub.org/,,844 West Orange Avenue,South San Francisco,CA,94080,US,37.6486657,-122.4410597,2026-10-11T15:06:00Z
-8bfda24f-9345-4b6a-99dc-f000e8b6a2f6,node/12695551802,Los Serranos Golf Club,,course,,,active,,,,,,,,15656 Yorba Avenue,Chino Hills,CA,91709,US,33.9696754,-117.7010046,2026-10-11T13:29:32Z
+8bfda24f-9345-4b6a-99dc-f000e8b6a2f6,node/12695551802,Los Serranos Golf Club,,course,,,active,,,,,,https://www.losserranosgolfclub.com/,,15656 Yorba Avenue,Chino Hills,CA,91709,US,33.9696754,-117.7010046,2026-10-20T11:41:33Z
 8c75940e-dc48-44a4-9f1e-bb9817d0d420,way/223766741,Rio Hondo Golf Club,,course,,,active,,,,,+1-562-927-2329,https://www.riohondogc.com/,,10627 Old River School Road,Downey,CA,90241,US,33.9553226,-118.1488833,2026-10-11T15:12:03Z
-8ce3d9df-79ae-4d4a-afd9-e145fac62dc5,way/61669011,Belmont Country Club,,course,,,active,18,72,,,,,,,,CA,,US,36.7471024,-119.6414063,2026-10-11T15:11:55Z
-8d6a7e50-fd02-441a-8f8c-70a8c412253e,relation/12615279,The Quarry at La Quinta,,course,,,active,,,,,,,,,,CA,,US,33.6264143,-116.28149,2026-10-11T15:12:41Z
+8ce3d9df-79ae-4d4a-afd9-e145fac62dc5,way/61669011,Belmont Country Club,,course,,,active,18,72,,,,https://www.belmontcountryclub.net/,,,,CA,,US,36.7471024,-119.6414063,2026-10-20T11:35:32Z
+8d6a7e50-fd02-441a-8f8c-70a8c412253e,relation/12615279,The Quarry at La Quinta,,course,,,active,,,,,,https://www.thequarrygc.com/,,,,CA,,US,33.6264143,-116.28149,2026-10-21T11:29:18Z
 8db28dcb-4bbc-4617-9c81-8bdbdaeabe14,way/148203055,Kings Country Club,,course,,private,active,,,,,+1-559-582-0740,https://www.kingscountryclub.net/,,3529 12th Avenue,Hanford,CA,93230,US,36.4230667,-119.6737724,2026-10-11T15:12:00Z
 8edc8147-6bc8-416a-b72d-7193492fe6f3,way/44580734,Montecito Country Club,,course,,private,active,18,,,,+1 805-969-3216,https://www.montecitoclub1918.com/,,920 Summit Road,Santa Barbara,CA,93108,US,34.4251407,-119.6567386,2026-10-11T13:29:44Z
 8fe80b52-ff01-44bb-8ebb-f8e01d8074b7,relation/13080986,,,course,,,active,9,,,,,,,,,CA,,US,38.7393191,-121.3524423,2026-10-11T15:12:41Z
@@ -578,9 +578,9 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 9280fe14-27f7-4da8-add0-88b2fde3609f,relation/3568943,Alta Vista Country Club,,course,,private,active,18,71,,,+1-714-528-1103;+1-714-524-1591,https://www.altavistacc.com/,,777 E. Alta Vista Street,Placentia,CA,92870,US,33.876984,-117.8485038,2026-10-11T13:31:22Z
 92f59705-cdd6-4851-8d2b-61cef32598d2,way/305268497,Buckingham Golf & Country Club,,course,,,active,9,36,,,+1-707-279-4863,http://buckinghamgolf.net/,,2855 Eastlake Drive,Kelseyville,CA,95451,US,39.0016083,-122.7559826,2026-10-11T15:12:12Z
 935182e3-5bcb-449c-9871-02db9463b247,way/43963209,Van Buskirk Municipal Golf Course,,course,,,active,,,,,,,,,,CA,,US,37.9214781,-121.3082178,2026-10-11T15:11:53Z
-93843fa3-674b-48fa-9d73-3430d8a55105,relation/1505850,Indian Wells Country Club,,course,,private,active,,,,,,,,,,CA,,US,33.713312,-116.3170042,2026-10-11T15:12:30Z
+93843fa3-674b-48fa-9d73-3430d8a55105,relation/1505850,Indian Wells Country Club,,course,,private,active,,,,,,https://www.indianwellsgolfresort.com/,,,,CA,,US,33.713312,-116.3170042,2026-10-21T11:26:59Z
 93fb2763-046a-44fd-916b-de6e6791384e,relation/3569414,Rancho Vista Golf Course,,course,,,active,,,,,+1-661-272-9903,https://www.ranchovistagolfclub.com/,,,,CA,,US,34.6209262,-118.1967528,2026-10-11T15:12:33Z
-941f698e-e2cb-4052-89f2-a38a611e0927,way/36469432,Twin Creeks Golf Course,,course,,,active,9,31,,,,,,,,CA,,US,36.6961941,-121.6190974,2026-10-11T15:11:51Z
+941f698e-e2cb-4052-89f2-a38a611e0927,way/36469432,Twin Creeks Golf Course,,course,,,active,9,31,,,,https://www.twincreeksgolfcourse.com/,,,,CA,,US,36.6961941,-121.6190974,2026-10-21T11:24:16Z
 942a2939-e055-4b30-9020-d61552297b22,way/30885000,Oak Quarry Golf Club,,course,,,active,18,72,,,+1-951-685-1440,https://www.oakquarry.com/,,7151 Sierra Ave.,Riverside,CA,92509,US,34.0260887,-117.4320464,2026-10-11T15:06:00Z
 9452473c-bde8-45d3-8f63-70bdcac6751a,way/27830611,Monterey Pines Golf Course,,course,,,active,18,69,,,+1-831-656-2167,https://monterey.navylifesw.com/programs/93132d75-8532-43e0-9127-839b85297cd3,,,Monterey,CA,93940,US,36.5905458,-121.8616756,2026-10-11T15:11:49Z
 94754592-87c7-4fd8-94ab-3a48b50bf3ab,relation/7497376,Palm Desert Resort and Country Club,,course,,,active,,,,,,https://www.theresorter.com/,,,,CA,,US,33.7509012,-116.3170691,2026-10-11T15:12:38Z
@@ -597,11 +597,11 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 974a029b-6eb0-42d4-9c9a-29f6d4bd31ac,relation/4071432,Catta Verdera Country Club,,course,,private,active,18,72,,,+1 916-645-7200,https://www.cattaverdera.com/,,1111 Catta Verdera,Lincoln,CA,95648,US,38.8575528,-121.2416218,2026-10-11T15:06:45Z
 974a9556-ad91-4a02-9c16-f886d7d3823f,relation/3741806,Pebble Beach Golf Course,,course,,,active,18,72,,,,https://www.pebblebeach.com/golf/,https://www.pebblebeach.com/content/uploads/PebbleBeach-Scorecard.pdf,,Pebble Beach,CA,,US,36.5642591,-121.9394359,2026-10-12T01:52:08Z
 976488b9-a584-4e19-884c-8bfc191bca47,way/188802237,Palos Verdes Shores Golf Course,,course,,,active,9,28,,,,,,2275 West 25th Street,San Pedro,CA,90732,US,33.7255342,-118.3268586,2026-10-11T15:12:01Z
-97772c72-0bea-439a-907b-f6a1136f1c9f,way/1136339397,Stockdale Country Club,,course,,,active,18,71,,,,,,7001 Stockdale Highway,Bakersfield,CA,93309,US,35.3485049,-119.083004,2026-10-11T15:12:27Z
+97772c72-0bea-439a-907b-f6a1136f1c9f,way/1136339397,Stockdale Country Club,,course,,,active,18,71,,,,https://www.stockdalecc.com/,,7001 Stockdale Highway,Bakersfield,CA,93309,US,35.3485049,-119.083004,2026-10-20T11:36:23Z
 97fc5952-4b51-4325-9e58-91268acb6eaf,way/23653153,Mariners Point Golf Center,,course,,,active,9,28,,,+1-650-573-7888,https://www.marinerspoint.com/,,2401 East 3rd Avenue,Foster City,CA,94404,US,37.5731586,-122.2823681,2026-10-11T15:11:48Z
 9880c63a-d781-4d49-96b6-94597e5f68d9,way/218739730,Barona Resort Golf Course,,course,,,active,,,,,,,,,,CA,,US,32.9468061,-116.8723157,2026-10-11T13:30:07Z
 98e8bcdc-bf41-45e1-97cb-e531e18c39ab,way/288362245,Catalina Island Golf Course,,course,,,active,9,32,,,+1-310-510-0530,https://www.visitcatalinaisland.com/activities-adventures/golf/golf-course,,,,CA,,US,33.3358689,-118.3317707,2026-10-11T15:12:07Z
-99d1900f-090a-4761-982e-c5f323c42f0d,way/131198842,River Island Golf Course,,course,,,active,,,,,,,,,,CA,,US,36.1010767,-118.8609627,2026-10-11T13:29:54Z
+99d1900f-090a-4761-982e-c5f323c42f0d,way/131198842,River Island Golf Course,,course,,,active,,,,,,https://www.riverislandcountryclub.com/,,,,CA,,US,36.1010767,-118.8609627,2026-10-20T11:36:08Z
 9a079a5d-a1e4-4ed4-9c60-045b5985ac3b,way/44500700,Twin Oaks Golf Course,,course,,,active,18,72,,,+1-858-675-8470,https://www.jcgolf.com/san-diego-tee-times/san-marcos-ca-golf-courses,,1441 N. Twin Oaks Valley Rd,San Marcos,CA,92069,US,33.1634531,-117.1572914,2026-10-11T15:11:53Z
 9a47b7a3-e8f6-44c0-b2ca-cea61d40bb9d,way/44580714,Sandpiper Golf Course,,course,,,active,18,72,,,+1-805-968-1541,https://www.sandpipergolf.com/,,7925 Hollister Avenue,Goleta,CA,93117,US,34.4263766,-119.9063881,2026-10-11T15:11:53Z
 9a617eed-1a9a-4b67-b0b9-ae1336bc546a,relation/3573430,Balboa Park Golf Course,,course,,,active,,,,,+1-619-239-1660,https://www.balboagc.com/,,,,CA,,US,32.7284353,-117.1380433,2026-10-11T15:12:33Z
@@ -610,7 +610,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 9b2ce51f-62c2-412e-a9a2-9eff472303b2,relation/3570255,Lincoln Hills Golf Club,,course,,,active,,,,,+1-916-543-9200,https://www.lincolnhillsgolfclub.com/,,,,CA,,US,38.8706492,-121.2733801,2026-10-11T15:12:33Z
 9b560c32-48c8-406f-b09b-098fdbfbd413,relation/19223472,The Palms Golf Club,,course,,private,active,18,,,,+1-760-771-2606,https://www.thepalmsgc.org/,,,La Quinta,CA,92247,US,33.6362749,-116.2381113,2026-10-11T15:12:45Z
 9b605d7d-2d60-4e40-90ac-e4451bf511b5,way/838094951,,,course,,,active,,,,,,,,,,CA,,US,38.4935439,-122.411187,2026-10-11T15:12:23Z
-9ba14f8d-ec46-4f48-a41a-c4f1e517b104,way/27500315,Pajaro Valley Golf Club,,course,,,active,18,71,,,,,,967 Salinas Road,,CA,,US,36.8709883,-121.7555534,2026-10-11T13:29:34Z
+9ba14f8d-ec46-4f48-a41a-c4f1e517b104,way/27500315,Pajaro Valley Golf Club,,course,,,active,18,71,,,,https://www.pajarovalleygolf.com/,,967 Salinas Road,,CA,,US,36.8709883,-121.7555534,2026-10-20T11:31:47Z
 9ba73b20-6e28-488a-b680-632109e495f9,way/835393428,San Gabriel Country Club,,course,,,active,18,72,,,+1-626-287-9671,https://www.sangabrielcc.com/,,350 East Hermosa Drive,San Gabriel,CA,91775,US,34.1083655,-118.0954938,2026-10-11T15:12:23Z
 9bade310-5601-4203-8015-720d83bb730c,way/1530362969,Oaks North Golf Course - East,,course,,,active,,,,,,,,,,CA,,US,33.0343069,-117.0518717,2026-10-11T15:12:30Z
 9c419aa3-5a2b-435d-acaa-0b988fe5558b,way/607746211,Porterville Municipal Golf Couse,,course,,,active,,,,,,https://ci.porterville.ca.us/business_detail_T38_R20.php,,702 East Isham Avenue,Porterville,CA,93257,US,36.0660766,-119.0018589,2026-10-11T15:12:20Z
@@ -629,7 +629,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 9f2c9b64-7989-43ab-971a-1c70559b6317,relation/4069021,Lake Shastina Golf Resort,,course,,,active,,,,,+1-530-938-3201,https://www.lakeshastinagolf.com/,,5925 Country Club Drive,Weed,CA,96094,US,41.5100102,-122.3737859,2026-10-11T15:12:35Z
 9f69a66f-cf7c-49f9-9894-95690bcf43de,way/30967820,Del Paso Country Club,,course,,,active,18,,,,+1 916-489-3681,https://www.delpasocc.org/,,3333 Marconi Avenue,Sacramento,CA,95821,US,38.6215012,-121.3876126,2026-10-11T15:11:49Z
 9f733ab4-578b-4295-a2b7-b33adc7067b9,relation/4082113,Pete Dye Challenge Course,,course,,,active,,,,,+1-760-324-9400,https://www.clubcorp.com/Clubs/Mission-Hills-Country-Club/,,,,CA,,US,33.8033294,-116.4319186,2026-10-11T15:12:35Z
-9f77d010-45c0-4794-9f78-a24dc0b84484,relation/325767,Tahoe Donner Golf Course,,course,,,active,18,72,,,,,,,,CA,,US,39.351491,-120.239392,2026-10-11T15:12:30Z
+9f77d010-45c0-4794-9f78-a24dc0b84484,relation/325767,Tahoe Donner Golf Course,,course,,,active,18,72,,,,https://www.tahoedonner.com/,,,,CA,,US,39.351491,-120.239392,2026-10-20T11:35:17Z
 9fcc6dc3-a35f-4551-a4c2-baf6df0a3da4,relation/12797979,Champions Club at the Retreat,,course,,,active,,,,,,,,,,CA,,US,33.7950197,-117.5189926,2026-10-11T15:12:41Z
 9ff6728b-0477-4dbb-9cd9-e900f49a429f,way/43963270,Stockton Golf and Country Club,,course,,private,active,,,,,+1-209-466-4313,https://www.stocktongolfcc.com/,,3800 Country Club Boulevard,Stockton,CA,95204,US,37.9634015,-121.3567785,2026-10-11T13:29:44Z
 9ffd1408-0721-40a5-84f8-667c23af590e,way/1374900671,Stone Eagle,,course,,private,active,,,,,+1-760-250-1723,https://www.stoneeaglegolf.com/,,,,CA,,US,33.7047012,-116.4148419,2026-10-11T15:12:29Z
@@ -643,7 +643,7 @@ a1c9b458-c973-4dd8-a811-36172e6e1c57,way/33640493,Bartley Cavanaugh Golf Course,
 a1d8acd8-7272-46a3-9415-c899f2c67b27,way/121005356,Sierra View Country Club,,course,,private,active,18,,,,+1 916 783 4600,https://www.sierraviewcc.com/,,105 Alta Vista Avenue,Roseville,CA,,US,38.7638769,-121.2920682,2026-10-11T15:11:57Z
 a1edbd73-90be-4b40-8188-456ea4864c3f,way/125367071,Victoria Club,,course,,,active,18,72,,,+1-951-683-5323,https://www.victoriaclub.com/,,2521 Arroyo Drive,Riverside,CA,92506,US,33.9618844,-117.3599942,2026-10-11T15:11:57Z
 a22fdea3-797e-45c8-a5ac-801f107cd34a,way/26298053,Los Lagos Golf Course,,course,,,active,18,69,,,+1-408-361-0250,https://www.playloslagos.com/,,2995 Tuers Road,San Jose,CA,95121,US,37.3017921,-121.8323179,2026-10-11T15:11:49Z
-a278ef50-7200-4c8a-8fd7-1ed0c1cc56c1,relation/12669456,Suncrest Country Club,,course,,,active,,,,,,,,,,CA,,US,33.762699,-116.3864385,2026-10-11T13:31:42Z
+a278ef50-7200-4c8a-8fd7-1ed0c1cc56c1,relation/12669456,Suncrest Country Club,,course,,,active,,,,,,https://www.suncrestcountryclub.net/,,,,CA,,US,33.762699,-116.3864385,2026-10-21T11:29:02Z
 a28f76ad-400b-4898-992f-5745c223b73b,way/24684508,Alhambra Golf Course,,course,,,active,18,71,,,+1-626-570-5059,https://www.alhambragolf.com/,,630 South Almansor Street,Alhambra,CA,91801,US,34.0889069,-118.1130563,2026-10-11T15:11:49Z
 a2ca16df-544c-4aa5-8db8-f34c1b7271de,relation/3570852,StoneTree Golf Club,,course,,,active,18,72,,,+1 415 209 6090,https://www.bayclubs.com/stonetree/,,9 Stone Tree Lane,Novato,CA,94945,US,38.1013363,-122.5085146,2026-10-11T15:12:33Z
 a2d9a340-ef6d-4846-81bb-5607b0089d1e,way/135247239,Malibu Golf Club,,course,,,active,,,,,+1-818-889-6680,http://themalibugolfclub.com/,,901 Encinal Canyon Road,Malibu,CA,90265,US,34.0940925,-118.8519724,2026-10-11T15:11:57Z
@@ -673,22 +673,22 @@ a8fc0787-c29b-4429-9d6a-abdb545b44e0,way/142485506,Tuscan Ridge Golf Club,,cours
 a93962c1-8fb9-4923-8364-a39b8eceb770,relation/3735020,Paradise Valley Golf Course,,course,,,active,18,,,,+1 707 426 1600,https://fairfieldgolf.com/,,3950 Paradise Valley Drive,Fairfield,CA,94533,US,38.3018266,-122.0251562,2026-10-11T15:12:33Z
 a9e6a5bd-3df2-4dde-91a4-afb4f10186b4,relation/2999216,Rancho Murieta Golf & Country Club,,course,,private,active,,,,,+1-916-354-3416,https://www.ranchomurietacc.com/,,7000 Alameda Drive,Rancho Murieta,CA,95683,US,38.4946724,-121.080551,2026-10-11T13:31:22Z
 a9ec8363-fb64-4ba8-ae0b-cbabe5cc01fa,way/117047580,Chardonnay Golf Club,,course,,,active,,,,,+1-707-257-1900,https://chardonnaygolfclub.com/,,2555 Jameson Canyon Road,American Canyon,CA,94503,US,38.2142327,-122.2365609,2026-10-11T13:29:54Z
-aa255b75-6fa6-46b5-a7bd-889c6d5a2a1d,way/1018636046,Redwood Empire Golf and Country Club,,course,,,active,18,,,,,,,352 Country Club Lane,Fortuna,CA,95540,US,40.5614788,-124.1060071,2026-10-11T15:12:24Z
+aa255b75-6fa6-46b5-a7bd-889c6d5a2a1d,way/1018636046,Redwood Empire Golf and Country Club,,course,,,active,18,,,,,https://www.redwoodempiregolf.com/,,352 Country Club Lane,Fortuna,CA,95540,US,40.5614788,-124.1060071,2026-10-20T11:41:08Z
 aa88db9e-c672-4ec8-9ba6-cc991162ea1a,way/1150608195,Creekside Golf Course,,course,,,active,9,35,,,,,,1010 Stanley Dollar Drive,Walnut Creek,CA,94595,US,37.8670799,-122.0711034,2026-10-11T15:12:27Z
 aa91c7f3-5d87-4f02-8828-42cf4ebb1fa1,way/1414563333,Eagle Vines Golf Club,,course,,,active,,,,,+1-707-257-4470,https://www.eaglevinesgolfclub.com/,,2555;580 South Kelly Road,American Canyon,CA,94503,US,38.2161691,-122.2455987,2026-10-11T15:12:29Z
 aa9cc1cd-219d-4b34-9af3-208e0dbfebe0,way/221560406,The Industry Hills Golf Club - Ike (Dwight D Eisenhower) Course,,course,,,active,,,,,,https://ihgolfclub.com/los-angeles-golf-courses/ike-los-angeles-golf-course/,,1 Industry Hills Parkway,Industry,CA,91744,US,34.0222884,-117.928975,2026-10-11T15:12:03Z
 aa9e49d5-6c50-461a-91ec-3ebf4060d10d,way/305363809,Granite Bay Golf Club,,course,,,active,18,71,,,+1 916-791-7578,https://www.granitebayclub.com/,,9600 Golf Club Drive,Granite Bay,CA,95746,US,38.7247694,-121.1933106,2026-10-11T15:12:12Z
-aac1bc62-7947-4869-9be9-b23dfe637ca8,way/112864787,Petaluma Golf & Country Club,,course,,,active,,,,,,,,,,CA,,US,38.2182143,-122.6155876,2026-10-11T15:11:57Z
+aac1bc62-7947-4869-9be9-b23dfe637ca8,way/112864787,Petaluma Golf & Country Club,,course,,,active,,,,,,https://www.petalumagolfandcountryclub.com/,,,,CA,,US,38.2182143,-122.6155876,2026-10-20T11:41:07Z
 ab4bff84-487b-41db-8775-bdff0caabdd1,relation/21073201,Avondale Golf Club,,course,,,active,,,,,,https://www.avondalegolfclub.com/,,,,CA,,US,33.7654023,-116.3419933,2026-10-11T15:12:45Z
 ac6ee400-ec8f-4fd5-b333-2a9114a3ca6e,way/44367692,Ahwanhee Estates and Country Club,,course,,,active,,,,,,,,,,CA,,US,37.369351,-119.701377,2026-10-11T15:06:05Z
 ac9fbd31-15df-47f0-97d1-a8105e486772,relation/4072723,Rancho Solano Golf Course,,course,,,active,18,72,,,+1-707-429-4653,https://www.fairfieldgolf.com/,,3250 Rancho Solano Parkway,Fairfield,CA,94534,US,38.2894577,-122.0762316,2026-10-11T15:12:35Z
 acc6dbb3-1851-4d74-9ba1-25e32b7c73fd,way/44367765,Yosemite Lakes Golf Course,,course,,,active,,,,,,,,,,CA,,US,37.1959955,-119.769476,2026-10-11T15:06:05Z
-acf9b20f-d064-4166-8f0c-a5f750cb1a8c,way/28630115,Saratoga Country Club,,course,,,active,9,,,,,,,,,CA,,US,37.2836142,-122.0540007,2026-10-11T15:11:49Z
-ad1c2154-4008-4e0c-8210-5a98f124de3a,relation/330815,Hidden Oaks Country Club,,course,,,active,,,,,,,,,,CA,,US,34.429071,-119.7891536,2026-10-11T15:06:41Z
+acf9b20f-d064-4166-8f0c-a5f750cb1a8c,way/28630115,Saratoga Country Club,,course,,,active,9,,,,,https://www.saratogacc.com/,,,,CA,,US,37.2836142,-122.0540007,2026-10-21T11:34:49Z
+ad1c2154-4008-4e0c-8210-5a98f124de3a,relation/330815,Hidden Oaks Country Club,,course,,,active,,,,,,https://hiddenoaksgolfcoursesb.weebly.com/,,,,CA,,US,34.429071,-119.7891536,2026-10-20T11:31:13Z
 ad2a3b45-d968-4646-bdd8-8630159bed15,relation/2279644,Reidy Creek Golf Course,,par3,,,active,18,,,,+1-760-740-2450,https://www.playreidycreek.com,,2300 N Broadway,Escondido,CA,92026,US,33.1660416,-117.0919529,2026-10-11T15:12:33Z
 ad37b177-8bbe-4607-b082-2473d4711e18,way/305417528,Sonoma Golf Club,,course,,,active,,,,,+1-707-939-4100,https://sonomagolfclub.com/,,17700 Arnold Drive,Sonoma,CA,95476,US,38.3116611,-122.5045018,2026-10-11T13:30:33Z
 ad588df4-e451-4976-9276-9cc11bc1ef87,relation/1074785,Lomas Santa Fe Country Club,,course,,private,active,,,,,+1-858-755-6768,https://www.lomassantafecc.com/,,,,CA,,US,32.9933,-117.2469887,2026-10-11T15:12:30Z
-ad6d2694-54e9-4a4d-aeae-78d638ceaf2c,way/219501992,The Links at Paso Robles,,course,,,active,,,,,,,,,,CA,,US,35.6796192,-120.6131003,2026-10-11T15:12:03Z
+ad6d2694-54e9-4a4d-aeae-78d638ceaf2c,way/219501992,The Links at Paso Robles,,course,,,active,,,,,,https://www.pasoroblesgolfclub.com/,,,,CA,,US,35.6796192,-120.6131003,2026-10-20T11:33:12Z
 ada61bd9-3765-4b55-a176-c014a2e1a36b,way/44367361,Madera Municipal Golf Course,,course,,,active,18,,,,,,,,,CA,,US,36.989254,-120.1236225,2026-10-11T15:11:53Z
 adb34b5c-f210-461b-9f5d-271285360df1,relation/12871377,Shadow Hills Golf Club - North Course,,course,,,active,,,,,,www.shadowhillsgc.com/Shadow-HillsNorthCourse.html,,,,CA,,US,33.7646817,-116.2435374,2026-10-11T15:06:51Z
 adb47e40-f287-4bd9-b68d-f393120fb399,relation/3566996,The Links Golf Course,,course,,,active,18,72,,,,https://riverlakesgc.com/,,,,CA,,US,35.4084532,-119.1038825,2026-10-11T15:12:33Z
@@ -703,9 +703,9 @@ aec517a6-efe1-4a3d-a16f-cb19d464e51b,way/191172910,Coyote Hills Golf Course,,cou
 af76c1ba-2636-4169-8925-bd75c294292e,way/1530362971,Oaks North Golf Course - North,,course,,,active,,,,,,,,,,CA,,US,33.0369784,-117.0566678,2026-10-11T15:12:30Z
 af7e3b04-91a5-43e7-b6a3-f98299676081,node/12692449348,The Fairway Lounge,,course,,,active,,,,,+1-559-500-1848,https://thefairwaylounge.com/,,8476 North Friant Road,Fresno,CA,93720,US,36.8578272,-119.7826204,2026-10-11T13:29:32Z
 af9f74a8-91c4-4fa7-9516-e79bda484f06,way/106823062,Oak Creek Golf Course (Irvine),,course,,,active,18,71,,,+1-949-653-5300,https://www.oakcreekgolfclub.com/,,1 Golf Club Drive,Irvine,CA,92618,US,33.6803008,-117.7718828,2026-10-11T15:11:57Z
-afb40d0e-ba37-47b5-8a7a-3779ab68f1d3,way/1531523107,Cold Springs Golf & Country Club,,course,,,active,18,,,,,,,6500 Clubhouse Drive,Placerville,CA,95667,US,38.7438188,-120.8810748,2026-10-11T15:12:30Z
+afb40d0e-ba37-47b5-8a7a-3779ab68f1d3,way/1531523107,Cold Springs Golf & Country Club,,course,,,active,18,,,,,https://www.coldspringsgolf.com/,,6500 Clubhouse Drive,Placerville,CA,95667,US,38.7438188,-120.8810748,2026-10-21T11:29:46Z
 afd303b9-3fd1-484d-a35f-c6564744da22,way/1025387726,,,course,,,active,,,,,,,,,,CA,,US,33.2112093,-117.0251785,2026-10-11T13:31:06Z
-b008dab8-8e13-4357-a033-9525a9d1647a,way/232461613,Peacock Gap Golf Country Club,,course,,,active,18,,,,,,,,,CA,,US,37.9922128,-122.4664916,2026-10-11T15:12:03Z
+b008dab8-8e13-4357-a033-9525a9d1647a,way/232461613,Peacock Gap Golf Country Club,,course,,,active,18,,,,,https://www.peacockgapgolfclub.com/,,,,CA,,US,37.9922128,-122.4664916,2026-10-21T11:33:46Z
 b020777a-7bd7-410d-b016-aa213f121346,relation/325768,Lake of the Pines Golf Course,,course,,private,active,,,,,+1-530-268-8337,https://www.lop.org/,,,,CA,,US,39.0367852,-121.0639075,2026-10-11T13:31:18Z
 b0371e8a-cc0a-48a4-946d-3cca4d86ab5e,relation/15549559,Native Oaks Golf Course,,course,,,active,,,,,+1-760-751-3007,https://www.nativeoaksgolfclub.com/,,14616 Woods Valley Road,Valley Center,CA,92082,US,33.2095956,-117.0206248,2026-10-11T15:06:53Z
 b0bafe38-12dc-4372-8f47-b74e10688138,way/1520689327,Willow Glen Golf Course,,course,,,active,,,,,+1-619-442-3425,https://www.sycuanresort.com/,,Willow Glen Drive,El Cajon,CA,92019,US,32.7782833,-116.8843454,2026-10-11T15:12:29Z
@@ -715,8 +715,8 @@ b1a26711-7614-4576-9f7d-6565b3701300,node/8815209452,Sun Lakes Country Club Cham
 b1d397eb-221c-4e47-9ba3-08ab69cf0906,node/11976508413,,,course,,,active,,,,,,,,,,CA,,US,34.1047851,-118.0164134,2026-10-11T13:29:32Z
 b1d5c60f-8ed6-45ad-9489-57c2d849527f,way/157782278,San Jose Municipal Golf Course,,course,,,active,18,72,,,+1-408-441-4653,https://www.playsanjosemuni.com/,,1560 Oakland Road,San Jose,CA,95131,US,37.3771789,-121.8881051,2026-10-11T15:12:01Z
 b1f1a5cb-fddf-44c2-9952-5a7e309bf477,way/360014248,Riverview Golf & Country Club,,course,,,active,,,,,+1 530 224 2255,https://www.riverviewgolf.net/,,4200 Bechelli Lane,Redding,CA,96002,US,40.5476026,-122.3682427,2026-10-11T13:30:39Z
-b20c8403-85a6-45e3-808c-0e31e3c99a20,way/44388973,del Rio Country Club,,course,,,active,,,,,,,,,,CA,,US,33.0088995,-115.5204784,2026-10-11T15:11:53Z
-b284f9bb-d059-4bd5-a8ae-82bd7011adc6,relation/1503725,Indian Wells Golf Resort,,course,,,active,,,,,,,,,,CA,,US,33.7251404,-116.3271314,2026-10-11T15:12:30Z
+b20c8403-85a6-45e3-808c-0e31e3c99a20,way/44388973,del Rio Country Club,,course,,,active,,,,,,https://delriocc.com/,,,,CA,,US,33.0088995,-115.5204784,2026-10-21T11:30:47Z
+b284f9bb-d059-4bd5-a8ae-82bd7011adc6,relation/1503725,Indian Wells Golf Resort,,course,,,active,,,,,,https://www.indianwellsgolfresort.com/,,,,CA,,US,33.7251404,-116.3271314,2026-10-21T11:27:00Z
 b2b7c0d3-498e-4dfb-adb9-5cbdf789077e,way/939061865,Swenson Park Golf Course,,course,,,active,18,73,,,,,,,,CA,,US,38.0093886,-121.3445119,2026-10-11T15:12:23Z
 b2dd8648-c6aa-47fc-9cf1-ae518acf7a01,way/1564273601,,,course,,,active,,,,,,,,,,CA,,US,33.2062407,-116.9467466,2026-10-11T13:31:18Z
 b3cbf7e8-dd70-4335-83bd-0f0d28ffaf1a,relation/11974273,Silver Lakes Golf Course,,course,,,active,18,,,,,,,,,CA,,US,34.7545416,-117.3396187,2026-10-11T15:12:41Z
@@ -725,7 +725,7 @@ b3f3228a-302e-43eb-8af1-c44ccd2aaec3,way/404821002,Montclair Golf Course,,course
 b416754b-0fd4-48f3-8048-04c8809d2aa9,relation/6692737,Bear Mountain Golf Course,,course,,,active,9,35,,,+1-909-585-8002,https://www.bigbearmountainresort.com/golf,,43102 Goldmine Drive,Big Bear Lake,CA,92315,US,34.2339604,-116.8632772,2026-10-11T15:12:38Z
 b4506600-7557-438d-b13d-39123ace314d,way/549643238,,,practice,,,active,,,,,,,,,,CA,,US,37.5239737,-120.8501059,2026-10-11T15:12:18Z
 b460cf81-8696-497a-8417-8d052095bf6e,relation/5201230,MountainGate Country Club,,course,,,active,27,108,,,+1-310-476-6215,https://www.mtngatecc.com/,,12445 Mountaingate Drive,Los Angeles,CA,90049,US,34.1085336,-118.486655,2026-10-11T15:12:36Z
-b4c301bb-e703-45d5-9ee0-7a95307326a3,way/479826077,Lake Arrowhead Country Club,,course,,,active,,,,,,,,,,CA,,US,34.2561352,-117.2229861,2026-10-11T15:12:17Z
+b4c301bb-e703-45d5-9ee0-7a95307326a3,way/479826077,Lake Arrowhead Country Club,,course,,,active,,,,,,https://www.lakearrowheadcc.com/,,,,CA,,US,34.2561352,-117.2229861,2026-10-20T11:41:32Z
 b528b0b9-ac49-4742-9e11-311767b4995d,relation/3570691,Stanford University Golf Course,,course,,private,active,18,70,,,+1-650-724-0944,http://golfcourse.stanford.edu/,,91 LINKS ROAD,STANFORD,CA,94305,US,37.4238353,-122.1852447,2026-10-11T15:12:33Z
 b543ad91-8dbc-48da-b9e2-3376e90c1639,way/155245387,North Kern Golf Course,,course,,,active,18,72,,,+1-661-399-0347,https://www.northkerngolf.com/,,17412 Quality Road,Bakersfield,CA,93308,US,35.5191656,-119.1124915,2026-10-11T15:06:12Z
 b5da48ff-fb69-4d39-98e1-3aa73d2966e7,relation/3734637,,,course,,,active,,,,,,,,,,CA,,US,33.2442329,-116.3562268,2026-10-11T15:12:33Z
@@ -740,10 +740,10 @@ b8c4de8a-93e3-4fe8-898e-dae11f972c0f,way/44500735,Oaks North Golf Course,,course
 b902e0b7-2b2d-4eb7-88a7-83fbf3849aa2,relation/12508871,Seven Lakes Country Club,,course,,private,active,,,,,+1-760-328-9774,https://7lakescountryclub.com/,,4100 E Seven Lakes Dr,Palm Springs,CA,92264,US,33.7994223,-116.5018955,2026-10-11T13:31:42Z
 b9ca309f-3eef-4521-a9b3-3b17cf005b6b,way/199674795,Hidden Valley Golf Club,,course,,,active,18,72,,,+1 951-737-1010,https://www.hiddenvalleygolf.com/course/,,10 Clubhouse Drive,Norco City,CA,92860,US,33.9152559,-117.5196517,2026-10-11T15:06:16Z
 ba47172e-3f78-44de-b97a-007db18afe7d,relation/3578129,Knollwood Country Club,,course,,,active,18,71,,,+1-818-831-1366,https://www.knollwoodgc.com/,,12040 Balboa Boulevard,Granada Hills,CA,91344,US,34.2919554,-118.4968032,2026-10-11T15:12:33Z
-ba5de645-1881-4696-ada4-0051a39d23e4,way/1547063221,Bailey Creek,,course,,,active,18,72,,,,,,,,CA,,US,40.2879461,-121.1378902,2026-10-11T15:12:30Z
+ba5de645-1881-4696-ada4-0051a39d23e4,way/1547063221,Bailey Creek,,course,,,active,18,72,,,,https://baileycreek.com/,,,,CA,,US,40.2879461,-121.1378902,2026-10-20T11:33:37Z
 ba93d65b-6ef3-41df-bef9-ae701b46d668,way/223232617,Virginia Country Club,,course,,private,active,18,71,,,+1-562-427-0924; +1-562-424-5211,https://www.vcc1909.org/,,4602 N. Virginia Road,Long Beach,CA,90807,US,33.8378658,-118.1963486,2026-10-11T13:30:07Z
 baaa5490-4d94-49c1-9d1d-fc73c893ebf1,relation/2222742,Sharon Heights Golf Course,,course,,,active,18,72,,,+1-866-854-6422,https://www.sharonheightsgcc.com/,,2900 Sand Hill Rd,Menlo Park,CA,94025,US,37.424767,-122.2200358,2026-10-11T13:31:22Z
-bb5fca5b-f832-40a0-b074-a46d82e5ac07,way/741106024,Talega Golf Club,,course,,,active,,,,,,,,,,CA,,US,33.4613796,-117.5946852,2026-10-11T15:12:21Z
+bb5fca5b-f832-40a0-b074-a46d82e5ac07,way/741106024,Talega Golf Club,,course,,,active,,,,,,https://www.talegagolfclub.com/,,,,CA,,US,33.4613796,-117.5946852,2026-10-20T11:42:10Z
 bb93381c-773a-44fa-acc4-83268f17cdcc,way/305776088,Hacienda Golf Club,,course,,,active,18,71,,,+1 562 694 1081,https://www.haciendagolfclub.com/,,718 East Road,La Habra Heights,CA,90631,US,33.9609032,-117.9481454,2026-10-11T15:12:12Z
 bbbb2b07-6b32-410d-9859-977c0121b719,way/23048327,Penmar Municipal Golf Course,,course,,,active,9,33,,,+1-310-396-6228,https://www.golf.lacity.org/cdp_penmar.htm,,1233 Rose Avenue,Venice,CA,90291,US,34.0060488,-118.4612811,2026-10-11T15:11:48Z
 bbdcdb17-da2e-4b3d-bde5-770a553fef59,way/44288865,Mountain View Golf Course,,course,,,active,,,,,+1-805-525-1571,https://mountainviewgolfcourse.net/,,,,CA,,US,34.3372383,-119.0650096,2026-10-11T15:11:53Z
@@ -757,10 +757,10 @@ bda8c3dd-8acf-4653-841c-1fc2e3886241,way/280563308,Spring Hills Golf Course,,cou
 bddf9b72-a64d-4c5f-870e-74a1bf2b1a83,way/266342172,Balboa Municipal Golf Course,,course,,,active,,,,,+1-818-995-1170,https://golf.lacity.org/cdp_balboa.htm,,16821 Burbank Boulevard,Encino,CA,91436,US,34.1750661,-118.4950119,2026-10-11T15:12:05Z
 be22af6a-b7d5-44f1-a28b-bce04126822f,relation/12873206,Mountain Vista Golf Club - Santa Rosa Course,,course,,,active,,,,,,https://www.mountainvistagolfclub.com/,,,,CA,,US,33.7716015,-116.2951822,2026-10-11T15:12:41Z
 beddeb86-ba31-4344-bee8-1815f7677297,way/31484455,Bonita Golf Course,,course,,,active,18,71,,,+1-619-267-1103,https://bonitagolf.net/,,5540 Sweetwater Road,Bonita,CA,91902,US,32.6810343,-117.0131659,2026-10-11T15:11:49Z
-bef7ca5e-d656-4dfc-8c31-f38e481735dc,way/458726768,Gold Hills Golf Club,,course,,,active,,,,,,,,,,CA,,US,40.6328459,-122.3490807,2026-10-11T15:12:17Z
+bef7ca5e-d656-4dfc-8c31-f38e481735dc,way/458726768,Gold Hills Golf Club,,course,,,active,,,,,,https://www.goldhillsgolf.com/,,,,CA,,US,40.6328459,-122.3490807,2026-10-20T11:33:50Z
 bf3b8cb4-e2c9-49cf-9a76-eded24d62816,way/305416918,Sebastopol Golf Course,,course,,,active,,,,,,,,,,CA,,US,38.435329,-122.8447379,2026-10-11T15:12:12Z
 bf6573e6-69f2-45c9-860c-ee935ea9eacd,way/195463254,Fountain Grove Golf and Country Club,,course,,,active,,,,,,,,,,CA,,US,38.4912104,-122.7157893,2026-10-11T15:12:01Z
-bf78c76d-cccb-4f8d-9b54-a75d19894eb6,relation/13192104,Pauma Valley Country Club,,course,,,active,18,,,,,,,,,CA,,US,33.3029803,-116.9883251,2026-10-11T15:12:41Z
+bf78c76d-cccb-4f8d-9b54-a75d19894eb6,relation/13192104,Pauma Valley Country Club,,course,,,active,18,,,,,https://www.paumavalleycc.com/,,,,CA,,US,33.3029803,-116.9883251,2026-10-21T11:31:57Z
 bfa3ff20-4007-4119-8275-82305c49662a,way/80575411,Modesto Municipal Golf Course,,course,,,active,9,,,,+1-209-341-2965,http://modestomuni.com/,,400 Tuolumne Blvd,Modesto,CA,95351,US,37.6253363,-121.0019516,2026-10-11T15:11:55Z
 c00c3433-a0c9-43f4-8cb5-824c81cb5313,way/107144106,Tustin Ranch Golf Club,,course,,public,active,18,72,,,+1-714-730-1611,https://tustinranchgolf.com/,,12442 Tustin Ranch Rd,Tustin,CA,92782,US,33.7401549,-117.7837911,2026-10-11T13:29:54Z
 c02d61e9-97ad-460d-b747-807a9fbdfb0d,relation/3567067,The Citrus Club at La Quinta Resort - Mountain Course,,course,,private,active,,,,,+1-760-564-5767,https://www.thecitrusclub.com/,,,,CA,,US,33.6866481,-116.3147059,2026-10-11T15:12:33Z
@@ -769,7 +769,7 @@ c0465b56-1eb7-4b85-9ee5-9b7437edef36,relation/3567049,Timber Creek Golf Course,,
 c065a1ba-2ff9-4bbb-b5b6-3050d2b47687,relation/3569443,The Preserve Golf Club Santa Lucia,,course,,private,active,,,,,+1-831-626-8200,https://www.santaluciapreserve.com/,,,,CA,,US,36.4434245,-121.7867667,2026-10-11T15:12:33Z
 c0690542-aa6b-4880-be5c-f06c76cc8d32,relation/3571055,Avila Beach Resort Golf Course,,course,,,active,18,72,,,,https://www.avilabeachresort.com/,,,,CA,,US,35.1852314,-120.7323014,2026-10-11T13:31:22Z
 c0cc8b49-ca9d-4d52-8210-d2695a16a61b,relation/3569421,,,course,,,active,,,,,+1-805-343-9459,http://www.monarchdunesgolf.com/,,,,CA,,US,35.0334752,-120.5525823,2026-10-11T15:12:33Z
-c173f7e4-0b6e-4605-bfbc-d93480e64bfd,relation/6691736,Mission Hills Golf Course,,course,,,active,,,,,+1-818-892-3019,,,16111 Plummer Street,North Hills,CA,91343,US,34.2469764,-118.4782637,2026-10-11T15:12:38Z
+c173f7e4-0b6e-4605-bfbc-d93480e64bfd,relation/6691736,Mission Hills Golf Course,,course,,,active,,,,,+1-818-892-3019,,,16111 Plummer Street,North Hills,CA,91343,US,34.2469764,-118.4782637,2026-10-21T01:44:39Z
 c20875c1-db59-4b45-8d1a-6c4fa94ad030,way/144945750,Recreation Park 18 Golf Course,,course,,,active,18,72,,,+1-562-494-5000,https://www.recpark18.com/,,5001 Deukmejian Drive,Long Beach,CA,90804,US,33.7789556,-118.1344922,2026-10-11T15:06:12Z
 c2c7992a-a6e1-4b07-9930-08af0e3adb23,way/44367223,Madera Golf and Country Club,,course,,,active,18,,,,,,,,,CA,,US,37.0290691,-120.0698285,2026-10-11T15:11:53Z
 c2e2f03e-3731-4601-b98f-91552085ec62,relation/3568811,Monarch Beach Golf Links,,course,,,active,18,70,,,+1 949-240-8247,https://www.monarchbeachgolf.com/,,,,CA,,US,33.4855586,-117.7163511,2026-10-11T15:12:33Z
@@ -794,14 +794,14 @@ c7a1dd9f-d92c-4048-ae8d-ad90ee882e78,way/789695496,Callaway Golf Test Course,,co
 c7a44166-c8a3-4873-8b20-d934e4dbe6d4,way/220990724,Laguna Seca Golf Ranch,,course,,,active,,,,,+1-888-524-8629; +1-831-373-3701,https://www.lagunasecagolf.com/,,10520 York Road,Monterey,CA,93940,US,36.5715084,-121.7878652,2026-10-11T15:12:03Z
 c7f7cfb7-7fbe-4e54-a341-09f9b686dab0,way/305416915,Santa Rosa Golf & Country Club,,course,,,active,,,,,+1-707-546-3485,https://www.santarosagolf.com/,,333 Country Club Court,Santa Rosa,CA,95401,US,38.433169,-122.8055708,2026-10-11T15:12:12Z
 c8223320-3c27-4149-9ac3-238b61f59325,way/44486449,Canyon Estates Golf Course,,course,,,active,9,,,,,,,,,CA,,US,33.789663,-116.5312256,2026-10-11T15:11:53Z
-c8434552-f97f-4144-a7e4-5d8c52931e08,way/57018543,Newport Beach Country Club,,course,,,active,18,72,,,,,,,,CA,,US,33.616452,-117.8835343,2026-10-11T15:11:55Z
+c8434552-f97f-4144-a7e4-5d8c52931e08,way/57018543,Newport Beach Country Club,,course,,,active,18,72,,,,https://www.newportbeachcc.com/,,,,CA,,US,33.616452,-117.8835343,2026-10-20T11:41:38Z
 c8b9d3a0-ff63-4851-8218-8857a7b91c61,way/44501559,The Vineyard at Escondido Golf Course,,course,,,active,18,70,,,,,,,,CA,,US,33.0704922,-117.0492745,2026-10-11T15:06:05Z
 c93eb32c-5c8b-4585-8523-59db38135858,way/305366520,William Land Golf Course,,course,,,active,9,34,,,+1 916-277-1207,https://www.williamlandgc.com/,,1701 Sutterville Road,Sacramento,CA,95822,US,38.53943,-121.4972388,2026-10-11T15:12:12Z
 ca7d0f4d-aa79-4af3-ac94-677cdc4e6652,relation/3573537,Olympic Club Golf Course,,course,,private,active,,,,,+1-415-404-4300,https://www.olyclub.com/,,599 Skyline Boulevard,San Francisco,CA,94132,US,37.7090626,-122.4936757,2026-10-11T15:12:33Z
 ca8e1b1b-a316-445e-81fd-e1f4b9ce274b,relation/16064599,Rancho Park Golf Course,,course,,,active,,,,,+1-310-838-7373,https://golf.lacity.org/course_rancho_park/,,10460 W. Pico Blvd.,Los Angeles,CA,90064,US,34.044089,-118.4128332,2026-10-11T13:31:48Z
 ca95a80d-3f64-49b9-924e-f51add6151ff,relation/4079436,Mission Viejo Golf Club,,course,,,active,,,,,+1 949-582-1550,http://www.missionviejocc.com/,,26200 Country Club Drive,Mission Viejo,CA,92691,US,33.5793533,-117.6665333,2026-10-11T15:12:35Z
 cb2dff11-9d5a-499e-b90b-609f3f1b051e,way/44581344,Exeter Golf Course,,course,,,active,9,29,,,+1-559-592-4783,https://cityofexeter.com/directory/golf/,,510 West Visalia Road,Exeter,CA,93221,US,36.2963108,-119.151057,2026-10-11T15:11:53Z
-cbc7a04a-ecd9-41cb-a932-b941abba6aa9,way/147947462,Empire Ranch Golf Course,,course,,,active,18,71,,,,,,,,CA,,US,38.6861814,-121.1078298,2026-10-11T15:12:00Z
+cbc7a04a-ecd9-41cb-a932-b941abba6aa9,way/147947462,Empire Ranch Golf Course,,course,,,active,18,71,,,,https://www.empireranchgolfclub.com/,,,,CA,,US,38.6861814,-121.1078298,2026-10-21T11:29:48Z
 cbd043f8-485d-4d0e-8d3b-10a451a9359b,way/863987351,The Grand Golf Club,,course,,,active,,,,,,,,,,CA,,US,32.9388124,-117.1975957,2026-10-11T15:12:23Z
 cc7b44b4-4f77-4563-9742-bb70051b3ab9,node/13741758902,Tri-valley Golf Center,,course,,,active,,,,,,http://www.trivalleygolf.com/,,1780 Freisman Road,Livermore,CA,94588,US,37.6978059,-121.8363502,2026-10-11T13:29:32Z
 ccfc95c1-0faf-4a1d-85f0-71480e6151c6,way/44500619,Meadow Lake Country Club,,course,,,active,,,,,,,,,,CA,,US,33.2164477,-117.1052423,2026-10-11T15:11:53Z
@@ -813,55 +813,55 @@ cf4095d2-29b8-4a2f-9423-c62cc5c98299,way/44581332,Valley Oaks Golf Course,,cours
 cf44d4ce-5ca5-468c-bb0f-eff5c9c605d0,way/305215653,Mount Huff Golf Course,,course,,,active,,,,,+1-530-284-6300,https://www.mthuffgolfcourse.com/,,15301 Highway 89,Crescent Mills,CA,95934,US,40.0879536,-120.9130064,2026-10-11T13:30:33Z
 cfd0365a-c774-4414-9cbf-99c1eafdfd1b,way/61545751,Hank's Shank Par 3 Golf Course,,par3,,,active,,,,,,,,,,CA,,US,36.7556498,-119.6800305,2026-10-11T15:11:55Z
 cfd872e9-15b6-4166-999a-cdbbc3c17d66,way/842015859,Friendly Hills Country Club,,course,,,active,18,70,,,+1-562-693-3623,https://www.friendlyhillscc.com/Home,,8500 South Villaverde Drive,Whittier,CA,90605,US,33.9614041,-117.9923083,2026-10-11T15:06:35Z
-cfe31cac-6ae8-4d96-bcfb-11bc7b66af05,way/156344209,Fremont Park Golf Course,,course,,,active,,,,,,,,,,CA,,US,37.5527986,-121.956701,2026-10-11T15:12:00Z
+cfe31cac-6ae8-4d96-bcfb-11bc7b66af05,way/156344209,Fremont Park Golf Course,,course,,,active,,,,,,https://www.fremontgolf.com/,,,,CA,,US,37.5527986,-121.956701,2026-10-22T11:23:25Z
 d045e6e5-ff39-4aa5-8ce8-0f741657269f,way/1211505823,,,course,,private,active,,,,,,,,,,CA,,US,36.995758,-122.0208694,2026-10-11T13:31:09Z
 d0564185-0e98-4b07-9b4e-99871a93f50f,way/27006801,Gilroy Golf Course,,course,,,active,18,,,,+1-408-848-0490,https://www.gilroygc.com/,,2695 Hecker Pass Road,Gilroy,CA,95020,US,37.0156905,-121.6236826,2026-10-11T15:11:49Z
 d059522f-f1ff-4914-9fa8-f172f4835e49,relation/15962615,Vintners Golf Club,,course,,,active,,,,,+1-707-944-1992,https://www.vintnersgolfclub.com/,,7901 Solano Avenue,Yountville,CA,94599,US,38.3934961,-122.3595226,2026-10-11T15:12:43Z
-d0a11faf-7c45-4f75-bed9-21f6ba350841,way/25654622,Mesa Verde Country Club,,course,,,active,,,,,,,,,,CA,,US,33.6822959,-117.937204,2026-10-11T15:11:49Z
+d0a11faf-7c45-4f75-bed9-21f6ba350841,way/25654622,Mesa Verde Country Club,,course,,,active,,,,,,https://www.mesaverdecc.com/,,,,CA,,US,33.6822959,-117.937204,2026-10-20T11:41:36Z
 d0d7e938-727a-439d-8376-b3a79690024d,way/43100053,Mount Saint Helena Golf Course,,course,,,active,,,,,,,,,,CA,,US,38.5852139,-122.5882529,2026-10-11T15:11:53Z
 d0f52c08-8562-4cb2-b45c-89d628eebb28,relation/13753140,The Lakeside,,course,,,active,18,72,,,+1-925-736-6500,https://www.blackhawkcc.org/default.aspx?p=DynamicModule&PageId=178&ssid=100221&vnf=1,,599 Blackhawk Club Drive,Danville,CA,94506,US,37.8162162,-121.9175926,2026-10-11T15:12:41Z
 d117f151-dad4-4113-b981-94a529214b34,way/305622418,Twain Harte Golf Course,,course,,,active,,,,,+1-209-586-3131,https://www.twainhartegolf.com/,,22909 Meadow Lane,Twain Harte,CA,95383,US,38.0352227,-120.2341614,2026-10-11T15:12:12Z
 d17807bd-937d-4dbc-904c-227d998dcb50,node/14030316188,Stan Anderson Golf Complex,,course,,,active,,,,,,,,,,CA,,US,34.446115,-119.6600555,2026-10-11T13:29:32Z
-d1934948-c2b8-4816-9519-0a4760cf05a0,relation/7103320,Bermuda Dunes Golf Club,,course,,,active,,,,,,,,,,CA,,US,33.7358992,-116.2804563,2026-10-11T15:12:38Z
+d1934948-c2b8-4816-9519-0a4760cf05a0,relation/7103320,Bermuda Dunes Golf Club,,course,,,active,,,,,,https://www.bermudadunescc.com/,,,,CA,,US,33.7358992,-116.2804563,2026-10-20T11:42:25Z
 d1998ab2-2b48-46fb-9d94-4161db1b6f29,way/305741943,Harbor Park Municipal Golf Course,,course,,,active,9,36,,,+1-310-549-4953,https://www.golf.lacity.org/cdp_harbor.htm,,1235 North Figueroa Place,Wilmington,CA,90744,US,33.7859962,-118.287493,2026-10-11T15:12:12Z
 d1cddf0a-a0eb-4a4a-9287-d87d64ea80bc,way/202011411,Rivers Edge Golf Course (Needles Municipal),,course,,,active,,,,,+1 760 326 3931,https://www.golfneedlesca.com/,,144 Marina Drive,Needles,CA,92363,US,34.8418976,-114.6005883,2026-10-11T15:06:16Z
 d23fc9de-9d29-41a7-82ba-7760b8ce1f84,way/44403536,Buena Vista Golf Course,,course,,,active,18,72,,,,,,10256 Golf Course Road,Taft,CA,93268,US,35.2384034,-119.3278145,2026-10-11T15:11:53Z
-d26fc195-aabf-4d9a-b89a-80bd61fe09b8,relation/14867600,Marbella Country Club,,course,,,active,18,70,,,,,,30800 Golf Club Drive,San Juan Capistrano,CA,92675,US,33.5163296,-117.6539923,2026-10-11T15:12:43Z
+d26fc195-aabf-4d9a-b89a-80bd61fe09b8,relation/14867600,Marbella Country Club,,course,,,active,18,70,,,,https://marbellacc.net/,,30800 Golf Club Drive,San Juan Capistrano,CA,92675,US,33.5163296,-117.6539923,2026-10-20T11:41:34Z
 d28c70c1-386d-4331-af40-d5c282572612,way/161244789,Brea Creek Golf Course,,course,,,active,9,29,,,+1-714-529-3003,https://www.golfbrea.com/,,501 W Fir St,Brea,CA,92821,US,33.9107912,-117.910173,2026-10-11T15:12:01Z
 d29143b1-5cbb-4fd1-9bce-5c598656374e,relation/12694847,Ivey Ranch Country Club,,course,,,active,,,,,,,,,,CA,,US,33.7940273,-116.3577427,2026-10-11T15:12:41Z
-d29bd119-60e9-494f-9d5e-cf28db6c56c0,way/1413088572,Lake Almanor Country Club,,course,,,active,9,36,,,,,,,,CA,,US,40.2504363,-121.1497953,2026-10-11T15:06:40Z
+d29bd119-60e9-494f-9d5e-cf28db6c56c0,way/1413088572,Lake Almanor Country Club,,course,,,active,9,36,,,,https://www.lakealmanorcountryclub.com/,,,,CA,,US,40.2504363,-121.1497953,2026-10-20T11:33:59Z
 d2ca3a84-e392-4e8d-9fe8-881973f1f8e0,relation/21062013,Tradition Golf Club,,course,,,active,,,,,,https://www.traditiongc.com/,,78505 OLD AVENUE 52,La Quinta,CA,92253,US,33.6653113,-116.2958422,2026-10-11T15:12:45Z
 d3d744b8-dfc4-48e9-b586-56e19cc1fe3b,node/13950486645,Apple Mountain Golf Resort,,course,,,active,,,,,+1-530-647-7400,https://applemountaingolfresort.com/,,3455 Carson Road,Camino,CA,95709,US,38.7496555,-120.7096861,2026-10-11T13:29:32Z
 d4441015-9519-4c6b-8d1f-ced917d8f852,node/411676781,DeLaveaga Disc Golf,,disc,,,active,,,,,,,,,,CA,,US,37.0050094,-121.9968392,2026-10-11T15:05:59Z
 d4c2da58-170a-49e5-a25f-ab46f7f8317e,way/186853812,Aetna Springs Golf Course,,course,,,active,,,,,,,,,,CA,,US,38.6577104,-122.4816972,2026-10-11T15:12:01Z
-d4d9594c-c39d-4e79-820e-73c3a42270de,node/4322128044,Shelter Cove Golf Course,,course,,,active,,,,,,,,,,CA,,US,40.0250205,-124.0692978,2026-10-11T13:29:32Z
+d4d9594c-c39d-4e79-820e-73c3a42270de,node/4322128044,Shelter Cove Golf Course,,course,,,active,,,,,,https://sheltercovehouse.com/,,,,CA,,US,40.0250205,-124.0692978,2026-10-22T11:21:23Z
 d4edef98-38a0-499a-ad32-410154844142,way/44288851,Wood Ranch Golf Club,,course,,,active,18,72,,,+1-805-527-9663,https://www.woodranchgc.com/,,301 Wood Ranch Parkway,Simi Valley,CA,93065,US,34.2475946,-118.812641,2026-10-11T15:11:53Z
-d5673a74-28a0-4da1-9b7f-559a4a1ff1b4,way/594322246,Whitney Oaks Golf Club,,course,,,active,18,73,,,,,,,,CA,,US,38.8279311,-121.2419599,2026-10-11T13:30:54Z
+d5673a74-28a0-4da1-9b7f-559a4a1ff1b4,way/594322246,Whitney Oaks Golf Club,,course,,,active,18,73,,,,https://www.whitneyoaksgolf.com/,,,,CA,,US,38.8279311,-121.2419599,2026-10-21T11:30:23Z
 d56e10de-787f-45f7-9017-65300c049b39,way/184365861,Forest Lake Golf Course,,course,,,active,,,,,,,,,,CA,,US,38.2138129,-121.2878803,2026-10-11T15:06:14Z
 d5ea955c-7b38-4402-99e5-14d1e2f7fe26,relation/13395674,,,course,,,active,,,,,,,,,,CA,,US,33.9719662,-116.9467183,2026-10-11T15:12:41Z
 d5f399c6-e00c-4feb-8dd1-834c71d13472,way/1521085319,Singing Hills Golf Club at Sycuan,,course,,,active,,,,,+1-619-442-3425,https://www.sycuanresort.com/,,3007 Dehesa Road,El Cajon,CA,92019,US,32.7782833,-116.8806277,2026-10-11T15:12:29Z
 d5fa5085-b4ca-49db-a2f6-7cdec00df2ec,way/16753068,TPC Harding Park,,course,,,active,,,,,+1-415-664-4690,https://tpc.com/tpc-harding-park-golf,,99 Harding Road,San Francisco,CA,94132,US,37.7218116,-122.4916277,2026-10-11T15:05:59Z
 d62c2c6d-04ab-4ce6-a181-822e844fae6d,way/44580604,Santa Barbara Golf Course,,course,,,active,18,70,,,+1-805-687-7087,https://sbparksandrec.santabarbaraca.gov/sports-facilities/santa-barbara-golf-club,,3500 McCaw Avenue,Santa Barbara,CA,93105,US,34.4337608,-119.7376838,2026-10-11T15:11:53Z
 d6a26d20-cf91-40e8-947a-9b69b3d6a3ff,way/442387952,Pico Rivera Golf Club,,course,,,active,9,28,,,+1-562-801-4229,http://www.picoriveragolf.com,,3260 Fairway Drive,Pico Rivera,CA,90660,US,34.0199138,-118.0593497,2026-10-11T15:12:15Z
-d77f254e-eee7-4c87-b262-3ac1febaccdf,way/44500618,Emerald Isle Golf Course,,course,,,active,18,56,,,,,,,,CA,,US,33.2133635,-117.3278339,2026-10-11T15:11:53Z
+d77f254e-eee7-4c87-b262-3ac1febaccdf,way/44500618,Emerald Isle Golf Course,,course,,,active,18,56,,,,https://emeraldislegolf.net/,,,,CA,,US,33.2133635,-117.3278339,2026-10-21T11:31:01Z
 d7c5d3c7-9ee7-4efa-b0a7-0675cb82032e,way/28462153,Spring Valley Golf Course,,course,,,active,,,,,+1-408-262-1722,https://www.springvalleygolfcourse.com/,,3441 Calaveras Road,Milpitas,CA,95135,US,37.451967,-121.854922,2026-10-11T15:11:49Z
 d7ef904d-1f76-4597-8971-bafbdfa8d467,relation/7508058,Vintage Club,,course,,private,active,,,,,,,,,,CA,,US,33.7083727,-116.3581467,2026-10-11T15:12:38Z
-d88a1085-9e3e-48a7-8d1b-0df16262fec4,relation/13473832,The Oaks Club at Valencia,,course,,,active,,,,,,,,,,CA,,US,34.4081606,-118.5819887,2026-10-11T15:12:41Z
-d8cebfc7-690c-417f-8b48-77c7e3ff9a6f,way/44486271,Temecula Creek Inn Golf Course,,course,,,active,,,,,,,,,,CA,,US,33.4663129,-117.129916,2026-10-11T15:06:05Z
+d88a1085-9e3e-48a7-8d1b-0df16262fec4,relation/13473832,The Oaks Club at Valencia,,course,,,active,,,,,,https://www.oaksclubvalencia.com/,,,,CA,,US,34.4081606,-118.5819887,2026-10-20T11:38:31Z
+d8cebfc7-690c-417f-8b48-77c7e3ff9a6f,way/44486271,Temecula Creek Inn Golf Course,,course,,,active,,,,,,https://www.temeculacreekgolf.com/,,,,CA,,US,33.4663129,-117.129916,2026-10-21T11:29:07Z
 d8dc4d84-a207-4ed9-af09-e38edd12d536,relation/12697415,Rancho Casa Blanca Country Club,,course,,,active,,,,,,,,,,CA,,US,33.7336394,-116.1970591,2026-10-11T15:12:41Z
 d8e3836d-eb68-47be-b84b-838450347c1e,way/305806871,Eagle Glen Golf Club,,course,,,active,18,72,,,+1 951 272 4653,https://www.eagleglengc.com/,,1800 Eagle Glen Parkway,Corona,CA,92883,US,33.8059011,-117.5402582,2026-10-11T15:12:12Z
 d9036c7a-bfbc-4c5f-a0bb-5bea269463bf,way/33869219,Wild Wings Golf Club,,course,,private,active,,,,,+1-530-662-0281; +1-530-662-8050,https://www.yolofliers.com/,,17980 County Road 94B,Woodland,CA,95695,US,38.6789466,-121.8750001,2026-10-11T13:29:39Z
 d906d511-1eac-4cc0-a394-7fd913bfc20f,way/246119516,Franklin Canyon Golf Course,,course,,,active,18,73,,,,https://www.franklincanyongolf.com/,,350 Smith Ranch,San Rafael,CA,94903,US,38.0051857,-122.2201214,2026-10-11T15:12:05Z
-d9187080-cc1e-4911-b1c5-f29f2b6ae8fc,way/1192217323,Ancil Hoffman Golf Course,,course,,,active,18,72,,,,,,6700 Tarshes Drive,Carmichael,CA,95608,US,38.6094299,-121.3144874,2026-10-11T15:12:27Z
+d9187080-cc1e-4911-b1c5-f29f2b6ae8fc,way/1192217323,Ancil Hoffman Golf Course,,course,,,active,18,72,,,,https://www.ancilhoffman.com/,,6700 Tarshes Drive,Carmichael,CA,95608,US,38.6094299,-121.3144874,2026-10-21T11:29:32Z
 d9b9f044-556c-4ac2-aa30-06a4478cea08,relation/3567062,The Citrus Club at La Quinta Resort - Dunes Course,,course,,private,active,,,,,+1-760-564-5767,https://www.thecitrusclub.com/,,,,CA,,US,33.6823954,-116.2972869,2026-10-11T15:12:33Z
 d9cd5a2b-7321-40b5-a6fb-8fa4f4ab7601,way/53144326,Long Beach Golf Learning Center,,course,,,active,,,,,,,,,,CA,,US,33.8270933,-118.2022605,2026-10-11T13:29:49Z
 d9e05adb-e8dd-4f8b-8c4a-e113bbe3201c,relation/3581087,Tom Weiskopf Private Course (PGA West),,course,,,active,,,,,+1-800-742-9378,http://www.pgawest.com/,,,,CA,,US,33.6338366,-116.2539479,2026-10-11T15:12:33Z
 da05023b-7786-4d3a-9ae5-c3ce6246cb2e,relation/11374858,The Falls,,course,,,active,18,72,,,,,,,,CA,,US,37.811238,-121.8904204,2026-10-11T15:12:41Z
 da286330-bc2b-4a9a-9cfc-ce9563445c56,relation/16307627,Brookside Golf Club,,course,,,active,,,,,+1-626-585-3594,https://www.brooksidegc.com/,,1133 Rosemont Avenue,Pasadena,CA,91103,US,34.1704593,-118.1703136,2026-10-11T15:12:43Z
-da2cde22-078b-4f5f-b1ac-419436f47018,way/44580700,Santa Maria Country Club,,course,,,active,,,,,,,,,,CA,,US,34.9101146,-120.4472671,2026-10-11T15:11:53Z
+da2cde22-078b-4f5f-b1ac-419436f47018,way/44580700,Santa Maria Country Club,,course,,,active,,,,,,https://santamariacc.com/,,,,CA,,US,34.9101146,-120.4472671,2026-10-20T11:32:11Z
 da69fc43-1e01-4c46-93bc-90627b8a5fc6,way/44421428,Meadow Club,,course,,,active,18,71,,,,https://www.meadowclub.com/,,1001 Bolinas Road,Fairfax,CA,94930,US,37.9696558,-122.616415,2026-10-11T15:06:05Z
 dabbcd23-4ff1-4ab7-9c9c-f7d051f863d2,relation/4082112,Outdoor Resort Palm Springs,,par3,,,active,18,54,,,+1-800-843-3131,http://www.outdoorresortpalmsprings.com/,,69411 Ramon Rd,Cathedral City,CA,92234,US,33.8099954,-116.451056,2026-10-11T15:12:35Z
-db091e1c-9718-4458-a2f7-040714edcb59,relation/7488235,Lahontan Golf Course,,course,,private,active,,,,,,,,,,CA,,US,39.2950178,-120.1532462,2026-10-11T15:12:38Z
+db091e1c-9718-4458-a2f7-040714edcb59,relation/7488235,Lahontan Golf Course,,course,,private,active,,,,,,https://www.lahontangolf.com/,,,,CA,,US,39.2950178,-120.1532462,2026-10-21T11:29:51Z
 db10488d-4eb2-4f61-90b9-5417a5af7d48,relation/3566990,Burlingame Country Club,,course,,,active,18,70,,,,,,,,CA,,US,37.5700962,-122.3635058,2026-10-11T15:12:33Z
 db9f1487-ed6d-4a3b-a24b-31f2409eda53,way/1065983050,The Hay,,par3,,,active,9,27,,,,https://www.pebblebeach.com/golf/the-hay/,,,,CA,,US,36.5718394,-121.9500942,2026-10-11T15:12:24Z
 dbc95c6d-a18e-4c17-94d8-d43f786582bd,way/31300914,Diablo Creek Golf Course,,course,,,active,18,71,,,+1 925-686-6267,https://www.diablocreekgc.com/,,4050 Port Chicago Hwy,Concord,CA,94520,US,38.0149909,-122.0202817,2026-10-11T15:11:49Z
@@ -871,11 +871,11 @@ dcadfbd6-413a-49ec-ab3d-551fd989352f,way/975154113,Trona Golf Course,,course,,,a
 dcc9de9d-b743-406f-a10f-9a33598ded31,relation/3568821,Shadow Mountain Golf Club,,course,,,active,18,70,,,+1-760-346-8242,https://www.shadowmtgc.com/,,,,CA,,US,33.712795,-116.3792553,2026-10-11T15:12:33Z
 dce8bed1-e31a-4b79-b5d0-d9ba74f184df,way/224018173,Westridge Golf Club,,course,,,active,18,72,,,+1-562-690-4200,https://www.westridgegolfclub.com/,,1400 South La Habra Hills Drive,La Habra,CA,90631,US,33.9109216,-117.9677229,2026-10-11T15:12:03Z
 dd7ce33c-5ade-4b47-b2bc-f374d755bb07,node/8815209451,Sun Lakes Country Club Executive Golf Course,,course,,,active,,,,,,,,,,CA,,US,33.9221411,-116.9357695,2026-10-11T13:29:32Z
-dd9c3ac1-18df-4202-bf9e-e8b04634e915,way/1544715378,Encinitas Ranch Golf Course,,course,,,active,,,,,,,,1275 Quail Gardens Drive,Encinitas,CA,92024,US,33.0675531,-117.276548,2026-10-11T15:12:30Z
+dd9c3ac1-18df-4202-bf9e-e8b04634e915,way/1544715378,Encinitas Ranch Golf Course,,course,,,active,,,,,,https://www.encinitasranchgolf.com/,,1275 Quail Gardens Drive,Encinitas,CA,92024,US,33.0675531,-117.276548,2026-10-21T11:31:03Z
 ddf4e1e8-1d9f-46bf-8884-d78fae4d07ae,way/40630560,Old Ranch Country Club,,course,,,active,18,72,,,+1-562-596-4425,https://www.invitedclubs.com/clubs/old-ranch-country-club,,3901 Lampson Avenue,Seal Beach,CA,90740,US,33.7784748,-118.0644725,2026-10-11T13:29:39Z
 dee6f8c5-6824-4272-b0ff-84d30426a96b,way/44486465,Echo Hills Golf Course,,course,,,active,,,,,,https://www.gorecreation.org/echo-hills-golf-course,,545 East Thornton Avenue,Hemet,CA,92543,US,33.7243048,-116.9650902,2026-10-11T15:11:53Z
 df42a1cd-9802-4b60-bab6-e8b5f5b7413f,way/305928956,Panorama Golf Course,,course,,,active,,,,,,,,,,CA,,US,33.7397997,-116.9851833,2026-10-11T15:12:12Z
-df48602f-3217-4454-b322-b9fc9784fc88,way/27006478,San Juan Oaks Golf Club,,course,,,active,18,72,,,,,,,,CA,,US,36.8190018,-121.4634557,2026-10-11T15:11:49Z
+df48602f-3217-4454-b322-b9fc9784fc88,way/27006478,San Juan Oaks Golf Club,,course,,,active,18,72,,,,https://sanjuanoaks.com/,,,,CA,,US,36.8190018,-121.4634557,2026-10-20T11:32:01Z
 dfec48b5-4255-410f-9354-e46c2d08c1ba,relation/3569743,Almaden Golf and Country Club,,course,,,active,18,,,,+1-408-268-4653,https://www.almadengcc.org/,,6663 Hampton Drive,San Jose,CA,95120,US,37.2120804,-121.8684249,2026-10-11T15:12:33Z
 e003c56d-a0ce-43e5-b3b3-58afd1840086,relation/4077563,Apple Valley Golf Course,,course,,,active,18,71,,,+1-760-242-3125,https://applevalleygolf.com,,15200 Rancherias Road,Apple Valley,CA,92307,US,34.522723,-117.231001,2026-10-11T15:06:45Z
 e02a0f6f-ec47-40b8-9e0f-9503d76f2b3a,way/305297870,Adams Springs Golf Course,,course,,,active,,,,,+1 707-928-9992,https://www.adamsspringsgolfcourse.com/,,,,CA,,US,38.8495039,-122.7251248,2026-10-11T15:12:12Z
@@ -883,7 +883,7 @@ e032ea1f-96dd-4752-922d-976d7d1f3fa6,way/121005348,Diamond Oaks Golf Course,,cou
 e050f254-c318-42f3-adc2-333c3b0d00bf,node/4630683403,Steele Canyon Driving Range,,practice,,,active,,,,,,,,,,CA,,US,32.744,-116.893404,2026-10-11T15:05:59Z
 e0a065fc-a07d-4da9-a812-e021f8fa5775,way/44501629,Rancho Santa Fe Golf Club,,course,,,active,,,,,,,,,,CA,,US,33.0254855,-117.2104987,2026-10-11T15:11:53Z
 e0d07071-fa9c-4d81-96f4-96ee8d92bfd7,relation/3568817,Pelican Hill Golf Club,,course,,,active,18,,,,+1-855-315-8214,https://www.pelicanhill.com/,,,,CA,,US,33.5881531,-117.8489919,2026-10-11T15:12:33Z
-e11f30ae-c24e-4d94-9ad8-27a0a2fec620,way/44486479,Highland Palms Golf Course,,course,,,active,,,,,,,,,,CA,,US,33.7387101,-117.1235198,2026-10-11T15:06:05Z
+e11f30ae-c24e-4d94-9ad8-27a0a2fec620,way/44486479,Highland Palms Golf Course,,course,,,active,,,,,,https://highlandpalms.org/,,,,CA,,US,33.7387101,-117.1235198,2026-10-21T11:26:34Z
 e190730e-5882-430c-9a0c-98778bad5a2a,relation/3567050,Sun City Sierra Pines Golf Course,,course,,,active,9,,,,+1-916-774-7234,https://www.timbercreekgc.com/,,7600 Whistlestop Way,Roseville,CA,95747,US,38.7890121,-121.348923,2026-10-11T13:31:22Z
 e19d134f-ee3f-4b89-a6fb-20bb2fcaa21f,way/305213909,Weed Golf Club,,course,,,active,,,,,+1-530-938-9971,https://www.weedgolfcourse.com/,,27730 Old Edgewood Weed Road,Weed,CA,96094,US,41.4284214,-122.3959721,2026-10-11T15:12:12Z
 e1e00955-b08c-4212-b131-59a9623ed450,way/43136961,Vineyard Knolls,,course,,private,active,,,,,+1-707-226-8184,https://www.vineyardknolls.com/,,1129 Dealy Lane,Napa,CA,94559,US,38.260702,-122.3424216,2026-10-11T15:11:53Z
@@ -900,29 +900,29 @@ e5df64d7-18fd-4fe5-b541-8691f444030a,way/305747571,Monterey Park Golf Club,,cour
 e5f6dc73-39fd-4df1-a056-8c92e833a22c,way/1211528955,Riverwalk Golf Club,,course,,,active,18,72,,,+1-619-296-4653,https://riverwalkgc.com/,,1150 Fashion Valley Road,San Diego,CA,92108,US,32.7629337,-117.1776148,2026-10-11T15:12:27Z
 e6086a2a-d901-44fb-99cd-8dd82d47b033,way/305214815,Allen’s Golf Course,,course,,,active,,,,,+1 530-241-5055,https://allensgolfcourse.com/,,2780 Sacramento Drive,,CA,,US,40.5249321,-122.3744328,2026-10-11T13:30:33Z
 e62a35b2-81a7-4645-a2f5-ba1e3b10e65f,relation/4071249,DarkHorse Golf Club,,course,,,active,,,,,+1-530-269-7900,https://www.darkhorsegolf.com/,,24150 DarkHorse Drive,Auburn,CA,95602,US,39.0294187,-121.0498065,2026-10-11T15:12:35Z
-e6381bed-cffd-4c80-b0cf-3c6f944cd047,way/35828614,Silverado Resort,,course,,,active,18,70,,,,,,,,CA,,US,38.3514068,-122.2613379,2026-10-11T15:11:51Z
+e6381bed-cffd-4c80-b0cf-3c6f944cd047,way/35828614,Silverado Resort,,course,,,active,18,70,,,,https://www.silveradoresort.com/,,,,CA,,US,38.3514068,-122.2613379,2026-10-20T11:41:16Z
 e63e7a62-110d-4f2a-b7fc-d1a25da1f171,node/6709187253,,,course,,,active,,,,,,,,,,CA,,US,38.6599243,-121.2867349,2026-10-11T13:29:32Z
-e66e9064-5132-4715-b656-09351dcf9711,way/230769962,Alisal Ranch Course,,course,,,active,,,,,,,,,,CA,,US,34.5735186,-120.1447381,2026-10-11T15:06:16Z
+e66e9064-5132-4715-b656-09351dcf9711,way/230769962,Alisal Ranch Course,,course,,,active,,,,,,https://www.alisalranch.com/,,,,CA,,US,34.5735186,-120.1447381,2026-10-20T11:30:52Z
 e6816197-0b5a-4e08-a2d5-522ed3f139aa,way/44500957,Rancho Bernardo Inn Golf Course,,course,,,active,18,72,,,+1-858-675-8470,https://www.jcgolf.com/course/rancho-bernardo/,,17550 Bernardo Oaks Drive,San Diego,CA,92128,US,33.0317957,-117.0689475,2026-10-11T15:06:05Z
 e6915c14-037d-4a3e-8683-aa884562a9ae,node/10097134608,,,course,,,active,,,,,,,,,,CA,,US,37.8377929,-121.2424095,2026-10-11T13:29:32Z
 e6ae03e9-5448-4cbc-8a71-57e8f3b862bb,relation/19675221,Marin Country Club,,course,,,active,18,71,,,,https://www.marincountryclub.com/,,500 Country Club Drive,Novato,CA,94949,US,38.0647158,-122.5660994,2026-10-11T15:12:45Z
 e70ceec3-5875-4925-aac1-882cdf8dd46d,relation/3568832,El Dorado Park Golf Course,,course,,,active,18,72,,,+1-562-430-5411,https://www.eldoradoparkgc.com/,,2400 N. Studebaker Rd.,Long Beach,CA,90815,US,33.8029834,-118.0949661,2026-10-11T15:12:33Z
 e71c6025-ab8c-4a99-804d-7319f2bb68d8,node/10587750047,Bay View Golf Club,,course,,,active,,,,,+1-408-262-8813,https://www.playbayview.com/,,1500 Country Club Drive,Milpitas,CA,95035,US,37.4554151,-121.8815047,2026-10-11T13:29:32Z
-e73c4b84-49b1-4d86-b138-155e4320cff1,way/43951015,Diablo Country Club,,course,,,active,18,71,,,,,,,,CA,,US,37.8388781,-121.9666805,2026-10-11T13:29:44Z
-e754169f-92c1-494b-846c-40c7c69f1f3d,relation/2744895,Quail Lodge Golf Club,,course,,,active,18,71,,,,,,,,CA,,US,36.5313568,-121.8616816,2026-10-11T15:12:33Z
+e73c4b84-49b1-4d86-b138-155e4320cff1,way/43951015,Diablo Country Club,,course,,,active,18,71,,,,https://www.diablocc.org/,,,,CA,,US,37.8388781,-121.9666805,2026-10-21T11:33:22Z
+e754169f-92c1-494b-846c-40c7c69f1f3d,relation/2744895,Quail Lodge Golf Club,,course,,,active,18,71,,,,https://www.quaillodge.com/,,,,CA,,US,36.5313568,-121.8616816,2026-10-20T11:31:57Z
 e77ee42c-d844-4190-b096-e2242b148be7,way/23631167,Tony Lema Golf Course,,course,,,active,,,,,+1-510-895-2162,https://www.monarchbaygc.com/,,13800 Monarch Bay Drive,Monarch Bay Drive,CA,94577,US,37.6865957,-122.1779399,2026-10-11T13:29:32Z
 e780e11d-cd23-457b-a325-84293d744d06,relation/317360,Ruby Hill Country Club,,course,,,active,18,,,,+1-925-417-5840,https://www.rubyhill.com/,,3400 W Ruby Hill,Dr Pleasanton,CA,94566,US,37.6433335,-121.8104489,2026-10-11T15:12:30Z
-e8e81973-ca2c-4f49-b30a-b6a46e89e9da,way/76203490,Saticoy Regional Golf Course,,course,,,active,,,,,,,,,,CA,,US,34.2838027,-119.156404,2026-10-11T15:11:55Z
+e8e81973-ca2c-4f49-b30a-b6a46e89e9da,way/76203490,Saticoy Regional Golf Course,,course,,,active,,,,,,https://www.saticoygc.com/,,,,CA,,US,34.2838027,-119.156404,2026-10-20T11:38:20Z
 e956a55b-2a7d-4cbd-a30b-4893debf12b1,relation/7497293,Indian Ridge Country Club,,course,,,active,,,,,,http://www.inidanridgecc.com/,,,,CA,,US,33.7511035,-116.330012,2026-10-11T15:12:38Z
 e9683fb3-00b1-4795-943b-d47641bc7876,node/4906486039,,,course,,,active,,,,,,,,,,CA,,US,34.1561086,-118.7899697,2026-10-11T13:29:32Z
 ea5bb715-2454-4452-aa20-ccf01c2f5505,way/41445610,Los Serranos Golf & Country Club,,course,,,active,,,,,+1 909 597 1711,http://www.losserranoscountryclub.com,,15656 Yorba Ave,Chino Hills,CA,91709,US,33.9676809,-117.7068925,2026-10-11T15:11:53Z
 ea75c320-393e-4e07-9620-c170bc61bc0b,node/14174960185,River View Golf Course entrance,,course,,,active,,,,,,,,,,CA,,US,33.765241,-117.8928419,2026-10-11T13:29:32Z
 eabd191c-45ac-4128-8679-79df826b9ece,relation/326313,Menifee Lakes Country Club,,course,,,active,,,,,+1-951-672-4824,https://menifeelakesgolf.com/,,29875 Menifee Lakes Drive,Menifee,CA,92584,US,33.6928499,-117.1600327,2026-10-11T15:12:30Z
 eaef94e9-b565-4bd3-98c9-6c1d0b7d922b,way/44581330,Visalia Country Club,,course,,,active,18,,,,,https://visaliacc.net/web/pages/golf,,652 North Ranch Street,Visalia,CA,93291,US,36.3356835,-119.3208514,2026-10-11T15:06:05Z
-eb09912a-aea9-4f9a-ba0d-9f4c6ba7ffcf,way/143512859,Colusa Golf and Country Club,,course,,,active,,,,,,,,,,CA,,US,39.1929301,-122.0007021,2026-10-11T15:12:00Z
-eb9b130d-68b8-44c5-a4b7-b84a5e1c58c4,node/9632409806,Mission Bay Golf Course,,course,,,active,,,,,,,,2702 N Mission Bay Dr,San Diego,CA,92109,US,32.798925,-117.2169082,2026-10-11T13:29:32Z
+eb09912a-aea9-4f9a-ba0d-9f4c6ba7ffcf,way/143512859,Colusa Golf and Country Club,,course,,,active,,,,,,https://www.colusagolfcourse.com/,,,,CA,,US,39.1929301,-122.0007021,2026-10-21T11:24:24Z
+eb9b130d-68b8-44c5-a4b7-b84a5e1c58c4,node/9632409806,Mission Bay Golf Course,,course,,,active,,,,,,https://www.sandiego.gov/park-and-recreation/golf/mbgolf,https://www.sandiego.gov/park-and-recreation/golf/mbgolf#scorecards,2702 N Mission Bay Dr,San Diego,CA,92109,US,32.798925,-117.2169082,2026-10-22T13:05:05Z
 ebb33d16-9bd4-44e6-9590-670f14f8fd5a,way/281100928,Borrego Springs Resort,,course,,,active,,,,,+1-760-767-3330,https://www.borregospringsresort.com/,,,,CA,,US,33.2445829,-116.3561921,2026-10-11T13:30:16Z
-ebc43e31-3f2a-4fae-8155-605e2c70ce98,way/422505712,Indian Camp Golf Course,,course,,,active,9,28,,,,,,,,CA,,US,41.9947146,-121.5613832,2026-10-11T15:06:28Z
+ebc43e31-3f2a-4fae-8155-605e2c70ce98,way/422505712,Indian Camp Golf Course,,course,,,active,9,28,,,,,,,,CA,,US,41.9947146,-121.5613832,2026-10-21T01:44:39Z
 ebe89e01-f8ca-4613-88ee-1ea630a44b47,relation/13336416,The Links at Everline,,course,,,active,18,,,,,https://www.palisadestahoe.com/events-and-activities/activity-finder/the-links-golf-course-at-squaw-creek,,,,CA,,US,39.1996924,-120.2208306,2026-10-11T15:12:41Z
 ebf08247-692e-4acb-8493-75d1d6eeb4c2,way/305871707,The Ranch at Laguna BeachGolf Course,,course,,,active,9,32,,,+1-949-499-1919,https://www.theranchlb.com/,,31106 Pacific Coast Highway,Laguna Beach,CA,92651,US,33.5137011,-117.7443948,2026-10-11T15:12:12Z
 ec4f1a69-47cf-4765-95ad-efeb172ed443,relation/3572278,California Country Club,,course,,private,active,,,,,+1-626-968-4222; +1-626-333-4571,https://www.golfccc.com/,,1509 South Workman Mill Road,Whittier,CA,90601,US,34.0409252,-118.0151341,2026-10-11T15:06:43Z
@@ -931,7 +931,7 @@ ec7fa06b-62a1-452a-9412-af1283778853,relation/3566972,Bear Creek Golf Club,,cour
 ecede47b-e904-49b2-a785-d6623e6d47fe,relation/13921737,Pasatiempo Golf Course,,course,,,active,18,70,,,+1 831-459-9155,https://www.pasatiempo.com/,,20 Clubhouse Road,Santa Cruz,CA,95060,US,37.0024983,-122.0277522,2026-10-11T15:06:51Z
 ecf13a28-cf5d-4106-957f-0e47c6187222,way/24267244,Crystal Springs Golf Course,,course,,,active,18,72,,,+1-650-342-4188,https://www.playcrystalsprings.com/,,6650 Golf Course Drive,Burlingame,CA,94010,US,37.5560947,-122.3829982,2026-10-11T15:11:49Z
 ed06a6bd-f199-45ab-98b4-2b068e38a00f,way/196873674,Annandale Country Club,,course,,,active,18,70,,,+1-626-796-6125,https://www.annandalegolf.com/,,1 North San Rafael Avenue,Pasadena,CA,91105,US,34.1474675,-118.1767373,2026-10-11T15:12:03Z
-ed0f6e1e-fb1e-40ca-a39d-9bb803a16fe8,relation/12694689,The Lakes Country Club,,course,,,active,,,,,,,,,,CA,,US,33.7520186,-116.3475204,2026-10-11T15:12:41Z
+ed0f6e1e-fb1e-40ca-a39d-9bb803a16fe8,relation/12694689,The Lakes Country Club,,course,,,active,,,,,,https://www.thelakescc.com/,,,,CA,,US,33.7520186,-116.3475204,2026-10-21T11:29:14Z
 ed1f154d-2d4f-4882-99cc-363d787caf7e,way/305744371,Los Amigos Golf Course,,course,,,active,18,71,,,+1-562-923-9696,https://www.losamigosgc.com/,,7295 Quill Drive,Downey,CA,90242,US,33.9372767,-118.1613149,2026-10-11T15:12:12Z
 ed3ed179-c083-469c-ac2e-9b8343148a3d,relation/1745396,Callippe Preserve,,course,,,active,18,72,,,,https://www.playcallippe.com/,,8500 Clubhouse Drive,Pleasanton,CA,94566,US,37.6299534,-121.8635587,2026-10-11T15:12:30Z
 eda06970-7196-40b7-b4ad-4c54cd17757d,way/230368164,Arrowhead Country Club,,course,,private,active,18,72,,,+1-909-882-1638,https://golfarrowheadcc.com/,,3433 Parkside Drive,San Bernardino,CA,92404,US,34.1527112,-117.2746566,2026-10-11T15:12:03Z
@@ -950,37 +950,37 @@ f19f97df-98b6-4619-a1fe-8f70f240b586,way/37722162,Bing Maloney Golf Club,,course
 f1d93af7-3557-4eb1-a460-6fdd58f0b3c3,way/1217924163,,,course,,,active,,,,,,,,,,CA,,US,33.8206734,-118.3423107,2026-10-11T15:12:27Z
 f1e56a1c-37d5-475e-910b-142389e30b27,relation/11797664,,,course,,,active,18,72,,,,,,,,CA,,US,32.9388124,-117.1975957,2026-10-11T15:12:41Z
 f241ca51-76f2-468d-b3a5-6d5ecdca4789,way/60113925,Kern River Golf Course,,course,,,active,18,70,,,+1-661-872-5128,https://www.kernrivergolf.com/,,Rudal Road,Bakersfield,CA,93306,US,35.4373405,-118.8577183,2026-10-11T15:11:55Z
-f25ba6c5-f2cc-470b-8a4e-783e9610f6fd,relation/11506411,The Sea Ranch Golf Links,,course,,,active,18,71,,,,,,,,CA,,US,38.7523191,-123.5156102,2026-10-11T15:12:41Z
+f25ba6c5-f2cc-470b-8a4e-783e9610f6fd,relation/11506411,The Sea Ranch Golf Links,,course,,,active,18,71,,,,https://searanchgolf.com/,,,,CA,,US,38.7523191,-123.5156102,2026-10-20T11:41:17Z
 f31eac62-5eff-487e-b7a4-49e284ea5729,way/222837363,Los Feliz 3-Par Golf Course,,par3,,,active,9,27,,,+1-323-663-7758,https://golf.lacity.org/course_los_feliz_3_par/,,3207 Los Feliz Boulevard,Los Angeles,CA,90039,US,34.1251056,-118.2705214,2026-10-11T15:12:03Z
 f3e1e125-d373-4224-9177-3703a5272b83,node/12758491429,River Course at the Alisal,,course,,,active,,,,,+1-805-688-6042,https://www.rivercourse.com/,,Alisal Road,,CA,,US,34.5864562,-120.1366943,2026-10-11T13:29:32Z
 f40f43b7-bac9-42fe-8853-49b9793df7b1,way/305805099,Shandin Hills Golf Course,,course,,,active,18,72,,,+1 909-886-0669,https://www.shandinhillsgolf.com/,,3380 Little Mountain Drive,San Bernadino,CA,92405,US,34.1527897,-117.3242654,2026-10-11T15:12:12Z
 f4694811-cea5-4263-bb75-dda820c0eb6d,way/48997294,Santa Rosa Golf,,course,,,active,,,,,,https://www.santarosagolf.com/,,,,CA,,US,33.7688442,-116.3756697,2026-10-11T15:06:05Z
 f4c63f2c-0f2e-432d-9efe-fe9b2c346cf8,way/390343070,,,practice,,,active,,,,,,,,,,CA,,US,34.1840265,-118.4897542,2026-10-11T15:06:28Z
 f4df8c70-8baf-4ac6-bfec-79343180d8ea,relation/3568998,Vellano Country Club,,course,,,active,18,72,,,+1-909-597-2801,https://www.experiencevellano.com/,,,,CA,,US,33.9532069,-117.7456813,2026-10-11T15:12:33Z
-f575b888-5abb-435a-b485-1c523571d5af,relation/12694918,Indian Springs Golf Club,,course,,,active,,,,,,,,,,CA,,US,33.7161368,-116.2677102,2026-10-11T15:06:51Z
+f575b888-5abb-435a-b485-1c523571d5af,relation/12694918,Indian Springs Golf Club,,course,,,active,,,,,,https://www.indianspringsgc.com/,,,,CA,,US,33.7161368,-116.2677102,2026-10-21T11:26:56Z
 f577cde7-6d02-4823-9c6b-8f3d6a541eb8,way/36437304,Pacific Grove Golf Links,,course,,,active,18,70,,,,,,,,CA,,US,36.6308638,-121.9286307,2026-10-11T15:11:51Z
 f5f06ba2-2929-435b-a2f1-893823731b62,way/44580680,La Cumbre Country Club,,course,,,active,18,71,,,+1 805-687-2421,https://www.lacumbrecc.org/,,4015 Via Laguna,Santa Barbara,CA,93110,US,34.4312858,-119.7564099,2026-10-11T15:11:53Z
 f60f8363-d682-4fc4-ab26-f288b4fd7b09,way/43985584,Pleasanton Golf Center,,course,,,active,9,30,,,+1-925-462-4653,https://www.pleasantongolfcenter.com/,,4501 Pleasanton Lane,Pleasanton,CA,94566,US,37.6630399,-121.8837269,2026-10-11T15:11:53Z
 f6247960-c4a8-4d86-b002-adeab20aaa73,way/168550180,Graeagle Meadows Golf Course,,course,,,active,,,,,+1-530-836-2323,https://playgraeagle.com/,,,,CA,,US,39.7651751,-120.6051766,2026-10-11T15:12:01Z
-f6b4d9fe-10d2-408a-9520-15cf7daf1390,way/397515987,Monarch Dunes Golf Course,,course,,,active,,,,,,,,,,CA,,US,35.0334752,-120.5525823,2026-10-11T15:12:15Z
+f6b4d9fe-10d2-408a-9520-15cf7daf1390,way/397515987,Monarch Dunes Golf Course,,course,,,active,,,,,,http://www.monarchdunes.com/,,,,CA,,US,35.0334752,-120.5525823,2026-10-20T11:31:36Z
 f6efe5d2-aeeb-4ef1-a1e5-cbd6a85440a2,way/44389730,Bishop Golf Club,,course,,,active,,,,,,,,,,CA,,US,37.3414591,-118.3997818,2026-10-11T15:11:53Z
 f78c8036-f280-488f-b0e4-6b2398b9b1e2,way/1231716871,Hidden Springs Golf Course,,course,,,active,9,31,,,+1-480-339-0000,https://treehousecommunities.com/Home,,15500 Bubbling Wells Lane,Desert Hot Springs,CA,92240,US,33.9351174,-116.4821704,2026-10-11T15:12:27Z
-f7cef5a3-fcb6-4ea2-95d3-735aad741663,way/38631250,Victoria Golf Course,,course,,public,active,18,72,,,,,,,,CA,,US,33.8520368,-118.2705342,2026-10-11T15:11:51Z
+f7cef5a3-fcb6-4ea2-95d3-735aad741663,way/38631250,Victoria Golf Course,,course,,public,active,18,72,,,,https://www.victoriagolfcourse.com/,,,,CA,,US,33.8520368,-118.2705342,2026-10-20T11:39:57Z
 f7e1df26-a2f8-4016-aef8-c5efa6dbc7c7,relation/2181789,Eagle Falls Golf Course,,course,,,active,18,72,,,+1-760-238-5633,https://www.fantasyspringsresort.com/golf/,,84-245 Indio Springs Pkwy,Indio,CA,92203,US,33.7207435,-116.184501,2026-10-11T15:12:33Z
 f8259ae9-cae7-427e-87ba-169d52948cdc,way/764677939,Berkeley Country Club,,course,,private,active,,,,,+1-510-233-7550,https://www.berkeleycountryclub.com/,,7901 Cutting Boulevard,El Cerrito,CA,94530,US,37.9326425,-122.3017722,2026-10-11T15:12:21Z
 f8b382a5-dc14-4c8b-9a3f-6663d7823a2d,way/44403530,Sycamore Canyon Golf Course,,course,,,active,,,,,,,,,,CA,,US,35.1656048,-118.8100894,2026-10-11T13:29:44Z
-f8b9db2c-16d5-4f96-a73d-386fad555891,relation/21023941,Eldorado Country Club,,course,,,active,,,,,,,,,,CA,,US,33.708563,-116.3391363,2026-10-11T13:31:51Z
+f8b9db2c-16d5-4f96-a73d-386fad555891,relation/21023941,Eldorado Country Club,,course,,,active,,,,,,https://www.eldoradocc.org/,,,,CA,,US,33.708563,-116.3391363,2026-10-20T11:42:59Z
 f8dc2553-1f9e-4be3-9744-6a62745366eb,node/9778215998,Rowland Heights Golf Center,,course,,,active,,,,,,,,,,CA,,US,33.9895916,-117.8913768,2026-10-11T13:29:32Z
 f8dd9ea5-1afe-4219-9f60-5f382a887ab9,way/44501149,Willowbrook Golf Course,,course,,,active,9,36,,,+1-619-561-1061,http://www.willowbrookgolfcourse.com/,,11905 Riverside Drive,Lakeside,CA,92040,US,32.8620876,-116.9353579,2026-10-11T15:11:53Z
 f8ddc525-2b62-4703-8961-8b4f83764804,way/326190901,Braemar Country Club,,course,,private,active,,,,,+1-818-345-6520,https://www.clubcorp.com/Clubs/Braemar-Country-Club/,,,,CA,,US,34.1436612,-118.5501914,2026-10-11T15:12:12Z
-f935607d-9957-4e53-a2ff-b112b49c2883,way/43702330,Chalk Mountain Golf Course,,course,,,active,,,,,,,,,,CA,,US,35.4727747,-120.6436263,2026-10-11T13:29:44Z
+f935607d-9957-4e53-a2ff-b112b49c2883,way/43702330,Chalk Mountain Golf Course,,course,,,active,,,,,,https://chalkmountaingolf.com/,,,,CA,,US,35.4727747,-120.6436263,2026-10-20T11:31:02Z
 f9508aa7-6bcd-4a77-902a-a29374662f9f,relation/20418680,La Costa Omni Resort Golf Course,,course,,,active,,,,,,,,,Carlsbad,CA,92009,US,33.0997702,-117.2559931,2026-10-11T15:12:45Z
 f9cacb68-cef5-40b6-a5e4-baadfe02c570,way/40419936,Westlake Golf Course,,course,,,active,18,67,,,+1-818-889-0770,https://westlakegc.com/,,4812 Lakeview Canyon Rd.,Westlake Village,CA,91361,US,34.1494829,-118.8112109,2026-10-11T15:11:51Z
 f9e47a37-421a-4b2e-9c64-88c7fc500772,way/1528352530,,,course,,private,active,,,,,,,,,,CA,,US,33.6177547,-117.5961967,2026-10-11T15:12:29Z
 fa0908d0-5f79-4205-a9cf-33101f1f9c40,relation/3567938,Shelter Cove Golf Course,,course,,,active,,,,,+1-707-986-1464,http://sheltercove-ca.gov/golf.html,,1555 Upper Pacific Drive,Shelter Cove,CA,95589,US,40.0283187,-124.0739419,2026-10-11T13:31:22Z
 fa101fda-3e36-464e-8133-f3c04e558f51,relation/6819087,Hansen Dam Municipal Golf Course,,course,,,active,18,72,,,+1-818-899-2200,https://www.laparks.org/golf/cdp_hansen.htm,,10400 Glenoaks Boulevard,Pacoima,CA,91331,US,34.2606536,-118.3877663,2026-10-11T15:12:38Z
 fa143e25-0411-4021-b29f-4b78938eb2ed,way/319783524,Woodbridge Golf & Country Club,,course,,,active,,,,,,,,,,CA,,US,38.161995,-121.3063685,2026-10-11T15:12:12Z
-fa2d105e-7bdb-481e-b79c-f73fb4c7d4f4,relation/17521279,Alta Sierra Country Club,,course,,,active,18,,,,,,,,,CA,,US,39.137688,-121.0486958,2026-10-11T15:12:45Z
+fa2d105e-7bdb-481e-b79c-f73fb4c7d4f4,relation/17521279,Alta Sierra Country Club,,course,,,active,18,,,,,https://www.altasierracc.com/,,,,CA,,US,39.137688,-121.0486958,2026-10-20T11:33:31Z
 fa32a7d6-41d9-48e3-9939-4880c5cbe83b,way/44486429,Fairmont Park Golf Course,,course,,,active,9,36,,,+1-951-826-2299,,,6927 Magnolia Ave,Riverside,CA,92506,US,34.0000181,-117.3785148,2026-10-11T15:11:53Z
 fa7f99d1-1e40-4441-b926-72bd56961e00,way/305426655,Green Valley Country Club,,course,,,active,18,72,,,+1 707 864 1101,https://www.greenvalleycc.com/,,35 Country Club Drive,Fairfield,CA,94534,US,38.2569493,-122.167313,2026-10-11T15:12:12Z
 fa85b499-7d10-418e-9dd2-924c6f555f18,relation/326314,Canyon Lake Golf and Country Club,,course,,,active,18,71,,,+1-951-246-1782,https://www.canyonlakepoa.com/173/Canyon-Lake-Golf-Country-Club,,32001 Railroad Canyon Road,Canyon Lake,CA,92587,US,33.6744068,-117.2576771,2026-10-11T15:12:30Z
@@ -988,7 +988,7 @@ faacbda9-4341-4e4c-84ae-f36149c6a815,way/44486461,Sands Avenue Country Club,,cou
 fb346311-4cd5-44d3-b235-7675df2125fe,way/89801312,Pinnacle Hills Golf Club,,course,,,active,,,,,,,,7777 Airline Hwy,,CA,95023,US,36.7775177,-121.3093007,2026-10-11T15:06:07Z
 fb4ecbe4-7455-41a7-911c-01a3fa934101,way/37096250,Fig Garden Golf Club,,course,,,active,18,72,,,+1-559-439-2928,http://www.figgardengolf.com/,,,,CA,,US,36.8532954,-119.8377519,2026-10-11T15:11:51Z
 fbe8fa50-2c29-479b-be65-ba97d3fbfebb,way/172229832,El Cariso Golf Course,,course,,,active,18,62,,,+1-818-367-6157,https://parks.lacounty.gov/el-cariso-golf-course/#,,13100 Eldridge St,Sylmar,CA,91342,US,34.3122295,-118.4141494,2026-10-11T13:30:03Z
-fc75b479-24e5-4a89-b7d9-b5d490fbb8f1,way/28887550,Richmond Country Club,,course,,,active,,,,,,,,,,CA,,US,37.9893268,-122.3479361,2026-10-11T13:29:34Z
+fc75b479-24e5-4a89-b7d9-b5d490fbb8f1,way/28887550,Richmond Country Club,,course,,,active,,,,,,https://www.richmondgolfclub.com/,,,,CA,,US,37.9893268,-122.3479361,2026-10-22T11:23:28Z
 fd1d0208-7b51-4462-8462-96f46496b4c2,way/1090343871,Rancho Park 3 Par Course,,par3,,,active,,,,,+1-310-838-7561,https://golf.lacity.org/course_rancho_park_3_par/,,10460 West Pico Boulevard,Los Angeles,CA,90064,US,34.0483993,-118.4126285,2026-10-11T15:12:24Z
 fd619b94-c439-49b7-a43f-d0d0fef53d84,relation/3579061,Thunderbird Country Club,,course,,private,active,,,,,+1-760-328-2161,https://www.thunderbirdcc.org/,,70-737 Country Club Drive,Rancho Mirage,CA,92270,US,33.7542732,-116.4261102,2026-10-11T15:12:33Z
 fd772372-4889-4213-a267-8f7e575f6eae,way/410652623,Driving Range,,practice,,,active,,,,,,,,,,CA,,US,34.1730189,-118.4971448,2026-10-11T15:12:15Z
@@ -1001,4 +1001,4 @@ fec6712a-8216-4180-89f7-909fb96f047d,relation/4075934,Phoenix Lake Golf Course,,
 ff146969-6039-49a8-8547-4314fbb1e2ff,way/60113825,Bakersfield Country Club,,course,,,active,18,72,,,,https://www.bakersfieldcountryclub.com/,,4200 Country Club Drive,Bakersfield,CA,93306,US,35.3916946,-118.9390742,2026-10-11T15:11:55Z
 ff1cd0e8-b001-41e9-b08e-5289cc16f8f2,way/37389120,Valley Hi Country Club!,,course,,private,active,,,,,+1-916-684-2120,https://www.valleyhicc.com/,,9595 Franklin Boulevard,Elk Grove,CA,95758,US,38.4125043,-121.4413557,2026-10-11T15:11:51Z
 ff2d3d81-fe08-4eab-9248-f9ce7dd24a39,way/32818084,Van Nuys Golf Course,,par3,,,active,,,,,+1 818-785-8871,https://www.vannuysgc.com/,,6550 Odessa Avenue,Van Nuys,CA,91406,US,34.1902924,-118.4884473,2026-10-11T15:06:03Z
-ffd8911a-db35-4e38-8d94-32ef2a90fcdc,relation/1738254,The Bridges Golf Club,,course,,,active,,,,,,,,,,CA,,US,37.7727435,-121.9345122,2026-10-11T15:12:30Z
+ffd8911a-db35-4e38-8d94-32ef2a90fcdc,relation/1738254,The Bridges Golf Club,,course,,,active,,,,,,https://www.thebridgesgolf.com/,,,,CA,,US,37.7727435,-121.9345122,2026-10-21T11:33:56Z

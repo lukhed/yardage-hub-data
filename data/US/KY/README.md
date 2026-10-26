@@ -1,6 +1,6 @@
 # Kentucky
 
-229 golf courses in 4 regions, as of the 2026-10-19 snapshot. Columns are explained in [COVERAGE.md](../../../COVERAGE.md); the files here are described in the [README](../../../README.md#whats-in-the-files).
+229 golf courses in 4 regions, as of the 2026-10-26 snapshot. Columns are explained in [COVERAGE.md](../../../COVERAGE.md); the files here are described in the [README](../../../README.md#whats-in-the-files).
 
 | Region | Courses | Scorecard | Pars | Handicaps | Ratings | Yardages | Complete | Fixes (90 days) | Open reports |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|

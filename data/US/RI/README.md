@@ -1,6 +1,6 @@
 # Rhode Island
 
-56 golf courses in 1 region, as of the 2026-10-19 snapshot. Columns are explained in [COVERAGE.md](../../../COVERAGE.md); the files here are described in the [README](../../../README.md#whats-in-the-files).
+56 golf courses in 1 region, as of the 2026-10-26 snapshot. Columns are explained in [COVERAGE.md](../../../COVERAGE.md); the files here are described in the [README](../../../README.md#whats-in-the-files).
 
 | Region | Courses | Scorecard | Pars | Handicaps | Ratings | Yardages | Complete | Fixes (90 days) | Open reports |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|

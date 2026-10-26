@@ -1,7 +1,7 @@
 id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
 09bfc40b-f274-4d6c-b55e-e96979e0f9dc,relation/3213786,,,course,,,active,,,,,,,,,,HI,,US,19.9251809,-155.8681504,2026-10-11T15:12:33Z
-0b882d2d-8c0f-4745-a070-b07320033749,way/448759656,Wailea Gold Course,,course,,,active,,,,,,,,,,HI,,US,20.6613852,-156.4366571,2026-10-11T15:06:28Z
-0da48dd4-5e06-4d04-ac69-935b71f8244b,node/7754920368,Hualalai Golf Club & Pro Shop,,course,,,active,,,,,,,,,,HI,,US,19.8271752,-155.9921008,2026-10-11T13:29:32Z
+0b882d2d-8c0f-4745-a070-b07320033749,way/448759656,Wailea Gold Course,,course,,,active,,,,,,https://www.waileagolf.com/,,,,HI,,US,20.6613852,-156.4366571,2026-10-24T14:32:15Z
+0da48dd4-5e06-4d04-ac69-935b71f8244b,node/7754920368,Hualalai Golf Club & Pro Shop,,course,,,active,,,,,,https://www.hualalairesort.com/,,,,HI,,US,19.8271752,-155.9921008,2026-10-23T16:02:09Z
 0f8a1bd8-5f84-4395-b9c9-7a253b3a4834,way/240893426,,,course,,,active,,,,,,,,,,HI,,US,20.0074803,-155.8130769,2026-10-11T15:12:05Z
 1201e912-33a5-4fe3-bf1d-81e48f8935af,relation/11124772,Ko'olau Golf Club,,course,,,active,18,72,,,,,,45-550 Kionaole Rd,Kaneohe,HI,96744,US,21.3773131,-157.7993171,2026-10-11T15:12:38Z
 131e69c4-09ee-4b0e-8aaf-489b2651a6a2,way/1054604752,,,course,,,active,,,,,,https://puakeagolf.com,,,,HI,,US,21.961967,-159.3737497,2026-10-11T15:12:24Z
@@ -9,7 +9,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 181ab621-7ede-41cc-8d96-d813fac9c51e,relation/3478507,The Challenge at Manele,,course,,,active,18,72,,,,,,,,HI,,US,20.7431593,-156.9063099,2026-10-11T15:12:33Z
 1d4ecde6-9c99-4c9f-a371-6254fe4fe3a2,way/240893415,,,course,,,active,,,,,,,,,,HI,,US,20.0021594,-155.8113053,2026-10-11T15:12:05Z
 1dc32764-2825-4b15-a211-ac6c5c8a024c,way/240893425,,,course,,,active,,,,,,,,,,HI,,US,20.0086084,-155.8133353,2026-10-11T13:30:12Z
-1ed781d3-2816-40ec-9e02-bfa7bdb73ba7,relation/5340424,Kiahuna Golf Club,,course,,,active,18,70,,,,,,,,HI,,US,21.8880058,-159.4618921,2026-10-11T15:12:36Z
+1ed781d3-2816-40ec-9e02-bfa7bdb73ba7,relation/5340424,Kiahuna Golf Club,,course,,,active,18,70,,,,https://www.kiahunagolf.com/,,,,HI,,US,21.8880058,-159.4618921,2026-10-24T14:29:30Z
 20ea73d7-f0dd-4335-b29f-999ab65d662b,relation/12152889,The Plantation Course,,course,,,active,18,73,,,,https://www.golfatkapalua.com/plantation-course/,,,,HI,,US,21.003756,-156.6405613,2026-10-11T15:12:41Z
 2295d7ad-089a-4fee-8ef2-ca8d07e9cea9,way/193047498,Kohanaiki,,course,,private,active,18,72,,,,https://kohanaiki.com/golf/,,,,HI,,US,19.6968248,-156.0379446,2026-10-11T13:30:03Z
 23e8dff5-32d7-4b25-a104-1c3b9016e551,node/1613647484,Kalua Koi Golf Course,,course,,,active,,,,,,,,,,HI,,US,21.1837767,-157.2462916,2026-10-11T13:29:32Z
@@ -17,27 +17,27 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 26caf17b-108d-402b-9207-407e7d849b8a,relation/6649241,Maui Nui Golf Club,,course,,,active,,,,,,https://www.mauinuigolfclub.com/,,,,HI,,US,20.7481749,-156.4438255,2026-10-11T15:12:38Z
 2776632e-015c-42eb-99f3-bab3c60ec177,way/449590117,Moanalua Golf Club,,course,,,active,,,,,+1 808 839 2311,https://moanaluagolfclub.com/,,,,HI,,US,21.3641606,-157.8968395,2026-10-11T15:06:28Z
 27b2c827-29a2-4073-bfa0-479d3830ec6e,relation/18372226,Makaha Valley Country Club,,course,,,active,18,,,,,https://makahavalleycc.com,,,,HI,,US,21.475408,-158.1977468,2026-10-11T13:31:51Z
-27bfdc3e-397d-4cf0-bff0-1c5c8ff5510d,way/239958047,Royal Hawaiian Golf Club,,course,,,active,18,72,,,,,,770 Auloa Rd,Kailua,HI,96734,US,21.3567859,-157.7601996,2026-10-11T15:12:03Z
+27bfdc3e-397d-4cf0-bff0-1c5c8ff5510d,way/239958047,Royal Hawaiian Golf Club,,course,,,active,18,72,,,,https://royalhawaiiangc.com/,,770 Auloa Rd,Kailua,HI,96734,US,21.3567859,-157.7601996,2026-10-24T14:31:36Z
 28964fce-dc5e-43d1-a75d-240542beb9bc,relation/5833086,Ocean Course at Hokuala,,course,,,active,18,72,,,,,,3351 Ho'olaulea Way,Hokuala,HI,96766,US,21.964962,-159.346434,2026-10-11T13:31:32Z
 293de8e4-ba20-4ed6-b2c1-54e28498db34,way/240893427,,,course,,,active,,,,,,,,,,HI,,US,20.0048164,-155.8027585,2026-10-11T13:30:12Z
 29ec1333-5e62-460f-8586-41d279348adb,way/231668098,,,course,,,active,,,,,,,,,,HI,,US,20.0458352,-155.5923676,2026-10-11T15:12:03Z
 2a2b81e3-e923-4123-aa13-6708f0e63bec,way/1094652470,,,course,,,active,18,,,,,,,,,HI,,US,21.3558633,-157.7262659,2026-10-11T15:12:24Z
 2b048980-04fc-48ac-baf6-7f1e2ee7500d,way/240893435,,,course,,,active,,,,,,,,,,HI,,US,20.0081227,-155.8066789,2026-10-11T13:30:12Z
 2be8f523-7489-4925-b7d6-a04568d929cf,way/62688998,Klipper Golf Course,,course,,,active,18,72,,,,,,,,HI,,US,21.4519897,-157.7485361,2026-10-11T13:29:49Z
-2c61fc9d-7bb6-4963-a098-b32dd07b2082,relation/3215648,Waikoloa Beach Course,,course,,,active,,,,,,,,,,HI,,US,19.9208742,-155.8823314,2026-10-11T13:31:22Z
+2c61fc9d-7bb6-4963-a098-b32dd07b2082,relation/3215648,Waikoloa Beach Course,,course,,,active,,,,,,https://www.waikoloabeachgolf.com/,,,,HI,,US,19.9208742,-155.8823314,2026-10-24T14:32:04Z
 2cf1d452-3387-4e08-aaf3-a3e447fee97b,relation/9150549,Wailua Golf Course,,course,,,active,18,72,,,,,,,,HI,,US,22.0244041,-159.340126,2026-10-11T15:12:38Z
 2e9d033f-b0d0-4478-b656-c24bff2dae46,way/192743166,Kukio,,course,,,active,18,72,,,,,,,,HI,,US,19.8000301,-155.9884359,2026-10-11T13:30:03Z
 30d620ea-e439-4fda-8a51-be19db862e17,way/240893414,,,course,,,active,,,,,,,,,,HI,,US,19.9991309,-155.8150744,2026-10-11T15:12:05Z
 34029715-67e0-46db-b332-94824c18d2b2,node/1613647455,Ironwood Hills Golf Club,,course,,,active,,,,,,,,,,HI,,US,21.1629367,-157.0178016,2026-10-11T13:29:32Z
 36df73d7-f52a-4552-9e3c-0ae3910ac4c5,way/162193845,West Loch Golf Course,,course,,,active,,,,,,,,,,HI,,US,21.3658819,-158.0276503,2026-10-11T15:12:01Z
-3d1f7266-3ea7-458c-b0ed-34704fe1913c,relation/4683724,Makena North Course,,course,,,active,,,,,,,,,,HI,,US,20.6516163,-156.4327555,2026-10-11T15:12:36Z
+3d1f7266-3ea7-458c-b0ed-34704fe1913c,relation/4683724,Makena North Course,,course,,,active,,,,,,https://makenagolfandbeachclub.com/,,,,HI,,US,20.6516163,-156.4327555,2026-10-24T14:30:01Z
 40443622-397c-41f7-8483-2ac847c7d0ee,way/301540985,,,course,,,active,,,,,,,,,,HI,,US,19.7415668,-155.9652479,2026-10-11T13:30:27Z
 43768b80-1983-46f5-8bef-1913742b779c,way/333207643,Makena South Course,,course,,,active,,,,,,,,,,HI,,US,20.63602,-156.4427462,2026-10-11T15:12:12Z
 46227b2f-3e72-4284-bcfe-de39b1f8e024,relation/1580807,Princeville Golf Club - Prince Course,,course,,,active,18,72,,,,,,,,HI,,US,22.2149719,-159.4616873,2026-10-11T15:12:30Z
 4862763f-01df-42df-92b9-c21551124c05,way/192363361,Pearl Country Club,,course,,,active,,,,,,https://pearlcc.com/,,98-535 Kaonohi Street,Aiea,HI,96701,US,21.3905848,-157.9342625,2026-10-11T15:12:01Z
 48763782-1486-48b5-879d-44fc37d41d2e,way/158312141,Executive Course,,course,,,active,18,,,,,,,,,HI,,US,21.3004381,-157.665576,2026-10-11T15:12:01Z
 4b561c7f-c338-445a-abb0-a3b12cc4ba02,way/240893417,,,course,,,active,,,,,,,,,,HI,,US,20.0082132,-155.803749,2026-10-11T13:30:12Z
-4d614507-cd22-4b6a-87c3-2b81e376a179,relation/11026026,Hoakalei Country Club,,course,,,active,,,,,,,,,,HI,,US,21.3147699,-158.0346594,2026-10-11T15:12:38Z
+4d614507-cd22-4b6a-87c3-2b81e376a179,relation/11026026,Hoakalei Country Club,,course,,,active,,,,,,https://www.hoakaleicountryclub.com/,,,,HI,,US,21.3147699,-158.0346594,2026-10-25T01:34:19Z
 4ec4c3c5-8d32-4484-b6e5-eca9e579eac9,relation/1999222,Turtle Bay Golf,,course,,,active,18,72,,,,https://turtlebaygolf.com,,,,HI,,US,21.7012983,-157.9893771,2026-10-11T15:12:30Z
 5187b6fe-5e2c-49d6-b0f7-966bdd8c59a2,way/240893434,,,course,,,active,,,,,,,,,,HI,,US,20.0066854,-155.8055582,2026-10-11T15:12:05Z
 54ce13e1-75ed-4bbd-9e01-93958064ec07,way/197249827,Waikele Golf Club,,course,,,active,18,72,,,+1-808-676-9000,https://www.golfwaikele.com/,,94-200 Paioa Place,Waipahu,HI,96797,US,21.4030594,-158.0036394,2026-10-11T15:12:03Z
@@ -47,7 +47,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 58a6999d-590c-4288-9cea-5dc4a8dd02fe,relation/2091390,Waikoloa Village Golf Club,,course,,,active,,,,,,,,,,HI,,US,19.9313381,-155.7926635,2026-10-11T15:12:30Z
 5904e6d0-4c25-4c3d-b08a-26f3049fda26,node/1613647464,Kal'kaua Golf Course,,course,,,active,,,,,,,,,,HI,,US,21.4896464,-158.0620496,2026-10-11T13:29:32Z
 59af9de9-a05a-4833-8da5-ba8560a3f3bf,relation/6582914,Discovery Harbour Golf Course,,course,,private,active,,,,,,,,,,HI,,US,19.0380634,-155.6353238,2026-10-11T15:12:38Z
-5c103a86-e82b-47aa-ba2a-47b5545c073d,way/142855074,Hawaii Prince Golf Club,,course,,,active,,,,,,,,,,HI,,US,21.3281738,-158.0117738,2026-10-11T15:12:00Z
+5c103a86-e82b-47aa-ba2a-47b5545c073d,way/142855074,Hawaii Prince Golf Club,,course,,,active,,,,,,https://www.hawaiiprincegolf.com/,,,,HI,,US,21.3281738,-158.0117738,2026-10-23T16:02:03Z
 5d441d3b-e83a-4ad5-a512-4c55b04e3e2e,way/221300526,,,course,,,active,,,,,,,,,,HI,,US,21.3203959,-158.0399552,2026-10-11T15:12:03Z
 6152a285-05d0-4608-835e-73505bf874d8,way/198996356,North Kohaka Golf Park,,course,,,active,,,,,,,,,,HI,,US,20.2366412,-155.8002781,2026-10-11T15:12:03Z
 619949e3-e952-48a5-8f2b-515ffc3bade4,way/1095672861,Championship Course,,course,,,active,,,,,,,,,,HI,,US,21.2925909,-157.6694915,2026-10-11T15:12:24Z
@@ -55,28 +55,28 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 63aca416-8d24-4efe-ad09-615323a043a6,way/240893433,,,course,,,active,,,,,,,,,,HI,,US,20.00259,-155.8074566,2026-10-11T15:12:05Z
 64175907-fbb1-4cad-ba1d-b421aee9cb59,way/240893421,,,course,,,active,,,,,,,,,,HI,,US,20.0006006,-155.8065709,2026-10-11T15:12:05Z
 65df4ecb-f822-499d-8457-9ee99cfcfd7e,way/216242067,Sea Mountain Golf Club,,course,,,active,,,,,,,,,,HI,,US,19.1358921,-155.5132829,2026-10-11T15:12:03Z
-669fe4b2-9939-462d-b0b2-169803531e27,relation/7103513,Waikoloa Beach Course,,course,,,active,,,,,,,,,,HI,,US,19.9169682,-155.8783861,2026-10-11T15:12:38Z
+669fe4b2-9939-462d-b0b2-169803531e27,relation/7103513,Waikoloa Beach Course,,course,,,active,,,,,,https://www.waikoloabeachgolf.com/,,,,HI,,US,19.9169682,-155.8783861,2026-10-24T14:32:06Z
 6a8e63a6-34c0-493f-bbd8-e459d89f31a2,way/192624277,,,course,,,active,,,,,,,,,,HI,,US,20.8837962,-156.4929462,2026-10-11T15:12:01Z
 6adc2e24-dbb2-45f1-b7ea-25f9da0170e7,way/1111876005,Oʻahu Country Club,,course,,,active,,,,,+1 808 595 3186,https://www.oahucountryclub.com/club/scripts/section/section.asp?NS=HP,,150 Country Club Road,Honolulu,HI,96817,US,21.3409677,-157.8402692,2026-10-11T15:12:24Z
 70ca2a1f-f765-4362-ac72-21cf19e47879,way/299589425,,,course,,,active,,,,,,,,,,HI,,US,20.0100906,-155.8150271,2026-10-11T15:06:23Z
-713a01b8-86d6-46d5-949e-3133e0c914ca,way/298172595,Maui Country Club Golf Course,,course,,,active,,,,,,,,,,HI,,US,20.9102854,-156.3989221,2026-10-11T15:12:10Z
+713a01b8-86d6-46d5-949e-3133e0c914ca,way/298172595,Maui Country Club Golf Course,,course,,,active,,,,,,https://mauicountryclub.org/,,,,HI,,US,20.9102854,-156.3989221,2026-10-25T14:56:24Z
 71593e56-7e1d-42cc-9e97-1fbb7ba0dc40,way/240893420,,,course,,,active,,,,,,,,,,HI,,US,20.0000156,-155.8075577,2026-10-11T15:12:05Z
 7418ce8f-9e72-4e29-b2e7-92dda50b14cb,relation/1580810,Princeville Makai Golf Club,,course,,,active,18,72,,,+1 808-826-1912,https://makaiclubresort.com/,,4080 Lei O Papa Road,Princeville,HI,96722,US,22.2202909,-159.4820868,2026-10-11T15:12:30Z
 746782c5-67a2-4037-a1a2-7a784f56beb0,way/211571198,,,course,,,active,,,,,,,,,,HI,,US,19.4388907,-155.2770843,2026-10-11T15:12:03Z
-76bfb122-a362-4db0-8b42-86de20d12a01,way/192743163,Nanea Golf Club,,course,,,active,18,73,,,,,,,,HI,,US,19.7861527,-155.9586083,2026-10-11T15:12:01Z
+76bfb122-a362-4db0-8b42-86de20d12a01,way/192743163,Nanea Golf Club,,course,,,active,18,73,,,,https://naneagolfclub.clubhouseonline-e3.net/,,,,HI,,US,19.7861527,-155.9586083,2026-10-24T14:30:47Z
 76d2d857-a90a-463e-94cf-9daf4f4c5aa3,way/239958041,Ko'olau Golf Club,,course,,,active,,,,,,,,45-550 Kionaole Rd,Kaneohe,HI,96744,US,21.3773131,-157.7993171,2026-10-11T15:12:03Z
 77e28521-991b-4b0e-a8c7-295ac4ce29d9,way/349613525,Fort Shafter Golf Course,,course,,,active,,,,,,,,,,HI,,US,21.3508017,-157.883986,2026-10-11T15:12:14Z
-78065b2b-985f-4f43-9a8a-a9a65f76173c,way/41997754,Ala Wai Golf Course,,course,,,active,18,70,,,+1-808-733-7387,,,404 Kapahulu Avenue,Honolulu,HI,96815,US,21.2799612,-157.820101,2026-10-11T15:11:53Z
+78065b2b-985f-4f43-9a8a-a9a65f76173c,way/41997754,Ala Wai Golf Course,,course,,,active,18,70,,,+1-808-733-7387,https://www.honolulu.gov/des/ala-wai-golf-course/,,404 Kapahulu Avenue,Honolulu,HI,96815,US,21.2799612,-157.820101,2026-10-25T01:34:15Z
 78b6aef5-8228-4750-b9a6-a2a35a1fa319,relation/12152890,Bay Golf Course,,course,,,active,,,,,,,,,,HI,,US,20.9981831,-156.6602063,2026-10-11T13:31:42Z
-7d76ada7-3f83-4767-a514-ce8a42a8cf3c,relation/2092889,Waikoloa Beach Course,,course,,,active,,,,,,,,,,HI,,US,19.9267291,-155.882703,2026-10-11T15:12:30Z
+7d76ada7-3f83-4767-a514-ce8a42a8cf3c,relation/2092889,Waikoloa Beach Course,,course,,,active,,,,,,https://www.waikoloabeachgolf.com/,,,,HI,,US,19.9267291,-155.882703,2026-10-24T14:32:07Z
 7eb5a7b2-e417-4839-93af-eb0948eff56d,way/240893422,,,course,,,active,,,,,,,,,,HI,,US,20.003468,-155.8141715,2026-10-11T15:06:18Z
 7f68d0a6-f259-47ec-b7de-cfab50977aa9,node/14088898244,Puakea Golf Course,,course,,,active,,,,,,https://puakeagolf.com,,4150 Nuhou Road,Lihue,HI,96766,US,21.9656025,-159.3756971,2026-10-11T13:29:32Z
 81ea2010-43c9-4ba1-835f-41eba286510b,way/333016725,Makena South Course,,course,,,active,,,,,,,,,,HI,,US,20.6380088,-156.4389061,2026-10-11T15:12:12Z
 841e2976-a836-4457-9c50-a149686325d8,way/23689328,Kealohi Golf Course,,course,,,active,,,,,,,,,,HI,,US,21.3368445,-157.943086,2026-10-11T15:11:49Z
 85f22f5c-9e22-4b20-9c5c-4db18df0c639,way/969301714,,,course,,,active,,,,,,,,,,HI,,US,21.9597919,-159.3657401,2026-10-11T15:12:24Z
 8694933f-f807-402e-ae1f-67f1c89f2cae,way/97834470,,,course,,,active,,,,,,,,,,HI,,US,21.9593146,-159.3696243,2026-10-11T15:11:55Z
-877db36e-3bfb-4d35-8327-e601230209f6,way/504923678,Mililani Golf Course,,course,,,active,,,,,,,,,,HI,,US,21.4528695,-158.0225638,2026-10-11T15:12:18Z
-8b673502-0f9f-492a-a922-d521350ee853,relation/3234061,Mauna Lani Golf,,course,,,active,,,,,,,,,,HI,,US,19.9450019,-155.8627878,2026-10-11T15:12:33Z
+877db36e-3bfb-4d35-8327-e601230209f6,way/504923678,Mililani Golf Course,,course,,,active,,,,,,https://mililanigolf.com/,,,,HI,,US,21.4528695,-158.0225638,2026-10-24T14:30:46Z
+8b673502-0f9f-492a-a922-d521350ee853,relation/3234061,Mauna Lani Golf,,course,,,active,,,,,,https://www.maunalanimembers.com/,,,,HI,,US,19.9450019,-155.8627878,2026-10-24T14:30:42Z
 8c600e1d-e359-404a-b8dc-9b50e845bbf8,way/232387578,,,course,,,active,,,,,,,,,,HI,,US,20.7549809,-155.9856509,2026-10-11T13:30:07Z
 900104c0-51bd-452e-bc78-7c225a252f52,way/925998200,Waiʻalae Country Club,,course,,,active,18,70,,,,https://waialaecc.com/,,4997 Kahala Ave.,Honolulu,HI,96816,US,21.2745984,-157.7753805,2026-10-11T15:12:23Z
 94fb2256-af0a-4790-8ed5-46a18cae77e4,way/240893436,,,course,,,active,,,,,,,,,,HI,,US,20.0074008,-155.8109528,2026-10-11T15:12:05Z
@@ -85,40 +85,40 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 9a1caed5-f4c2-4682-935d-4a4a81a4ffd2,way/186735031,Makani Golf Club,,course,,,active,,,,,+1 808-325-5044,https://www.makanigolfclub.com/,,71-1420 Mamalahoa Highway,Kailua-Kona,HI,96740,US,19.8192563,-155.8425264,2026-10-11T13:30:03Z
 9ac31d4f-e2bc-4eba-ae91-7178577fcd20,node/2628932865,Hapuna Golf Course,,course,,,active,,,,,,,,,,HI,,US,20.0046638,-155.8110665,2026-10-11T13:29:32Z
 9cc2a399-695b-4b30-b012-5f722eb3d8fd,way/240893429,,,course,,,active,,,,,,,,,,HI,,US,20.0092663,-155.8113546,2026-10-11T15:12:05Z
-a57e149d-1da2-48bd-83cd-11ff7d105a30,relation/4078797,Honolulu Country Club,,course,,,active,18,,,,,,,1690 Ala Puʻumalu Street,Honolulu,HI,96818,US,21.350628,-157.90553,2026-10-11T15:12:35Z
+a57e149d-1da2-48bd-83cd-11ff7d105a30,relation/4078797,Honolulu Country Club,,course,,,active,18,,,,,https://www.honolulucountryclub.com/,,1690 Ala Puʻumalu Street,Honolulu,HI,96818,US,21.350628,-157.90553,2026-10-23T16:02:07Z
 a701043d-85e7-49fb-b0ec-dc37aecea230,relation/14603319,Ewa Villages Golf Course,,course,,,active,,,,,,,,,,HI,,US,21.3443189,-158.039644,2026-10-11T15:12:41Z
-a7eea9ef-8720-4727-9582-d3714780b86f,way/192391709,Waiehu Golf Course,,course,,,active,,,,,,,,,,HI,,US,20.926668,-156.4991703,2026-10-11T15:12:01Z
+a7eea9ef-8720-4727-9582-d3714780b86f,way/192391709,Waiehu Golf Course,,course,,,active,,,,,,https://www.waiehugolf.com/,,,,HI,,US,20.926668,-156.4991703,2026-10-24T14:32:03Z
 aa33fe37-ab7c-437a-a892-1b1e1230faac,way/199563864,,,course,,,active,,,,,,,,,,HI,,US,20.0713794,-155.4593036,2026-10-11T15:12:03Z
 acfd96fd-713a-4c21-b396-b032dff3d9be,way/240893413,,,course,,,active,,,,,,,,,,HI,,US,19.9978523,-155.8141473,2026-10-11T15:12:05Z
 ae5a2e56-f6bd-452e-b781-66b65477036c,relation/3406510,Ocean Course,,course,,,active,18,72,,,,https://www.konacountryclub.com/,,,,HI,,US,19.5616968,-155.9634452,2026-10-11T15:12:33Z
-b2fd69d8-d180-4a99-8359-281dc3b986ae,way/161929837,Kapolei Golf Course,,course,,,active,,,,,,,,,,HI,,US,21.3420379,-158.0643685,2026-10-11T15:12:01Z
+b2fd69d8-d180-4a99-8359-281dc3b986ae,way/161929837,Kapolei Golf Course,,course,,,active,,,,,,https://kapoleigolf.com/,,,,HI,,US,21.3420379,-158.0643685,2026-10-23T16:02:58Z
 b3d09fb5-b71d-4dd8-af7a-ec0d1fb8438b,relation/3910944,,,course,,,active,,,,,,,,,,HI,,US,20.827608,-156.3519316,2026-10-11T15:12:35Z
 b4a00886-9d89-48b8-a535-c94d75f06e80,relation/1407762,,,course,,,active,,,,,,,,,,HI,,US,20.9225828,-156.6891651,2026-10-11T15:12:30Z
-bd2a98a7-71ee-4d49-af31-59c24d4ebedb,node/1613647560,Pukalani Country Club Golf Course,,course,,,active,,,,,,,,,,HI,,US,20.8312647,-156.3467418,2026-10-11T13:29:32Z
-bf86e79e-f013-438d-b0d7-5728248c3319,way/30681573,Poipu Bay Golf Course,,course,,,active,,,,,,,,,,HI,,US,21.881188,-159.4314912,2026-10-11T15:11:49Z
+bd2a98a7-71ee-4d49-af31-59c24d4ebedb,node/1613647560,Pukalani Country Club Golf Course,,course,,,active,,,,,,https://www.pukalanigolf.com/,,,,HI,,US,20.8312647,-156.3467418,2026-10-24T14:31:35Z
+bf86e79e-f013-438d-b0d7-5728248c3319,way/30681573,Poipu Bay Golf Course,,course,,,active,,,,,,https://poipubaygolf.com/,,,,HI,,US,21.881188,-159.4314912,2026-10-24T14:31:25Z
 c16d5daf-41f5-4951-a5aa-ed94f504154e,relation/6540121,Jack Nicklaus Signature Golf Course,,course,,,active,18,,,,,,,,,HI,,US,19.5108802,-155.950241,2026-10-11T15:12:38Z
-c3b95a99-c43e-4834-84be-3387e61d2011,relation/2083270,Ko Olina Golf Club,,course,,,active,18,71,,,,,,,,HI,,US,21.3376993,-158.117567,2026-10-11T15:12:30Z
+c3b95a99-c43e-4834-84be-3387e61d2011,relation/2083270,Ko Olina Golf Club,,course,,,active,18,71,,,,https://www.koolinagolf.com/,,,,HI,,US,21.3376993,-158.117567,2026-10-24T14:29:35Z
 c57982d7-3784-48c3-9145-8a642d71eb89,relation/5356392,Kukuiʻula Golf Course,,course,,,active,,,,,,,,,,HI,,US,21.8885415,-159.4875171,2026-10-11T15:12:36Z
-c6757cdc-7b41-49cf-9b5a-5afa05843544,way/736204132,Kukuiolono Park & Golf Course,,course,,,active,9,36,,,,,,854 Puu Road,Kalāheo,HI,96741,US,21.9142832,-159.5276786,2026-10-11T15:12:21Z
+c6757cdc-7b41-49cf-9b5a-5afa05843544,way/736204132,Kukuiolono Park & Golf Course,,course,,,active,9,36,,,,https://www.kukuiolonopark.com/,https://www.kukuiolonopark.com/wp-content/uploads/sites/9772/2025/10/Kukui-Score-Card.pdf,854 Puu Road,Kalāheo,HI,96741,US,21.9142832,-159.5276786,2026-10-25T18:51:28Z
 c7dbf2d2-0fb0-4656-b465-c86fef1c9bfb,way/149243171,Grand Naniloa Golf Course,,course,,,active,,,,,,https://www.grandnaniloahilo.com/golf-course.htm,,120 Banyan Drive,Hilo,HI,96720,US,19.7254849,-155.06655,2026-10-11T15:06:12Z
 c94df544-f7e0-43e2-9597-4daba0d0745f,relation/17603271,Ewa Beach Golf Club,,course,,,active,18,,,,,,,,,HI,,US,21.3219078,-157.9969748,2026-10-11T15:12:45Z
 c9d417a3-efa5-4699-b4aa-c2cd983c0670,relation/2092793,,,course,,,active,,,,,,,,,,HI,,US,19.9198945,-155.8704929,2026-10-11T15:12:30Z
 cbd22a91-bb8f-47db-8f8f-9d08fa893ec8,relation/8987946,,,course,,,active,18,,,,,,,,,HI,,US,21.3880271,-157.7245985,2026-10-11T15:12:38Z
 cccee5c2-bae7-44d2-9de7-2dc7a8337f24,relation/6655542,Wailea Blue Course,,course,,,active,,,,,,https://www.waileagolf.com/wailea-blue-maui-golf-course/,,,,HI,,US,20.6851275,-156.4367256,2026-10-11T13:31:37Z
-d208d48f-2d07-448f-9a8b-2861bff905b4,relation/17821001,Mamala Bay Golf Course,,course,,,active,18,,,,,,,625 Mamala Bay Drive,,HI,,US,21.3159587,-157.9373073,2026-10-11T15:12:45Z
+d208d48f-2d07-448f-9a8b-2861bff905b4,relation/17821001,Mamala Bay Golf Course,,course,,,active,18,,,,,https://www.greatlifehawaii.com/programs/9e969ce8-a173-425b-8af6-22bfb36903b1,,625 Mamala Bay Drive,,HI,,US,21.3159587,-157.9373073,2026-10-25T01:36:57Z
 d6d9ac15-e187-4557-96ca-63c6c0b21990,way/239958050,Pali Golf Course,,course,,,active,,,,,,,,,,HI,,US,21.3782276,-157.7875423,2026-10-11T15:12:03Z
-dce44387-0433-4757-b497-d639dfa57f47,way/619757490,Hawaii Country Club,,course,,,active,,,,,,,,,,HI,,US,21.4333808,-158.0519825,2026-10-11T15:12:20Z
+dce44387-0433-4757-b497-d639dfa57f47,way/619757490,Hawaii Country Club,,course,,,active,,,,,,https://www.thehawaiicountryclub.com/,,,,HI,,US,21.4333808,-158.0519825,2026-10-23T16:02:01Z
 dec003a1-a26e-4842-ac41-92d39ced12eb,way/240893437,,,course,,,active,,,,,,,,,,HI,,US,20.0036955,-155.8047871,2026-10-11T15:12:05Z
-e175b05a-c8f6-462e-a21d-7ea1edce7cca,way/218566826,Coral Creek Golf Course,,course,,,active,18,72,,,,,,,,HI,,US,21.3311835,-158.0309974,2026-10-11T15:12:03Z
-e1f82714-bab3-4199-8695-b44b26e14527,way/134588710,Royal Kunia Country Club,,course,,,active,18,72,,,,,,,,HI,,US,21.4058582,-158.0237506,2026-10-11T15:11:57Z
+e175b05a-c8f6-462e-a21d-7ea1edce7cca,way/218566826,Coral Creek Golf Course,,course,,,active,18,72,,,,https://www.coralcreekgolf.com/,,,,HI,,US,21.3311835,-158.0309974,2026-10-23T16:01:28Z
+e1f82714-bab3-4199-8695-b44b26e14527,way/134588710,Royal Kunia Country Club,,course,,,active,18,72,,,,https://www.royalkuniacc.com/,,,,HI,,US,21.4058582,-158.0237506,2026-10-24T14:31:44Z
 e35ed14f-78d4-43b9-a204-80042d312812,way/333016718,Makena South Course,,course,,,active,,,,,,,,,,HI,,US,20.6433422,-156.4446733,2026-10-11T15:12:12Z
 e3e7c61c-9d28-4ebb-89d5-c40a2175db12,relation/13637872,Kahili Golf Course,,course,,,active,,,,,,,,,,HI,,US,20.8286453,-156.5137629,2026-10-11T15:12:41Z
 e5794e4e-f1da-4ea9-8562-344c483247a1,way/240893419,,,course,,,active,,,,,,,,,,HI,,US,20.008752,-155.8092564,2026-10-11T15:12:05Z
 ea7068ad-1b0d-4bce-86f9-2d74f306fa47,way/240893416,,,course,,,active,,,,,,,,,,HI,,US,20.0047072,-155.8112066,2026-10-11T15:12:05Z
 eaa846e0-7a37-4c29-9e4d-629baae83fee,way/240893428,,,course,,,active,,,,,,,,,,HI,,US,20.0014882,-155.8091295,2026-10-11T15:12:05Z
-eb3418a2-9617-4821-81a1-3383bea52abd,way/336932921,Wailea Emerald Course,,course,,,active,,,,,,,,,,HI,,US,20.6707381,-156.4362094,2026-10-11T15:12:14Z
+eb3418a2-9617-4821-81a1-3383bea52abd,way/336932921,Wailea Emerald Course,,course,,,active,,,,,,https://www.waileagolf.com/,,,,HI,,US,20.6707381,-156.4362094,2026-10-24T14:32:12Z
 ecb103ad-01dc-4df2-b699-d06911651db8,relation/18488426,Hualalai Golf Club Nicklaus Course,,course,,,active,,,,,,https://www.fourseasons.com/hualalai/golf/,,100 Ka'upulehu Drive,Kailua-Kona,HI,96740,US,19.8232971,-155.9892799,2026-10-11T15:12:45Z
-f0790ded-26f1-4f1a-8746-d20054008024,way/240455107,Bayview,,course,,,active,,,,,,,,,,HI,,US,21.4088891,-157.7860983,2026-10-11T13:30:07Z
+f0790ded-26f1-4f1a-8746-d20054008024,way/240455107,Bayview,,course,,,active,,,,,,https://bayviewgolfcourse.us/,,,,HI,,US,21.4088891,-157.7860983,2026-10-23T16:01:19Z
 f570ab12-e6ea-47a6-a206-c7eae8b95dc9,way/192337429,Leilehua Golf Course,,course,,,active,18,72,,,,,,,,HI,,US,21.4838142,-158.0168333,2026-10-11T15:06:14Z
 f68fe687-8c46-4c1d-86be-73cfc3a0d217,way/1098413308,Bellows Golf Course,,course,,,active,,,,,,,,,,HI,,US,21.3692542,-157.7123062,2026-10-11T15:12:24Z
 f775d0d6-4221-47c2-aef4-59a9acda6ba0,way/211042501,Hilo Municipal Golf Course,,course,,,active,,,,,,,,,,HI,,US,19.6789122,-155.0744747,2026-10-11T15:12:03Z

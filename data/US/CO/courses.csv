@@ -1,11 +1,11 @@
 id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,address,city,state,postcode,country,lat,lon,updated_at
-0062b135-ed72-4d98-96ef-ac095b07b395,relation/2370904,Pinehurst Country Club,,course,,,active,,,,,,,,,,CO,,US,39.6424402,-105.0648293,2026-10-11T15:12:33Z
+0062b135-ed72-4d98-96ef-ac095b07b395,relation/2370904,Pinehurst Country Club,,course,,,active,,,,,,https://www.pinehurstcountryclub.com/,,,,CO,,US,39.6424402,-105.0648293,2026-10-21T11:38:54Z
 0248b2ca-c464-4e99-a7a4-0ba34eb8759e,way/1551789362,,,course,,,active,,,,,,,,,,CO,,US,39.4643032,-107.2759503,2026-10-11T13:31:18Z
 0396b22b-f2e5-40a8-85fa-82af3fcf55a8,way/108059870,Columbine Country Club Par 3,,par3,,,active,18,72,,,,,,,,CO,,US,39.5996751,-105.0330465,2026-10-11T15:11:57Z
 045e9a8d-a744-4fb4-b1f0-a7eba625b058,way/26296656,City Park Golf Course,,course,,,active,18,70,,,+1 720 865 3410,https://www.cityofdenvergolf.com/city_park/,,3181 East 23rd Avenue,Denver,CO,80205,US,39.7525857,-104.9502823,2026-10-11T15:11:49Z
 05f6708a-8e42-436d-8d2d-6cb1a74f356e,way/535678458,,,course,,,active,,,,,,,,,,CO,,US,40.5496998,-104.7021948,2026-10-11T15:12:18Z
 089e206b-38d5-4717-bc43-c9664810ca91,relation/11224442,Broadlands Golf Course,,course,,,active,,,,,,https://thebroadlandsgc.com/,,4380 West 144th Avenue,Broomfield,CO,80023,US,39.950862,-105.0368974,2026-10-11T15:12:38Z
-0967654f-32d2-4876-b96c-f5dd08199f5c,way/1017035513,Lakota Links Golf Course,,course,,,active,18,72,,,,,,,,CO,,US,39.5840079,-107.5180684,2026-10-11T13:31:06Z
+0967654f-32d2-4876-b96c-f5dd08199f5c,way/1017035513,Lakota Links Golf Course,,course,,,active,18,72,,,,https://lakotalinks.com/,,,,CO,,US,39.5840079,-107.5180684,2026-10-21T11:40:49Z
 0aa03877-e27d-46d1-8694-ee00ab85fd86,relation/3947852,Legacy Ridge,,course,,,active,18,72,,,+1 303-438-8997,http://www.ci.westminster.co.us/ParksRec/GolfWestminster/LegacyRidge.aspx,,10801 Legacy Ridge Parkway,Westminster,CO,80031,US,39.8915762,-105.0359494,2026-10-11T15:12:35Z
 0aa60ad7-b820-495a-b89e-bbb62662b0f9,way/854942104,Ballyneal Golf and Hunt Club,,course,,,active,18,71,,,,,,1 Ballyneal Ln,Holyoke,CO,80734,US,40.4195891,-102.2728099,2026-10-11T15:06:35Z
 0acc1fc1-1fb1-41e9-87b4-9db62e703ad0,relation/12760017,Colorado Golf Club,,course,,,active,,,,,+1-303-840-5400,https://www.coloradogolfclub.com,,8000 Preservation Trail,Parker,CO,80134,US,39.4723207,-104.7382965,2026-10-11T15:12:41Z
@@ -28,21 +28,21 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 17f0e252-a4e9-430d-b548-e751be207e7b,relation/11566002,Pelican Lakes Golf Course,,course,,,active,18,73,,,,https://pelicanlakeswindsor.com/pelican-lakes-course,,1620 Pelican Lakes Point,Windsor,CO,80550,US,40.4530485,-104.9010443,2026-10-11T15:06:51Z
 196adc68-a845-4ba0-a37a-e3efe8841075,way/44647235,,,course,,,active,,,,,,,,,,CO,,US,39.9494339,-105.0368103,2026-10-11T15:11:53Z
 1af34795-3bea-4611-b08a-4c907960cd7b,relation/6930436,Boulder Country Club,,course,,,active,18,70,,,+1-303-530-4600,https://www.bouldercc.org/,,7350 Clubhouse Road,Boulder,CO,80301,US,40.0630944,-105.1890801,2026-10-11T15:06:49Z
-1b1cc9c7-bdde-47c2-bc63-eed0a87a999f,way/225518003,The Club at Flying Horse,,course,,,active,18,72,,,,,,,,CO,,US,39.0224677,-104.7917663,2026-10-11T13:30:07Z
+1b1cc9c7-bdde-47c2-bc63-eed0a87a999f,way/225518003,The Club at Flying Horse,,course,,,active,18,72,,,,https://www.flyinghorsecolorado.com/,,,,CO,,US,39.0224677,-104.7917663,2026-10-22T11:27:17Z
 1b630e86-6405-46c6-8798-b58d3518c526,way/458176922,Tiara Rado Golf Club,,course,,,active,18,71,,,+1 970 254 3830,https://www.golfgrandjunction.net/tiara-rado/,,,Grand Junction,CO,81507,US,39.0782394,-108.6702969,2026-10-11T15:06:29Z
-1bc64d2f-5690-4684-9a9b-921ed91f2737,way/1451888232,Bella Ridge Golf Course,,course,,,active,18,72,,,,,,,,CO,,US,40.2992823,-104.9512304,2026-10-11T15:12:29Z
+1bc64d2f-5690-4684-9a9b-921ed91f2737,way/1451888232,Bella Ridge Golf Course,,course,,,active,18,72,,,,https://www.bellaridgegolf.com/,,,,CO,,US,40.2992823,-104.9512304,2026-10-21T11:41:33Z
 1be7693c-2fbe-4020-b650-2a7587062229,way/35482088,Eisenhower Golf Course,,course,,,active,,,,,+1-719-333-2606,https://www.usafasupport.com/recreation-fitness/eisenhower-golf-course,,,United States Air Force Academy,CO,80840,US,39.0034586,-104.8619315,2026-10-11T15:11:51Z
 1ddea743-b758-4d4b-a84d-8ce9e87ca337,way/243225284,Walking Stick Golf Course,,course,,,active,18,72,,,,,,,,CO,,US,38.3144196,-104.5814714,2026-10-11T13:30:12Z
 1e36a0e1-8fc5-4ce2-b1ed-4535b9fe3d79,way/45009461,Riverdale Dunes & Knolls GC,,course,,,active,,,,,+1-303-659-4700,https://www.riverdalegolf.com/,,13300 Riverdale Road,Brighton,CO,80602,US,39.9341417,-104.8731986,2026-10-11T13:29:44Z
 1f285f2c-75eb-4974-ba2a-c01784461354,way/888275793,Yampa Valley Golf Club,,course,,,active,18,72,,,+1-970-824-3673,https://www.yampavalleygolf.com,,2179 Highway 394,Craig,CO,81625,US,40.4992495,-107.522812,2026-10-11T15:12:23Z
-1fa3abd2-e92f-490a-a686-ae3a1ad93a1a,way/227810868,Aspen Golf Course,,course,,,active,18,71,,,,,,,,CO,,US,39.2005007,-106.8417591,2026-10-11T15:12:03Z
+1fa3abd2-e92f-490a-a686-ae3a1ad93a1a,way/227810868,Aspen Golf Course,,course,,,active,18,71,,,,https://www.aspengolf.com/,,,,CO,,US,39.2005007,-106.8417591,2026-10-21T11:40:16Z
 21e137c3-000f-428c-92bf-61b9acd77f14,way/231040076,Lincoln Park Golf Course,,course,,,active,9,,,,,,,,,CO,,US,39.0753762,-108.5441902,2026-10-11T15:12:03Z
 226aae2c-11de-4a78-8bf3-64d981f4879f,relation/13268683,The Mad Russian Golf and Country Club,,course,,,active,18,,,,,https://www.madrussiangolf.com,,2100 Country Club Parkway,Milliken,CO,80543,US,40.35186,-104.873802,2026-10-11T15:12:41Z
-239b5c1a-8e47-4e0c-9fcc-d41fba6c2095,relation/18626695,Lake Valley Golf Club,,course,,,active,18,70,,,+1 303-444-2114,,,4400 Lake Valley Drive,Niwot,CO,80503,US,40.0926843,-105.2540453,2026-10-11T15:12:45Z
+239b5c1a-8e47-4e0c-9fcc-d41fba6c2095,relation/18626695,Lake Valley Golf Club,,course,,,active,18,70,,,+1 303-444-2114,https://www.lakevalley.com/,,4400 Lake Valley Drive,Niwot,CO,80503,US,40.0926843,-105.2540453,2026-10-23T21:44:58Z
 242b2300-0391-4fd1-b4aa-3d146b216dc4,way/1387055168,Steamboat Golf Club,,course,,,active,9,,,,,https://www.steamboatgolfclub.com/,,26815 Highway 40,Steamboat Springs,CO,80487,US,40.5023306,-106.9100068,2026-10-11T15:06:40Z
-2454c72f-c566-4d8b-948b-57ac1e7d2ad1,way/1509566454,Saddleback Golf Course,,course,,,active,18,72,,,,,,,,CO,,US,40.1238784,-104.9318744,2026-10-11T15:12:29Z
+2454c72f-c566-4d8b-948b-57ac1e7d2ad1,way/1509566454,Saddleback Golf Course,,course,,,active,18,72,,,,https://saddlebackgolf.com/,,,,CO,,US,40.1238784,-104.9318744,2026-10-22T11:24:59Z
 24947caf-7f57-4d73-9930-3e0a0c9006aa,relation/3031265,Maroon Creek Club,,course,,,active,18,,,,,,,,,CO,,US,39.2005177,-106.8547911,2026-10-11T15:12:33Z
-262e897c-b951-4d7c-a6c0-6ae73864b39e,relation/11285325,Lake Arbor Golf Club,,course,,,active,,,,,,,,8600 Wadsworth,Arvada,CO,80003,US,39.8519452,-105.0746983,2026-10-11T15:12:41Z
+262e897c-b951-4d7c-a6c0-6ae73864b39e,relation/11285325,Lake Arbor Golf Club,,course,,,active,,,,,,https://lakearborgolf.com/,,8600 Wadsworth,Arvada,CO,80003,US,39.8519452,-105.0746983,2026-10-21T11:38:33Z
 2752c77e-0c16-44ec-8742-e5db85236778,way/256802340,Hogan's Alley Junior Course,,course,,,active,,,,,,http://www.thefirstteeofdenver.com/index.php?option=com_content&view=article&id=134:wellshire&catid=34,,,,CO,,US,39.6589471,-104.9438238,2026-10-11T15:12:05Z
 28079678-0b07-4b5d-8181-25f688152cf7,way/35447207,Colorado Springs Country Club,,course,,,active,18,71,,,,,,,,CO,,US,38.8743623,-104.7883439,2026-10-11T15:11:51Z
 280a44fb-bc29-4dff-bdf0-63e3f0fb999b,relation/11285304,Eagle Trace Golf Club,,course,,,active,18,72,,,,https://www.eagletracegolfclub.com/,,1200 Clubhouse Drive,Broomfield,CO,80020,US,39.9360461,-105.067112,2026-10-11T15:12:41Z
@@ -51,25 +51,25 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 2c508aea-0426-4442-9bf5-596313327009,way/402280909,,,course,,,active,,,,,,,,,,CO,,US,38.3194981,-104.7468655,2026-10-11T15:12:15Z
 2c72e2a9-bc1d-42bb-bf5a-07d8e7c27e9a,relation/7608938,Golf Club at Fox Acres,,course,,,active,,,,,,https://www.golfclubatfoxacres.com/,,,,CO,,US,40.805459,-105.5727607,2026-10-11T15:12:38Z
 2d0bf857-8cf0-46e0-965c-9ac5374da0c4,way/399008223,,,course,,,active,18,71,,,,,,,,CO,,US,37.4839039,-105.875208,2026-10-11T15:12:15Z
-2ee405af-52b9-4e65-9212-c1c3cb481ebf,way/1211073196,RainDance National Golf Course,,course,,,active,18,72,,,,,,,,CO,,US,40.4575018,-104.9320208,2026-10-11T13:31:09Z
+2ee405af-52b9-4e65-9212-c1c3cb481ebf,way/1211073196,RainDance National Golf Course,,course,,,active,18,72,,,,https://raindancenational.com/,,,,CO,,US,40.4575018,-104.9320208,2026-10-22T11:24:54Z
 2f98631d-5086-4c73-8b1d-25e0f5a6386a,way/469684298,Rocky Ford Golf Course,,course,,,active,9,35,,,+1 719 254 7528,http://rockyfordgolf.com/,,91 Play Park Hill Drive,Rocky Ford,CO,81067,US,38.0423943,-103.7301037,2026-10-11T15:12:17Z
 32c03723-c867-4e18-bf97-7ea709c5109c,way/325066025,Estes Park Golf Course,,course,,,active,18,71,,,,,,,,CO,,US,40.3613385,-105.4985382,2026-10-11T15:12:12Z
 349fa4fa-2cbd-48c8-9165-a49f6b39a85b,way/311051076,,,course,,,active,,,,,,,,,,CO,,US,39.6103092,-107.7745343,2026-10-11T15:12:12Z
 34aa8b23-261a-4689-8db6-883536106382,node/9162690294,Jakes Academy,,course,,,active,,,,,,https://jakesacademy.com/,,9808 Sunningdale Blvd,Lone Tree,CO,80124,US,39.5385955,-104.8966493,2026-10-11T13:29:32Z
-35d21cab-1297-454d-8c08-8b973448d77e,way/549530869,Bella Rosa,,course,,,active,,,,,,,,5830 Bella Rosa Pkwy,Frederick,CO,80504,US,40.1274121,-104.9455774,2026-10-11T15:12:18Z
+35d21cab-1297-454d-8c08-8b973448d77e,way/549530869,Bella Rosa,,course,,,active,,,,,,https://bellarosagolf.com/,,5830 Bella Rosa Pkwy,Frederick,CO,80504,US,40.1274121,-104.9455774,2026-10-21T11:41:34Z
 39c64d7c-7e59-4f8f-9c7b-644a9833cd58,way/133762753,Heather Gardens Executive Golf Course,,course,,,active,,,,,,https://www.heathergardens.org/Executive-9-hole-Golf-Course~140547~13855.htm,,,,CO,,US,39.6631079,-104.8288061,2026-10-11T15:11:57Z
 3aabc034-761a-44f5-b110-f54989b6f31d,way/374663675,Sterling Country Club,,course,,,active,,,,,,,,,,CO,,US,40.6205614,-103.2535428,2026-10-11T15:12:14Z
 3b3681a2-15b1-4f92-9cac-e7668b46213f,way/113046166,CommonGround Golf Course,,course,,,active,18,71,,,+1-303-340-1520,https://www.commongroundgc.com/,,10300 East Golfers Way,Aurora,CO,80010,US,39.7139466,-104.8738492,2026-10-11T15:11:57Z
-3bac7edf-d663-4c17-be31-1cfe45cc9059,relation/11382026,Heritage Eagle Bend Golf Club,,course,,,active,18,72,,,,,,23155 East Heritage Parkway,Aurora,CO,80016,US,39.5716903,-104.7227211,2026-10-11T15:12:41Z
+3bac7edf-d663-4c17-be31-1cfe45cc9059,relation/11382026,Heritage Eagle Bend Golf Club,,course,,,active,18,72,,,,https://www.heritageeaglebend.com/,,23155 East Heritage Parkway,Aurora,CO,80016,US,39.5716903,-104.7227211,2026-10-21T11:38:11Z
 3c21905c-163e-4258-a9cd-bbb1f7701042,way/133741016,Meadow Hills Golf Course,,course,,,active,18,70,,,,,,3609 South Dawson St.,Aurora,CO,80014,US,39.6492418,-104.8235994,2026-10-11T15:11:57Z
 3d0e9686-da9d-4535-b24d-5add7ab095db,way/37846561,South Suburban,,course,,,active,,,,,,,,,,CO,,US,39.5713064,-104.9346368,2026-10-11T15:11:51Z
 3d4de80e-e39a-4be7-8409-b0fccffc0489,way/125480529,Salida Golf Club,,course,,,active,9,35,,,+1 719 539 1060,https://salidagolfclub.com/,,404 Grant Street,Salida,CO,81201,US,38.5380608,-106.007104,2026-10-11T15:11:57Z
 3d78a74f-147a-498f-b5f4-46e4d829d31d,way/251112494,Eads Golf & Country Club,,course,,,active,,,,,,,,,,CO,,US,38.4816465,-102.791692,2026-10-11T15:12:05Z
 3da811fa-a9b4-4251-b958-d236d11d82a7,relation/3091143,,,course,,,active,,,,,,,,,,CO,,US,37.9379724,-107.8639899,2026-10-11T13:31:22Z
 3dc936e8-3c48-4c09-af12-9c0f3baf6c80,relation/1793958,Raven Golf Course at Three Peaks,,course,,,active,,,,,,,,,,CO,,US,39.6630961,-106.0907545,2026-10-11T15:12:30Z
-3f2453ba-a6fa-4709-a689-36b29c3a73e1,way/663270012,Red Sky Ranch Golf Club- Greg Norman Course,,course,,,active,18,72,,,,,,,,CO,,US,39.6884283,-106.6949952,2026-10-11T15:12:20Z
+3f2453ba-a6fa-4709-a689-36b29c3a73e1,way/663270012,Red Sky Ranch Golf Club- Greg Norman Course,,course,,,active,18,72,,,,https://www.redskygolfclub.com/,,,,CO,,US,39.6884283,-106.6949952,2026-10-21T11:41:23Z
 3f4801dd-51a5-4414-bfef-fe4ee3792ca8,way/245274627,Expo Park Disc Golf Course,,disc,,,active,,,,,,https://www.auroragov.org/cs/groups/public/documents/document/011392.pdf,,,,CO,,US,39.7073604,-104.8601686,2026-10-11T15:12:05Z
-4066da28-c7e7-4b68-9bc8-7024f597b534,way/47244371,Cherokee Ridge Golf Course,,course,,,active,,,,,,,,1850 Tuskegee Pl,Colorado Springs,CO,80915,US,38.8606286,-104.7144105,2026-10-11T15:11:53Z
+4066da28-c7e7-4b68-9bc8-7024f597b534,way/47244371,Cherokee Ridge Golf Course,,course,,,active,,,,,,https://www.cherokeeridgegolfcourse.com/,,1850 Tuskegee Pl,Colorado Springs,CO,80915,US,38.8606286,-104.7144105,2026-10-22T11:25:52Z
 408c8709-676c-446a-b327-0039b5d00953,way/461504582,Spreading Antlers﻿ Golf Course,,course,,,active,9,35,,,+1 719 336 5274,https://www.golflamar.com/,,28157 Highway 287 South,Lamar,CO,81052,US,38.0431946,-102.6123288,2026-10-11T13:30:48Z
 4092042c-67a6-4a42-bfbd-8fca1f2a2058,way/1509566447,Thorncreek Golf Course,,course,,,active,18,,,,,,,,,CO,,US,39.9367714,-104.9756928,2026-10-11T15:12:29Z
 4164e70a-9460-4e88-a02b-71d1ff8c4b03,way/813010488,Hugo Golf Cource,,course,,,active,,,,,+1-719-743-2492,https://www.facebook.com/Hugo-Golf-Course-619837618098450/,,44161 County Highway 109,Hugo,CO,80821,US,39.1475836,-103.4942223,2026-10-11T15:06:33Z
@@ -79,7 +79,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 43e0f933-090b-4d1b-a17b-5d9f29f98541,relation/12766342,Lone Tree Golf Club,,course,,,active,18,72,,,,https://golf.ssprd.org/Lone-Tree-Golf-Club-Hotel,,,,CO,,US,39.5384589,-104.8929129,2026-10-11T15:12:41Z
 443024a9-13c5-447c-815e-c5997e9f583b,way/48667860,Cattail Creek Golf Course,,par3,,,active,9,27,,,,http://www.cityofloveland.org/departments/parks-recreation/golf-courses,,2116 West 29th Street,Loveland,CO,80537,US,40.4194395,-105.1023912,2026-10-11T15:06:05Z
 457e1407-7391-4f23-bde3-90f30d3a434a,relation/1765849,Saddle Rock Golf Course,,course,,,active,18,72,,,,,,21705 East Arapahoe Road,Aurora,CO,80016,US,39.5941719,-104.7320901,2026-10-11T15:12:30Z
-475b961b-0199-4bbf-81eb-899e17b6f2c9,way/131699769,Keystone Ranch Course,,course,,,active,18,72,,,,,,,,CO,,US,39.5819152,-105.9966479,2026-10-11T15:11:57Z
+475b961b-0199-4bbf-81eb-899e17b6f2c9,way/131699769,Keystone Ranch Course,,course,,,active,18,72,,,,https://keystoneranch.org/,,,,CO,,US,39.5819152,-105.9966479,2026-10-21T11:40:44Z
 49b5dd42-6dc1-4ea8-aa8d-6d19fc11e750,way/44647216,,,course,,,active,,,,,,,,,,CO,,US,39.9548258,-105.0405831,2026-10-11T15:11:53Z
 49b6fb91-4edb-4beb-99d2-a5a4ac975b4b,way/344821611,,,course,,,active,,,,,,,,,,CO,,US,37.3934671,-108.243044,2026-10-11T15:06:26Z
 4a68a31c-8429-43bf-910c-59eb1c6e7573,way/35534657,Patty Jewett Municipal Golf Course,,course,,,active,,,,,,,,,,CO,,US,38.8588072,-104.8019073,2026-10-11T15:11:51Z
@@ -90,7 +90,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 4f7e5bf0-bcd6-4bd9-8ddd-45a12af6d878,way/292506414,Family Sports Golf Course,,course,,,active,9,31,,,,,,,,CO,,US,39.5913789,-104.8524908,2026-10-11T15:12:07Z
 4faf5d89-3059-4b06-93e3-d0caafdfa621,way/766531399,Broadmoor Cheyenne,,course,,,active,18,72,,,,,,,,CO,,US,38.7699092,-104.8414886,2026-10-11T13:30:58Z
 5071a271-8a9b-4859-b2d9-3cb43d300c1b,way/259369485,,,course,,,active,18,72,,,,,,,,CO,,US,37.1917631,-104.455831,2026-10-11T15:12:05Z
-51042993-c8bb-449b-be06-505421ad1e3c,way/860194902,Meeker Golf Course,,course,,,active,9,,,,,,,903 Cournty Road 13,Meeker,CO,81641,US,40.0217908,-107.9297076,2026-10-11T15:12:23Z
+51042993-c8bb-449b-be06-505421ad1e3c,way/860194902,Meeker Golf Course,,course,,,active,9,,,,,https://meekergolfcourse.com/,,903 Cournty Road 13,Meeker,CO,81641,US,40.0217908,-107.9297076,2026-10-21T11:41:05Z
 513f844a-4990-48a6-8e17-62de71971051,way/36327178,World Golf & Sand Creek G.C.,,course,,,active,9,29,,,,,,6865 Galley Rd,Colorado Springs,CO,80915,US,38.8424474,-104.704434,2026-10-11T15:11:51Z
 52173d47-32e7-4375-aeb7-01bcba840c57,way/239124755,,,course,,,active,,,,,,,,,,CO,,US,39.6175104,-106.4753664,2026-10-11T15:12:03Z
 52be0743-c224-48f9-8581-72874281849c,way/132718190,Willis Case Golf Course,,course,,,active,18,70,,,,,,4999 Vrain Street,Denver,CO,80212,US,39.7874077,-105.048573,2026-10-11T15:11:57Z
@@ -101,7 +101,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 575ec776-53b0-401b-a014-ddb9a70cf1af,way/162653585,Kennedy 9-Hole Regulation Course,,course,,,active,,,,,,,,,,CO,,US,39.6502804,-104.8716545,2026-10-11T15:12:01Z
 58feb955-0725-4270-8d35-e1ae4d9fda4a,relation/11311493,Interlocken Golf Course,,course,,,active,,,,,,,,,,CO,,US,39.9212104,-105.1311391,2026-10-11T15:12:41Z
 5aec8b2c-fea4-46ba-b5e6-23f20b9c49fb,way/1046597057,,,course,,,active,,,,,,,,,,CO,,US,38.7266683,-104.6463187,2026-10-11T15:12:24Z
-5e4c31a6-de7f-4ff4-bf56-834926affc58,way/423501506,Bookcliff Country Club,,course,,,active,,,,,,,,,,CO,,US,39.1108497,-108.5461388,2026-10-11T15:12:15Z
+5e4c31a6-de7f-4ff4-bf56-834926affc58,way/423501506,Bookcliff Country Club,,course,,,active,,,,,,https://www.bookcliffcc.com/,,,,CO,,US,39.1108497,-108.5461388,2026-10-21T11:40:21Z
 5f096a72-2653-4156-a190-fe10c6adec82,way/311051089,,,course,,,active,,,,,,,,,,CO,,US,39.6127579,-107.765718,2026-10-11T15:12:12Z
 5f49bf98-20a6-4e3b-86e1-41a5f639f8c4,node/9951684527,The Summit Golf Club and Restaurant,,course,,,active,,,,,,https://www.cordillera-vail.com/,,190 Gore Trail,Edwards,CO,81632,US,39.6186502,-106.6905514,2026-10-11T13:29:32Z
 5ff1982a-65ce-439b-b4d0-fd8d70b40cde,way/1228206821,The Bridges Golf and Country Club,,course,,,active,18,71,,,,https://www.montrosebridges.com/,,,,CO,,US,38.456885,-107.8482564,2026-10-11T15:12:27Z
@@ -109,11 +109,11 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 62a92f8d-872c-43a5-b9dc-b42a98e8a09d,way/1446325158,,,course,,,active,,,,,,,,,,CO,,US,39.8944968,-106.7118509,2026-10-11T15:12:29Z
 64ede0b6-d551-410c-8770-c0c160fe8688,way/59519846,Estes Park Golf Course,,course,,,active,9,31,,,,,,,,CO,,US,40.3791507,-105.5072608,2026-10-11T13:29:49Z
 65fd65cc-098d-49f7-b504-88ab9fe83359,way/1261633818,,,course,,,active,,,,,,,,,,CO,,US,39.3334065,-102.2646122,2026-10-11T15:12:28Z
-68c8cd36-8a21-4596-9483-ee58ff2dae0a,way/473588306,Quail Dunes Golf Course,,course,,,active,18,72,,,,,,,,CO,,US,40.2832004,-103.8224955,2026-10-11T15:12:17Z
+68c8cd36-8a21-4596-9483-ee58ff2dae0a,way/473588306,Quail Dunes Golf Course,,course,,,active,18,72,,,,https://www.quaildunes.com/,,,,CO,,US,40.2832004,-103.8224955,2026-10-22T11:24:51Z
 69aa7186-b7e1-4c62-bd69-7eefe46d6bf9,way/344823639,,,course,,,active,,,,,,,,,,CO,,US,37.3935545,-108.2437253,2026-10-11T15:12:14Z
 6a2343c5-b0e6-405e-a30a-7b48704eb004,way/582719179,Mount Massive Golf Course,,course,,,active,,,,,,https://www.mtmassivegolf.com/,,259 County Road 5,Leadville,CO,80461,US,39.2410436,-106.3607933,2026-10-11T13:30:54Z
 6a3456d2-dbd2-4549-9c4f-0f9cfb20c7ad,way/233332758,The Country Club of Colorado,,course,,,active,18,70,,,+1-719-538-4080,https://www.ccofcolorado.com/,,125 East Clubhouse Drive,,CO,80906,US,38.7785183,-104.82365,2026-10-11T15:12:03Z
-6d0fefbc-4748-47e6-a326-e4c58fb936f7,relation/8022332,Desert Hawk Golf Course,,course,,,active,18,72,,,,,,,,CO,,US,38.3240604,-104.7539886,2026-10-11T15:12:38Z
+6d0fefbc-4748-47e6-a326-e4c58fb936f7,relation/8022332,Desert Hawk Golf Course,,course,,,active,18,72,,,,http://www.deserthawkgolfcourse.com/,,,,CO,,US,38.3240604,-104.7539886,2026-10-22T11:26:00Z
 6d927507-dc19-4bd3-b06c-b66a785164ef,relation/11504361,TPC Colorado,,course,,,active,18,72,,,,,,2375 TPC Parkway,Berthoud,CO,80513,US,40.3384278,-105.1089137,2026-10-11T15:06:51Z
 6edc0446-c39b-46ff-81d4-72946d50343d,way/51764560,,,course,,,active,,,,,,,,,,CO,,US,38.5247032,-106.9632039,2026-10-11T15:11:53Z
 6f293003-ba3b-44d4-bbb0-108670cee80b,way/579441555,,,course,,,active,,,,,,,,,,CO,,US,40.6435771,-102.7553052,2026-10-11T15:12:20Z
@@ -124,58 +124,58 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 76489285-1389-4111-aa59-0877fcbdde7f,way/40210947,Grand Lake Golf Course,,course,,,active,18,72,,,,,,,,CO,,US,40.2521481,-105.86104,2026-10-11T15:11:51Z
 7690e65b-de8c-4446-b1bc-749b1d2933b7,way/256086370,,,course,,,active,,,,,,,,,,CO,,US,40.0633361,-105.8969479,2026-10-11T15:12:05Z
 76b4e3c3-a833-403e-83b9-cd53c5cb14aa,way/695869518,Battlement Mesa Golf Club,,course,,,active,,,,,+1-970-285-7274,https://battlementmesagolf.com/,,3930 N Battlement Parkway,Battlement Mesa,CO,81635,US,39.4492961,-108.0316323,2026-10-11T15:12:21Z
-78994c72-9718-4231-a004-52061eddeabb,way/36972351,Foothills Executive,,course,,,active,,,,,,,,,,CO,,US,39.6434103,-105.0903373,2026-10-11T15:11:51Z
-79c60afe-0447-4423-9db3-23971c80839a,way/514357537,King's Deer Golf Course,,course,,,active,,,,,,,,,,CO,,US,39.1173873,-104.791802,2026-10-11T15:06:30Z
-7a003173-5cbb-414c-81de-bb102371981e,way/1222804011,Grand Elk Golf Club,,course,,,active,,,,,+1-970-887-9122,,,1300 Ten Mile Drive,,CO,,US,40.0709432,-105.9379024,2026-10-11T15:12:27Z
+78994c72-9718-4231-a004-52061eddeabb,way/36972351,Foothills Executive,,course,,,active,,,,,,https://www.foothillsgolf.org/,,,,CO,,US,39.6434103,-105.0903373,2026-10-21T11:37:59Z
+79c60afe-0447-4423-9db3-23971c80839a,way/514357537,King's Deer Golf Course,,course,,,active,,,,,,https://www.kingsdeergolfclub.com/,,,,CO,,US,39.1173873,-104.791802,2026-10-22T11:26:42Z
+7a003173-5cbb-414c-81de-bb102371981e,way/1222804011,Grand Elk Golf Club,,course,,,active,,,,,+1-970-887-9122,https://www.grandelk.com/,,1300 Ten Mile Drive,,CO,,US,40.0709432,-105.9379024,2026-10-21T11:40:29Z
 7d89c799-27a2-43aa-b168-8a4e353b34cd,relation/3232693,Antler Creek Golf Course,,course,,,active,18,71,,,+1 719-494-1900,https://antlercreekgolf.com/,,9650 Antler Creek Drive,,CO,80831,US,38.974155,-104.5995674,2026-10-11T15:12:33Z
-7e662528-5d2b-4522-b0b6-81717d5cd966,way/1509564285,Coyote Creek Golf Club,,course,,,active,18,71,,,,,,,,CO,,US,40.0838844,-104.7915371,2026-10-11T15:12:29Z
+7e662528-5d2b-4522-b0b6-81717d5cd966,way/1509564285,Coyote Creek Golf Club,,course,,,active,18,71,,,,https://www.coyotecreekgc.com/,,,,CO,,US,40.0838844,-104.7915371,2026-10-22T11:24:20Z
 7ec9f4e0-d7e6-4103-990c-daa4ad1f0896,way/277177078,Emerald Greens Golf Club,,course,,,active,,,,,+1-303-366-3133,http://emeraldgreensdenver.com/,,597 South Clinton Street,Denver,CO,80247,US,39.7040583,-104.8797233,2026-10-11T15:12:07Z
-81270acb-3d90-43ea-bb3e-d5383ca82a57,way/423641672,Trinidad Country Club,,course,,,active,,,,,,,,Nolan Drive,Trinidad,CO,81082,US,37.1561806,-104.5158878,2026-10-11T15:12:15Z
+81270acb-3d90-43ea-bb3e-d5383ca82a57,way/423641672,Trinidad Country Club,,course,,,active,,,,,,https://www.trinidadgolfcourse.com/,,Nolan Drive,Trinidad,CO,81082,US,37.1561806,-104.5158878,2026-10-22T11:27:20Z
 840606df-53e5-42c4-969f-7c0b414da7db,way/251440129,Tamarack Golf Course,,course,,,active,,,,,,,,,,CO,,US,39.2404444,-103.6983518,2026-10-11T15:12:05Z
 84f8e743-c2ec-46da-b000-7a0d20f25f80,way/236899238,Rollingstone Ranch Golf Course,,course,,,active,18,72,,,+1-970-879-1391,https://www.rollingstoneranchgolf.com/index.php,,1230 Steamboat Boulevard,Steamboat Springs,CO,80477,US,40.4687388,-106.8021695,2026-10-11T15:06:16Z
 858338e3-b548-4690-abc9-f6ac0f957cc4,way/42160369,Fox Hollow,,course,,,active,,,,,,,,,,CO,,US,39.660412,-105.1334886,2026-10-11T15:06:05Z
 85c6cf38-7c58-42f2-b534-993989a81f49,relation/3146237,,,course,,,active,18,72,,,,,,,,CO,,US,38.8643268,-106.9487529,2026-10-11T15:12:33Z
-85d0b7cb-48c7-4ba5-9ef1-7c9d111ab845,way/239086891,EagleVail Golf Club,,course,,,active,,,,,,,,,,CO,,US,39.618544,-106.4935579,2026-10-11T15:12:03Z
-87c06195-9e3d-4504-8503-928fda8ae398,way/549842034,Hollydot Golf Course,,course,,,active,,,,,,,,,,CO,,US,37.9497484,-104.8350641,2026-10-11T15:12:18Z
+85d0b7cb-48c7-4ba5-9ef1-7c9d111ab845,way/239086891,EagleVail Golf Club,,course,,,active,,,,,,http://www.eaglevailgolfclub.com/,,,,CO,,US,39.618544,-106.4935579,2026-10-21T11:40:27Z
+87c06195-9e3d-4504-8503-928fda8ae398,way/549842034,Hollydot Golf Course,,course,,,active,,,,,,https://www.hollydotgolf.com/,,,,CO,,US,37.9497484,-104.8350641,2026-10-22T11:26:31Z
 87cd4a48-5cea-4301-a5d3-9cbfe15271e3,way/44647207,,,course,,,active,,,,,,,,,,CO,,US,39.9523445,-105.0449878,2026-10-11T15:11:53Z
 87d58595-3646-46e2-9115-33499f89c321,way/243106484,Elmwood Golf Course,,course,,,active,,,,,,,,,,CO,,US,38.2550815,-104.6551939,2026-10-11T15:12:05Z
 88af421c-dc86-4ca6-9d5f-d80c916e030d,way/364200788,,,course,,,active,,,,,,,,,,CO,,US,40.128478,-102.7115162,2026-10-11T15:12:14Z
 89e1c6be-170a-48ba-98a9-193aa0f5224d,relation/18953169,Dalton Ranch Golf Club,,course,,,active,,,,,,https://www.daltonranch.com/,,,,CO,,US,37.3911373,-107.8401348,2026-10-11T13:31:51Z
 8ba671eb-6213-4987-abd1-12656d055443,relation/11372281,Boomerang Links,,course,,,active,18,72,,,,https://golfingreeley.com/boomerang-links/,,7309 West 4th Street,Greeley,CO,80634,US,40.4312634,-104.7980797,2026-10-11T15:12:41Z
 8c22200e-0b2f-4f2d-9e91-7b396bdab4f1,relation/18174704,,,course,,,active,18,72,,,,,,,,CO,,US,39.6233725,-106.6649072,2026-10-11T15:12:45Z
-8c3bb6ee-2686-4287-b40c-c2c91781ffb4,relation/11686488,Meridian Golf Club,,course,,,active,18,72,,,,,,,,CO,,US,39.5425238,-104.8561942,2026-10-11T13:31:42Z
+8c3bb6ee-2686-4287-b40c-c2c91781ffb4,relation/11686488,Meridian Golf Club,,course,,,active,18,72,,,,https://www.meridiangolfclub.com/,,,,CO,,US,39.5425238,-104.8561942,2026-10-21T11:38:46Z
 8c4c1420-22b0-4551-9d83-47672033a0c6,relation/11277764,Todd Creek Golf Club,,course,,,active,18,72,,,+1 303-655-1779,https://www.toddcreekgolfclub.com/,,8455 Heritage Drive,Thornton,CO,80602,US,39.9760833,-104.8940617,2026-10-11T15:12:38Z
 8d1c9ee4-d75a-42cd-bbbf-7a35a77ddd50,way/820530646,Harmony Club,,course,,,active,18,72,,,,,,6432 Grand Tree Boulevard,Timnath,CO,80547,US,40.5301156,-104.9538422,2026-10-11T15:12:23Z
 8d300501-4273-4170-80cb-2430ee99512a,way/244788416,Black Canyon Golf Course,,course,,,active,,,,,+1 970-249-4653,https://www.cityofmontrose.org/538/Black-Canyon-Golf-Course,,1350 Birch Street,Montrose,CO,81401,US,38.478098,-107.8500191,2026-10-11T13:30:12Z
 8dbc5aa2-ce3c-4aad-aeed-39d627bc568f,way/1226182081,Cobble Creek Golf Community,,course,,,active,18,72,,,,https://www.cobblecreek.com/,,,,CO,,US,38.4398975,-107.8819827,2026-10-11T15:12:27Z
 8dddcc7e-0b3b-4b4b-b0d5-0abb94199d68,relation/5384775,Southridge Golf Course,,course,,,active,18,71,,,,https://www.fcgov.com/southridge/,,5750 South Lemay Avenue,Fort Collins,CO,80525,US,40.5077585,-105.0533793,2026-10-11T15:06:47Z
-8e8af4ed-ceb6-47ea-b543-f0ba11711a03,way/228771822,Riverview Golf Club,,course,,,active,18,71,,,,,,,,CO,,US,40.6277803,-103.171701,2026-10-11T15:12:03Z
-9135fab5-24d8-4f50-aad6-7c97ad10246a,way/340036983,Cherry Creek Country Club,,course,,,active,,,,,,,,,,CO,,US,39.6689379,-104.8812671,2026-10-11T15:12:14Z
-91ad1f0f-ab87-49eb-b048-ab53dd6d8b0c,way/549842036,Hollydot Golf Course,,course,,,active,,,,,,,,,,CO,,US,37.9540114,-104.8234501,2026-10-11T15:12:18Z
+8e8af4ed-ceb6-47ea-b543-f0ba11711a03,way/228771822,Riverview Golf Club,,course,,,active,18,71,,,,https://www.riverviewgolfcourse.com/,,,,CO,,US,40.6277803,-103.171701,2026-10-22T11:24:57Z
+9135fab5-24d8-4f50-aad6-7c97ad10246a,way/340036983,Cherry Creek Country Club,,course,,,active,,,,,,https://www.cherrycreekcountryclub.com/,,,,CO,,US,39.6689379,-104.8812671,2026-10-21T11:37:39Z
+91ad1f0f-ab87-49eb-b048-ab53dd6d8b0c,way/549842036,Hollydot Golf Course,,course,,,active,,,,,,https://www.hollydotgolf.com/,,,,CO,,US,37.9540114,-104.8234501,2026-10-22T11:26:39Z
 9341099c-42d7-43ad-aa17-6e5c008b1cd5,way/51955172,Cherry Hills Country Club,,course,,,active,18,72,,,,,,4125 South University Boulevard,Cherry Hills Village,CO,80113,US,39.6434187,-104.9675561,2026-10-11T15:11:53Z
 93ce9422-cfcd-4158-afce-2acdeeaf7b32,way/227236006,,,course,,,active,,,,,,,,,,CO,,US,37.5328966,-104.7805678,2026-10-11T15:12:03Z
 955c52f7-c277-4b42-9971-5cab45e5b2e0,relation/20053491,Plum Creek Golf Club,,course,,,active,18,72,,,,,,,,CO,,US,39.3503529,-104.8570553,2026-10-11T15:06:54Z
 96ed3fad-477c-4e0f-a747-0168a7f772e7,way/90075483,Meadows Golf Course,,course,,,active,18,72,,,+1-303-409-2250,https://www.foothillsgolf.org/golf_Meadows_Golf_Club.asp,,6937 South Simms Street,Littleton,CO,80127,US,39.5915688,-105.129008,2026-10-11T15:06:07Z
-97cf98fe-6706-4a7f-9aa0-54a26f1c6c57,way/39500439,Foothills Par 3 Course,,par3,,,active,,,,,,,,,,CO,,US,39.6479237,-105.092751,2026-10-11T15:06:03Z
+97cf98fe-6706-4a7f-9aa0-54a26f1c6c57,way/39500439,Foothills Par 3 Course,,par3,,,active,,,,,,https://www.foothillsgolf.org/,,,,CO,,US,39.6479237,-105.092751,2026-10-21T11:38:00Z
 98516033-188b-4c73-abbe-555739dea5db,relation/17737717,Cedaredge Golf Course,,course,,,active,18,72,,,+1-970-856-7781,https://www.cedaredgegolf.com/,,500 Southeast Jay Avenue,Cedaredge,CO,81413,US,38.8829848,-107.9220117,2026-10-11T13:31:51Z
 987de036-4746-4ea6-a1da-a097bb06b60a,way/1550601842,The Greg Mastriona Golf Courses at Hyland Hills - North Par 3,,par3,,,active,9,27,,,,,,,,CO,,US,39.8725006,-105.0515125,2026-10-11T15:12:30Z
-99302611-8b59-408b-a5ba-ee7c77c2e269,way/33195406,Applewood Golf Course,,course,,,active,18,71,,,,,,,,CO,,US,39.7654304,-105.1566412,2026-10-11T15:11:51Z
-99ab62a0-7efd-4f6f-9571-8b5b22c69143,way/45877503,Haystack Mountain Golf Course,,course,,,active,9,,,,,,,5877 Niwot Road,Longmont,CO,80503,US,40.1043785,-105.2209881,2026-10-11T15:11:53Z
+99302611-8b59-408b-a5ba-ee7c77c2e269,way/33195406,Applewood Golf Course,,course,,,active,18,71,,,,https://applewoodgc.com/,,,,CO,,US,39.7654304,-105.1566412,2026-10-21T11:37:29Z
+99ab62a0-7efd-4f6f-9571-8b5b22c69143,way/45877503,Haystack Mountain Golf Course,,course,,,closed,9,,,,,,,5877 Niwot Road,Longmont,CO,80503,US,40.1043785,-105.2209881,2026-10-25T01:34:34Z
 9ad6e25d-9dc6-4e0b-ba02-5064ab5a569e,way/621343784,Spring Valley Golf Course,,course,,,active,,,,,,,,42350 County Road 17/21,Elizabeth,CO,80107,US,39.4841488,-104.5745069,2026-10-11T15:12:20Z
-9ba52028-9be3-4991-9363-d24a2251d7f3,way/46704772,Indian Tree Golf Club,,course,,,active,18,70,,,,,,,,CO,,US,39.8326708,-105.0864756,2026-10-11T13:29:44Z
+9ba52028-9be3-4991-9363-d24a2251d7f3,way/46704772,Indian Tree Golf Club,,course,,,active,18,70,,,,https://indiantree.apexprd.org/,,,,CO,,US,39.8326708,-105.0864756,2026-10-21T11:38:15Z
 9d7933d1-73cf-4430-896d-bd1c9b87af0f,way/617721424,Walsenburg Golf Course,,course,,,active,,,,,,,,,,CO,,US,37.6123879,-104.8264994,2026-10-11T15:06:32Z
 9e98f934-36c7-4cd8-93d5-80cdea55c0f9,way/251879376,,,course,,,active,,,,,,,,,,CO,,US,39.3040247,-102.6119161,2026-10-11T15:12:05Z
-9edc84c4-ab6c-4e12-9c08-7d457e2fd4df,way/1221224843,Chipeta Golf Club,,course,,,active,18,59,,,,,,,,CO,,US,39.0375425,-108.5082558,2026-10-11T13:31:09Z
+9edc84c4-ab6c-4e12-9c08-7d457e2fd4df,way/1221224843,Chipeta Golf Club,,course,,,active,18,59,,,,https://chipetagolf.com/,,,,CO,,US,39.0375425,-108.5082558,2026-10-21T11:40:25Z
 9f0e7df1-5cd2-48a6-9d2b-39531d5b3ca7,relation/10428759,Thorncreek Golf Course,,course,,,active,18,72,,,,https://thorncreekgc.com/,,13555 Washington Street,Thornton,CO,80241,US,39.9367546,-104.9757549,2026-10-11T15:12:38Z
 9fda9da7-8bf9-40d9-8a78-66bd7504ab93,way/1551789358,,,course,,,active,,,,,,,,,,CO,,US,39.4795384,-107.2955019,2026-10-11T15:12:30Z
-a3149b3e-7284-408d-9ecf-f6b2001f0559,way/549843275,Hollydot Golf Course,,course,,,active,,,,,,,,,,CO,,US,37.9533255,-104.8260803,2026-10-11T13:30:51Z
+a3149b3e-7284-408d-9ecf-f6b2001f0559,way/549843275,Hollydot Golf Course,,course,,,active,,,,,,https://www.hollydotgolf.com/,,,,CO,,US,37.9533255,-104.8260803,2026-10-22T11:26:40Z
 a3232919-9da8-4239-a956-2739751c07ce,way/39502670,Putter's Pride Mini Golf,,mini,,,active,,,,,,,,,,CO,,US,39.6499739,-105.1089864,2026-10-11T15:11:51Z
 a394ee69-6c58-4d7d-9791-c6a0817e5c0c,way/351908800,,,course,,,active,,,,,,,,,,CO,,US,38.0778998,-103.2135444,2026-10-11T15:12:14Z
 a3ebed74-0a8b-4e11-8f24-4018c043f8f1,way/233076933,The Broadmoor Golf Courses,,course,,,active,,,,,,https://www.broadmoor.com/,,,,CO,,US,38.781869,-104.8487249,2026-10-11T15:12:03Z
-a41e01c8-50a3-419b-b040-ad2c76b688f9,way/663297392,Eagle Springs Golf Club,,course,,,active,18,71,,,,,,,,CO,,US,39.6896287,-106.6543742,2026-10-11T15:12:20Z
+a41e01c8-50a3-419b-b040-ad2c76b688f9,way/663297392,Eagle Springs Golf Club,,course,,,active,18,71,,,,https://eaglesprings.org/,,,,CO,,US,39.6896287,-106.6543742,2026-10-21T11:40:26Z
 a589e56c-9f3f-4aee-9689-7606cbea6034,way/237236029,Golf Club at Bear Dance,,course,,,active,,,,,+1-303-681-4653,https://www.beardancegolf.com/,,6630 Bear Dance Drive,Larkspur,CO,80118,US,39.2660824,-104.910601,2026-10-11T15:12:03Z
 a6262467-36d2-436b-a703-0f86c9108d20,way/777238439,The Country Club at Woodmoor,,course,,,active,18,72,,,,,,,,CO,,US,39.1056145,-104.8377445,2026-10-11T15:12:21Z
-a68b0d27-1506-43dc-b6d2-7cc41f7e1ce1,way/1531443170,Perry Park Country Club,,course,,,active,18,72,,,,,,,,CO,,US,39.2635528,-104.9924761,2026-10-11T15:12:30Z
+a68b0d27-1506-43dc-b6d2-7cc41f7e1ce1,way/1531443170,Perry Park Country Club,,course,,,active,18,72,,,,https://www.perryparkcc.com/,,,,CO,,US,39.2635528,-104.9924761,2026-10-21T11:38:53Z
 a771ebe3-e864-43c8-a8ec-25d2e750cf50,relation/15820359,Red Rocks Country Club,,course,,,active,18,71,,,,,,,,CO,,US,39.6156644,-105.1826656,2026-10-11T13:31:48Z
 aae3b02a-1c46-4382-b1e6-f188517c973a,way/72591240,Overland Golf Course,,course,,,active,18,72,,,,,,,,CO,,US,39.6848818,-104.9966757,2026-10-11T13:29:49Z
 ab66d82c-0961-4fea-a996-ec2b42f55db8,way/39500441,Foothills Championship Course,,course,,,active,,,,,+1-303-409-2400,https://www.foothillsgolf.org/golf_Foothills_Golf_Course.asp,,3901 South Carr Street,Denver,CO,80235,US,39.6459344,-105.098259,2026-10-11T15:11:51Z
@@ -185,16 +185,16 @@ adbb0124-d4e8-4245-affd-20f5e2def29a,way/587287558,Cedar Ridges Golf Course,,cou
 ae6e0198-7d90-4761-8992-fba872925554,way/23599286,Collindale Golf Course,,course,,,active,18,,,,,,,,,CO,,US,40.5343213,-105.0485568,2026-10-11T15:11:48Z
 aeaa6350-b9c3-486f-98b3-d83c2c6ee323,relation/10788344,The Club at Pradera,,course,,,active,18,72,,,+1-303-607-5700,https://www.theclubatpradera.com/,,5225 Raintree Drive,Parker,CO,80134,US,39.4383871,-104.7939375,2026-10-11T13:31:37Z
 aff42571-38cd-4e0c-82aa-8b79b9eca2a2,relation/3947879,Colorado National Golf Club,,course,,,active,18,72,,,+1-303-926-1723,https://coloradonationalgolfclub.com/,,2700 Vista Parkway,Erie,CO,80516,US,40.0075856,-105.0225576,2026-10-11T15:12:35Z
-b2624bb4-2348-40ae-9879-324ba4e7f8fb,node/13709108109,Ski-To-Tee,,course,,,active,,,,,,,,,Keystone,CO,,US,39.6075528,-105.9432655,2026-10-11T13:29:32Z
+b2624bb4-2348-40ae-9879-324ba4e7f8fb,node/13709108109,Ski-To-Tee,,course,,,active,,,,,,https://ski-to-tee.sportsgrounds.us.com/,,,Keystone,CO,,US,39.6075528,-105.9432655,2026-10-21T11:41:27Z
 b2727838-5a8f-46d1-a6e8-f566707d60a4,relation/2727364,Adam's Rib Ranch,,course,,,active,,,,,,https://www.adamsribranch.com/,,,,CO,,US,39.580393,-106.7681299,2026-10-11T15:06:43Z
 b36e23c2-7eee-42db-89d1-43c109541bd6,way/344821613,,,course,,,active,,,,,,,,,,CO,,US,37.3930857,-108.2453869,2026-10-11T15:12:14Z
 b5802ff6-9d81-46b2-a0a2-75916b1df9b4,way/568433975,Kennedy 9-Hole Par-3 Course,,par3,,,active,,,,,,,,,,CO,,US,39.6495726,-104.867541,2026-10-11T15:12:18Z
 b5df2ca3-b486-479f-a31a-6eab0b848d2a,relation/17584300,La Junta Golf Club,,course,,,active,,,,,,,,,,CO,,US,38.0351971,-103.5150764,2026-10-11T15:12:45Z
-b5e49a23-4390-4538-9d04-3fefdeb537bf,way/48947894,Highland Hills Golf Course,,course,,,active,,,,,,,,2200 Clubhouse Drive,Greeley,CO,80634,US,40.4017029,-104.7681405,2026-10-11T15:11:53Z
-b87567b3-f481-47dc-a71e-3f113c37042b,way/790916139,Baca Grande Golf Club,,course,,,active,,,,,,,,County Road T,Crestone,CO,81131,US,37.9894942,-105.7611732,2026-10-11T15:12:21Z
+b5e49a23-4390-4538-9d04-3fefdeb537bf,way/48947894,Highland Hills Golf Course,,course,,,active,,,,,,https://greeleyco.gov/golf/courses/highland-hills/,,2200 Clubhouse Drive,Greeley,CO,80634,US,40.4017029,-104.7681405,2026-10-22T13:05:12Z
+b87567b3-f481-47dc-a71e-3f113c37042b,way/790916139,Baca Grande Golf Club,,course,,,active,,,,,,https://bacagrande.org/,,County Road T,Crestone,CO,81131,US,37.9894942,-105.7611732,2026-10-22T11:25:46Z
 b8b8c16b-c344-4d23-95f3-7bf23a1067bf,way/45877130,The Fox Hill Club,,course,,,active,18,70,,,+1-303-651-3777,https://thefoxhillclub.com/,,1400 CO-119,Longmont,CO,80504,US,40.1673251,-105.065832,2026-10-11T13:29:44Z
 b917f948-5193-4d5c-b9f4-31ccc0845dfb,relation/5820654,Ptarmigan Country Club,,course,,,active,18,72,,,,https://ptarmigancc.com/,,5416 Vardon Way,Fort Collins,CO,80528,US,40.4831661,-104.9727925,2026-10-11T15:12:36Z
-bac05be3-d187-48df-9854-20535b4a8f36,relation/11372288,Greeley Country Club,,course,,,active,,,,,,,,4500 10th Street,Greeley,CO,80634,US,40.4178418,-104.7557371,2026-10-11T15:12:41Z
+bac05be3-d187-48df-9854-20535b4a8f36,relation/11372288,Greeley Country Club,,course,,,active,,,,,,https://www.greeleycc.org/,,4500 10th Street,Greeley,CO,80634,US,40.4178418,-104.7557371,2026-10-22T11:24:37Z
 bb7ccbc0-30bf-4b20-bd6b-22205625fe54,way/35446968,Valley Hi Golf Course,,course,,,active,18,72,,,,https://coloradosprings.gov/valley-hi-golf-course/page/valley-hi-golf-course-information,,610 South Chelton Road,Colorado Springs,CO,80910,US,38.8218296,-104.76945,2026-10-11T15:11:51Z
 bcd20a48-86d2-427f-9ced-3f025bcc06a1,way/60415082,City Park Nine Golf Course,,course,,,active,9,36,,,+1-970-221-6650,https://www.fcgov.com/cityparknine/,,411 South Bryan Ave,Fort Collins,CO,80521,US,40.5845454,-105.1111722,2026-10-11T15:11:55Z
 bd122d37-5aed-48e6-a673-877d9b40db0d,way/287006566,Aurora Hills Golf Course,,course,,,active,18,72,,,+1-303-364-6111,https://www.auroragov.org/ThingsToDo/Golf/GolfCourses/AuroraHills/,,50 South Peoria Street,Aurora,CO,80012,US,39.7148452,-104.8404273,2026-10-11T15:12:07Z
@@ -203,18 +203,18 @@ be903ee8-c3c8-467d-b0dc-c0e39bf0b25d,relation/2983334,Vail Golf Course,,course,,
 bf94a93c-d7df-4773-9850-9ed262310c95,way/1509566450,Fox Hollow Golf Course,,course,,,active,27,,,,,,,,,CO,,US,39.6604225,-105.1334279,2026-10-11T15:12:29Z
 c0e70a7e-5a5f-49ac-8bf0-8732af041fe6,way/1318395747,,,course,,,active,,,,,,,,,,CO,,US,38.1914852,-107.7965699,2026-10-11T15:12:29Z
 c191ec66-7eec-463f-bd48-ec512907e600,way/1091132417,Adobe Creek National Golf Course,,course,,,active,,,,,+1-970-858-0521,https://www.adobecreekgolf.com/,,876 18 1/2 Road,Fruita,CO,81521,US,39.1343352,-108.7105537,2026-10-11T15:12:24Z
-c25b701c-0d92-4547-b280-77286b1366b1,way/663288492,Red Sky Ranch Golf Club- Tom Fazio Course,,course,,,active,18,72,,,,,,,,CO,,US,39.6855649,-106.6797521,2026-10-11T15:12:20Z
-c5ae59de-3427-446c-b6b1-adc0d4e115e6,way/1562088206,Castle Pines Golf Club,,course,,,active,,,,,,,,,,CO,,US,39.4362481,-104.8993514,2026-10-11T15:12:30Z
+c25b701c-0d92-4547-b280-77286b1366b1,way/663288492,Red Sky Ranch Golf Club- Tom Fazio Course,,course,,,active,18,72,,,,https://www.redskygolfclub.com/,,,,CO,,US,39.6855649,-106.6797521,2026-10-21T11:41:24Z
+c5ae59de-3427-446c-b6b1-adc0d4e115e6,way/1562088206,Castle Pines Golf Club,,course,,,active,,,,,,https://castlepinesgolfclub.club/,,,,CO,,US,39.4362481,-104.8993514,2026-10-21T11:37:38Z
 c5fef9df-cb1f-4727-a8d0-1ebd47597a5d,node/9109040322,Skylark Indoor Golf Club,,practice,,private,active,,,,,,https://www.skylarkgolf.com/,,,,CO,,US,40.5251728,-105.0510911,2026-10-11T15:05:59Z
-c6ae7f46-7e71-40f6-bf7b-de59efcc1364,relation/1711079,Links Golf Course,,course,,,active,18,62,,,,,,,,CO,,US,39.5571048,-104.9241342,2026-10-11T15:12:30Z
+c6ae7f46-7e71-40f6-bf7b-de59efcc1364,relation/1711079,Links Golf Course,,course,,,active,18,62,,,,https://thelinksgolfcourse.com/,,,,CO,,US,39.5571048,-104.9241342,2026-10-21T11:38:36Z
 c7bdf29f-fe59-44a5-9f42-cb9cdac2ccd8,way/260841164,Smoky River Golf Course,,course,,,active,,,,,,,,475 North 3rd Street East,,CO,,US,38.8256251,-102.3454546,2026-10-11T15:12:05Z
-c9d80348-2761-4e5d-8357-54a56ecf5c5e,node/7858016926,Sumo Golf Village,,course,,,active,,,,,,,,5201 Gary Player Dr,Florence,CO,81226,US,38.3707897,-105.0965235,2026-10-11T13:29:32Z
+c9d80348-2761-4e5d-8357-54a56ecf5c5e,node/7858016926,Sumo Golf Village,,course,,,active,,,,,,https://www.sumogolfcourse.com/,,5201 Gary Player Dr,Florence,CO,81226,US,38.3707897,-105.0965235,2026-10-22T11:27:10Z
 cb4083eb-918e-499f-8d73-5744b35b8755,relation/10805710,Littleton Golf Course,,course,,,active,18,63,,,,https://www.ssprd.org/Littleton-Golf-and-Tennis-Club,,5800 South Federal Boulevard,Littleton,CO,80123,US,39.6130044,-105.0240014,2026-10-11T15:06:49Z
-cd45a5db-dea7-4fa8-ad3b-8515731ef0b9,way/133023353,Greenway Park Golf Course,,par3,,,active,9,27,,,,,,110 Greenway Drive,Broomfield,CO,80020,US,39.9102743,-105.0673638,2026-10-11T15:11:57Z
-cd61f83b-39de-4bf7-a733-6779faab8c99,way/135504820,Snowmass Club,,course,,,active,,,,,,,,,,CO,,US,39.2199094,-106.9291138,2026-10-11T15:06:10Z
+cd45a5db-dea7-4fa8-ad3b-8515731ef0b9,way/133023353,Greenway Park Golf Course,,par3,,,active,9,27,,,,https://www.gwphoa.org/,https://www.gwphoa.org/aboutus/scorecard/,110 Greenway Drive,Broomfield,CO,80020,US,39.9102743,-105.0673638,2026-10-22T13:05:10Z
+cd61f83b-39de-4bf7-a733-6779faab8c99,way/135504820,Snowmass Club,,course,,,active,,,,,,https://www.snowmassclub.com/,,,,CO,,US,39.2199094,-106.9291138,2026-10-21T11:41:27Z
 ce25fd43-352a-4e1f-af70-a3a3e2799998,way/1551789359,,,course,,,active,,,,,,,,,,CO,,US,39.4733241,-107.2823672,2026-10-11T15:12:30Z
 cfc2ebe0-dd9e-43c3-8db2-f4d06df2d725,way/296786618,Arrowhead Golf Club,,course,,,active,18,70,,,+1-303-973-9614,https://www.arrowheadcolorado.com/,,10850 West Sundown Trail,Littleton,CO,80125,US,39.4533804,-105.0822983,2026-10-11T15:12:10Z
-cfd994db-cdbb-4576-8f8f-2df69a7cf982,way/632676435,Spring Valley Golf Club,,course,,,active,18,72,,,,,,42350 County Road 17/21,Elizabeth,CO,80107,US,39.4849859,-104.5699125,2026-10-11T15:06:32Z
+cfd994db-cdbb-4576-8f8f-2df69a7cf982,way/632676435,Spring Valley Golf Club,,course,,,active,18,72,,,,https://www.springvalleygolf.com/,,42350 County Road 17/21,Elizabeth,CO,80107,US,39.4849859,-104.5699125,2026-10-23T21:45:22Z
 cfed295c-b9b9-4d2e-b9eb-1e4074360304,way/50050219,Fort Collins Country Club,,course,,,active,18,71,,,,https://fortcollinscc.com/,,1920 Country Club Road,Fort Collins,CO,80524,US,40.6237613,-105.0485977,2026-10-11T15:11:53Z
 d0d39558-e4c2-4e70-bb75-9d03ab23f308,relation/9466106,Ponderosa,,course,,,active,,,,,,,,,,CO,,US,37.2697333,-107.0658476,2026-10-11T13:31:37Z
 d1a15071-b8d6-47c4-bf29-fca5c98d2eeb,way/130458219,Pueblo Country Club,,course,,,active,18,71,,,+1-719-543-4844,https://www.pueblocountryclub.com/,,3200 8th Avenue,Pueblo,CO,81008,US,38.3028239,-104.6229455,2026-10-11T15:11:57Z
@@ -223,33 +223,33 @@ d490d30d-4cfb-4ce9-880a-99012893369c,way/500292932,Hiwan Golf Course,,course,,,a
 d5e3a12b-d076-4d67-8b3e-084b218a9b40,way/685331361,Springhill Golf Course,,course,,,active,18,64,,,,https://www.auroragov.org/things_to_do/golf/golf_courses/springhill,,800 Telluride Street,Aurora,CO,80011,US,39.7330376,-104.7771323,2026-10-11T15:12:20Z
 d670cce8-7a51-4852-973c-261f165e5dba,way/550269741,Ute Creek Golf Course,,course,,,active,18,72,,,,,,,,CO,,US,40.1962407,-105.0738333,2026-10-11T15:12:18Z
 d801a636-1159-4a78-a86b-d8921c7faa5b,way/172357313,Hillcrest Golf Club,,course,,,active,,,,,,,,,,CO,,US,37.2843625,-107.8593438,2026-10-11T15:12:01Z
-d92a501d-10d6-41d1-9690-a5413e3b6fde,way/79527454,Sanctuary,,course,,,active,18,73,,,,,,7549 Daniels Park Road,,CO,,US,39.4680884,-104.9251895,2026-10-11T15:11:55Z
+d92a501d-10d6-41d1-9690-a5413e3b6fde,way/79527454,Sanctuary,,course,,,active,18,73,,,,https://sanctuarygolfcourse.com/,,7549 Daniels Park Road,,CO,,US,39.4680884,-104.9251895,2026-10-21T11:39:24Z
 da037dbe-ca65-478b-b317-84e58332c025,relation/11311612,Coal Creek Golf Course,,course,,,active,18,73,,,+1-303-666-7888,https://www.coalcreekgolf.com/,,585 West Dillon Road,Louisville,CO,80027,US,39.9588778,-105.1499884,2026-10-11T15:12:41Z
-dbffef91-9975-43fb-87f8-2c104bfef450,node/3882986857,The Ridge,,course,,,active,,,,,,,,1414 Castle Pines Parkway,Castle Pines,CO,80109,US,39.4694308,-104.9097148,2026-10-11T13:29:32Z
+dbffef91-9975-43fb-87f8-2c104bfef450,node/3882986857,The Ridge,,course,,,active,,,,,,https://www.playtheridge.com/,,1414 Castle Pines Parkway,Castle Pines,CO,80109,US,39.4694308,-104.9097148,2026-10-21T11:39:41Z
 dc037e91-65d5-4268-88a0-003919056dfc,way/228621629,Grandote Peaks Golf Club,,course,,,active,18,72,,,,,,5540 Hwy 12,,CO,81055,US,37.4940752,-105.0136724,2026-10-11T15:06:16Z
 dc36b03e-b65a-4c01-b788-7efebc22c736,relation/13794722,Buffalo Run Golf Course,,course,,,active,18,72,,,+1 303-289-1500,https://www.buffalorungolfcourse.com/,,15700 East 112th Avenue,Commerce City,CO,80022,US,39.9036708,-104.7999275,2026-10-11T15:12:41Z
 dde61e24-4387-43bd-b2f0-53740433933b,relation/17784015,Devil's Thumb Golf Course,,course,,,active,,,,,+1-970-874-6262,https://www.devilsthumbgolfcourse.net/,,9900 Devils Thumb Road,Delta,CO,81416,US,38.7963635,-108.0621953,2026-10-11T15:12:45Z
 de893663-91b0-40c3-8e30-4611211842ae,relation/18557197,,,course,,,active,18,72,,,,,,,,CO,,US,39.6377009,-106.5622134,2026-10-11T13:31:51Z
-dfb17e2d-222a-4893-a917-f8d5e20e7801,way/407737936,Southglenn Country Club,,par3,,,active,9,27,,,,,,,,CO,,US,39.5891651,-104.9712523,2026-10-11T15:12:15Z
+dfb17e2d-222a-4893-a917-f8d5e20e7801,way/407737936,Southglenn Country Club,,par3,,,active,9,27,,,,https://www.southglenncc.com/,,,,CO,,US,39.5891651,-104.9712523,2026-10-21T11:39:30Z
 e0176f7a-0638-4341-86ef-29702a64cc48,way/42160759,Bear Creek Golf Club,,course,,,active,,,,,,,,,,CO,,US,39.6696171,-105.1334687,2026-10-11T15:11:53Z
 e086493f-81e8-43f8-a6a7-168165f43dbc,way/1442219882,Bunker Hill Country Club,,course,,,active,9,36,,,,,,,,CO,,US,40.2648888,-103.6461695,2026-10-11T15:12:29Z
 e4d331b8-3282-4c0d-86ac-2cd2e9d9a7a4,way/296786627,Glenwood Springs Golf Club,,course,,,active,9,35,,,+1-970-945-7086,https://glenwoodspringsgolf.com/,,193 Sunny Acres Drive,Glenwood Springs,CO,81601,US,39.5649196,-107.3487813,2026-10-11T15:12:10Z
-e5d727da-47a6-45a1-bcbb-f6c938bd0695,way/48112639,Saddleback Golf Course,,course,,,active,,,,,,,,,,CO,,US,40.1236853,-104.9315376,2026-10-11T15:11:53Z
+e5d727da-47a6-45a1-bcbb-f6c938bd0695,way/48112639,Saddleback Golf Course,,course,,,active,,,,,,https://saddlebackgolf.com/,,,,CO,,US,40.1236853,-104.9315376,2026-10-22T11:25:00Z
 e84964d3-7562-42e7-8b81-1dc24dd0078c,way/603913936,The Homestead Golf Course,,course,,,active,18,65,,,+1-720-963-5181,https://www.lakewood.org/Community_Resources/Golf/Homestead_Golf_Course/Homestead_Golf_Course.aspx,,11500 West Hampden Avenue,Lakewood,CO,80227,US,39.6498608,-105.128506,2026-10-11T15:12:20Z
 e85fb48d-d6cc-4933-89f0-a9759c921630,way/905604886,Flagler Golf Club,,course,,,active,,,,,,,,,,CO,,US,39.2820511,-103.0570058,2026-10-11T15:06:35Z
 e9e36cb2-1e9a-47eb-bd3e-9e2c1836748a,way/217605345,Haymaker Public Golf Course,,course,,,active,18,72,,,+1-970-870-1846,https://www.haymakergolf.com/,,34855 Highway 40,Steamboat Springs,CO,80487,US,40.4247607,-106.8159371,2026-10-11T13:30:07Z
-ea19b191-b398-4073-93d5-2f3596ce5c0a,way/34007519,Lakewood Country Club,,course,,,active,,,,,,,,,,CO,,US,39.7294636,-105.0709446,2026-10-11T15:06:03Z
+ea19b191-b398-4073-93d5-2f3596ce5c0a,way/34007519,Lakewood Country Club,,course,,,active,,,,,,https://www.lakewoodcountryclub.net/,,,,CO,,US,39.7294636,-105.0709446,2026-10-21T11:38:34Z
 ea8ca844-f1ea-490f-925a-bf5806976110,relation/3947853,Murphy Creek Golf Course,,course,,,active,18,71,,,+1-303-361-7300,https://www.auroragov.org/ThingsToDo/Golf/GolfCourses/MurphyCreek/,,1700 South Old Tom Morris Road,Aurora,CO,80018,US,39.683558,-104.708399,2026-10-11T15:12:35Z
 eae8ae27-b680-4fd5-b530-ddfabc3c555b,way/403204874,Shadow Hills Golf & Events Center,,course,,,active,,,,,,,,,,CO,,US,38.4066308,-105.2334973,2026-10-11T15:12:15Z
 eafb2408-6799-42fb-9bde-d5961818fb4c,way/401923438,Four Mile Ranch Golf Club,,course,,,active,18,72,,,,,,,,CO,,US,38.4673892,-105.164936,2026-10-11T13:30:44Z
 eb3f60e0-eb58-4792-b047-f05ccef50428,way/1446325156,,,course,,,active,,,,,,,,,,CO,,US,39.8973489,-106.7132457,2026-10-11T15:12:29Z
-eb5277c5-f147-419b-9afc-2b8271e16028,relation/1665398,Fossil Trace Golf Club,,course,,,active,18,72,,,,,,Illinois Street,Golden,CO,80401,US,39.7413556,-105.2113221,2026-10-11T15:06:41Z
+eb5277c5-f147-419b-9afc-2b8271e16028,relation/1665398,Fossil Trace Golf Club,,course,,,active,18,72,,,,https://fossiltrace.com/,,Illinois Street,Golden,CO,80401,US,39.7413556,-105.2113221,2026-10-21T11:38:01Z
 eb908f6c-d084-48a4-b6d7-4c54ae3aa806,way/44647250,,,course,,,active,,,,,,,,,,CO,,US,39.9466721,-105.0387343,2026-10-11T13:29:44Z
 ecada975-659a-4930-bee5-c7bee6a9ee83,way/238752010,Beaver Creek Golf Club,,course,,,active,,,,,,,,,,CO,,US,39.621144,-106.524467,2026-10-11T13:30:07Z
 edccbc02-4ed7-41b9-8672-ef851fd6a5fd,relation/17729038,Breckenridge Golf Club,,course,,,active,18,,,,,,,,,CO,,US,39.5242194,-106.0291429,2026-10-11T15:12:45Z
 ee63b284-102d-4216-8030-d08c02291416,relation/3117773,Kissing Camels at Garden of the Gods Club,,course,,,active,,,,,+1-719-636-2520,https://www.gardenofthegodsclub.com/,,4500 Kissing Camels Drive,,CO,80904,US,38.8837721,-104.8629098,2026-10-11T15:12:33Z
 ef90429c-abc3-497e-8bea-b3241f7ad0bf,way/302861187,Cheyenne Shadows Golf Course,,course,,,active,,,,,+1 719 526 4102,https://carson.armymwr.com/us/carson/programs/cheyenne-shadows-golf-club,,1050 Titus Boulevard,Fort Carson,CO,80913,US,38.7210303,-104.8073657,2026-10-11T15:06:24Z
-efcba828-5f9f-42bb-b001-5987f06ea7f0,relation/1766748,Red Hawk Ridge Golf Course,,course,,,active,18,72,,,,,,,,CO,,US,39.3875693,-104.8827833,2026-10-11T15:12:30Z
+efcba828-5f9f-42bb-b001-5987f06ea7f0,relation/1766748,Red Hawk Ridge Golf Course,,course,,,active,18,72,,,,https://www.redhawkridge.com/,,,,CO,,US,39.3875693,-104.8827833,2026-10-21T11:39:10Z
 efdd13bb-8fff-4f8f-8d43-3503fe3312e1,way/35446931,Silver Spruce Golf Course,,course,,,active,18,,,,,,,,Peterson SFB,CO,,US,38.8158172,-104.6968086,2026-10-11T15:11:51Z
 f05cb247-c7ff-48d8-bf46-6702afcf5f11,way/1481663617,The Country Club at Castle Pines,,course,,,active,,,,,,https://www.ccatcastlepines.com/contact-directions/,,6400 Country Club Drive,Castle Rock,CO,,US,39.448971,-104.9043798,2026-10-11T15:12:29Z
 f178b690-3c5d-4a65-9b48-6625e1621387,way/158264434,Walnut Creek Golf Preserve,,course,,,active,18,72,,,+1-303-469-2974,https://www.westminsterco.gov/golf-westminster/walnut-creek-golf-preserve,,10555 Westmoor Drive,Westminster,CO,80021,US,39.9000776,-105.1199302,2026-10-11T15:12:01Z
@@ -259,10 +259,10 @@ f558a75b-b3e4-4747-935b-5b5f0ac24079,way/219537219,Wray Golf Course,,course,,,ac
 f6e15691-7ac5-451e-b98d-0f366eccbe2a,relation/12229997,Highland Meadows Golf Course,,course,,,active,18,72,,,,https://www.highlandmeadowsgolfcourse.com/course-information/,,6300 Highland Meadows Parkway,,CO,,US,40.4574921,-104.9700299,2026-10-11T15:06:51Z
 f823cb92-0a92-4146-b063-bb434cd90195,way/202347558,,,course,,,active,,,,,,,,,,CO,,US,37.6846463,-106.6349398,2026-10-11T15:12:03Z
 f82a67cf-5c63-4ee8-b2b9-e8cfd38aa117,way/32971266,Denver Country Club,,course,,,active,18,,,,+1-303-733-8242,https://www.denvercc.net/,,1700 East 1st Avenue,,CO,80218,US,39.7149278,-104.9662531,2026-10-11T15:11:51Z
-f87ee710-a7f3-46e6-b69f-c35f2096fe77,way/1165232720,Gypsum Creek Golf Club,,course,,,active,18,72,,,,,,,,CO,,US,39.6309954,-106.9561693,2026-10-11T15:12:27Z
+f87ee710-a7f3-46e6-b69f-c35f2096fe77,way/1165232720,Gypsum Creek Golf Club,,course,,,active,18,72,,,,https://www.gypsumcreekgolf.com/,,,,CO,,US,39.6309954,-106.9561693,2026-10-21T11:40:34Z
 f9b5649a-c38a-412b-9a18-e36918986909,way/179872584,Evergreen Golf Course,,course,,,active,18,,,,,,,,,CO,,US,39.6295993,-105.3347989,2026-10-11T15:12:01Z
 f9d31553-7a71-41c9-86d6-8b10a2403755,relation/11865925,,,course,,,active,18,71,,,,,,,,CO,,US,39.6488471,-106.5698652,2026-10-11T15:12:41Z
-fad3d852-00ec-49fb-b1d2-b1aeb343f194,way/246746956,Cottonwood Links,,course,,,active,,,,,,,,,,CO,,US,38.135448,-104.0313771,2026-10-11T15:12:05Z
+fad3d852-00ec-49fb-b1d2-b1aeb343f194,way/246746956,Cottonwood Links,,course,,,active,,,,,,https://www.cottonwoodlinks.com/,,,,CO,,US,38.135448,-104.0313771,2026-10-22T11:25:58Z
 fc49fc8e-b129-49b8-a8af-264b6a247c74,way/296786622,Conquistador Golf Course,,course,,,active,,,,,+1-970-565-9208,https://www.fourcornersgolf.com/,,2018 North Dolores Road,Cortez,CO,,US,37.3711452,-108.5498609,2026-10-11T15:12:10Z
 fc5cc6cd-dde7-454e-9a47-2bf4a02c060b,relation/11311613,Indian Peaks Golf Course,,course,,,active,18,72,,,,https://www.indianpeaksgolf.com/,,2300 Indian Peaks Trail,Lafayette,CO,80026,US,40.0061452,-105.1281363,2026-10-11T15:12:41Z
 fc84a7a0-7d8d-4845-bab7-2999c4266acf,way/51964160,Wellshire Golf Course,,course,,,active,18,71,,,+1-720-865-0440,https://www.cityofdenvergolf.com/wellshire/,,3333 S Colorado Blvd.,Denver,CO,80222,US,39.6566421,-104.9478737,2026-10-11T15:11:53Z
