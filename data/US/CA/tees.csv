@@ -6,6 +6,11 @@ course_id,tee_key,name,color,total_yardage
 15030edf-a985-4026-957e-600e54ff6a74,back,Back,back,
 15030edf-a985-4026-957e-600e54ff6a74,front,Front,front,
 15030edf-a985-4026-957e-600e54ff6a74,middle,Middle,middle,
+16a99d51-9e72-4013-8f03-38271879fa2d,black,Black,black,6781
+16a99d51-9e72-4013-8f03-38271879fa2d,gold,Gold,gold,5851
+16a99d51-9e72-4013-8f03-38271879fa2d,green,Green,green,6346
+16a99d51-9e72-4013-8f03-38271879fa2d,silver,Silver,silver,5197
+16a99d51-9e72-4013-8f03-38271879fa2d,taupe,Taupe,taupe,7259
 18ce4258-7095-4232-bafe-9d263810c889,blue,Blue,blue,
 18ce4258-7095-4232-bafe-9d263810c889,red,Red,red,
 18ce4258-7095-4232-bafe-9d263810c889,white,White,white,
@@ -40,6 +45,13 @@ b528b0b9-ac49-4742-9e11-311767b4995d,black,Black,black,
 b528b0b9-ac49-4742-9e11-311767b4995d,blue,Blue,blue,
 b528b0b9-ac49-4742-9e11-311767b4995d,cardinal,Cardinal,cardinal,
 b528b0b9-ac49-4742-9e11-311767b4995d,white,White,white,
+cef80b3b-ab94-4fe9-94f8-77d3ef1e90d8,black,Black,black,7802
+cef80b3b-ab94-4fe9-94f8-77d3ef1e90d8,brown,Brown,brown,7015
+cef80b3b-ab94-4fe9-94f8-77d3ef1e90d8,green,Green,green,6635
+cef80b3b-ab94-4fe9-94f8-77d3ef1e90d8,white,White,white,6145
+cef80b3b-ab94-4fe9-94f8-77d3ef1e90d8,yellow,Yellow,yellow,5373
 eaef94e9-b565-4bd3-98c9-6c1d0b7d922b,blue,Blue,blue,
 eaef94e9-b565-4bd3-98c9-6c1d0b7d922b,red,Red,red,
 eaef94e9-b565-4bd3-98c9-6c1d0b7d922b,white,White,white,
+eb9b130d-68b8-44c5-a4b7-b84a5e1c58c4,red,Red,red,2430
+eb9b130d-68b8-44c5-a4b7-b84a5e1c58c4,white,White,white,2715
