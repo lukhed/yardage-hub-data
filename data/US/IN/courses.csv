@@ -91,7 +91,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 387bfac1-97e2-4d25-8d91-ef2427eda773,way/666125508,,,course,,,active,,,,,,,,,,,IN,,US,40.5134843,-87.2501113,2026-10-11T15:12:20Z
 3a5d1cdf-f14d-4713-8ce2-f5d535074888,way/30979242,Eel River Golf Course,,course,,,active,,,,,,https://eelrivergolfcourse.com/,,,,,IN,,US,41.1818629,-85.3146374,2026-10-26T17:31:59Z
 3c9b95fe-6554-4591-be53-845b617944fa,way/352365669,,,course,,,active,18,74,,,,,,,,,IN,,US,40.7755583,-85.1835209,2026-10-11T15:12:14Z
-3cfc8e18-4d64-46d5-9e2f-4a4bafc6c201,way/295447990,Helfrich Golf Course,,course,,,active,,,,,+1-812-435-6075,,,,1550 Mesker Park Drive,Evansville,IN,47712,US,37.9918613,-87.6075401,2026-10-11T15:12:08Z
+3cfc8e18-4d64-46d5-9e2f-4a4bafc6c201,way/295447990,Helfrich Golf Course,,course,,,active,,,,,+1-812-435-6075,https://evvcitygolf.com/helfrich-contact/,,,1550 Mesker Park Drive,Evansville,IN,47712,US,37.9918613,-87.6075401,2026-11-05T04:19:58Z
 3d539645-98bf-4821-ace9-f669a4a57420,way/154531958,Pete Dye Course,,course,,,active,18,72,,,,https://www.petedyegolftrail.com/,,,,,IN,,US,38.5721249,-86.6351122,2026-10-26T17:37:14Z
 3e023977-0fc7-43f4-b860-5d99686715ce,way/121227347,Ulen Country Club,,course,,,active,,,,,+1-765-482-5310,https://www.ulencc.com/,,,100 Country Club Drive,Lebanon,IN,46052,US,40.0665463,-86.4657893,2026-10-11T15:11:57Z
 4009f29f-4da1-451f-98cd-74cc65bec82b,relation/13530788,Plum Creek Golf Course,,course,,,active,18,72,,,+1-317-573-9900,https://www.plumcreekgolfclub.com/,,,12401 Lynnwood Boulevard,Carmel,IN,46033,US,39.9715389,-86.0610193,2026-10-11T15:12:41Z
@@ -124,7 +124,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 4f486cb6-55ee-44cf-99df-b518e5cbe837,way/295505715,West Chase Golf Club,,course,,,active,,,,,+1-317-892-2888,https://www.west-chasegolf.com/,,,4 Hollaway Boulevard,Brownsburg,IN,46112,US,39.8648347,-86.4348526,2026-10-11T13:30:20Z
 4f55bff0-5c7c-407a-b287-d269082249e0,relation/16058291,Burke Golf Course,,course,,,active,9,,,,+1-574-631-4653,https://warrengolfcourse.com/,,,,Notre Dame,IN,46556,US,41.6971925,-86.2473959,2026-10-11T15:12:43Z
 4fb42927-8054-4802-a5da-3d914f117e6f,way/295549601,Zionsville Golf Course,,course,,,active,9,37,,,+1-317-873-4218,https://www.zionsville-in.gov/town-services/parks/zionsville-golf-course/,,,,,IN,,US,39.9589984,-86.2628107,2026-10-11T15:12:08Z
-4fe6eb75-8af6-485f-ae01-c261985ac384,way/82290263,Bear Chase Golf Club,,course,,,active,18,72,,,+1-317-392-9100,,,,2660 N. Riley Highway,Shelbyville,IN,46176,US,39.56483,-85.7721738,2026-10-11T15:11:55Z
+4fe6eb75-8af6-485f-ae01-c261985ac384,way/82290263,Blue Bear Golf Club,,course,,,active,18,72,,,+1-317-392-9100,https://www.bluebeargolfclub.com/,,,2660 N. Riley Highway,Shelbyville,IN,46176,US,39.56483,-85.7721738,2026-11-05T04:20:02Z
 5010fc9d-906e-458b-93f5-0f7d632e6692,way/304084427,Arrowhead Golf Course,,course,,,active,18,70,,,,https://www.arrowheadgc.com/,,,,,IN,,US,39.8673156,-85.733372,2026-10-27T02:36:29Z
 507fa6e7-2e53-47a0-a9c9-b59caa47352f,way/237174207,Wicker Memorial Park Golf Course,,course,,,active,,,,,,,,,,,IN,,US,41.5615689,-87.475995,2026-10-11T15:12:03Z
 5093c85d-218b-43e7-893a-d1266cf9d23b,way/539061563,Dye's Walk Country Club,,course,,,active,18,71,,,,https://dyeswalkcc.com/,,,,,IN,,US,39.5866957,-86.1639344,2026-10-26T17:32:51Z
@@ -167,7 +167,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 6e689cf9-e73b-4a82-a7eb-c20c053fdcc3,way/271380577,Kokomo Country Club,,course,,,active,,,,,,,,,,,IN,,US,40.4622367,-86.1432511,2026-10-11T15:12:07Z
 6ec7376f-8db2-4a55-8724-71c7c1352fcc,way/895660688,,,course,,,active,,,,,,,,,,,IN,,US,41.1787422,-86.3833627,2026-10-11T15:12:23Z
 6ef9240a-24c7-4b41-a720-fdcdb7f88062,way/195521846,Ackerman-Allen Golf Course,,course,,,active,18,72,,,,https://purduegolf.com/ackerman-allen/,,,,West Lafayette,IN,47907,US,40.4352765,-86.9285435,2026-10-11T15:12:01Z
-71cf71a7-de14-4b03-ad1b-1d277e6cc763,way/295447995,McDonald Golf Course,,course,,,active,9,36,,,+1-812-475-2578,,,,2905 East Morgan Avenue,Evansville,IN,47715,US,37.9890804,-87.5113372,2026-10-11T15:12:08Z
+71cf71a7-de14-4b03-ad1b-1d277e6cc763,way/295447995,McDonald Golf Course,,course,,,active,9,36,,,+1-812-475-2578,https://evvcitygolf.com/mcdonald-contact/,,,2905 East Morgan Avenue,Evansville,IN,47715,US,37.9890804,-87.5113372,2026-11-05T04:19:29Z
 72c80abe-30d6-427c-8b9a-db2c2cc3d799,way/220677606,Morning Star Golf Course,,course,,,active,,,,,,https://www.morningstargc.com/,,,,,IN,,US,39.7693498,-85.9854546,2026-10-27T02:36:40Z
 73b4dcab-279f-4fea-881f-cb187ab86b8f,way/667720054,Sycamore Golf Club,,course,,,active,,,,,,https://golfatsycamore.com,,,6002 E. Hwy 114,North Manchester,IN,46962,US,41.0067262,-85.6806048,2026-10-26T17:32:18Z
 764af98b-03be-426a-b7cb-051c3c3ca859,way/129080530,Salt Creek Golf Resort,,course,,,active,,,,,,https://www.saltcreekgolf.com/,,,,,IN,,US,39.192435,-86.2047101,2026-10-27T16:31:29Z

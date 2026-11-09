@@ -1,6 +1,6 @@
 # Coverage
 
-How complete yardage-hub's data is, as of the 2026-11-02 snapshot. Counts are golf courses (regulation and par-3; driving ranges, disc, and mini golf aren't counted). Each state links to its folder, whose README breaks it down by region.
+How complete yardage-hub's data is, as of the 2026-11-09 snapshot. Counts are golf courses (regulation and par-3; driving ranges, disc, and mini golf aren't counted). Each state links to its folder, whose README breaks it down by region.
 
 | Column | Means |
 |---|---|
@@ -19,27 +19,27 @@ How complete yardage-hub's data is, as of the 2026-11-02 snapshot. Counts are go
 
 | | Courses | Share |
 |---|---:|---:|
-| A published scorecard is linked | 235 | 1% |
-| The scorecard link was set or checked working in the last year | 235 | 1% |
-| Every hole has its par | 5,781 | 36% |
-| Every hole has its handicap (stroke index) | 2,463 | 15% |
-| At least one set of tees | 327 | 2% |
-| A course rating and slope | 162 | 1% |
-| Hole-by-hole yardages for a set of tees | 292 | 2% |
-| Pars, handicaps, ratings, and yardages: everything a scoring app needs | 151 | 1% |
+| A published scorecard is linked | 371 | 2% |
+| The scorecard link was set or checked working in the last year | 371 | 2% |
+| Every hole has its par | 5,866 | 36% |
+| Every hole has its handicap (stroke index) | 2,582 | 16% |
+| At least one set of tees | 463 | 3% |
+| A course rating and slope | 271 | 2% |
+| Hole-by-hole yardages for a set of tees | 428 | 3% |
+| Pars, handicaps, ratings, and yardages: everything a scoring app needs | 260 | 2% |
 
-1,938 fixes applied in the last 90 days · 1 open reports
+2,332 fixes applied in the last 90 days · 1 open reports
 
 ## By state
 
 | State | Courses | Scorecard | Pars | Handicaps | Ratings | Yardages | Complete | Fixes (90 days) | Open reports |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| [Alabama](data/US/AL/) | 199 | 0% | 17% | 6% | 0% | 0% | 0% | 36 | 0 |
-| [Alaska](data/US/AK/) | 24 | 0% | 17% | 0% | 0% | 0% | 0% | 6 | 0 |
+| [Alabama](data/US/AL/) | 201 | 3% | 20% | 9% | 3% | 3% | 3% | 44 | 0 |
+| [Alaska](data/US/AK/) | 24 | 4% | 17% | 4% | 4% | 4% | 4% | 7 | 0 |
 | [American Samoa](data/US/AS/) | 1 | 0% | 0% | 0% | 0% | 0% | 0% | 0 | 0 |
-| [Arizona](data/US/AZ/) | 379 | 0% | 26% | 5% | 0% | <1% | 0% | 28 | 0 |
-| [Arkansas](data/US/AR/) | 141 | 0% | 23% | 9% | 0% | 0% | 0% | 28 | 0 |
-| [California](data/US/CA/) | 986 | <1% | 39% | 17% | <1% | 1% | <1% | 169 | 0 |
+| [Arizona](data/US/AZ/) | 386 | 20% | 38% | 23% | 17% | 20% | 17% | 109 | 0 |
+| [Arkansas](data/US/AR/) | 141 | 5% | 26% | 11% | 4% | 5% | 4% | 35 | 0 |
+| [California](data/US/CA/) | 986 | 2% | 39% | 18% | 1% | 2% | 1% | 181 | 0 |
 | [Colorado](data/US/CO/) | 265 | <1% | 48% | 26% | 0% | <1% | 0% | 60 | 0 |
 | [Connecticut](data/US/CT/) | 175 | 2% | 78% | 22% | 2% | 2% | 2% | 19 | 0 |
 | [Delaware](data/US/DE/) | 46 | 2% | 28% | 11% | 0% | 0% | 0% | 13 | 0 |
@@ -48,27 +48,27 @@ How complete yardage-hub's data is, as of the 2026-11-02 snapshot. Counts are go
 | [Georgia](data/US/GA/) | 417 | <1% | 28% | 16% | 0% | 1% | 0% | 64 | 0 |
 | [Guam](data/US/GU/) | 12 | 0% | 8% | 0% | 0% | 0% | 0% | 5 | 0 |
 | [Hawaii](data/US/HI/) | 126 | 1% | 21% | 13% | 0% | 2% | 0% | 31 | 0 |
-| [Idaho](data/US/ID/) | 103 | 0% | 38% | 22% | 0% | 2% | 0% | 32 | 0 |
-| [Illinois](data/US/IL/) | 615 | 0% | 41% | 17% | 0% | 1% | 0% | 147 | 0 |
-| [Indiana](data/US/IN/) | 393 | 0% | 35% | 15% | 0% | 1% | 0% | 95 | 0 |
+| [Idaho](data/US/ID/) | 103 | 1% | 38% | 22% | 1% | 3% | 1% | 34 | 0 |
+| [Illinois](data/US/IL/) | 615 | <1% | 41% | 17% | <1% | 1% | <1% | 150 | 0 |
+| [Indiana](data/US/IN/) | 393 | 0% | 35% | 15% | 0% | 1% | 0% | 99 | 0 |
 | [Iowa](data/US/IA/) | 395 | 0% | 36% | 15% | 0% | <1% | 0% | 82 | 0 |
-| [Kansas](data/US/KS/) | 216 | 0% | 27% | 10% | 0% | <1% | 0% | 46 | 0 |
-| [Kentucky](data/US/KY/) | 229 | 0% | 41% | 14% | 0% | <1% | 0% | 36 | 0 |
+| [Kansas](data/US/KS/) | 216 | 0% | 27% | 10% | 0% | <1% | 0% | 48 | 0 |
+| [Kentucky](data/US/KY/) | 229 | 0% | 41% | 14% | 0% | <1% | 0% | 38 | 0 |
 | [Louisiana](data/US/LA/) | 120 | 0% | 32% | 16% | 0% | 0% | 0% | 20 | 0 |
 | [Maine](data/US/ME/) | 117 | 0% | 76% | 36% | 0% | 11% | 0% | 22 | 0 |
 | [Maryland](data/US/MD/) | 189 | 0% | 41% | 17% | 0% | 0% | 0% | 54 | 0 |
 | [Massachusetts](data/US/MA/) | 351 | 0% | 78% | 21% | 0% | 0% | 0% | 22 | 0 |
-| [Michigan](data/US/MI/) | 878 | 26% | 51% | 35% | 18% | 26% | 17% | 427 | 1 |
+| [Michigan](data/US/MI/) | 880 | 29% | 53% | 38% | 20% | 29% | 19% | 459 | 1 |
 | [Minnesota](data/US/MN/) | 460 | 0% | 38% | 12% | 0% | 1% | 0% | 138 | 0 |
 | [Mississippi](data/US/MS/) | 109 | 0% | 18% | 6% | 0% | 0% | 0% | 15 | 0 |
 | [Missouri](data/US/MO/) | 316 | 0% | 39% | 20% | 0% | 0% | 0% | 42 | 0 |
 | [Montana](data/US/MT/) | 94 | 0% | 29% | 15% | 0% | 0% | 0% | 16 | 0 |
 | [Nebraska](data/US/NE/) | 204 | 0% | 31% | 12% | 0% | 0% | 0% | 45 | 0 |
-| [Nevada](data/US/NV/) | 109 | 0% | 43% | 15% | 0% | 0% | 0% | 0 | 0 |
-| [New Hampshire](data/US/NH/) | 98 | 0% | 65% | 22% | 0% | 2% | 0% | 17 | 0 |
-| [New Jersey](data/US/NJ/) | 322 | 0% | 28% | 12% | 0% | <1% | 0% | 14 | 0 |
-| [New Mexico](data/US/NM/) | 98 | 0% | 19% | 11% | 0% | 0% | 0% | 1 | 0 |
-| [New York](data/US/NY/) | 798 | 0% | 40% | 19% | 0% | <1% | 0% | 0 | 0 |
+| [Nevada](data/US/NV/) | 109 | 0% | 43% | 15% | 0% | 0% | 0% | 11 | 0 |
+| [New Hampshire](data/US/NH/) | 98 | 0% | 65% | 22% | 0% | 2% | 0% | 18 | 0 |
+| [New Jersey](data/US/NJ/) | 322 | 0% | 28% | 12% | 0% | <1% | 0% | 111 | 0 |
+| [New Mexico](data/US/NM/) | 98 | 0% | 19% | 11% | 0% | 0% | 0% | 7 | 0 |
+| [New York](data/US/NY/) | 798 | 0% | 40% | 19% | 0% | <1% | 0% | 125 | 0 |
 | [North Carolina](data/US/NC/) | 488 | 0% | 31% | 12% | 0% | 0% | 0% | 84 | 0 |
 | [North Dakota](data/US/ND/) | 122 | 0% | 52% | 21% | 0% | 0% | 0% | 8 | 0 |
 | [Northern Mariana Islands](data/US/MP/) | 6 | 0% | 17% | 0% | 0% | 0% | 0% | 2 | 0 |

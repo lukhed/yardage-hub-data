@@ -23,7 +23,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 07e586f5-2472-46a3-ae46-211c86ac7959,way/295678326,The Hills Golf Club at McKendree University,,course,,,active,,,,,+1-618-537-4590,https://www.mckendree.edu/thehills/,,,1015 Belleville Street,Lebanon,IL,62254,US,38.6062228,-89.8237604,2026-10-11T13:30:20Z
 07f7b1f0-c098-4ac3-9e35-ae9c1f1543b6,way/61948902,Renwood Golf Course,,course,,,active,,,,,,https://renwoodgolf.com/,,,,,IL,,US,42.3714078,-88.0645581,2026-10-25T15:21:28Z
 083a597b-dc6f-48e2-9639-fa0640e6f33a,way/169405613,,,course,,,active,,,,,,,,,,,IL,,US,41.2894378,-90.1895933,2026-10-11T15:12:01Z
-0883fe3f-29c4-439e-9fdf-57d8f1c4316a,way/138994143,Golf Center Des Plaines,,par3,,,active,9,27,,,,,,,353 North River Road,Des Plaines,IL,60016,US,42.0583026,-87.8861056,2026-10-11T15:06:12Z
+0883fe3f-29c4-439e-9fdf-57d8f1c4316a,way/138994143,Golf Center Des Plaines,,par3,,,active,9,27,,,,https://www.dpparks.org/golf-center-9-hole-course/,,,353 North River Road,Des Plaines,IL,60016,US,42.0583026,-87.8861056,2026-11-05T04:20:07Z
 0919410b-a011-4136-8208-7ac8e01d8dfd,relation/10744073,Lake Carroll Golf Club,,course,,,active,18,72,,,,https://www.golflakecarroll.com/,,,,,IL,,US,42.1743647,-89.8583526,2026-10-11T15:12:38Z
 099ed6c6-d82b-46dc-a176-2c0e6c7ac574,way/34318446,Park Ridge Country Club,,course,,,active,18,,,,+1-847-823-3101,https://www.parkridgecc.org/,,,636 North Prospect Avenue,Park Ridge,IL,60068,US,42.0211393,-87.8351012,2026-10-11T13:29:39Z
 09aaca9a-331b-45c5-917e-88b2b64050a4,way/173794716,Glenwoodie Golf Club,,course,,,active,,,,,,https://www.glenwoodiegolf.com/,,,19301 State Street,Glenwood,IL,60425,US,41.535792,-87.6105544,2026-10-11T15:12:01Z
@@ -160,7 +160,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 41a630b5-fde6-48ac-b645-ac3568c226ac,way/197099935,Streamwood Oaks Golf Club,,course,,,active,,,,,+1-630-483-1881,https://www.streamwoodoaksgolf.com/,,,565 Madison Drive,Streamwood,IL,60107,US,42.0246425,-88.1893991,2026-10-11T15:12:03Z
 41d58f33-ce05-4f70-bcad-353e6d45b60c,way/193058684,Hickory Creek Golf Course,,course,,,active,,,,,,,,,,,IL,,US,41.5189864,-87.8072378,2026-10-11T15:12:01Z
 41f75a0d-278e-43ec-86a5-a90e4ea06392,way/295902642,North Course,,course,,,active,,,,,,https://www.eagleridge.com/golf/,,,,,IL,,US,42.3979478,-90.3340222,2026-10-11T15:12:10Z
-42887d44-5196-41c4-99a2-dc5f78ccaea2,way/24722164,Wilmette Golf Club,,course,,,active,18,,,,,,,,3900 Fairway Drive,Wilmette,IL,60091,US,42.0834375,-87.7715266,2026-10-11T13:29:34Z
+42887d44-5196-41c4-99a2-dc5f78ccaea2,way/24722164,Wilmette Golf Club,,course,,,active,18,70,,,,https://www.golfwilmette.com/,https://golfwilmette.com/wp-content/uploads/sites/8709/2023/01/Scorecard.pdf,,3900 Fairway Drive,Wilmette,IL,60091,US,42.0834375,-87.7715266,2026-11-06T05:40:54Z
 43360b1d-2b81-4698-aca9-9a43c8101819,way/187782527,Olympia Fields Country Club,,course,,,active,,,,,,https://www.ofcc.org/,,,2800 Country Club Drive,Olympia Fields,IL,60461,US,41.5180485,-87.6859027,2026-10-11T15:12:01Z
 44000359-d223-44e8-9fcb-6f1d8202a647,way/193198694,Deer Creek Golf Course,,course,,,active,18,,,,+1-708-672-6667,https://www.deercreekgolfcourse.com/,,,25055 South Western Avenue,University Park,IL,60484,US,41.4354631,-87.6661098,2026-10-11T15:06:14Z
 44c7186f-28be-4f32-8474-2e4db36841cc,way/296074147,Biltmore Country Club,,course,,,active,,,,,+1-847-381-1960,https://www.biltmore-cc.com/,,,160 Biltmore Drive,North Barrington,IL,60010,US,42.2028708,-88.1391064,2026-10-11T13:30:27Z

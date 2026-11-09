@@ -9,7 +9,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 0bc18076-6642-41a7-b1e6-e2b80336b0ef,way/188868419,,,course,,,active,,,,,,,,,,,KY,,US,36.9686964,-86.4231907,2026-10-11T15:12:01Z
 0bfd094b-e38f-4dd9-b5db-c40a93039a09,way/285529283,Kearney Hill Golf Links,,course,,,active,18,73,,,,,,,3403 Kearney Road,Lexington,KY,40511,US,38.1237905,-84.536771,2026-10-11T15:12:07Z
 13ca5a3f-e56a-4b53-8fda-93a4ab6b8e6b,way/59547177,Madisonville Country Club,,course,,,active,18,71,,,,https://www.madisonville-countryclub.com/,,,,,KY,,US,37.290645,-87.5011765,2026-10-28T03:29:33Z
-15238a9e-5d91-44f8-8240-9505d4363536,way/144790700,Gay Brewer Jr Golf Course,,course,,,active,,,,,,,,,469 Parkway Drive,Lexington,KY,40504,US,38.0385012,-84.5295306,2026-10-11T15:12:00Z
+15238a9e-5d91-44f8-8240-9505d4363536,way/144790700,Gay Brewer Jr Golf Course,,course,,,active,,,,,,https://www.lexingtonky.gov/playing/athletics-sports/golf/gay-brewer-jr-course-picadome,,,469 Parkway Drive,Lexington,KY,40504,US,38.0385012,-84.5295306,2026-11-05T04:19:51Z
 16c1eb1d-d28e-4a28-be65-40a6d93a4626,way/297625147,Kenton Station Golf Course,,course,,,active,,,,,,,,,,,KY,,US,38.6380137,-83.8208104,2026-10-11T15:12:10Z
 179bb535-0a89-4563-b9e4-647e088ba856,way/456229765,Paul Walker Municipal Golf Course,,course,,,active,9,35,,,,,,,1040 Covington Street,Bowling Green,KY,42103,US,36.9765574,-86.434193,2026-10-11T15:12:17Z
 17a17456-9099-4b4a-bc63-304dd8d0fe88,way/295447993,John James Audubon Golf Course,,course,,,active,,,,,+1-270-826-5546,https://parks.ky.gov/golf/9_hole/john-james-audubon/,,,,,KY,,US,37.8759583,-87.5521988,2026-10-11T15:12:08Z
@@ -18,7 +18,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 1baa1913-2dcf-476a-a01b-1b1e260cb4d3,way/645076367,Mineral Mound State Park Golf Course,,course,,,active,18,72,,,,,,,,,KY,,US,37.0625846,-88.0893217,2026-10-11T15:12:20Z
 1c75d6b4-3781-40f1-ab24-f8385c7a7b8e,relation/20778830,Glasgow Golf and Country Club,,course,,,active,18,,,,,,,,,,KY,,US,37.0405251,-85.9082007,2026-10-11T15:12:45Z
 1c97af3b-5d43-4903-b8ac-f822701925d7,way/1011749418,,,course,,,active,,,,,,,,,,,KY,,US,36.7580565,-86.5643013,2026-10-11T15:12:24Z
-1cbc7cfa-4c55-4e83-a83a-dee8d24630e2,way/1443587796,Ohio County Community Golf Course,,course,,,active,,,,,,,,,1153 Country Club Lane,Hartford,KY,42347,US,37.4529286,-86.8622754,2026-10-11T15:12:29Z
+1cbc7cfa-4c55-4e83-a83a-dee8d24630e2,way/1443587796,Ohio County Community Golf Course,,course,,,active,,,,,,https://ohiocounty.ky.gov/departments-and-services/Pages/Golf-Course.aspx,,,1153 Country Club Lane,Hartford,KY,42347,US,37.4529286,-86.8622754,2026-11-05T04:19:38Z
 1e3d5f9a-71a0-43c4-a1cb-c73fdc7a4d88,way/848670061,Eagle Ridge Golf Course,,course,,,active,18,71,,,,,,,,,KY,,US,38.071803,-82.6955528,2026-10-11T15:12:23Z
 1e52630a-9c35-4f1d-8e87-8dd255e20108,way/297625155,Lindsey Golf Course,,course,,,active,18,72,,,+1-502-624-2717,https://knox.armymwr.com/programs/lindsey-golf-course,,,4024 Bullion Boulevard,Fort Knox,KY,40121,US,37.8896325,-85.9665799,2026-10-11T15:12:10Z
 205f82f7-9588-40d4-bdc6-e71807230753,way/383282196,,,course,,,active,,,,,,,,,,,KY,,US,37.3017303,-87.1433691,2026-10-11T15:12:14Z

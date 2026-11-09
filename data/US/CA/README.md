@@ -1,6 +1,6 @@
 # California
 
-986 golf courses in 12 regions, as of the 2026-11-02 snapshot. Columns are explained in [COVERAGE.md](../../../COVERAGE.md); the files here are described in the [README](../../../README.md#whats-in-the-files).
+986 golf courses in 12 regions, as of the 2026-11-09 snapshot. Columns are explained in [COVERAGE.md](../../../COVERAGE.md); the files here are described in the [README](../../../README.md#whats-in-the-files).
 
 | Region | Courses | Scorecard | Pars | Handicaps | Ratings | Yardages | Complete | Fixes (90 days) | Open reports |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
@@ -10,12 +10,12 @@
 | Orange County and San Bernardino | 89 | 0% | 47% | 27% | 0% | 0% | 0% | 14 | 0 |
 | Sacramento and the Foothills | 69 | 0% | 52% | 19% | 0% | 7% | 0% | 11 | 0 |
 | San Francisco, Marin and the East Bay | 67 | 0% | 48% | 18% | 0% | 0% | 0% | 7 | 0 |
-| Central Coast | 63 | 0% | 38% | 16% | 0% | 2% | 0% | 24 | 0 |
+| Central Coast | 63 | 10% | 46% | 24% | 6% | 11% | 6% | 30 | 0 |
 | San Jose, the Peninsula and Santa Cruz | 61 | 2% | 51% | 21% | 0% | 2% | 0% | 6 | 0 |
-| Chico, Redding and the Far North | 56 | 0% | 16% | 11% | 0% | 0% | 0% | 17 | 0 |
+| Chico, Redding and the Far North | 56 | 5% | 18% | 16% | 5% | 5% | 5% | 20 | 0 |
 | North Bay and North Coast | 56 | 0% | 20% | 7% | 0% | 0% | 0% | 14 | 0 |
-| Fresno, Bakersfield and the Eastern Sierra | 50 | 0% | 40% | 14% | 0% | 0% | 0% | 7 | 0 |
+| Fresno, Bakersfield and the Eastern Sierra | 50 | 6% | 40% | 16% | 6% | 6% | 6% | 10 | 0 |
 | Stockton, Modesto and Yosemite | 50 | 0% | 18% | 6% | 0% | 0% | 0% | 6 | 0 |
-| **All of California** | 986 | <1% | 39% | 17% | <1% | 1% | <1% | 169 | 0 |
+| **All of California** | 986 | 2% | 39% | 18% | 1% | 2% | 1% | 181 | 0 |
 
 Where help is needed most: courses without a scorecard. Find them on [the site](https://lukeheide.com/sports/yardage-hub), or with the API's `GET /v1/help?region=<slug>`.

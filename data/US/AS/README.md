@@ -1,6 +1,6 @@
 # American Samoa
 
-1 golf courses in 1 region, as of the 2026-11-02 snapshot. Columns are explained in [COVERAGE.md](../../../COVERAGE.md); the files here are described in the [README](../../../README.md#whats-in-the-files).
+1 golf courses in 1 region, as of the 2026-11-09 snapshot. Columns are explained in [COVERAGE.md](../../../COVERAGE.md); the files here are described in the [README](../../../README.md#whats-in-the-files).
 
 | Region | Courses | Scorecard | Pars | Handicaps | Ratings | Yardages | Complete | Fixes (90 days) | Open reports |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|

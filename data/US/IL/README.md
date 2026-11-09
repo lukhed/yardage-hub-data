@@ -1,10 +1,10 @@
 # Illinois
 
-615 golf courses in 8 regions, as of the 2026-11-02 snapshot. Columns are explained in [COVERAGE.md](../../../COVERAGE.md); the files here are described in the [README](../../../README.md#whats-in-the-files).
+615 golf courses in 8 regions, as of the 2026-11-09 snapshot. Columns are explained in [COVERAGE.md](../../../COVERAGE.md); the files here are described in the [README](../../../README.md#whats-in-the-files).
 
 | Region | Courses | Scorecard | Pars | Handicaps | Ratings | Yardages | Complete | Fixes (90 days) | Open reports |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Chicago and Cook County | 101 | 0% | 38% | 15% | 0% | 0% | 0% | 30 | 0 |
+| Chicago and Cook County | 101 | 1% | 39% | 16% | 1% | 1% | 1% | 33 | 0 |
 | Lake and McHenry | 89 | 0% | 52% | 30% | 0% | 0% | 0% | 23 | 0 |
 | Metro East and Southern Illinois | 86 | 0% | 35% | 12% | 0% | 0% | 0% | 20 | 0 |
 | DuPage, Kane and the Fox Valley | 81 | 0% | 44% | 12% | 0% | 0% | 0% | 36 | 0 |
@@ -12,6 +12,6 @@
 | Rockford, the Quad Cities and Northwest Illinois | 65 | 0% | 42% | 22% | 0% | 0% | 0% | 11 | 0 |
 | Peoria, Bloomington and the Illinois Valley | 63 | 0% | 49% | 14% | 0% | 0% | 0% | 7 | 0 |
 | Will, Kankakee and the South Suburbs | 51 | 0% | 25% | 12% | 0% | 0% | 0% | 11 | 0 |
-| **All of Illinois** | 615 | 0% | 41% | 17% | 0% | 1% | 0% | 147 | 0 |
+| **All of Illinois** | 615 | <1% | 41% | 17% | <1% | 1% | <1% | 150 | 0 |
 
 Where help is needed most: courses without a scorecard. Find them on [the site](https://lukeheide.com/sports/yardage-hub), or with the API's `GET /v1/help?region=<slug>`.

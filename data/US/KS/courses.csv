@@ -24,7 +24,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 1befac2a-6513-4b5f-957f-5efe8c65357a,way/453607865,Hays Municipal Golf Course,,course,,,active,18,71,,,+1 785 625 9949,https://www.haysusa.com/html/golf_course.html,,,1450 Golf Course Road,Hays,KS,67601,US,38.8642424,-99.3459758,2026-10-11T15:12:17Z
 1bff84ea-fbf0-4191-832a-a2f9d105e80e,way/141346987,The Kansas City Country Club,,course,,,active,18,70,,,+1 913-236-2100,https://kccc.com/,,,6200 Indian Lane,Mission Hills,KS,66208,US,39.0215515,-94.6208824,2026-10-11T15:12:00Z
 1c11013e-ce95-4da0-932b-5814d1579fed,way/228040721,Beloit Country Club,,course,,,active,,,,,,https://beloitcountryclub.com/,,,,,KS,,US,39.4626403,-98.0855595,2026-10-27T16:33:58Z
-1cb90b74-f823-4e45-a612-cbd2d869b1c0,relation/1975330,Reflection Ridge Golf Club,,course,,,active,18,72,,,,,,,,,KS,,US,37.7286558,-97.4353595,2026-11-01T21:45:27Z
+1cb90b74-f823-4e45-a612-cbd2d869b1c0,relation/1975330,Reflection Ridge Golf Club,,course,,,active,18,72,,,,https://reflectionridgegolf.com/,,,,,KS,,US,37.7286558,-97.4353595,2026-11-02T20:43:22Z
 1cdad250-8869-4514-a5d6-eb8c7de6a46c,way/1336487497,Smith Center Municipal Golf Course,,course,,,active,9,35,,,,,,,20082 us 281,smith center,KS,66967,US,39.7171908,-98.7811153,2026-10-11T15:12:29Z
 1cf845a3-0628-4a52-8ddb-2dd046594e68,way/1356312767,Crestwood Country Club,,course,,,active,18,72,,,,,,,,,KS,,US,37.3866079,-94.7495591,2026-10-11T15:12:29Z
 1df45937-7108-4da3-8cf1-cce1be83547c,relation/15654772,Wamego Country Club,,course,,,active,,,,,+1-785-456-2649,https://www.wamegocountryclub.com/,,,1900 Country Club Drive,Wamego,KS,66547,US,39.2065678,-96.325363,2026-10-11T15:12:43Z

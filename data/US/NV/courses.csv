@@ -1,5 +1,5 @@
 id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,scorecard_image_url,address,city,state,postcode,country,lat,lon,updated_at
-03438663-9f19-4166-82a0-beabbeb64f07,relation/7126303,Badlands Golf Club,,course,,,active,,,,,,,,,9119 Alta Drive,Las Vegas,NV,89145,US,36.1639854,-115.3016919,2026-10-11T15:12:38Z
+03438663-9f19-4166-82a0-beabbeb64f07,relation/7126303,Badlands Golf Club,,course,,,active,,,,,,https://badlandsgc.com/,,,9119 Alta Drive,Las Vegas,NV,89145,US,36.1639854,-115.3016919,2026-11-04T18:41:29Z
 04773a34-a5cd-419a-83a5-9c391789c2ce,node/4900644415,Grand Bay Driving Range,,practice,,,active,,,,,+1 775 789 2122,https://www.grandsierraresort.com/activities/grand-bay-driving-range/,,,,,NV,,US,39.5217855,-119.777441,2026-10-11T15:05:59Z
 05730321-1b59-418b-9268-47487bcf99aa,node/2710805018,Hunewills Mason Valley Country Club,,course,,,active,,,,,+1-775-463-3300,,,,111 Yerington Road (NV 208),Yerington,NV,89447,US,38.9670991,-119.1640914,2026-10-11T13:29:32Z
 065b7c76-dd7f-407a-bb50-863d6c544ae1,way/232819008,Stallion Mountain,,course,,private,active,,,,,,,,,,,NV,,US,36.1226078,-115.048268,2026-10-11T15:12:03Z
@@ -17,14 +17,14 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 19ca3035-484e-49a8-873f-be4b3e66b355,way/148495786,Coyote Springs Golf Club,,course,,,active,18,72,,,+1-877-742-8455;+1-702-422-1400,https://www.coyotesprings.com/,,,,,NV,,US,36.8046585,-114.9327611,2026-10-11T15:12:00Z
 1c3d8d27-b439-4508-b70c-18c5fae0c1db,relation/1083793,Somersett Golf and Country Club,,course,,private,active,18,71,,,+1-775-787-1800,https://www.somersettgolfandcountryclub.com/,,,2019 Championship Trail,Reno,NV,89523-3829,US,39.5340432,-119.9340807,2026-10-11T15:12:30Z
 20d941f2-ab3e-447f-9960-5cf56b7195d2,way/32315801,Hidden Valley Country Club,,course,,private,active,18,71,,,+1-775-857-4735,https://www.hvccreno.com/,,,3575 East Hidden Valley Drive,Reno,NV,89502,US,39.4858367,-119.7248492,2026-10-11T13:29:39Z
-214d5766-7069-47af-bc8b-26885ca3783a,way/676428903,Wolf Creek Golf Club,,course,,,active,,,,,,,,,403 Paradise Parkway,Mesquite,NV,89027,US,36.8368515,-114.0575089,2026-10-11T15:06:32Z
-2347f608-f805-4182-9813-24886fdf4998,way/1201568404,Las Vegas Golf Center,,course,,,active,,,,,,,,,,,NV,,US,36.0687262,-115.1697963,2026-10-11T15:12:27Z
+214d5766-7069-47af-bc8b-26885ca3783a,way/676428903,Wolf Creek Golf Club,,course,,,active,,,,,,https://golfwolfcreek.com/,,,403 Paradise Parkway,Mesquite,NV,89027,US,36.8368515,-114.0575089,2026-11-05T18:44:02Z
+2347f608-f805-4182-9813-24886fdf4998,way/1201568404,Las Vegas Golf Center,,course,,,active,,,,,,https://www.lasvegasgolfinsider.com/,,,,,NV,,US,36.0687262,-115.1697963,2026-11-05T18:43:00Z
 25f2384c-8681-40af-8892-fc99f287cf0f,relation/6902103,Incline Village Golf Courses - Mountain Course,,course,,,active,18,59,,,+1-775-832-1150; +1-866-925-4653,http://www.golfincline.com/,,,690 Wilson Way,Incline Village,NV,89451,US,39.2669509,-119.9495458,2026-10-11T15:06:49Z
 26569131-fc9e-49b9-95a7-9d60a59315a3,way/1009707490,Canyon Course,,course,,,active,,,,,,,,,,,NV,,US,36.0950498,-115.2743532,2026-10-11T15:06:36Z
 28096ee2-aa9a-47da-b1b0-61621746606d,way/80341618,Las Vegas Golf Club,,course,,private,active,18,72,,,+1-702-646-3003,https://www.lasvegasgc.com/,,,4300 West Washington Avenue,Las Vegas,NV,89107,US,36.1846726,-115.1992465,2026-10-11T15:11:55Z
-2990088b-d446-42d7-86d7-1dff9e20f74f,way/136332086,The Legacy Golf Club,,course,,private,active,,,,,,,,,,,NV,,US,36.0355943,-115.0814195,2026-10-11T15:12:00Z
+2990088b-d446-42d7-86d7-1dff9e20f74f,way/136332086,The Legacy Golf Club,,course,,private,active,,,,,,https://thelegacygc.com/,,,,,NV,,US,36.0355943,-115.0814195,2026-11-05T18:43:30Z
 2b53e213-bc19-4212-9b1a-54ee4c90716a,way/1353411198,The Summit Club,,course,,,active,,,,,,,,,,,NV,,US,36.1017427,-115.3400156,2026-10-11T15:12:29Z
-31d360a7-ade5-4cf3-bb9d-40a12f79f339,relation/7726686,Montreux Golf Course,,course,,,active,18,72,,,,,,,,,NV,,US,39.3631278,-119.8319417,2026-10-11T15:12:38Z
+31d360a7-ade5-4cf3-bb9d-40a12f79f339,relation/7726686,Montreux Golf Course,,course,,,active,18,72,,,,https://montreuxgolf.com/,,,,,NV,,US,39.3631278,-119.8319417,2026-11-05T18:43:01Z
 3646fc64-5bf3-4392-91c6-456a67c61f0d,way/134863472,Fallon Golf Course,,course,,,active,,,,,+1 775-423-4616,,,,2655 Country Club Drive,Fallon,NV,89406,US,39.4850056,-118.8121261,2026-10-11T13:29:54Z
 37a47b33-ae78-480b-8ed1-05e14a1a2818,relation/3558755,TPC Las Vegas,,course,,private,active,,,,,+1 702-256-2000,https://tpc.com/lasvegas-golf,,,9851 Canyon Run Drive,Las Vegas,NV,89144,US,36.1761518,-115.30798,2026-10-11T15:12:33Z
 397b7ed2-db17-45e4-a5f2-3bd1bf255a28,relation/3947496,SouthShore Golf Club at Lake Las Vegas,,course,,private,active,,,,,+1-702-564-1600; +1-800-564-1603,https://www.pacificlinks.com/default.aspx?p=DynamicModule&pageid=358091&ssid=265889&vnf=1,,,100 Strada Di Circolo,Henderson,NV,89011,US,36.1071141,-114.917956,2026-10-11T15:06:45Z
@@ -60,7 +60,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 79ffef86-daa6-490b-af8a-e537aadfa8df,relation/13518861,Canyon Course,,course,,,active,,,,,,,,,,,NV,,US,36.0945121,-115.2638137,2026-10-11T15:12:41Z
 7a2d2c5f-83d5-4a1b-908f-fbb0834ac9ee,relation/3554843,Casablanca Golf Course,,course,,,active,,,,,+1-702-346-6764,https://casablancaresort.com/golf-course-details/,,,1100 West Hafen Lane,Mesquite,NV,89027,US,36.7910859,-114.1143527,2026-10-11T15:12:33Z
 7a62e4c6-6248-40f0-895e-3891923f9090,way/27910587,Wynn Golf Course,,course,,private,active,18,70,,,+1-702-770-4653,https://www.wynnlasvegas.com/,,,3131 South Las Vegas Boulevard,Las Vegas,NV,89109,US,36.1258804,-115.1597879,2026-10-11T13:29:34Z
-7d836fe2-47b6-44c6-a6ca-36ae14249372,relation/3556362,D'Andrea Golf Club,,course,,,active,,,,,,,,,,,NV,,US,39.5565567,-119.6894742,2026-10-11T15:12:33Z
+7d836fe2-47b6-44c6-a6ca-36ae14249372,relation/3556362,D'Andrea Golf Club,,course,,,active,,,,,,https://dandreagolfandresort.com/,,,,,NV,,US,39.5565567,-119.6894742,2026-11-05T18:42:15Z
 807f73a5-7ad8-4ad3-a4b7-97ef63bb796c,relation/3554736,Bear's Best Las Vegas,,course,,private,active,,,,,+1 702-804-8500,https://www.clubcorp.com/Clubs/Bear-s-Best-Las-Vegas,,,,,NV,,US,36.1175102,-115.3436011,2026-10-11T15:12:33Z
 87bd4bd7-a0c0-422d-80e6-978b8a0f2891,way/753087001,Jackpot Golf Club,,course,,,active,18,72,,,+1-775-755-2260,https://www.jackpotgolfclub.com/,,,415 Ace Drive,Jackpot,NV,89825,US,41.9892493,-114.6607059,2026-10-11T15:12:21Z
 88e80032-0fcf-4827-9eb4-338a4c190ba3,way/135832976,Boulder Creek Golf Course,,course,,private,active,,,,,+1-702-294-6534,https://www.bouldercreekgc.com/,,,,,NV,,US,35.958377,-114.8568408,2026-10-11T15:11:57Z
@@ -76,8 +76,8 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 9cfa6876-5f36-41f3-ba32-f7a2fc6c61d4,relation/1834016,Los Prados Golf & Country Club,,course,,private,active,18,,,,+1-702-645-5696,https://losprados-golf.com/,,,5150 Los Prados Circle,Las Vegas,NV,89130,US,36.2537516,-115.2148584,2026-10-11T15:12:30Z
 a079b8ee-6775-4d58-ae86-a6ffff27119e,relation/17330136,Eagle Crest Golf Course,,course,,private,active,,,,,+1 702-240-1320,https://www.golfsummerlin.com/course/ecc.html,,,2203 Thomas W. Ryan Boulevard,Las Vegas,NV,89134,US,36.1992386,-115.3326783,2026-10-11T15:12:45Z
 a3d02867-675b-4a0e-85ea-681494f9a825,relation/9178844,Canyon Golf,,par3,,,active,9,27,,,,,,,,,NV,,US,39.5329422,-119.9174794,2026-10-11T15:12:38Z
-a52a9fa7-50da-4227-922c-a1aeb9b972a7,way/1059646005,Coyote Willows Golf Course,,course,,,active,,,,,,,,,426 Hagens Alley,Mesquite,NV,89027,US,36.7947186,-114.1003857,2026-10-11T15:06:36Z
-a91a8d44-8c9b-4bc2-97a6-6f31b0d8b70f,node/2710750610,Reflection Bay Golf Club,,course,,,active,,,,,,,,,,,NV,,US,36.1097739,-114.9250643,2026-10-11T13:29:32Z
+a52a9fa7-50da-4227-922c-a1aeb9b972a7,way/1059646005,Coyote Willows Golf Course,,course,,,active,,,,,,https://coyotewillowsgolf.com/,,,426 Hagens Alley,Mesquite,NV,89027,US,36.7947186,-114.1003857,2026-11-05T18:42:14Z
+a91a8d44-8c9b-4bc2-97a6-6f31b0d8b70f,node/2710750610,Reflection Bay Golf Club,,course,,,active,,,,,,https://www.reflectionbaygolf.com/,,,,,NV,,US,36.1097739,-114.9250643,2026-11-05T18:43:05Z
 ad23b43e-3f2e-47f0-81d7-d3afaf192342,way/265425384,Ruby View Golf Course,,course,,,active,,,,,+1-775-777-7277,http://www.ci.elko.nv.us/recreation/golf.htm,,,2100 Ruby View Drive,Elko,NV,89801,US,40.8562057,-115.7594695,2026-10-11T15:06:18Z
 adc11b68-2a9c-4cb1-aa46-6ee4bfab7675,way/1409842811,,,course,,,active,18,71,,,,,,,,,NV,,US,36.1718628,-115.2970206,2026-10-11T15:12:29Z
 adde0d15-cf55-4f5e-ba59-ab5b114f703d,relation/3554853,Highland Falls Golf Course,,course,,private,active,,,,,+1 702-254-7010,https://www.golfsummerlin.com/highland_falls/,,,10201 Sun City Boulevard,Las Vegas,NV,89134,US,36.2122558,-115.3201307,2026-10-11T15:06:43Z
@@ -89,8 +89,8 @@ bcbd4f4a-556a-45e8-9c35-7f0ede7c8a0d,way/31710960,Washoe Golf Course,,course,,,a
 be6aadac-e971-433f-be44-ee3a723107ee,relation/1829571,Chimera Golf Club,,course,,,active,18,,,,+1-702-951-1500,https://chimeragolfclub.com/,,,901 Olivia Parkway,Henderson,NV,89011,US,36.0804586,-114.9676018,2026-10-11T15:12:30Z
 bedb0153-bddb-4b21-a3a9-3130c8fc5dde,way/1456156658,,,course,,,active,,,,,,,,,,,NV,,US,36.3557901,-115.3274264,2026-10-11T15:12:29Z
 c0a57731-6041-4349-b0e7-0d5f00a75c67,relation/1833988,Aliante Golf Club,,course,,private,active,18,,,,+1-702-399-4888,https://www.aliantegolf.com/,,,,,NV,,US,36.2984745,-115.1822438,2026-10-11T15:12:30Z
-c109d58a-5de8-4471-9d9d-f6c8658c76ba,relation/7729531,Reflection Bay Golf Club,,course,,public,active,18,72,,,,,,,,,NV,,US,36.1105106,-114.929038,2026-10-11T15:12:38Z
-c3dfd74c-87e3-4eed-aaa1-fc70d3795611,way/265136782,White Pine Golf Course,,course,,,active,,,,,+17752894095,,,,,Ely,NV,89301,US,39.2694419,-114.8578598,2026-10-11T15:12:05Z
+c109d58a-5de8-4471-9d9d-f6c8658c76ba,relation/7729531,Reflection Bay Golf Club,,course,,public,active,18,72,,,,https://www.reflectionbaygolf.com/,,,,,NV,,US,36.1105106,-114.929038,2026-11-05T18:43:06Z
+c3dfd74c-87e3-4eed-aaa1-fc70d3795611,way/265136782,White Pine Golf Course,,course,,,active,,,,,+17752894095,https://www.whitepinegolf.com/,,,,Ely,NV,89301,US,39.2694419,-114.8578598,2026-11-05T18:44:02Z
 c5236749-a563-4c43-8736-79f762a0f416,relation/9377191,Winnemucca Municipal Golf Course,,course,,,active,9,,,,+1-775-623-9920,https://winnemuccacity.org/GolfCourse.cfm,,,1365 Mizpah Street,Winnemucca,NV,89445,US,40.9718769,-117.7216514,2026-10-11T15:12:38Z
 cca99747-bd16-49a9-a1d4-b30db3085cac,way/466038831,Rio Secco Golf Club,,course,,,active,,,,,+1-702-777-2400,http://www.riosecco.net,,,2851 Grand Hills Drive,Henderson,NV,89052,US,35.9762599,-115.1108173,2026-10-11T15:12:17Z
 cf42e0cc-c948-4ba3-a830-5d2641d94048,relation/7282888,Wolf Run Golf Club,,course,,,active,18,72,,,+1-775-851-3301,https://www.wolfrungolfclub.com/,,,1400 Wolf Run Road,Reno,NV,89511,US,39.4115032,-119.7782749,2026-10-11T15:12:38Z
@@ -101,7 +101,7 @@ e59547f7-d003-48fb-9fa6-82e0de452eb7,relation/1823532,Las Vegas National Golf Cl
 e5a0a779-4471-431a-8dc1-204b07138d0f,way/972637748,,,course,,,active,,,,,,,,,,,NV,,US,36.0845369,-114.9306788,2026-10-11T15:12:24Z
 e8f5a6e0-11f7-4cb5-992d-89eadc090621,way/794520079,Wildhorse Golf Club,,course,,,active,18,70,,,+1-702-434-9000,https://www.golfwildhorse.com/,,,2100 W. Warm Springs Rd.,Henderson,NV,89014,US,36.061368,-115.078165,2026-10-11T15:12:21Z
 e98a9efc-66c2-4961-9737-9f917fcde5d4,way/129775640,Empire Ranch Golf Course,,course,,,active,,,,,+17758852100,https://www.empireranchgolf.com/,,,1875 Fair Way,Carson City,NV,89701,US,39.1753654,-119.711936,2026-10-11T15:06:10Z
-ecaf4597-49ef-4718-b261-a0f43b4ebd36,relation/6858796,The Revere Golf Club,,course,,private,active,,,,,,,,,,,NV,,US,35.9555279,-115.1066863,2026-10-11T15:12:38Z
+ecaf4597-49ef-4718-b261-a0f43b4ebd36,relation/6858796,The Revere Golf Club,,course,,private,active,,,,,,https://reveregolf.com/,,,,,NV,,US,35.9555279,-115.1066863,2026-11-05T18:43:34Z
 f2bc9cca-8153-4692-845d-da8e6c9a2449,way/464590771,The Revere Golf Club,,course,,,active,,,,,+1-877-273-8373; +1-702-259-4653,https://reveregolf.com/,,,2600 Hampton Road,Henderson,NV,89052,US,35.954534,-115.1024204,2026-10-11T15:12:17Z
 f8e77dc2-eaa2-4c7e-987b-2278be341958,relation/1836463,The Legacy Golf Club,,course,,,active,18,72,,,+1-888-629-3930,https://www.thelegacygc.com/,,,130 Par Excellence Drive,Henderson,NV,89074,US,36.0355943,-115.0814195,2026-10-11T15:12:30Z
 f8f83e6e-dec2-4fdb-b303-f60306e037d6,relation/3946866,Spring Creek Golf Course,,course,,,active,,,,,+1-775-753-6331,https://www.springcreeknv.net/SCA-Golf-Page.html,,,410 Fairway Boulevard,Spring Creek,NV,89815,US,40.7410297,-115.5950572,2026-10-11T15:12:35Z

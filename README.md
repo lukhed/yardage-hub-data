@@ -18,18 +18,18 @@ database, as plain CSV files you can open in a spreadsheet or load into anything
 Most open golf data is a list of names and locations. This is how far yardage-hub has gotten
 toward everything a scoring app needs, counted every week:
 
-Of **16,237 golf courses** (snapshot 2026-11-02; driving ranges, disc, and mini golf not counted), this is how many have each kind of data:
+Of **16,248 golf courses** (snapshot 2026-11-09; driving ranges, disc, and mini golf not counted), this is how many have each kind of data:
 
 | | Courses | Share |
 |---|---:|---:|
-| A published scorecard is linked | 235 | 1% |
-| The scorecard link was set or checked working in the last year | 235 | 1% |
-| Every hole has its par | 5,781 | 36% |
-| Every hole has its handicap (stroke index) | 2,463 | 15% |
-| At least one set of tees | 327 | 2% |
-| A course rating and slope | 162 | 1% |
-| Hole-by-hole yardages for a set of tees | 292 | 2% |
-| Pars, handicaps, ratings, and yardages: everything a scoring app needs | 151 | 1% |
+| A published scorecard is linked | 371 | 2% |
+| The scorecard link was set or checked working in the last year | 371 | 2% |
+| Every hole has its par | 5,866 | 36% |
+| Every hole has its handicap (stroke index) | 2,582 | 16% |
+| At least one set of tees | 463 | 3% |
+| A course rating and slope | 271 | 2% |
+| Hole-by-hole yardages for a set of tees | 428 | 3% |
+| Pars, handicaps, ratings, and yardages: everything a scoring app needs | 260 | 2% |
 
 **By state and region:** [COVERAGE.md](COVERAGE.md) has every state, and each state's folder has its regions, e.g. [Michigan](data/US/MI/). Low numbers are where your [help](#help-fix-the-data) goes furthest.
 
