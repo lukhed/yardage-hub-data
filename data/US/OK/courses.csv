@@ -1,8 +1,8 @@
 id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,scorecard_image_url,address,city,state,postcode,country,lat,lon,updated_at
 02a4a303-74bd-4888-bfeb-a37a40e00913,relation/21457300,Lake Murray Golf Course,,course,,,active,,,,,+1-580-223-6613,https://www.travelok.com/,,,2673 Lodge Road,Ardmore,OK,73401,US,34.077083,-97.1117222,2026-10-11T15:12:45Z
-04cab0c8-2cb5-4432-adbe-3be64f5676e4,way/842236079,Choctaw Creek,,course,,,active,,,,,,,,,,,OK,,US,35.4896059,-97.2959719,2026-10-11T15:12:23Z
+04cab0c8-2cb5-4432-adbe-3be64f5676e4,way/842236079,Choctaw Creek,,course,,,active,,,,,,https://www.choctawcreekgolf.org/,,,,,OK,,US,35.4896059,-97.2959719,2026-11-15T17:44:46Z
 063d680e-489b-434c-9227-9fadeccab9e1,way/417904492,The Trails,,course,,,active,18,70,,,,https://www.trailsgolf.com/index.htm,,,3200 South Berry Road,Norman,OK,73072,US,35.1832074,-97.4679234,2026-10-11T13:30:44Z
-065abfed-00a7-4118-8d7f-adb8b847fc29,relation/21535622,Baptist Village Golf Course,,course,,,active,,,,,,,,,5801 North Oakwood Road,Enid,OK,73703,US,36.4511248,-97.9250355,2026-10-11T15:12:45Z
+065abfed-00a7-4118-8d7f-adb8b847fc29,relation/21535622,Baptist Village Golf Course,,course,,,active,,,,,,https://baptistvillage.org/,,,5801 North Oakwood Road,Enid,OK,73703,US,36.4511248,-97.9250355,2026-11-15T17:44:21Z
 06dbe249-dc76-4816-a6e3-077518540cec,way/1187979762,,,course,,,active,,,,,,,,,,,OK,,US,36.8639168,-97.0269788,2026-10-11T13:31:09Z
 06f493da-0a2e-45ae-b18f-dded6d934806,way/608837252,,,course,,,active,,,,,,,,,,,OK,,US,35.8164401,-95.2536226,2026-10-11T15:12:20Z
 0e9244e3-5311-4578-9db0-5b986e480281,node/11483053087,Bailey Ranch Golf Course,,course,,,active,,,,,,,,,,,OK,,US,36.2818122,-95.8624157,2026-10-11T13:29:32Z
@@ -128,11 +128,11 @@ c227e094-e9ce-4a38-adc4-90068603b64c,way/379475525,Cobblestone Creek Golf Course
 c35bec6e-6962-4323-97aa-d248ce4fad2f,way/593209979,Riverside Golf Course,,course,,,active,18,70,,,+1 580 323 5958,http://www.riversidegolf.co/,,,,Clinton,OK,73601,US,35.5221662,-98.9541015,2026-10-11T15:12:20Z
 c5bedfa1-ce01-4be4-83ca-52a83e60b314,way/608024667,Woodward Municipal Golf Course,,course,,,active,9,35,,,,,,,2500 Whittaker Way,Woodward,OK,73801,US,36.4216687,-99.3761699,2026-10-11T15:12:20Z
 c9e7c4e8-0eaa-49a3-a9e2-d9cdad8eb07f,way/492134255,Shangri La Golf Club,,course,,,active,18,,,,,,,,,,OK,,US,36.5690503,-94.8443452,2026-10-11T15:12:17Z
-cd1f3edb-235e-4324-aab9-417044abc6db,relation/19581333,Cedar Valley Augusta Golf Course,,course,,,active,,,,,,,,,,,OK,,US,35.8644238,-97.5633343,2026-10-11T15:06:54Z
+cd1f3edb-235e-4324-aab9-417044abc6db,relation/19581333,Cedar Valley Augusta Golf Course,,course,,,active,,,,,,https://www.cedarvalleygolfclub.com/,,,,,OK,,US,35.8644238,-97.5633343,2026-11-15T17:44:34Z
 ce30665e-47c5-4c55-bc92-c67c13588090,way/880513168,,,course,,,active,,,,,,,,,,,OK,,US,35.2392597,-96.6636077,2026-10-11T15:12:23Z
 cf997676-c71a-40eb-b0fe-e9eb6660bb52,relation/20456747,O'Brien Park Golf Course,,course,,,active,,,,,,,,,,,OK,,US,36.2465696,-95.9559381,2026-10-11T15:12:45Z
 d0928ad1-f96a-4278-82e2-060bf84c1902,way/1268832543,,,course,,,active,9,36,,,,,,,,,OK,,US,34.5175767,-96.9775741,2026-10-11T15:12:28Z
-d17ff635-ddad-4f29-8747-0aa61f4b0c86,way/1428189455,Cimarron National Golf Club - Aqua Canyon Course,,course,,,active,,,,,,,,,,,OK,,US,35.8743511,-97.4917574,2026-10-11T15:12:29Z
+d17ff635-ddad-4f29-8747-0aa61f4b0c86,way/1428189455,Cimarron National Golf Club - Aqua Canyon Course,,course,,,active,,,,,,https://www.cimarronnational.com/,,,,,OK,,US,35.8743511,-97.4917574,2026-11-15T17:44:47Z
 d2707aac-1f87-4a5b-8f36-7a4524206eaf,way/552190833,Owasso Golf and Athletic Club,,course,,,active,18,72,,,,,,,,,OK,,US,36.2697347,-95.8211599,2026-10-11T13:30:51Z
 d2a01772-ce1c-4233-8b67-ba0fd0db0f1b,relation/19543484,Oak Tree Country Club East Course,,course,,,active,,,,,,,,,,,OK,,US,35.7178067,-97.4883219,2026-10-11T15:12:45Z
 d3509a59-76fd-48a6-8743-5a333cf0dbd1,way/232479257,Stillwater Golf And Country Club,,course,,,active,18,70,,,+1-405-372-1100,https://thestillwatercountryclub.com/,,,5215 West Country Club Drive,Stillwater,OK,74074,US,36.1067734,-97.1274028,2026-10-11T15:12:03Z
@@ -142,8 +142,8 @@ d654548a-0589-4bc5-9b23-cafe795ad5e4,way/394742216,Five-Hole Golf Course,,course
 d71b198b-9986-44de-ab10-f559c37e5637,way/798418710,Choctaw Creek,,course,,,active,18,,,,+1 405 769 7166,https://www.choctawcreekgolf.org/,,,22000 North Hiwassee Road,Choctaw,OK,73020,US,35.489226,-97.2959825,2026-10-11T15:12:21Z
 d7eda07d-afeb-482a-8e57-07c2d3626f35,way/758834047,,,course,,,active,,,,,,,,,,,OK,,US,36.7390532,-102.4861862,2026-10-11T15:12:21Z
 d8c0cad3-3778-48e2-bbea-9be3dbeff0cf,way/279491102,Muskogee Golf Club,,course,,,active,18,71,,,,,,,2400 North Country Club Road,Muskogee,OK,74403,US,35.7793663,-95.3189184,2026-10-11T15:12:07Z
-d99ced8d-3ed8-4608-882e-afff9a4034ac,way/239023494,Cimarron National Golf Club Course,,course,,,active,,,,,,,,,,,OK,,US,35.8743033,-97.4836443,2026-10-11T15:12:03Z
-da76d845-f2e2-41ad-8a77-bcddc60111eb,way/1428185071,Dornick Hills Golf and Country Club,,course,,,active,18,70,,,,,,,,,OK,,US,34.2211105,-97.1376149,2026-10-11T15:12:29Z
+d99ced8d-3ed8-4608-882e-afff9a4034ac,way/239023494,Cimarron National Golf Club Course,,course,,,active,,,,,,https://www.cimarronnational.com/,,,,,OK,,US,35.8743033,-97.4836443,2026-11-15T17:44:49Z
+da76d845-f2e2-41ad-8a77-bcddc60111eb,way/1428185071,Dornick Hills Golf and Country Club,,course,,,active,18,70,,,,https://www.dornickhills.com/,,,,,OK,,US,34.2211105,-97.1376149,2026-11-15T17:45:23Z
 daf7a450-79c5-43b4-bf12-3652a8e14217,way/244116857,James E. Stewart Golf Course,,course,,,active,,,,,,http://okcgolf.com/stewart/,,,,,OK,,US,35.4749944,-97.4712516,2026-10-11T15:12:05Z
 de74a90a-5d8f-45cd-af7e-edd35e6e8dfe,way/296794837,South Lakes Golf Course,,course,,,active,18,,,,+1-918-746-3760,https://www.southlakesgolf.com/,,,9253 South Elwood Avenue West,Jenks,OK,74037,US,36.0282829,-95.9892308,2026-10-11T15:12:10Z
 de8d5c4b-247c-4142-84f6-bdc88acd4064,relation/15008907,,,course,,,active,,,,,,,,,,,OK,,US,36.3163593,-95.6526573,2026-10-11T15:12:43Z

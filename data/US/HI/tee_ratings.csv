@@ -1,3 +1,14 @@
 course_id,tee_key,gender,par,rating,slope
+27b2c827-29a2-4073-bfa0-479d3830ec6e,blue,,71,,
+27b2c827-29a2-4073-bfa0-479d3830ec6e,red,,71,,
+27b2c827-29a2-4073-bfa0-479d3830ec6e,white,,71,,
+27b2c827-29a2-4073-bfa0-479d3830ec6e,yellow,,71,,
+54ce13e1-75ed-4bbd-9e01-93958064ec07,championship,,72,,
+54ce13e1-75ed-4bbd-9e01-93958064ec07,ladies,,72,,
+54ce13e1-75ed-4bbd-9e01-93958064ec07,regular,,72,,
+6adc2e24-dbb2-45f1-b7ea-25f9da0170e7,blue,,71,71.6,131
+6adc2e24-dbb2-45f1-b7ea-25f9da0170e7,ladies,F,73,72.6,131
+6adc2e24-dbb2-45f1-b7ea-25f9da0170e7,silver,,71,67.5,124
+6adc2e24-dbb2-45f1-b7ea-25f9da0170e7,white,,71,70.0,128
 c6757cdc-7b41-49cf-9b5a-5afa05843544,red,,74,,
 c6757cdc-7b41-49cf-9b5a-5afa05843544,white-blue,,72,,

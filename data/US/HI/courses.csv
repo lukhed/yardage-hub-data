@@ -16,7 +16,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 2635887d-f419-4608-9578-679fe8741e92,way/192624274,,,course,,,active,9,35,,,,,,,,,HI,,US,20.8730451,-156.4837217,2026-10-11T15:12:01Z
 26caf17b-108d-402b-9207-407e7d849b8a,relation/6649241,Maui Nui Golf Club,,course,,,active,,,,,,https://www.mauinuigolfclub.com/,,,,,HI,,US,20.7481749,-156.4438255,2026-10-11T15:12:38Z
 2776632e-015c-42eb-99f3-bab3c60ec177,way/449590117,Moanalua Golf Club,,course,,,active,,,,,+1 808 839 2311,https://moanaluagolfclub.com/,,,,,HI,,US,21.3641606,-157.8968395,2026-10-11T15:06:28Z
-27b2c827-29a2-4073-bfa0-479d3830ec6e,relation/18372226,Makaha Valley Country Club,,course,,,active,18,,,,,https://makahavalleycc.com,,,,,HI,,US,21.475408,-158.1977468,2026-10-11T13:31:51Z
+27b2c827-29a2-4073-bfa0-479d3830ec6e,relation/18372226,Makaha Valley Country Club,,course,,,active,18,71,,,,https://makahavalleycc.com,https://www.makahavalleycc.com/scorecard/,,,,HI,,US,21.475408,-158.1977468,2026-11-15T05:39:49Z
 27bfdc3e-397d-4cf0-bff0-1c5c8ff5510d,way/239958047,Royal Hawaiian Golf Club,,course,,,active,18,72,,,,https://royalhawaiiangc.com/,,,770 Auloa Rd,Kailua,HI,96734,US,21.3567859,-157.7601996,2026-10-24T14:31:36Z
 28964fce-dc5e-43d1-a75d-240542beb9bc,relation/5833086,Ocean Course at Hokuala,,course,,,active,18,72,,,,,,,3351 Ho'olaulea Way,Hokuala,HI,96766,US,21.964962,-159.346434,2026-10-11T13:31:32Z
 293de8e4-ba20-4ed6-b2c1-54e28498db34,way/240893427,,,course,,,active,,,,,,,,,,,HI,,US,20.0048164,-155.8027585,2026-10-11T13:30:12Z
@@ -40,7 +40,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 4d614507-cd22-4b6a-87c3-2b81e376a179,relation/11026026,Hoakalei Country Club,,course,,,active,,,,,,https://www.hoakaleicountryclub.com/,,,,,HI,,US,21.3147699,-158.0346594,2026-10-25T01:34:19Z
 4ec4c3c5-8d32-4484-b6e5-eca9e579eac9,relation/1999222,Turtle Bay Golf,,course,,,active,18,72,,,,https://turtlebaygolf.com,,,,,HI,,US,21.7012983,-157.9893771,2026-10-11T15:12:30Z
 5187b6fe-5e2c-49d6-b0f7-966bdd8c59a2,way/240893434,,,course,,,active,,,,,,,,,,,HI,,US,20.0066854,-155.8055582,2026-10-11T15:12:05Z
-54ce13e1-75ed-4bbd-9e01-93958064ec07,way/197249827,Waikele Golf Club,,course,,,active,18,72,,,+1-808-676-9000,https://www.golfwaikele.com/,,,94-200 Paioa Place,Waipahu,HI,96797,US,21.4030594,-158.0036394,2026-10-11T15:12:03Z
+54ce13e1-75ed-4bbd-9e01-93958064ec07,way/197249827,Waikele Golf Club,,course,,,active,18,72,,,+1-808-676-9000,https://www.golfwaikele.com/,https://golfwaikele.com/course-layout-info/,,94-200 Paioa Place,Waipahu,HI,96797,US,21.4030594,-158.0036394,2026-11-15T05:39:49Z
 553dec4c-e33a-4dcc-8762-5ec7abfc9004,way/1018504340,The King Kamehameha Colf Club,,course,,,active,18,72,,,,,,,,,HI,,US,20.8394128,-156.5161266,2026-10-11T15:06:36Z
 576dce14-3977-4460-bbb5-ca5b912bbaf1,way/240893418,,,course,,,active,,,,,,,,,,,HI,,US,20.0010997,-155.8059834,2026-10-11T15:12:05Z
 57dae1bd-27c8-4a82-808e-d76dacc7e1cb,way/207216254,Kahuku Golf Course,,course,,,active,,,,,,,,,56-701 Kamehameha Highway,Kahuku,HI,96731,US,21.6793603,-157.9428974,2026-10-11T15:12:03Z
@@ -57,7 +57,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 65df4ecb-f822-499d-8457-9ee99cfcfd7e,way/216242067,Sea Mountain Golf Club,,course,,,active,,,,,,,,,,,HI,,US,19.1358921,-155.5132829,2026-10-11T15:12:03Z
 669fe4b2-9939-462d-b0b2-169803531e27,relation/7103513,Waikoloa Beach Course,,course,,,active,,,,,,https://www.waikoloabeachgolf.com/,,,,,HI,,US,19.9169682,-155.8783861,2026-10-24T14:32:06Z
 6a8e63a6-34c0-493f-bbd8-e459d89f31a2,way/192624277,,,course,,,active,,,,,,,,,,,HI,,US,20.8837962,-156.4929462,2026-10-11T15:12:01Z
-6adc2e24-dbb2-45f1-b7ea-25f9da0170e7,way/1111876005,Oʻahu Country Club,,course,,,active,,,,,+1 808 595 3186,https://www.oahucountryclub.com/club/scripts/section/section.asp?NS=HP,,,150 Country Club Road,Honolulu,HI,96817,US,21.3409677,-157.8402692,2026-10-11T15:12:24Z
+6adc2e24-dbb2-45f1-b7ea-25f9da0170e7,way/1111876005,Oʻahu Country Club,,course,,,active,18,71,,,+1 808 595 3186,https://www.oahucountryclub.com/club/scripts/section/section.asp?NS=HP,https://www.oahucountryclub.com/web/pages/golf,,150 Country Club Road,Honolulu,HI,96817,US,21.3409677,-157.8402692,2026-11-15T05:39:50Z
 70ca2a1f-f765-4362-ac72-21cf19e47879,way/299589425,,,course,,,active,,,,,,,,,,,HI,,US,20.0100906,-155.8150271,2026-10-11T15:06:23Z
 713a01b8-86d6-46d5-949e-3133e0c914ca,way/298172595,Maui Country Club Golf Course,,course,,,active,,,,,,https://mauicountryclub.org/,,,,,HI,,US,20.9102854,-156.3989221,2026-10-25T14:56:24Z
 71593e56-7e1d-42cc-9e97-1fbb7ba0dc40,way/240893420,,,course,,,active,,,,,,,,,,,HI,,US,20.0000156,-155.8075577,2026-10-11T15:12:05Z

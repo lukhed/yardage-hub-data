@@ -485,6 +485,10 @@ course_id,tee_key,gender,par,rating,slope
 538a7df5-faa0-4967-b3fe-5a1d1a12eecf,green,M,72,63.7,113
 538a7df5-faa0-4967-b3fe-5a1d1a12eecf,white,F,72,72.5,128
 538a7df5-faa0-4967-b3fe-5a1d1a12eecf,white,M,72,67.7,120
+539ac654-848f-49b6-b036-79c0eae642b6,blue,,72,,
+539ac654-848f-49b6-b036-79c0eae642b6,green,,72,,
+539ac654-848f-49b6-b036-79c0eae642b6,red,,72,,
+539ac654-848f-49b6-b036-79c0eae642b6,white,,72,,
 571fc1ec-4766-4d65-9bc4-11dc7feac0ae,black,,72,73.3,137
 571fc1ec-4766-4d65-9bc4-11dc7feac0ae,blue,,72,70.9,130
 571fc1ec-4766-4d65-9bc4-11dc7feac0ae,combo,,72,69.2,127

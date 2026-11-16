@@ -3,7 +3,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 0033221a-fe0f-4423-a59b-685d769bd9dd,way/1272188832,Emerald Crest Golf Course,,course,,,active,,,,,,,,,,,NY,,US,43.3612227,-76.285868,2026-10-11T13:31:12Z
 008f4b42-57e8-4dc2-b886-16a64a0f87b7,way/136630030,Pleasant Hill Country Club,,course,,,active,,,,,,,,,2771 Waits Road,Owego,NY,13827,US,42.0509043,-76.2549058,2026-10-11T15:12:00Z
 011b8221-c3cf-4394-a113-eec27fa00e8e,way/207993750,Atlantic Golf Club,,course,,,active,18,72,,,,https://www.atlanticgolf.org/,,,,,NY,,US,40.9501087,-72.3399989,2026-11-07T16:52:17Z
-01549510-2df3-4159-b1e3-7ed0ed76ecfc,way/32073485,Broadacres Golf Club,,course,,,active,9,35,,,,,,,,,NY,,US,41.0508302,-73.9667391,2026-10-11T15:11:51Z
+01549510-2df3-4159-b1e3-7ed0ed76ecfc,way/32073485,Broadacres Golf Club,,course,,,active,9,35,,,,https://www.broadacresgolf.com/,,,,,NY,,US,41.0508302,-73.9667391,2026-11-09T21:27:40Z
 017cf28b-7970-4303-84fa-f67adf733443,way/213748001,,,course,,,active,,,,,,,,,,,NY,,US,42.4691725,-77.1028269,2026-10-11T15:12:03Z
 019d4c09-0730-41b6-81af-c7f8e2539a01,way/136522874,Seneca Hickory Stick Golf Course,,course,,,active,18,72,,,,https://senecahickorystick.com/,,,,,NY,,US,43.1962339,-79.0228048,2026-11-05T18:47:22Z
 02219617-8398-478a-aee3-288c4aea9c2c,way/35261896,,,course,,,active,,,,,,,,,,,NY,,US,41.5240003,-74.0174123,2026-10-11T13:29:39Z
@@ -20,7 +20,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 068349e7-986d-4f6c-8763-bc2aae386cc6,way/136670202,Saratoga Lake Golf Club,,course,,,active,,,,,+1 518-581-6616,https://saratogalakegolf.com/,,,35 Grace Moore Road,Saratoga Springs,NY,12866,US,42.9844378,-73.7351289,2026-10-11T15:06:12Z
 070def63-17f5-445a-b924-0e4d8320d563,way/135980392,,,course,,,active,18,,,,,,,,,,NY,,US,43.7078119,-74.9972621,2026-10-11T15:11:57Z
 07174fab-1f04-4a54-89e2-5752bf8941b7,relation/16312913,,,course,,,active,,,,,,,,,,,NY,,US,40.7556906,-73.7144988,2026-10-11T15:12:43Z
-07b3d0ae-962a-46d0-b1e2-48886fbfedd9,way/139128994,Ausable Club Golf Course,,course,,,active,,,,,,,,,,,NY,,US,44.1511157,-73.77637,2026-10-11T15:06:12Z
+07b3d0ae-962a-46d0-b1e2-48886fbfedd9,way/139128994,Ausable Club Golf Course,,course,,,active,,,,,,https://www.ausableclub.org/,,,,,NY,,US,44.1511157,-73.77637,2026-11-09T21:26:01Z
 07baa4cf-4105-41a9-af67-2fd4f80a149f,way/136205890,Ontario Golf Club,,course,,,active,18,72,,,+1 585-495-4653,https://www.ontariocountryclub.com/,,,2101 Country Club Lane,Ontario,NY,14519,US,43.2148757,-77.2770325,2026-10-11T15:12:00Z
 07c2671a-7ade-4222-a853-6e623d8cd9ef,way/134935181,,,course,,,active,,,,,,,,,,,NY,,US,43.9601184,-75.9348281,2026-10-11T15:11:57Z
 07e901e6-8dfd-49a3-a1f2-0079bd5b63b8,way/233816934,Stone Dock Golf Course,,course,,,active,9,36,,,+1-845-687-7107,https://stonedockgolfcourse.com/,,,12 Stone Dock Road,High Falls,NY,12440,US,41.8164558,-74.1545763,2026-10-11T15:12:03Z
@@ -44,7 +44,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 0fe40894-d76a-484d-b2be-430018711f61,way/277443856,Flushing Meadows Golf Center,,par3,,,active,18,54,,,,,,,,,NY,,US,40.7514166,-73.8399993,2026-10-11T15:12:07Z
 10270f3e-835f-4446-be2a-f2cf8fa7bd3b,node/8784136199,Apple Creek Golf Course,,course,,,active,,,,,+1-315-852-6466,https://www.applecreekcc.com,,,1230 Mariposa Road,DeRuyter,NY,13052,US,42.7200122,-75.8129862,2026-10-11T13:29:32Z
 107bc400-e68f-4784-9a61-46dc4630b6c6,way/674132782,,,course,,,active,,,,,,,,,,,NY,,US,40.5959427,-73.5041222,2026-10-11T15:12:20Z
-10b9ae2c-ad5b-456a-84c1-45c32c6ac65e,way/136859550,Twin Hickory Golf Club,,course,,,active,18,72,,,,,,,,,NY,,US,42.3208556,-77.633998,2026-10-11T15:12:00Z
+10b9ae2c-ad5b-456a-84c1-45c32c6ac65e,way/136859550,Twin Hickory Golf Club,,course,,,active,18,72,,,,https://www.twinhickorygolfclub.com/,,,,,NY,,US,42.3208556,-77.633998,2026-11-10T18:42:09Z
 10fca1e6-e91e-4d3b-99a5-6d53561074ce,way/136205932,Timber Ridge Golf Club,,course,,,active,18,70,,,+1 585-637-2582,https://timberridgegolfing.com/,,,7061 West Ridge Road,Brockport,NY,14420,US,43.217327,-77.8668775,2026-10-11T15:12:00Z
 11026822-7f6c-488f-883b-1cc03b98c993,way/136382717,Lima Country Club - Charleston Pines,,course,,,active,18,72,,,+1-585-624-1490,https://www.limagolf.com,,,7470 Chase Road,Lima,NY,14485,US,42.8730165,-77.6067063,2026-10-11T15:12:00Z
 1110d690-fd6e-4860-9e97-e1181a315354,way/136101490,Timber Creek Golf Course,,course,,,active,9,,,,,,,,,,NY,,US,42.0733482,-79.4175489,2026-10-11T15:11:57Z
@@ -54,7 +54,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 11ae8854-fdad-4e3d-be6a-ddcc594ea229,way/135831177,Orchard Park Country Club,,course,,,active,18,,,,,https://orchardparkcc.clubhouseonline-e3.com/,,,,,NY,,US,42.7542009,-78.7392593,2026-11-05T18:46:56Z
 11e2a35e-1d43-4425-8a61-5ee5a3e9ad91,way/28989103,National Golf Links of America,,course,,,active,,,,,,,,,,,NY,,US,40.9063252,-72.4492451,2026-10-11T15:11:49Z
 124ad123-0234-4316-b0a5-e21bf8d7db19,way/458679629,,,practice,,,active,,,,,,,,,,,NY,,US,40.730968,-73.5704641,2026-10-11T15:12:17Z
-12a5281d-38c7-4d4f-84dd-67690179dacd,way/1441532032,Westchester Country Club,,course,,,active,18,,,,,,,,,,NY,,US,40.9989386,-73.7045611,2026-10-11T13:31:14Z
+12a5281d-38c7-4d4f-84dd-67690179dacd,way/1441532032,Westchester Country Club,,course,,,active,18,,,,,https://www.westchestercc.org/,,,,,NY,,US,40.9989386,-73.7045611,2026-11-10T18:39:31Z
 13032e2f-ebca-4899-8ab5-f804487ccef8,way/134378237,Crestwood Golf Club,,course,,,active,18,72,,,+1-315-736-0478,https://crestwoodgolf.com/,,,6315 St Rt 291,Marcy,NY,13403,US,43.162233,-75.2961503,2026-11-08T17:05:46Z
 13874f64-6728-4d1a-beae-acdefa5088e7,way/90852187,Capital Hills at Albany,,course,,,active,,,,,,,,,,,NY,,US,42.6454224,-73.8189851,2026-10-11T15:06:07Z
 149ecb1c-e550-4bac-882c-f74c993d2246,way/385782905,Laurel Links Country Club,,course,,,active,18,71,,,,https://www.laurellinkscc.com/,,,,,NY,,US,40.9702115,-72.5481966,2026-11-07T16:54:16Z
@@ -74,13 +74,13 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 1782fba2-2a46-49ac-9317-f74ea173cf44,way/139514674,Sanctuary Golf Course,,course,,,active,,,,,,,,,,,NY,,US,41.2412276,-73.7933412,2026-10-11T15:12:00Z
 17b188b4-8c90-4025-91d5-ce65e769ebea,way/134225200,Southern Meadows Golf Club,,course,,,active,9,32,,,+1 585-533-2440,https://www.southernmeadows.com/,,,1025 Rush-Scottsville Road,Rush,NY,14543,US,42.9996706,-77.6852061,2026-10-11T15:11:57Z
 17b1df92-02d3-4673-94f5-6a78f34b921a,way/833244220,Westmoreland Golf Club,,course,,,active,9,36,,,,,,,,,NY,,US,43.0851546,-75.4253221,2026-10-11T15:12:23Z
-17edab89-88c6-44f2-ad2d-e683fda5291d,way/124141461,Saranac Inn Golf and Country Club,,course,,,active,18,72,,,,,,,,,NY,,US,44.3451207,-74.3314626,2026-10-11T15:06:10Z
+17edab89-88c6-44f2-ad2d-e683fda5291d,way/124141461,Saranac Inn Golf and Country Club,,course,,,active,18,72,,,,https://www.saranacinn.com/,,,,,NY,,US,44.3451207,-74.3314626,2026-11-09T21:26:55Z
 17f18901-7bf2-4a6b-925c-201786950100,way/821487620,Tamaqua Golf Course,,course,,,active,,,,,,,,,,,NY,,US,41.3515486,-74.5324107,2026-10-11T15:12:23Z
 18024062-07fe-4d60-a69e-dca94f516720,way/139728128,,,course,,,active,,,,,,,,,,,NY,,US,43.0425427,-75.9105487,2026-10-11T15:06:12Z
 188000ff-a8ea-4e9c-bedb-12faff53c688,way/136665262,,,course,,,active,,,,,,,,,,,NY,,US,42.9973137,-75.2334357,2026-10-11T13:29:58Z
-18e1fa3e-7d85-41e3-8f68-8271817f03da,way/122853432,Saxon Woods Golf Course,,course,,,active,18,71,,,,,,,,,NY,,US,40.9839367,-73.7583748,2026-10-11T15:11:57Z
+18e1fa3e-7d85-41e3-8f68-8271817f03da,way/122853432,Saxon Woods Golf Course,,course,,,active,18,71,,,,https://www.saxonwoodsgolfshop.com/,,,,,NY,,US,40.9839367,-73.7583748,2026-11-10T18:38:59Z
 193f98a6-e36d-45d0-843a-697e9a8d23ac,way/109338620,Driving Range,,practice,,,active,,,,,,,,,,,NY,,US,42.91907,-78.6411727,2026-10-11T15:11:57Z
-19abefea-64b4-40ae-bd91-3f390eee409c,way/135919323,Mcconnellsville Golf Club,,course,,,active,18,70,,,,,,,,,NY,,US,43.2717279,-75.6891088,2026-10-11T15:11:57Z
+19abefea-64b4-40ae-bd91-3f390eee409c,way/135919323,Mcconnellsville Golf Club,,course,,,active,18,70,,,,https://www.mcconnellsvillecountryclub.com/,,,,,NY,,US,43.2717279,-75.6891088,2026-11-09T21:24:40Z
 1a50322b-b5e4-4d29-bb9d-f0fedd492edb,way/136191651,,,course,,,active,,,,,,,,,,,NY,,US,42.3509643,-77.6562446,2026-10-11T15:11:57Z
 1a5df799-a666-4176-90ae-5362c9bfe7ed,way/548723120,Woodgate Pines Pro Shop and Bar,,course,,,active,,,,,,,,,,,NY,,US,43.4889509,-75.2882566,2026-10-11T15:12:18Z
 1a9337e6-3f34-4c15-ae89-cc53abae1479,way/384598456,Hampton Hills,,course,,,active,18,72,,,,,,,,,NY,,US,40.8814051,-72.6776471,2026-10-11T15:12:14Z
@@ -89,7 +89,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 1c3b32a2-885c-4669-8417-3515b4a70e8f,way/557813589,Marine Park Golf Course,,course,,,active,18,72,,,+1-718-252-4625,https://www.golfmarinepark.com/,,,2880 Flatbush Avenue Greenway,Brooklyn,NY,11234,US,40.5974024,-73.9169645,2026-10-11T15:12:18Z
 1c560e36-ff36-443e-9463-d9bd23c471fe,way/138360679,Waccabuc Country Club,,course,,,active,,,,,+1-914-763-3144,https://www.waccabuccc.com/,,,90 Mead Street,Waccabuc,NY,10597,US,41.2890377,-73.5945926,2026-10-11T15:12:00Z
 1c957452-dcbf-454b-9900-c5a819b3a5de,way/1148717130,,,course,,,active,,,,,,,,,,,NY,,US,43.8820173,-76.3497106,2026-10-11T15:12:27Z
-1c97ec98-6a3f-4c9a-a318-2e86ac9a1dbb,way/694716515,West Hill Golf Club,,par3,,,active,18,54,,,,,,,,,NY,,US,43.0329132,-76.3362808,2026-10-11T15:06:33Z
+1c97ec98-6a3f-4c9a-a318-2e86ac9a1dbb,way/694716515,West Hill Golf Club,,par3,,,active,18,54,,,,https://www.westhillgolf.com/,,,,,NY,,US,43.0329132,-76.3362808,2026-11-10T18:43:35Z
 1cf84f57-fb7c-4116-a190-b9472178d38c,way/134683218,Inness Golf Course,,course,,,active,,,,,,https://www.rondoutgolfclub.com/,,,,,NY,,US,41.8010768,-74.2276164,2026-10-11T15:11:57Z
 1d484cf9-3b37-4465-9d82-c68afe393b7e,way/90756677,Grover Cleveland Golf Course,,course,,,active,18,69,,,+1 716 836 7398,http://www2.erie.gov/parks/index.php?q=grover-cleveland-golf-course-0,,,3781 Main Street,Amherst,NY,14226,US,42.9567681,-78.8088497,2026-10-11T15:11:55Z
 1d964d3c-6b98-4f0a-92a6-79df6446ebb3,way/136538143,Shamrock Golf & Country Club,,course,,,active,18,70,,,+1-315-336-9858,,,,6295 Airport Rd,Oriskany,NY,13424,US,43.1674961,-75.3652896,2026-10-11T15:06:12Z
@@ -109,7 +109,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 22d3f1b2-0c60-4c2c-adf0-bb0575dc6354,relation/6747457,Nassau Country Club,,course,,,active,18,,,,+1-516-676-0554,http://www.nassaucc.com/,,,30 Saint Andrews Lane,Glen Cove,NY,11542,US,40.8705871,-73.6103912,2026-10-11T15:06:49Z
 23afc310-1d52-4ea0-adcc-b3c77136b4f4,way/136539342,,,course,,,active,,,,,,,,,,,NY,,US,43.2906579,-76.2042589,2026-10-11T13:29:58Z
 24a23420-f118-4ed9-8c89-f1f15e8bbf3e,relation/1555932,East Aurora Country Club,,course,,,active,18,71,,,,https://eastauroracc.com/,,,,,NY,,US,42.7832865,-78.6104677,2026-11-05T18:45:57Z
-25123ad9-0604-40e1-af4d-052c1383b44c,way/122734637,Wykagyl Golf Club,,course,,,active,18,72,,,,,,,,,NY,,US,40.9468776,-73.7886089,2026-10-11T15:11:57Z
+25123ad9-0604-40e1-af4d-052c1383b44c,way/122734637,Wykagyl Golf Club,,course,,,active,18,72,,,,https://www.wykagylcc.org/,,,,,NY,,US,40.9468776,-73.7886089,2026-11-10T18:39:36Z
 2516a2c9-c99e-4159-9c9a-ae289e9ec70c,way/1082327213,Beaver Meadow Creek Golf Course,,course,,,active,,,,,,,,,1771 Route 78,Java Center,NY,14082,US,42.6537888,-78.3611064,2026-10-11T15:12:24Z
 25bb0911-53da-4c8e-bf2c-7a52b71b9e7a,way/248289496,,,course,,,active,,,,,,,,,,,NY,,US,44.7652413,-74.8150253,2026-10-11T13:30:12Z
 25d77b06-1895-46f5-9065-33079448c802,way/188544653,Quogue Field Club,,course,,,active,,,,,,https://www.quoguefieldclub.com/,,,6 Club Lane,Quogue,NY,11959,US,40.8167947,-72.5919031,2026-11-08T17:02:29Z
@@ -122,23 +122,23 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 27a04225-3f11-433a-9fc7-fe3b138d2754,relation/1851054,,,course,,,active,,,,,,,,,,,NY,,US,40.8873139,-73.8870725,2026-10-11T15:12:30Z
 28344c95-5953-4d6a-9b93-f0d16409a499,way/135911010,Chenango Valley State Park Golf Course,,course,,,active,,,,,,https://parks.ny.gov/golf-courses/20/details.aspx,,,,,NY,,US,42.216534,-75.8433084,2026-10-11T15:11:57Z
 28ad87ed-ca40-4c89-9d72-e53a5b8c088a,way/124473404,Galway Golf Course,,course,,,active,9,,,,,https://galwaygolfcourse.com/,,,,,NY,,US,43.0468896,-73.9942149,2026-11-06T17:56:38Z
-28b7ee83-360a-4e62-a174-dce949e51944,way/134368850,Owasco Country Club,,course,,,active,,,,,,,,,,,NY,,US,42.9070706,-76.5262055,2026-10-11T13:29:54Z
-28d3a26f-05d8-4d68-8e08-10761593dbc2,way/134795626,The Barracks Golf Course,,course,,,active,,,,,,,,,,,NY,,US,44.6539208,-73.4505516,2026-10-11T15:11:57Z
+28b7ee83-360a-4e62-a174-dce949e51944,way/134368850,Owasco Country Club,,course,,,active,,,,,,https://www.owascocountryclub.com/,,,,,NY,,US,42.9070706,-76.5262055,2026-11-10T18:42:59Z
+28d3a26f-05d8-4d68-8e08-10761593dbc2,way/134795626,The Barracks Golf Course,,course,,,active,,,,,,https://thebarracksgolfcourse.com/,,,,,NY,,US,44.6539208,-73.4505516,2026-11-09T21:27:05Z
 299ccb75-b2b0-4c77-bdec-ad18bd1c23ee,way/94255374,Glens Falls Country Club,,course,,,active,18,71,,,,https://glensfallscountryclub.com/,,,211 Round Pond Road,Queensbury,NY,12804,US,43.3501897,-73.6709082,2026-11-06T17:56:39Z
-2a277441-0485-44a1-8d91-6053d4fa3cd0,way/122734825,Lake Isle Country Club,,course,,,active,18,70,,,,,,,,,NY,,US,40.9685176,-73.8030484,2026-10-11T15:11:57Z
-2a29c7f5-7cff-4115-b293-d2019331f3c5,way/136537270,Tuscarora Golf Club,,course,,,active,,,,,,,,,,,NY,,US,43.0160478,-76.3093965,2026-10-11T15:06:12Z
-2a2f01af-2725-4a2b-b872-7f4ee1fd8fd9,way/646147976,Hollow Brook Golf Club,,course,,,active,18,71,,,,,,,1060 Oregon Road,Cortlandt Manor,NY,10567,US,41.3241369,-73.8909982,2026-10-11T15:12:20Z
+2a277441-0485-44a1-8d91-6053d4fa3cd0,way/122734825,Lake Isle Country Club,,course,,,active,18,70,,,,https://www.lakeislecountryclub.com/,,,,,NY,,US,40.9685176,-73.8030484,2026-11-09T21:28:33Z
+2a29c7f5-7cff-4115-b293-d2019331f3c5,way/136537270,Tuscarora Golf Club,,course,,,active,,,,,,https://www.tuscaroragolfclub.com/,,,,,NY,,US,43.0160478,-76.3093965,2026-11-10T18:43:07Z
+2a2f01af-2725-4a2b-b872-7f4ee1fd8fd9,way/646147976,Hollow Brook Golf Club,,course,,,active,18,71,,,,https://www.golfhollowbrook.com,,,1060 Oregon Road,Cortlandt Manor,NY,10567,US,41.3241369,-73.8909982,2026-11-09T21:28:18Z
 2a52f456-4b13-4019-93e8-c676f5d42ec7,way/298027583,Putnam County Golf Course,,course,,,active,18,71,,,+1-845-808-1880,https://www.putnamcountygc.com/,,,187 Hill Street,Mahopac,NY,10541,US,41.3904808,-73.7628358,2026-10-11T15:06:23Z
 2a738857-ffd0-46cd-a313-81b5e9da1521,relation/10121812,Mohawk Golf Club,,course,,,active,,,,,+1-518-374-9121,https://mohawkgolfclub.com/,,,1849 Union Street,Schenectady,NY,12309,US,42.8041303,-73.8868167,2026-10-11T15:12:38Z
 2a7dcd7a-a2bf-4dd6-9803-ff445facb1dd,way/136707280,Shawnee Country Club,,course,,,active,9,36,,,,https://www.shawneegc.com/,,,,,NY,,US,43.1286808,-78.8291778,2026-11-05T18:47:35Z
-2aa94f65-82ee-436c-8bab-a21361f74a74,way/134379954,Lake Placid Club Golf Courses,,course,,,active,,,,,,,,,88 Morningside Dr,Lake Placid,NY,12946,US,44.2803553,-73.9647974,2026-10-11T15:11:57Z
+2aa94f65-82ee-436c-8bab-a21361f74a74,way/134379954,Lake Placid Club Golf Courses,,course,,,active,,,,,,https://www.lakeplacidclubgolf.com/,,,88 Morningside Dr,Lake Placid,NY,12946,US,44.2803553,-73.9647974,2026-11-09T21:26:30Z
 2ae9cbf1-83c9-4321-a989-3681a37eceb2,way/1305659974,Villa Roma Golf Course,,course,,,active,18,72,,,,https://villaroma.com/,,,,,NY,,US,41.766762,-74.9779589,2026-11-07T16:51:51Z
 2b69ac55-10c8-4c9f-9069-66f8c67fbbc5,way/136538951,Casolwood Golf Course,,course,,,active,18,71,,,,https://www.casolwoodgc.com/,,,,,NY,,US,43.089658,-75.7816953,2026-11-08T17:05:37Z
 2cfc1d4b-20f5-4efd-8236-b8d9099d6572,relation/10276322,,,course,,,active,,,,,,,,,,,NY,,US,43.0272932,-74.9162965,2026-10-11T15:12:38Z
 2d48bbb8-d368-45ca-81d3-f3b371f3a9fc,way/137254750,The River Course At Louisville Landing Recreation,,course,,,active,,,,,,https://www.rivercourselouisvillelanding.com,,,829 NY 131,Massena,NY,13662,US,44.9515392,-74.9661654,2026-10-11T15:12:00Z
 2d612205-9651-4875-91f3-4b64c347da28,way/135471867,Salmon Creek Country Club,,course,,,active,18,74,,,+1 585-352-4300,https://www.salmoncreekcountryclub.com/,,,355 Washington Street,Spencerport,NY,14559,US,43.2018106,-77.8550445,2026-10-11T15:06:10Z
 2d676a47-4741-4e89-977e-da9ed5d2c3bc,way/134399650,Caledonia Country Club,,course,,,active,18,72,,,+1-585-538-9956,http://www.caledoniacc.com/,,,303 Park Place,Caledonia,NY,14423,US,42.9715195,-77.8377509,2026-10-11T15:11:57Z
-2dd2f5ea-449d-4d35-af13-05060d926d23,way/49178716,West Sayville Golf Course,,course,,,active,18,71,,,,,,,,,NY,,US,40.725953,-73.1002433,2026-10-11T15:11:53Z
+2dd2f5ea-449d-4d35-af13-05060d926d23,way/49178716,West Sayville Golf Course,,course,,,active,18,71,,,,https://westsayvillegolf.com/,,,,,NY,,US,40.725953,-73.1002433,2026-11-09T21:24:36Z
 2e226232-1f8b-4692-a225-2cec7664db7c,way/134402125,18 Mile Creek Golf Course,,course,,,active,18,70,,,,,,,,,NY,,US,42.7106288,-78.8104775,2026-10-11T15:11:57Z
 2e695341-86b9-4281-8835-9a812352e2f0,way/134408796,,,course,,,active,,,,,,,,,,,NY,,US,42.531583,-76.670664,2026-10-11T15:11:57Z
 2ef3edd1-e340-4ea2-bb84-601f554ceb80,way/49714012,Middle Island Country Club,,course,,,active,,,,,,http://www.middleislandcc.com/,,,,,NY,,US,40.8607736,-72.9258553,2026-11-08T17:01:05Z
@@ -200,7 +200,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 3d259abc-1a34-4b91-ad3b-a0c2692782d3,way/134231347,Monroe Golf Club,,course,,,active,18,70,,,,https://www.monroegolfclub.com/,,,155 Golf Avenue,Pittsford,NY,14534,US,43.0933479,-77.4920964,2026-10-11T15:11:57Z
 3e06e5c4-7eec-45e8-a054-0fa85db73bfb,way/1127576825,Willowbrook Golf Club,,course,,,active,,,,,+1-607-756-7382,https://willowbrookcortland.com/,,,3267 NYS Route 215,Cortland,NY,13045,US,42.5619454,-76.1935281,2026-10-11T15:12:24Z
 3e1310e7-2536-40a9-8da9-ab5141ad7fe0,way/89579393,Ravenwood Golf Club,,course,,,active,18,72,,,+1 585-924-5100,https://www.ravenwoodgolf.com/,,,929 Lynaugh Road,Victor,NY,14564,US,42.9914986,-77.392587,2026-10-11T15:11:55Z
-3e900b19-6380-476a-bc3f-088bed6ae7da,way/169511701,Hanah Country Club,,course,,,active,18,72,,,,,,,,,NY,,US,42.1725072,-74.6104274,2026-10-11T15:06:14Z
+3e900b19-6380-476a-bc3f-088bed6ae7da,way/169511701,Hanah Country Club,,course,,,active,18,72,,,,https://www.hanahcountryresort.com/,,,,,NY,,US,42.1725072,-74.6104274,2026-11-10T18:40:45Z
 3ec1b6af-422e-4289-a6c4-81aeebf87c9e,way/136538149,Camroden Golf Course,,course,,,active,9,36,,,,,,,,,NY,,US,43.2592127,-75.3618204,2026-10-11T13:29:58Z
 3f285e77-0500-4c1c-8e08-4b413b9f57a5,way/135252911,Malone Golf Club (East Course),,course,,,active,,,,,+1-518-483-2926,https://www.malonegolfclub.com/,,,79 Golf Course Road,Malone,NY,12953,US,44.8205456,-74.2757985,2026-10-11T15:06:10Z
 3f4535b2-2718-48fb-a043-232d6bc1fd8c,way/136205895,The Links at Greystone,,course,,,active,18,72,,,+1 315-524-0022,https://www.greystonelinks.com/,,,1400 Atlantic Avenue,Walworth,NY,14568,US,43.1584343,-77.3096123,2026-10-11T15:06:12Z
@@ -210,7 +210,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 401e23f9-3249-41d7-b8d7-a1544142ee24,way/30471649,,,course,,,active,9,,,,,,,,,,NY,,US,40.6270558,-73.6647278,2026-10-11T15:11:49Z
 40202794-1d67-43c5-b0eb-7a1afccb35f9,way/135706095,,,course,,,active,,,,,,,,,,,NY,,US,42.184384,-76.3142004,2026-10-11T15:06:10Z
 41ba98d1-83e0-47e6-b27a-499afc4d1cb6,way/213743599,,,course,,,active,,,,,,,,,,,NY,,US,42.6885248,-76.4115019,2026-10-11T15:12:03Z
-41d8e2f2-3f41-4993-a1f4-954c3c895239,way/134231344,Mendon Golf Club,,course,,,active,18,72,,,+1 585-624-3770,,,,226 Mendon-Ionia Rd,Mendon,NY,14506,US,42.9849296,-77.5082956,2026-10-11T15:11:57Z
+41d8e2f2-3f41-4993-a1f4-954c3c895239,way/134231344,Mendon Golf Club,,course,,,active,18,72,,,+1 585-624-3770,https://www.mendongolfclub.com/,,,226 Mendon-Ionia Rd,Mendon,NY,14506,US,42.9849296,-77.5082956,2026-11-10T18:39:57Z
 42e1b9d2-dca6-41c0-99ff-f09f46cf326f,way/139557246,Sunset Ridge Golf Club,,course,,,active,,,,,+1-315-707-4503,https://www.sunsetridgegolfclub.com/,,,2814 West Seneca Turnpike,Marcellus,NY,13108,US,42.977271,-76.3121457,2026-10-11T15:12:00Z
 43061a73-ab48-45cd-9d33-4701b06da2cd,way/136707722,Amherst Audubon Golf Course,,course,,,active,18,71,,,+1 716-631-7139,https://www.audubonamherstgolf.com/,,,,,NY,,US,42.9956263,-78.7688844,2026-10-11T15:12:00Z
 436a033e-0ced-41b6-b90b-8175dd04e574,way/549702236,Blueberry Mountain Golf Driving Range,,practice,,,active,,,,,,,,,,,NY,,US,41.4769589,-74.4142443,2026-10-11T15:12:18Z
@@ -220,7 +220,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 44979368-5856-4a05-b0f3-f71b284719ae,way/136101486,Sugar Hill Golf Course,,course,,,active,,,,,,https://sugarhillgolfcourse.webs.com/,,,,,NY,,US,42.3758534,-79.5200358,2026-10-11T15:06:10Z
 44de1f4f-e17f-4dfb-b076-a081c60434b7,way/1122042917,Conesus Golf Club,,course,,,active,18,71,,,+1-585-346-2100,https://conesusgolfclub.com/,,,,Conesus,NY,,US,42.7227903,-77.6811159,2026-10-11T15:12:24Z
 454212c2-8db0-409f-ba7a-b02ea47d1f01,way/982310331,Pleasant Knolls,,course,,,active,9,36,,,,,,,,,NY,,US,43.0976724,-75.5709138,2026-10-11T15:12:24Z
-4545bd11-51fb-43d8-8fb8-8f85380820da,relation/13105913,Port Bay Golf Course,,course,,,active,18,72,,,,,,,,,NY,,US,43.2694894,-76.8157008,2026-10-11T15:12:41Z
+4545bd11-51fb-43d8-8fb8-8f85380820da,relation/13105913,Port Bay Golf Course,,course,,,active,18,72,,,,https://portbaygc.com/,,,,,NY,,US,43.2694894,-76.8157008,2026-11-10T18:40:04Z
 45764902-e11d-4db4-8c89-a77a9ca9e4c8,way/136526422,Crag Burn Golf Club,,course,,,active,18,72,,,,https://www.cragburn.com/,,,,,NY,,US,42.7888669,-78.6682527,2026-11-05T18:45:36Z
 45a6b2aa-e573-4f19-99d0-f9ec58dabf00,way/850668604,Victor Hills - Executive Course,,course,,,active,,,,,+1-585-924-3480,https://victorhills.com/,,,1450 Brace Road,Victor,NY,14564,US,42.9631436,-77.3950469,2026-10-11T15:12:23Z
 45d14e95-2f09-47ab-ba2a-b50214698148,way/136538958,,,course,,,active,,,,,,,,,,,NY,,US,43.2855969,-76.0762055,2026-10-11T15:12:00Z
@@ -232,7 +232,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 46e4ba13-040c-4724-9973-2499e8ae2ffe,way/134370022,Onondaga Country Club,,course,,,active,,,,,,,,,,,NY,,US,43.0336138,-76.0377561,2026-10-11T13:29:54Z
 46f8c602-620f-4bb2-b97d-09c29d801aba,way/122737511,Westchester Hills Golf Club,,course,,,active,,,,,+1-914-948-5020,https://www.westchesterhills.org/,,,401 Ridgeway Road,White Plains,NY,10605,US,41.0075571,-73.739178,2026-10-11T15:11:57Z
 4787fda5-44ee-48c2-8bb1-99e9fd9ca1d6,way/170525806,Western Turnpike Golf Course,,course,,,active,,,,,+1-518-456-1803,https://www.westernturnpike.com/,,,2350 Western Avenue,Guilderland,NY,12084,US,42.699758,-73.9235888,2026-10-11T15:12:01Z
-47b6fb0c-d421-438d-b9cb-eaf28eb40b70,way/134812961,Watkins Glen Golf Club,,course,,,active,9,36,,,,,,,,,NY,,US,42.3962149,-76.8934435,2026-10-11T15:06:10Z
+47b6fb0c-d421-438d-b9cb-eaf28eb40b70,way/134812961,Watkins Glen Golf Club,,course,,,active,9,36,,,,https://www.watkinsglengolfcourse.com/,,,,,NY,,US,42.3962149,-76.8934435,2026-11-10T18:42:13Z
 48b20723-4054-4113-a71d-fa863d92c4db,way/138658748,Dogwood Knolls Golf Course,,course,,,active,,,,,+1-845-226-7317,http://www.dogwoodknollsgolfcourse.net/,,,722 Route 376,Hopewell Junction,NY,12533,US,41.5997047,-73.8146725,2026-10-11T15:06:12Z
 48baaacf-3ae3-4054-88fd-593424dd6320,way/199103470,Dyker Beach Golf Course,,course,,,active,18,71,,,+1-718-836-9722,https://www.dykerbeachgc.com/,,,,Brooklyn,NY,11228,US,40.6125827,-74.0191928,2026-10-11T15:12:03Z
 48dee2f8-fe8b-41ab-874c-8d772b2f82fa,way/506145353,Raymondville Golf and Country Club,,course,,,active,,,,,,,,,,,NY,,US,44.8505727,-74.972961,2026-10-11T15:12:18Z
@@ -286,7 +286,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 5620f312-40e2-42a6-b8f0-e5ab71b6d922,way/135703305,Binghamton Country Club,,course,,,active,18,71,,,+1-607-797-5828,https://www.binghamtoncountryclub.com/,,,1401 Robinson Hill Road,Endwell,NY,13760,US,42.1239736,-76.0059031,2026-10-11T15:11:57Z
 564aa348-0325-402c-b1da-c45318ceb03d,way/137055319,,,course,,,active,,,,,,,,,,,NY,,US,43.5374141,-76.2038305,2026-10-11T15:12:00Z
 568d8884-8a6f-4f18-9a07-5cbadded74c5,way/798458738,Holland Meadows,,course,,,active,18,,,,,https://www.hollandmeadowsgolfcourse.com/,,,,,NY,,US,43.045749,-74.2424865,2026-11-06T17:56:47Z
-56d31994-e7a2-4e8d-ae65-00fc389bc88f,way/126583095,Corning Country Club,,course,,,active,18,70,,,,,,,,,NY,,US,42.1235844,-77.0117305,2026-10-11T15:11:57Z
+56d31994-e7a2-4e8d-ae65-00fc389bc88f,way/126583095,Corning Country Club,,course,,,active,18,70,,,,https://www.corningcountryclub.com/,,,,,NY,,US,42.1235844,-77.0117305,2026-11-10T18:40:24Z
 5703f4e3-b01a-4313-8ab0-c782681db8bc,relation/10226541,,,course,,,active,,,,,,,,,,,NY,,US,40.8248929,-73.301019,2026-10-11T15:12:38Z
 576bab07-2734-4886-b9a3-876257a0e6ab,way/29270704,Baiting Hallow Golf Club,,course,,,active,18,72,,,,,,,,,NY,,US,40.9621494,-72.7433074,2026-10-11T15:11:49Z
 58a074f8-1134-4a49-821a-b037cf26494e,relation/14355558,Fox Fire,,course,,,active,,,,,,https://foxfire247.com/,,,,,NY,,US,43.1305092,-76.3107612,2026-10-11T15:12:41Z
@@ -308,11 +308,11 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 5d12a105-2c87-4b3d-ad1d-88e630ca34a5,way/599416777,Southampton Golf Course,,course,,,active,,,,,,https://www.southamptongolfclub.org/,,,,,NY,,US,40.8963895,-72.4261231,2026-11-08T17:03:12Z
 5d4f5b48-036b-4588-bd54-d82a50af7b1e,way/1226023377,Island Green Resort & Golf Club,,course,,,active,18,,,,+1-518-966-5343,https://www.theislandgreen.com/,,,3822 County Rte 26,Greenville,NY,12083,US,42.41869,-74.002,2026-10-11T15:12:27Z
 5d520640-e715-4216-9ffb-66ce87e226c3,way/139728116,First Tee Syracuse Golf Complex at Butternut Creek,,course,,,active,,,,,+1-315-991-8567,http://firstteegolfatbutternutcreek.org/,,,5050 Jamesville Road,,NY,,US,43.0157456,-76.0697476,2026-10-11T15:12:00Z
-5d66dde8-dd78-4645-adc6-9ad7ac7f6a97,way/135703302,Endwell Greens,,course,,,active,,,,,,,,,,,NY,,US,42.1473949,-76.0158979,2026-10-11T15:11:57Z
-5dccbab4-737c-40a8-bbb3-b7c845de62f1,way/122734824,Leewood Golf Club,,course,,,active,,,,,,,,,,,NY,,US,40.9699524,-73.8124719,2026-10-11T13:29:54Z
-5e03a054-20e8-4715-a4fd-a696975ba862,way/138889948,Hancock Golf & Country Club,,course,,,active,9,,,,,,,,545 Golf Course Road Extension,Hancock,NY,13783,US,41.9633362,-75.2869273,2026-10-11T15:12:00Z
+5d66dde8-dd78-4645-adc6-9ad7ac7f6a97,way/135703302,Endwell Greens,,course,,,active,,,,,,https://endwellgreens.com/,,,,,NY,,US,42.1473949,-76.0158979,2026-11-10T18:40:33Z
+5dccbab4-737c-40a8-bbb3-b7c845de62f1,way/122734824,Leewood Golf Club,,course,,,active,,,,,,https://www.leewoodgolfclub.org/,,,,,NY,,US,40.9699524,-73.8124719,2026-11-09T21:28:37Z
+5e03a054-20e8-4715-a4fd-a696975ba862,way/138889948,Hancock Golf & Country Club,,course,,,active,9,,,,,https://hancockgolfandcountryclub.com/,,,545 Golf Course Road Extension,Hancock,NY,13783,US,41.9633362,-75.2869273,2026-11-10T18:40:47Z
 5e05ce35-c7a5-4e7c-b2fe-94088550fc8f,way/134374499,Drumlins Country Club,,course,,,active,18,,,,,https://drumlins.syracuse.edu,,,,,NY,,US,43.0159513,-76.1047933,2026-10-11T15:11:57Z
-5e151ac8-0579-483b-a673-aaeaf9f598a7,way/722228002,Silver Creek Golf Club,,course,,,active,,,,,,,,,,,NY,,US,42.8953603,-76.8458179,2026-10-11T15:12:21Z
+5e151ac8-0579-483b-a673-aaeaf9f598a7,way/722228002,Silver Creek Golf Club,,course,,,active,,,,,,https://www.silvercreekgc.com/,,,,,NY,,US,42.8953603,-76.8458179,2026-11-10T18:40:09Z
 5e61ec59-6aaa-4634-afdb-d6900835d3d3,way/904808831,Gothic Hill Golf Course,,par3,,,active,9,27,,,,https://www.gothichillgolf.com/,,,5477 Niagara Street Ext,Lockport,NY,14094,US,43.1841384,-78.7421758,2026-11-05T18:46:10Z
 5eb2a54f-0096-43a3-86be-c3b685155daa,way/94895734,Glen Oaks Club,,course,,,active,,,,,,https://www.glenoaksclub.org/,,,,,NY,,US,40.7926718,-73.5812571,2026-11-07T16:53:35Z
 5eb652c9-d397-4967-bfa8-19b03e01af1b,way/32073565,Rockland Lake Championship Golf Course,,course,,,active,18,71,,,,,,,,,NY,,US,41.154535,-73.9218711,2026-10-11T13:29:39Z
@@ -330,7 +330,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 6545662b-c85a-427f-97e3-9016495dc9c7,way/196723901,,,course,,,active,,,,,,,,,,,NY,,US,40.9538379,-72.6841524,2026-10-11T15:12:01Z
 65580fb0-051b-4e2d-a306-1cd1984826a4,way/30802904,Fishkill Golf Course,,course,,,active,,,,,,,,,,,NY,,US,41.5193563,-73.8965336,2026-10-11T15:11:49Z
 657ce929-6a77-4f92-a9a4-3e2410f81592,way/138982109,Pole Valley Golf Course,,course,,,active,,,,,,,,,,,NY,,US,43.3533852,-73.4320769,2026-10-11T15:12:00Z
-6580a867-1da6-46d9-b54e-e8c1c325eac0,relation/15441910,Harmony Golf Club & Community,,course,,,active,,,,,,,,,,,NY,,US,44.5266251,-73.415816,2026-10-11T15:06:53Z
+6580a867-1da6-46d9-b54e-e8c1c325eac0,relation/15441910,Harmony Golf Club & Community,,course,,,active,,,,,,https://harmonygolfclubandcommunity.com/,,,,,NY,,US,44.5266251,-73.415816,2026-11-09T21:26:19Z
 65eb8a0b-9a99-4bdd-967d-6470ff78adad,way/1093467163,Majestic Hills Golf Course,,course,,,active,9,36,,,,https://www.facebook.com/majestichillshgc/,,,3275 Shay Road,Naples,NY,14512,US,42.6518645,-77.2960783,2026-10-11T15:12:24Z
 66571179-186f-423b-a12d-6b08576bfeef,way/31992247,The Woodside Club,,course,,,active,,,,,,https://www.woodsideclub.com/,,,,,NY,,US,40.822621,-73.5123713,2026-10-11T15:11:51Z
 66896c8b-187a-405e-ad85-5c4cbe76e713,way/94895737,Brookville Country Club,,course,,,active,18,71,,,,https://brookvillecc.com/,,,,,NY,,US,40.843396,-73.5916836,2026-11-07T16:52:41Z
@@ -338,12 +338,12 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 675fe254-8c90-4daf-9b70-b481811e949d,way/137271006,,,course,,,active,,,,,,,,,,,NY,,US,44.5213726,-75.7033051,2026-10-11T15:12:00Z
 6772026d-bb69-4060-900b-c20276a49393,way/189760646,The Muttontown Club,,course,,,active,18,,,,,https://www.themuttontownclub.com/,,,,,NY,,US,40.8408865,-73.5551399,2026-11-08T17:04:17Z
 67bd26a2-ec49-4d63-a619-ba9b03d384cc,way/136667694,Rolling Hills Country Club,,course,,,active,,,,,,,,,2258 State Highway 5,Fort Johnson,NY,12070,US,42.9617066,-74.2647501,2026-10-11T15:12:00Z
-681b5ff7-c282-4651-991e-3f19bac4b474,way/134370837,Westvale Golf Club,,course,,,active,18,67,,,+1 315-487-0130,,,,100 Golfview Drive,Camillus,NY,13031,US,43.033485,-76.2655281,2026-10-11T15:11:57Z
+681b5ff7-c282-4651-991e-3f19bac4b474,way/134370837,Westvale Golf Club,,course,,,active,18,67,,,+1 315-487-0130,https://www.westvalegolfcourse.com/,,,100 Golfview Drive,Camillus,NY,13031,US,43.033485,-76.2655281,2026-11-11T18:38:16Z
 686a5e64-c913-4f5b-8714-9b588ebb84a3,way/689056680,Shinnecock Hills Golf Club,,course,,,active,,,,,+1-631-283-3525,https://www.shinnecockhillsgolfclub.org/,,,200 Tuckahoe Road,Southampton,NY,11968,US,40.8967665,-72.4398011,2026-10-11T15:06:33Z
 68b1fddc-3b9d-4ee4-beb8-5cb4f78e6ef8,way/137352991,,,course,,,active,,,,,,,,,,,NY,,US,40.8873139,-73.8835202,2026-10-11T15:12:00Z
-69a0890a-c2d7-4381-b536-3caceda36167,relation/1278702,Pelham Country Club,,course,,,active,18,71,,,,,,,,,NY,,US,40.894428,-73.7963126,2026-10-11T15:12:30Z
+69a0890a-c2d7-4381-b536-3caceda36167,relation/1278702,Pelham Country Club,,course,,,active,18,71,,,,https://pelhamcc.com/,,,,,NY,,US,40.894428,-73.7963126,2026-11-09T21:29:09Z
 6a061340-c777-4067-9d5e-53394524f76b,way/1308015841,Southern Dutchess Country Club,,course,,,active,,,,,+1 845-831-1774,https://www.southerndutchesscc.com,,,1209 North Avenue,Beacon,NY,12508,US,41.5148449,-73.9769982,2026-10-11T15:12:29Z
-6a0f751b-8eb6-4543-9084-fc066cb43058,way/122888214,Hampshire Country Club,,course,,,active,,,,,,,,,,,NY,,US,40.9356224,-73.7395587,2026-10-11T15:11:57Z
+6a0f751b-8eb6-4543-9084-fc066cb43058,way/122888214,Hampshire Country Club,,course,,,active,,,,,,https://www.hampshireclub.com/,,,,,NY,,US,40.9356224,-73.7395587,2026-11-09T21:28:07Z
 6a22368a-66e4-4303-a14a-af608f797fd0,way/135471871,Arrowhead Golf Course & Marina,,course,,,active,18,67,,,+1 585-684-4653,https://www.golfatarrowhead.com/,,,655 Gallup Road,Spencerport,NY,14559,US,43.2022304,-77.8832938,2026-10-11T15:11:57Z
 6a88bf30-0ef7-4b53-9910-c4be76ac2910,way/139557149,Tanner Valley Golf Course,,course,,,active,,,,,,,,,4040 Tanner Road,,NY,,US,42.9395631,-76.2403034,2026-10-11T15:12:00Z
 6ad261c3-84c0-4027-9ba9-4b2b827bc346,way/136015402,Town of Schroon Lake Golf Club,,course,,,active,,,,,,,,,,,NY,,US,43.8332221,-73.776374,2026-10-11T15:11:57Z
@@ -353,7 +353,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 6b150f25-b20f-4d66-87b7-91f31088237e,way/309763117,Aviator Golf Center,,practice,,,active,,,,,,,,,,,NY,,US,40.5901649,-73.9033326,2026-10-11T15:12:12Z
 6b35ad19-a899-45a0-ac1c-e97bc78d1f41,way/136101493,Tri-County Country Club,,course,,,active,,,,,,https://www.tricountycountryclub.com/,,,,,NY,,US,42.4616324,-79.1034083,2026-10-11T15:11:57Z
 6b4f640f-1390-4736-9246-90d7f53b6b88,way/133756464,Winding Creek Golf Course,,course,,,active,9,30,,,,https://www.victorny.org/AboutVictor/ThingsToDo/Recreation_Golf/WindingCreek/,,,,Victor,NY,,US,42.9861325,-77.3810094,2026-10-11T15:11:57Z
-6ba517b7-a95a-44cc-acf7-20200cface4d,way/786897140,Sleepy Hollow Country Club,,course,,,active,18,70,,,,,,,,,NY,,US,41.1259665,-73.8534142,2026-10-11T15:06:33Z
+6ba517b7-a95a-44cc-acf7-20200cface4d,way/786897140,Sleepy Hollow Country Club,,course,,,active,18,70,,,,https://sleepyhollowcc.org/,,,,,NY,,US,41.1259665,-73.8534142,2026-11-10T18:39:07Z
 6c21628f-c5ed-4db8-b8a3-9f0d5151861e,way/138205453,,,course,,,active,,,,,,,,,,,NY,,US,41.0521909,-73.7155769,2026-10-11T15:12:00Z
 6caa23d1-63a0-4ce8-9d4f-be04a7b57711,way/504571709,Beaver Creek Golf Course,,course,,,active,,,,,,https://beavercreekrome.wordpress.com/,,,,,NY,,US,42.9108687,-75.3638986,2026-11-08T17:05:15Z
 6d3ed8d7-1b0c-4c9c-b7a0-10498e34341a,way/1184036633,,,course,,,active,,,,,,,,,,,NY,,US,43.0546895,-78.4847314,2026-10-11T15:12:27Z
@@ -375,12 +375,12 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 73519153-c202-4369-b413-06987130c896,way/136665277,,,course,,,active,,,,,,,,,,,NY,,US,43.0303901,-75.2081455,2026-10-11T15:12:00Z
 74d18f3e-70ac-4a7b-aa1a-aa4e511ad5af,way/69810385,Stone Hedges Golf,,course,,,active,,,,,,,,,,,NY,,US,42.5598686,-76.336175,2026-10-11T13:29:49Z
 7510aee1-149b-4c7c-afe5-78c9087c9290,way/136438874,Winged Pheasant / The Pheasant & Liberator Courses,,course,,,active,18,70,,,+1-585-289-8846,http://www.wingedpheasant.com/,,,1475 Sand Hill Road,Shortsville,NY,14548,US,42.9611855,-77.2580649,2026-10-11T15:12:00Z
-75139a99-4ae0-4d13-9592-ec93831584db,way/231528197,Oak Hill Country Club (West Course),,course,,,active,,,,,+1 585-586-1660,,,,145 Kilbourn Road,Rochester,NY,14618,US,43.1102178,-77.5392891,2026-10-11T15:12:03Z
+75139a99-4ae0-4d13-9592-ec93831584db,way/231528197,Oak Hill Country Club (West Course),,course,,,active,,,,,+1 585-586-1660,https://oakhillcc.com/,,,145 Kilbourn Road,Rochester,NY,14618,US,43.1102178,-77.5392891,2026-11-10T18:40:03Z
 752c20fc-a37a-4a98-aec8-cde63e3c9e16,way/31191487,Dutchess Golf Club,,course,,,active,,,,,,,,,,,NY,,US,41.6666927,-73.9224562,2026-10-11T15:11:49Z
 7608ea9f-878c-4b28-bca1-0d7da1de6f1c,way/136437672,Parkview Fairways,,course,,,active,18,72,,,+1-585-657-7539,https://parkviewgc.com/,,,7100 Boughton Road,Victor,NY,14564,US,42.9335221,-77.4250287,2026-10-11T15:06:12Z
 7617c85d-7b62-4c28-ada7-419502d24c0b,way/1270606835,Lancaster Country Club,,course,,,active,18,72,,,+1-716-684-3700,https://www.lccny.com/,,,6061 Broadway Street,Lancaster,NY,14086,US,42.88952,-78.625006,2026-10-11T15:12:28Z
 76f5d75e-feb6-4ce8-8531-762844d8dbf7,way/1036171148,Sunnyside Par 3 Golf Course,,par3,,,active,9,27,,,,,,,170 Sunnyside Road,Queensbury,NY,12804,US,43.3736497,-73.6333902,2026-10-11T15:12:24Z
-7775afe2-0f65-4094-a122-f2238532ebcf,way/32073479,Rockland Country Club,,course,,,active,,,,,,,,,,,NY,,US,41.023037,-73.9225277,2026-10-11T15:11:51Z
+7775afe2-0f65-4094-a122-f2238532ebcf,way/32073479,Rockland Country Club,,course,,,active,,,,,,https://www.rocklandcountryclub.org/,,,,,NY,,US,41.023037,-73.9225277,2026-11-09T21:29:22Z
 78381336-58f1-4217-a731-17d835709a21,way/136629922,,,course,,,active,,,,,,,,,,,NY,,US,42.0133913,-76.5588826,2026-10-11T15:12:00Z
 78744871-1279-4a0b-89a2-9a22961c7499,way/142514393,Fox Run Golf Club,,course,,,active,,,,,,https://www.foxrungolf.club/,,,,,NY,,US,42.9968496,-74.3226433,2026-11-06T17:56:30Z
 7876e0a6-acfd-4212-9a10-6fb9087452b8,way/59677410,Phillip J. Rotella Memorial Golf Course,,course,,,active,18,72,,,,,,,,,NY,,US,41.204516,-74.0281352,2026-10-11T15:11:55Z
@@ -393,7 +393,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 7a38b74f-8751-497b-bc7d-b0bdb690279a,node/4015842782,,,course,,,active,,,,,,,,,,,NY,,US,41.3851562,-73.916801,2026-10-11T13:29:32Z
 7bc09d75-b1e6-4076-9258-834d0e60f1b8,way/136094765,Cassadaga Lakes Golf Club,,course,,,active,,,,,,,,,,,NY,,US,42.3411708,-79.3297277,2026-10-11T15:11:57Z
 7bd08446-1ba2-47a8-9a44-6409d76ec492,way/134801722,Livingston Country Club,,course,,,active,18,72,,,,https://www.livingstoncc.com/,,,4436 Lakeville Road,Geneseo,NY,14454,US,42.8016129,-77.7746136,2026-10-11T15:11:57Z
-7bfb7b23-9db9-4eb0-9ba0-22bc8f535761,way/122734578,Quaker Ridge Golf Club,,course,,,active,,,,,,,,,,,NY,,US,40.9691452,-73.7625363,2026-10-11T13:29:54Z
+7bfb7b23-9db9-4eb0-9ba0-22bc8f535761,way/122734578,Quaker Ridge Golf Club,,course,,,active,,,,,,https://quakerridgegc.org/,,,,,NY,,US,40.9691452,-73.7625363,2026-11-09T21:29:14Z
 7c3bbff5-adf2-439b-95b9-e1ac1526bcc3,way/137269063,Lakeside Country Club,,course,,,active,18,,,,+1-315-536-7252,https://www.lccpy.com/,,,145 Route 54 East Lake Rd,Penn Yan,NY,14527,US,42.6354371,-77.0620741,2026-10-11T15:06:12Z
 7c5d0920-ff39-4442-8279-7336b6a5a17f,way/136621783,Soaring Eagles Golf Course,,course,,,active,18,,,,,,,,,,NY,,US,42.2071478,-76.8315417,2026-10-11T15:12:00Z
 7c6e52e3-5ca6-453c-b2be-c072928292e2,way/60780383,Cherry Valley Golf Course,,course,,,active,18,72,,,,https://www.cherryvalleyclub.com/,,,28 Rockaway Avenue,Garden City,NY,11530,US,40.7176795,-73.6483096,2026-10-11T13:29:49Z
@@ -403,7 +403,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 7d4f8c01-47bc-4f24-9fe0-09e248696fe7,way/610334367,Hales Mills Country Club,,course,,,active,,,,,,http://www.halesmillscountryclub.com/,,,,,NY,,US,43.0172308,-74.3196831,2026-11-06T17:56:44Z
 7e8538fc-9b1c-4b5b-b8d4-22e66a47a125,way/25163218,Clearview Park,,course,,,active,18,,,,,,,,,,NY,,US,40.7822022,-73.7885755,2026-10-11T15:11:49Z
 7e9c3329-52e9-48f3-a55f-0379064c4ead,way/93788342,River Oaks Golf Club,,course,,,active,18,71,,,,,,,,,NY,,US,43.0279552,-78.9084619,2026-10-11T15:06:07Z
-7ec0da20-9467-4cf9-85e4-7cdcc1f063de,way/135258507,Timber Banks Country Club,,course,,,active,,,,,,,,,,,NY,,US,43.1634881,-76.2642726,2026-10-11T15:11:57Z
+7ec0da20-9467-4cf9-85e4-7cdcc1f063de,way/135258507,Timber Banks Country Club,,course,,,active,,,,,,https://www.timberbanks.com/,,,,,NY,,US,43.1634881,-76.2642726,2026-11-10T18:43:06Z
 7f19ec12-b5e8-4e12-9198-eb1dd4531387,way/138756636,McCann Golf Course,,course,,,active,,,,,,https://www.mccanngolfcourse.com/,,,155 Wilbur Boulevard,Poughkeepsie,NY,12603,US,41.6673239,-73.9129697,2026-10-11T15:12:00Z
 7f76db71-847e-4e8e-bd00-303c0d4145b6,relation/976095,Bally's Golf Links at Ferry Point,,course,,,active,18,71,,,,https://casinos.ballys.com/golf-links-ferry-point/,,,500 Hutchinson River Parkway,Bronx,NY,10465,US,40.814841,-73.8296959,2026-10-11T15:06:41Z
 7feec52a-5eca-4aa8-a562-dc6db2b2ef08,way/137720824,Cedar River Golf Club,,course,,,active,9,36,,,,https://cedarrivergolf.com/,,,6689 State Highway 30,Indian Lake,NY,12842,US,43.7838357,-74.2978877,2026-10-11T15:12:00Z
@@ -415,7 +415,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 81c9c390-ede4-446a-93f4-ba7f682c1c07,way/449084719,Noyac Golf Club,,course,,,active,18,72,,,,https://www.noyacgolfclub.com/,,,51 Wildwood Road,Sag Harbor,NY,,US,40.9812392,-72.3640921,2026-11-08T17:01:45Z
 8215c966-f29a-4de4-a452-8b9683950ad3,way/631800362,,,course,,,active,,,,,,,,,,,NY,,US,40.7654335,-73.7491195,2026-10-11T13:30:54Z
 833eba8b-0e0a-4ef7-9ad6-fd5db623e7aa,way/316002774,Vestal Hills Country Club,,course,,,active,,,,,+1-607-723-7579,http://www.vestalhillscountryclub.com/,,,,Binghamton,NY,13903,US,42.0500875,-75.9421127,2026-10-11T15:06:24Z
-836a8dc3-95a4-4a9b-be3d-c2b66385fb51,way/579643103,Bedford Creek Golf Course,,course,,,active,,,,,,,,,12870 State Highway 3,Sackets Harbor,NY,,US,43.9158642,-76.1143415,2026-10-11T15:12:20Z
+836a8dc3-95a4-4a9b-be3d-c2b66385fb51,way/579643103,Bedford Creek Golf Course,,course,,,active,,,,,,https://www.bedfordcreekgolf.com/,,,12870 State Highway 3,Sackets Harbor,NY,,US,43.9158642,-76.1143415,2026-11-09T21:26:02Z
 837e5002-7545-4e86-8724-2c16884f83d9,way/69701152,Lido Golf Club,,course,,,active,18,72,,,,https://lidogolfclub.com/,,,,,NY,,US,40.5915483,-73.623289,2026-11-08T17:00:49Z
 84129885-0756-4b72-9b6b-4ddd790ab40d,way/137703594,Queensbury Country Club,,course,,,active,18,70,,,,https://www.queensburycountryclub.com/,,,,,NY,,US,43.4015798,-73.6283782,2026-11-06T17:57:33Z
 8426256c-fb6e-48f5-acbb-1212272a1fdf,way/135568016,Green Acres Golf Club,,course,,,active,,,,,,https://www.golfnow.com/course-directory/new-york-golf-courses/kingston-golf-courses/green-acres-golf-club,,,,,NY,,US,41.9527635,-74.0091246,2026-10-11T13:29:54Z
@@ -429,21 +429,21 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 882d5ab5-235c-494b-9460-b15503cd8b06,way/404165025,Pine Hills Country Club,,course,,,active,,,,,,,,,2 Country Club Drive,Manorville,NY,,US,40.8444457,-72.8205775,2026-10-11T15:06:28Z
 889d9265-9cb8-4a66-b881-1bee7b11e8a8,way/136537276,Seneca Falls Country Club,,course,,,active,18,72,,,+1-315-568-5202,https://senecafallscountryclub.com/,,,2790 Route 89,Seneca Falls,NY,13148,US,42.8924624,-76.7567452,2026-10-11T15:12:00Z
 8916bec9-e392-4818-8107-4c5fe354eeea,way/502140083,,,course,,,active,,,,,,,,,,,NY,,US,43.139289,-75.7140441,2026-10-11T15:12:18Z
-899c932a-56e3-4ae8-b9ee-81d71debd38a,way/33872010,Silver Lake Golf Course,,course,,,active,,,,,,,,,,,NY,,US,40.6252249,-74.1014445,2026-10-11T15:11:51Z
+899c932a-56e3-4ae8-b9ee-81d71debd38a,way/33872010,Silver Lake Golf Course,,course,,,active,,,,,,https://www.silverlakegolf.com/,,,,,NY,,US,40.6252249,-74.1014445,2026-11-10T18:39:03Z
 89ce0cfe-7cbd-4786-9914-0c5989575a86,way/134221139,Durand Eastman Golf Course,,course,,,active,18,70,,,+1 585-266-0110,https://monroecountyparksgolf.com/durand-eastman/,,,1200 North Kings Highway,Rochester,NY,14617,US,43.2328823,-77.571926,2026-10-11T15:11:57Z
-89f2b7b9-8941-4f22-be54-8a9a104d105d,way/137694282,Willsboro Golf Course,,course,,,active,,,,,,,,,,,NY,,US,44.3732477,-73.3786782,2026-10-11T13:29:58Z
+89f2b7b9-8941-4f22-be54-8a9a104d105d,way/137694282,Willsboro Golf Course,,course,,,active,,,,,,https://willsborogolf.com/,,,,,NY,,US,44.3732477,-73.3786782,2026-11-09T21:27:26Z
 8a5df665-8a2b-4cd3-9fb3-4fe315d91702,relation/8021206,The Greens at Half Hollow,,course,,,active,,,,,+1 631 271 4500,http://thegreensathalfhollow.org/,,,1 Altessa Boulevard,Melville,NY,11747,US,40.7956786,-73.386314,2026-10-11T15:12:38Z
 8a72e980-0e38-48a8-ac82-e4150610d7f1,relation/6333321,Van Cortlandt Golf Course,,course,,,active,,,,,,,,,,,NY,,US,40.8981936,-73.88755,2026-10-11T15:12:36Z
 8a8b8828-98d6-4f88-a706-e7326a33ec2c,way/134676325,,,course,,,active,18,72,,,,,,,,,NY,,US,41.9249047,-75.1763374,2026-10-11T15:11:57Z
 8a9d764a-12e5-4afd-810a-25a58266b2e3,way/862392672,,,course,,,active,,,,,,,,,,,NY,,US,42.0395205,-78.199038,2026-10-11T13:31:02Z
 8ab4a204-c1eb-48ca-8358-7a6370d60363,way/136842674,Shorewood Country Club,,course,,,active,,,,,,https://www.shorewoodcc.com/golf/,,,,,NY,,US,42.4653501,-79.3764441,2026-10-11T13:29:58Z
-8ac35a20-aaee-4fe3-a821-a8e787dfbc27,way/108252891,Bellevue Golf and Country Club,,course,,,active,,,,,,,,,,,NY,,US,43.0237969,-76.1899385,2026-10-11T15:11:57Z
+8ac35a20-aaee-4fe3-a821-a8e787dfbc27,way/108252891,Bellevue Golf and Country Club,,course,,,active,,,,,,https://www.bellevuecountryclub.com/,,,,,NY,,US,43.0237969,-76.1899385,2026-11-10T18:42:19Z
 8ac3ff64-f2c4-4d85-950b-4f894747d057,way/135258500,,,course,,,active,,,,,,,,,,,NY,,US,43.1798266,-76.2690311,2026-10-11T15:11:57Z
 8af84285-9db8-4b0f-8b15-e64b39d3d415,way/136205970,Country Club of Perinton,,course,,,active,,,,,,https://countryclubofperinton.com/,,,1344 Macedon Center Road,Fairport,NY,14450,US,43.1009029,-77.3717295,2026-10-11T15:06:12Z
 8bb1d738-bd51-4781-b35c-4a4c3d0f09d1,way/138266923,Trump National Golf Club Westchester,,course,,,active,18,72,,,+1-914-944-0900,https://www.trumpnationalwestchester.com/,,,100 Shawdow Tree Lane,Briarcliff Manor,NY,10510,US,41.1422955,-73.8324178,2026-10-11T15:12:00Z
 8bc93268-00c6-41af-8053-e61778995821,way/133721899,Ridgemont Country Club,,course,,,active,18,72,,,+1 585-225-7650,https://www.rccgolf.com/,,,3717 West Ridge Road,Rochester,NY,14626,US,43.2093804,-77.7272862,2026-10-11T15:11:57Z
 8d7cd0ad-394a-41b3-953b-da61600b5e56,relation/19437352,Leatherstocking Golf Course,,course,,,active,18,72,,,,https://www.otesaga.com/golf,,,60 Lake Street,Cooperstown,NY,13326,US,42.7127828,-74.9273051,2026-10-11T13:31:51Z
-8d8f689e-f41b-490a-b2d4-c6ebe999d7fc,way/135258517,Radisson Greens,,course,,,active,18,72,,,,,,,,,NY,,US,43.1974273,-76.2947389,2026-10-11T15:11:57Z
+8d8f689e-f41b-490a-b2d4-c6ebe999d7fc,way/135258517,Radisson Greens,,course,,,active,18,72,,,,https://www.radissongreens.com/,,,,,NY,,US,43.1974273,-76.2947389,2026-11-10T18:43:02Z
 8dae2c7f-f5df-4511-9e98-187ca4f9481f,way/136824355,Wanakah Country Club,,course,,,active,18,72,,,,https://www.wanakahcc.com/,,,,,NY,,US,42.7357018,-78.9120836,2026-11-06T17:55:47Z
 8ddd3746-68f0-4bb6-a8de-11d9895e501f,relation/12820336,Rothlands Golf Course,,course,,,active,,,,,,https://rothlandsgolf.com/,,,12089 Clarence Center Road,Akron,NY,14001,US,43.0168861,-78.5319472,2026-11-05T18:47:12Z
 8dfa9d4c-19c2-4b9d-b51c-13c22c6f6af5,relation/14774635,Harbor Links Golf Course,,course,,,active,18,72,,,+1-516-767-4816,https://www.harborlinks.com/,,,1 Fairway Drive,Port Washington,NY,11050,US,40.8266849,-73.6659329,2026-10-11T15:06:51Z
@@ -475,7 +475,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 953c6433-2d35-4307-9300-31c43481f841,way/48997214,Brentwood Country Club,,course,,,active,18,72,,,,https://brentwoodccgolf.com/,,,,,NY,,US,40.7904889,-73.2416688,2026-11-07T16:52:37Z
 95919f53-82b4-4a8b-a6db-4a4007ed7876,way/282101314,Shelter Island Country Club,,course,,,active,,,,,,https://www.shelterislandcc.org/,,,26 Sunnyside Drive,shelter Island Heights,NY,11965,US,41.0775185,-72.3582262,2026-11-08T17:03:05Z
 95a36f98-b798-4388-a2dd-b4e3e080111b,way/931089990,,,course,,,active,,,,,,,,,,,NY,,US,40.8060561,-73.598456,2026-10-11T15:12:23Z
-95c91d05-136f-4a0c-ab4a-d52f7cac076f,way/136538145,Rome Country Club,,course,,,active,18,72,,,,,,,5342 Rome-Taberg Road,Rome,NY,13440,US,43.2509497,-75.5368397,2026-10-11T13:29:58Z
+95c91d05-136f-4a0c-ab4a-d52f7cac076f,way/136538145,Rome Country Club,,course,,,active,18,72,,,,https://www.romecountryclub.com/,,,5342 Rome-Taberg Road,Rome,NY,13440,US,43.2509497,-75.5368397,2026-11-09T21:24:47Z
 95d20518-7e16-424a-9dfd-e57110a0b05d,way/787913376,Hillendale Golf Course Back 9,,course,,,active,,,,,,,,,,,NY,,US,42.4676746,-76.6082442,2026-10-11T15:12:21Z
 95eb3e96-7eec-4162-9721-2c073a1d4c56,way/59213948,New York Country Club,,course,,,active,,,,,,,,,,,NY,,US,41.137192,-74.0498273,2026-10-11T15:11:55Z
 964316f3-939b-4c9c-ba7e-06feb0364720,way/136670199,Mechanicville Golf Club,,course,,,active,,,,,,https://www.mechanicvillegolfclub.com/,,,,,NY,,US,42.9069104,-73.6750174,2026-11-06T17:57:10Z
@@ -485,7 +485,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 9708fd59-f602-403e-b1cc-72d4134dd0cd,way/141568482,,,course,,,active,,,,,,,,,,,NY,,US,42.9448443,-78.6823438,2026-10-11T15:06:12Z
 975894cd-d074-40ad-a3d3-3ca55ea437df,way/83840016,Heartland Golf Park,,par3,,,active,9,27,,,,https://heartlandgolfpark.com/,,,,,NY,,US,40.7725168,-73.2853986,2026-11-07T16:53:43Z
 976d4f30-d03f-4864-9581-b67fe65e0f87,way/137271005,,,course,,,active,,,,,,,,,,,NY,,US,43.5125832,-76.1111649,2026-10-11T13:29:58Z
-97af3e1c-d2e9-4276-8333-51555d8e983a,way/137271009,C-Way Golf Club,,course,,,active,18,71,,,+1 315 686 4562,,,,37067 NYS Route 12,Clayton,NY,13624,US,44.2037777,-76.0795256,2026-10-11T15:12:00Z
+97af3e1c-d2e9-4276-8333-51555d8e983a,way/137271009,C-Way Golf Club,,course,,,active,18,71,,,+1 315 686 4562,https://www.cwayresort.com/,,,37067 NYS Route 12,Clayton,NY,13624,US,44.2037777,-76.0795256,2026-11-09T21:26:07Z
 97c5b1f3-8cec-416d-b022-bbec8a766995,way/122887945,Rye Golf Club,,course,,,active,18,71,,,+1-914-835-3200,https://ryegolfclub.com/,,,330 Boston Post Rd Rye,Rye,NY,10580,US,40.9592246,-73.6975177,2026-10-11T15:11:57Z
 97cf529b-72cb-45ff-a05b-b06c8fde34e6,way/137269369,Kingsboro Golf Course,,course,,,active,9,,,,+1-518-725-4653,https://kingsborogolfclub.com/,,,301 North Kingsboro Avenue,Gloversville,NY,12078,US,43.0731938,-74.3362594,2026-11-06T17:56:50Z
 97e20560-bc11-4e81-b126-7c670a176f9d,way/134199656,,,course,,,active,,,,,,,,,,,NY,,US,42.0166995,-76.3733505,2026-10-11T15:11:57Z
@@ -500,7 +500,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 99a23219-c63f-4687-bcf0-02f118eca92c,way/83399984,The Rock Golf Club,,course,,,active,,,,,,,,,,,NY,,US,40.9556089,-72.8241007,2026-10-11T15:11:55Z
 99ae4c6f-035b-442e-83cc-9b1444ef8f92,way/136437676,Terry Hills Golf Course,,course,,,active,,,,,+1-585-343-0642,https://www.terryhills.com/,,,5122 Clinton Street Rd,Batavia,NY,14020,US,43.0005893,-78.1423253,2026-10-11T15:12:00Z
 9a86eec2-b696-4cf7-8bfd-c25d076673a2,way/308476574,Mount Kisco Country Club,,course,,,active,18,,,,+1-914-666-2116,https://www.mountkiscocc.org/,,,10 Taylor Road,Mount Kisco,NY,10549,US,41.1866923,-73.7429418,2026-10-11T15:12:12Z
-9b17965d-d3ce-45d9-bcdb-e29c80755b96,way/135831175,Owasco Country Club,,course,,,active,,,,,,,,,,,NY,,US,42.9048878,-76.5311832,2026-10-11T15:11:57Z
+9b17965d-d3ce-45d9-bcdb-e29c80755b96,way/135831175,Owasco Country Club,,course,,,active,,,,,,https://www.owascocountryclub.com/,,,,,NY,,US,42.9048878,-76.5311832,2026-11-10T18:43:00Z
 9b739da7-e06c-4ed9-9bfe-6ca8012f7f35,way/62789762,Burden Lake Country Club,,course,,,active,18,72,,,+1-518-674-1770,https://www.burdenlakecountryclub.com/,,,162 Totem Lodge Road,Averill Park,NY,12018,US,42.5873649,-73.5498789,2026-10-11T15:11:55Z
 9b9bc034-01b2-4862-9845-16aab6b96314,way/139453087,The Links at Hiawatha Landing,,course,,,active,18,72,,,+1-607-687-6952,https://www.hiawathalinks.com/,,,2350 Marshland Road,Apalachin,NY,13732,US,42.0936098,-76.1674165,2026-10-11T15:06:12Z
 9be8a0f3-d7cd-4851-bd11-0a013289f5af,way/1184036615,Rothlands Golf Course,,course,,,active,,,,,,https://rothlandsgolf.com/,,,,,NY,,US,43.0092557,-78.5347725,2026-11-05T18:47:16Z
@@ -509,10 +509,10 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 9d3e6b6d-68cf-4361-865c-6eb50451248f,way/95602017,Chestnut Hill Country Club,,course,,,active,18,,,,+1-585-547-9699,https://www.chestnuthillgolf.com/,,,1330 Broadway Road,Darien Center,NY,14040,US,42.8966579,-78.3951874,2026-10-11T15:11:55Z
 9d63a023-7ec7-40de-a874-64b9f35f4669,way/136538144,Oneida Community Golf Club,,course,,,active,,,,,,https://oneidagolf.com/,,,,,NY,,US,43.065601,-75.6099938,2026-11-08T17:06:00Z
 9d7d42ff-7491-4824-9551-d16ad3ea199c,relation/4120011,Ardsley Country Club,,course,,,active,,,,,+1-914-591-8150,https://www.ardsleycc.org/,,,North Mountain Drive,Ardsley-on-Hudson,NY,10503,US,41.0237727,-73.8588787,2026-10-11T15:12:35Z
-9dc5d37e-8fa7-4f48-964a-2068962cda7d,way/122752830,Harrison Meadows Country Club,,course,,,active,,,,,,,,,,,NY,,US,40.9890314,-73.7027346,2026-10-11T15:11:57Z
+9dc5d37e-8fa7-4f48-964a-2068962cda7d,way/122752830,Harrison Meadows Country Club,,course,,,active,,,,,,https://www.harrisonmeadowscc.com/,,,,,NY,,US,40.9890314,-73.7027346,2026-11-09T21:28:11Z
 9dfaab6d-5304-4c07-96b2-80e61761810c,way/32073548,Rockland Lake Executive Golf Course,,course,,,active,,,,,,,,,,,NY,,US,41.1280918,-73.9158586,2026-10-11T15:11:51Z
 9e25fff6-6c38-44b7-b04b-24d21e34b762,way/1319375323,Ludlow Creek Driving Range,,practice,,,active,,,,,,,,,,,NY,,US,40.7363098,-73.1254755,2026-10-11T15:12:29Z
-9e79a3db-1f04-4162-bcd3-5762acc0b8fe,way/137702631,Ticonderoga Golf Course,,course,,,active,18,72,,,+1 518-585-2801,,,,609 State Highway 9N,Ticonderoga,NY,12883,US,43.837035,-73.4684289,2026-10-11T15:12:00Z
+9e79a3db-1f04-4162-bcd3-5762acc0b8fe,way/137702631,Ticonderoga Golf Course,,course,,,active,18,72,,,+1 518-585-2801,https://ticonderogagolfcourse.com/,,,609 State Highway 9N,Ticonderoga,NY,12883,US,43.837035,-73.4684289,2026-11-09T21:27:08Z
 9e9df675-3418-4436-b377-55911da4c63d,relation/16349674,Cazenovia Golf Club,,course,,,active,,,,,,http://www.cazgolf.com/,,,,,NY,,US,42.9426842,-75.8856354,2026-10-11T15:12:43Z
 9f65712a-9810-428d-b4d8-11f7d5daa556,way/134225188,Riverton Oaks Municipal Golf Course,,course,,,active,9,36,,,+1-585-334-6196,https://www.henrietta.org/community/page/riverton-oaks-municipal-golf-course,,,520 Scottsville,West Henrietta,NY,14586,US,43.0369257,-77.7235768,2026-10-11T15:11:57Z
 9f755d43-42a9-447c-ac15-8ec8a42f7c87,way/113105921,,,course,,,active,,,,,,,,,,,NY,,US,42.349319,-76.8753598,2026-10-11T15:11:57Z
@@ -527,19 +527,19 @@ a2529e85-02e3-466f-a818-3a5e2e303e37,way/697754365,,,course,,,active,,,,,,,,,,,N
 a2a203cb-1fcd-4be8-b3c8-567270d15f9c,way/134231378,Deerfield Country Club,,course,,,active,,,,,+1-585-392-3443,https://www.deerfieldcc.com/,,,100 Craig Hill Dr,Brockport,NY,14420,US,43.2484312,-77.8659523,2026-10-11T15:11:57Z
 a2d6fc7e-92db-47e6-b1ea-5ed3c59b8fdc,way/373618462,,,course,,,active,,,,,,,,,,,NY,,US,40.830417,-72.8164805,2026-10-11T15:12:14Z
 a30a72f8-b0c5-4728-9a72-c473ca134d47,way/967441373,,,course,,,active,,,,,,,,,,,NY,,US,40.9287515,-72.2976518,2026-10-11T15:12:24Z
-a381809e-acb0-4653-9c80-9d2526fdad1a,relation/15342552,Robert Trent Jones Golf Course,,course,,,active,,,,,,,,,,,NY,,US,42.4584938,-76.4666242,2026-10-11T15:12:43Z
+a381809e-acb0-4653-9c80-9d2526fdad1a,relation/15342552,Robert Trent Jones Golf Course,,course,,,active,,,,,,https://roberttrentjonessociety.com/,,,,,NY,,US,42.4584938,-76.4666242,2026-11-10T18:41:50Z
 a39d1e39-20e9-490c-9125-975fa236323d,relation/4117133,Red Hook Golf Club,,course,,,active,18,72,,,+1-845-758-8652,https://www.redhookgolfclub.com/,,,650 Route 199,Red Hook,NY,12571,US,41.9788649,-73.8315475,2026-10-11T15:12:35Z
 a3d083d8-9ef4-4464-be6f-e0c75f815e04,way/134231354,Shadow Lake Championship Golf Course,,course,,,active,,,,,,http://www.rochestergolfcourses.com/our-courses.html,,,1850 Five Mile Line Road,Penfield,NY,14526,US,43.1470373,-77.4697633,2026-10-11T15:11:57Z
 a50c76d8-1798-4fc5-b319-f0d53ad9daef,way/135911009,Canasawacta Country Club,,course,,,active,18,71,,,,,,,261 County Road 44,Norwich,NY,13815,US,42.5631212,-75.5402538,2026-10-11T15:11:57Z
 a53eb57e-15d8-476a-9830-2dd02fb70ff2,way/138769538,Homowack Lodge Golf Course (Defunct),,course,,,active,,,,,,,,,,,NY,,US,41.6590366,-74.437135,2026-10-11T15:12:00Z
 a57997c6-c69e-4ccc-b6f7-9103db220689,way/398706065,Nissequogue Golf Club,,course,,,active,,,,,,https://nissequoguegolf.com/,,,,,NY,,US,40.9036073,-73.1884187,2026-11-08T17:01:30Z
-a587e106-0df6-463f-8995-d62074415a71,way/136928707,Hudson National Golf Course,,course,,,active,18,70,,,,,,,,,NY,,US,41.2211104,-73.8934888,2026-10-11T15:12:00Z
+a587e106-0df6-463f-8995-d62074415a71,way/136928707,Hudson National Golf Course,,course,,,active,18,70,,,,https://hudsonnational.org/,,,,,NY,,US,41.2211104,-73.8934888,2026-11-09T21:28:20Z
 a5eb34f0-f06c-4496-bdee-43c38175360a,way/138205447,Century Country Club,,course,,,active,,,,,+1-914-761-0400,https://www.centurycc.org/,,,Anderson Hill Road,Purchase,NY,10577,US,41.041989,-73.7306218,2026-10-11T15:12:00Z
 a5f7c60a-46a0-40cb-bd8c-99069bd39700,relation/1834971,Cobblestone Creek Country Club,,course,,,active,18,72,,,+1 585-924-6464,https://www.cobblestonecreekcc.com/,,,,Victor,NY,,US,43.0170751,-77.4116448,2026-10-11T15:12:30Z
 a668a727-afca-4204-b802-5d4a3f6434a4,way/136643369,Tamarack Golf Club,,course,,,active,18,70,,,+1-315-342-6614,https://www.golftamarack.com/,,,2021 County Rte 1,Oswego,NY,13126,US,43.4787797,-76.4558324,2026-10-11T15:06:12Z
 a675e969-3449-4474-8eeb-71e42833f244,way/75000039,Dunwoodie Golf Course,,course,,public,active,18,70,,,+1-914-231-3490,https://golf.westchestergov.com/dunwoodie/,,,1 Wasylenko Ln,Yonkers,NY,10701,US,40.9389116,-73.8707376,2026-10-11T13:29:49Z
 a6c95cbf-b219-4aec-a168-ba501b55d809,way/137271008,,,course,,,active,,,,,,,,,,,NY,,US,44.6307491,-75.5813824,2026-10-11T15:12:00Z
-a74bbfef-7b73-44e2-bf06-fd732d2941e4,way/122736840,Scarsdale Country Club,,course,,,active,18,72,,,,,,,,,NY,,US,41.0109746,-73.8019185,2026-10-11T15:11:57Z
+a74bbfef-7b73-44e2-bf06-fd732d2941e4,way/122736840,Scarsdale Country Club,,course,,,active,18,72,,,,https://www.scarsdalegolfclub.org/,,,,,NY,,US,41.0109746,-73.8019185,2026-11-10T18:39:02Z
 a75b0d0e-717b-4621-bcff-cb240d9c3f76,way/915930843,Rock Hill Golf and Country Club,,course,,,active,,,,,,https://rockhillclub.com/,,,105 Clancy Road,Manorville,NY,,US,40.8469616,-72.7773591,2026-11-08T17:02:37Z
 a75b2025-7edf-46d0-83eb-063047b2f02b,way/792608369,Rockville Links Golf Club,,course,,,active,,,,,,https://www.rockvillelinks.com/,,,,,NY,,US,40.6763495,-73.6278075,2026-11-08T17:02:38Z
 a78600ca-55c7-4d58-9898-cffdbd46f5eb,way/136643342,Evergreen Hills Golf Course,,course,,,active,9,,,,+1-315-216-4639,https://www.evergreenhillsgolfbfc.com/,,,,,NY,,US,43.4116205,-76.5289159,2026-10-11T13:29:58Z
@@ -551,7 +551,7 @@ a9abc439-71d1-4714-b815-9c276aa522d0,way/825082657,,,practice,,,active,,,,,,,,,,
 aa038191-45be-469a-8e06-4a13e28d142c,way/617520258,Genesee Valley Golf Course South,,course,,,active,,,,,+1 585-424-2920,https://www.monroecounty.gov/parks-geneseevalley.php,,,1000 East River Road,Rochester,NY,14623,US,43.1086523,-77.6543412,2026-10-11T13:30:54Z
 aa07622e-9350-42c8-8bcd-06d232755511,way/49978720,Huntington Crescent Club,,course,,,active,18,70,,,,https://www.huntingtoncrescentclub.com/,,,15 Washington Drive,Huntington,NY,11743,US,40.8889662,-73.3901714,2026-11-07T16:53:50Z
 aa085901-50b2-4767-abb4-4803f469c8d2,way/139557144,Greenwood Golf Course,,course,,,active,,,,,,,,,,,NY,,US,43.0809007,-78.6642173,2026-10-11T15:06:12Z
-aad0addb-f2f9-4d66-9db3-acd8b74a671f,relation/3105637,Oak Hill Country Club,,course,,private,active,,,,,,,,,,,NY,,US,43.1119061,-77.5339623,2026-10-11T15:12:33Z
+aad0addb-f2f9-4d66-9db3-acd8b74a671f,relation/3105637,Oak Hill Country Club,,course,,private,active,,,,,,https://oakhillcc.com/,,,,,NY,,US,43.1119061,-77.5339623,2026-11-10T18:39:58Z
 aadf3498-cee4-4cc2-a377-48772211ecde,way/200734181,Sag Harbor Golf Course,,course,,,active,,,,,,,,,,,NY,,US,40.9972272,-72.2614644,2026-10-11T13:30:07Z
 abf0ee47-ec38-4f6a-a9b7-f1ad8968f106,way/135966313,Big Oak Public Golf Course,,course,,,active,18,70,,,,,,,,,NY,,US,42.90782,-76.9671131,2026-10-11T13:29:54Z
 abfe030d-9220-44d0-975d-6180564a655f,relation/19559552,South Fork Country Club,,course,,,active,,,,,,,,,730 Old Stone Highway,Amagansett,NY,,US,40.9831075,-72.1336752,2026-10-11T15:12:45Z
@@ -560,7 +560,7 @@ ac1a3253-3984-44ae-ab47-db4f8f545aec,way/136643363,Ely Park Golf Course,,course,
 ac932928-bb03-41d1-9342-0321c4ee26e5,way/136329837,Cragie Brae,,course,,,active,18,72,,,+1 585-889-1440,https://cragiebrae.com/,,,4391 Union Street,Scottsville,NY,14546,US,43.0439789,-77.7991936,2026-10-11T15:12:00Z
 ac963f71-2a31-44d8-867b-40fa6fd5f0f5,way/141444697,Sycamore Country Club,,course,,,active,,,,,,https://thesycamorecountryclub.com/,,,,,NY,,US,42.4730538,-73.8771042,2026-11-06T17:57:59Z
 acd6cd6a-8407-4dc5-a101-54c887984e86,way/200888871,Merrick Golf Course,,course,,,active,9,36,,,,https://merrickgc.com/,,,2550 Clubhouse Road,Merrick,NY,11566,US,40.645389,-73.5591828,2026-11-08T17:01:01Z
-add450e5-7207-45e4-9262-598fbbf3fb92,way/136621779,Geneva Country Club,,course,,,active,9,35,,,,,,,,,NY,,US,42.8338654,-76.9764914,2026-10-11T15:12:00Z
+add450e5-7207-45e4-9262-598fbbf3fb92,way/136621779,Geneva Country Club,,course,,,active,9,35,,,,https://www.genevacountryclub.com/,,,,,NY,,US,42.8338654,-76.9764914,2026-11-10T18:39:54Z
 ae16fbde-63df-4792-b4c0-bea98ef27a54,way/134376221,Yahnundasis Golf Club,,course,,,active,18,71,,,,,,,,,NY,,US,43.0833349,-75.3063221,2026-10-11T15:11:57Z
 ae57dd51-8447-404f-b5f0-044ced5279dc,way/242370163,High Peaks Golf Course Club,,course,,,active,9,,,,,,,,,,NY,,US,43.96125,-74.1025968,2026-10-11T13:30:12Z
 af021e35-d7e4-43f2-998c-59df2a832296,way/225761412,Cavalry Club,,course,,private,active,18,72,,,,http://www.cavalryclub.org/,,,,,NY,,US,43.0048376,-75.9998559,2026-10-11T15:12:03Z
@@ -585,7 +585,7 @@ b5c240ef-d999-4b2d-9914-4b28b70a69cc,way/136205924,Blue Heron Hills,,course,,,ac
 b5de3a20-c467-431a-be71-2db81010d818,relation/14959274,Hay Harbor Club,,course,,,active,9,34,,,+1-631-788-7323,https://www.hayharborclub.com/,,,,,NY,,US,41.2576705,-72.0140077,2026-10-11T15:12:43Z
 b5e455cc-6d4b-4fdd-a384-6a3b6a67a205,way/234192910,West Hills Country Club,,course,,,active,,,,,+1-845-341-1899,https://www.westhillscountryclub.com/,,,121 Golf Links Road,Middletown,NY,10940,US,41.4330521,-74.3722096,2026-10-11T15:12:03Z
 b5f17118-efb5-4c68-bdad-d5c60e38e3de,way/125832836,Valley View Golf Course;Valley View,,course,,,active,18,71,,,,,,,620 Memorial Parkway,Utica,NY,13501,US,43.0743966,-75.2428166,2026-10-11T15:11:57Z
-b5f4b091-1dcb-4052-b162-e0ad91dc7741,way/135968171,Whiteface Club & Resort Golf Course,,course,,,active,18,71,,,,,,,,,NY,,US,44.3070791,-74.0067797,2026-10-11T15:06:10Z
+b5f4b091-1dcb-4052-b162-e0ad91dc7741,way/135968171,Whiteface Club & Resort Golf Course,,course,,,active,18,71,,,,https://whitefaceclubresort.com/,,,,,NY,,US,44.3070791,-74.0067797,2026-11-09T21:27:24Z
 b675275b-afad-4ff0-a583-eeecec22f5b6,way/138658788,Trump National Golf Club Hudson Valley,,course,,,active,18,72,,,+1-845-223-1600,https://www.trumpnationalhudsonvalley.com/,,,178 Stormville Road,Hopewell Junction,NY,12533,US,41.5750333,-73.7647872,2026-10-11T13:29:58Z
 b73f2da3-c382-4256-81d9-f9c31ebf8e51,way/139557147,Ironwood Golf Course,,course,,,active,18,72,,,+1-585-805-0350,https://playironwood.com/,,,1964 Folsomdale Road,Cowlesville,NY,14037,US,42.7813642,-78.4517839,2026-10-11T15:12:00Z
 b75fb2a3-aceb-4e7a-85e9-b74f0c7c5b7d,way/339272869,Cazenovia Country Club,,course,,,active,,,,,,http://www.caz-cc.com,,,3711 Number Nine Road,Cazenovia,NY,13035,US,42.9014377,-75.8427243,2026-10-11T15:12:14Z
@@ -611,7 +611,7 @@ be673f5a-3f25-42af-8496-78f98f82a8eb,way/1132072041,Malone Golf Club (West Cours
 beddbcd9-4c5e-4a93-ac76-b16595517fb6,way/477481588,The Dome,,course,,,active,,,,,,,,,,,NY,,US,42.9569671,-78.6888429,2026-10-11T13:30:48Z
 bf13f547-2d33-4acd-97ab-9342aa6951bc,way/124473675,Pioneer Hills Golf Course,,course,,,active,18,70,,,,https://www.pioneerhillsgolf.com/,,,,,NY,,US,43.0165867,-73.9545387,2026-11-06T17:57:27Z
 bf4e5534-f6fe-412c-a656-e468887a6697,relation/16561591,Storm King Golf Club,,course,,,active,,,,,,https://www.stormkinggolf.com/,,,18 Ridge Road,Cornwall,NY,12518,US,41.4281131,-74.0315715,2026-11-07T16:51:31Z
-bfce6291-4541-42cc-8454-cd89579b8d06,way/134225187,Shore Acres Executive Course,,course,,,active,9,32,,,,,,,1165 Greenleaf Road,Rochester,NY,14612,US,43.2659537,-77.6277635,2026-10-11T15:11:57Z
+bfce6291-4541-42cc-8454-cd89579b8d06,way/134225187,Shore Acres Executive Course,,course,,,active,9,32,,,,https://www.lakeshore-cc.com/home,,,1165 Greenleaf Road,Rochester,NY,14612,US,43.2659537,-77.6277635,2026-11-10T18:40:08Z
 bff543a3-626f-4dbc-a0a6-6ddb8fc8846a,way/135831174,Orchard Vali,,course,,,active,,,,,,,,,,,NY,,US,42.9103001,-76.1870982,2026-10-11T15:11:57Z
 c02ca841-f492-4544-98d6-7bfa67e6e567,way/233328940,Timber Lake Golf Course,,course,,,active,,,,,,https://www.timberlakecamp.com/,,,,,NY,,US,42.150362,-74.3390431,2026-11-07T16:51:49Z
 c0bfc204-d0b7-47ab-af34-113f17574cd6,way/449084723,The Bridge Golf Club,,course,,,active,18,72,,,,https://bridgegolffoundation.org/,,,,,NY,,US,40.9817064,-72.3404503,2026-11-08T17:04:13Z
@@ -621,7 +621,7 @@ c21c5df0-9a37-40cd-9ac5-2354aa1f55d9,way/245515961,Cedars Golf Course,,course,,,
 c28637bf-bb90-41ca-9639-74e30f971bdb,relation/1854413,Beekman Golf Course,,course,,,active,,,,,+1-845-226-7700,https://beekmangolf.com/,,,11 Country Club Road,Hopewell Junction,NY,12533,US,41.598497,-73.7721315,2026-10-11T15:12:30Z
 c29688c1-bfc9-4767-aa3f-02dded98f512,way/135831176,Canandaigua Country Club,,course,,,active,9,37,,,+1-585-394-4370,https://www.canandaiguacc.com/,,,,,NY,,US,42.8684058,-77.2545961,2026-10-11T15:06:10Z
 c2b5f29c-4ee2-4ce6-afed-0a2b6bc681e9,way/545364224,Driving Range,,practice,,,active,,,,,,,,,,,NY,,US,43.4729776,-75.3131566,2026-10-11T15:12:18Z
-c3147ed1-7770-4d41-bb01-4ae3fee04490,way/137254764,Partridge Run Golf & Country Club,,course,,,active,,,,,,,,,70 Sullivan Dr,Canton,NY,13617,US,44.617778,-75.1728536,2026-10-11T15:12:00Z
+c3147ed1-7770-4d41-bb01-4ae3fee04490,way/137254764,Partridge Run Golf & Country Club,,course,,,active,,,,,,https://partridgerungolf.com/,,,70 Sullivan Dr,Canton,NY,13617,US,44.617778,-75.1728536,2026-11-09T21:26:46Z
 c3cce962-3a1b-4691-89a6-55185f6cf993,way/137720821,,,course,,,active,,,,,,,,,,,NY,,US,43.7906094,-74.351101,2026-10-11T15:12:00Z
 c41c74c7-5c72-43cd-af44-1677e783e0de,way/532652264,Roscoe Mountain Club,,course,,,active,18,,,,,,,,,,NY,,US,41.8893894,-74.9646092,2026-10-11T15:12:18Z
 c41d7298-f2da-4e37-a7c8-8f1536c0ce92,way/1154639653,Genesee Valley Golf Course North,,course,,,active,,,,,+1 585-424-2920,https://monroecountyparksgolf.com/genesee-valley/,,,1000 East River Road,Rochester,NY,14623,US,43.1125711,-77.6507788,2026-10-11T13:31:09Z
@@ -629,8 +629,8 @@ c4b224a8-1bef-49e3-944f-2c8e779b046a,way/135567332,Wiltwyck Golf Club,,course,,,
 c4dfe69a-54ca-4125-b9fa-1db1cab3c37e,way/1047458539,,,course,,,active,9,,,,,,,,,,NY,,US,42.0901626,-78.5273908,2026-10-11T15:12:24Z
 c52a0a3d-1bcb-41c6-8065-d20dd68d4624,way/136711693,Delaware Park Public Golf Course,,course,,,active,18,68,,,,,,,,,NY,,US,42.9357646,-78.8576743,2026-10-11T13:29:58Z
 c53e1faf-278d-4263-a530-8dd53868701c,way/136629928,,,course,,,active,,,,,,,,,,,NY,,US,42.006105,-76.5519554,2026-10-11T13:29:58Z
-c5b53224-21b5-4c89-8a08-1527d1c68ae2,way/136537299,Highland Park Golf Course,,course,,,active,18,71,,,,,,,,,NY,,US,42.9418323,-76.5336264,2026-10-11T15:12:00Z
-c5f5dc4f-6e69-4888-ac21-ed3fbef762d2,way/134867388,Inlet Golf Club,,course,,,active,18,70,,,,,,,,,NY,,US,43.7391752,-74.7754357,2026-10-11T15:11:57Z
+c5b53224-21b5-4c89-8a08-1527d1c68ae2,way/136537299,Highland Park Golf Course,,course,,,active,18,71,,,,https://www.highlandparkgolfclub.com/,,,,,NY,,US,42.9418323,-76.5336264,2026-11-10T18:42:34Z
+c5f5dc4f-6e69-4888-ac21-ed3fbef762d2,way/134867388,Inlet Golf Club,,course,,,active,18,70,,,,http://inletgolfclub.com/,,,,,NY,,US,43.7391752,-74.7754357,2026-11-09T21:26:29Z
 c6411ab6-13d9-49a4-a94f-47748885fcbd,relation/16351420,,,course,,,active,,,,,,,,,,,NY,,US,40.7828741,-73.6599924,2026-10-11T13:31:48Z
 c6763699-66d5-40e4-baeb-f3431a46a503,way/1155632526,Churchville East Golf Course,,course,,,active,,,,,,https://monroecountyparksgolf.com/churchville/,,,643 Kendall Road,Churchville,NY,14428,US,43.1100616,-77.897468,2026-10-11T15:12:27Z
 c6aef3b0-500b-4c4f-8912-d11cce9e2b67,relation/16664164,La Tourette Golf Course,,course,,,active,18,72,,,+1-718-351-1889,https://www.latourettegc.com/,,,1001 Richmond Hill Road,Staten Island,NY,10306,US,40.5789624,-74.1463189,2026-10-11T15:12:43Z
@@ -638,7 +638,7 @@ c6ba058c-3240-481a-a80b-651ba47caa29,way/229207773,The Links at Ivy Ridge,,cours
 c6bd21b3-1a3a-4e4e-b6a0-e5f0821a9525,way/136334108,,,course,,,active,,,,,,,,,,,NY,,US,43.3468389,-78.1961652,2026-10-11T13:29:58Z
 c6e2c024-e6fc-4ae6-ae35-9801df2d094f,way/320140079,,,course,,,active,,,,,,,,,,,NY,,US,43.12925,-75.1879341,2026-10-11T15:12:12Z
 c7063247-c10a-45f1-8f4a-c2f63cd4bf67,way/191740591,Fishers Island Club,,course,,,active,18,71,,,,http://www.fishersislandclub.com/fw/main/golf-course-and-shop-50.html,,,,,NY,,US,41.284863,-71.9405033,2026-10-11T15:12:01Z
-c82a5cee-8e63-4253-a6a3-3edb77174281,way/139572283,Seven Oaks Golf Course,,course,,,active,18,72,,,,,,,2 East Lake Road,Hamilton,NY,13346,US,42.8268295,-75.5356929,2026-10-11T15:12:00Z
+c82a5cee-8e63-4253-a6a3-3edb77174281,way/139572283,Seven Oaks Golf Course,,course,,,active,18,72,,,,https://www.sevenoaksgolf.com/,,,2 East Lake Road,Hamilton,NY,13346,US,42.8268295,-75.5356929,2026-11-09T21:24:57Z
 c849f778-45c5-4640-88f8-995c71da1351,way/134390396,Hoosick Falls Country Club,,course,,,active,,,,,+1-518-686-4210,https://hoosickgolf.org/,,,1 Richmond Avenue,Hoosick Falls,NY,12090,US,42.8955421,-73.343112,2026-10-11T15:11:57Z
 c882d70a-2e83-4e13-9df3-c73ea0af0e8c,way/31191667,Casperkill Golf Club,,course,,,active,18,72,,,+1-845-463-0900,https://www.casperkillgolf.com/,,,110 Golf Club Lane,Poughkeepsie,NY,12601,US,41.6466777,-73.9177472,2026-10-11T15:06:00Z
 c8aa1036-62d5-4117-8db2-a52a0cd77ab3,relation/4525384,Lyndon Golf Course,,course,,,active,,,,,,http://www.lyndongolfcourse.com,,,,,NY,,US,43.0258202,-76.0389848,2026-10-11T15:12:36Z
@@ -660,7 +660,7 @@ cd1ccf6d-178b-4989-b877-314ce83ba93f,way/134221125,Webster Golf Course,,course,,
 cd2ee350-157c-4c5c-b627-6ea7c6bc953e,way/1195650997,Willowcreek Golf Club - 9 Hole,,course,,,active,,,,,+1-607-562-8898,https://www.willowcreekgolfclub.com/,,,3069 STATE ROUTE 352,Big Flats,NY,14814,US,42.1283464,-76.9464473,2026-10-11T13:31:09Z
 cd52895e-4662-40f5-9105-5063be03478e,way/787913375,Hillendale Golf Course,,course,,,active,,,,,,,,,,,NY,,US,42.4676442,-76.6170021,2026-10-11T15:12:21Z
 cd78b86d-50b1-49ab-accc-73a8708527e1,way/812920423,Colonial Country Club,,course,,,active,,,,,,https://colonialccny.com/,,,55 Allen Lane,Tannersville,NY,12485,US,42.1925798,-74.1458627,2026-10-11T15:12:21Z
-cdb623e1-63eb-4b95-9ba6-14e642cac981,way/134938070,Bedford Creek Golf Course,,course,,,active,9,36,,,,,,,,,NY,,US,43.912482,-76.11395,2026-10-11T15:11:57Z
+cdb623e1-63eb-4b95-9ba6-14e642cac981,way/134938070,Bedford Creek Golf Course,,course,,,active,9,36,,,,https://bedfordcreekgolf.com/,,,,,NY,,US,43.912482,-76.11395,2026-11-09T21:26:05Z
 ce64467c-79b9-4e11-b3ce-cc192d3f48d5,way/139572195,,,course,,,active,,,,,,,,,,,NY,,US,44.3064172,-75.4570865,2026-10-11T13:29:58Z
 cee59023-f14d-4c15-90c5-ee4d1f28dfef,relation/7121399,Pelham Bay & Split Rock Golf Course,,course,,,active,18,74,,,,,,,,,NY,,US,40.8800818,-73.8061153,2026-10-11T15:12:38Z
 cf353e49-3507-40d8-aa63-772bb7d524c5,way/213739932,The Golf Club at Middle Bay,,course,,,active,18,72,,,,,,,,,NY,,US,40.6261444,-73.6226837,2026-10-11T15:12:03Z
@@ -689,9 +689,9 @@ d6b83d30-7e18-4b34-80dd-45b6234c9288,way/49415135,Crab Meadow Golf Course,,cours
 d6d880da-599c-4179-a280-0e1f4dc4f8f1,way/138653397,Copake Country Club,,course,,,active,18,73,,,+1-518-325-4338,http://www.copakecountryclub.com/,,,44 Golf Course Road,Copake Lake,NY,12521,US,42.1479525,-73.6077743,2026-10-11T13:29:58Z
 d7a274e2-8bdd-4ed5-a7ee-4270cdbcc0a4,way/62789723,Country Club of Troy,,course,,,active,18,71,,,+1-518-274-1000,https://countrycluboftroy.com/,,,100 Troy Country Club Road,Troy,NY,12180,US,42.7252982,-73.6381392,2026-10-11T15:11:55Z
 d7f003f8-dacb-4007-9bf1-3de5b3bb725f,way/233753917,Briar Creek Golf Course,,course,,,active,,,,,,https://briarcreekgolfclub.com/,,,,,NY,,US,42.7656634,-74.0309795,2026-11-06T17:56:10Z
-d838be95-2e4a-4767-a941-a980e14d141a,way/439788674,Elm Tree Golf Course,,course,,,active,18,71,,,,,,,,,NY,,US,42.5496626,-76.2566854,2026-10-11T15:12:15Z
+d838be95-2e4a-4767-a941-a980e14d141a,way/439788674,Elm Tree Golf Course,,course,,,active,18,71,,,,https://elmtreegolfcourse.com/,,,,,NY,,US,42.5496626,-76.2566854,2026-11-10T18:42:25Z
 d8648882-b11b-41ad-b409-dbf37ad92734,way/136100246,South Shore Country Club,,course,,,active,,,,,,https://www.southshoregc.com/,,,,,NY,,US,42.7479524,-78.8619358,2026-10-11T15:11:57Z
-d8c25a38-d10e-4d61-ac22-ceaf4ccf1396,way/122734959,Siwanoy Country Club,,course,,,active,,,,,,,,,,,NY,,US,40.9413004,-73.8106372,2026-10-11T15:11:57Z
+d8c25a38-d10e-4d61-ac22-ceaf4ccf1396,way/122734959,Siwanoy Country Club,,course,,,active,,,,,,https://www.siwanoycc.com/,,,,,NY,,US,40.9413004,-73.8106372,2026-11-10T18:39:06Z
 d8c6845e-2565-460a-aaaf-207443139c02,way/136643350,Oak Run Golf Club,,course,,,active,,,,,,https://www.oakrungolf.com/,,,,,NY,,US,43.2105368,-78.6719241,2026-10-11T13:29:58Z
 d9edcd54-a465-41a6-b626-865adc54eac9,way/49415127,Indian Hills Country Club,,course,,,active,18,72,,,,https://indianhillscc.net/,,,,,NY,,US,40.9203563,-73.3041323,2026-11-07T16:53:51Z
 daf84103-159a-4b56-8f7e-7a2ac518f348,way/139705773,Albany Country Club,,course,,,active,,,,,+1-518-765-2851,https://www.albanycc.cc/,,,300 Wormer Road,Voorheesville,NY,12186,US,42.6785911,-73.9195788,2026-10-11T15:06:12Z
@@ -702,10 +702,10 @@ dc7ef72b-7b9b-4cf7-8396-99c2485bb0ee,way/136708527,Cazenovia Park Golf Course,,c
 dcac4b7d-b089-48b5-a03f-a72b101d7b14,way/88424064,Pine Hollow Country Club,,course,,,active,18,,,,+1 516-922-0300,https://pinehollowclub.com/,,,,,NY,,US,40.8496966,-73.522602,2026-10-11T15:11:55Z
 dcf17ddf-9a1e-45ca-b234-b5c8948257e4,way/134225189,Wild Wood Country Club,,course,,,active,18,71,,,+1 585-334-5860,https://golfwildwood.com/,,,1201 Rush-West Rush Road,Rush,NY,14543,US,42.9820001,-77.6486108,2026-10-11T15:11:57Z
 dd4c419e-c6e0-417f-af17-829f18de1041,way/136437677,Wayne Hills Country Club,,course,,,active,18,72,,,+1-315-946-6944,https://www.waynehillscc.com,,,2250 Gannet Road,Lyons,NY,14489,US,43.0932945,-76.936716,2026-10-11T15:12:00Z
-dd76e77b-94d4-404a-91f5-b3ee9861b798,way/31766959,Craig Wood Golf & Country Club,,course,,,active,18,72,,,,,,,,,NY,,US,44.2490754,-73.9425796,2026-10-11T15:06:03Z
+dd76e77b-94d4-404a-91f5-b3ee9861b798,way/31766959,Craig Wood Golf & Country Club,,course,,,active,18,72,,,,https://www.craigwoodgolfclub.com/,,,,,NY,,US,44.2490754,-73.9425796,2026-11-09T21:26:12Z
 ddac4295-9a0b-4332-943e-c8c03b134b53,relation/12585734,Old Westbury Golf and Country Club,,course,,,active,,,,,,,,,,,NY,,US,40.7994215,-73.6035761,2026-10-11T13:31:42Z
 ddc101ed-2be6-4b85-b22f-78d3e8c45ddf,relation/21119135,,,course,,,active,,,,,,,,,,,NY,,US,40.8909802,-72.9564845,2026-10-11T15:12:45Z
-ddca262a-8e74-4920-8976-8ac369fccace,way/390765843,Potsdam Town & Country Club,,course,,,active,,,,,,,,,,,NY,,US,44.6336466,-74.9604941,2026-10-11T15:06:28Z
+ddca262a-8e74-4920-8976-8ac369fccace,way/390765843,Potsdam Town & Country Club,,course,,,active,,,,,,https://potsdamgolf.com/,,,,,NY,,US,44.6336466,-74.9604941,2026-11-09T21:26:48Z
 de32df3a-a5b4-41a3-8e58-4f3c8bb0b1a8,way/1493724938,Destroyer Park Golf,,course,,,active,,,,,+1-716-442-5070,https://destroyerparkgolf.com/,,,7065 Sand Hill Road,Akron,NY,14001,US,43.0376329,-78.5601424,2026-10-11T15:12:29Z
 de335c19-e85a-42f3-bbd7-0125a0408d02,way/136629923,,,course,,,active,,,,,,,,,,,NY,,US,42.0146984,-76.5962323,2026-10-11T15:12:00Z
 de74f584-9cfd-444c-91e4-9c0a299e37aa,way/631887409,Brimfield View Driving Range,,practice,,,active,,,,,+1-315-723-7682,https://brimfieldviewdrivingrange.com/,,,8300 Brimfield Street,Clinton,NY,13323,US,43.0522929,-75.3361434,2026-10-11T15:12:20Z
@@ -724,7 +724,7 @@ e1f6a4ad-c61a-4ce5-9bc1-178a3662c342,way/134799985,Chautauqua Golf Club,,course,
 e224e8c7-c11b-4657-a61f-a3f0c14aa30c,way/311794338,Northport VA Golf Course,,course,,,active,,,,,+1-631-261-8000,https://northportgolfcourse.com/,,,79 Middleville Road,Northport,NY,11768,US,40.8972271,-73.3136712,2026-10-11T15:12:12Z
 e245ec1d-7978-4eee-a606-8688dd141429,way/294534687,Kelder's Mini-Golf,,mini,,,active,,,,,,,,,,,NY,,US,41.789687,-74.2582838,2026-10-11T15:12:08Z
 e2777522-4b02-4185-b135-c77726cfaeef,way/136629920,Mark Twain Golf Course,,course,,,active,18,73,,,+1-607-737-5770,https://golftwain.com/,,,2275 Corning Rd.,Elmira,NY,14903,US,42.1378446,-76.8329618,2026-10-11T15:06:12Z
-e281eae1-a799-4648-9be8-9f8290b18d8d,way/126309897,Twin Ponds Golf & Country Club,,course,,,active,,,,,,,,,,,NY,,US,43.1041473,-75.2828173,2026-10-11T15:06:10Z
+e281eae1-a799-4648-9be8-9f8290b18d8d,way/126309897,Twin Ponds Golf & Country Club,,course,,,active,,,,,,https://www.twinpondsgolf.net/,,,,,NY,,US,43.1041473,-75.2828173,2026-11-09T21:25:19Z
 e32b6c61-b0e4-46b9-b64d-adbd6ef142dd,way/138546155,Blind Brook Club,,course,,,active,,,,,+1-914-939-1450,https://www.blindbrookclub.org/,,,980 Anderson Hill Road,Purchase,NY,10577,US,41.038257,-73.6847767,2026-10-11T15:12:00Z
 e3e42d89-2191-4c1d-9a1c-82cf5abbd484,way/137630311,The Links at Union Vale,,course,,,active,18,72,,,+1-845-223-1000,https://www.luvgolf.com/,,,153 North Parliman Road,LaGrangeville,NY,12540,US,41.6764405,-73.7352284,2026-10-11T13:29:58Z
 e40b3675-bc21-41fb-aeaa-7cad316b50a4,way/138337246,Hudson Hills Golf Course,,course,,,active,18,73,,,+1-914-864-3000,https://www.hudsonhillsgolf.com/,,,400 Croton Dam Road,Ossining,NY,10562,US,41.1951538,-73.8225149,2026-10-11T15:12:00Z
@@ -735,16 +735,16 @@ e68423c0-77e1-4e5f-b00a-2af5f109acd9,way/33871112,Richmond County Country Club,,
 e6c0f801-c3df-4381-a4f6-c13cb8b18418,way/136205893,Farview Golf Course,,course,,,active,18,72,,,+1 585-226-8210,http://www.farviewgc.com/,,,2419 Avon Geneseo Road,Avon,NY,14414,US,42.8841943,-77.7624557,2026-10-11T15:06:12Z
 e6e363c8-00b3-4da6-8a09-d173dbb97e9b,way/139557148,Elkdale Country Club,,course,,,active,,,,,,https://www.elkdalecc.com/,,,,,NY,,US,42.2061372,-78.7465265,2026-11-05T18:46:02Z
 e6f07bbd-fa23-407e-bd91-f518e14deca3,way/30432711,Douglaston Golf Course,,course,,,active,18,67,,,+1-718-224-6566,https://www.golfnyc.com/douglaston-course/,,,6320 Marathon Pkwy,Douglaston,NY,11363,US,40.7524246,-73.7325397,2026-10-11T15:06:00Z
-e74c92e6-5755-4254-abfe-2ed09ea75c34,way/140997343,Cortland Country Club,,course,,,active,18,72,,,,,,,,,NY,,US,42.6238507,-76.1886851,2026-10-11T15:12:00Z
+e74c92e6-5755-4254-abfe-2ed09ea75c34,way/140997343,Cortland Country Club,,course,,,active,18,72,,,,https://cortlandcountryclub.com/,,,,,NY,,US,42.6238507,-76.1886851,2026-11-10T18:42:20Z
 e77fe8eb-d854-4674-9546-8696a1dc8e3e,way/1137054603,,,course,,,active,,,,,,,,,,,NY,,US,42.316527,-76.1080537,2026-10-11T15:12:27Z
-e7a87124-f721-44d2-acc3-a92b36749a69,way/122734558,Fenway Golf Club,,course,,,active,,,,,,,,,,,NY,,US,40.9988297,-73.7689114,2026-10-11T15:11:57Z
+e7a87124-f721-44d2-acc3-a92b36749a69,way/122734558,Fenway Golf Club,,course,,,active,,,,,,https://www.fenwaygolfclub.com/,,,,,NY,,US,40.9988297,-73.7689114,2026-11-09T21:28:01Z
 e815adb4-1317-4814-94ba-700401cf6f9c,relation/7251351,Stonebridge Golf Links,,course,,,active,18,70,,,,,,,,,NY,,US,40.8309144,-73.2162139,2026-10-11T15:12:38Z
 e81673ce-f2ff-4f24-8fd8-d67d39b64da8,way/138542265,GlenArbor Golf Club,,course,,,active,,,,,+1-914-241-0700,https://www.glenarborclub.com/,,,234 Bedford Center Road,Bedford Hills,NY,10507,US,41.2291403,-73.6770688,2026-10-11T15:12:00Z
 e88d5ba7-1dca-459d-8350-93b52acf7851,way/118135148,Saratoga National Golf Course,,course,,,active,18,72,,,,,,,,,NY,,US,43.0600432,-73.7441901,2026-10-11T15:11:57Z
 e8a63591-04dd-45a7-9b88-14c444bc927e,way/291847731,,,course,,,active,,,,,,,,,,,NY,,US,42.3026626,-74.2789185,2026-10-11T15:06:19Z
 e8ae8512-f762-4dc2-9540-c04ffa7fc45b,way/188542505,Westhampton Country Club,,course,,,active,,,,,,https://www.westhamptoncc.org/,,,,,NY,,US,40.811909,-72.6557284,2026-11-08T17:04:48Z
 e8d70c8c-af0a-4662-a138-b7285b3ce785,way/157332372,Fairways of Halfmoon,,course,,,active,,,,,,,,,,,NY,,US,42.9074239,-73.7104987,2026-10-11T15:12:01Z
-e9f5fa88-9e89-48d6-895e-2a45e692110f,relation/21182216,Saranac Lake Golf Course,,course,,,active,,,,,,,,,,,NY,,US,44.2932485,-74.0625909,2026-10-11T15:12:45Z
+e9f5fa88-9e89-48d6-895e-2a45e692110f,relation/21182216,Saranac Lake Golf Course,,course,,,active,,,,,,http://saranaclakegolf.com/,,,,,NY,,US,44.2932485,-74.0625909,2026-11-09T21:27:04Z
 ea5ab2ab-7d47-4706-a0fc-82887757e24c,way/168659475,North Hempstead Country Club,,course,,,active,18,,,,+1-516-365-7500,https://www.nhccli.com/,,,291 Port Washington Boulevard,Port Washington,NY,11050,US,40.8135701,-73.6733623,2026-10-11T15:12:01Z
 eaca6285-8d2f-4a1f-a846-0b0940e58016,way/284374409,Southward Ho Country Club,,course,,,active,18,71,,,,,,,,,NY,,US,40.7112074,-73.2693346,2026-10-11T15:06:19Z
 eb904294-7ee1-4050-af05-a3588f2c879c,way/134932092,,,course,,,active,,,,,,,,,,,NY,,US,44.4472854,-73.6748066,2026-10-11T13:29:54Z
@@ -788,7 +788,7 @@ f6cb9f5e-7f52-449a-b529-612ff6e73bea,way/135966314,Davis Countryside Meadows,,co
 f6d0b15a-3984-4e7c-9f24-0f8a0697b314,way/139557146,Attica's 10th Hole,,course,,,active,9,36,,,,http://www.atticas10thhole.com/,,,95 Bunnell St.,Attica,NY,14011,US,42.8671475,-78.2940978,2026-11-05T18:44:34Z
 f6f7854b-bb5f-45e0-84be-5f049a89f631,way/49169072,Bellport Country Club,,course,,,active,18,,,,,https://www.bellportgolfclub.com/,,,,,NY,,US,40.7481053,-72.9510267,2026-11-07T16:52:25Z
 f793d5f7-a535-4a9a-b056-58f7f8a199f4,way/137271003,LA Golf & Country Club,,course,,,active,9,36,,,+1-315-686-3748,https://www.playlagolf.com/,,,39711 State Route 180,Clayton,NY,13624,US,44.2435031,-75.985214,2026-10-11T15:12:00Z
-f79c7485-7280-4dce-b06d-3b7904102a21,way/137694292,Adirondack Golf And Country Club,,course,,,active,18,72,,,,,,,,,NY,,US,44.6082598,-73.4822935,2026-10-11T15:12:00Z
+f79c7485-7280-4dce-b06d-3b7904102a21,way/137694292,Adirondack Golf And Country Club,,course,,,active,18,72,,,,https://www.adirondackgolfclub.com/,,,,,NY,,US,44.6082598,-73.4822935,2026-11-09T21:25:54Z
 f7cbdcfd-5248-46d3-8b0f-9672dda1ff5b,way/136095137,Vineyards Golf Course,,course,,,active,,,,,,,,,,,NY,,US,42.4382487,-79.367525,2026-10-11T15:11:57Z
 f8b37dbe-4de5-42a7-8b93-d2e52cfc6ae8,way/88823653,Sumpwams Creek Golf Course,,course,,,active,9,,,,,https://sumpwamscreek.com/,,,,,NY,,US,40.7052904,-73.3159695,2026-11-08T17:03:49Z
 f8e7301d-8fbe-4f60-b26a-aef69f73be06,way/139733042,Sagamore Golf Course,,course,,,active,18,70,,,+1-518-743-6380,https://www.opalcollection.com/sagamore/golf/,,,46 Frank Cameron Road,Bolton Landing,NY,12814,US,43.5864701,-73.6659756,2026-10-11T15:12:00Z
@@ -803,15 +803,15 @@ faff8f12-7388-4f12-adbb-c890dcc3dc9a,way/136097903,Maplehurst Country Club,,cour
 fbb942ff-1abf-45c1-ae6d-5cf861349d7d,way/142514350,Ballston Spa Country Club,,course,,,active,18,71,,,+1-518-885-1603,https://www.ballstonspacc.com/,,,1366 Amsterdam Road,Ballston Spa,NY,12020,US,43.0023392,-73.8751656,2026-10-11T15:12:00Z
 fc22dda2-97b0-4223-bcdf-e381ab1c510b,way/140291258,Centennial Golf Club,,course,,,active,,,,,+1-845-225-5700,https://centennialgolf.com/,,,185 John Simpson Road,Carmel,NY,10512,US,41.4242768,-73.6561052,2026-10-11T15:12:00Z
 fc9372c5-7448-4107-87fd-6a3256174bfa,way/136651893,Hollybrook Country Club,,course,,,active,,,,,,,,,,,NY,,US,42.2257263,-76.4898402,2026-10-11T15:12:00Z
-fcba31ed-5814-43b0-99c1-7cfb087ae852,way/213743601,Dutch Hollow Country Club,,course,,,active,18,71,,,,,,,,,NY,,US,42.8607286,-76.4566567,2026-10-11T13:30:07Z
+fcba31ed-5814-43b0-99c1-7cfb087ae852,way/213743601,Dutch Hollow Country Club,,course,,,active,18,71,,,,https://www.dutchhollow.com/,,,,,NY,,US,42.8607286,-76.4566567,2026-11-10T18:42:23Z
 fd06b34f-d4a9-4869-ab64-e02c648bd2a6,relation/6283190,Oliver D. Appleton Golf Course,,course,,,active,18,,,,,,,,100 E Main St,Canton,NY,13617,US,44.5924146,-75.1514069,2026-10-11T15:06:47Z
 fd6190e1-4e8b-4aa2-b676-c76499f2bca7,way/137709800,Tee-Bird Country Club - South,,course,,,active,,,,,,,,,,,NY,,US,43.2577057,-73.6043455,2026-10-11T15:12:00Z
 fd7a70fd-f393-4092-92f6-6d874c28fdc6,way/136707276,Newfane Pro-Am,,course,,,active,,,,,,http://newfaneproam.com/,,,,,NY,,US,43.2940069,-78.708241,2026-10-11T15:12:00Z
 fdb80543-52b2-427d-b7b7-183dc0cef37c,way/1165287429,Victor Hills - East Course,,course,,,active,,,,,+1 585-924-0700,https://www.victorhills.com/,,,1397 Brace Road,Victor,NY,14564,US,42.9654894,-77.3837604,2026-10-11T15:12:27Z
 fdbc7839-28c1-4166-909d-5fe67d4b66c1,way/49951005,Huntington Country Club,,course,,,active,,,,,,https://www.huntingtoncc.org/,,,,,NY,,US,40.8781988,-73.4434208,2026-11-07T16:53:47Z
-fe6c1f9f-464a-4757-ba30-b836acc9231a,way/617216486,Alley Pond Golf Center,,course,,,active,,,,,,,,,,,NY,,US,40.7652657,-73.7487646,2026-10-11T15:12:20Z
+fe6c1f9f-464a-4757-ba30-b836acc9231a,way/617216486,Alley Pond Golf Center,,course,,,active,,,,,,https://alleypondgolf.com/,,,,,NY,,US,40.7652657,-73.7487646,2026-11-09T21:27:31Z
 fef7571e-7f22-47ea-8c0d-f618eb2518e6,way/384764159,,,course,,,active,,,,,,,,,,,NY,,US,40.9159977,-72.7581038,2026-10-11T13:30:39Z
 ff7f2b0e-5089-47ec-a7fa-419acd9e7f48,way/49207716,Colonial Springs Golf Club,,course,,private,active,,,,,+1-631-643-1050,https://www.colonialspringsgolf.com/,,,1 Long Island Avenue,East Farmingdale,NY,11787,US,40.7439334,-73.3899157,2026-10-11T15:11:53Z
-ffa9b60f-91f6-4315-8977-ed630cfb3a3d,way/135578549,Patriot Hills Golf Club,,course,,,active,18,70,,,,,,,,,NY,,US,41.2266365,-74.024424,2026-10-11T15:11:57Z
-ffadfbca-8511-4e76-a8ba-d18f42f6711c,way/122734665,Bonnie Briar Country Club,,course,,,active,,,,,,,,,,,NY,,US,40.9537892,-73.7668067,2026-10-11T15:11:57Z
+ffa9b60f-91f6-4315-8977-ed630cfb3a3d,way/135578549,Patriot Hills Golf Club,,course,,,active,18,70,,,,https://patriothillsgolfclub.com/,,,,,NY,,US,41.2266365,-74.024424,2026-11-09T21:28:53Z
+ffadfbca-8511-4e76-a8ba-d18f42f6711c,way/122734665,Bonnie Briar Country Club,,course,,,active,,,,,,https://bonniebriar.org/,,,,,NY,,US,40.9537892,-73.7668067,2026-11-09T21:27:38Z
 ffcccc85-080d-4dc0-adff-091ecbd8c980,way/135471870,Pinewood Country Club,,course,,,active,9,35,,,+1 585-352-5314,https://pinewood.cc/,,,1189 Ogden-Parma Town Line Road,Spencerport,NY,14559,US,43.2040777,-77.8675018,2026-10-11T15:11:57Z

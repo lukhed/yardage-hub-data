@@ -1,0 +1,11 @@
+course_id,tee_key,gender,par,rating,slope
+0bffe6b1-9fcd-44e6-a62d-a072e2d4f068,red,,27,,
+0bffe6b1-9fcd-44e6-a62d-a072e2d4f068,white,,27,,
+6e386683-440b-4952-9208-ffcbf0494274,gold,,72,,
+6e386683-440b-4952-9208-ffcbf0494274,royal,,72,,
+6e386683-440b-4952-9208-ffcbf0494274,wake-robin,,72,,
+6e386683-440b-4952-9208-ffcbf0494274,white,,72,,
+b1b8e099-6bfa-4246-9647-3e5529a596ad,blue-family,,34,,
+b1b8e099-6bfa-4246-9647-3e5529a596ad,gold-family,,34,,
+b1b8e099-6bfa-4246-9647-3e5529a596ad,red,,34,32.5,104
+b1b8e099-6bfa-4246-9647-3e5529a596ad,white,,34,31.0,98

@@ -15,23 +15,7 @@ database, as plain CSV files you can open in a spreadsheet or load into anything
 
 ## How complete is the data
 
-Most open golf data is a list of names and locations. This is how far yardage-hub has gotten
-toward everything a scoring app needs, counted every week:
-
-Of **16,248 golf courses** (snapshot 2026-11-09; driving ranges, disc, and mini golf not counted), this is how many have each kind of data:
-
-| | Courses | Share |
-|---|---:|---:|
-| A published scorecard is linked | 371 | 2% |
-| The scorecard link was set or checked working in the last year | 371 | 2% |
-| Every hole has its par | 5,866 | 36% |
-| Every hole has its handicap (stroke index) | 2,582 | 16% |
-| At least one set of tees | 463 | 3% |
-| A course rating and slope | 271 | 2% |
-| Hole-by-hole yardages for a set of tees | 428 | 3% |
-| Pars, handicaps, ratings, and yardages: everything a scoring app needs | 260 | 2% |
-
-**By state and region:** [COVERAGE.md](COVERAGE.md) has every state, and each state's folder has its regions, e.g. [Michigan](data/US/MI/). Low numbers are where your [help](#help-fix-the-data) goes furthest.
+Of **16,269 golf courses** in the 2026-11-16 snapshot, **56%** have a website, **37%** have their holes and pars, and **5%** have a scorecard. Every measure, by state and region, and how it's grown: the [coverage dashboard](https://lukeheide.com/sports/yardage-hub/coverage).
 
 ## Download
 
@@ -80,7 +64,7 @@ change is reviewed before it goes live, and every value keeps a record of where 
 
 ## What's in the files
 
-Each state has five CSV files and a README with its coverage by region: `data/<country>/<state>/` (courses with no state are in
+Each state has five CSV files: `data/<country>/<state>/` (courses with no state are in
 `_unknown/`). They join on `course_id`, and tees on `course_id` + `tee_key`.
 
 ### `courses.csv`: one row per course
@@ -119,11 +103,11 @@ published).
 
 `course_id`, `tee_key`, `hole_number`, `yards`.
 
-### `manifest.json`, `coverage.json`, and the coverage pages
+### `manifest.json` and `coverage.json`
 
 `manifest.json` has the snapshot date, row counts, and the courses per state. `coverage.json` has
-how complete the data is nationally, by state, and by region (the numbers behind
-[COVERAGE.md](COVERAGE.md) and each state folder's README). Every course in `courses.csv` belongs
+how complete the data is nationally, by state, and by region (the same numbers as the
+[coverage dashboard](https://lukeheide.com/sports/yardage-hub/coverage)). Every course in `courses.csv` belongs
 to one region; the [API](https://lukeheide.com/sports/yardage-hub/docs) gives each course's region.
 
 ### Things to know
@@ -132,7 +116,7 @@ to one region; the [API](https://lukeheide.com/sports/yardage-hub/docs) gives ea
   pairs of nines, or named courses like West and North), each is its own course with its own
   ratings, and a row of kind `facility` groups them. If you want a list of places to play golf,
   skip `facility` rows; if you want a list of clubs, use them.
-- **Coverage varies** ([how much](COVERAGE.md)). Every course has a location; most have holes and
+- **Coverage varies** ([how much](https://lukeheide.com/sports/yardage-hub/coverage)). Every course has a location; most have holes and
   pars from OpenStreetMap; tees, ratings, and yardages come from published scorecards and
   contributors and are still being filled in. An empty cell means we don't know yet, which is where your
   [help](#help-fix-the-data) comes in.

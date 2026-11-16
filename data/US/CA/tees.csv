@@ -1,83 +1,616 @@
 course_id,tee_key,name,color,total_yardage
+00b25f23-b773-4071-95fb-1f1e2b891a4e,blue,Blue,blue,6557
+00b25f23-b773-4071-95fb-1f1e2b891a4e,gold,Gold,gold,5365
+00b25f23-b773-4071-95fb-1f1e2b891a4e,purple,Purple,purple,4201
+00b25f23-b773-4071-95fb-1f1e2b891a4e,red,Red,red,5771
+00b25f23-b773-4071-95fb-1f1e2b891a4e,white,White,white,6312
+05099599-6b12-4146-aae6-679614715e2c,black,Black,black,6704
+05099599-6b12-4146-aae6-679614715e2c,championship,Championship,,6822
+05099599-6b12-4146-aae6-679614715e2c,gold,Gold,gold,5534
+05099599-6b12-4146-aae6-679614715e2c,green,Green,green,4685
+05099599-6b12-4146-aae6-679614715e2c,red,Red,red,4273
+05099599-6b12-4146-aae6-679614715e2c,white,White,white,6346
+05099599-6b12-4146-aae6-679614715e2c,women-s-combo,Women's Combo,,5002
+085cf0d4-7dca-4ba0-b102-d809b57ea32f,blue,Blue,blue,6211
+085cf0d4-7dca-4ba0-b102-d809b57ea32f,family-blue,Family Blue,,3049
+085cf0d4-7dca-4ba0-b102-d809b57ea32f,family-gold,Family Gold,,4015
+085cf0d4-7dca-4ba0-b102-d809b57ea32f,gold,Gold,gold,6623
+085cf0d4-7dca-4ba0-b102-d809b57ea32f,green,Green,green,4813
+085cf0d4-7dca-4ba0-b102-d809b57ea32f,w-g-combo,W/G Combo,,5208
+085cf0d4-7dca-4ba0-b102-d809b57ea32f,white,White,white,5770
+087bb401-05d6-4fdd-8400-e0bfc091a9a5,black,Black,black,7521
+087bb401-05d6-4fdd-8400-e0bfc091a9a5,blue,Blue,blue,7075
+087bb401-05d6-4fdd-8400-e0bfc091a9a5,copper,Copper,copper,6552
+087bb401-05d6-4fdd-8400-e0bfc091a9a5,green,Green,green,5732
+087bb401-05d6-4fdd-8400-e0bfc091a9a5,red,Red,red,4579
+087bb401-05d6-4fdd-8400-e0bfc091a9a5,silver,Silver,silver,6042
+087bb401-05d6-4fdd-8400-e0bfc091a9a5,white,White,white,5398
 08cef934-fb1b-4940-9e69-3ffff3f7bb28,championship,Championship,blue,6390
 08cef934-fb1b-4940-9e69-3ffff3f7bb28,red,Red,red,5501
 08cef934-fb1b-4940-9e69-3ffff3f7bb28,regular,Regular,white,6148
+09639d7f-8b55-4925-b05a-d5fbf9238daf,blue,Blue,blue,6617
+09639d7f-8b55-4925-b05a-d5fbf9238daf,orange,Orange,orange,4373
+09639d7f-8b55-4925-b05a-d5fbf9238daf,red,Red,red,5772
+09639d7f-8b55-4925-b05a-d5fbf9238daf,white,White,white,6234
+0b6b49b3-2139-4e0a-a4d5-45fa76cdfa0e,orange,Orange,orange,2262
+0b6b49b3-2139-4e0a-a4d5-45fa76cdfa0e,red,Red,red,3702
+0b6b49b3-2139-4e0a-a4d5-45fa76cdfa0e,white,White,white,4742
+0d0f12a2-b5c0-4eef-a7ef-148b4d4b5400,blue,Blue,blue,5715
+0d0f12a2-b5c0-4eef-a7ef-148b4d4b5400,green,Green,green,4678
+0d0f12a2-b5c0-4eef-a7ef-148b4d4b5400,red,Red,red,5031
+0d0f12a2-b5c0-4eef-a7ef-148b4d4b5400,white,White,white,5373
+0d6a904e-f147-47ab-944b-bb3f5bc69b23,blue,Blue,blue,5801
+0d6a904e-f147-47ab-944b-bb3f5bc69b23,gold,Gold,gold,5188
+0d6a904e-f147-47ab-944b-bb3f5bc69b23,white,White,white,5429
 0df9ae9e-74d3-4890-a57f-42e774973853,black,Black,black,
 0df9ae9e-74d3-4890-a57f-42e774973853,blue,Blue,blue,
 0df9ae9e-74d3-4890-a57f-42e774973853,red,Red,red,
 0df9ae9e-74d3-4890-a57f-42e774973853,white,White,white,
+0ebad39c-d162-4167-a022-41eb368aaf85,blue,Blue,blue,3630
+0ebad39c-d162-4167-a022-41eb368aaf85,silver,Silver,silver,3337
+11720848-35ec-4ec9-8883-2525db246bc3,blue,Blue,blue,2431
+11720848-35ec-4ec9-8883-2525db246bc3,silver,Silver,silver,2086
+134af7dd-6c3a-4820-addb-aa4d2b8cf7d3,blue,Blue,blue,6700
+134af7dd-6c3a-4820-addb-aa4d2b8cf7d3,gold,Gold,gold,5870
+134af7dd-6c3a-4820-addb-aa4d2b8cf7d3,red,Red,red,5062
+134af7dd-6c3a-4820-addb-aa4d2b8cf7d3,white,White,white,6367
+1402b0f8-c454-4e9f-8171-d8abfa505854,black,Black,black,6680
+1402b0f8-c454-4e9f-8171-d8abfa505854,blue,Blue,blue,6110
+1402b0f8-c454-4e9f-8171-d8abfa505854,blue-white,Blue/White,,5776
+1402b0f8-c454-4e9f-8171-d8abfa505854,green,Green,green,4821
+1402b0f8-c454-4e9f-8171-d8abfa505854,white,White,white,5497
+1402b0f8-c454-4e9f-8171-d8abfa505854,white-green,White/Green,,5258
 15030edf-a985-4026-957e-600e54ff6a74,back,Back,back,
 15030edf-a985-4026-957e-600e54ff6a74,front,Front,front,
 15030edf-a985-4026-957e-600e54ff6a74,middle,Middle,middle,
+1515ec01-3025-4bbe-b4a3-9872c9a725cd,blue,Blue,blue,6124
+1515ec01-3025-4bbe-b4a3-9872c9a725cd,gold,Gold,gold,5405
+1515ec01-3025-4bbe-b4a3-9872c9a725cd,white,White,white,5846
+1558b73e-64b2-456b-a7eb-ddb961b700fe,black,Black,black,6553
+1558b73e-64b2-456b-a7eb-ddb961b700fe,blue,Blue,blue,6130
+1558b73e-64b2-456b-a7eb-ddb961b700fe,red,Red,red,5196
+1558b73e-64b2-456b-a7eb-ddb961b700fe,white,White,white,5680
+15e0749e-adf4-474f-8119-b90445deec06,black,Black,black,6724
+15e0749e-adf4-474f-8119-b90445deec06,blue,Blue,blue,6562
+15e0749e-adf4-474f-8119-b90445deec06,green,Green,green,5088
+15e0749e-adf4-474f-8119-b90445deec06,red,Red,red,4024
+15e0749e-adf4-474f-8119-b90445deec06,white,White,white,5940
 16a99d51-9e72-4013-8f03-38271879fa2d,black,Black,black,6781
 16a99d51-9e72-4013-8f03-38271879fa2d,gold,Gold,gold,5851
 16a99d51-9e72-4013-8f03-38271879fa2d,green,Green,green,6346
 16a99d51-9e72-4013-8f03-38271879fa2d,silver,Silver,silver,5197
 16a99d51-9e72-4013-8f03-38271879fa2d,taupe,Taupe,taupe,7259
+16c807d5-c7ce-4130-922a-39b8bed29d06,black,Black,black,7300
+16c807d5-c7ce-4130-922a-39b8bed29d06,blue,Blue,blue,6739
+16c807d5-c7ce-4130-922a-39b8bed29d06,blue-white-combo,Blue/White Combo,,6383
+16c807d5-c7ce-4130-922a-39b8bed29d06,gold,Gold,gold,5700
+16c807d5-c7ce-4130-922a-39b8bed29d06,gold-red-combo,Gold/Red Combo,,5370
+16c807d5-c7ce-4130-922a-39b8bed29d06,red,Red,red,5092
+16c807d5-c7ce-4130-922a-39b8bed29d06,silver,Silver,silver,4084
+16c807d5-c7ce-4130-922a-39b8bed29d06,white,White,white,6166
 18ce4258-7095-4232-bafe-9d263810c889,blue,Blue,blue,
 18ce4258-7095-4232-bafe-9d263810c889,red,Red,red,
 18ce4258-7095-4232-bafe-9d263810c889,white,White,white,
-195c47b1-756d-41bb-8888-f2bf2df83351,black,Black,black,
-195c47b1-756d-41bb-8888-f2bf2df83351,blue,Blue,blue,
-195c47b1-756d-41bb-8888-f2bf2df83351,white,White,white,
+1913302e-aba5-4282-a1f7-d460a55e1edb,blue,Blue,blue,6583
+1913302e-aba5-4282-a1f7-d460a55e1edb,copper,Copper,copper,6951
+1913302e-aba5-4282-a1f7-d460a55e1edb,red,Red,red,5245
+1913302e-aba5-4282-a1f7-d460a55e1edb,white,White,white,6187
+195c47b1-756d-41bb-8888-f2bf2df83351,black,Black,black,6335
+195c47b1-756d-41bb-8888-f2bf2df83351,blue,Blue,blue,5917
+195c47b1-756d-41bb-8888-f2bf2df83351,blue-white,Blue/White,,5595
+195c47b1-756d-41bb-8888-f2bf2df83351,gold,Gold,gold,4565
+195c47b1-756d-41bb-8888-f2bf2df83351,tournament,Tournament,,6828
+195c47b1-756d-41bb-8888-f2bf2df83351,white,White,white,5247
+195c47b1-756d-41bb-8888-f2bf2df83351,white-gold,White/Gold,,4919
 19ffbf86-ad79-4e49-9da6-c97c6bc55240,blue,Blue,blue,
 19ffbf86-ad79-4e49-9da6-c97c6bc55240,red,Red,red,
 19ffbf86-ad79-4e49-9da6-c97c6bc55240,white,White,white,
+1d1cf81e-1dce-4784-9759-bcf2254e0a1c,black,Black,black,6707
+1d1cf81e-1dce-4784-9759-bcf2254e0a1c,blue,Blue,blue,6343
+1d1cf81e-1dce-4784-9759-bcf2254e0a1c,orange,Orange,orange,3971
+1d1cf81e-1dce-4784-9759-bcf2254e0a1c,red,Red,red,5130
+1d1cf81e-1dce-4784-9759-bcf2254e0a1c,white,White,white,5952
+1f1cfdcd-69b1-4db6-89b7-29a7031eb3d2,blue,Blue,blue,7066
+1f1cfdcd-69b1-4db6-89b7-29a7031eb3d2,gold,Gold,gold,6173
+1f1cfdcd-69b1-4db6-89b7-29a7031eb3d2,red,Red,red,5187
+1f1cfdcd-69b1-4db6-89b7-29a7031eb3d2,white,White,white,6558
+1f1cfdcd-69b1-4db6-89b7-29a7031eb3d2,white-gold,White/Gold,,6375
+20a775e9-1132-4239-9ed0-8afd8185aef0,blue,Blue,blue,6440
+20a775e9-1132-4239-9ed0-8afd8185aef0,red,Red,red,5519
+20a775e9-1132-4239-9ed0-8afd8185aef0,white,White,white,6113
+23b4b84b-81a4-4a67-9f90-654234431b14,black,Black,black,6714
+23b4b84b-81a4-4a67-9f90-654234431b14,blue,Blue,blue,6423
+23b4b84b-81a4-4a67-9f90-654234431b14,combo-tee,Combo Tee,,5811
+23b4b84b-81a4-4a67-9f90-654234431b14,white,White,white,6168
+23b4b84b-81a4-4a67-9f90-654234431b14,yellow,Yellow,yellow,4946
+2594883a-ea0a-485f-a3d8-cc2c090755e5,back-regulation,Back Regulation,,1671
+2594883a-ea0a-485f-a3d8-cc2c090755e5,championship,Championship,,1795
+2594883a-ea0a-485f-a3d8-cc2c090755e5,front-regulation,Front Regulation,,1521
+2865b72e-617b-43dd-9bb1-683acb980622,blue,Blue,blue,6317
+2865b72e-617b-43dd-9bb1-683acb980622,red,Red,red,5393
+2865b72e-617b-43dd-9bb1-683acb980622,tournament,Tournament,,6123
+2865b72e-617b-43dd-9bb1-683acb980622,white,White,white,5970
+290d8c83-192a-4360-b94c-fbcd9041da33,blue,Blue,blue,6647
+290d8c83-192a-4360-b94c-fbcd9041da33,blue-white-combo,Blue/White Combo,,6437
+290d8c83-192a-4360-b94c-fbcd9041da33,blue-white-combo-f,Blue/White Combo,,6437
+290d8c83-192a-4360-b94c-fbcd9041da33,gold,Gold,gold,5608
+290d8c83-192a-4360-b94c-fbcd9041da33,red,Red,red,5364
+290d8c83-192a-4360-b94c-fbcd9041da33,white,White,white,6270
+290d8c83-192a-4360-b94c-fbcd9041da33,white-gold-combo,White/Gold Combo,,5886
+29211d66-b350-474d-8b2d-579a7e5aba4a,blue,Blue,blue,5079
+29211d66-b350-474d-8b2d-579a7e5aba4a,gold,Gold,gold,3455
+29211d66-b350-474d-8b2d-579a7e5aba4a,red,Red,red,3917
+29211d66-b350-474d-8b2d-579a7e5aba4a,white,White,white,4505
+2a1104a0-7088-4753-b87f-36b22938973f,blue,Blue,blue,5724
+2a1104a0-7088-4753-b87f-36b22938973f,orange,Orange,orange,3714
+2a1104a0-7088-4753-b87f-36b22938973f,red,Red,red,4954
+2a1104a0-7088-4753-b87f-36b22938973f,white,White,white,5366
+2a1104a0-7088-4753-b87f-36b22938973f,white-red,White/Red,,5173
+2a3677cf-5ddf-4e79-8d09-460f1009daf4,blue,Blue,blue,5764
+2a3677cf-5ddf-4e79-8d09-460f1009daf4,gold,Gold,gold,4642
+2a3677cf-5ddf-4e79-8d09-460f1009daf4,red,Red,red,4229
+2a3677cf-5ddf-4e79-8d09-460f1009daf4,white,White,white,5399
+2adb2178-db73-447d-8343-8c054438c7c1,red-tees,Red Tees,red,2096
+2adb2178-db73-447d-8343-8c054438c7c1,white-tees,White Tees,white,2204
 2d423bf7-5b96-4361-98df-c5579c8b1691,blue,Blue,blue,
 2d423bf7-5b96-4361-98df-c5579c8b1691,red,Red,red,
 2f98e3d3-117a-4702-ae14-1e638f06e774,four-trees,Four Trees,,7540
 2f98e3d3-117a-4702-ae14-1e638f06e774,one-tree,One Tree,,5419
 2f98e3d3-117a-4702-ae14-1e638f06e774,three-trees,Three Trees,,6981
 2f98e3d3-117a-4702-ae14-1e638f06e774,two-trees,Two Trees,,6457
-35c970e4-4713-4069-b8c8-319ab1c41851,blue,Blue,blue,
+2fb1ec2e-270e-4c62-a52d-3a38b8a2f823,blue,Blue,blue,6564
+2fb1ec2e-270e-4c62-a52d-3a38b8a2f823,combo,Combo,,6293
+2fb1ec2e-270e-4c62-a52d-3a38b8a2f823,red,Red,red,5286
+2fb1ec2e-270e-4c62-a52d-3a38b8a2f823,white,White,white,6026
+3038aed4-3b90-4d2f-a804-0451ee55062b,blue,Blue,blue,7093
+3038aed4-3b90-4d2f-a804-0451ee55062b,gold,Gold,gold,6000
+3038aed4-3b90-4d2f-a804-0451ee55062b,red,Red,red,5175
+3038aed4-3b90-4d2f-a804-0451ee55062b,white,White,white,6546
+304845a3-f972-467a-8d35-54a0c88d968c,black,Black,black,6959
+304845a3-f972-467a-8d35-54a0c88d968c,blue,Blue,blue,6529
+304845a3-f972-467a-8d35-54a0c88d968c,gold,Gold,gold,5099
+304845a3-f972-467a-8d35-54a0c88d968c,red,Red,red,5565
+304845a3-f972-467a-8d35-54a0c88d968c,silver,Silver,silver,5887
+304845a3-f972-467a-8d35-54a0c88d968c,white,White,white,6069
+31494cbe-86d8-433d-bbf6-8e37811e856e,black,Black,black,7011
+31494cbe-86d8-433d-bbf6-8e37811e856e,blue,Blue,blue,6602
+31494cbe-86d8-433d-bbf6-8e37811e856e,gold,Gold,gold,5045
+31494cbe-86d8-433d-bbf6-8e37811e856e,red,Red,red,5553
+31494cbe-86d8-433d-bbf6-8e37811e856e,white,White,white,6115
+35621b19-f947-4ad4-a856-f3611552ecfa,blue,Blue,blue,5608
+35621b19-f947-4ad4-a856-f3611552ecfa,red,Red,red,4946
+35621b19-f947-4ad4-a856-f3611552ecfa,white,White,white,5285
+35c970e4-4713-4069-b8c8-319ab1c41851,black-aggie,Black (Aggie),black,7138
+35c970e4-4713-4069-b8c8-319ab1c41851,blue,Blue,blue,6855
+35c970e4-4713-4069-b8c8-319ab1c41851,gold,Gold,gold,5285
+35c970e4-4713-4069-b8c8-319ab1c41851,red,Red,red,5849
+35c970e4-4713-4069-b8c8-319ab1c41851,white,White,white,6499
+36018f5b-6f6e-409b-934c-4f29efd3fe8f,back,Back,,5940
+36018f5b-6f6e-409b-934c-4f29efd3fe8f,forward,Forward,,5045
+36018f5b-6f6e-409b-934c-4f29efd3fe8f,middle,Middle,,5515
+3689e442-7847-4111-b13d-82a13c2b2b73,four-hawk,Four Hawk,,6955
+3689e442-7847-4111-b13d-82a13c2b2b73,one-hawk,One Hawk,,4799
+3689e442-7847-4111-b13d-82a13c2b2b73,three-hawk,Three Hawk,,6474
+3689e442-7847-4111-b13d-82a13c2b2b73,two-hawk,Two Hawk,,5704
+3a239b98-fc3d-49db-bec4-ead5f1d277f8,black,Black,black,6284
+3a239b98-fc3d-49db-bec4-ead5f1d277f8,blue,Blue,blue,5892
+3a239b98-fc3d-49db-bec4-ead5f1d277f8,gold-16,Gold (16+),gold,4801
+3a239b98-fc3d-49db-bec4-ead5f1d277f8,gold-28,Gold (28+),gold,4887
+3a239b98-fc3d-49db-bec4-ead5f1d277f8,white,White,white,5465
+3a498bd0-d67a-4cb6-8d19-d8d066c48fe5,black,Black,black,7027
+3a498bd0-d67a-4cb6-8d19-d8d066c48fe5,blue,Blue,blue,6633
+3a498bd0-d67a-4cb6-8d19-d8d066c48fe5,gold,Gold,gold,5907
+3a498bd0-d67a-4cb6-8d19-d8d066c48fe5,red,Red,red,5184
+3a498bd0-d67a-4cb6-8d19-d8d066c48fe5,white,White,white,6420
+3a498bd0-d67a-4cb6-8d19-d8d066c48fe5,white-gold,White/Gold,,6112
+3b5a9929-1a43-4bf6-b4d7-ebc312e50716,black,Black,black,6515
+3b5a9929-1a43-4bf6-b4d7-ebc312e50716,combo-b-s,Combo B/S,,6306
+3b5a9929-1a43-4bf6-b4d7-ebc312e50716,combo-o-g,Combo O/G,,5226
+3b5a9929-1a43-4bf6-b4d7-ebc312e50716,combo-s-o,Combo S/O,,5763
+3b5a9929-1a43-4bf6-b4d7-ebc312e50716,combo-t-b,Combo T/B,,6881
+3b5a9929-1a43-4bf6-b4d7-ebc312e50716,gold,Gold,gold,4774
+3b5a9929-1a43-4bf6-b4d7-ebc312e50716,orange,Orange,orange,5485
+3b5a9929-1a43-4bf6-b4d7-ebc312e50716,silver,Silver,silver,6031
+3b5a9929-1a43-4bf6-b4d7-ebc312e50716,tour,Tour,blue,7188
+3cad1132-a070-4ddd-867a-ba8ec78f51be,i,I,,931
+3cad1132-a070-4ddd-867a-ba8ec78f51be,ii,II,,1177
+3d3bc37d-f416-4e94-bed2-aea8e18e5f88,black,Black,black,6308
+3d3bc37d-f416-4e94-bed2-aea8e18e5f88,blue,Blue,blue,5990
+3d3bc37d-f416-4e94-bed2-aea8e18e5f88,gold,Gold,gold,5086
+3d3bc37d-f416-4e94-bed2-aea8e18e5f88,red,Red,red,4437
+3d3bc37d-f416-4e94-bed2-aea8e18e5f88,white,White,white,5532
+3ddf8480-3656-4244-99a9-44b61cf93b6c,yardage,Yardage,,1115
+3f5326e8-803e-4b89-acf0-f2a689edd3ed,blue,Blue,blue,6186
+3f5326e8-803e-4b89-acf0-f2a689edd3ed,gold,Gold,gold,6547
+3f5326e8-803e-4b89-acf0-f2a689edd3ed,red,Red,red,5093
+3f5326e8-803e-4b89-acf0-f2a689edd3ed,silver,Silver,silver,5457
+3f5326e8-803e-4b89-acf0-f2a689edd3ed,white,White,white,5928
+3fe02f89-3bca-46b9-9216-117871864c3e,yardage,Yardage,,2078
+41467e12-62a4-4561-98c9-22bdfc6712d1,blue,Blue,blue,6511
+41467e12-62a4-4561-98c9-22bdfc6712d1,combo,Combo,,5696
+41467e12-62a4-4561-98c9-22bdfc6712d1,gold,Gold,gold,5432
+41467e12-62a4-4561-98c9-22bdfc6712d1,green,Green,green,5048
+41467e12-62a4-4561-98c9-22bdfc6712d1,white,White,white,6095
+4149744c-7201-40be-a847-a478f65e5577,blue,Blue,blue,6544
+4149744c-7201-40be-a847-a478f65e5577,red,Red,red,4924
+4149744c-7201-40be-a847-a478f65e5577,white,White,white,6012
+4149744c-7201-40be-a847-a478f65e5577,yellow,Yellow,yellow,4656
+47313049-7b15-4dde-a9c5-63eef6963b0f,black,Black,black,6725
+47313049-7b15-4dde-a9c5-63eef6963b0f,blue,Blue,blue,6555
+47313049-7b15-4dde-a9c5-63eef6963b0f,gold,Gold,gold,5666
+47313049-7b15-4dde-a9c5-63eef6963b0f,red,Red,red,5567
+47313049-7b15-4dde-a9c5-63eef6963b0f,white,White,white,6184
+4797f59a-96d3-4d1b-937f-2a181520496b,black,Black,black,6971
+4797f59a-96d3-4d1b-937f-2a181520496b,blue,Blue,blue,6534
+4797f59a-96d3-4d1b-937f-2a181520496b,combo,Combo,,5702
+4797f59a-96d3-4d1b-937f-2a181520496b,gold,Gold,gold,5290
+4797f59a-96d3-4d1b-937f-2a181520496b,white,White,white,6015
+4797f59a-96d3-4d1b-937f-2a181520496b,white-f,White,white,6015
+48c83a3f-5956-4afa-9508-d8128da79a19,black,Black,black,6716
+48c83a3f-5956-4afa-9508-d8128da79a19,blue,Blue,blue,6425
+48c83a3f-5956-4afa-9508-d8128da79a19,gold,Gold,gold,5711
+48c83a3f-5956-4afa-9508-d8128da79a19,green,Green,green,4797
+48c83a3f-5956-4afa-9508-d8128da79a19,red,Red,red,5548
+48c83a3f-5956-4afa-9508-d8128da79a19,white,White,white,6192
+4cf9c9c2-27ce-4c7b-9e21-2464beb29af0,black,Black,black,7156
+4cf9c9c2-27ce-4c7b-9e21-2464beb29af0,blue,Blue,blue,6671
+4cf9c9c2-27ce-4c7b-9e21-2464beb29af0,gold,Gold,gold,5751
+4cf9c9c2-27ce-4c7b-9e21-2464beb29af0,red,Red,red,5297
+4cf9c9c2-27ce-4c7b-9e21-2464beb29af0,silver,Silver,silver,3978
+4cf9c9c2-27ce-4c7b-9e21-2464beb29af0,white,White,white,6227
 4dd06b0d-1633-44ec-9d8a-da90d12217cd,black,Black,black,6467
 4dd06b0d-1633-44ec-9d8a-da90d12217cd,blue,Blue,blue,6005
 4dd06b0d-1633-44ec-9d8a-da90d12217cd,red,Red,red,4719
 4dd06b0d-1633-44ec-9d8a-da90d12217cd,white,White,white,5374
+4e0555af-dbb0-45a7-8f3d-b214e6aaa464,blue,Blue,blue,6400
+4e0555af-dbb0-45a7-8f3d-b214e6aaa464,red,Red,red,5375
+4e0555af-dbb0-45a7-8f3d-b214e6aaa464,white,White,white,6004
+4ea6e02e-a7e3-414b-bdc9-2e2819815a44,black,Black,black,6156
+4ea6e02e-a7e3-414b-bdc9-2e2819815a44,black-green-gold-combo,Black/Green/Gold Combo,,5796
+4ea6e02e-a7e3-414b-bdc9-2e2819815a44,gold,Gold,gold,5171
+4ea6e02e-a7e3-414b-bdc9-2e2819815a44,green,Green,green,5819
+4ea6e02e-a7e3-414b-bdc9-2e2819815a44,green-gold-combo,Green/Gold Combo,,5495
+4f6557b2-2600-47df-a3d4-53360f8b0e02,blue,Blue,blue,6962
+4f6557b2-2600-47df-a3d4-53360f8b0e02,gold,Gold,gold,5277
+4f6557b2-2600-47df-a3d4-53360f8b0e02,red,Red,red,6212
+4f6557b2-2600-47df-a3d4-53360f8b0e02,silver,Silver,silver,5799
+4f6557b2-2600-47df-a3d4-53360f8b0e02,white,White,white,6629
 4f891ffb-88a9-449b-8b2c-9953dd7ee1e5,blue,Blue,blue,6157
 4f891ffb-88a9-449b-8b2c-9953dd7ee1e5,gold,Gold,gold,5499
 4f891ffb-88a9-449b-8b2c-9953dd7ee1e5,gold-f,Gold,gold,5499
 4f891ffb-88a9-449b-8b2c-9953dd7ee1e5,red,Red,red,5367
 4f891ffb-88a9-449b-8b2c-9953dd7ee1e5,white,White,white,6003
+501e7191-2f39-403c-a7e3-e9c4cb2e4137,men-s-regular,Men's Regular,,3029
+501e7191-2f39-403c-a7e3-e9c4cb2e4137,women-s-regular,Women's Regular,,2481
+5070e457-00b6-4a09-ad9a-05b24f8bb7c2,blue,Blue,blue,6591
+5070e457-00b6-4a09-ad9a-05b24f8bb7c2,gold,Gold,gold,5007
+5070e457-00b6-4a09-ad9a-05b24f8bb7c2,ladies-w-g-combo,Ladies' W/G Combo,,5410
+5070e457-00b6-4a09-ad9a-05b24f8bb7c2,men-s-b-w-combo,Men's B/W Combo,,6340
+5070e457-00b6-4a09-ad9a-05b24f8bb7c2,palmer,Palmer,,7007
+5070e457-00b6-4a09-ad9a-05b24f8bb7c2,white,White,white,6054
+53bf734c-2696-45ba-9ded-921510902c49,championship,Championship,,6908
+53bf734c-2696-45ba-9ded-921510902c49,forward,Forward,,5226
+53bf734c-2696-45ba-9ded-921510902c49,regular,Regular,,6310
+57c87e56-e3bf-4dbf-8fda-f8a122f6476d,yardage,Yardage,,1250
+58354c09-6249-4010-afb4-29bcd0180d59,blue,Blue,blue,6039
+58354c09-6249-4010-afb4-29bcd0180d59,gold,Gold,gold,5490
+58354c09-6249-4010-afb4-29bcd0180d59,green,Green,green,5012
+58354c09-6249-4010-afb4-29bcd0180d59,white,White,white,5773
+5c0b4e76-2892-44ec-b566-00f19cd0de09,blue,Blue,blue,3305
+5c0b4e76-2892-44ec-b566-00f19cd0de09,gold,Gold,gold,2501
+5c0b4e76-2892-44ec-b566-00f19cd0de09,red,Red,red,2713
+5c0b4e76-2892-44ec-b566-00f19cd0de09,white,White,white,3051
+5dc5b831-4260-46f2-bf27-8eacb9309116,black,Black,black,7141
+5dc5b831-4260-46f2-bf27-8eacb9309116,blue,Blue,blue,6597
+5dc5b831-4260-46f2-bf27-8eacb9309116,red,Red,red,4899
+5dc5b831-4260-46f2-bf27-8eacb9309116,white,White,white,6169
+5ed67340-ca80-4183-b58f-261598d07875,blue,Blue,blue,1695
+5ed67340-ca80-4183-b58f-261598d07875,white,White,white,1403
+61e34a88-5bb6-42b2-8fd9-7f4260e7f794,blue,Blue,blue,6061
+61e34a88-5bb6-42b2-8fd9-7f4260e7f794,red-ladies,Red - Ladies,red,5742
+61e34a88-5bb6-42b2-8fd9-7f4260e7f794,white-ladies,White - Ladies,white,6061
+62cc60e2-f1cc-4da1-9e64-b38b0403652e,blue,Blue,blue,6445
+62cc60e2-f1cc-4da1-9e64-b38b0403652e,orange,Orange,orange,4261
+62cc60e2-f1cc-4da1-9e64-b38b0403652e,red,Red,red,5640
+62cc60e2-f1cc-4da1-9e64-b38b0403652e,white,White,white,6090
+63302089-6192-486d-926d-4a5e53226a0e,yardage,Yardage,,922
+6345b5f8-b7f0-4976-956a-896ebdbb2bf6,black,Black,black,7036
+6345b5f8-b7f0-4976-956a-896ebdbb2bf6,blue,Blue,blue,6702
+6345b5f8-b7f0-4976-956a-896ebdbb2bf6,gold,Gold,gold,5915
+6345b5f8-b7f0-4976-956a-896ebdbb2bf6,red,Red,red,5379
+6345b5f8-b7f0-4976-956a-896ebdbb2bf6,white,White,white,6294
+634c50b4-e7cd-449e-bab0-9a65e6cbc202,blue,Blue,blue,6286
+634c50b4-e7cd-449e-bab0-9a65e6cbc202,orange,Orange,orange,3906
+634c50b4-e7cd-449e-bab0-9a65e6cbc202,red,Red,red,5550
+634c50b4-e7cd-449e-bab0-9a65e6cbc202,white,White,white,6032
+648f6d56-bab1-49ba-b291-2cc62fc02e78,black,Black,black,6430
+648f6d56-bab1-49ba-b291-2cc62fc02e78,black-blue-combo,Black/Blue Combo,,6138
+648f6d56-bab1-49ba-b291-2cc62fc02e78,blue,Blue,blue,5953
+648f6d56-bab1-49ba-b291-2cc62fc02e78,blue-white-combo,Blue/White Combo,,5728
+648f6d56-bab1-49ba-b291-2cc62fc02e78,gold,Gold,gold,6820
+648f6d56-bab1-49ba-b291-2cc62fc02e78,red,Red,red,4590
+648f6d56-bab1-49ba-b291-2cc62fc02e78,white,White,white,5558
+648f6d56-bab1-49ba-b291-2cc62fc02e78,white-red-combo,White/Red Combo,,5115
+64b1bcdc-bda4-47e6-b1f8-4cf84e437b97,black,Black,black,7044
+64b1bcdc-bda4-47e6-b1f8-4cf84e437b97,blue,Blue,blue,6634
+64b1bcdc-bda4-47e6-b1f8-4cf84e437b97,hanse,Hanse,,6441
+64b1bcdc-bda4-47e6-b1f8-4cf84e437b97,red,Red,red,5275
+64b1bcdc-bda4-47e6-b1f8-4cf84e437b97,white,White,white,6049
+6538fe13-243b-4568-ac8a-b94c9cb3ef6b,black,Black,black,7304
+6538fe13-243b-4568-ac8a-b94c9cb3ef6b,blue,Blue,blue,6700
+6538fe13-243b-4568-ac8a-b94c9cb3ef6b,green,Green,green,6320
+6538fe13-243b-4568-ac8a-b94c9cb3ef6b,red,Red,red,5039
+6538fe13-243b-4568-ac8a-b94c9cb3ef6b,white,White,white,6101
+6538fe13-243b-4568-ac8a-b94c9cb3ef6b,yellow,Yellow,yellow,5684
 679f8f1d-6341-4767-8950-7caeda702731,red,Red,red,5144
 679f8f1d-6341-4767-8950-7caeda702731,white,White,white,5301
+693aae29-3699-4ba4-a9c1-153135e26a27,blue,Blue,blue,6572
+693aae29-3699-4ba4-a9c1-153135e26a27,gold,Gold,gold,5386
+693aae29-3699-4ba4-a9c1-153135e26a27,red,Red,red,6112
+693aae29-3699-4ba4-a9c1-153135e26a27,white,White,white,6338
+6a7162e1-ce5d-4b45-b89d-14d8f7b93300,blue,Blue,blue,5900
+6a7162e1-ce5d-4b45-b89d-14d8f7b93300,red,Red,red,5199
+6a7162e1-ce5d-4b45-b89d-14d8f7b93300,white,White,white,5599
+6ba811e0-9875-4c09-a96c-ae55cd82b71a,black,Black,black,4445
+6ba811e0-9875-4c09-a96c-ae55cd82b71a,green,Green,green,3599
+6ba811e0-9875-4c09-a96c-ae55cd82b71a,white,White,white,4157
+6c5de93e-2404-4ee7-a1d4-aaf3afffff3c,r,R,,3572
+6c5de93e-2404-4ee7-a1d4-aaf3afffff3c,w,W,,4034
+6d281dfe-f789-4dd7-99e6-bdc17c23b162,blue,Blue,blue,3039
+6d281dfe-f789-4dd7-99e6-bdc17c23b162,red,Red,red,2400
+6e586b03-22c2-4dd8-8bd7-533da00eb3a7,blue,Blue,blue,5244
+6e586b03-22c2-4dd8-8bd7-533da00eb3a7,red,Red,red,4580
+6e586b03-22c2-4dd8-8bd7-533da00eb3a7,white,White,white,4986
 72fdef09-2b02-4177-b571-49dc0fd53a21,black,Black,black,
 72fdef09-2b02-4177-b571-49dc0fd53a21,blue,Blue,blue,
 72fdef09-2b02-4177-b571-49dc0fd53a21,green,Green,green,
 72fdef09-2b02-4177-b571-49dc0fd53a21,red,Red,red,
 72fdef09-2b02-4177-b571-49dc0fd53a21,white,White,white,
 72fdef09-2b02-4177-b571-49dc0fd53a21,yellow,Yellow,yellow,
+7a481420-63ae-477d-b35f-922c2957b17f,black,Black,black,6780
+7a481420-63ae-477d-b35f-922c2957b17f,blue,Blue,blue,6290
+7a481420-63ae-477d-b35f-922c2957b17f,gold,Gold,gold,5264
+7a481420-63ae-477d-b35f-922c2957b17f,green,Green,green,4483
+7a481420-63ae-477d-b35f-922c2957b17f,white,White,white,5762
+7ef902b8-2042-4cd9-a90f-3bc83ff46a84,championship-blue,Championship (Blue),blue,6464
+7ef902b8-2042-4cd9-a90f-3bc83ff46a84,combo-blue-white,Combo (Blue/White),,6206
+7ef902b8-2042-4cd9-a90f-3bc83ff46a84,combo-white-red,Combo (White/Red),,5506
+7ef902b8-2042-4cd9-a90f-3bc83ff46a84,forward-red,Forward (Red),red,5139
+7ef902b8-2042-4cd9-a90f-3bc83ff46a84,regular-white,Regular (White),white,5889
+7ef902b8-2042-4cd9-a90f-3bc83ff46a84,tournament-black,Tournament (Black),black,7001
+80ea5cc6-9073-4cdc-ba00-3425ab91e2c5,blue-tees,Blue Tees,blue,2302
+80ea5cc6-9073-4cdc-ba00-3425ab91e2c5,red-tees,Red Tees,red,2173
+810a61cf-c6b3-4dd4-bd79-c08790286f05,blue,Blue,blue,6188
+810a61cf-c6b3-4dd4-bd79-c08790286f05,gold,Gold,gold,5142
+810a61cf-c6b3-4dd4-bd79-c08790286f05,palmer,Palmer,,6619
+810a61cf-c6b3-4dd4-bd79-c08790286f05,red,Red,red,4613
+810a61cf-c6b3-4dd4-bd79-c08790286f05,white,White,white,5698
+81aa1a5e-8bfd-4da5-b1b2-f57f893cab3b,black,Black,black,6395
+81aa1a5e-8bfd-4da5-b1b2-f57f893cab3b,blue,Blue,blue,5969
+81aa1a5e-8bfd-4da5-b1b2-f57f893cab3b,pro,Pro,,6725
+81aa1a5e-8bfd-4da5-b1b2-f57f893cab3b,white,White,white,5416
+8202afb7-8fb6-4002-9888-07414930ae0e,black,Black,black,6921
+8202afb7-8fb6-4002-9888-07414930ae0e,blue,Blue,blue,6386
+8202afb7-8fb6-4002-9888-07414930ae0e,red,Red,red,5297
+8202afb7-8fb6-4002-9888-07414930ae0e,white,White,white,5931
+8304873d-78ab-494a-be32-cc0ada8b287d,black,Black,black,6909
+8304873d-78ab-494a-be32-cc0ada8b287d,blue,Blue,blue,6343
+8304873d-78ab-494a-be32-cc0ada8b287d,gold,Gold,gold,5364
+8304873d-78ab-494a-be32-cc0ada8b287d,red,Red,red,5579
+8304873d-78ab-494a-be32-cc0ada8b287d,white,White,white,6060
 83fcefc0-0d17-4a22-89b3-a87d2f1784be,black,Black,black,
 83fcefc0-0d17-4a22-89b3-a87d2f1784be,blue,Blue,blue,
 83fcefc0-0d17-4a22-89b3-a87d2f1784be,green,Green,green,
 83fcefc0-0d17-4a22-89b3-a87d2f1784be,red,Red,red,
 83fcefc0-0d17-4a22-89b3-a87d2f1784be,white,White,white,
 83fcefc0-0d17-4a22-89b3-a87d2f1784be,yellow,Yellow,yellow,
+85607cbf-5b84-46c5-a53e-3f49bbfa69b6,blue,Blue,blue,6014
+85607cbf-5b84-46c5-a53e-3f49bbfa69b6,gold,Gold,gold,5352
+85607cbf-5b84-46c5-a53e-3f49bbfa69b6,red,Red,red,4988
+85607cbf-5b84-46c5-a53e-3f49bbfa69b6,white,White,white,5661
+85dcc3ed-e726-4bc6-869b-385587221f6a,black,Black,black,6681
+85dcc3ed-e726-4bc6-869b-385587221f6a,blue,Blue,blue,6496
+85dcc3ed-e726-4bc6-869b-385587221f6a,gold,Gold,gold,5660
+85dcc3ed-e726-4bc6-869b-385587221f6a,white,White,white,6081
 862a494c-b27e-4f4d-a32e-4f0b398dc42f,green,Green,green,
 862a494c-b27e-4f4d-a32e-4f0b398dc42f,plum,Plum,plum,
 862a494c-b27e-4f4d-a32e-4f0b398dc42f,white,White,white,
+884d6d7a-5296-4564-afe2-fbafda67cd1e,blue,Blue,blue,3966
+884d6d7a-5296-4564-afe2-fbafda67cd1e,white,White,white,3454
+88d99441-0c7c-4e95-840b-5651f40cc889,b-w,B/W,,6255
+88d99441-0c7c-4e95-840b-5651f40cc889,black,Black,black,6756
+88d99441-0c7c-4e95-840b-5651f40cc889,blue,Blue,blue,6439
+88d99441-0c7c-4e95-840b-5651f40cc889,gold,Gold,gold,5564
+88d99441-0c7c-4e95-840b-5651f40cc889,red,Red,red,4937
+88d99441-0c7c-4e95-840b-5651f40cc889,white,White,white,6045
 898370ef-7108-4bf5-996d-0832c27710b8,blue,Blue,blue,
 898370ef-7108-4bf5-996d-0832c27710b8,red,Red,red,
 898370ef-7108-4bf5-996d-0832c27710b8,white,White,white,
+917a8845-e93a-4af6-b531-e9795e4a1dbe,blue,Blue,blue,4339
+917a8845-e93a-4af6-b531-e9795e4a1dbe,white,White,white,4075
+926f5902-dbdf-48ac-be0b-16345440696c,back-blue,Back (Blue),blue,6550
+926f5902-dbdf-48ac-be0b-16345440696c,championship-gold,Championship (Gold),gold,7082
+926f5902-dbdf-48ac-be0b-16345440696c,forward-green,Forward (Green),green,5294
+926f5902-dbdf-48ac-be0b-16345440696c,middle-white,Middle (White),white,6070
+9280fe14-27f7-4da8-add0-88b2fde3609f,black,Black,black,6559
+9280fe14-27f7-4da8-add0-88b2fde3609f,blue,Blue,blue,6290
+9280fe14-27f7-4da8-add0-88b2fde3609f,gold,Gold,gold,4796
+9280fe14-27f7-4da8-add0-88b2fde3609f,green,Green,green,5767
+9280fe14-27f7-4da8-add0-88b2fde3609f,red,Red,red,5523
+9280fe14-27f7-4da8-add0-88b2fde3609f,white,White,white,5999
+974a029b-6eb0-42d4-9c9a-29f6d4bd31ac,black,Black,black,7026
+974a029b-6eb0-42d4-9c9a-29f6d4bd31ac,black-orange,Black/Orange,,6852
+974a029b-6eb0-42d4-9c9a-29f6d4bd31ac,orange,Orange,orange,6606
+974a029b-6eb0-42d4-9c9a-29f6d4bd31ac,orange-purple,Orange/Purple,,6340
+974a029b-6eb0-42d4-9c9a-29f6d4bd31ac,purple,Purple,purple,5952
+974a029b-6eb0-42d4-9c9a-29f6d4bd31ac,purple-yellow,Purple/Yellow,,5439
+974a029b-6eb0-42d4-9c9a-29f6d4bd31ac,yellow,Yellow,yellow,5014
 9a47b7a3-e8f6-44c0-b2ca-cea61d40bb9d,black,Black,black,7159
 9a47b7a3-e8f6-44c0-b2ca-cea61d40bb9d,copper,Copper,copper,5602
 9a47b7a3-e8f6-44c0-b2ca-cea61d40bb9d,gold,Gold,gold,6646
 9a47b7a3-e8f6-44c0-b2ca-cea61d40bb9d,silver,Silver,silver,6196
+9c1a589c-db9e-44e3-b171-35961bbe5ddb,black,Black,black,6821
+9c1a589c-db9e-44e3-b171-35961bbe5ddb,blue,Blue,blue,6363
+9c1a589c-db9e-44e3-b171-35961bbe5ddb,combo,Combo,,5574
+9c1a589c-db9e-44e3-b171-35961bbe5ddb,gold,Gold,gold,5200
+9c1a589c-db9e-44e3-b171-35961bbe5ddb,white,White,white,5899
+9c1a589c-db9e-44e3-b171-35961bbe5ddb,white-f,White,white,5899
+9d3558a8-924c-4b07-99cc-a2b2a0603bfa,black,Black,black,6481
+9d3558a8-924c-4b07-99cc-a2b2a0603bfa,blue,Blue,blue,5746
+9d3558a8-924c-4b07-99cc-a2b2a0603bfa,red,Red,red,4876
+9d3558a8-924c-4b07-99cc-a2b2a0603bfa,white,White,white,6103
+9ea27e97-f137-495c-a3de-7f89ab5313b7,red,Red,red,4806
+9ea27e97-f137-495c-a3de-7f89ab5313b7,white-blue,White/Blue,,5261
+9ea5e9b6-9c86-40bd-b408-6450551ee2a4,blue,Blue,blue,6412
+9ea5e9b6-9c86-40bd-b408-6450551ee2a4,orange,Orange,orange,4393
+9ea5e9b6-9c86-40bd-b408-6450551ee2a4,red,Red,red,5853
+9ea5e9b6-9c86-40bd-b408-6450551ee2a4,white,White,white,6084
+9ffd1408-0721-40a5-84f8-667c23af590e,arroyo,Arroyo,,5183
+9ffd1408-0721-40a5-84f8-667c23af590e,black,Black,black,7012
+9ffd1408-0721-40a5-84f8-667c23af590e,doak,Doak,,5911
+9ffd1408-0721-40a5-84f8-667c23af590e,eagle,Eagle,,6659
+9ffd1408-0721-40a5-84f8-667c23af590e,gold,Gold,gold,6306
+9ffd1408-0721-40a5-84f8-667c23af590e,red,Red,red,4881
+9ffd1408-0721-40a5-84f8-667c23af590e,white,White,white,5502
+a1c9b458-c973-4dd8-a811-36172e6e1c57,black,Black,black,4714
+a1c9b458-c973-4dd8-a811-36172e6e1c57,blue,Blue,blue,5788
+a1c9b458-c973-4dd8-a811-36172e6e1c57,gold,Gold,gold,6158
+a1c9b458-c973-4dd8-a811-36172e6e1c57,white,White,white,5393
+a1edbd73-90be-4b40-8188-456ea4864c3f,blue,Blue,blue,6557
+a1edbd73-90be-4b40-8188-456ea4864c3f,gold,Gold,gold,5058
+a1edbd73-90be-4b40-8188-456ea4864c3f,red,Red,red,5717
+a1edbd73-90be-4b40-8188-456ea4864c3f,white,White,white,6224
+a28f76ad-400b-4898-992f-5745c223b73b,black,Black,black,5466
+a28f76ad-400b-4898-992f-5745c223b73b,blue,Blue,blue,5290
+a28f76ad-400b-4898-992f-5745c223b73b,red,Red,red,4574
+a28f76ad-400b-4898-992f-5745c223b73b,white,White,white,4908
+a28f76ad-400b-4898-992f-5745c223b73b,yellow,Yellow,yellow,3639
+a2e89b4e-7b98-47ff-a286-8ef9454dda0e,avocado,Avocado,,6159
+a2e89b4e-7b98-47ff-a286-8ef9454dda0e,lemon,Lemon,,5236
+a2e89b4e-7b98-47ff-a286-8ef9454dda0e,lime,Lime,,5627
+a2e89b4e-7b98-47ff-a286-8ef9454dda0e,oak,Oak,,6856
+a2e89b4e-7b98-47ff-a286-8ef9454dda0e,orange,Orange,orange,6588
+a4db3d76-10f3-4ccd-b1eb-a6b34a13e286,blue,Blue,blue,2143
+a76c301a-2922-4364-9f39-63b750988eb4,men-s,Men's,,3108
+a76c301a-2922-4364-9f39-63b750988eb4,women-s,Women's,,2628
+a77df146-d98a-48b1-b6bb-99f0531c8785,black,Black,black,2496
+a77df146-d98a-48b1-b6bb-99f0531c8785,blue,Blue,blue,2316
+a77df146-d98a-48b1-b6bb-99f0531c8785,white,White,white,1641
+a86e906f-c974-4756-8f37-6536e2417586,blue,Blue,blue,6373
+a86e906f-c974-4756-8f37-6536e2417586,green,Green,green,5191
+a86e906f-c974-4756-8f37-6536e2417586,white,White,white,5970
+a9ec8363-fb64-4ba8-ae0b-cbabe5cc01fa,bottle,Bottle,,5219
+a9ec8363-fb64-4ba8-ae0b-cbabe5cc01fa,combo,Combo,,6393
+a9ec8363-fb64-4ba8-ae0b-cbabe5cc01fa,double-magnum,Double Magnum,,6157
+a9ec8363-fb64-4ba8-ae0b-cbabe5cc01fa,imperial,Imperial,,6568
+a9ec8363-fb64-4ba8-ae0b-cbabe5cc01fa,magnum,Magnum,,5846
+a9ec8363-fb64-4ba8-ae0b-cbabe5cc01fa,sovereign,Sovereign,,6948
+ac9fbd31-15df-47f0-97d1-a8105e486772,blue,Blue,blue,6632
+ac9fbd31-15df-47f0-97d1-a8105e486772,blue-white-combo,Blue/White Combo,,6427
+ac9fbd31-15df-47f0-97d1-a8105e486772,gold,Gold,gold,5678
+ac9fbd31-15df-47f0-97d1-a8105e486772,red,Red,red,5214
+ac9fbd31-15df-47f0-97d1-a8105e486772,white,White,white,6192
 adb47e40-f287-4bd9-b68d-f393120fb399,back,Back,blue,6366
 adb47e40-f287-4bd9-b68d-f393120fb399,forward,Forward,red,5336
 adb47e40-f287-4bd9-b68d-f393120fb399,gold,Gold,gold,5341
 adb47e40-f287-4bd9-b68d-f393120fb399,middle,Middle,white,5857
 adb47e40-f287-4bd9-b68d-f393120fb399,tournament,Tournament,black,6781
+addf2627-8890-4037-8a71-42d25f450e89,blue,Blue,blue,6590
+addf2627-8890-4037-8a71-42d25f450e89,gold,Gold,gold,5675
+addf2627-8890-4037-8a71-42d25f450e89,green,Green,green,5884
+addf2627-8890-4037-8a71-42d25f450e89,white,White,white,6276
+ae35120c-a705-4157-8859-b22af991a047,yardage,Yardage,,662
+ae7cd590-6728-4b51-b71f-484bf6531932,blue,Blue,blue,6162
+ae7cd590-6728-4b51-b71f-484bf6531932,gold,Gold,gold,5332
+ae7cd590-6728-4b51-b71f-484bf6531932,red,Red,red,4869
+ae7cd590-6728-4b51-b71f-484bf6531932,white,White,white,5776
+aec517a6-efe1-4a3d-a16f-cb19d464e51b,black,Black,black,6007
+aec517a6-efe1-4a3d-a16f-cb19d464e51b,blue,Blue,blue,5618
+aec517a6-efe1-4a3d-a16f-cb19d464e51b,gold,Gold,gold,6510
+aec517a6-efe1-4a3d-a16f-cb19d464e51b,green,Green,green,4437
+aec517a6-efe1-4a3d-a16f-cb19d464e51b,white,White,white,5142
+af9f74a8-91c4-4fa7-9516-e79bda484f06,black,Black,black,6850
+af9f74a8-91c4-4fa7-9516-e79bda484f06,copper,Copper,copper,5621
+af9f74a8-91c4-4fa7-9516-e79bda484f06,gold,Gold,gold,6543
+af9f74a8-91c4-4fa7-9516-e79bda484f06,silver,Silver,silver,4989
+af9f74a8-91c4-4fa7-9516-e79bda484f06,white,White,white,6187
+b0371e8a-cc0a-48a4-946d-3cca4d86ab5e,black,Black,black,6768
+b0371e8a-cc0a-48a4-946d-3cca4d86ab5e,blue,Blue,blue,6354
+b0371e8a-cc0a-48a4-946d-3cca4d86ab5e,gold,Gold,gold,5006
+b0371e8a-cc0a-48a4-946d-3cca4d86ab5e,silver,Silver,silver,5302
+b0371e8a-cc0a-48a4-946d-3cca4d86ab5e,white,White,white,5934
+b1d5c60f-8ed6-45ad-9489-57c2d849527f,black,Black,black,6253
+b1d5c60f-8ed6-45ad-9489-57c2d849527f,gold,Gold,gold,6676
+b1d5c60f-8ed6-45ad-9489-57c2d849527f,orange,Orange,orange,4140
+b1d5c60f-8ed6-45ad-9489-57c2d849527f,silver,Silver,silver,5518
+b1d5c60f-8ed6-45ad-9489-57c2d849527f,silver-f,Silver,silver,5518
 b528b0b9-ac49-4742-9e11-311767b4995d,black,Black,black,
 b528b0b9-ac49-4742-9e11-311767b4995d,blue,Blue,blue,
 b528b0b9-ac49-4742-9e11-311767b4995d,cardinal,Cardinal,cardinal,
 b528b0b9-ac49-4742-9e11-311767b4995d,white,White,white,
+b73a6e78-c40e-407b-98c8-307cbe2a5613,black,Black,black,6852
+b73a6e78-c40e-407b-98c8-307cbe2a5613,blue,Blue,blue,6618
+b73a6e78-c40e-407b-98c8-307cbe2a5613,combo,Combo,,6405
+b73a6e78-c40e-407b-98c8-307cbe2a5613,gold,Gold,gold,5110
+b73a6e78-c40e-407b-98c8-307cbe2a5613,gold-f,Gold,gold,5110
+b73a6e78-c40e-407b-98c8-307cbe2a5613,red,Red,red,5797
+b73a6e78-c40e-407b-98c8-307cbe2a5613,white,White,white,6212
+ba47172e-3f78-44de-b97a-007db18afe7d,blue,Blue,blue,6385
+ba47172e-3f78-44de-b97a-007db18afe7d,red,Red,red,5670
+ba47172e-3f78-44de-b97a-007db18afe7d,white,White,white,6025
+bb93381c-773a-44fa-acc4-83268f17cdcc,black,Black,black,6955
+bb93381c-773a-44fa-acc4-83268f17cdcc,blue,Blue,blue,6605
+bb93381c-773a-44fa-acc4-83268f17cdcc,fitzpatrick,Fitzpatrick,,6025
+bb93381c-773a-44fa-acc4-83268f17cdcc,mcgregor,McGregor,,6435
+bb93381c-773a-44fa-acc4-83268f17cdcc,sarazen,Sarazen,,5605
+bb93381c-773a-44fa-acc4-83268f17cdcc,watson,Watson,,6785
+bb93381c-773a-44fa-acc4-83268f17cdcc,white,White,white,6310
+bc5e7927-e8d9-4e9b-95b1-2779ccbc07b5,back-tees,Back Tees,,3847
+bc5e7927-e8d9-4e9b-95b1-2779ccbc07b5,forward-tees,Forward Tees,,3118
+bd0ec807-3d82-40c4-8d91-79411e676d12,back,Back,,6520
+bd0ec807-3d82-40c4-8d91-79411e676d12,championship,Championship,,6759
+bd0ec807-3d82-40c4-8d91-79411e676d12,forward,Forward,,5419
+bd0ec807-3d82-40c4-8d91-79411e676d12,middle,Middle,,6186
+bda8c3dd-8acf-4653-841c-1fc2e3886241,blue,Blue,blue,6073
+bda8c3dd-8acf-4653-841c-1fc2e3886241,gold,Gold,gold,5596
+bda8c3dd-8acf-4653-841c-1fc2e3886241,red,Red,red,5200
+bda8c3dd-8acf-4653-841c-1fc2e3886241,white,White,white,5883
+beddeb86-ba31-4344-bee8-1815f7677297,black,Black,black,6187
+beddeb86-ba31-4344-bee8-1815f7677297,silver,Silver,silver,5341
+beddeb86-ba31-4344-bee8-1815f7677297,white,White,white,5762
+c00c3433-a0c9-43f4-8cb5-824c81cb5313,black,Black,black,6842
+c00c3433-a0c9-43f4-8cb5-824c81cb5313,blue,Blue,blue,6446
+c00c3433-a0c9-43f4-8cb5-824c81cb5313,gold,Gold,gold,5263
+c00c3433-a0c9-43f4-8cb5-824c81cb5313,white,White,white,6064
+c036be06-38a2-485a-9b55-bccc24fda4e0,championship,Championship,,6212
+c036be06-38a2-485a-9b55-bccc24fda4e0,forward,Forward,,5260
+c036be06-38a2-485a-9b55-bccc24fda4e0,regular,Regular,,5777
+c036be06-38a2-485a-9b55-bccc24fda4e0,tournament,Tournament,,6590
+c0465b56-1eb7-4b85-9ee5-9b7437edef36,black,Black,black,6488
+c0465b56-1eb7-4b85-9ee5-9b7437edef36,blue,Blue,blue,6051
+c0465b56-1eb7-4b85-9ee5-9b7437edef36,gold,Gold,gold,5653
+c0465b56-1eb7-4b85-9ee5-9b7437edef36,red,Red,red,5204
+c0465b56-1eb7-4b85-9ee5-9b7437edef36,white,White,white,4278
+c20875c1-db59-4b45-8d1a-6c4fa94ad030,blue,Blue,blue,6405
+c20875c1-db59-4b45-8d1a-6c4fa94ad030,combo,Combo,,6184
+c20875c1-db59-4b45-8d1a-6c4fa94ad030,red,Red,red,5930
+c20875c1-db59-4b45-8d1a-6c4fa94ad030,white,White,white,6155
 c33345ba-7d96-4b34-845b-642017f127ae,black,Black,black,6803
 c33345ba-7d96-4b34-845b-642017f127ae,blue,Blue,blue,6443
 c33345ba-7d96-4b34-845b-642017f127ae,combo-blue-white,Combo (Blue/White),,6140
 c33345ba-7d96-4b34-845b-642017f127ae,combo-white-red,Combo (White/Red),,5403
 c33345ba-7d96-4b34-845b-642017f127ae,red,Red,red,5087
 c33345ba-7d96-4b34-845b-642017f127ae,white,White,white,5838
+c334e587-2401-4f4d-9a3a-c33c1578e07d,yardage,Yardage,,835
+c42a8e3a-86ab-42d3-8281-96855ddcadcd,black,Black,black,6684
+c42a8e3a-86ab-42d3-8281-96855ddcadcd,blue,Blue,blue,6314
+c42a8e3a-86ab-42d3-8281-96855ddcadcd,golden-bear,Golden Bear,gold,7045
+c42a8e3a-86ab-42d3-8281-96855ddcadcd,green,Green,green,5239
+c42a8e3a-86ab-42d3-8281-96855ddcadcd,red,Red,red,4262
+c42a8e3a-86ab-42d3-8281-96855ddcadcd,silver,Silver,silver,6121
+c42a8e3a-86ab-42d3-8281-96855ddcadcd,white,White,white,5984
+c42a8e3a-86ab-42d3-8281-96855ddcadcd,yellow,Yellow,yellow,4683
+c5d8d0cb-5130-4cb5-8184-2241f6927197,yardage,Yardage,,1159
 c65cb554-b942-4308-911b-8060dc06e8ae,black,Black,black,6784
 c65cb554-b942-4308-911b-8060dc06e8ae,blue,Blue,blue,6582
 c65cb554-b942-4308-911b-8060dc06e8ae,gold,Gold,gold,5503
@@ -89,22 +622,143 @@ c7a44166-c8a3-4873-8b20-d934e4dbe6d4,green,Green,green,5269
 c7a44166-c8a3-4873-8b20-d934e4dbe6d4,red,Red,red,4332
 c7a44166-c8a3-4873-8b20-d934e4dbe6d4,white,White,white,5719
 c7a44166-c8a3-4873-8b20-d934e4dbe6d4,white-f,White,white,5719
+c93eb32c-5c8b-4585-8523-59db38135858,capitol,Capitol,silver,2946
+c93eb32c-5c8b-4585-8523-59db38135858,freeport,Freeport,red,1090
+c93eb32c-5c8b-4585-8523-59db38135858,land-park,Land Park,green,2282
+c93eb32c-5c8b-4585-8523-59db38135858,tower,Tower,yellow,2600
+ca8e1b1b-a316-445e-81fd-e1f4b9ce274b,black,Black,black,6839
+ca8e1b1b-a316-445e-81fd-e1f4b9ce274b,blue,Blue,blue,6419
+ca8e1b1b-a316-445e-81fd-e1f4b9ce274b,white,White,white,6036
+ca8e1b1b-a316-445e-81fd-e1f4b9ce274b,yellow,Yellow,yellow,5644
 cd6c0ddb-16d7-43fb-9889-9e0e0b03cf77,back-white,Back (White),white,6038
 cd6c0ddb-16d7-43fb-9889-9e0e0b03cf77,championship-blue,Championship (Blue),blue,6376
 cd6c0ddb-16d7-43fb-9889-9e0e0b03cf77,forward-red,Forward (Red),red,5030
 cd6c0ddb-16d7-43fb-9889-9e0e0b03cf77,middle-yellow,Middle (Yellow),yellow,5531
 cd6c0ddb-16d7-43fb-9889-9e0e0b03cf77,professional-black,Professional (Black),black,6804
+cde9503e-dbab-402c-a009-8e8ba22450f4,black,Black,black,6858
+cde9503e-dbab-402c-a009-8e8ba22450f4,blue,Blue,blue,6507
+cde9503e-dbab-402c-a009-8e8ba22450f4,combo,Combo,,5652
+cde9503e-dbab-402c-a009-8e8ba22450f4,gold,Gold,gold,5276
+cde9503e-dbab-402c-a009-8e8ba22450f4,white,White,white,6022
+cde9503e-dbab-402c-a009-8e8ba22450f4,white-f,White,white,6022
 cef80b3b-ab94-4fe9-94f8-77d3ef1e90d8,black,Black,black,7802
 cef80b3b-ab94-4fe9-94f8-77d3ef1e90d8,brown,Brown,brown,7015
 cef80b3b-ab94-4fe9-94f8-77d3ef1e90d8,green,Green,green,6635
 cef80b3b-ab94-4fe9-94f8-77d3ef1e90d8,white,White,white,6145
 cef80b3b-ab94-4fe9-94f8-77d3ef1e90d8,yellow,Yellow,yellow,5373
+d059522f-f1ff-4914-9fa8-f172f4835e49,black,Black,black,5638
+d059522f-f1ff-4914-9fa8-f172f4835e49,gold,Gold,gold,4292
+d059522f-f1ff-4914-9fa8-f172f4835e49,tournament,Tournament,,5858
+d059522f-f1ff-4914-9fa8-f172f4835e49,white,White,white,5035
+d1cddf0a-a0eb-4a4a-9287-d87d64ea80bc,black-tees,Black Tees,black,6500
+d1cddf0a-a0eb-4a4a-9287-d87d64ea80bc,blue-tees,Blue Tees,blue,6460
+d1cddf0a-a0eb-4a4a-9287-d87d64ea80bc,gold-tees,Gold Tees,gold,5698
+d1cddf0a-a0eb-4a4a-9287-d87d64ea80bc,red-tees,Red Tees,red,5582
+d1cddf0a-a0eb-4a4a-9287-d87d64ea80bc,white-tees,White Tees,white,6156
+d7c5d3c7-9ee7-4efa-b0a7-0675cb82032e,black,Black,black,6139
+d7c5d3c7-9ee7-4efa-b0a7-0675cb82032e,black-green-combo,Black/Green Combo,,6041
+d7c5d3c7-9ee7-4efa-b0a7-0675cb82032e,friendly,Friendly,,3480
+d7c5d3c7-9ee7-4efa-b0a7-0675cb82032e,green,Green,green,5860
+d7c5d3c7-9ee7-4efa-b0a7-0675cb82032e,green-silver-combo,Green/Silver Combo,,5525
+d7c5d3c7-9ee7-4efa-b0a7-0675cb82032e,silver,Silver,silver,5288
+d906d511-1eac-4cc0-a394-7fd913bfc20f,back,Back,blue,6550
+d906d511-1eac-4cc0-a394-7fd913bfc20f,forward,Forward,red,5373
+d906d511-1eac-4cc0-a394-7fd913bfc20f,middle,Middle,white,6145
+dbc95c6d-a18e-4c17-94d8-d43f786582bd,blue,Blue,blue,6896
+dbc95c6d-a18e-4c17-94d8-d43f786582bd,gold,Gold,gold,6040
+dbc95c6d-a18e-4c17-94d8-d43f786582bd,red,Red,red,5333
+dbc95c6d-a18e-4c17-94d8-d43f786582bd,white,White,white,6441
+dce8bed1-e31a-4b79-b5d0-d9ba74f184df,black,Black,black,6438
+dce8bed1-e31a-4b79-b5d0-d9ba74f184df,blue,Blue,blue,6008
+dce8bed1-e31a-4b79-b5d0-d9ba74f184df,red,Red,red,5124
+dce8bed1-e31a-4b79-b5d0-d9ba74f184df,white,White,white,5635
+de285c73-9625-4de3-9444-49f8a9b3df5e,championship,Championship,gold,6401
+de285c73-9625-4de3-9444-49f8a9b3df5e,forward,Forward,red,5045
+de285c73-9625-4de3-9444-49f8a9b3df5e,professional,Professional,black,7044
+de285c73-9625-4de3-9444-49f8a9b3df5e,regular,Regular,white,5838
+e003c56d-a0ce-43e5-b3b3-58afd1840086,blue,Blue,blue,6721
+e003c56d-a0ce-43e5-b3b3-58afd1840086,gold,Gold,gold,5843
+e003c56d-a0ce-43e5-b3b3-58afd1840086,red,Red,red,5399
+e003c56d-a0ce-43e5-b3b3-58afd1840086,white,White,white,6392
+e190730e-5882-430c-9a0c-98778bad5a2a,black,Black,black,3175
+e190730e-5882-430c-9a0c-98778bad5a2a,blue,Blue,blue,3010
+e190730e-5882-430c-9a0c-98778bad5a2a,gold,Gold,gold,2825
+e190730e-5882-430c-9a0c-98778bad5a2a,red,Red,red,2525
+e190730e-5882-430c-9a0c-98778bad5a2a,white,White,white,2012
+e4ae680d-d300-461d-9fcf-9add5d628e09,blue,Blue,blue,6374
+e4ae680d-d300-461d-9fcf-9add5d628e09,red,Red,red,5281
+e4ae680d-d300-461d-9fcf-9add5d628e09,white,White,white,5931
+e5f6dc73-39fd-4df1-a056-8c92e833a22c,back,Back,,6550
+e5f6dc73-39fd-4df1-a056-8c92e833a22c,forward,Forward,,5427
+e5f6dc73-39fd-4df1-a056-8c92e833a22c,middle,Middle,,6156
+e70ceec3-5875-4925-aac1-882cdf8dd46d,blue,Blue,blue,6461
+e70ceec3-5875-4925-aac1-882cdf8dd46d,combo,Combo,,6331
+e70ceec3-5875-4925-aac1-882cdf8dd46d,pros-only,Pros Only,,6968
+e70ceec3-5875-4925-aac1-882cdf8dd46d,silver-gold,Silver/Gold,,5625
+e70ceec3-5875-4925-aac1-882cdf8dd46d,white,White,white,6189
+e71c6025-ab8c-4a99-804d-7319f2bb68d8,black,Black,black,6701
+e71c6025-ab8c-4a99-804d-7319f2bb68d8,gold,Gold,gold,6153
+e71c6025-ab8c-4a99-804d-7319f2bb68d8,green,Green,green,4711
+e71c6025-ab8c-4a99-804d-7319f2bb68d8,silver,Silver,silver,5443
 eaef94e9-b565-4bd3-98c9-6c1d0b7d922b,blue,Blue,blue,
 eaef94e9-b565-4bd3-98c9-6c1d0b7d922b,red,Red,red,
 eaef94e9-b565-4bd3-98c9-6c1d0b7d922b,white,White,white,
 eb9b130d-68b8-44c5-a4b7-b84a5e1c58c4,red,Red,red,2430
 eb9b130d-68b8-44c5-a4b7-b84a5e1c58c4,white,White,white,2715
+ecede47b-e904-49b2-a785-d6623e6d47fe,gold,Gold,gold,6495
+ecede47b-e904-49b2-a785-d6623e6d47fe,gold-white,Gold/White,,6222
+ecede47b-e904-49b2-a785-d6623e6d47fe,green,Green,green,5577
+ecede47b-e904-49b2-a785-d6623e6d47fe,white,White,white,6093
+ecede47b-e904-49b2-a785-d6623e6d47fe,white-green,White/Green,,5814
+ecf13a28-cf5d-4106-957f-0e47c6187222,blue,Blue,blue,6550
+ecf13a28-cf5d-4106-957f-0e47c6187222,blue-white,Blue/White,,6365
+ecf13a28-cf5d-4106-957f-0e47c6187222,gold,Gold,gold,5666
+ecf13a28-cf5d-4106-957f-0e47c6187222,gold-red,Gold/Red,,5510
+ecf13a28-cf5d-4106-957f-0e47c6187222,red,Red,red,5296
+ecf13a28-cf5d-4106-957f-0e47c6187222,white,White,white,6183
+ecf13a28-cf5d-4106-957f-0e47c6187222,white-gold,White/Gold,,5972
+ed1f154d-2d4f-4882-99cc-363d787caf7e,back,Back,,6212
+ed1f154d-2d4f-4882-99cc-363d787caf7e,front,Front,,5558
+ed1f154d-2d4f-4882-99cc-363d787caf7e,middle,Middle,,5890
+ed1f154d-2d4f-4882-99cc-363d787caf7e,orange,Orange,orange,4050
+ed3ed179-c083-469c-ac2e-9b8343148a3d,black,Black,black,6748
+ed3ed179-c083-469c-ac2e-9b8343148a3d,blue,Blue,blue,6409
+ed3ed179-c083-469c-ac2e-9b8343148a3d,blue-white,Blue/White,,6183
+ed3ed179-c083-469c-ac2e-9b8343148a3d,red,Red,red,4788
+ed3ed179-c083-469c-ac2e-9b8343148a3d,white,White,white,6024
+ed3ed179-c083-469c-ac2e-9b8343148a3d,yellow,Yellow,yellow,5560
+ed3ed179-c083-469c-ac2e-9b8343148a3d,yellow-red,Yellow/Red,,5192
+efafc44f-bd96-48cf-b622-8c784dad2176,blue,Blue,blue,6083
+efafc44f-bd96-48cf-b622-8c784dad2176,orange,Orange,orange,3970
+efafc44f-bd96-48cf-b622-8c784dad2176,red,Red,red,5634
+efafc44f-bd96-48cf-b622-8c784dad2176,white,White,white,5832
+f0f74e26-c14a-46fc-abf5-38cad28850c5,black,Black,black,6703
+f0f74e26-c14a-46fc-abf5-38cad28850c5,blue,Blue,blue,6138
+f0f74e26-c14a-46fc-abf5-38cad28850c5,gold,Gold,gold,5104
+f0f74e26-c14a-46fc-abf5-38cad28850c5,silver,Silver,silver,5640
+f19f97df-98b6-4619-a1fe-8f70f240b586,black,Black,black,3874
+f19f97df-98b6-4619-a1fe-8f70f240b586,blue,Blue,blue,6503
+f19f97df-98b6-4619-a1fe-8f70f240b586,gold,Gold,gold,5711
+f19f97df-98b6-4619-a1fe-8f70f240b586,green,Green,green,4533
+f19f97df-98b6-4619-a1fe-8f70f240b586,red,Red,red,5230
+f19f97df-98b6-4619-a1fe-8f70f240b586,white,White,white,6253
 f241ca51-76f2-468d-b3a5-6d5ecdca4789,blue,Blue,blue,6435
 f241ca51-76f2-468d-b3a5-6d5ecdca4789,gold,Gold,gold,5242
 f241ca51-76f2-468d-b3a5-6d5ecdca4789,red,Red,red,5342
 f241ca51-76f2-468d-b3a5-6d5ecdca4789,white,White,white,6245
+f31eac62-5eff-487e-b7a4-49e284ea5729,yardage,Yardage,,989
+f4015b46-ffec-4554-94f8-01e38f736d01,black,Black,black,6642
+f4015b46-ffec-4554-94f8-01e38f736d01,blue,Blue,blue,6369
+f4015b46-ffec-4554-94f8-01e38f736d01,golden-bear,Golden Bear,gold,7005
+f4015b46-ffec-4554-94f8-01e38f736d01,green,Green,green,5513
+f4015b46-ffec-4554-94f8-01e38f736d01,red,Red,red,4518
+f4015b46-ffec-4554-94f8-01e38f736d01,silver,Silver,silver,6092
+f4015b46-ffec-4554-94f8-01e38f736d01,white,White,white,5970
+f4015b46-ffec-4554-94f8-01e38f736d01,yellow,Yellow,yellow,4880
+f60f8363-d682-4fc4-ab26-f288b4fd7b09,men-s-ncga,Men's NCGA,blue,1681
+f60f8363-d682-4fc4-ab26-f288b4fd7b09,women-s-ncga,Women's NCGA,red,1586
+fd1d0208-7b51-4462-8462-96f46496b4c2,blue,Blue,blue,992
+fe4c49d5-9064-43e4-9762-8a0a1a344c01,championship,Championship,gold,6511
+fe4c49d5-9064-43e4-9762-8a0a1a344c01,forward,Forward,red,5067
+fe4c49d5-9064-43e4-9762-8a0a1a344c01,professional,Professional,black,7060
+fe4c49d5-9064-43e4-9762-8a0a1a344c01,regular,Regular,white,5870

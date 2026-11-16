@@ -1,14 +1,14 @@
 {
- "snapshot": "2026-11-09",
+ "snapshot": "2026-11-16",
  "license": "ODbL-1.0",
  "attribution": "yardage-hub (lukeheide.com/sports/yardage-hub). Contains information from OpenStreetMap (\u00a9 OpenStreetMap contributors), available under the ODbL.",
  "contribute": "https://lukeheide.com/sports/yardage-hub",
  "counts": {
-  "courses": 16586,
-  "holes": 128444,
-  "tees": 1953,
-  "tee_ratings": 2092,
-  "tee_holes": 33079
+  "courses": 16619,
+  "holes": 130939,
+  "tees": 3985,
+  "tee_ratings": 4832,
+  "tee_holes": 69026
  },
  "regions": {
   "US/AK": 25,
@@ -16,13 +16,13 @@
   "US/AR": 143,
   "US/AS": 1,
   "US/AZ": 397,
-  "US/CA": 1003,
-  "US/CO": 270,
+  "US/CA": 1010,
+  "US/CO": 273,
   "US/CT": 189,
   "US/DC": 7,
   "US/DE": 46,
-  "US/FL": 2001,
-  "US/GA": 421,
+  "US/FL": 2018,
+  "US/GA": 427,
   "US/GU": 14,
   "US/HI": 126,
   "US/IA": 397,

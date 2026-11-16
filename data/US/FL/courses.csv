@@ -5,7 +5,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 0094a21d-26c9-4cab-9188-096847b2040a,way/1232366725,,,course,,,active,,,,,,,,,,,FL,,US,28.9208478,-81.8547898,2026-10-11T15:12:28Z
 00b8350b-fc9e-423d-b20d-726bb159b334,way/1183317725,,,course,,,active,,,,,,,,,,,FL,,US,29.9809893,-81.8083269,2026-10-11T15:12:27Z
 00e913c5-a544-4f93-a273-b9f0b92d5b1d,relation/2694785,,,course,,,active,,,,,,,,,,,FL,,US,26.8709154,-80.1527128,2026-10-11T15:12:33Z
-01472223-5b10-4163-aa63-27b99d1c3b32,relation/4053335,Fairways Golf Club,,course,,,active,18,,,,+1-407-282-7535,https://www.golffairwayscc.com/,,,14205 East Colonial Drive,Orlando,FL,32826,US,28.5744969,-81.1664245,2026-10-11T13:31:27Z
+01472223-5b10-4163-aa63-27b99d1c3b32,relation/4053335,Fairways Golf Club,,course,,,active,18,70,,,+1-407-282-7535,https://www.golffairwayscc.com/,https://www.golffairwayscc.com/the-course/,,14205 East Colonial Drive,Orlando,FL,32826,US,28.5744969,-81.1664245,2026-11-14T05:37:21Z
 014ff26e-eca9-4fd2-945b-456e27971686,way/1178683760,,,course,,,active,,,,,,,,,,,FL,,US,27.475554,-81.5015772,2026-10-11T15:12:27Z
 01667cea-be27-4d38-9e7e-a16b616a6b27,way/1237004472,,,course,,,active,,,,,,,,,,,FL,,US,28.1615368,-82.5144124,2026-10-11T15:12:28Z
 01a95faf-c529-4ae5-b327-5469ca7c337b,relation/13716300,Twin Eagles Golf Club,,course,,,active,,,,,,,,,,,FL,,US,26.2897046,-81.6335366,2026-10-11T13:31:42Z
@@ -19,9 +19,9 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 028868cb-631f-4d94-9ada-bbe85c4e0e5a,way/301813490,Ironwood Golf Course,,course,,,active,18,72,,,+1-352-334-3120,http://www.cityofgainesville.org/GOVERNMENT/CityDepartmentsAM/Ironwood/tabid/209/Default.aspx,,,2100 Northeast 39th Avenue,Gainesville,FL,32609,US,29.6949997,-82.2975798,2026-10-11T13:30:33Z
 0295badb-6919-4c24-a606-0d178645fc26,way/1234825495,,,course,,,active,,,,,,,,,,,FL,,US,27.2174464,-80.3360305,2026-10-11T15:12:28Z
 02cfc586-a53c-4ab4-b54b-6b5c3befd778,relation/4061690,Hobe Sound Golf Club,,course,,,active,,,,,+1-772-546-4600,https://www.hobesoundgolfclub.com/,,,11671 Southeast Plandome Drive,Hobe Sound,FL,33455,US,27.0612063,-80.1469886,2026-10-11T15:12:35Z
-02dbaead-429b-453b-b805-14b8c397b987,way/301813491,Mark Bostick Golf Course,,course,,,active,18,,,,+1-352-375-4866,http://www.markbostickgolfcourse.com/,,,2800 Southwest 2nd Avenue,Gainesville,FL,32607,US,29.6475468,-82.3682256,2026-10-11T15:12:12Z
+02dbaead-429b-453b-b805-14b8c397b987,way/301813491,Mark Bostick Golf Course,,course,,,active,18,70,,,+1-352-375-4866,http://www.markbostickgolfcourse.com/,https://markbostickgolfcourse.com/scorecard,,2800 Southwest 2nd Avenue,Gainesville,FL,32607,US,29.6475468,-82.3682256,2026-11-13T06:41:44Z
 03198956-08a9-47a6-bbcd-8b8dcaa641c9,way/1196843500,,,course,,,active,,,,,,,,,,,FL,,US,27.7150177,-82.7097618,2026-10-11T13:31:09Z
-03245fe1-5608-4d88-a624-fc4308fb5461,relation/4039062,Stonegate Golf Club - Cypress Course,,course,,,active,,,,,+1-863-427-7150,https://www.stonegategolf.com/,,,404 Village Drive,Kissimmee,FL,34759,US,28.137904,-81.4719944,2026-10-11T15:12:35Z
+03245fe1-5608-4d88-a624-fc4308fb5461,relation/4039062,Stonegate Golf Club - Cypress Course,,course,,,active,18,72,,,+1-863-427-7150,https://www.stonegategolf.com/,https://www.stonegategolf.com/golf/oaks-course,,404 Village Drive,Kissimmee,FL,34759,US,28.137904,-81.4719944,2026-11-14T07:40:39Z
 0325ba1a-fb6b-4a64-a5d8-350ecf9df23d,relation/16882358,,,course,,,active,,,,,,,,,,,FL,,US,27.1067384,-82.4094238,2026-10-11T15:12:43Z
 03862f4e-afb2-4449-a391-f56969d6cdd9,relation/4063714,Winston Trails Golf Club,,course,,,active,,,,,+1-561-439-3700,https://www.winstontrailsgolfclub.com/,,,6101 Winston Trails Boulevard,Lake Worth,FL,33463,US,26.5789868,-80.1382148,2026-10-11T15:12:35Z
 03882ce7-ad21-42b2-8875-e7345ecf1a72,way/818518712,,,course,,,active,,,,,,,,,,,FL,,US,28.6353183,-81.7920807,2026-10-11T15:12:21Z
@@ -36,12 +36,12 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 04ca3f07-5681-47b3-a51a-c520656bac52,way/1234410988,,,course,,,active,,,,,,,,,,,FL,,US,27.0826257,-82.4012333,2026-10-11T15:12:28Z
 04dd3b04-642f-4606-980d-834d07cdcdd9,way/1232366801,,,course,,,active,,,,,,,,,,,FL,,US,28.7397069,-81.8731317,2026-10-11T15:12:28Z
 04e9b4fa-3a1f-4c93-9b11-c03e124dba59,way/1172923720,,,course,,,active,,,,,,,,,,,FL,,US,30.0623093,-82.7640618,2026-10-11T15:12:27Z
-05380c91-6be9-42a7-a2d6-572739273ebe,relation/4053235,Twin Rivers Golf Club,,course,,,active,18,72,,,+1-407-366-1211,http://www.twinriversgolfclub.com/,,,2100 Ekana Drive,Oviedo,FL,32765,US,28.6461898,-81.171778,2026-10-11T15:12:35Z
+05380c91-6be9-42a7-a2d6-572739273ebe,relation/4053235,Twin Rivers Golf Club,,course,,,active,18,72,,,+1-407-366-1211,http://www.twinriversgolfclub.com/,https://www.twinriversgolf.com/course/,,2100 Ekana Drive,Oviedo,FL,32765,US,28.6461898,-81.171778,2026-11-14T06:47:57Z
 054fc1c0-ac1e-4b93-9c74-46431d212c00,relation/4025374,Bonita Bay Club West,,course,,,active,,,,,+1-239-495-0200,https://bonitabayclub.net/,,,,,FL,,US,26.3554721,-81.822318,2026-10-11T13:31:27Z
-0561c8e5-821a-445a-889c-b1e2028da716,relation/7563892,Westchase Golf Club,,course,,,active,,,,,+1 813 854 2331,https://www.westchasegc.com/,,,11602 Westchase Golf Drive,Tampa,FL,33626,US,28.0463441,-82.6159913,2026-10-11T15:12:38Z
+0561c8e5-821a-445a-889c-b1e2028da716,relation/7563892,Westchase Golf Club,,course,,,active,18,72,,,+1 813 854 2331,https://www.westchasegc.com/,https://www.westchasegc.com/images/documents/WestchaseGolfClub-ScoreCard_2023.pdf,,11602 Westchase Golf Drive,Tampa,FL,33626,US,28.0463441,-82.6159913,2026-11-14T11:47:50Z
 057296e7-ad6d-4440-8f41-d8ee9ff2081a,relation/4029387,Gulf Harbour Yacht & Country Club,,course,,,active,18,,,,+1-239-433-5111,https://www.gulfharbour.com/,,,14500 Vista River Drive,Fort Myers,FL,33908,US,26.5295269,-81.9416811,2026-10-11T15:06:45Z
 05788ca5-2f0d-418f-b922-b2b783a00f11,way/48238102,,,course,,,active,,,,,,,,,,,FL,,US,26.0163335,-80.1378405,2026-10-11T15:11:53Z
-057901ef-2c3a-44c5-9fc6-8ff94f6cbf23,way/311994625,Falcon's Fire Golf Club,,course,,,active,18,72,,,,https://www.falconsfire.com/,,,3200 Seralago Blvd,Kissimmee,FL,34746,US,28.3426831,-81.5066437,2026-10-11T15:12:12Z
+057901ef-2c3a-44c5-9fc6-8ff94f6cbf23,way/311994625,Falcon's Fire Golf Club,,course,,,active,18,72,,,,https://www.falconsfire.com/,https://www.falconsfire.com/golf-course/about-the-course,,3200 Seralago Blvd,Kissimmee,FL,34746,US,28.3426831,-81.5066437,2026-11-14T05:37:22Z
 058502da-e043-4bae-8d23-89e1794db900,way/1232366673,,,course,,,active,,,,,,,,,,,FL,,US,28.6562529,-81.8737508,2026-10-11T15:12:28Z
 05a412fb-3277-47a9-a67d-edf44e730270,way/1172923711,,,course,,,active,,,,,,,,,,,FL,,US,30.1984371,-82.6972559,2026-10-11T15:12:27Z
 05c003c2-81f8-466b-b433-644ecc3da332,way/1136084345,,,course,,,active,,,,,,,,,,,FL,,US,30.2538218,-85.630524,2026-10-11T15:12:27Z
@@ -51,17 +51,18 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 0655c128-7c65-4ebd-9812-a701c3421627,way/203962698,Lauderhill Golf Course,,course,,,active,,,,,,https://www.lauderhill-fl.gov/,,,4141 NW 16th St,Fort Lauderdale,FL,33313,US,26.1482062,-80.2085822,2026-10-11T15:12:03Z
 06cab61a-a639-4bc8-825a-b311548fc0f6,relation/14526750,Hunters Run,,course,,,active,,,,,,https://www.huntersrun.net/,,,3500 Clubhouse Lane,Boynton Beach,FL,33436,US,26.4914779,-80.1023974,2026-10-11T15:12:41Z
 06d1c699-438c-47b5-914d-f34c69ebe839,way/1234402384,,,course,,,active,,,,,,,,,,,FL,,US,27.0493742,-82.1543405,2026-10-11T15:12:28Z
-07024d28-383a-4941-b89c-95508f6cd39a,way/203966423,Wynmoor Golf Course,,course,,,active,18,60,,,,https://www.wynmoor.com/,,,1310 Avenue of Stars,Coconut Creek,FL,33066,US,26.2502284,-80.1767425,2026-10-11T15:12:03Z
+07024d28-383a-4941-b89c-95508f6cd39a,way/203966423,Wynmoor Golf Course,,course,,,active,18,60,,,,https://www.wynmoor.com/,https://www.wynmoor.com/golf/,,1310 Avenue of Stars,Coconut Creek,FL,33066,US,26.2502284,-80.1767425,2026-11-13T11:44:50Z
 070f680c-d9a7-416a-8008-50a840e79043,relation/7573796,High Point Golf Club,,course,,,active,,,,,+1 352 596 0833,https://highpointbrooksville.net/golf-club/,,,12249 Club House Road,Spring Hill,FL,34613,US,28.5417036,-82.5245726,2026-10-11T15:12:38Z
 0727f7bf-b4f8-4af2-b516-72eb823ecea6,way/1196976536,,,course,,,active,,,,,,,,,,,FL,,US,26.7679516,-81.3815306,2026-10-11T15:06:38Z
 07311421-ca30-4ad8-921d-136be55141e6,relation/4039580,Remington Golf Club,,course,,,active,18,72,,,+1 407-344-4004,https://www.golfremington.com/,,,2995 Remington Boulevard,Kissimmee,FL,34744,US,28.2908071,-81.3289761,2026-10-11T15:12:35Z
-0762cf95-bda1-42b2-b770-f609a99d2375,relation/4037768,Cypresswood Golf & Country Club,,course,,,active,,,,,+1-863-324-6174,https://www.cypresswoodcc.com/,,,1099 Clubhouse Road,Winter Haven,FL,33884,US,28.0090134,-81.6436371,2026-10-11T13:31:27Z
+0762cf95-bda1-42b2-b770-f609a99d2375,relation/4037768,Cypresswood Golf & Country Club,,course,,,active,18,72,,,+1-863-324-6174,https://www.cypresswoodcc.com/,https://www.cypresswoodcc.com/scorecard/,,1099 Clubhouse Road,Winter Haven,FL,33884,US,28.0090134,-81.6436371,2026-11-14T07:40:40Z
 078f4929-e13b-43b5-92ad-336bf1fbf779,relation/2512571,Scenic Hills Country Club,,course,,,active,18,71,,,+1 850-476-0611,https://scenichills.com/,,,8891 Burning Tree Road,Pensacola,FL,32514,US,30.5395582,-87.2315421,2026-10-11T15:12:33Z
 07a0b8b0-272f-4951-8708-9bbd7cd60f71,way/1195424796,,,course,,,active,,,,,,,,,,,FL,,US,28.2534152,-82.3597825,2026-10-11T15:12:27Z
 07b3ab1a-2299-4ae1-a9d2-5bd80a5b752f,relation/2537912,,,course,,,active,18,72,,,,,,,,,FL,,US,30.3971952,-86.4346731,2026-10-11T15:12:33Z
 07b3d8a1-dd90-4243-ba69-75517c27cd60,way/1283703357,Card Sound Golf Club,,course,,,active,18,71,,,,https://www.cardsoundgolfclub.com/,,,100 Country Club Rd,Country Club Rd,FL,33037,US,25.3263977,-80.2764885,2026-10-11T15:12:28Z
 07c96738-7a07-434a-949d-c7ad297c1250,way/1232366627,,,course,,,active,,,,,,,,,,,FL,,US,28.5370285,-81.827352,2026-10-11T15:12:28Z
 07cd6551-940a-4ec4-b948-5c9c203803c6,way/118012072,Crandon Park Golf Course,,course,,,active,18,72,,,,https://golfcrandon.com/,,,6700 Crandon Blvd,Key Biscayne,FL,33149,US,25.7161067,-80.157803,2026-10-11T15:11:57Z
+07da0845-7c2e-4461-acca-d1fa33439e25,,Blue/Gold,Westchester Golf & Country Club,course,ec2b0e7b-7de4-4cad-ae3e-9a945c223bf9,,active,18,72,,,+1-561-369-1000,https://westchestercc.com/,https://westchestercc.com/course-details/,,12250 Westchester Club Drive,Boynton Beach,FL,33437,US,26.4965954,-80.1474223,2026-11-14T06:48:08Z
 07e121ad-e06f-43a2-a476-ea8e8667288d,way/83433056,,,course,,,active,,,,,,,,,,,FL,,US,30.7303336,-87.0205328,2026-10-11T15:11:55Z
 08090ec7-45ec-4d83-99f8-e9941060e257,relation/4053362,Hawks Landing Golf Club,,course,,,active,,,,,+1-800-567-2623,https://golfhawkslanding.com/,,,8701 World Center Drive,Orlando,FL,32821,US,28.3618866,-81.5076057,2026-10-11T13:31:27Z
 084813e0-6027-468f-a4c2-7fd1ace6a025,way/1187963194,,,course,,,active,,,,,,,,,,,FL,,US,29.3761874,-81.1599974,2026-10-11T15:12:27Z
@@ -90,9 +91,9 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 0b3cfb4a-2603-4b08-aa22-37909415a3e5,way/670062205,,,course,,,active,,,,,,,,,,,FL,,US,28.8720544,-82.5916171,2026-10-11T15:06:32Z
 0b3fa9a4-dfdf-4592-9678-c86162751a34,relation/1797898,Deerwood Country Club,,course,,,active,,,,,+1-904-641-6100,https://www.deerwoodclub.com/,,,10239 Golf Club Drive,Jacksonville,FL,32256,US,30.2257839,-81.5450914,2026-10-11T15:06:41Z
 0b669d56-4e7a-4388-9112-57f9a32032be,way/1195424787,,,course,,,active,,,,,,,,,,,FL,,US,28.2671424,-82.4739109,2026-10-11T15:12:27Z
-0b7c4f51-ee66-4284-9c9f-4eea7e06cc01,relation/16664616,Links of Sandpiper,,course,,,active,18,71,,,+1-863-859-5461,https://linksofsandpiper.com/,,,6001 Sandpipers Drive,Lakeland,FL,33809,US,28.1215678,-81.9431728,2026-10-11T15:12:43Z
+0b7c4f51-ee66-4284-9c9f-4eea7e06cc01,relation/16664616,Links of Sandpiper,,course,,,active,18,71,,,+1-863-859-5461,https://linksofsandpiper.com/,https://linksofsandpiper.com/golfing/,,6001 Sandpipers Drive,Lakeland,FL,33809,US,28.1215678,-81.9431728,2026-11-14T07:40:41Z
 0ba37e15-ba90-43f6-b5dd-7b1e7258bdec,relation/9868253,Pointe West Country Club,,course,,,active,,,,,,,,,,,FL,,US,27.6274427,-80.4731866,2026-10-11T15:06:49Z
-0bce29d2-8ffd-4b9c-a59f-2f9ce4c199c4,way/35168696,Bradenton Country Club,,course,,,active,18,71,,,,https://www.bradentoncc.org/,,,4646 9th Avenue West,Bradenton,FL,34209,US,27.4883184,-82.6078056,2026-10-22T13:05:17Z
+0bce29d2-8ffd-4b9c-a59f-2f9ce4c199c4,way/35168696,Bradenton Country Club,,course,,,active,18,71,,,,https://www.bradentoncc.org/,https://www.bradentoncc.org/amenities/golf,,4646 9th Avenue West,Bradenton,FL,34209,US,27.4883184,-82.6078056,2026-11-13T11:44:46Z
 0bd2acea-e173-4bbb-971e-6c79789f1e8a,relation/16881702,,,course,,,active,,,,,,,,,,,FL,,US,27.0490657,-82.1569904,2026-10-11T15:12:43Z
 0bd2f6d0-7838-4b51-8eed-1d714fd767a1,relation/3390865,Glenview Golf Course,,course,,,active,,,,,+1-352-753-3345,https://golfthevillages.com/,,,3190 Glenview Rod,The Villages,FL,32162,US,28.9469163,-82.0086258,2026-10-11T15:06:43Z
 0becfecc-c4e3-492a-9770-3513f0c4aae3,way/301915333,Club at Pelican Bay South Course,,course,,,active,,,,,+1-386-788-4653,https://www.pelicanbaycc.com/course_south/,,,550 Sea Duck Drive,Daytona Beach,FL,32119,US,29.1456583,-81.0534068,2026-10-11T15:12:12Z
@@ -107,7 +108,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 0d07f626-0a9c-4da4-b70b-c09ffe140705,way/351283593,Long Pine Country Club,,course,,,active,,,,,,https://lonepinegolfclub.com/,,,6251 N Military Trl,West Palm Beach,FL,33407,US,26.7688301,-80.1116508,2026-10-11T13:30:39Z
 0d1e4840-923d-4190-944f-121014752bb6,way/360126574,Lake Worth Municipal Golf Course,,course,,,active,18,71,,,+1-561-582-9713,https://www.lakeworthgolfclub.com/,,,1 7th Avenue North,Lake Worth,FL,33460,US,26.6252164,-80.0471225,2026-10-11T15:12:14Z
 0d3ed484-80a0-4a47-9ccf-e1d3f60c3bef,way/56720367,Village Green,,course,,,active,,,,,,https://www.villagegreengolfclub.com/,,,,,FL,,US,27.3022292,-82.5002351,2026-10-23T15:48:16Z
-0d6d5362-e962-4325-a848-a73a17ea089c,relation/4016652,Club Renaissance,,course,,,active,18,72,,,+1-813-633-1015,https://clubrenaissance.clublink.com/,,,2121 South Pebble Beach Boulevard,Sun City Center,FL,33573,US,27.6951092,-82.3527418,2026-10-11T15:12:35Z
+0d6d5362-e962-4325-a848-a73a17ea089c,relation/4016652,Club Renaissance,,course,,,active,18,72,,,+1-813-633-1015,https://clubrenaissance.clublink.com/,https://s3.amazonaws.com/ps3.cdn-club.link/assets/Scorecards/2017/US%20clubs/ClubRenaissance_scorecard_18hole.pdf,,2121 South Pebble Beach Boulevard,Sun City Center,FL,33573,US,27.6951092,-82.3527418,2026-11-14T10:41:17Z
 0d769fcf-3bd7-4d84-a69f-6f7b1f502ff5,way/1111533765,Weston Hills Country Club Golf Course,,course,,,active,,,,,,https://www.theclubatwestonhills.com/,,,2600 Country Club Way,Weston,FL,33332,US,26.1065394,-80.4039142,2026-10-11T15:12:24Z
 0d80e2f9-d9e2-4d13-939d-609409444db1,way/1195424725,,,course,,,active,,,,,,,,,,,FL,,US,28.2466793,-82.2032032,2026-10-11T15:06:38Z
 0dbe6069-c00d-40ed-9998-e675297eab5e,way/1234411119,,,course,,,active,,,,,,,,,,,FL,,US,27.0812038,-82.3641651,2026-10-11T15:12:28Z
@@ -137,7 +138,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 105612df-ced6-485d-9ac0-263897f2a07b,relation/4019583,River Strand Golf & Country Club,,course,,,active,,,,,+1-941-708-3837,https://www.riverstrandgolf.com/,,,7155 Grand Estuary Trail,Bradenton,FL,34212,US,27.5125719,-82.467877,2026-10-11T15:12:35Z
 105cf887-0530-4c02-94fd-f794dbb3ba4f,way/1019292166,,,course,,,active,,,,,,,,,,,FL,,US,26.0311599,-81.6982933,2026-10-11T15:12:24Z
 106d69b0-2e74-4d9e-b05d-37795310b85b,relation/4021875,Fiddler's Creek,,course,,,active,,,,,+1-239-732-9300,https://www.fiddlerscreek.com/,,,8152 Fiddler's Creek Parkway,Naples,FL,34114,US,26.0184638,-81.6711517,2026-10-11T15:12:35Z
-106dbcef-a366-4d5b-84a3-c7fcef7cd7ad,relation/2856835,Dubsdread Golf Course,,course,,,active,18,70,,,,https://www.historicaldubsdread.com/,,,549 W Par St,Orlando,FL,32804,US,28.5837329,-81.3851175,2026-10-11T13:31:22Z
+106dbcef-a366-4d5b-84a3-c7fcef7cd7ad,relation/2856835,Dubsdread Golf Course,,course,,,active,18,70,,,,https://www.historicaldubsdread.com/,https://www.historicaldubsdread.com/the-course/,,549 W Par St,Orlando,FL,32804,US,28.5837329,-81.3851175,2026-11-14T05:37:23Z
 107fecc8-1310-429a-bd84-1e9d4200a7ab,way/1234825475,,,course,,,active,,,,,,,,,,,FL,,US,27.3216877,-80.2903409,2026-10-11T13:31:12Z
 1090aa61-701d-4f2e-96bc-8a7bf21d22ce,node/4139513357,Champions Club,,course,,,active,,,,,,,,,,,FL,,US,30.1118,-81.608858,2026-10-11T13:29:32Z
 10a72c99-f5cc-467b-a403-38589ab3c16a,way/1234402381,,,course,,,active,,,,,,,,,,,FL,,US,27.244507,-82.4393103,2026-10-11T15:12:28Z
@@ -153,7 +154,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 12110c42-a5ae-4aeb-b465-a8bdf7b78c62,way/302813990,Myerlee Country Club,,course,,,active,,,,,+1-239-481-1440,https://www.myerleecc.com/,,,1380 Myerlee Country Club Boulevard,Fort Myers,FL,33919,US,26.534992,-81.9065446,2026-10-11T15:12:12Z
 124f9780-c693-41f8-b722-5beeb1727bc9,way/188169213,The Palms,,course,,,active,,,,,+1-941-697-8118,https://www.rotondagolf.com/course_palms/,,,266 B Rotonda Circle,Rotonda,FL,33947,US,26.9005826,-82.2876154,2026-10-11T15:12:01Z
 1250a560-e851-4354-aa3d-fc5508895bf7,way/1235985489,,,course,,,active,,,,,,,,,,,FL,,US,28.6561504,-80.8393066,2026-10-11T15:12:28Z
-128a46e4-26a8-4d0b-9245-1c14793db195,way/84966361,Coral Oaks Golf Course,,course,,,active,,,,,+1-239-573-3100,http://www.capecoral.net/coraloak/,,,1800 Northwest 28th Avenue,Cape Coral,FL,33993,US,26.6846453,-82.0314999,2026-10-11T15:11:55Z
+128a46e4-26a8-4d0b-9245-1c14793db195,way/84966361,Coral Oaks Golf Course,,course,,,active,18,72,,,+1-239-573-3100,http://www.capecoral.net/coraloak/,https://www.coraloaksgolf.com/the-course/,,1800 Northwest 28th Avenue,Cape Coral,FL,33993,US,26.6846453,-82.0314999,2026-11-13T10:42:20Z
 12900ce4-bc22-47b8-9351-954066d48745,way/1237176980,,,course,,,active,,,,,,,,,,,FL,,US,28.747849,-82.5276768,2026-10-11T15:12:28Z
 12c6e813-19d9-4941-b1c9-c49a4b6fd353,relation/15504630,Signal Hills Golf course,,course,,,active,,,,,,,,,,,FL,,US,30.1761417,-85.7963992,2026-10-11T13:31:48Z
 12d6fb35-05f3-4b99-a421-7b707fd6f09f,way/896380269,,,course,,,active,,,,,,,,,,,FL,,US,27.3632133,-80.3688322,2026-10-11T15:12:23Z
@@ -175,8 +176,8 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 14b1f8f0-04fe-4746-84d4-472dd7e5a359,way/1232597375,,,course,,,active,,,,,,,,,,,FL,,US,26.9000725,-82.284226,2026-10-11T15:12:28Z
 14c7802a-ca10-484b-9374-9dbed4006732,relation/14526758,Eaglewood Golf Course,,course,,,active,,,,,,,,,8500 Southeast Eaglewood Way,Hobe Sound,FL,33455,US,27.0473625,-80.1404661,2026-10-11T15:12:41Z
 14d47544-6f77-4bf3-811c-b80c8c9d4069,relation/4023425,Hunters Ridge Golf and Country Club,,course,,private,active,,,,,+1-239-992-4242,http://www.huntersridge.net/,,,12500 Hunters Ridge Drive,Bonita Springs,FL,34135,US,26.3223884,-81.7434884,2026-10-11T15:12:35Z
-1529bb63-6c30-49e4-a167-c11d4d726998,way/83378382,The Landings Golf Club,,course,,,active,18,63,,,+1-727-447-5272,https://www.thelandingsgc.com/,,,1875 Airport Drive,Clearwater,FL,33765,US,27.9760072,-82.7598024,2026-10-11T15:11:55Z
-1530bc0d-fef7-4e57-92ec-9abd1defce30,relation/5454409,TPC Treviso Bay,,course,,,active,,,,,+1-239-331-2052,https://www.tpctrevisobay.com/,,,,,FL,,US,26.0709064,-81.727624,2026-10-11T15:12:36Z
+1529bb63-6c30-49e4-a167-c11d4d726998,way/83378382,The Landings Golf Club,,course,,,active,18,63,,,+1-727-447-5272,https://www.thelandingsgc.com/,https://www.thelandingsgc.com/golf-course/,,1875 Airport Drive,Clearwater,FL,33765,US,27.9760072,-82.7598024,2026-11-14T10:41:18Z
+1530bc0d-fef7-4e57-92ec-9abd1defce30,relation/5454409,TPC Treviso Bay,,course,,,active,18,72,,,+1-239-331-2052,https://www.tpctrevisobay.com/,https://www.tpctrevisobay.com/documents/20124/0/2025+Scorecard.pdf/4533f111-9752-7fa5-a629-781904e564a3?t=1760374049431,,,,FL,,US,26.0709064,-81.727624,2026-11-13T05:41:20Z
 15341de1-a10b-4e2e-8e55-dd63ddc4eab8,relation/4066878,Oriole Golf Club,,course,,,active,18,72,,,+1-954-972-8140,https://www.oriolegolfclub.com/,,,8000 West Margate Boulevard,Margate,FL,33063,US,26.245695,-80.2271608,2026-10-11T15:06:45Z
 1537e473-3974-48ef-9543-8014cb76c52b,way/1199335575,,,course,,,active,,,,,,,,,,,FL,,US,28.1750335,-82.7272761,2026-10-11T15:12:27Z
 155e5703-aaf9-4154-ac23-7aa747e3fba1,relation/4034730,,,course,,,active,,,,,,,,,,,FL,,US,26.7449374,-81.9262502,2026-10-11T15:12:35Z
@@ -184,10 +185,10 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 15788f6c-ab35-40d8-baf3-c27bbdf74b79,relation/5464369,Sun 'n Lake Golf Course,,facility,,,active,,,,,+1-863-385-4830,https://www.sunlakegolfclub.com/,,,5223 Sun 'n Lake Boulevard,Sebring,FL,33872,US,27.5369638,-81.5226522,2026-10-11T15:12:36Z
 15bdda84-6472-4141-9cc3-7fd30dbd8624,relation/8721118,Burnt Store Golf Course,,course,,,active,,,,,,,,,,,FL,,US,26.7662191,-82.0469835,2026-10-11T15:06:49Z
 15ef057c-661c-4b3d-b0ad-ec920ffe8f3b,way/1195424798,,,course,,,active,,,,,,,,,,,FL,,US,28.2801289,-82.4680494,2026-10-11T15:12:27Z
-15f3dc22-572d-43f3-b625-6788f9174dbf,relation/4015713,Heritage Isles Golf and Country Club,,course,,,active,,,,,+1-813-907-7447,https://www.heritageislesgolf.com/,,,10630 Plantation Bay Drive,Tampa Bay,FL,33647,US,28.1486535,-82.3001374,2026-10-11T13:31:27Z
+15f3dc22-572d-43f3-b625-6788f9174dbf,relation/4015713,Heritage Isles Golf and Country Club,,course,,,active,18,72,,,+1-813-907-7447,https://www.heritageislesgolf.com/,https://www.heritageislesgolf.com/about-us/scorecard/,,10630 Plantation Bay Drive,Tampa Bay,FL,33647,US,28.1486535,-82.3001374,2026-11-14T10:41:19Z
 1659f0eb-7bb5-45eb-98aa-b523b6380b0d,way/1233381216,,,course,,,active,,,,,,,,,,,FL,,US,27.2080566,-80.178494,2026-10-11T15:12:28Z
 165d84b1-1f84-4bd1-8468-248b3eb166be,relation/4028658,Villages at Country Creek,,course,,,active,,,,,+1 239-947-3840,https://villagesatcountrycreek.org/,,,21180 Country Creek Drive,Estero,FL,33928,US,26.4364193,-81.7951906,2026-10-11T15:12:35Z
-167fa41f-7009-4b3a-ba69-a33e701d6ec1,way/245320197,Bardmoor Country Club,,course,,,active,,,,,,https://www.bardmoorgolf.com/,,,8001 Cumberland Road,Seminole,FL,33777,US,27.8612349,-82.747361,2026-10-11T15:12:05Z
+167fa41f-7009-4b3a-ba69-a33e701d6ec1,way/245320197,Bardmoor Country Club,,course,,,active,18,72,,,,https://www.bardmoorgolf.com/,https://www.bardmoorgolf.com/scorecard/,,8001 Cumberland Road,Seminole,FL,33777,US,27.8612349,-82.747361,2026-11-14T10:41:20Z
 1688b479-feb1-4aa6-82cd-030ba6d7cb83,way/1232366896,,,course,,,active,,,,,,,,,,,FL,,US,28.7181363,-81.8831933,2026-10-11T15:12:28Z
 1698c9f2-3fd6-4bae-bdf4-f34362438e76,way/951572549,,,course,,,active,9,36,,,,,,,,,FL,,US,26.1234817,-80.366433,2026-10-11T15:12:23Z
 16a11f5d-01ad-408c-978f-46eff6bf12ca,relation/21438275,Cypress Knoll Country Club,,course,,,active,,,,,,https://www.cypressknollgolfandcountryclub.com/,,,53 Easthampton Boulevard,Palm Coast,FL,,US,29.4866649,-81.235527,2026-10-22T11:30:48Z
@@ -218,11 +219,11 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 19ea1bd0-04fb-4bba-8eb8-1915c5aae01a,way/1140741069,,,course,,,active,,,,,,,,,,,FL,,US,30.4618141,-86.6241462,2026-10-11T15:12:27Z
 1a0ba232-d399-4d10-9784-21d52296ec4c,way/304704003,Medalist Golf Club,,course,,,active,,,,,+1 772-545-9700,https://medalistvillage.com/,,,9908 Southeast Cottage Lane,Hobe Sound,FL,33455,US,27.0836915,-80.1542765,2026-10-11T15:12:12Z
 1a0d575e-6438-4eb7-99be-e8af9c29cc07,relation/16872634,,,course,,,active,,,,,,,,,,,FL,,US,26.7233971,-81.8960332,2026-10-11T15:12:43Z
-1a3fe289-282b-4a83-9b04-b364199c93d8,relation/4012044,Ocala National Golf Club,,course,,,active,18,72,,,+1-352-629-7980,https://www.ocalanational.com/,,,4782 Northwest 80th Avenue,Ocala,FL,34482,US,29.2410719,-82.2491215,2026-10-11T15:12:35Z
+1a3fe289-282b-4a83-9b04-b364199c93d8,relation/4012044,Ocala National Golf Club,,course,,,active,18,72,,,+1-352-629-7980,https://www.ocalanational.com/,https://www.ocalanational.com/-scorecard,,4782 Northwest 80th Avenue,Ocala,FL,34482,US,29.2410719,-82.2491215,2026-11-13T06:41:45Z
 1aab6c0e-7268-47ef-8f1a-115cdda78e58,way/113340874,Pine Island Ridge Golf Course,,course,,,active,18,64,,,+1 954-472-7600,https://www.pircc.net/,,,9400 Pine Island Ridge Golf Course,Davie,FL,33324,US,26.0973749,-80.2714888,2026-10-11T15:11:57Z
 1ac09be6-2bc0-4330-a647-dc3378a3d19d,relation/4036801,Deer Run Course,Sun 'n Lake Golf Course,course,15788f6c-ab35-40d8-baf3-c27bbdf74b79,,active,,,,,,,,,,,FL,,US,27.5345492,-81.5251526,2026-10-11T15:12:35Z
 1ada4e43-ac8c-4b5e-99cc-54fae6e6f8be,way/252837837,Hawkes Bay Golf course (The Villages),,par3,,,active,,,,,+1-352-753-8043,https://golfthevillages.com/,,,740 Buena Vista Blvd,The Villages,FL,32159,US,28.9304303,-82.0041154,2026-10-11T15:12:05Z
-1ae1803d-dfa6-44bb-84b9-ac2fe8d38761,way/190262199,The Cove of Rotonda Golf Center,,course,,,active,,,,,+1-941-697-3900,https://www.thecoveofrotonda.com/,,,12455 S. Access Road,Port Charlotte,FL,33981,US,26.9291156,-82.2436089,2026-10-11T15:12:01Z
+1ae1803d-dfa6-44bb-84b9-ac2fe8d38761,way/190262199,The Cove of Rotonda Golf Center,,course,,,active,18,59,,,+1-941-697-3900,https://www.thecoveofrotonda.com/,https://www.thecoveofrotonda.com/course-details/,,12455 S. Access Road,Port Charlotte,FL,33981,US,26.9291156,-82.2436089,2026-11-13T05:41:17Z
 1af9a84e-8a0f-424f-9f84-4fc606cdc338,relation/5464171,Monterey Yacht & Country Club,,par3,,private,active,,,,,+1-772-283-7600,http://www.montereyyachtandcountryclub.com/,,,,,FL,,US,27.1787986,-80.2550438,2026-10-11T15:12:36Z
 1afd54b8-d4b0-405f-b7de-bbfcdb53aca7,relation/16881695,,,course,,,active,,,,,,,,,,,FL,,US,27.2495101,-82.4413567,2026-10-11T15:12:43Z
 1b0daca7-caf8-4f9c-8c68-790c6183abe7,relation/15915988,,,course,,,active,,,,,,,,,,,FL,,US,30.5551904,-81.4534728,2026-10-11T13:31:48Z
@@ -241,7 +242,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 1c760723-ad9e-4fb4-8390-a063c21c2d9c,way/1232593310,,,course,,,active,,,,,,,,,,,FL,,US,26.8830585,-82.2521206,2026-10-11T15:12:28Z
 1c900c26-f893-4bda-a30f-269ba9b69545,way/1237004283,,,course,,,active,,,,,,,,,,,FL,,US,28.1674802,-82.505241,2026-10-11T15:12:28Z
 1ca99c2c-3236-4087-b454-488b4b54ca71,relation/16188647,,,course,,,active,,,,,,,,,,,FL,,US,26.766416,-81.400496,2026-10-11T13:31:48Z
-1cab1705-8b52-4397-a60b-77fae8422c1c,relation/4066863,Colony West Golf Club - Championship Course,,course,,,active,18,71,,,+1 954-721-7710,https://www.colonywestgolfclub.com/,,,6800 Northwest 88th Avenue,Tamarac,FL,33321,US,26.2045704,-80.2608106,2026-10-11T15:12:35Z
+1cab1705-8b52-4397-a60b-77fae8422c1c,relation/4066863,Colony West Golf Club - Championship Course,,course,,,active,18,71,,,+1 954-721-7710,https://www.colonywestgolfclub.com/,https://www.colonywestgolfclub.com/the-course/,,6800 Northwest 88th Avenue,Tamarac,FL,33321,US,26.2045704,-80.2608106,2026-11-13T11:44:51Z
 1cc0c4ba-add9-4b3f-aa2e-1d1411698d08,relation/4062392,The Wanderers Club,,course,,,active,18,72,,,+1-561-795-3501,https://wc.coth.com/,,,1900 Aero Club Drive,Wellington,FL,33414,US,26.6552323,-80.2919605,2026-10-11T15:12:35Z
 1ce2de75-e3a6-4108-9c54-994178e4ba0c,relation/16933255,,,course,,,active,,,,,,,,,,,FL,,US,28.0412306,-81.9840163,2026-10-11T13:31:48Z
 1d1ce903-2197-453c-9abf-071f40b97adf,way/1234402360,,,course,,,active,,,,,,,,,,,FL,,US,27.291564,-82.4043171,2026-10-11T15:12:28Z
@@ -250,10 +251,10 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 1d49bf89-a82f-4e7a-b029-ff5f11f7a1f5,relation/2057066,Cypress Golf Course,,course,,,active,18,,,,,https://grandcypress.ezlinksgolf.com/,,,1570 Evermore Way,Orlando,FL,32836,US,28.4001608,-81.5258509,2026-10-11T15:06:41Z
 1d693cc1-708d-4704-94e7-b6983ea40bb7,way/1169515802,,,course,,,active,,,,,,,,,,,FL,,US,29.0935749,-82.2544338,2026-10-11T15:12:27Z
 1da36b88-2342-4d02-8c36-df30ddb3c75f,way/1169515846,,,course,,,active,,,,,,,,,,,FL,,US,29.1023883,-82.2659457,2026-10-11T13:31:09Z
-1dd3be9b-0325-405e-aeb3-dc2e9e596d1b,way/302777726,San Carlos Golf Club,,course,,,active,,,,,+1-239-267-3131,https://www.sancarlosgolfclub.com/,,,7420 Constitution Circle,Fort Myers,FL,33967,US,26.4802157,-81.8250376,2026-10-11T15:12:12Z
-1df6734e-fef1-4465-b2aa-8aad7ff93cdd,way/118024886,Normandy Shores Golf Club,,course,,,active,18,71,,,,https://www.normandyshoresgolfclub.com/,,,2401 Biarritz Dr,Miami Beach,FL,33141,US,25.857525,-80.1374758,2026-10-11T13:29:54Z
+1dd3be9b-0325-405e-aeb3-dc2e9e596d1b,way/302777726,San Carlos Golf Club,,course,,,active,18,71,,,+1-239-267-3131,https://www.sancarlosgolfclub.com/,https://sancarlosgolfclub.com/wp-content/uploads/sites/9787/2025/10/4cb7dea8-49b9-452a-a755-2f3a1a1e09df.pdf,,7420 Constitution Circle,Fort Myers,FL,33967,US,26.4802157,-81.8250376,2026-11-13T10:42:21Z
+1df6734e-fef1-4465-b2aa-8aad7ff93cdd,way/118024886,Normandy Shores Golf Club,,course,,,active,18,71,,,,https://www.normandyshoresgolfclub.com/,https://www.normandyshoresgolfclub.com/wp-content/uploads/2025/12/2025_Normandy_Shores_FL_Scorecard.pdf,,2401 Biarritz Dr,Miami Beach,FL,33141,US,25.857525,-80.1374758,2026-11-13T11:44:52Z
 1e8b2f68-082f-4bf5-90be-7d0fd3d32b23,way/1051055532,,,course,,,active,,,,,,,,,,,FL,,US,26.3123548,-81.4236454,2026-10-11T15:12:24Z
-1e9ff31f-2740-4147-97fb-b27e5fa43e9b,relation/1588386,Willoughby Golf Club,,course,,,active,,,,,+1 772 220 6000,http://www.willoughbygolfclub.com,,,3001 Southeast Doubleton Drive,Stuart,FL,34997,US,27.1561678,-80.231561,2026-10-11T15:12:30Z
+1e9ff31f-2740-4147-97fb-b27e5fa43e9b,relation/1588386,Willoughby Golf Club,,course,,,active,18,72,,,+1 772 220 6000,http://www.willoughbygolfclub.com,https://www.willoughbygolfclub.com/golf/scorecard-handicaps,,3001 Southeast Doubleton Drive,Stuart,FL,34997,US,27.1561678,-80.231561,2026-11-14T11:47:51Z
 1efd1d95-b5bb-403e-8c4c-fc33ef798c9b,relation/16064022,,,course,,,active,,,,,,,,,,,FL,,US,29.4305823,-81.1067593,2026-10-11T13:31:48Z
 1f0cea24-591e-4a7a-b39b-dc09ae9c7529,way/1178683763,,,course,,,active,,,,,,,,,,,FL,,US,27.4811697,-81.5043475,2026-10-11T15:12:27Z
 1f4a94a0-c2a8-4e2b-990b-3658e9f7e340,relation/16890557,,,course,,,active,,,,,,,,,,,FL,,US,27.4412392,-80.2821566,2026-10-11T15:12:43Z
@@ -266,7 +267,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 20be495d-ee43-4fc1-859c-11e1655f73f7,way/1232366746,,,course,,,active,,,,,,,,,,,FL,,US,28.8227204,-81.9457199,2026-10-11T15:12:28Z
 2114878c-1043-4a82-8581-7c13dcee6971,relation/16872632,,,course,,,active,,,,,,,,,,,FL,,US,26.7206708,-81.9004672,2026-10-11T15:12:43Z
 21157be3-b19d-408e-9cb9-49273ea6f56a,way/1300652837,,,course,,,active,,,,,,,,,,,FL,,US,28.2078408,-82.4291448,2026-10-11T15:12:29Z
-212a49ef-40fb-4b4a-9bd6-a3405a692105,way/1017175451,Mission Valley Golf & Country Club,,course,,,active,18,72,,,,https://www.missionvalleycc.com/,,,1851 Mission Valley Blvd,Nokomis,FL,34275,US,27.1595812,-82.4500651,2026-10-11T15:06:36Z
+212a49ef-40fb-4b4a-9bd6-a3405a692105,way/1017175451,Mission Valley Golf & Country Club,,course,,,active,18,72,,,,https://www.missionvalleycc.com/,https://www.missionvalleycc.com/golf,,1851 Mission Valley Blvd,Nokomis,FL,34275,US,27.1595812,-82.4500651,2026-11-14T07:40:43Z
 21364521-1929-43eb-b49d-48b34fb96a0c,way/1232366897,,,course,,,active,,,,,,,,,,,FL,,US,28.7237196,-81.8851465,2026-10-11T15:12:28Z
 21421624-0b4c-420d-8c17-376fd021b60b,way/1140741044,,,course,,,active,,,,,,,,,,,FL,,US,30.4842628,-86.4260055,2026-10-11T15:12:27Z
 215189b3-ae6a-4bb9-a160-8c6c66d8a81e,relation/4682063,Bacall Golf Course (The Villages),,course,,,active,,,,,+1-800-346-4556;+1-352-430-3431,https://golfthevillages.com/,,,2042 Canal Street,The Villages,FL,32162,US,28.88265,-81.9754924,2026-10-11T15:12:36Z
@@ -280,7 +281,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 21e38c2f-5d21-4d7d-b8fc-0890cc57f9d8,way/1178683846,,,course,,,active,,,,,,,,,,,FL,,US,27.5414037,-81.5218331,2026-10-11T15:06:38Z
 22031415-6f55-4aa6-98a6-76f949cf9f05,relation/6645611,The Golf Club at North Hampton,,course,,,active,,,,,+1-904-230-2933,https://gcnorthhampton.com/,,,22680 North Hampton Club Way,Fernandina Beach,FL,32034,US,30.6035823,-81.5545833,2026-10-11T15:12:38Z
 222ec9ea-447f-41bb-89e4-140150798322,relation/12130890,Esplanade Golf & Country Club,,course,,,active,,,,,,https://esplanadegolfandcountryclub.localsearch.com/,,,12825 Malachite Dr,Bradenton,FL,34211,US,27.4526068,-82.4092073,2026-10-22T11:35:47Z
-22419c07-70f8-4343-b518-460b92a0616d,relation/4022390,Vanderbilt Country Club,,course,,,active,,,,,+1-239-348-2662,https://www.vanderbiltcountryclub.com/,,,8250 Danbury Boulevard,Naples,FL,34120,US,26.2502531,-81.6800375,2026-10-11T15:12:35Z
+22419c07-70f8-4343-b518-460b92a0616d,relation/4022390,Vanderbilt Country Club,,course,,,active,18,72,,,+1-239-348-2662,https://www.vanderbiltcountryclub.com/,https://www.vanderbiltcountryclub.com/vanderbilt-golf/scorecard,,8250 Danbury Boulevard,Naples,FL,34120,US,26.2502531,-81.6800375,2026-11-13T11:44:44Z
 224e78ad-5c47-413f-83b0-6c76d228aa9d,way/1234825497,,,course,,,active,,,,,,,,,,,FL,,US,27.5030542,-80.3487444,2026-10-11T15:12:28Z
 230372b5-4014-49f1-8292-10316af322ae,way/1138222647,,,course,,,active,,,,,,,,,,,FL,,US,30.7497177,-86.3405522,2026-10-11T15:12:27Z
 230fe26c-82ed-4dbb-9967-234d0fb533db,relation/2788488,Aileron Golf Club,,course,,,active,18,72,,,,,,,,,FL,,US,27.0355945,-82.0439783,2026-10-11T15:12:33Z
@@ -310,7 +311,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 27105439-ba20-4a3c-add9-8dd269694f1c,relation/16903502,,,course,,,active,,,,,,,,,,,FL,,US,27.5890709,-82.4959908,2026-10-11T15:12:43Z
 27617808-4163-4eb3-9fb5-0b323760d482,way/100022310,Starke Golf & Country Club,,course,,,active,,,,,,,,,,,FL,,US,29.9452706,-82.0667556,2026-10-11T15:11:55Z
 27bc793d-ae35-498b-a1f5-8b692ae81be3,way/252834695,Baseline Golf Course,,course,,,active,,,,,,https://www.baselinegolfcourse.com/,,,9000 SE 58th Ave,Ocala,FL,34480,US,29.091608,-82.0583141,2026-10-11T15:12:05Z
-27f94492-f742-4d1a-b12d-38b7ca30af26,relation/4018292,The Preserve Golf Club,,course,,,active,,,,,+1-941-756-2944,https://www.golfthepreserve.com/,,,7310 Tara Preserve Lane,Bradenton,FL,34203,US,27.4293287,-82.4629477,2026-10-11T15:12:35Z
+27f94492-f742-4d1a-b12d-38b7ca30af26,relation/4018292,The Preserve Golf Club,,course,,,active,18,72,,,+1-941-756-2944,https://www.golfthepreserve.com/,https://www.golfthepreserve.com/scorecard/,,7310 Tara Preserve Lane,Bradenton,FL,34203,US,27.4293287,-82.4629477,2026-11-13T11:44:47Z
 28221a8d-7dd6-481d-bb0a-4499c2446fbb,relation/5450187,Riviera Golf Club,,course,,,active,,,,,+1-239-774-2011,http://www.rivieragolf.com/,,,48 Marseille Drive,Naples,FL,34112,US,26.1189964,-81.7363428,2026-10-11T13:31:32Z
 2836a46e-595f-4373-85f0-2c4c7cda11a7,way/1547303905,,,course,,,active,,,,,,,,,,,FL,,US,28.7771913,-81.9844621,2026-10-11T15:12:30Z
 28381a4f-ef0c-437d-9314-7c14922bc8b5,relation/7350808,Oceanside Country Club,,course,,,active,18,72,,,+1 386 677 7200,https://occ1907.com/,,,75 North Halifax Avenue,Ormond Beach,FL,32176,US,29.2983076,-81.0450299,2026-10-11T15:12:38Z
@@ -334,7 +335,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 2b0b0383-d8a7-46ef-aa79-e5eb2a7778c7,relation/12130891,Esplanade Golf & Country Club,,course,,,active,,,,,,www.naplesesplanadegcc.com,,,8918 Torre Vista,Naples,FL,34119,US,27.451345,-82.4084133,2026-10-11T15:12:41Z
 2b20e72a-2f0a-438d-893c-1cca87099e10,way/301947620,Daytona Beach Golf Club,,course,,,active,,,,,+1-386-671-3500,https://www.daytonabeachgc.com/,,,600 Wilder Boulevard,Daytona Beach,FL,32114,US,29.1862255,-81.0169932,2026-10-11T15:12:12Z
 2b2a5c69-e5c3-44b6-8ecb-dfcd70aa71a3,way/302141632,,,course,,,active,,,,,,,,,,,FL,,US,27.7083031,-82.3654408,2026-10-11T15:12:12Z
-2b3ae400-0e71-4a96-a2cb-5c506b13d747,relation/11105783,Disney's Magnolia Golf Course,,course,,,active,,,,,,https://www.golfwdw.com/,,,1950 W Magnolia Palm Dr,Lake Buena Vista,FL,32830,US,28.4048833,-81.597536,2026-10-11T15:06:49Z
+2b3ae400-0e71-4a96-a2cb-5c506b13d747,relation/11105783,Disney's Magnolia Golf Course,,course,,,active,18,72,,,,https://www.golfwdw.com/,https://www.golfwdw.com/courses/disneys-magnolia-golf-course,,1950 W Magnolia Palm Dr,Lake Buena Vista,FL,32830,US,28.4048833,-81.597536,2026-11-14T05:37:24Z
 2b6962bf-4740-4848-9b4e-80d3b14bc104,way/818756403,,,course,,,active,,,,,,,,,,,FL,,US,29.0287079,-82.0043175,2026-10-11T15:12:21Z
 2b6d126d-b702-402f-a931-7c1f4d466ff2,relation/2688012,Grasslands Golf & Country Club,,course,,,active,,,,,+1-863-680-1600,https://www.grasslandsgcc.com/,,,1600 Grasslands Boulevard,Lakeland,FL,33803,US,28.0087846,-81.9824818,2026-10-11T15:12:33Z
 2b77f528-187a-4ce1-bbdd-21cdfd59fda7,way/975507833,,,course,,,active,,,,,,,,,,,FL,,US,28.9240131,-81.867201,2026-10-11T13:31:06Z
@@ -348,7 +349,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 2c344bec-82da-4964-82d4-a3556c0d8c1e,relation/3211188,,,course,,,active,,,,,,,,,,,FL,,US,30.3003515,-86.0399584,2026-10-11T15:06:43Z
 2c378507-2d6c-4297-bf7d-8e238b1a555e,relation/4037378,The Hamptons Golf Club,,course,,,active,,,,,,https://www.hamptonsgolfcc.com/,,,,,FL,,US,28.057325,-81.8478933,2026-10-25T01:24:51Z
 2c559af3-6f7b-4961-9397-2c20361e8151,relation/7411708,Seven Hills Golfers Club,,course,,,active,,,,,+1 352 688 8888,http://www.7hillsgolfclub.com/,,,10599 Fairchild Road,Spring Hill,FL,34608,US,28.4452343,-82.5429429,2026-10-11T15:12:38Z
-2c82d268-4810-4985-8c15-0f7ace3d68b8,relation/1799321,Windsor Parke Golf Club,,course,,,active,,,,,+1-904-223-4653,https://windsorparke.com/,,,,,FL,,US,30.2626422,-81.4611106,2026-10-11T15:12:30Z
+2c82d268-4810-4985-8c15-0f7ace3d68b8,relation/1799321,Windsor Parke Golf Club,,course,,,active,18,72,,,+1-904-223-4653,https://windsorparke.com/,https://windsorparke.com/course-details/,,,,FL,,US,30.2626422,-81.4611106,2026-11-14T06:47:57Z
 2c8c7274-7993-40ee-bdc1-cdf6a53ff92a,way/303176250,,,course,,,active,,,,,,,,,,,FL,,US,27.4957178,-81.821544,2026-10-11T15:12:12Z
 2c8fae78-a730-4474-a947-f36859c8ebd0,way/842418101,,,course,,,active,,,,,,,,,,,FL,,US,28.3057473,-82.3345689,2026-10-11T13:31:02Z
 2c936370-7816-482e-8930-985ecc91d8fe,way/1196843470,,,course,,,active,,,,,,,,,,,FL,,US,28.0534075,-82.6971322,2026-10-11T15:12:27Z
@@ -360,7 +361,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 2ce43c93-ed73-4021-9200-f9cf39085426,way/338317710,Woodmont Country Club,,course,,public,active,,,,,+1-954-722-4300,https://woodmontcountryclub.net/,,,7801 NW 80th Ave,Tamarac,FL,33321,US,26.21667,-80.266329,2026-10-11T15:12:14Z
 2cf88797-a494-4498-8783-f8a5be13aa37,way/1184702262,,,course,,,active,,,,,,,,,,,FL,,US,29.6274358,-81.6452299,2026-10-11T15:12:27Z
 2d0b9d01-b75c-4688-91d9-07198072c380,way/1196843458,,,course,,,active,,,,,,,,,,,FL,,US,28.0825652,-82.6901213,2026-10-11T15:12:27Z
-2d1c6983-faeb-4ffd-aad4-c53a1109296e,relation/4015576,Cove Cay Country Club,,course,,,active,,,,,+1-727-535-1406,https://www.covecaygolf.com/,,,2612 Cove Cay Drive,Largo,FL,33764,US,27.9335924,-82.7224502,2026-10-11T15:12:35Z
+2d1c6983-faeb-4ffd-aad4-c53a1109296e,relation/4015576,Cove Cay Country Club,,course,,,active,18,70,,,+1-727-535-1406,https://www.covecaygolf.com/,https://covecaygolf.com/scorecard/,,2612 Cove Cay Drive,Largo,FL,33764,US,27.9335924,-82.7224502,2026-11-14T10:41:20Z
 2d515ed0-ccab-4119-a3ed-7caa8ac499cb,way/140778996,,,course,,,active,,,,,,,,,,,FL,,US,26.2845334,-81.7492649,2026-10-11T15:12:00Z
 2d7bfd46-76ba-4a5c-9432-1b5e1f40ba7c,relation/4621523,Red Reef Park Executive Golf Course,,course,,,active,9,32,,,,https://www.myboca.us/,,,1221 N Ocean Blvd,Boca Raton,FL,33432,US,26.3601233,-80.0702141,2026-10-11T15:12:36Z
 2d861659-840b-4534-8112-574b40557b85,relation/1268597,Gasparilla Golf Club,,course,,,active,18,72,,,,https://the-gasparilla-inn.com/,,,500 Palm Avenue,Boca Grande,FL,33921,US,26.7539819,-82.2578501,2026-10-11T15:12:30Z
@@ -381,6 +382,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 2ef83ad8-6cea-4762-9689-283b69ce68d4,way/1232366890,,,course,,,active,,,,,,,,,,,FL,,US,28.7182064,-81.8771217,2026-10-11T15:12:28Z
 2f28cee6-60ea-40be-948c-364a6338e592,way/1232366624,,,course,,,active,,,,,,,,,,,FL,,US,28.5307156,-81.8267381,2026-10-11T15:12:28Z
 2f2ae701-32ae-40a2-b54f-de2e44832a53,relation/4062341,Trump National Jupiter,,course,,,active,18,72,,,+1-561-691-8700,https://www.trumpnationaljupiter.com/,,,115 Eagle Tree Terrace,Jupiter,FL,33477,US,26.8900893,-80.0907206,2026-10-11T15:12:35Z
+2f3e444c-826a-46f4-81f5-210c011dc02f,,Red/Blue,Westchester Golf & Country Club,course,ec2b0e7b-7de4-4cad-ae3e-9a945c223bf9,,active,18,72,,,+1-561-369-1000,https://westchestercc.com/,https://westchestercc.com/course-details/,,12250 Westchester Club Drive,Boynton Beach,FL,33437,US,26.4965954,-80.1474223,2026-11-14T06:48:07Z
 2f44655d-8a91-40a7-bf2e-3b3dd900ec7b,relation/4036734,Sebring Municipal Golf Course,,course,,,active,,,,,+1-863-314-5919,https://sebringgolfclub.com/,,,3118 Golfview Road,Sebring,FL,33875,US,27.4635849,-81.4721887,2026-10-11T13:31:27Z
 2f5027d3-5676-4f00-b5b9-d588087ae11f,way/277056277,,,course,,,active,,,,,,,,,,,FL,,US,27.9716058,-81.6450068,2026-10-11T13:30:16Z
 2f6627ed-f3fe-44ae-bd14-6ba270121ace,way/818756401,,,course,,,active,,,,,,,,,,,FL,,US,29.0216221,-81.9966779,2026-10-11T15:12:21Z
@@ -391,7 +393,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 2fcede22-6105-4113-95a9-dee4e1650904,way/1232366929,,,course,,,active,,,,,,,,,,,FL,,US,28.9357137,-81.949905,2026-10-11T15:12:28Z
 2fd967e0-6308-48ec-a0ea-189cb2af2467,way/1237004282,,,course,,,active,,,,,,,,,,,FL,,US,28.1689035,-82.5072335,2026-10-11T15:12:28Z
 30018cd5-281e-4698-b8cc-2e41617ab24a,way/975503247,,,course,,,active,,,,,,,,,,,FL,,US,28.9200747,-81.8575402,2026-10-11T15:12:24Z
-3029d914-48a3-41ea-938a-1489ab9e22ee,way/523532905,Countryway Golf Club,,course,,,active,,,,,+1 813 854 1182,https://www.countrywaygc.com/,,,11111 West Waters Avenue,Tampa,FL,33635,US,28.034571,-82.605528,2026-10-11T15:12:18Z
+3029d914-48a3-41ea-938a-1489ab9e22ee,way/523532905,Countryway Golf Club,,course,,,active,18,61,,,+1 813 854 1182,https://www.countrywaygc.com/,https://www.countrywaygc.com/scorecard/,,11111 West Waters Avenue,Tampa,FL,33635,US,28.034571,-82.605528,2026-11-14T10:41:21Z
 30361d27-8779-46a9-b06e-630d59734cac,relation/6427448,,,course,,,active,,,,,,,,,,,FL,,US,30.2374458,-81.4413885,2026-10-11T15:12:36Z
 303f6fae-7ef6-49c8-bb80-20c421d7c43f,way/842418788,,,course,,,active,,,,,,,,,,,FL,,US,28.3143361,-82.3275868,2026-10-11T15:12:23Z
 304e36e8-1deb-4006-aac9-8047cdee1f47,way/877436212,,,course,,,active,,,,,,,,,,,FL,,US,26.3208791,-81.6605005,2026-10-11T15:12:23Z
@@ -445,10 +447,10 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 3442f46c-9705-4c5c-a7c6-9df0a9004e0f,way/1232597383,,,course,,,active,,,,,,,,,,,FL,,US,26.8839365,-82.3093198,2026-10-11T15:12:28Z
 3493f331-a139-4749-8113-0220fdeadf7d,relation/15439884,,,course,,,active,,,,,,,,,,,FL,,US,30.4897363,-86.0307979,2026-10-11T15:06:53Z
 34b3a5ef-69ba-4d3a-9973-5417c7b00a9e,relation/16903498,,,course,,,active,,,,,,,,,,,FL,,US,27.5381498,-82.5839711,2026-10-11T15:12:43Z
-34c6d711-9b0a-45d7-be65-9f3200d41cd6,relation/16841057,Black Bear Golf Club,,course,,,active,18,72,,,+1-352-357-4732,https://blackbeargolfclub.com/,,,24505 Calusa Blvd.,Eustis,FL,32736,US,28.8849598,-81.5488562,2026-10-11T15:12:43Z
+34c6d711-9b0a-45d7-be65-9f3200d41cd6,relation/16841057,Black Bear Golf Club,,course,,,active,18,72,,,+1-352-357-4732,https://blackbeargolfclub.com/,https://blackbeargolfclub.com/scorecard/,,24505 Calusa Blvd.,Eustis,FL,32736,US,28.8849598,-81.5488562,2026-11-13T10:42:18Z
 35237668-2a55-4025-9e41-81763489e30d,relation/16872637,Dunes Island Club,,course,,,active,,,,,,,,,,,FL,,US,26.4519792,-82.0448124,2026-10-11T15:06:53Z
 35567359-cffc-4b52-9904-20db5c1f49b0,way/1014381471,,,course,,,active,,,,,,,,,,,FL,,US,27.1114235,-82.439412,2026-10-11T15:12:24Z
-3578aadf-b701-48fe-8caa-a6e5f74da132,way/204575230,Tarpon Springs Golf Course,,course,,,active,18,72,,,+1-727-934-5191,https://www.tarponspringsgc.com/,,,1310 S. Pinellas Ave,Tarpon Springs,FL,34689,US,28.1334403,-82.7636748,2026-10-11T15:12:03Z
+3578aadf-b701-48fe-8caa-a6e5f74da132,way/204575230,Tarpon Springs Golf Course,,course,,,active,18,72,,,+1-727-934-5191,https://www.tarponspringsgc.com/,https://tarponspringsgc.com/golf/scorecard/,,1310 S. Pinellas Ave,Tarpon Springs,FL,34689,US,28.1334403,-82.7636748,2026-11-14T10:41:22Z
 359340b9-73d3-4629-8e37-beada0eaf107,way/886052447,Ocean Reef - Dolphone Course,,course,,,active,,,,,,https://www.oceanreef.com/,,,,,FL,,US,25.3172919,-80.2865712,2026-10-22T11:36:23Z
 35b46096-0265-4c50-bcd0-8e98aecd7221,relation/4677174,Cheval Golf & Country Club,,course,,,active,,,,,+1-813-949-4231,https://www.chevalgac.com/,,,,,FL,,US,28.1497178,-82.5136583,2026-10-11T15:12:36Z
 35d0f1f6-5070-4e6c-90a2-9c5914b43333,relation/21296837,,,course,,,active,,,,,,,,,,,FL,,US,26.1865719,-80.224739,2026-10-11T15:12:45Z
@@ -461,7 +463,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 36a1bbb3-fee6-4f90-bd49-e8a978041e24,way/1189051636,,,course,,,active,,,,,,,,,,,FL,,US,29.2255077,-82.2083018,2026-10-11T15:12:27Z
 36ce8be0-87c1-4907-ac6c-13c9332be2d1,relation/15720178,,,course,,,active,,,,,,,,,,,FL,,US,30.258555,-82.9117217,2026-10-11T15:12:43Z
 36d052bb-8557-4686-9ad7-9ae196b7e311,relation/16933277,,,course,,,active,,,,,,,,,,,FL,,US,28.0902169,-81.6858877,2026-10-11T15:12:43Z
-36dab496-c3f3-4845-90c2-f56cc64c67eb,way/302072954,Caloosa Golf & Country Club,,course,,,active,,,,,+1 813 634 2870,https://golfcaloosa.com/,,,2115 Caloosa Boulevard,Sun City Center,FL,33573,US,27.7319638,-82.3449192,2026-10-11T15:06:24Z
+36dab496-c3f3-4845-90c2-f56cc64c67eb,way/302072954,Caloosa Golf & Country Club,,course,,,active,18,72,,,+1 813 634 2870,https://golfcaloosa.com/,https://golfcaloosa.com/scorecard-map/,,2115 Caloosa Boulevard,Sun City Center,FL,33573,US,27.7319638,-82.3449192,2026-11-14T10:41:23Z
 36e9e192-cb37-4566-a9a8-354fcd1e16e3,way/415389230,Tesero Golf Club,,course,,,active,,,,,,https://tesoroclub.com/,,,125 SE VIA TESORO BLVD,PORT ST. LUCIE,FL,34984,US,27.2244234,-80.3270866,2026-10-11T13:30:44Z
 36f6f40d-6baf-4041-980d-009cd34d03e6,way/493358897,,,course,,,active,,,,,,,,,,,FL,,US,27.4013403,-82.5455067,2026-10-11T15:12:17Z
 36fe6195-17fb-4b57-bc38-b32a2a078dc0,relation/7340952,,,course,,,active,,,,,,,,,,,FL,,US,30.4928454,-86.4372457,2026-10-11T15:12:38Z
@@ -522,7 +524,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 3e43e75b-a1a8-4660-a640-26fecbc33034,way/1151308895,,,course,,,active,,,,,,,,,,,FL,,US,30.4344794,-86.930257,2026-10-11T15:12:27Z
 3e5ea95a-9276-4fd8-8d19-97b592767317,relation/5462778,Innisbrook Golf Resort,,course,,,active,,,,,+1 727-942-2000,https://www.innisbrookgolfresort.com/,,,36750 US Hwy 19 N,Palm Harbor,FL,34684,US,28.1119418,-82.7596516,2026-10-11T15:12:36Z
 3e799eb5-6728-4886-b8aa-22959b7ebcee,way/1169515744,,,course,,,active,,,,,,,,,,,FL,,US,29.0974348,-82.2700509,2026-10-11T15:12:27Z
-3eae48bc-b1bb-4ea8-b734-252d31102edf,relation/17604799,Cimarrone Golf Club,,course,,,active,18,71,,,+1-904-287-2000,https://www.cimarronegolf.com/,,,2800 Cimarrone Blvd,Jacksonville,FL,32259,US,30.0625409,-81.544898,2026-10-11T15:06:54Z
+3eae48bc-b1bb-4ea8-b734-252d31102edf,relation/17604799,Cimarrone Golf Club,,course,,,active,18,72,,,+1-904-287-2000,https://www.cimarronegolf.com/,https://www.cimarronegolf.com/golf/course,,2800 Cimarrone Blvd,Jacksonville,FL,32259,US,30.0625409,-81.544898,2026-11-13T06:41:48Z
 3ec48dfc-65af-4476-989f-7ab01bf6d87e,way/1232597386,,,course,,,active,,,,,,,,,,,FL,,US,26.8597371,-82.2928398,2026-10-11T13:31:12Z
 3ec8e585-1a3c-43a6-b7e2-cb867836e17b,way/301713060,Redland Golf & Country Club,,course,,,active,18,71,,,+1 305-247-8503,https://www.redlandgolf.com/,,,24451 SW 177th Ave,Homestead,FL,33031,US,25.5413431,-80.4739282,2026-10-11T15:12:12Z
 3ee388fb-383b-40d0-80f9-9697b492e1c2,relation/396743,Hidden Lake Park,,course,,,active,,,,,,,,,,,FL,,US,26.4186775,-80.0830461,2026-10-11T15:12:30Z
@@ -532,7 +534,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 3f88630b-76cf-428d-a748-98bc486ef203,relation/2537899,,,course,,,active,,,,,,,,,,,FL,,US,30.3809244,-86.3682188,2026-10-11T13:31:22Z
 3f8eb3e2-9947-41dc-9bc0-4d9afbee9835,way/1138222623,,,course,,,active,,,,,,,,,,,FL,,US,30.497589,-86.0351193,2026-10-11T15:06:38Z
 3fbad7a5-fa03-4d5a-bb2e-713ed626d079,relation/4029388,Lexington Country Club,,course,,,active,18,72,,,+1-239-437-0404,https://lexingtoncountryclub.com/,,,16257 Willowcrest Way,Fort Myers,FL,33908,US,26.4949615,-81.9068341,2026-10-11T15:12:35Z
-3ffe8bb5-b55f-4de4-b371-8675962f87ed,relation/4020317,Oyster Creek Golf Club,,course,,,active,,,,,+1-941-475-0334,https://www.oystercreekgolfclub.com/,,,6651 Oriole Boulevard,Englewood,FL,34224,US,26.9253403,-82.3088788,2026-10-11T15:12:35Z
+3ffe8bb5-b55f-4de4-b371-8675962f87ed,relation/4020317,Oyster Creek Golf Club,,course,,,active,18,60,,,+1-941-475-0334,https://www.oystercreekgolfclub.com/,https://www.oystercreekgolfclub.com/about-us/,,6651 Oriole Boulevard,Englewood,FL,34224,US,26.9253403,-82.3088788,2026-11-13T05:41:17Z
 4014c3e1-e1f6-4534-8f09-dbf53a25c699,way/1178343401,,,course,,,active,,,,,,,,,,,FL,,US,29.7845968,-82.0556577,2026-10-11T15:12:27Z
 401c637c-3f4e-489c-b0ac-058af91e0693,way/1232366642,,,course,,,active,,,,,,,,,,,FL,,US,28.503364,-81.714901,2026-10-11T15:12:28Z
 402d8ad1-ca20-4f83-888f-f033436ab4a2,relation/16185292,,,course,,,active,,,,,,,,,,,FL,,US,28.0905544,-82.6923525,2026-10-11T15:06:53Z
@@ -546,7 +548,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 41e100b7-2ecb-4e3c-9602-769e9078f8e3,relation/5462737,Saint Petersburg Country Club,,course,,,active,,,,,+1 727 864-1595,https://www.stpetecountryclub.com/,,,,,FL,,US,27.7297079,-82.6627804,2026-10-11T15:12:36Z
 41e990c6-09a8-4ea4-8eee-dbed16087a87,relation/16181941,,,course,,,active,,,,,,,,,,,FL,,US,28.5628161,-82.5699065,2026-10-11T15:12:43Z
 41ea64cb-7e4d-44f2-92a2-05366caa3dd9,node/14197146150,,,course,,,active,,,,,,,,,,,FL,,US,26.2392473,-81.8107669,2026-10-11T13:29:32Z
-41f7ea07-c286-4996-9f72-13e9cd0d5d9e,relation/4020054,Long Marsh,,course,,,active,,,,,+1-941-698-0918,https://rotondagolf.com/long-marsh-course/,,,20 White Marsh Road,Rotonda,FL,33947,US,26.8889747,-82.259438,2026-10-11T15:12:35Z
+41f7ea07-c286-4996-9f72-13e9cd0d5d9e,relation/4020054,Long Marsh,,facility,,,active,,,,,+1-941-698-0918,https://rotondagolf.com/long-marsh-course/,https://rotondagolf.com/wp-content/uploads/sites/219/2026/01/Long-Marsh-Scorecard-New.jpg,,20 White Marsh Road,Rotonda,FL,33947,US,26.8889747,-82.259438,2026-11-13T05:41:18Z
 42126f96-b03b-4994-a4a3-9fe63c8f8287,relation/2692828,Jonathan's Landing Golf Club,,course,,,active,18,,,,,https://www.jonathanslanding.com/,,,16823 Captain Kirle Drive,Jupiter,FL,33477,US,26.9217436,-80.0864811,2026-10-11T15:12:33Z
 423e6632-da89-415f-8f89-ce46dda73528,way/1140741057,,,course,,,active,,,,,,,,,,,FL,,US,30.470753,-86.4311745,2026-10-11T15:12:27Z
 426b90e3-7ec8-4fd8-b520-db27775c795a,relation/16841058,,,course,,,active,,,,,,,,,,,FL,,US,28.8449555,-81.5617127,2026-10-11T15:12:43Z
@@ -574,13 +576,13 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 459fefcd-4887-48af-9c0f-650a9774bc33,relation/16923011,,,course,,,active,,,,,,,,,,,FL,,US,28.2606767,-81.4518313,2026-10-11T15:12:43Z
 45aca433-e9b9-4819-8a8a-d9d33fa9110b,way/1237176986,,,course,,,active,,,,,,,,,,,FL,,US,28.7234022,-82.5100168,2026-10-11T15:12:28Z
 464b5f42-2bd3-469e-a9ff-2983cc61105e,relation/15439887,,,course,,,active,,,,,,,,,,,FL,,US,30.7471331,-86.3354783,2026-10-11T15:12:43Z
-46599232-693b-470d-85be-0a0aac93054e,way/331548410,Eagle Trace Golf Club,,course,,,active,18,71,,,,https://eagletrace.clublink.com/,,,1111 Eagle Trace Blvd W,Coral Springs,FL,33071,US,26.2511211,-80.2879238,2026-10-11T15:12:12Z
+46599232-693b-470d-85be-0a0aac93054e,way/331548410,Eagle Trace Golf Club,,course,,,active,18,72,,,,https://eagletrace.clublink.com/,https://production-club.s3.amazonaws.com/home/ubuntu/Projects/clublink/asset_files/Documents/Eagle%20Trace/2024/EagleTrace_scorecard_18hole_web.pdf,,1111 Eagle Trace Blvd W,Coral Springs,FL,33071,US,26.2511211,-80.2879238,2026-11-13T11:44:53Z
 466bf92c-bd63-47cb-a7d3-b537fea704be,way/110167004,Mainlands Golf Course,,course,,,active,,,,,,https://mainlandsgolf.com/,,,,,FL,,US,27.8599554,-82.6866715,2026-10-11T13:29:54Z
 4687a83c-1d72-488d-b612-0ee44aaa44fa,way/141494098,Club Pelican Bay,,course,,,active,9,,,,,https://clubpelicanbay.com/,,,707 Gulf Park Dr,Naples,FL,34108,US,26.2313154,-81.8079759,2026-10-22T13:05:14Z
 46887947-9857-4923-8280-0cd0a2d278d9,relation/4020906,Sea Palms Golf Club,,course,,,active,,,,,,,,,,,FL,,US,26.6689989,-82.1534908,2026-10-11T13:31:27Z
 46b0c10b-a825-4310-bb86-4e9084be6729,way/202907865,Eagle Springs Golf and Recreation Park,,course,,,active,,,,,+1 850 892 3812,https://www.defuniakspringsgolf.com/,,,171 Country Club Lane,DeFuniak Springs,FL,32435,US,30.7273265,-86.1412969,2026-10-11T15:12:03Z
 46c05e52-a6b9-4755-90d9-7bafeb5fc0d9,relation/16881717,,,course,,,active,,,,,,,,,,,FL,,US,27.0617167,-82.2133728,2026-10-11T15:12:43Z
-46d20c22-a4c8-43c0-af58-2db6c525f356,relation/4061357,The River Ridge Course,,course,,,active,,,,,+1-772-336-3000,https://www.harbourridge.com/,,,12600 Harbor Ridge Boulevard,Palm City,FL,34990,US,27.2279018,-80.3112249,2026-10-11T15:12:35Z
+46d20c22-a4c8-43c0-af58-2db6c525f356,relation/4061357,The River Ridge Course,,course,,,active,18,72,,,+1-772-336-3000,https://www.harbourridge.com/,https://harbourridge.com/golf/scorecard,,12600 Harbor Ridge Boulevard,Palm City,FL,34990,US,27.2279018,-80.3112249,2026-11-14T10:41:28Z
 46f454e9-fddb-444a-83b4-21ab61efae21,way/842422089,,,course,,,active,,,,,,,,,,,FL,,US,28.5366076,-82.232724,2026-10-11T15:12:23Z
 4701b0e2-3634-4819-ba6f-81b1d89df17c,way/964087390,Indian Creek Country Club,,course,,,active,18,72,,,,https://www.indiancreekcountryclub.org/,,,55 Indian Creek Island Road,Indian Creek Village,FL,33154,US,25.8788928,-80.1364139,2026-10-11T15:12:23Z
 471050dc-c143-40ee-bac4-6ea0bcebaac2,relation/1832233,Deercreek Country Club,,course,,,active,18,71,,,+1-904-363-1507,https://www.deercreekcountryclub.com/,,,7816 McLaurin Road North,Jacksonville,FL,32256,US,30.1828606,-81.5313783,2026-10-11T15:12:30Z
@@ -590,7 +592,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 4796c5e5-64e3-4983-920b-bec46571d898,way/1234065236,,,course,,,active,,,,,,,,,,,FL,,US,26.433842,-82.0535502,2026-10-11T15:12:28Z
 479bcad9-1adc-4c3a-b192-265baa0b6376,way/98008195,Wilderness Country Club,,course,,,active,18,,,,+1-239-261-5505,https://www.wildernesscc.com/,,,,,FL,,US,26.1807722,-81.7874261,2026-10-11T13:29:49Z
 47adcf3b-c132-4881-ba73-aa5a1533f66e,way/1054959676,,,course,,,active,,,,,,,,,,,FL,,US,28.1956029,-81.1353764,2026-10-11T15:12:24Z
-47b033fe-9a37-4015-b8a8-a7290358b16a,way/44540162,Waldorf Astoria Golf Course,,course,,,active,18,72,,,,https://www.waldorfastoriaorlando.com/,,,14224 Bonnet Creek Resort Lane,Orlando,FL,32821,US,28.3527563,-81.5364857,2026-10-11T15:11:53Z
+47b033fe-9a37-4015-b8a8-a7290358b16a,way/44540162,Waldorf Astoria Golf Course,,course,,,active,18,72,,,,https://www.waldorfastoriaorlando.com/,https://www.waldorfastoriaorlando.com/golf/golf-club/,,14224 Bonnet Creek Resort Lane,Orlando,FL,32821,US,28.3527563,-81.5364857,2026-11-14T06:47:58Z
 47b4cd02-44dc-4c83-a667-355c42319597,way/113627212,Lost Lake Golf Club,,course,,,active,,,,,+1-772-220-6666,https://www.lostlakegolfclub.com/,,,2300 Southeast Fazio Drive,Hobe Sound,FL,33455,US,27.105702,-80.1987487,2026-10-11T15:11:57Z
 47be9b59-f241-4035-8417-24a9525cb81c,way/1136084375,,,course,,,active,,,,,,,,,,,FL,,US,30.1875756,-85.8217741,2026-10-11T15:12:27Z
 47f14605-4e9a-4452-9253-2195766a97cd,relation/4675008,The Polo Club Boca Raton,,course,,private,active,,,,,+1-561-995-1200,https://www.poloclub.net/,,,,,FL,,US,26.4217715,-80.134127,2026-10-11T15:12:36Z
@@ -601,7 +603,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 4880d237-1569-42c9-b5de-62efd2e13c3a,relation/5462809,Miccosukee Golf & Country Club,,course,,,active,,,,,+1-305-382-3930,https://www.miccosukeegolf.com/,,,6401 Kendale Lakes Dr,Miami,FL,33183,US,25.7069025,-80.4225375,2026-10-11T15:12:36Z
 48a475de-3cfc-47bf-a146-e98ff2c9289a,relation/4031866,Legends Golf & Country Club,,course,,,active,,,,,+1-239-561-8740,https://www.legendscc.com/,,,8600 Legends Boulevard,Fort Myers,FL,33912,US,26.532026,-81.8136084,2026-10-11T15:06:45Z
 48d89f7f-ef90-4872-8161-e89ba8f3ccc7,way/1177148291,,,course,,,active,,,,,,,,,,,FL,,US,30.6131672,-81.5527098,2026-10-11T15:12:27Z
-48f67d2c-7e75-4b2e-bcc4-0449c5ae788d,relation/4034692,Del Tura Golf Club,,course,,,active,,,,,+1-239-731-7814,https://www.delturagolfclub.com/,,,18621 North Tamiami Trail,North Fort Myers,FL,33903,US,26.7319474,-81.9175535,2026-10-11T15:12:35Z
+48f67d2c-7e75-4b2e-bcc4-0449c5ae788d,relation/4034692,Del Tura Golf Club,,facility,,,active,,,,,+1-239-731-7814,https://www.delturagolfclub.com/,https://www.delturagolfclub.com/the-course/,,18621 North Tamiami Trail,North Fort Myers,FL,33903,US,26.7319474,-81.9175535,2026-11-13T10:42:22Z
 48f71f65-031c-4bda-a13f-02c790490724,way/252834705,Ocala Golf Club,,course,,,active,18,72,,,,https://www.ocalagolfclub.com/,,,3130 East Silver Springs Boulevard,Ocala,FL,34470,US,29.1900073,-82.0927995,2026-10-11T15:12:05Z
 4928bb0d-49fb-4f73-8ed0-4e631d090c1f,relation/15915987,,,course,,,active,,,,,,,,,,,FL,,US,30.570835,-81.4503292,2026-10-11T15:12:43Z
 49582235-3f74-4476-9af1-a28422a64c0e,relation/4037813,Grenelefe Golf & Tennis Resort - South Course,,course,,,active,,,,,+1-863-422-7511,https://www.thelefe.com/,,,3271 Camelot Drive,Haines City,FL,33844,US,28.0636004,-81.5487725,2026-10-11T13:31:27Z
@@ -625,7 +627,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 4b75b08e-3221-44df-8332-590084408569,relation/3446463,Mayacoo Lakes Country Club,,course,,,active,,,,,,https://mayacoo.com/,,,9697 Mayacoo Club Drive,West Palm Beach,FL,33411,US,26.6984281,-80.1916325,2026-10-22T11:37:58Z
 4b80f709-424a-4190-99df-5e36543d0fbc,relation/15559178,,,course,,,active,,,,,,,,,,,FL,,US,30.3845374,-87.0541436,2026-10-11T15:12:43Z
 4b94d408-9f4e-4b66-b553-9537568145a5,way/1151306538,,,course,,,active,,,,,,,,,,,FL,,US,30.4313804,-86.9252074,2026-10-11T15:12:27Z
-4bdd4852-c016-40bb-9f37-1adb9ff9e4fb,relation/4066864,Colony West Golf Club - Glades Course,,course,,,active,,,,,+1 954-721-7710,https://www.colonywestgolfclub.com/,,,6800 Northwest 88th Avenue,Tamarac,FL,33321,US,26.2038161,-80.2763964,2026-10-11T15:12:35Z
+4bdd4852-c016-40bb-9f37-1adb9ff9e4fb,relation/4066864,Colony West Golf Club - Glades Course,,course,,,active,18,64,,,+1 954-721-7710,https://www.colonywestgolfclub.com/,https://www.colonywestgolfclub.com/the-course/,,6800 Northwest 88th Avenue,Tamarac,FL,33321,US,26.2038161,-80.2763964,2026-11-13T11:44:54Z
 4bedd693-879c-48b4-a349-a67834769a76,relation/16933275,,,course,,,active,,,,,,,,,,,FL,,US,28.0955487,-81.6860886,2026-10-11T15:06:53Z
 4c053d12-8e46-4e15-be16-51ce23fb5f51,relation/2746442,Dunedin Stirling Links,,course,,,active,,,,,+1-727-733-6728,https://www.dunedingolf.com/,,,,,FL,,US,28.0439247,-82.7812854,2026-10-11T15:12:33Z
 4c0b6fbe-ba9a-408e-89ae-87fa06a2ad39,relation/16169731,,,course,,,active,,,,,,,,,,,FL,,US,28.2526282,-82.2056047,2026-10-11T15:12:43Z
@@ -650,14 +652,15 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 4e12474f-5ffb-4bd3-9469-6bb3326f33ef,way/877437723,,,course,,,active,,,,,,,,,,,FL,,US,26.3200887,-81.6586962,2026-10-11T15:12:23Z
 4e14de03-4f1c-48dd-b3a3-c264b9a015b4,relation/4040121,Kings Ridge Golf Club - Ridge Course,,course,,,active,,,,,+1-352-242-4653,https://www.kingsridgegc.com/,,,,,FL,,US,28.5183223,-81.712709,2026-10-11T15:12:35Z
 4e3078ef-3573-4f73-96f0-86bd1b09b15b,way/90551509,Frenchman's Creek Beach and Country Club,,course,,,active,,,,,,https://www.frenchmanscreek.com/,,,,,FL,,US,26.8757328,-80.0875033,2026-10-22T11:37:44Z
-4e6c09b5-7412-47b2-93b3-c2b6cf331021,relation/1231691,Celebration Golf Club,,course,,,active,18,72,,,+1 407-566-4653,https://www.celebrationgolf.com/,,,701 Golf Park Drive,Celebration,FL,34747,US,28.3198735,-81.5387869,2026-10-11T15:12:30Z
+4e6c09b5-7412-47b2-93b3-c2b6cf331021,relation/1231691,Celebration Golf Club,,course,,,active,18,72,,,+1 407-566-4653,https://www.celebrationgolf.com/,https://www.celebrationgolf.com/course-overview/,,701 Golf Park Drive,Celebration,FL,34747,US,28.3198735,-81.5387869,2026-11-14T05:37:25Z
 4e6c68c2-fdc6-4c28-b306-86efa820751d,way/866513893,,,course,,,active,,,,,,,,,,,FL,,US,26.7207594,-81.8970331,2026-10-11T15:12:23Z
 4e9876d6-42c4-4813-9c27-e5d56c43cf56,relation/4011262,Meadowbrook Golf Club (Closed),,course,,,active,,,,,,,,,3200 Northwest 98th Street,Gainesville,FL,32606,US,29.682266,-82.4514604,2026-10-11T13:31:27Z
 4ea98e4e-1174-4d6c-bc09-e107074b9396,relation/16841074,,,course,,,active,,,,,,,,,,,FL,,US,28.7267889,-81.7909144,2026-10-11T15:12:43Z
 4eb13963-0c3d-455b-91ff-fa3b543d5a31,relation/6820462,,,course,,private,active,,,,,,,,,,,FL,,US,28.9541239,-81.656368,2026-10-11T15:12:38Z
 4ee5525d-2dd0-437a-937b-1b039d6c54a9,way/1178683765,,,course,,,active,,,,,,,,,,,FL,,US,27.4560863,-81.3249222,2026-10-11T15:12:27Z
+4eeebcb1-cfe2-4676-ade6-52e57fdf4bf5,,Gold/Red,Westchester Golf & Country Club,course,ec2b0e7b-7de4-4cad-ae3e-9a945c223bf9,,active,18,72,,,+1-561-369-1000,https://westchestercc.com/,https://westchestercc.com/course-details/,,12250 Westchester Club Drive,Boynton Beach,FL,33437,US,26.4965954,-80.1474223,2026-11-14T06:48:06Z
 4f1c9076-29ee-420e-9d1c-18a356e3647c,way/301724980,,,course,,,active,,,,,,,,,,,FL,,US,30.4064954,-82.9377596,2026-10-11T15:06:24Z
-4f526948-f709-4374-8792-6c9bf41064e3,relation/4032159,Cross Creek Golf & Country Club,,course,,,active,18,60,,,+1-239-768-1922,https://crosscreekfl.com/,,,13050 Cross Creek Boulevard,Fort Myers,FL,33912,US,26.5537257,-81.8267877,2026-10-11T15:06:45Z
+4f526948-f709-4374-8792-6c9bf41064e3,relation/4032159,Cross Creek Golf & Country Club,,course,,,active,18,60,,,+1-239-768-1922,https://crosscreekfl.com/,https://crosscreekfl.com/golf-course/,,13050 Cross Creek Boulevard,Fort Myers,FL,33912,US,26.5537257,-81.8267877,2026-11-13T10:42:23Z
 4f88a855-d512-43d7-96da-ec5e8b34969b,relation/2367616,Shell Point Golf Club,,course,,,active,,,,,+1-239-433-9790,https://www.shellpointgolf.com/,,,17500 On Par Blvd,Fort Myers,FL,33908,US,26.5013056,-81.9835506,2026-10-11T15:12:33Z
 4f8bc43f-4e0e-461a-aa5f-c9ce44df3c5f,way/1140859759,River Hall Country Club,,course,,,active,18,,,,,https://www.riverhallonline.com,,,3500 River Hall Parkway,Alva,FL,33920,US,26.697043,-81.6833724,2026-10-11T15:12:27Z
 4f99ea05-afe4-45b8-8074-773282804c19,way/1300652838,,,course,,,active,,,,,,,,,,,FL,,US,28.2093745,-82.4265425,2026-10-11T15:12:29Z
@@ -683,10 +686,10 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 51ad1185-8f8f-4c0a-bbb0-9e346242d44d,way/1232366734,East Lake Community Church,,course,,,active,,,,,,,,,,,FL,,US,28.8512479,-81.5695248,2026-10-11T13:31:12Z
 51fb6082-e55e-436e-8d7a-9681dcc84548,relation/16872645,,,course,,,active,,,,,,,,,,,FL,,US,26.5757443,-81.9611163,2026-10-11T15:12:43Z
 522539bb-50a8-4673-86fe-a9ac315a48de,way/493044956,,,course,,,active,,,,,,,,,,,FL,,US,26.0243586,-81.6327747,2026-10-11T15:12:17Z
-5246d03c-a68e-40d3-ab3e-86403649cbe5,relation/1581041,Costa Del Sol Golf Club,,course,,,active,18,70,,,+1-305-592-3300,https://www.cdsgolfclub.com/,,,100 Costa del Sol Boulevard,Doral,FL,33178,US,25.8079789,-80.3594298,2026-10-11T15:12:30Z
+5246d03c-a68e-40d3-ab3e-86403649cbe5,relation/1581041,Costa Del Sol Golf Club,,course,,,active,18,72,,,+1-305-592-3300,https://www.cdsgolfclub.com/,https://cdsgolfclub.com/course-details/,,100 Costa del Sol Boulevard,Doral,FL,33178,US,25.8079789,-80.3594298,2026-11-13T11:44:54Z
 524a8d0c-5938-4a12-8fdc-27b6d2ae06d4,way/1480382114,West,,course,,,active,,,,,,,,,,,FL,,US,25.9487179,-80.3149391,2026-10-11T13:31:14Z
 52624c83-a5de-4076-827c-c91bdb5912a6,way/1178683840,,,course,,,active,,,,,,,,,,,FL,,US,27.5539955,-81.4876123,2026-10-11T15:12:27Z
-528d8f3a-a956-4f94-9f94-504a302eba5b,relation/1587675,Piper’s Landing Yacht and Country Club,,course,,,active,,,,,+1-772-283-7000,http://www.piperslanding.com/,,,,,FL,,US,27.150066,-80.2706529,2026-10-11T15:12:30Z
+528d8f3a-a956-4f94-9f94-504a302eba5b,relation/1587675,Piper’s Landing Yacht and Country Club,,course,,,active,18,72,,,+1-772-283-7000,http://www.piperslanding.com/,https://www.piperslanding.com/golf/scorecard,,,,FL,,US,27.150066,-80.2706529,2026-11-14T10:41:29Z
 52cb35fe-40f0-47c9-9482-a0df95ed8207,way/131440969,Island Country Club,,course,,,active,18,71,,,+1-239-394-6661,https://www.island-countryclub.org/,,,500 Nassau Road,Marco Island,FL,34145,US,25.946971,-81.7115403,2026-10-11T15:11:57Z
 52e00b2b-da15-43b7-b966-d093183e4b7b,node/13650645702,Timberland Executive Golf Course,,course,,,active,,,,,,,,,,,FL,,US,28.7479216,-81.9718856,2026-10-11T13:29:32Z
 52e335cd-1856-4fdd-a641-27ac05e52029,relation/4680174,Babe Zaharias Golf Course,,course,,,active,,,,,+1-813-631-4374,https://babezahariasgolf.net/,,,,,FL,,US,28.0482071,-82.4734577,2026-10-11T15:12:36Z
@@ -747,9 +750,10 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 58fd2612-10c3-4140-9ce4-a6d019a7f768,way/1177151002,,,course,,,active,,,,,,,,,,,FL,,US,30.6137054,-81.446101,2026-10-11T15:12:27Z
 591ba4c1-f38a-4f80-844a-6b8b026aeaa0,relation/3390876,Mira Mesa Course (The Villages),,course,,,active,,,,,+1-352-753-2270,https://www.thevillages.com/golf/executive/MiraMesa.htm,,,998 Rio Grande Ave,The Villages,FL,32159,US,28.9260865,-81.943372,2026-10-11T15:12:33Z
 59429137-80a7-47d1-bda3-65eac5373c42,way/818756400,,,course,,,active,,,,,,,,,,,FL,,US,29.0315315,-81.9942236,2026-10-11T15:12:21Z
-59429dbd-a9df-40ae-ad55-5e18d03be879,relation/4066132,Delray Beach Golf Club,,course,,,active,,,,,+1-561-243-7380,https://www.delraybeachgolfclub.com/,,,2200 Highland Avenue,Delray Beach,FL,33445,US,26.452816,-80.0975057,2026-10-11T15:12:35Z
+59429dbd-a9df-40ae-ad55-5e18d03be879,relation/4066132,Delray Beach Golf Club,,course,,,active,18,72,,,+1-561-243-7380,https://www.delraybeachgolfclub.com/,https://www.delraybeachgolfclub.com/course/scorecard/,,2200 Highland Avenue,Delray Beach,FL,33445,US,26.452816,-80.0975057,2026-11-14T06:48:01Z
 59448adb-97f1-41f0-a0d7-e03444cc7965,way/115546633,Park Ridge Golf Course,,course,,,active,18,72,,,,https://www.pbcparkridgegolf.com/,,,9191 Lantana Road,Lake Worth,FL,33467,US,26.5966676,-80.1935815,2026-10-11T13:29:54Z
 59675f29-3576-481d-b43b-02ca8fb8a67e,way/1177148289,,,course,,,active,,,,,,,,,,,FL,,US,30.7560292,-81.7674504,2026-10-11T13:31:09Z
+59a2917b-1e1d-4226-9aa5-46afbec62d69,,Blue/Red,Myakka Pines Golf Course,course,6f40de52-516b-471c-b5e7-2b6279f4dcea,,active,18,72,,,,https://www.myakkapinesgolfclub.com/,https://www.myakkapinesgolfclub.com/aboutus/scorecard/,,2550 S River Rd,Englewood,FL,34223,US,26.9978483,-82.3120192,2026-11-14T07:40:52Z
 59fe3466-a9d5-48bd-9fbc-f64f90ac961b,way/1232366636,,,course,,,active,,,,,,,,,,,FL,,US,28.5161766,-81.7164267,2026-10-11T15:12:28Z
 5a0aab82-410f-445b-9674-b1ce01a8f10a,relation/13748939,River Ridge Golf and Country Club,,course,,,active,,,,,,,,,,,FL,,US,28.2664469,-82.6334341,2026-10-11T15:12:41Z
 5a0d0a24-7b5e-46e5-acce-4f3a45531f72,way/1234825488,,,course,,,active,,,,,,,,,,,FL,,US,27.2437499,-80.297591,2026-10-11T15:12:28Z
@@ -759,7 +763,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 5a531b89-6f1d-4750-b9d7-f3b849387e8d,relation/15404978,,,course,,,active,,,,,,,,,,,FL,,US,30.1858408,-85.7988462,2026-10-11T15:12:43Z
 5aa07e4a-f8bf-4424-9d7a-441ea1d6c3f6,relation/4445130,PGA National Resort The Squire,,course,,,active,,,,,+1-800-863-2819,https://www.pgaresort.com/golf/,,,400 Avenue of the Champions,Palm Beach Gardens,FL,33418,US,26.8335679,-80.1524873,2026-10-11T13:31:32Z
 5aaa7625-62c0-45f8-9fec-69ff9acbf7b0,relation/12587089,Pelican Pointe Golf & Country Club,,course,,,active,,,,,,https://pelicanpointeclub.com/,,,499 Derbyshire Dr,Venice,FL,34285,US,27.0864316,-82.4048418,2026-10-11T15:12:41Z
-5abdcf59-eadb-4e27-a479-4c71fe131dca,relation/5450289,The Club at Olde Cypress,,course,,private,active,18,72,,,+1-239-596-6857; +1-239-593-7311,https://www.oldecypress.com/,,,7165 Treeline Drive,Naples,FL,34119,US,26.2822422,-81.714457,2026-10-11T15:12:36Z
+5abdcf59-eadb-4e27-a479-4c71fe131dca,relation/5450289,The Club at Olde Cypress,,course,,private,active,18,72,,,+1-239-596-6857; +1-239-593-7311,https://www.oldecypress.com/,https://www.oldecypress.com/golf/scorecard,,7165 Treeline Drive,Naples,FL,34119,US,26.2822422,-81.714457,2026-11-13T05:41:21Z
 5b15e381-d579-4528-a95e-fa10f4b188e4,relation/4037056,River Greens Golf Course,,course,,,active,,,,,+1-863-453-5210,https://www.rgreens.com/,,,47 West Lake Damon Drive,Avon Park,FL,33825,US,27.6399387,-81.5084983,2026-10-11T15:12:35Z
 5b41f1f8-b152-4019-9141-d6d2a9a9fdf1,way/91978563,Countryside Golf & Country Club,,course,,private,active,18,70,,,+1-239-353-1780,https://www.countrysidegcc.net/,,,600 Countryside Drive,Naples,FL,34104,US,26.1468592,-81.7221343,2026-10-11T15:11:55Z
 5b5b12c6-28b2-4486-9b4f-cbf8c1c069b3,way/1232597373,,,course,,,active,,,,,,,,,,,FL,,US,26.901054,-82.2941109,2026-10-11T15:12:28Z
@@ -772,9 +776,10 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 5c9b3d80-8c7d-4e22-8722-4307a895d5b3,relation/4063841,Palm Beach Leisureville Golf Course,,course,,,active,,,,,,,,,,,FL,,US,26.521823,-80.0877889,2026-10-11T15:12:35Z
 5cdc99c1-2b55-407d-8999-2debebc4231c,way/336026462,The Golf Club at South Hampton,,course,,,active,,,,,,,,,,,FL,,US,30.045677,-81.5483483,2026-10-11T15:12:14Z
 5d08ef0e-c670-4618-a0bc-c3a000ff515d,relation/16881692,,,course,,,active,,,,,,,,,,,FL,,US,27.3282972,-82.4012633,2026-10-11T15:12:43Z
+5d4ca8c2-6c02-4bab-8fb7-8f179a500570,,White Marsh/Long Meadow,Long Marsh,course,41f7ea07-c286-4996-9f72-13e9cd0d5d9e,,active,18,72,,,+1-941-698-0918,https://rotondagolf.com/long-marsh-course/,https://rotondagolf.com/wp-content/uploads/sites/219/2026/01/Long-Marsh-Scorecard-New.jpg,,20 White Marsh Road,Rotonda,FL,33947,US,26.8889747,-82.259438,2026-11-13T05:41:26Z
 5d8592ba-61b6-47c2-8af1-0e76fb2e8373,way/1232597382,,,course,,,active,,,,,,,,,,,FL,,US,26.8794487,-82.3104778,2026-10-11T15:12:28Z
 5da71b0c-e372-4a5b-be66-44e787dd75d6,way/1178683798,,,course,,,active,,,,,,,,,,,FL,,US,27.2632005,-81.4041452,2026-10-11T15:06:38Z
-5dad16aa-d3e4-4461-a8b1-000c879dc33d,relation/4472622,Stone Creek Golf Club,,course,,,active,,,,,+1-352-854-1272,https://www.stonecreekgolfocala.com/,,,9676 Southwest 62nd Loop,Ocala,FL,34481,US,29.1227576,-82.271587,2026-10-11T13:31:32Z
+5dad16aa-d3e4-4461-a8b1-000c879dc33d,relation/4472622,Stone Creek Golf Club,,course,,,active,18,72,,,+1-352-854-1272,https://www.stonecreekgolfocala.com/,https://www.stonecreekgolfocala.com/images/2023Stone_Creek_Golf_Club.pdf,,9676 Southwest 62nd Loop,Ocala,FL,34481,US,29.1227576,-82.271587,2026-11-13T06:41:46Z
 5dbbd316-51e3-4610-aad3-a684cee8b867,way/303181689,Spring Lake Golf Resort,,course,,,active,,,,,+1-863-655-5555,http://springlakegolf.com/,,,100 Clubhouse Lane,Sebring,FL,33876,US,27.4432893,-81.3145521,2026-10-11T13:30:33Z
 5dc7e5fd-6fc6-420d-b05a-aa526b9401fc,way/367588080,Chula Vista Course (The Villages),,course,,,active,,,,,+1-352-753-4170,https://www.golfthevillages.com/,,,1019 Rio Grande Avenue,The Villages,FL,,US,28.9329968,-81.9476451,2026-10-11T15:12:14Z
 5dd16171-b37f-4bd5-a714-d6021d219b4c,relation/16881699,,,course,,,active,,,,,,,,,,,FL,,US,27.2765119,-82.3918554,2026-10-11T15:12:43Z
@@ -800,6 +805,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 602e2e44-6814-4946-9335-460a23b79c1c,relation/16185250,,,course,,,active,,,,,,,,,,,FL,,US,27.7336467,-82.6731336,2026-10-11T15:12:43Z
 60372588-d580-44aa-9d8c-9ca8af6dd925,way/1233381149,,,course,,,active,,,,,,,,,,,FL,,US,26.9841986,-80.1246881,2026-10-11T15:12:28Z
 6049879e-a88d-4450-a93b-bb09c2869190,relation/13657544,,,course,,,active,,,,,,,,,,,FL,,US,27.1445889,-82.3797242,2026-10-11T15:12:41Z
+605d5326-450b-487c-8d23-94ee7a56ac6b,,Long Meadow/Pine Valley,Long Marsh,course,41f7ea07-c286-4996-9f72-13e9cd0d5d9e,,active,18,72,,,+1-941-698-0918,https://rotondagolf.com/long-marsh-course/,https://rotondagolf.com/wp-content/uploads/sites/219/2026/01/Long-Marsh-Scorecard-New.jpg,,20 White Marsh Road,Rotonda,FL,33947,US,26.8889747,-82.259438,2026-11-13T05:41:27Z
 608729bb-0388-4399-a97d-ac78e28c8b9b,relation/16938034,,,course,,,active,,,,,,,,,,,FL,,US,27.7020506,-82.3496626,2026-10-11T13:31:48Z
 608ed7a1-9d5b-4d2a-876c-aa4b1044920b,way/450350398,,,course,,,active,,,,,,,,,,,FL,,US,27.4562258,-82.449769,2026-10-11T15:12:15Z
 609e642a-158a-476f-901b-89537417b28a,relation/5462793,The Diplomat Golf Resort & Spa,,course,,,active,,,,,+1-954-883-4444,https://www.diplomatgolf.com/,,,,,FL,,US,25.993549,-80.1308205,2026-10-11T15:12:36Z
@@ -823,7 +829,8 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 62d160c5-0128-4abd-90a6-603b435e8396,way/1232366724,,,course,,,active,,,,,,,,,,,FL,,US,28.9185851,-81.8598288,2026-10-11T15:12:28Z
 62f868ec-f519-4678-888f-42d0b1343362,way/414744230,Eastpointe Country Club,,course,,,active,,,,,,https://www.eastpointe-cc.com/,,,13535 Eastpointe Blvd,Palm Beach Gardens,FL,33418,US,26.8696352,-80.1380743,2026-10-11T15:12:15Z
 63197777-93d0-4453-b0a3-5585e606f79e,relation/15307254,Golden Eagle Golf Course,,course,,,active,,,,,,https://www.goldeneaglecc.org/course/,,,,,FL,,US,30.5955598,-84.2382294,2026-10-11T15:12:43Z
-631e8813-0117-43c4-8382-1dfd632ebbb6,relation/4026459,Spring Run Golf Club,,course,,,active,18,72,,,+1-239-992-3811,https://www.springrun.com/,,,9501 Spring Run Boulevard,Bonita Springs,FL,34135,US,26.3947765,-81.7941939,2026-10-11T15:12:35Z
+631e8813-0117-43c4-8382-1dfd632ebbb6,relation/4026459,Spring Run Golf Club,,course,,,active,18,72,,,+1-239-992-3811,https://www.springrun.com/,https://www.springrun.com/golf/scorecard,,9501 Spring Run Boulevard,Bonita Springs,FL,34135,US,26.3947765,-81.7941939,2026-11-13T10:42:24Z
+63272594-5421-4848-b8ea-7a6fb3366741,,White/Blue,Myakka Pines Golf Course,course,6f40de52-516b-471c-b5e7-2b6279f4dcea,,active,18,72,,,,https://www.myakkapinesgolfclub.com/,https://www.myakkapinesgolfclub.com/aboutus/scorecard/,,2550 S River Rd,Englewood,FL,34223,US,26.9978483,-82.3120192,2026-11-14T07:40:51Z
 6331b5b6-9e2f-43df-899e-7f89668bab3a,way/1178683843,,,course,,,active,,,,,,,,,,,FL,,US,27.5219303,-81.5259145,2026-10-11T15:12:27Z
 639e0701-2a7f-468c-92d0-6dd5d92cf828,node/12179848379,Championship Course,,course,,,active,,,,,,,,,,,FL,,US,26.6663589,-80.0987534,2026-10-11T13:29:32Z
 63b72f10-26c9-44d9-9467-c36550aa0474,relation/16185251,,,course,,,active,,,,,,,,,,,FL,,US,27.7303523,-82.6707873,2026-10-11T15:12:43Z
@@ -836,6 +843,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 649e3274-f7d8-4544-b2ed-22faadf7f655,relation/7342952,Raven Golf Club,,course,,,active,,,,,+1 850 267 8155,https://www.sandestinraven.com/,,,1199 Troon Drive,Miramar Beach,FL,32550,US,30.3921962,-86.3152644,2026-10-11T15:12:38Z
 64a23b96-741c-45db-b9bd-d2b33ee21b6d,relation/16872628,,,course,,,active,,,,,,,,,,,FL,,US,26.4985661,-81.8707057,2026-10-11T15:12:43Z
 64ccdbe1-8588-4fb0-83d6-305fca9910f7,relation/4012802,Club at Pelican Bay North Course,,course,,,active,,,,,+1-386-756-0040,https://www.pelicanbaycc.com/course_north/,,,350 Pelican Bay Drive,Daytona Beach,FL,32119,US,29.1542387,-81.054447,2026-10-11T15:06:45Z
+652c51db-6f47-42d9-a91b-2baed672cfdb,,South/North,Del Tura Golf Club,course,48f67d2c-7e75-4b2e-bcc4-0449c5ae788d,,active,18,60,,,+1-239-731-7814,https://www.delturagolfclub.com/,https://www.delturagolfclub.com/the-course/,,18621 North Tamiami Trail,North Fort Myers,FL,33903,US,26.7319474,-81.9175535,2026-11-13T10:42:29Z
 653a5724-794d-4341-b994-0544287ab183,relation/16933256,,,course,,,active,,,,,,,,,,,FL,,US,28.0176558,-81.5252384,2026-10-11T13:31:48Z
 657b00ec-2e19-49e6-be90-f882f498119d,relation/16938024,,,course,,,active,,,,,,,,,,,FL,,US,27.8010994,-82.3113685,2026-10-11T15:12:43Z
 6586c050-51e0-4f1f-a6e0-cb5463f28d5d,relation/1784515,Marsh Valley Country Club,,course,,,active,18,72,,,,,,,,,FL,,US,30.2421402,-81.4039807,2026-10-11T13:31:18Z
@@ -904,17 +912,17 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 6eece51d-540b-446b-b55b-77690863e63a,way/1195424767,,,course,,,active,,,,,,,,,,,FL,,US,28.3425311,-82.2513553,2026-10-11T15:12:27Z
 6ef163f0-c58c-413a-9898-9591f9bd433c,relation/5454473,Grey Oaks Country Club,,course,,private,active,,,,,+1-239-262-5550,https://www.greyoakscc.com/golf,,,,,FL,,US,26.1855138,-81.7676409,2026-10-11T15:12:36Z
 6f274ca3-80dc-469c-8803-aafc49a25d13,relation/16881689,,,course,,,active,,,,,,,,,,,FL,,US,27.3695966,-82.4787496,2026-10-11T15:12:43Z
-6f40de52-516b-471c-b5e7-2b6279f4dcea,way/800016669,Myakka Pines Golf Course,,course,,,active,,,,,,https://www.myakkapinesgolfclub.com/,,,2550 S River Rd,Englewood,FL,34223,US,26.9978483,-82.3120192,2026-10-11T15:12:21Z
+6f40de52-516b-471c-b5e7-2b6279f4dcea,way/800016669,Myakka Pines Golf Course,,facility,,,active,,,,,,https://www.myakkapinesgolfclub.com/,https://www.myakkapinesgolfclub.com/aboutus/scorecard/,,2550 S River Rd,Englewood,FL,34223,US,26.9978483,-82.3120192,2026-11-14T07:40:44Z
 6f86f3ca-ca1e-4cf1-bf06-fd50fb5c98f5,node/3713754954,The Meadows Country Club,,course,,private,active,,,,,+1-941-371-6000,https://www.meadowscc.org/,,,,,FL,,US,27.3642286,-82.4763499,2026-10-11T13:29:32Z
 6fba74fc-8571-4f6f-8909-2bd8d8e6c1f9,way/1237176978,,,course,,,active,,,,,,,,,,,FL,,US,28.7439627,-82.5336362,2026-10-11T15:12:28Z
-6fc69c41-f877-440c-a4dc-14ea8f16fcd9,relation/4013473,The Deltona Club,,course,,,active,18,71,,,+1-386-789-4911,https://www.thedeltonaclub.com/,,,1120 Elkcam Boulevard,Deltona,FL,32725,US,28.9257242,-81.2395004,2026-10-11T15:12:35Z
+6fc69c41-f877-440c-a4dc-14ea8f16fcd9,relation/4013473,The Deltona Club,,course,,,active,18,72,,,+1-386-789-4911,https://www.thedeltonaclub.com/,https://www.thedeltonaclub.com/course-details/,,1120 Elkcam Boulevard,Deltona,FL,32725,US,28.9257242,-81.2395004,2026-11-13T10:42:17Z
 6fc738bf-a495-49ae-8305-c8bd4d9fc3b9,relation/4064977,Mizner Country Club,,course,,,active,,,,,+1-561-638-5600,https://miznercc.org/,,,16104 Mizner Club Drive,Delray Beach,FL,33446,US,26.4367733,-80.1804906,2026-10-11T15:12:35Z
 6fdf2cc0-ae46-453e-9481-bf60331a706d,way/1234402424,,,course,,,active,,,,,,,,,,,FL,,US,27.1267341,-82.4089448,2026-10-11T15:12:28Z
 70000e08-9edd-422c-8521-cb79adde4802,way/1234411002,,,course,,,active,,,,,,,,,,,FL,,US,27.0797009,-82.4056446,2026-10-11T15:12:28Z
 7010e958-848a-4722-8a00-b304c80cc755,way/689968635,Reunion Resort Golf Course,,course,,,active,18,72,,,+1-833-258-0472,https://www.reunionresort.com/,,,7593 Gathering Drive,Kissimmee,FL,34747,US,28.2748698,-81.5945001,2026-10-11T15:12:21Z
 703f18af-d314-4ce1-ae4f-1db1e17a51c7,relation/15915737,,,course,,,active,,,,,,,,,,,FL,,US,30.6078402,-81.5541912,2026-10-11T15:12:43Z
 70541164-0a3c-4890-8001-f6693137b1a5,way/1232597391,,,course,,,active,,,,,,,,,,,FL,,US,26.8555965,-82.2847992,2026-10-11T15:12:28Z
-705ed77b-95a4-423d-b683-52e8b21bdf9a,relation/4052506,Heathrow Country club,,course,,,active,,,,,+1-407-333-1450,https://www.heathrowcc.com/,,,1200 Bridgewater Drive,Heathrow,FL,32746,US,28.7662028,-81.368025,2026-10-11T15:12:35Z
+705ed77b-95a4-423d-b683-52e8b21bdf9a,relation/4052506,Heathrow Country club,,course,,,active,18,71,,,+1-407-333-1450,https://www.heathrowcc.com/,https://www.heathrowcc.com/web/pages/score-cards,,1200 Bridgewater Drive,Heathrow,FL,32746,US,28.7662028,-81.368025,2026-11-14T05:37:26Z
 707dad9f-82c1-4331-a7c4-4e78f646f0bc,relation/4018291,Tara Golf & Country Club,,course,,,active,18,,,,+1 941-756-7775,https://taragcc.com/,,,6602 Drewrys Bluff,Bradenton,FL,34203,US,27.4387291,-82.4749841,2026-10-11T15:12:35Z
 70b17593-ebb2-4c09-b194-0f266252c47e,way/842420128,,,course,,,active,,,,,,,,,,,FL,,US,28.3041013,-82.3295797,2026-10-11T15:12:23Z
 70c1488d-e15e-4b11-b8e6-f1173ef6730a,relation/16933265,,,course,,,active,,,,,,,,,,,FL,,US,27.9534891,-81.6480222,2026-10-11T15:12:43Z
@@ -923,10 +931,10 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 711d38c4-3dc7-4b13-96b1-0dfa26a64af3,way/836430755,,,course,,,active,,,,,,,,,,,FL,,US,30.6006719,-81.5270122,2026-10-11T15:12:23Z
 71202296-1d5b-4bc4-8b57-ec19d96900c8,way/410646892,Cabot Citrus Farms,,course,,,active,,,,,,,,,,,FL,,US,28.6855849,-82.4786419,2026-10-11T15:12:15Z
 7140e2e0-cdfe-453c-85a6-113743304248,relation/15935654,,,course,,,active,,,,,,,,,,,FL,,US,27.0368997,-81.9646167,2026-10-11T15:12:43Z
-7145f3fe-d8e4-492f-b4e8-dee432470c8d,relation/4060052,Indian River Club,,course,,,active,,,,,+1-772-770-0757,https://www.indianriverclub.com/,,,800 Carolina Circle Southwest,Vero Beach,FL,32962,US,27.5627049,-80.3854264,2026-10-11T13:31:27Z
+7145f3fe-d8e4-492f-b4e8-dee432470c8d,relation/4060052,Indian River Club,,course,,,active,18,72,,,+1-772-770-0757,https://www.indianriverclub.com/,https://www.indianriverclub.com/golf/course,,800 Carolina Circle Southwest,Vero Beach,FL,32962,US,27.5627049,-80.3854264,2026-11-14T10:41:30Z
 718dddde-748c-45c5-94e5-3c3a342e0a67,relation/4680179,The Glades Golf & Country Club,,course,,private,active,,,,,+1-239-774-6899,https://www.gladescountryclub.com/,,,174 Teryl Road,Naples,FL,34112,US,26.1261194,-81.7576872,2026-10-11T13:31:32Z
 725ca24c-8ce1-48d6-8672-aa8d71de46f2,way/1178343406,,,course,,,active,,,,,,,,,,,FL,,US,29.7820698,-82.0512384,2026-10-11T15:06:38Z
-725ffcf3-a986-48b6-8c5a-0881def64c7f,relation/4055758,Vista Plantation Golf Club,,course,,,active,,,,,+1-772-569-2223,https://www.myvistagolf.com/,,,48 Plantation Drive,Vero Beach,FL,32966,US,27.6427573,-80.4673152,2026-10-11T15:12:35Z
+725ffcf3-a986-48b6-8c5a-0881def64c7f,relation/4055758,Vista Plantation Golf Club,,course,,,active,18,62,,,+1-772-569-2223,https://www.myvistagolf.com/,https://www.vistaplantationgolf.com/scorecard/,,48 Plantation Drive,Vero Beach,FL,32966,US,27.6427573,-80.4673152,2026-11-14T11:47:52Z
 726841b9-92b5-4f3f-9d2d-b9ca68532aa5,relation/15319535,,,course,,,active,,,,,,,,,,,FL,,US,30.8575246,-85.7459236,2026-10-11T15:12:43Z
 7278fbca-38a4-47ce-8df1-07b6cb00f9a5,way/140389518,,,course,,,active,,,,,,,,,,,FL,,US,26.2846734,-81.7320249,2026-10-11T15:12:00Z
 72885a47-603a-4968-aef1-0d01c9e7f21d,relation/5462846,Palm Aire Country Club,,facility,,,active,,,,,+1-954-975-6225,https://palmaire.clublink.com/,,,2600 N Palm Aire Dr,Pompano Beach,FL,33069,US,26.220011,-80.172221,2026-10-11T15:12:36Z
@@ -939,7 +947,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 73a87980-5dc1-4e42-8e58-5068984fdac3,relation/14529314,Panther Run Golf Club,,course,,,active,,,,,,https://www.pantherrungolfclub.com,,,6005 Anthem Parkway,Ave Maria,FL,43142,US,26.3104997,-81.4478442,2026-10-11T15:12:41Z
 73b6be1f-7621-46c8-800b-8783d12eb409,relation/14213487,Lexington Oaks Golf Club,,course,,,active,,,,,,https://www.lexingtonoaksgolf.com/,,,,,FL,,US,28.2353599,-82.3824268,2026-10-25T01:23:45Z
 73c0d19f-068d-43a0-94da-5ae1fb394ab1,relation/16082992,,,course,,,active,,,,,,,,,,,FL,,US,29.0302406,-82.3048553,2026-10-11T15:12:43Z
-73dff96d-6e82-49f5-b029-9ed76ea8f682,way/204620017,Chi Chi Rodriguez Golf Course,,course,,,active,18,69,,,+1-727-726-4673,https://www.chichi.org/,,,3030 North McMullen Booth Road,Clearwater,FL,33761,US,28.0312066,-82.7138244,2026-10-11T15:06:16Z
+73dff96d-6e82-49f5-b029-9ed76ea8f682,way/204620017,Chi Chi Rodriguez Golf Course,,course,,,active,18,69,,,+1-727-726-4673,https://www.chichi.org/,https://www.chichi.org/golf-club1,,3030 North McMullen Booth Road,Clearwater,FL,33761,US,28.0312066,-82.7138244,2026-11-14T10:41:24Z
 73e46d99-8df4-4926-80df-33d3155c77d5,way/414875003,Boca Green Country Club,,course,,,active,,,,,+1-561-852-8800,https://www.bocagreenscountryclub.com/,,,19642 Trophy Drive,Boca Raton,FL,33498,US,26.383908,-80.2084772,2026-10-11T15:06:28Z
 73ff9edd-c979-47d4-968d-894a15c145c5,relation/5548824,BallenIsles,,course,,private,active,,,,,+1-561-775-4763,http://www.ballenisles.com/golfhome.html,,,,,FL,,US,26.8246925,-80.118264,2026-10-11T15:12:36Z
 7420fb35-99ca-4ec8-8425-6088922976e1,way/1177151061,,,course,,,active,,,,,,,,,,,FL,,US,30.5534962,-81.4428839,2026-10-11T15:12:27Z
@@ -959,8 +967,8 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 75a59d92-93cd-4a30-b557-43389a138047,relation/16185285,,,course,,,active,,,,,,,,,,,FL,,US,27.708065,-82.7137418,2026-10-11T15:12:43Z
 760728f5-3109-427b-9ea5-c09f72415faa,relation/16169728,,,course,,,active,,,,,,,,,,,FL,,US,28.3327392,-82.6230099,2026-10-11T15:12:43Z
 761b6f84-7f86-40d4-ba96-4042640a5ce9,relation/16185254,,,course,,,active,,,,,,,,,,,FL,,US,27.730623,-82.6649277,2026-10-11T15:12:43Z
-761d72e4-1041-4ddc-b9a5-4861ca5c9ff8,way/108708228,Pembroke Lakes Golf,,course,,,active,18,72,,,+1-954-431-4144,https://www.ppines.com/969/Pembroke-Lakes-Golf,,,10500 Taft Street,Pembroke Pines,FL,33026,US,26.0188063,-80.2876115,2026-10-11T15:11:57Z
-763c771f-01fc-423d-b309-d9f79f71ba08,relation/6230152,The Country Club at Lake City,,course,,,active,,,,,+1 386 752 2266,https://www.thecountryclubatlakecity.com/,,,717 Northwest Fairway Drive,Lake City,FL,32055,US,30.1945892,-82.6900641,2026-10-11T15:12:36Z
+761d72e4-1041-4ddc-b9a5-4861ca5c9ff8,way/108708228,Pembroke Lakes Golf,,course,,,active,18,72,,,+1-954-431-4144,https://www.ppines.com/969/Pembroke-Lakes-Golf,https://www.ppines.com/DocumentCenter/View/17151/Scorecard,,10500 Taft Street,Pembroke Pines,FL,33026,US,26.0188063,-80.2876115,2026-11-13T11:44:55Z
+763c771f-01fc-423d-b309-d9f79f71ba08,relation/6230152,The Country Club at Lake City,,course,,,active,18,72,,,+1 386 752 2266,https://www.thecountryclubatlakecity.com/,https://www.thecountryclubatlakecity.com/course/,,717 Northwest Fairway Drive,Lake City,FL,32055,US,30.1945892,-82.6900641,2026-11-13T06:41:47Z
 76a3623c-c75d-4336-89ed-1fad5dad090a,way/1231820133,,,course,,,active,,,,,,,,,,,FL,,US,26.7850034,-81.2323887,2026-10-11T15:12:27Z
 76d22621-cc2d-413e-8fb2-01d85b5e24bb,way/886052448,Ocean Reef - Hammock Course,,course,,,active,,,,,+1-800-741-7333,https://www.oceanreef.com/,,,35 Ocean Reef Dr,Key Largo,FL,33037,US,25.3010173,-80.2907585,2026-10-11T15:12:23Z
 76e0e610-9685-4f93-b23b-f2c3bbddaeda,way/415390663,PGA Golf Club,,course,,,active,,,,,,https://www.pgavillage.com/,,,1916 Perfect Drive,Port St. Lucie,FL,34986,US,27.3227641,-80.4208206,2026-10-11T15:12:15Z
@@ -971,10 +979,10 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 776e870e-655b-4573-8f48-9c0096713479,way/304704004,Medalist Village Club & Spa,,course,,,active,,,,,,https://medalistvillage.com/,,,7700 Medalist Place,Hobe Sound,FL,33455,US,27.0790427,-80.158775,2026-10-11T15:12:12Z
 77779bfb-a408-49b2-8a0a-649ceedcde4b,way/1232366606,,,course,,,active,,,,,,,,,,,FL,,US,28.5567643,-81.7062255,2026-10-11T15:06:39Z
 77797f38-b9b7-4563-8996-6225c18dfa81,way/151539983,Conservatory Course,,course,,,active,,,,,,https://www.theclubathammockbeach.com/conservatory-course,,,,,FL,,US,29.616872,-81.2406137,2026-10-11T15:12:00Z
-777c42c9-d842-4afa-bb1d-05b05d9c26bf,way/303082266,El Rio Golf Club,,course,,,active,18,,,,+1-239-995-2204,https://www.elriogc.com/,,,1801 Skyline Drive,North Fort Myers,FL,33903,US,26.6507796,-81.9114503,2026-10-11T13:30:33Z
+777c42c9-d842-4afa-bb1d-05b05d9c26bf,way/303082266,El Rio Golf Club,,course,,,active,18,60,,,+1-239-995-2204,https://www.elriogc.com/,https://www.elriogc.com/scorecard/,,1801 Skyline Drive,North Fort Myers,FL,33903,US,26.6507796,-81.9114503,2026-11-13T10:42:24Z
 778daad8-f445-4c92-8996-4f804dd5d95f,relation/16082989,,,course,,,active,18,73,,,,,,,,,FL,,US,29.1089595,-81.9990843,2026-10-11T15:06:53Z
 77a58df5-82d8-4315-b2dd-a76159e731a3,relation/4021876,Hammock Bay Golf & Country Club,,course,,,active,,,,,+1-239-389-6600,http://www.marcoislandmarriott.com/florida-golf-resort/Hammock-Bay-Course-107.html,,,1370 Borghese Lane,Naples,FL,34114,US,25.9974734,-81.6875261,2026-10-11T15:12:35Z
-7806b057-c1c0-4b1c-ae53-9d2c7c6c5933,relation/4039063,Stonegate Golf Club - Oaks Course,,course,,,active,,,,,+1-863-427-7150,https://www.stonegategolf.com/,,,404 Village Drive,Kissimmee,FL,34759,US,28.127695,-81.4808093,2026-10-11T13:31:27Z
+7806b057-c1c0-4b1c-ae53-9d2c7c6c5933,relation/4039063,Stonegate Golf Club - Oaks Course,,course,,,active,18,72,,,+1-863-427-7150,https://www.stonegategolf.com/,https://www.stonegategolf.com/golf/oaks-course,,404 Village Drive,Kissimmee,FL,34759,US,28.127695,-81.4808093,2026-11-14T07:40:42Z
 78250135-def2-4aee-82a2-e803cd440c38,relation/3392667,,,course,,,active,18,72,,,,,,,,,FL,,US,30.1054552,-81.6103484,2026-10-11T15:12:33Z
 783b0cf2-66a1-47a7-9100-26e9b7923f96,way/1189051642,,,course,,,active,,,,,,,,,,,FL,,US,29.0301356,-82.3065161,2026-10-11T15:12:27Z
 785853e8-52f2-430a-8734-fa723938554e,way/1177150997,,,course,,,active,,,,,,,,,,,FL,,US,30.6060234,-81.4473406,2026-10-11T15:06:38Z
@@ -991,7 +999,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 79e57710-6eec-4aef-8cce-a3930a73c522,way/1177148290,,,course,,,active,,,,,,,,,,,FL,,US,30.6125502,-81.5489247,2026-10-11T13:31:09Z
 79ef035c-1736-46d4-9196-8f9c410e2dae,relation/1783026,Sawgrass Country Club,,course,,,active,,,,,,https://www.sawgrasscountryclub.com/,,,,,FL,,US,30.1867996,-81.3736464,2026-10-22T11:33:40Z
 7a56cce2-63ec-4def-b4a8-3d4ec9ad34fd,relation/16933278,,,course,,,active,,,,,,,,,,,FL,,US,28.0850334,-81.6989703,2026-10-11T15:12:43Z
-7a5af884-f143-46b2-b655-3c821ef4c816,way/113348765,Davie Golf and Country Club,,course,,,active,18,70,,,+1 954-797-4653,https://www.daviegc.com/,,,8201 Nova Dr,Davie,FL,33324,US,26.0924924,-80.2572233,2026-10-11T15:11:57Z
+7a5af884-f143-46b2-b655-3c821ef4c816,way/113348765,Davie Golf and Country Club,,course,,,active,18,70,,,+1 954-797-4653,https://www.daviegc.com/,https://www.daviegc.com/golf/course-info,,8201 Nova Dr,Davie,FL,33324,US,26.0924924,-80.2572233,2026-11-13T11:44:56Z
 7a600e4a-47e0-47ac-aba9-5f2c680bd7d1,way/578695876,,,course,,,active,,,,,,,,,,,FL,,US,30.5968491,-84.2319159,2026-10-11T15:12:20Z
 7a68f573-87b4-441b-b007-99fe25078655,relation/21310764,,,course,,,active,18,72,,,,,,,,,FL,,US,28.6886233,-81.377912,2026-10-11T15:06:54Z
 7a6bbcad-6245-4783-806e-f0246b3c5a62,relation/16845749,,,course,,,active,,,,,,,,,,,FL,,US,26.901679,-82.2586079,2026-10-11T13:31:48Z
@@ -1037,11 +1045,11 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 7f729799-5d8b-409d-936a-41a74c8280fa,way/1234402267,,,course,,,active,,,,,,,,,,,FL,,US,27.3606429,-82.4780111,2026-10-11T15:12:28Z
 7f813570-61b0-43fb-b755-f0baf86415a7,relation/4012073,Stonecrest Golf Club,,course,,,active,18,,,,+1-352-245-0565,http://www.stonecrestgolfclub.com/,,,11560 Southeast 176th Place Road,Summerfield,FL,34491,US,28.9673637,-81.9539398,2026-10-11T15:12:35Z
 7f8506b0-142f-4fd1-a74d-11e26f8cdffe,relation/7352082,Indigo Lakes Golf Club,,course,,,active,,,,,+1 386 254 3607,https://www.indigolakesgolf.com/,,,312 Indigo Drive,Daytona Beach,FL,32114,US,29.1868465,-81.0877435,2026-10-11T13:31:37Z
-7f93889b-cca3-480d-82d0-044d6546c226,way/48238071,Orangebrook Golf & Country Club,,course,,,active,,,,,+1-954-967-4653,https://www.orangebrook.com/,,,400 Entrada Drive,Hollywood,FL,33021,US,26.0031509,-80.1714973,2026-10-11T15:11:53Z
+7f93889b-cca3-480d-82d0-044d6546c226,way/48238071,Orangebrook Golf & Country Club,,facility,,,active,,,,,+1-954-967-4653,https://www.orangebrook.com/,https://www.orangebrook.com/scorecard/,,400 Entrada Drive,Hollywood,FL,33021,US,26.0031509,-80.1714973,2026-11-13T11:44:57Z
 7fa35bc3-8123-4e75-8729-fb4edf682125,way/1233381146,,,course,,,active,,,,,,,,,,,FL,,US,27.0499736,-80.1378921,2026-10-11T15:12:28Z
-7fb36ae9-6924-46f9-a160-efe968e06acf,relation/12683587,Fox Hollow Golf Club,,course,,,active,18,71,,,,https://www.foxhollowgolfclub.com/,,,10050 Robert Trent Jones Pkwy,Trinity,FL,34655,US,28.1778733,-82.6491968,2026-10-11T15:12:41Z
+7fb36ae9-6924-46f9-a160-efe968e06acf,relation/12683587,Fox Hollow Golf Club,,course,,,active,18,71,,,,https://www.foxhollowgolfclub.com/,https://www.foxhollowgolfclub.com/scorecard-and-golf-holes/,,10050 Robert Trent Jones Pkwy,Trinity,FL,34655,US,28.1778733,-82.6491968,2026-11-14T07:40:37Z
 7fbe90e3-88b6-4f1e-a7b5-60a5ac3e165d,way/1234402346,,,course,,,active,,,,,,,,,,,FL,,US,27.314096,-82.3181925,2026-10-11T13:31:12Z
-7fdaf8ea-199f-49ea-9d58-06f6b97f0183,way/43705431,Miami Shores Country Club,,course,,,active,18,71,,,,https://www.miamishoresgolf.com/,,,10000 Biscayne Boulevard,Miami Shores,FL,33138,US,25.8707044,-80.1804595,2026-10-11T15:11:53Z
+7fdaf8ea-199f-49ea-9d58-06f6b97f0183,way/43705431,Miami Shores Country Club,,course,,,active,18,71,,,,https://www.miamishoresgolf.com/,https://miamishorescountryclub.com/course-information/,,10000 Biscayne Boulevard,Miami Shores,FL,33138,US,25.8707044,-80.1804595,2026-11-13T11:44:57Z
 7fee2512-3a00-4b60-971b-9eed5e0a7391,way/1232366925,,,course,,,active,,,,,,,,,,,FL,,US,28.9497464,-81.929355,2026-10-11T15:12:28Z
 800f4cd9-0317-4035-94cc-503c57eac4ac,way/188542891,,,course,,,active,,,,,,,,,,,FL,,US,26.9079296,-82.263503,2026-10-11T15:12:01Z
 80249908-5d1b-42c0-8f12-9264042dd8cc,relation/16845745,,,course,,,active,,,,,,,,,,,FL,,US,26.9870571,-82.2106746,2026-10-11T15:12:43Z
@@ -1061,7 +1069,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 821c0891-6d02-4f49-9bb2-1e9f2b959ea0,way/1232366635,,,course,,,active,,,,,,,,,,,FL,,US,28.5180834,-81.7185113,2026-10-11T15:12:28Z
 823c85e8-d156-4c5c-abe4-c68d67e2bbe3,relation/16881668,,,course,,,active,,,,,,,,,,,FL,,US,27.203527,-82.4843791,2026-10-11T15:12:43Z
 824a6bdb-8cec-4105-b64d-f0947b99f94b,way/287992859,Shula's Golf Club,,course,,,active,18,72,,,,https://www.shulasgolfclub.com/,,,7601 Miami Lakes Dr,Miami Lakes,FL,33014,US,25.9176721,-80.3179625,2026-10-11T13:30:16Z
-825367e5-3170-4d58-a855-a2e9dca02d26,relation/20800998,Clearwater Country Club,,course,,,active,18,72,,,+1-727-446-9501,https://www.clearwatercountryclub.com/,,,525 North Betty Lane,Clearwater,FL,33755,US,27.9717703,-82.7795243,2026-10-11T15:06:54Z
+825367e5-3170-4d58-a855-a2e9dca02d26,relation/20800998,Clearwater Country Club,,course,,,active,18,72,,,+1-727-446-9501,https://www.clearwatercountryclub.com/,https://www.clearwatercountryclub.com/golf/,,525 North Betty Lane,Clearwater,FL,33755,US,27.9717703,-82.7795243,2026-11-14T10:41:24Z
 82e14c76-f2ef-4973-855c-896081196806,relation/9690622,The Golf Club of Amelia Island,,course,,,active,,,,,,https://www.ameliaisland.com/,,,,,FL,,US,30.5984443,-81.4501825,2026-10-22T11:33:57Z
 82e396a2-9470-4c74-804e-04dad84b4193,relation/16636055,SummerGlen Golf Club,,course,,,active,,,,,+1-352-307-1766,https://www.summerglengc.com/,,,1450 Southwest 154th Street Road,Ocala,FL,34473,US,28.9932155,-82.1507393,2026-10-11T15:12:43Z
 82eef428-cc7b-4e37-bdc2-2f4370864600,relation/16185252,,,course,,,active,,,,,,,,,,,FL,,US,27.7227173,-82.6653093,2026-10-11T15:12:43Z
@@ -1072,10 +1080,10 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 83867ccd-12f5-4ce2-93c7-a53a8f268366,relation/16912951,,,course,,,active,,,,,,,,,,,FL,,US,28.0228349,-80.6334365,2026-10-11T15:12:43Z
 83a7857c-0c94-49e0-bf56-e1583e650f6a,way/373751740,,,course,,,active,,,,,,,,,,,FL,,US,27.0520734,-82.3810289,2026-10-11T15:12:14Z
 83ac2af1-a0fe-4702-b761-d5152e64ecf2,way/1232366727,,,course,,,active,,,,,,,,,,,FL,,US,28.9209657,-81.8586904,2026-10-11T13:31:12Z
-83bbb01a-c9dc-4cf7-a07e-43b26918f238,relation/5454500,Kensington Golf & Country Club,,course,,,active,18,,,,+1-239-649-4440,https://kensingtoncc.com/,,,,,FL,,US,26.2044082,-81.7583946,2026-10-11T15:12:36Z
+83bbb01a-c9dc-4cf7-a07e-43b26918f238,relation/5454500,Kensington Golf & Country Club,,course,,,active,18,71,,,+1-239-649-4440,https://kensingtoncc.com/,https://kensingtoncc.com/robert-trent-jones-jr-golf-course/,,,,FL,,US,26.2044082,-81.7583946,2026-11-13T05:41:22Z
 83cd885f-b428-40c0-a650-a5a8a71ff412,relation/4041638,Citrus Hills Golf & Country Club,,course,,,active,,,,,+1 352 746 4425,https://www.citrushillsgolfandcountryclub.com/,,,509 East Hartford Street,Citrus Hills,FL,34442,US,28.8868577,-82.4278392,2026-10-11T13:31:27Z
 83e0f560-6113-4a62-b443-8e8430f1c7a3,relation/16933259,,,course,,,active,,,,,,,,,,,FL,,US,27.9570545,-81.6532091,2026-10-11T15:06:53Z
-848313ed-62a1-4336-9ba0-a4b4c84c25db,way/84902763,Key West City Golf Club,,course,,,active,18,70,,,+1-305-294-5232,https://keywestgolf.com/,,,6450 East College Road,Key West,FL,33040,US,24.5749699,-81.7424604,2026-10-11T15:11:55Z
+848313ed-62a1-4336-9ba0-a4b4c84c25db,way/84902763,Key West City Golf Club,,course,,,active,18,70,,,+1-305-294-5232,https://keywestgolf.com/,https://keywestgolf.com/course/,,6450 East College Road,Key West,FL,33040,US,24.5749699,-81.7424604,2026-11-13T11:44:58Z
 848a920e-14e2-4608-8829-aa116e6417c6,way/523517857,,,course,,,active,,,,,,,,,,,FL,,US,26.3292726,-81.724934,2026-10-11T13:30:51Z
 84af2361-3cb0-4c41-89ef-48c05934927c,relation/16841072,,,course,,,active,,,,,,,,,,,FL,,US,28.7263262,-81.7973746,2026-10-11T15:12:43Z
 84e6cc12-533e-4885-a34d-d0ac30971936,way/568778908,,,course,,,active,,,,,,,,,,,FL,,US,26.8811828,-80.1078476,2026-10-11T15:12:18Z
@@ -1083,7 +1091,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 85249abf-8fe8-4304-9239-7e1923faaaa3,way/1195424740,,,course,,,active,,,,,,,,,,,FL,,US,28.23421,-82.2390014,2026-10-11T15:12:27Z
 855870cc-b0fb-4e3d-863b-9d0d4ac1443b,relation/2525483,Bluewater Bay Resort,,course,,,active,,,,,+1 850 897 3241,https://www.bwbresort.com/,,,2000 Bluewater Boulevard,Niceville,FL,32578,US,30.4758889,-86.4297318,2026-10-11T15:12:33Z
 8566597a-723c-4ed9-85bb-7fe5f5a1f3fa,relation/16185286,,,course,,,active,,,,,,,,,,,FL,,US,27.7119612,-82.7126298,2026-10-11T13:31:48Z
-85a0b2f6-b8db-43fd-a137-8de0224246a6,relation/4446663,Tuscawilla Country Club,,course,,private,active,18,72,,,+1 407 366 1851,https://www.tuscawillacc.com/,,,1500 Winter Springs Boulevard,Winter Springs,FL,32708,US,28.6719138,-81.2502605,2026-10-11T13:31:32Z
+85a0b2f6-b8db-43fd-a137-8de0224246a6,relation/4446663,Tuscawilla Country Club,,course,,private,active,18,72,,,+1 407 366 1851,https://www.tuscawillacc.com/,https://www.tuscawillacc.com/golf/course-details,,1500 Winter Springs Boulevard,Winter Springs,FL,32708,US,28.6719138,-81.2502605,2026-11-14T06:47:59Z
 85d6adc5-17c8-4ffc-8ef9-a05c7a1aa576,relation/5464259,Royal Palm Yacht & Country Club,,course,,private,active,,,,,+1-561-395-2100,https://www.rpycc.org/,,,,,FL,,US,26.3331758,-80.0847984,2026-10-11T15:12:36Z
 85e0de7b-046a-49b4-82fa-afaea2e2a85d,way/1232366840,,,course,,,active,,,,,,,,,,,FL,,US,28.7293944,-81.8927253,2026-10-11T15:12:28Z
 85f02f53-f8b2-4078-ae22-1cd47c39cd73,way/302441275,Olde Florida Golf Club,,course,,,active,18,,,,+1-239-353-4441,https://www.darrenjdavisgcs.com/,,,9393 Vanderbilt Beach Road,Naples,FL,34120,US,26.2508752,-81.647398,2026-10-11T15:12:12Z
@@ -1091,6 +1099,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 861b57d5-5e37-4216-a905-feb6fbd452e1,relation/4040122,Kings Ridge Golf Club,,course,,,active,,,,,+1 352-242-4653,https://www.kingsridgegc.com/,,,1950 Kings Ridge Boulevard,Clermont,FL,34711,US,28.5077974,-81.7163991,2026-10-11T15:06:45Z
 861f0247-0314-4041-be32-53629633a401,way/1232584036,,,course,,,active,,,,,,,,,,,FL,,US,26.9232824,-82.312639,2026-10-11T15:12:28Z
 8629f32f-1338-4a48-ab09-be9178a6d8c5,relation/4039886,Legends Walk,,course,,,active,,,,,+1-407-239-1050,http://www.experienceorangelake.com/golf_legendswalk.php,,,,,FL,,US,28.366391,-81.6137465,2026-10-11T15:12:35Z
+86373b5b-37f6-4664-976a-4c32593b6a89,,North/West,Del Tura Golf Club,course,48f67d2c-7e75-4b2e-bcc4-0449c5ae788d,,active,18,61,,,+1-239-731-7814,https://www.delturagolfclub.com/,https://www.delturagolfclub.com/the-course/,,18621 North Tamiami Trail,North Fort Myers,FL,33903,US,26.7319474,-81.9175535,2026-11-13T10:42:30Z
 863e635c-ebf2-498d-8235-8b796831d31d,relation/16933270,,,course,,,active,,,,,,,,,,,FL,,US,28.0601399,-81.8693464,2026-10-11T15:12:43Z
 864567b8-da3f-4b6a-bb3e-8fd1e2163aeb,way/318753240,Sweetgum Golf Course (The Villages),,course,,,active,9,28,,,+1-352-751-2335,https://golfthevillages.com/,,,3198 Hendry Dr,Hendry Dr,FL,32162,US,28.8536272,-82.0154983,2026-10-11T15:12:12Z
 864be183-d52f-4e98-977a-7a762f9e6153,relation/8676722,Seminole Lakes Golf Course,,course,,,active,,,,,,https://www.seminolelakes.net/,,,,,FL,,US,26.8787073,-82.0190467,2026-10-22T11:29:42Z
@@ -1109,16 +1118,16 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 87cca711-e242-4093-82a4-04cbabe02282,way/547715665,,,course,,,active,,,,,,,,,,,FL,,US,28.7480924,-82.544372,2026-10-11T15:12:18Z
 87d88d37-c746-44f0-8a5f-b1cf51c5b333,relation/4031248,Pelican Preserve Golf Club,,course,,,active,,,,,+1-239-985-1707,https://www.pelicanpreservelifestyles.com/,,,9802 Pelican Preserve Boulevard,Fort Myers,FL,33913,US,26.5969754,-81.7743931,2026-10-11T15:12:35Z
 883af7ce-5323-4efa-ae7a-3fd82332bd08,way/1232916803,,,course,,,active,,,,,,,,,,,FL,,US,28.9403517,-81.2644107,2026-10-11T13:31:12Z
-884cbc8e-ecab-4503-8f9d-09632c06649e,relation/17513998,Panther National,,course,,,active,,,,,,https://panthernational.com/,,,,,FL,,US,26.8340277,-80.2539452,2026-10-11T13:31:51Z
+884cbc8e-ecab-4503-8f9d-09632c06649e,relation/17513998,Panther National,,course,,,active,18,72,,,,https://panthernational.com/,https://panthernational.com/wp-content/uploads/Scorecard.png,,,,FL,,US,26.8340277,-80.2539452,2026-11-14T06:48:02Z
 886a14ec-1077-4170-86b8-3a2aef70121d,way/1232366891,,,course,,,active,,,,,,,,,,,FL,,US,28.7178876,-81.8650296,2026-10-11T15:12:28Z
-886a67bb-2820-4c97-8937-c93e81774c2b,way/163763386,Seminole Legacy Golf Club,,course,,,active,,,,,+1-850-645-4653,https://www.seminolelegacygolfclub.com/,,,2550 Pottsdamer Street,Tallahassee,FL,32310,US,30.4172748,-84.3223007,2026-10-11T15:12:01Z
+886a67bb-2820-4c97-8937-c93e81774c2b,way/163763386,Seminole Legacy Golf Club,,course,,,active,18,72,,,+1-850-645-4653,https://www.seminolelegacygolfclub.com/,https://www.seminolelegacygolfclub.com/golf,,2550 Pottsdamer Street,Tallahassee,FL,32310,US,30.4172748,-84.3223007,2026-11-14T07:40:36Z
 8872539b-be84-42c5-a94c-9f329a35018e,relation/4682040,Southern Star Golf Course (The Villages),,course,,,active,,,,,+1-352-259-3018;+1-800-346-4556,https://golfthevillages.com/,,,2514 Saint Charles Place,The Villages,FL,32162,US,28.8771768,-82.0051519,2026-10-11T13:31:32Z
-88964c21-a67c-4673-a7e5-bf980f144e61,relation/4061356,The Golden Marsh,,course,,,active,,,,,+1-772-336-3000,https://www.harbourridge.com/,,,12600 Harbor Ridge Boulevard,Palm City,FL,34990,US,27.2222518,-80.3017485,2026-10-11T15:12:35Z
+88964c21-a67c-4673-a7e5-bf980f144e61,relation/4061356,The Golden Marsh,,course,,,active,18,72,,,+1-772-336-3000,https://www.harbourridge.com/,https://harbourridge.com/golf/scorecard,,12600 Harbor Ridge Boulevard,Palm City,FL,34990,US,27.2222518,-80.3017485,2026-11-14T10:41:31Z
 89136898-6b4f-4d6f-bd37-725952646876,relation/4013475,Glen Abbey Golf Club,,course,,,active,,,,,,https://www.glenabbeygolfclub.com/,,,391 N Pine Meadow Dr,DeBary,FL,32713,US,28.8972438,-81.2955386,2026-10-22T11:30:51Z
 892474cd-ebdc-4612-8c2f-11c35b031a9f,relation/13950510,Babcock National,,course,,,active,18,,,,,https://www.babcocknationalgc.com/,,,,,FL,,US,26.7994015,-81.7368951,2026-10-22T11:29:37Z
 8926556a-be30-4281-a560-f12e15e7af3a,way/1235529036,,,course,,,active,,,,,,,,,,,FL,,US,27.4041315,-82.4672425,2026-10-11T15:12:28Z
 895b4fda-1b99-4659-9060-3fca50d8eff1,relation/4029385,Crown Colony Golf & Country Club,,course,,,active,18,72,,,+1-239-590-9044,https://crowncolonygcc.com/,,,8851 Crown Colony Boulevard,Fort Myers,FL,33908,US,26.5022926,-81.8928653,2026-10-11T15:12:35Z
-89ed49c9-cf68-4b7a-93f1-c07123e5411f,way/140598551,Arrowhead Golf Course,,course,,,active,,,,,+1-239-596-1000,https://www.arrowheadgolfnaples.com/,,,,,FL,,US,26.2636883,-81.708929,2026-10-11T15:12:00Z
+89ed49c9-cf68-4b7a-93f1-c07123e5411f,way/140598551,Arrowhead Golf Course,,course,,,active,18,72,,,+1-239-596-1000,https://www.arrowheadgolfnaples.com/,https://www.arrowheadgolfnaples.com/golf,,,,FL,,US,26.2636883,-81.708929,2026-11-13T05:41:23Z
 8a39d055-b00d-448e-8059-b7328efa9e17,way/338069638,,,course,,,active,,,,,,,,,,,FL,,US,28.9249018,-81.9725033,2026-10-11T15:12:14Z
 8a4a49b2-eaba-4bf2-b800-7d53d3de32c7,way/1231820134,,,course,,,active,,,,,,,,,,,FL,,US,26.7777477,-81.2322512,2026-10-11T15:12:28Z
 8a8ac8e7-af09-4750-9dc7-73d57fa44b58,way/1237004285,,,course,,,active,,,,,,,,,,,FL,,US,28.1649135,-82.5085522,2026-10-11T15:06:39Z
@@ -1181,7 +1190,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 9246c6d6-eb0f-415e-9347-ba1dc2fe0131,way/546663640,UNF,,course,,,active,,,,,,,,,,,FL,,US,30.2567206,-81.5025849,2026-10-11T15:12:18Z
 929fcffb-ccad-4c98-83b1-34a0ae610696,way/133234578,Marcus Pointe Golf Club,,course,,,active,18,72,,,,https://www.marcuspointegc.com/,,,,,FL,,US,30.4780909,-87.2772333,2026-10-24T14:27:24Z
 932824df-0982-419b-b1ac-8179f07b3811,way/842422860,,,course,,,active,,,,,,,,,,,FL,,US,28.5307928,-82.2249906,2026-10-11T15:12:23Z
-93796df6-19bc-44ca-b42e-568dcf147627,way/244016118,Manatee Golf Course,,course,,,active,18,72,,,+1-941-792-6773,https://www.golfmanatee.com/,,,6415 53rd Ave W,Bradenton,FL,34210,US,27.4525961,-82.621174,2026-10-11T15:12:05Z
+93796df6-19bc-44ca-b42e-568dcf147627,way/244016118,Manatee Golf Course,,course,,,active,18,72,,,+1-941-792-6773,https://www.golfmanatee.com/,https://golfmanatee.com/course-details/,,6415 53rd Ave W,Bradenton,FL,34210,US,27.4525961,-82.621174,2026-11-13T11:44:48Z
 93a33e3f-9620-4bcd-acd6-2ae61a832d67,relation/4680189,Foxfire Country Club,,course,,,active,,,,,+1-239-643-3139,https://www.foxfirecc.com/,,,,,FL,,US,26.1460038,-81.7504255,2026-10-11T15:12:36Z
 93ae3ef9-1c80-4640-9c67-aca945cf30a6,way/1544504411,Bellaire Executive Golf Course,,par3,,,active,9,,,,,,,,,,FL,,US,28.758898,-81.991113,2026-10-11T15:12:30Z
 93c2dbeb-c49a-4b4f-a80a-5f81785d648e,way/317702144,Turtle Mound Golf Course (The Villages),,par3,,,active,,,,,+1-352-750-6907,https://golfthevillages.com/,,,2605 Turtle Mound Path,The Villages,FL,32162,US,28.8681071,-81.9947541,2026-10-11T15:06:24Z
@@ -1214,7 +1223,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 98bb52cc-2115-4f15-9f0e-ac7996b850b6,way/48236807,Fort Lauderdale Country Club,,course,,,active,,,,,,https://www.fortlauderdalecc.com/,,,415 Country Club Circle,Fort Lauderdale,FL,33317,US,26.1136992,-80.2121384,2026-10-11T15:11:53Z
 98c855b4-d819-428a-a854-28f230e65b4b,way/101336628,Vineyards Country Club,,course,,,active,18,,,,+1-239-353-0505,https://www.vineyardscountryclub.net/,,,,,FL,,US,26.2289424,-81.7279967,2026-10-11T15:11:55Z
 98e86d0b-b32e-4b30-8f9b-d62ad50aeceb,way/1234402274,,,course,,,active,,,,,,,,,,,FL,,US,27.3602837,-82.4663933,2026-10-11T13:31:12Z
-98fcbc3e-b661-4966-ab1f-c5dae7b44b8c,relation/5454167,Naples Lakes Country Club,,course,,private,active,,,,,+1-239-919-1150,https://www.napleslakesfl.com/,,,,,FL,,US,26.1158154,-81.6940042,2026-10-11T15:06:47Z
+98fcbc3e-b661-4966-ab1f-c5dae7b44b8c,relation/5454167,Naples Lakes Country Club,,course,,private,active,18,72,,,+1-239-919-1150,https://www.napleslakesfl.com/,https://www.napleslakesfl.com/golf/scorecard,,,,FL,,US,26.1158154,-81.6940042,2026-11-13T05:41:24Z
 9984018a-3c30-403b-b9c0-79c7fb8448a6,relation/1132090,Indian River Colony Club,,course,,,active,18,72,,,,https://colonyclub.com/golf/,,,1936 Freedom Drive,Melbourne,FL,32940,US,28.250234,-80.7109457,2026-10-11T15:12:30Z
 99acb2cf-e443-43ac-a95c-adae73c112e4,relation/4026458,Shadow Wood Country Club - South Course,,course,,,active,,,,,+1-239-992-6000,https://shadowwoodcc.com/,,,22801 Oakwilde Boulevard,Bonita Springs,FL,34135,US,26.4054196,-81.7928081,2026-10-11T15:12:35Z
 99bb79f5-0eb2-44ef-b5e2-5a3fe83ca338,way/287992856,East,,course,,,active,,,,,,,,,,,FL,,US,25.948885,-80.3220737,2026-10-11T13:30:16Z
@@ -1222,13 +1231,13 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 99d488bd-ec31-494f-9232-84dbdf9dbd16,way/1178683795,,,course,,,active,,,,,,,,,,,FL,,US,27.4457946,-81.5244907,2026-10-11T13:31:09Z
 99df27a6-a399-446b-b591-424bbcd89d4a,way/1232366644,,,course,,,active,,,,,,,,,,,FL,,US,28.5042894,-81.7104514,2026-10-11T15:12:28Z
 9a26b176-f9a8-44fc-bcf3-cc42047f1b38,way/1167902931,,,course,,,active,,,,,,,,,,,FL,,US,28.2946357,-82.1727087,2026-10-11T13:31:09Z
-9a2c76e9-7660-42dd-b7f0-5085c00f3f83,relation/4013136,Hidden Lakes Golf Course,,course,,,active,18,69,,,+1-386-427-4138,https://www.hiddenlakesgolfclub.com/,,,35 Fairgreen Avenue,New Smyrna Beach,FL,32168,US,29.0417576,-80.947587,2026-10-11T15:12:35Z
+9a2c76e9-7660-42dd-b7f0-5085c00f3f83,relation/4013136,Hidden Lakes Golf Course,,course,,,active,18,69,,,+1-386-427-4138,https://www.hiddenlakesgolfclub.com/,https://hiddenlakesgolfclub.com/course-details/,,35 Fairgreen Avenue,New Smyrna Beach,FL,32168,US,29.0417576,-80.947587,2026-11-13T06:41:42Z
 9aa5d802-f580-413b-92e3-3704eebbf106,relation/16872617,,,course,,,active,,,,,,,,,,,FL,,US,26.5908082,-81.8216664,2026-10-11T15:12:43Z
 9ab2b7fd-5176-4e98-8fe8-cf53f6a4a297,way/1237060725,,,course,,,active,,,,,,,,,,,FL,,US,28.7088015,-81.4079035,2026-10-11T13:31:12Z
 9ab33fb6-90ef-42d5-a4c2-2015c8cb56dc,way/1178683779,,,course,,,active,,,,,,,,,,,FL,,US,27.4477544,-81.5195852,2026-10-11T15:12:27Z
 9ab5a422-1948-4a94-a9d6-eab46cdc0e5b,way/1234402451,,,course,,,active,,,,,,,,,,,FL,,US,27.0818422,-82.3614753,2026-10-11T15:06:39Z
 9ada7599-c763-4250-89c8-b79e9c7188b4,way/1177151001,,,course,,,active,,,,,,,,,,,FL,,US,30.6101788,-81.4459248,2026-10-11T15:12:27Z
-9ae04296-ff2e-4e28-87e6-2661ba7c059b,relation/5462394,Pelican Marsh Golf Club,,course,,,active,18,,,,+1-239-597-3000,https://www.pelicanmarshgc.com/,,,,,FL,,US,26.2523119,-81.7821639,2026-10-11T15:12:36Z
+9ae04296-ff2e-4e28-87e6-2661ba7c059b,relation/5462394,Pelican Marsh Golf Club,,course,,,active,18,72,,,+1-239-597-3000,https://www.pelicanmarshgc.com/,https://www.pelicanmarshgc.com/golf,,,,FL,,US,26.2523119,-81.7821639,2026-11-13T05:41:24Z
 9b1e3ea5-c909-4699-8dcf-50d42f488c45,way/1234825472,,,course,,,active,,,,,,,,,,,FL,,US,27.2633931,-80.3111125,2026-10-11T15:06:39Z
 9bb35056-2931-4681-a4e4-bbb53a167eb4,way/1178683764,,,course,,,active,,,,,,,,,,,FL,,US,27.4778318,-81.51191,2026-10-11T15:06:38Z
 9bd48651-59ad-4126-8414-3d33f812cc15,way/1232366733,,,course,,,active,,,,,,,,,,,FL,,US,28.8788032,-81.7498295,2026-10-11T15:12:28Z
@@ -1237,7 +1246,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 9c40cfde-02b3-4b67-9dff-35c796dc1317,relation/21187204,Woodlands Championship Golf Course,,course,,,active,,,,,,,,,,,FL,,US,28.7741807,-81.9847215,2026-10-11T15:12:45Z
 9ca87597-4a16-40b6-b3b4-9b3ca9490d94,way/1178683784,,,course,,,active,,,,,,,,,,,FL,,US,27.446698,-81.3094081,2026-10-11T15:12:27Z
 9d3fc2bb-42fa-4354-8131-16839db019ed,way/1196843468,,,course,,,active,,,,,,,,,,,FL,,US,28.0770125,-82.6946222,2026-10-11T13:31:09Z
-9d634044-aa12-4149-afdf-f301124da148,relation/4019808,Lemon Bay Golf Club,,course,,,active,,,,,+1-941-697-3729,https://www.lemonbaygolfclub.com/,,,9600 Eagle Preserve Drive,Englewood,FL,34224,US,26.8826195,-82.3120416,2026-10-11T15:12:35Z
+9d634044-aa12-4149-afdf-f301124da148,relation/4019808,Lemon Bay Golf Club,,course,,,active,18,71,,,+1-941-697-3729,https://www.lemonbaygolfclub.com/,https://www.lemonbaygolfclub.com/golf/scorecard,,9600 Eagle Preserve Drive,Englewood,FL,34224,US,26.8826195,-82.3120416,2026-11-13T05:41:19Z
 9d839130-36e1-43f6-918b-cf052ac0cb81,way/461579183,King's Dunes Course,,course,,,active,,,,,+1-941-907-4700,https://www.lakewoodranchgolf.com/,,,7650 Legacy Boulevard,Lakewood Ranch,FL,34202,US,27.4114208,-82.417428,2026-10-11T15:12:17Z
 9d869e0d-905b-415e-9b24-53bd3aa9f112,way/163833016,,,course,,,active,,,,,,,,,,,FL,,US,26.2971861,-81.7478855,2026-10-11T15:12:01Z
 9d9c667b-f0d7-4c58-92ca-d946d3153330,relation/16881666,,,course,,,active,,,,,,,,,,,FL,,US,27.2200053,-82.4718001,2026-10-11T13:31:48Z
@@ -1277,7 +1286,7 @@ a2d88f45-1a75-4b4e-af2c-0f2a515c16dd,way/1234068903,,,course,,,active,,,,,,,,,,,
 a2fc0a1d-5a8e-4be0-9b4a-fc292333f2c4,relation/15915989,,,course,,,active,,,,,,,,,,,FL,,US,30.5484176,-81.4490101,2026-10-11T15:12:43Z
 a30dfe83-551c-49e6-8272-691ee2126d76,relation/3390864,Churchill Greens Golf Course (The Villages),,course,,,active,,,,,+1-800-346-4556; +1-352-750-2019,https://golfthevillages.com/,,,534 Belvedere Blvd,The Villages,FL,32162,US,28.9202317,-82.023079,2026-10-11T15:12:33Z
 a31023b3-ad81-40a6-9a9c-3f8b6443042a,relation/5462405,Bay Hill Golf Club,,course,,,active,18,72,,,+1-888-422-9445,https://www.bayhill.com/,,,9000 Bay Hill Blvd,Orlando,FL,32819,US,28.4622623,-81.508765,2026-10-11T13:31:32Z
-a347b143-e0a9-40f8-a174-b6766755467f,relation/18984136,Timber Creek Golf Course,,par3,,,active,9,27,,,,https://www.timbercreekgolf.org/,,,4550 Timber Lane,Bradenton,FL,34210,US,27.4592233,-82.6229233,2026-10-11T15:06:54Z
+a347b143-e0a9-40f8-a174-b6766755467f,relation/18984136,Timber Creek Golf Course,,par3,,,active,9,27,,,,https://www.timbercreekgolf.org/,https://www.timbercreekgolf.org/scorecard,,4550 Timber Lane,Bradenton,FL,34210,US,27.4592233,-82.6229233,2026-11-13T11:44:49Z
 a353d898-33a2-402b-82ac-d9734fe57fc8,way/817950159,Loblolly/Longleaf,,course,,,active,,,,,,,,,,,FL,,US,28.7930296,-82.010757,2026-10-11T15:12:21Z
 a36c9d32-0247-48bd-a340-b30f15e8d61d,relation/20375862,Crystal Lake Club,,course,,,active,,,,,,,,,,,FL,,US,27.5497154,-81.4894734,2026-10-11T15:06:54Z
 a375960a-226f-4274-b119-8041dad9266c,way/1237004957,,,course,,,active,,,,,,,,,,,FL,,US,27.6835143,-82.4491422,2026-10-11T15:12:28Z
@@ -1286,9 +1295,9 @@ a3de0a5a-6ffa-420d-ada1-be9a611040e7,relation/15404975,,,course,,,active,,,,,,,,
 a3ebe13a-7a1b-47ab-b853-43188d080b22,way/1483954804,PGA National Resort,,course,,,active,,,,,,,,,,,FL,,US,26.8249066,-80.1483678,2026-10-11T15:12:29Z
 a3f773b3-be66-434b-aa95-69098d0eeb2a,relation/4041173,Bishops Gate Golf and Lakeside Community,,course,,,active,,,,,,http://www.bishopsgategc.com/,,,26945 Bella Vista Drive,Howey-in-the-Hills,FL,34737,US,28.7353943,-81.7914246,2026-10-11T15:12:35Z
 a458561e-d6c8-44ba-ad7c-aeb5f47d1f15,way/1150202337,Kove Estates Golf Course,,course,,,active,9,,,,,https://kove-estates.com/,,,,,FL,,US,28.8400368,-81.1718638,2026-10-23T15:45:48Z
-a48e8ae3-60bf-4c82-bf3f-c76c43cd9031,way/307039283,Pasadena Yacht & Country Club Golf,,course,,,active,18,72,,,+1 727-381-7922,https://www.pyccgolf.com/,,,6300 Pasadena Point Blvd S,Gulfport,FL,33707,US,27.7508681,-82.7216947,2026-10-11T15:06:24Z
+a48e8ae3-60bf-4c82-bf3f-c76c43cd9031,way/307039283,Pasadena Yacht & Country Club Golf,,course,,,active,18,72,,,+1 727-381-7922,https://www.pyccgolf.com/,https://www.pyccgolf.com/course-information.html,,6300 Pasadena Point Blvd S,Gulfport,FL,33707,US,27.7508681,-82.7216947,2026-11-14T10:41:25Z
 a4b1681a-899c-4a60-afcf-0b117114ba02,way/911297047,Bonaventure Country Club,,course,,,active,,,,,+1 954 389 2100,https://www.golfbonaventure.com/,,,200 Bonaventure Country Club,Weston,FL,33326,US,26.116632,-80.3680476,2026-10-11T15:12:23Z
-a4b5d005-002e-421b-84a9-e0d56b094adf,relation/20078769,Palm Valley Golf Club,,course,,,active,9,29,,,+1-904-824-9279,https://palmvalleygolfing.com/,,,1075 Palm Valley Road,Ponte Vedra Beach,FL,32081,US,30.1013499,-81.4356056,2026-10-11T15:12:45Z
+a4b5d005-002e-421b-84a9-e0d56b094adf,relation/20078769,Palm Valley Golf Club,,course,,,active,9,29,,,+1-904-824-9279,https://palmvalleygolfing.com/,https://palmvalleygolfing.com/scorecard/,,1075 Palm Valley Road,Ponte Vedra Beach,FL,32081,US,30.1013499,-81.4356056,2026-11-13T06:41:48Z
 a4dc8ddc-e57b-4230-856f-6ff94db7712e,relation/16169724,,,course,,,active,,,,,,,,,,,FL,,US,28.3479929,-82.2462142,2026-10-11T15:12:43Z
 a512bfb3-0565-424d-a690-573900c33f1a,way/1196843527,,,course,,,active,,,,,,,,,,,FL,,US,28.1016765,-82.7013601,2026-10-11T15:12:27Z
 a54cab7f-9b89-494a-8d36-7966daffd22a,relation/16881667,,,course,,,active,,,,,,,,,,,FL,,US,27.2133787,-82.4755095,2026-10-11T13:31:48Z
@@ -1331,16 +1340,17 @@ a94833d0-fafd-45a3-94b5-dd18f4810e82,way/1187963260,,,course,,,active,,,,,,,,,,,
 a95ea36e-d9c5-4658-be38-bff6b0463df4,relation/4064854,Indian Spring Country Club,,course,,,active,18,72,,,+1-561-737-5544,https://indianspringcc.com/,,,11501 El Clair Ranch Road,Boynton Beach,FL,33437,US,26.5057916,-80.1364674,2026-10-11T15:12:35Z
 a97c4d8f-f00a-4b30-85f1-135b40d16ed4,relation/16933260,,,course,,,active,,,,,,,,,,,FL,,US,27.9497521,-81.6606735,2026-10-11T15:06:53Z
 a99a03ee-38eb-4558-9fec-f9858399ddfb,relation/21153926,Mickylee Pitch & Putt Golf Course,,par3,,,active,18,54,,,,,,,,,FL,,US,28.7661781,-81.9465702,2026-10-11T15:06:54Z
+a9aee0d5-1ec7-48d3-a4b0-8d02a17d1e60,,West/South,Del Tura Golf Club,course,48f67d2c-7e75-4b2e-bcc4-0449c5ae788d,,active,18,61,,,+1-239-731-7814,https://www.delturagolfclub.com/,https://www.delturagolfclub.com/the-course/,,18621 North Tamiami Trail,North Fort Myers,FL,33903,US,26.7319474,-81.9175535,2026-11-13T10:42:28Z
 a9d7cb83-af26-4a52-bfbb-7d485eca0511,way/647892648,,,course,,,active,,,,,,,,,,,FL,,US,27.7329333,-82.3382069,2026-10-11T15:12:20Z
 a9d8dae6-b4cc-4d58-ab19-fe04eb309e64,relation/16064014,,,course,,,active,,,,,,,,,,,FL,,US,29.3819286,-81.1600788,2026-10-11T15:12:43Z
-aa022e48-cde2-49ff-ac76-80c00f89325c,way/414875004,Southwinds Golf Course,,course,,,active,18,70,,,,https://www.pbcsouthwindsgolf.com/,,,19557 Lyons Road,Boca Raton,FL,33434,US,26.3872741,-80.1913337,2026-10-11T13:30:44Z
+aa022e48-cde2-49ff-ac76-80c00f89325c,way/414875004,Southwinds Golf Course,,course,,,active,18,70,,,,https://www.pbcsouthwindsgolf.com/,https://pbcsouthwindsgolf.com/scorecard/,,19557 Lyons Road,Boca Raton,FL,33434,US,26.3872741,-80.1913337,2026-11-14T06:48:02Z
 aa1b354f-f437-4791-a4fd-93c5a2fc2d55,way/303179003,Placid Lakes Country Club,,course,,,active,,,,,+1-863-465-1626,https://www.placidlakescc.com/,,,3601 Placid Lakes Boulevard,Lake Placid,FL,33852,US,27.2584224,-81.4022896,2026-10-11T15:12:12Z
 aa23df04-f5e7-4113-9299-8bd1cbcd7335,way/325851134,Golf Club of Quincy,,course,,,active,,,,,,,,,,,FL,,US,30.6119493,-84.6276031,2026-10-11T15:12:12Z
 aa28391b-efcf-407b-b60c-de1969949c2b,relation/5462409,The Country Club of Mount Dora,,course,,,active,,,,,+1-352-735-4059,https://www.ccofmtdora.com/,,,,,FL,,US,28.824082,-81.6214339,2026-10-11T15:12:36Z
 aa4028e3-d4ad-4655-a558-32b48e90f17e,way/23986980,,,course,,,active,,,,,,,,,,,FL,,US,25.9605434,-80.133026,2026-10-11T15:11:49Z
 aa7aad15-0416-4f96-9313-9a62e8b1207b,way/196475840,Congo River Golf,,course,,,active,,,,,,https://www.congoriver.com/bonita-springs-experience-the-congo-golf.html,,,,,FL,,US,26.3871616,-81.8096746,2026-10-11T13:30:03Z
 aab1280b-8107-441c-8e07-3610c2c97008,relation/16660693,Evans Prairie Country Club (The Villages),,course,,,active,,,,,+1-352-205-8910,https://golfthevillages.com/,,,1824 Evans Prairie Trail,The Villages,FL,32163,US,28.8543167,-81.999456,2026-10-11T15:12:43Z
-aadb8cfd-100b-4b58-aad0-e66092bff020,relation/4054123,North Shore Golf Club,,course,,,active,,,,,+1-407-277-9277,https://www.golfatnorthshore.com/,,,11507 North Shore Golf Club Boulevard,Orlando,FL,32832,US,28.4022106,-81.223225,2026-10-11T15:12:35Z
+aadb8cfd-100b-4b58-aad0-e66092bff020,relation/4054123,North Shore Golf Club,,course,,,active,18,72,,,+1-407-277-9277,https://www.golfatnorthshore.com/,https://golfatnorthshore.com/golf/,,11507 North Shore Golf Club Boulevard,Orlando,FL,32832,US,28.4022106,-81.223225,2026-11-14T05:37:27Z
 aae11a0a-3214-4d89-afe4-c43144c86ca8,relation/16884543,,,course,,,active,,,,,,,,,,,FL,,US,27.2282554,-80.8173837,2026-10-11T15:12:43Z
 aaed8b31-d2b2-4446-a46f-76125040dd98,way/1232593311,,,course,,,active,,,,,,,,,,,FL,,US,26.880353,-82.262445,2026-10-11T13:31:12Z
 ab12ce77-1ed5-4877-b8b4-946b97830210,relation/4066884,Carolina Golf Club,,course,,,active,,,,,+1-954-753-3500,http://www.carolinagolfclub.com/,,,3011 Rock Island Road,Margate,FL,33063,US,26.2652249,-80.2277654,2026-10-11T13:31:27Z
@@ -1349,7 +1359,7 @@ ab5002e7-cf70-47f4-9fe1-18a753908460,way/360117702,Moorings Country Club,,course
 ab567201-15a6-4160-9654-c70b5e61723e,way/125089708,,,course,,,active,,,,,,,,,,,FL,,US,25.6781665,-80.4072952,2026-10-11T15:11:57Z
 ab61c92d-3108-4a32-8dc0-db510981eff5,way/32356523,River Run Golf Links,,course,,,active,,,,,,,,,,,FL,,US,27.4837935,-82.5243949,2026-10-11T15:11:51Z
 ab8d79e4-a105-4634-a51d-d428c471e134,relation/2525400,Gator Lakes Golf Course,,course,,,active,,,,,,,,,,,FL,,US,30.434613,-86.6795211,2026-10-11T15:12:33Z
-aba0635c-bd86-473b-8e32-8d1ff1c09c9f,relation/2079073,Ventura Country Club,,course,,,active,,,,,,https://www.venturaccorlando.com/,,,2601 Woodgate Blvd,Woodgate Blvd,FL,32822,US,28.5104238,-81.2963217,2026-10-11T15:12:30Z
+aba0635c-bd86-473b-8e32-8d1ff1c09c9f,relation/2079073,Ventura Country Club,,course,,,active,18,70,,,,https://www.venturaccorlando.com/,https://www.venturaccorlando.com/course-info/scorecard/,,2601 Woodgate Blvd,Woodgate Blvd,FL,32822,US,28.5104238,-81.2963217,2026-11-14T06:48:00Z
 aba856dd-2c23-46a7-bbfd-6fd394d15ee9,relation/16872616,,,course,,,active,,,,,,,,,,,FL,,US,26.6111236,-81.605498,2026-10-11T15:12:43Z
 abb164d6-208a-4fe7-bb05-cb442f0608fc,way/1234402452,,,course,,,active,,,,,,,,,,,FL,,US,27.0809639,-82.3660158,2026-10-11T15:12:28Z
 abc89e9d-3d6f-48a1-9a5d-9643e0e4bc87,way/85116552,Sombrero Country Club,,course,,,active,,,,,,,,,,,FL,,US,24.7079224,-81.0832865,2026-10-11T15:11:55Z
@@ -1360,18 +1370,19 @@ ac6210e3-cae9-40fe-af8a-55d5ecf0d7ba,way/502795958,Eagle Lakes Golf Club,,course
 ac8af239-1831-41f1-9524-d029de1fc1ed,relation/16169719,,,course,,,active,,,,,,,,,,,FL,,US,28.2350216,-82.3182241,2026-10-11T15:12:43Z
 ac9e9a67-e792-40c7-8523-52516233ebd0,way/1547185716,,,course,,,active,,,,,,,,,,,FL,,US,28.7693743,-81.9877568,2026-10-11T15:12:30Z
 acdd786e-29af-4c1f-9b6f-c44c98de3d4c,way/697246274,Fernandina Beach Municipal Golf Course,,course,,,active,,,,,,,,,,,FL,,US,30.606318,-81.4489102,2026-10-11T13:30:58Z
+ad10fb92-44c5-4da8-a3f0-bb7dc7c1f00b,,Red/White,Myakka Pines Golf Course,course,6f40de52-516b-471c-b5e7-2b6279f4dcea,,active,18,72,,,,https://www.myakkapinesgolfclub.com/,https://www.myakkapinesgolfclub.com/aboutus/scorecard/,,2550 S River Rd,Englewood,FL,34223,US,26.9978483,-82.3120192,2026-11-14T07:40:50Z
 ad28a16f-b587-4bd0-a8ba-7039c3c3f18e,relation/1790379,Lost Key Golf Club,,course,,,active,18,71,,,,https://www.lostkeygolf.com/,,,,,FL,,US,30.3061956,-87.434422,2026-10-23T15:47:22Z
-ad2d13d8-6cb8-4900-86a3-fcb88ce9d6e5,way/304097122,Forest Lake Golf Club,,course,,,active,18,72,,,+1-407-654-4653,https://www.forestlakegolf.com/,,,10521 Clarcona Ocoee Road,Ocoee,FL,32703,US,28.6067898,-81.5363076,2026-10-11T15:12:12Z
+ad2d13d8-6cb8-4900-86a3-fcb88ce9d6e5,way/304097122,Forest Lake Golf Club,,course,,,active,18,72,,,+1-407-654-4653,https://www.forestlakegolf.com/,https://forestlakegolf.com/course-information/,,10521 Clarcona Ocoee Road,Ocoee,FL,32703,US,28.6067898,-81.5363076,2026-11-14T05:37:28Z
 ad6a1eaf-1788-4a4a-99f6-3a27a7ae3f65,relation/16185282,,,course,,,active,,,,,,,,,,,FL,,US,27.7122041,-82.7185774,2026-10-11T15:12:43Z
 ad6ab29d-4b7b-492b-b1d3-074ce8b75ff2,relation/7471058,,,course,,private,active,,,,,,,,,,,FL,,US,26.5016139,-81.9542097,2026-10-11T15:12:38Z
-ad8919a7-ce7e-41ed-af1f-20d9f6f0b062,way/612464763,Bent Tree Country Club,,course,,,active,,,,,+1 941-371-8200,https://www.benttreecc.net/,,,4700 Bent Tree Boulevard,Sarasota,FL,34241,US,27.2948988,-82.4193063,2026-10-11T15:12:20Z
+ad8919a7-ce7e-41ed-af1f-20d9f6f0b062,way/612464763,Bent Tree Country Club,,course,,,active,18,72,,,+1 941-371-8200,https://www.benttreecc.net/,https://www.benttreecc.net/course/,,4700 Bent Tree Boulevard,Sarasota,FL,34241,US,27.2948988,-82.4193063,2026-11-14T07:40:44Z
 ad96b94c-1a34-4de1-b297-ef0dbfcbd56f,way/1178683851,,,course,,,active,,,,,,,,,,,FL,,US,27.5352897,-81.5183472,2026-10-11T15:12:27Z
-adba0b40-048e-4e4a-9e69-8ec595825c9c,relation/4027091,Wildcat Run Golf and Country Club,,course,,,active,18,72,,,+1-239-947-6066,https://www.wildcatruncc.com/,,,20300 Country Club Drive,Estero,FL,33928,US,26.4361149,-81.7495636,2026-10-11T15:12:35Z
+adba0b40-048e-4e4a-9e69-8ec595825c9c,relation/4027091,Wildcat Run Golf and Country Club,,course,,,active,18,72,,,+1-239-947-6066,https://www.wildcatruncc.com/,https://www.wildcatruncc.com/public/golf,,20300 Country Club Drive,Estero,FL,33928,US,26.4361149,-81.7495636,2026-11-13T10:42:25Z
 ae1e55a9-91cf-4389-8970-cde2ddff3a08,way/1171536633,,,course,,,active,,,,,,,,,,,FL,,US,28.0482608,-82.007303,2026-10-11T15:06:38Z
 ae5ada18-636f-4f80-8cd0-165ccecd5ac5,way/125329140,Seminole Golf Club,,course,,,active,18,72,,,,https://www.seminolegolfclub.com/,,,901 Seminole Boulevard,Juno Beach,FL,33408,US,26.8629794,-80.0512471,2026-10-22T13:05:23Z
 ae664712-1c57-424a-b744-623a0a8d06f3,relation/20087221,,,course,,,active,,,,,,,,,,,FL,,US,28.6362818,-81.7866088,2026-10-11T15:06:54Z
 aeafed77-197e-4214-8f81-b93f11560153,way/523479219,,,course,,,active,,,,,,,,,,,FL,,US,26.4054329,-81.7945876,2026-10-11T15:12:18Z
-aef9a09a-6324-42d4-a265-6af93763b76e,way/910693851,Providence Golf Club,,course,,,active,,,,,+1-863-424-7916,https://www.providence-golf.com/,,,1518 Clubehouse Blvd.,Davenport,FL,33837,US,28.2101226,-81.5480912,2026-10-11T15:12:23Z
+aef9a09a-6324-42d4-a265-6af93763b76e,way/910693851,Providence Golf Club,,course,,,active,18,72,,,+1-863-424-7916,https://www.providence-golf.com/,https://www.providence-golf.com/scorecard/,,1518 Clubehouse Blvd.,Davenport,FL,33837,US,28.2101226,-81.5480912,2026-11-14T07:40:42Z
 aefd56b4-c874-490d-a66c-09695fe6b3d7,way/1232593312,,,course,,,active,,,,,,,,,,,FL,,US,26.7700776,-81.9140728,2026-10-11T15:12:28Z
 af312f77-097e-4616-8355-849dbbde0511,relation/1783085,The Plantation at Ponte Vedra Beach,,course,,,active,18,,,,,,,,,,FL,,US,30.1646209,-81.3778918,2026-10-11T15:12:30Z
 afe07d9a-87f2-40ae-b3cd-c0d9547a3732,relation/1127931,Grande Vista Golf Club,,course,,,active,9,32,,,,https://www.grandevistagolf.com/,,,12001 Ave Verde,Orlando,FL,32821,US,28.3964019,-81.4535159,2026-10-11T13:31:18Z
@@ -1399,13 +1410,14 @@ b29081e9-75c8-4370-adf3-b49e3cc6572a,relation/16933279,,,course,,,active,,,,,,,,
 b2d6a8cb-cd91-4394-85fb-6767a49479ab,way/1237004473,,,course,,,active,,,,,,,,,,,FL,,US,28.1616773,-82.5073762,2026-10-11T15:06:39Z
 b3374abe-e0fc-4ba9-aad7-77a7fc47593b,relation/3255965,Riviera Country Club,,course,,,active,18,71,,,+1-386-677-2464,https://www.rivcc.com/,,,500 Calle Grande Avenue,Ormond Beach,FL,32174,US,25.7294665,-80.2776797,2026-10-11T15:12:33Z
 b3567d48-b461-4a6d-bfb8-343937bc06f4,way/1235702604,Wellen Park Golf & Country Club,,course,,,active,,,,,,https://www.wellenparkflgc.com/,,,,,FL,,US,27.0117031,-82.3266898,2026-10-23T15:48:20Z
-b35efe4d-2ffd-4139-82f8-327a26fa818a,relation/4032075,Eagle Ridge Golf Club,,course,,,active,18,72,,,+1-239-768-1888,https://www.playeagleridge.com/,,,14589 Eagle Ridge Drive,Fort Myers,FL,33912,US,26.5306496,-81.8306169,2026-10-11T13:31:27Z
+b35efe4d-2ffd-4139-82f8-327a26fa818a,relation/4032075,Eagle Ridge Golf Club,,course,,,active,18,72,,,+1-239-768-1888,https://www.playeagleridge.com/,https://www.playeagleridge.com/golf-course,,14589 Eagle Ridge Drive,Fort Myers,FL,33912,US,26.5306496,-81.8306169,2026-11-13T10:42:26Z
 b37644ff-963a-4b68-a04a-9494f2b29f12,relation/4020871,Blue Heron Pines,,course,,,active,,,,,+1-941-637-6191,http://www.solsticecommunities.com/blueheron/golf_course.aspx,,,29200 Jones Loop Road,Punta Gorda,FL,33950,US,26.8834691,-81.9949208,2026-10-11T15:12:35Z
 b37b9147-363b-4784-aabf-f313563a8399,relation/16881665,,,course,,,active,,,,,,,,,,,FL,,US,27.2187283,-82.4788258,2026-10-11T15:12:43Z
 b3ebc1a0-f7c7-4d64-a953-6cff9c878e36,relation/4670758,Naples Heritage Golf & Country Club,,course,,private,active,,,,,+1-239-417-2555,https://www.nhgcc.com/,,,,,FL,,US,26.1328838,-81.6984472,2026-10-11T15:12:36Z
 b3eededa-2bf6-46e3-a235-a070ab9051da,relation/4055702,Oak Harbor,,course,,,active,,,,,+1-772-562-3808,http://oakharborfl.com/,,,4755 South Harbor Drive,Vero Beach,FL,32967,US,27.6771968,-80.3954335,2026-10-11T15:12:35Z
 b4097c3c-57f4-458c-8f6e-691cad2c594e,way/88149630,Jacararanda Golf Course,,course,,,active,,,,,,https://jacarandagolfclub.com/,,,9200 W Broward Blvd,Plantation,FL,33324,US,26.1127136,-80.2717239,2026-10-11T15:11:55Z
 b41f6459-20e5-47f4-8600-59ccb7f64a60,relation/14879169,,,course,,,active,,,,,,,,,,,FL,,US,26.4165636,-80.1093872,2026-10-11T15:12:43Z
+b42991a1-658b-4b7e-bb22-4c5ed668ca91,,East Course,Orangebrook Golf & Country Club,course,7f93889b-cca3-480d-82d0-044d6546c226,,active,18,72,,,+1-954-967-4653,https://www.orangebrook.com/,https://www.orangebrook.com/scorecard/,,400 Entrada Drive,Hollywood,FL,33021,US,26.0031509,-80.1714973,2026-11-13T11:45:01Z
 b484d232-96b5-456e-98da-5da4e919fd90,way/1232593295,,,course,,,active,,,,,,,,,,,FL,,US,26.9756018,-82.2185312,2026-10-11T15:12:28Z
 b48f8d91-2cdf-49bd-ae26-00928ce5e834,way/1234402374,,,course,,,active,,,,,,,,,,,FL,,US,27.280785,-82.4086636,2026-10-11T15:12:28Z
 b4a262a7-1f7c-4216-9d55-29df1a828c9c,way/1178685455,,,course,,,active,,,,,,,,,,,FL,,US,27.4537937,-81.3270629,2026-10-11T15:12:27Z
@@ -1420,7 +1432,7 @@ b5a52989-540d-4de5-967b-5878d9fcfd85,way/1234410976,,,course,,,active,,,,,,,,,,,
 b5b6be0f-4e00-4de1-b4e9-07a5d6504995,way/1189051643,,,course,,,active,,,,,,,,,,,FL,,US,29.0231413,-82.3084413,2026-10-11T13:31:09Z
 b64afbed-19e7-4f66-a8dd-222e09956c5f,way/1232366889,,,course,,,active,,,,,,,,,,,FL,,US,28.7165986,-81.8752512,2026-10-11T15:12:28Z
 b66dbfc6-6fbc-49fb-a232-0a39607e26bf,way/1234065181,,,course,,,active,,,,,,,,,,,FL,,US,26.5810781,-81.8335291,2026-10-11T15:12:28Z
-b695fff3-9ac8-4e70-a1d2-1048336d8215,way/1017175452,Calusa Lakes Golf Club,,course,,,active,,,,,,https://www.golfinvenice.com/,,,1995 Calusa Lakes Blvd,Nokomis,FL,34275,US,27.1622338,-82.4421404,2026-10-11T15:06:36Z
+b695fff3-9ac8-4e70-a1d2-1048336d8215,way/1017175452,Calusa Lakes Golf Club,,course,,,active,18,72,,,,https://www.golfinvenice.com/,https://www.golfinvenice.com/golf/calusa-lakes/scorecard,,1995 Calusa Lakes Blvd,Nokomis,FL,34275,US,27.1622338,-82.4421404,2026-11-14T07:40:45Z
 b6cc367e-76d7-455e-ade6-1a84e7807609,way/524009767,,,course,,,active,,,,,,,,,,,FL,,US,26.18623,-81.7947702,2026-10-11T15:12:18Z
 b6cf4a00-b950-4bcc-8ac5-96054657eee5,relation/4055454,The Dunes Course At Sandridge,,course,,,active,,,,,+1-772-770-5000,https://www.sandridgegc.com/,,,5300 73rd Street,Vero Beach,FL,32967,US,27.7246399,-80.4394237,2026-10-11T15:06:45Z
 b6def6ef-8d08-4670-afd3-52c27b317931,way/1153089709,Tampa Palms Country Club,,course,,,active,,,,,,https://www.invitedclubs.com/,,,5811 Tampa Palms Blvd,ampa Palms Blvd,FL,33647,US,28.0898154,-82.3838846,2026-10-11T15:12:27Z
@@ -1476,6 +1488,7 @@ bbd30e76-5df4-49b0-b727-db76f8b6d9c2,relation/16660790,Mangrove Golf Course (The
 bc3019b1-a25e-4b27-b777-3c5d417d305b,relation/7325442,Boca West,,course,,,active,,,,,,https://bocawest.com/,,,,,FL,,US,26.3815154,-80.1582677,2026-10-22T11:37:37Z
 bc320482-9ab8-494d-86fb-0a6097e1e3de,relation/16841056,,,course,,,active,,,,,,,,,,,FL,,US,28.9290294,-81.8590175,2026-10-11T15:12:43Z
 bc4baf2e-f21e-4c9d-a7f8-6ddcb6c9f004,way/727848182,Orange County National Golf Center & Lodge,,course,,,active,,,,,,https://www.ocngolf.com/,,,16301 Phil Ritson Way,Winter Garden,FL,34787,US,28.4417147,-81.6247919,2026-10-11T15:06:33Z
+bc559575-3d5c-4aa7-b302-a4f4b00713d6,,Lakeview/Bayview,A.C. Read Golf Course,course,dbe1091f-2ab2-4d92-b4fd-bb3fb0756639,,active,18,72,,,,https://www.navymwrpensacola.com/programs/6e429faf-c74d-44dc-9690-b872b66401cc,https://www.navymwrpensacola.com/modules/media/?do=download&id=b72ce099-f6e2-44f0-85f5-81815559167e&__cb=639168865159270000&__cb=639168865159270000,,,,FL,,US,30.3634324,-87.2820004,2026-11-14T07:40:48Z
 bc7b406c-7c21-49cc-9ab6-57c1f8b68c04,way/1232366846,,,course,,,active,,,,,,,,,,,FL,,US,28.7343129,-81.8921762,2026-10-11T15:12:28Z
 bc8e801c-f1e4-49c1-b84e-835b8c82255a,way/1178683817,,,course,,,active,,,,,,,,,,,FL,,US,27.6411547,-81.505682,2026-10-11T15:12:27Z
 bc8eed92-4b9f-4832-a1f5-87993c708e36,relation/4293801,,,course,,,active,,,,,,,,,,,FL,,US,28.2068821,-81.2746037,2026-10-11T15:12:36Z
@@ -1485,7 +1498,7 @@ bcab2d55-2758-4797-8609-84efce54d534,way/1178683766,,,course,,,active,,,,,,,,,,,
 bcc582b2-b562-4b68-a960-959fa332210a,way/84958814,Diamond Hill Golf Club,,course,,,active,18,72,,,+1-813-689-7219,https://diamondhillclub.com/,,,"13115 Sydney Rd,",Dover,FL,33527,US,27.9620573,-82.2387607,2026-10-11T15:11:55Z
 bce9f59a-05d3-444b-bc2d-84beb5c99eb6,way/1138222634,,,course,,,active,,,,,,,,,,,FL,,US,30.4862025,-86.0287534,2026-10-11T15:12:27Z
 bceea057-dbdb-4b53-88b1-78dbf0a0d8f5,relation/4056444,American Golf Club,,course,,,active,,,,,+1-772-569-5554,http://www.americangolfclubverobeach.com/,,,100 Woodland Drive,Vero Beach,FL,32962,US,27.598657,-80.3767634,2026-10-11T15:12:35Z
-bcf48290-09b6-4871-83c9-790640bf67ec,way/304824638,Poinciana Country Club,,course,,,active,,,,,+1-561-439-4721,https://www.poincianagc.com/,,,3536 Via Poinciana,Lake Worth,FL,33467,US,26.6241658,-80.1542905,2026-10-11T15:12:12Z
+bcf48290-09b6-4871-83c9-790640bf67ec,way/304824638,Poinciana Country Club,,course,,,active,18,64,,,+1-561-439-4721,https://www.poincianagc.com/,https://poincianagc.com/scorecard/,,3536 Via Poinciana,Lake Worth,FL,33467,US,26.6241658,-80.1542905,2026-11-14T06:48:03Z
 bd20e489-6f61-4688-a9b1-ee0ffe7b8cb8,relation/4039885,Crane's Bend,,course,,,active,,,,,+1-407-239-1050,http://www.experienceorangelake.com/golf_crane.php,,,,,FL,,US,28.3514999,-81.6251676,2026-10-11T13:31:27Z
 bd3c9a3d-07fd-4b3f-8dee-63787dc991a1,way/1232366605,,,course,,,active,,,,,,,,,,,FL,,US,28.5849414,-81.784039,2026-10-11T15:12:28Z
 bd648fb2-89a4-4fb4-b954-ed9ae8a5a9e5,relation/2692827,,,course,,,active,,,,,,,,,,,FL,,US,26.9209384,-80.119376,2026-10-11T15:12:33Z
@@ -1502,7 +1515,7 @@ bf105c59-44bb-401c-baac-205da85e791a,relation/3390860,Palmer Legends Country Clu
 bf41af86-5367-45fd-bd40-c1b125afbddc,relation/3390889,Hacienda Hills Golf & Country Club,,course,,,active,,,,,+1-352-753-5155,https://golfthevillages.com/,,,1195 Morse Boulevard,The Villages,FL,32162,US,28.9432877,-81.9629589,2026-10-11T15:12:33Z
 bf537298-c3fe-494c-bb5d-1c32623891ec,relation/2747073,,,course,,,active,,,,,,,,,,,FL,,US,28.3437995,-82.6818384,2026-10-11T15:06:43Z
 bf6b8d67-a0f5-432b-bd86-6884fcb1845d,way/1234411001,,,course,,,active,,,,,,,,,,,FL,,US,27.0843376,-82.3966398,2026-10-11T15:12:28Z
-bf911bcb-65b1-43f9-9432-65be365b7f4c,relation/4040289,Arlington Ridge Golf Club,,course,,,active,,,,,+1-352-728-4660,https://www.arlingtonridgegolfclub.com/,,,4463 Arlington Ridge Boulevard,Leesburg,FL,34748,US,28.7343086,-81.8819518,2026-10-11T13:31:27Z
+bf911bcb-65b1-43f9-9432-65be365b7f4c,relation/4040289,Arlington Ridge Golf Club,,course,,,active,18,71,,,+1-352-728-4660,https://www.arlingtonridgegolfclub.com/,https://www.arlingtonridgegolfclub.com/golf/course,,4463 Arlington Ridge Boulevard,Leesburg,FL,34748,US,28.7343086,-81.8819518,2026-11-13T10:42:19Z
 bf983259-c819-4dfb-96f9-96a52308aa83,relation/11862829,The Legacy Golf Course,,course,,private,active,,,,,,,,,8255 Legacy Boulevard,Bradenton,FL,34202,US,27.3946697,-82.4171776,2026-10-11T15:12:41Z
 bfd5653b-6b76-450f-9321-4ee16cbe1817,relation/4051222,El Campéon,,course,,,active,,,,,+1-352-324-3101,https://missioninnresort.com/,,,10400 County Road 48,Howey-in-the-Hills,FL,34737,US,28.7219691,-81.7817426,2026-10-11T15:12:35Z
 bfd6cbce-47e2-4581-a7ac-56b33e44e961,way/975503276,,,course,,,active,,,,,,,,,,,FL,,US,28.9217158,-81.8589958,2026-10-11T15:12:24Z
@@ -1522,7 +1535,7 @@ c138b4d7-ce49-45d6-9726-de984e287ce9,way/1195424741,,,course,,,active,,,,,,,,,,,
 c13fe40c-1e9c-469d-a684-36e0090be3a3,relation/16882360,,,course,,,active,,,,,,,,,,,FL,,US,27.0862683,-82.4033237,2026-10-11T15:12:43Z
 c1795646-3b78-4d5e-9277-70bf54bc675a,node/1603130889,,,course,,,active,,,,,,,,,,,FL,,US,28.0154,-81.5314,2026-10-11T13:29:32Z
 c199d864-d6fd-4c6d-813e-a464f8216820,way/1178683759,,,course,,,active,,,,,,,,,,,FL,,US,27.4750737,-81.4992243,2026-10-11T15:12:27Z
-c1daeaa3-b239-466b-803d-7b5ec5a14fff,way/219357088,Rockledge Country Club,,course,,,active,18,71,,,+1-321-636-6022,https://www.rockledgecc.com/,,,1591 South Fiske Boulevard,Rockledge,FL,32955,US,28.3345648,-80.7486851,2026-10-11T15:12:03Z
+c1daeaa3-b239-466b-803d-7b5ec5a14fff,way/219357088,Rockledge Country Club,,course,,,active,18,71,,,+1-321-636-6022,https://www.rockledgecc.com/,https://rockledgecc.com/course-tour/,,1591 South Fiske Boulevard,Rockledge,FL,32955,US,28.3345648,-80.7486851,2026-11-14T05:37:28Z
 c1e7fff4-e784-49fe-bbe3-3afd91182e29,way/1234402270,,,course,,,active,,,,,,,,,,,FL,,US,27.3657155,-82.4664394,2026-10-11T15:12:28Z
 c1f20bbc-aaeb-4291-9fc5-514e57b96341,relation/16181944,,,course,,,active,,,,,,,,,,,FL,,US,28.5101518,-82.4833439,2026-10-11T15:12:43Z
 c1fde082-22c2-4ce6-be28-5ad208809b1c,relation/16890554,,,course,,,active,,,,,,,,,,,FL,,US,27.3028655,-80.2213828,2026-10-11T15:06:53Z
@@ -1560,7 +1573,7 @@ c6df24ac-27e8-4a4d-b673-d4828db6550f,relation/7814966,Deering Bay Yacht & Countr
 c6efd101-b3ea-44a0-8c07-dd7d94959ee3,relation/4677208,Northdale Golf & Tennis Club,,course,,,active,,,,,+1-813-962-0428,https://www.northdalegolf.com/,,,,,FL,,US,28.106218,-82.5232163,2026-10-11T15:12:36Z
 c6f09474-466f-4445-b883-89ef19862026,way/1178683761,,,course,,,active,,,,,,,,,,,FL,,US,27.4765982,-81.5040816,2026-10-11T15:12:27Z
 c71190e1-097c-4caa-aebe-c8344acdd8b0,way/252837825,Oakleigh Golf Course (The Villages),,course,,,active,,,,,+1-352-750-0423,https://golfthevillages.com/,,,7415 SE 172nd Legacy Ln,The Villages,FL,32159,US,28.9723278,-82.0254312,2026-10-11T15:12:05Z
-c71370db-eaf1-432a-b52d-6a2603235aee,relation/4677213,Temple Terrace Golf & Country Club,,course,,,active,18,72,,,+1-813-988-1791,https://www.templeterracegolf.com/,,,200 Inverness Ave,Inverness Ave,FL,33617,US,28.0343235,-82.380599,2026-10-11T15:12:36Z
+c71370db-eaf1-432a-b52d-6a2603235aee,relation/4677213,Temple Terrace Golf & Country Club,,course,,,active,18,72,,,+1-813-988-1791,https://www.templeterracegolf.com/,https://www.templeterracegolf.com/scorecard/,,200 Inverness Ave,Inverness Ave,FL,33617,US,28.0343235,-82.380599,2026-11-14T10:41:26Z
 c71d10b9-f8c0-4c97-b31d-abfc73853d40,way/1300652841,,,course,,,active,,,,,,,,,,,FL,,US,28.2030761,-82.4230381,2026-10-11T15:12:29Z
 c7439e4a-8ba3-41e1-9251-7492c0f9581a,relation/16903499,,,course,,,active,,,,,,,,,,,FL,,US,27.5954482,-82.497946,2026-10-11T15:12:43Z
 c7e2678a-ae56-4dc5-b0a2-4f1835f157f6,way/1235071927,,,course,,,active,,,,,,,,,,,FL,,US,26.4491663,-80.0950794,2026-10-11T13:31:12Z
@@ -1573,7 +1586,7 @@ c8be06b7-6d44-433e-8399-66ac52abdb48,way/888527867,Origins Golf Club,,course,,,a
 c8c188f6-e680-41b9-bcf2-b66b75fc35a1,way/301938345,New Smyrna Golf Club,,course,,,active,18,72,,,+1-386-424-2190,https://www.newsmyrnagolfclub.com/,,,1000 Wayne Avenue,New Smyrna Beach,FL,32168,US,29.0336803,-80.9424006,2026-10-11T13:30:33Z
 c8c7a724-e59c-4438-afac-0da476d5fc2a,way/1233381142,,,course,,,active,,,,,,,,,,,FL,,US,27.1201329,-80.2514302,2026-10-11T15:12:28Z
 c8ec94e6-fd00-40c3-91f6-5cbfe2be4ee3,way/1234410995,,,course,,,active,,,,,,,,,,,FL,,US,27.0852467,-82.4158717,2026-10-11T15:12:28Z
-c96462b0-35f3-4dfb-8fd6-f2f467618b1c,way/744956231,Brooksville Country Club,,course,,,active,18,72,,,,https://www.brooksvillecc.com/,,,23446 Links Drive,Brooksville,FL,34601,US,28.5679488,-82.3465214,2026-10-11T13:30:58Z
+c96462b0-35f3-4dfb-8fd6-f2f467618b1c,way/744956231,Brooksville Country Club,,course,,,active,18,72,,,,https://www.brooksvillecc.com/,https://brooksvillecc.com/golf-course/scorecard/,,23446 Links Drive,Brooksville,FL,34601,US,28.5679488,-82.3465214,2026-11-14T07:40:38Z
 c97e1479-12c0-4f32-a2dd-778160689b65,way/1178683850,,,course,,,active,,,,,,,,,,,FL,,US,27.5337557,-81.519918,2026-10-11T13:31:09Z
 c9bc9964-0603-4dea-800a-40004da3aaec,node/8684951639,Oak Marsh at Omni Amelia Island Resort,,course,,,active,,,,,,,,,,,FL,,US,30.5549611,-81.451372,2026-10-11T13:29:32Z
 c9d0675e-dc5e-4fef-ab6f-363c9e7d19bf,relation/1846951,Hidden Hills Country Club,,course,,,active,,,,,+1-904-641-8121,http://hiddenhillscc.com/,,,,,FL,,US,30.3738091,-81.4955538,2026-10-11T15:12:30Z
@@ -1585,7 +1598,7 @@ ca3f9fe6-c589-40c3-bb64-8cbc2c618088,way/1234065422,,,course,,,active,,,,,,,,,,,
 ca581486-7803-4ba6-aee8-45390fac173f,way/1536654322,,,course,,,active,,,,,,,,,,,FL,,US,26.2253701,-80.1515646,2026-10-11T13:31:18Z
 ca9a5aa3-01de-4dbe-bc05-2430b626e898,way/1235529031,,,course,,,active,,,,,,,,,,,FL,,US,27.4097083,-82.4745508,2026-10-11T15:12:28Z
 caaf51c8-289e-49d4-8cd6-6d8398638e27,way/1232366745,,,course,,,active,,,,,,,,,,,FL,,US,28.8246162,-81.9466465,2026-10-11T15:12:28Z
-caec59c1-8f49-4ea3-b111-1c674fb2aab8,way/163728440,Stonebridge Country Club,,course,,,active,18,71,,,+1-239-594-5200,https://www.stonebridgecountryclub.com/,,,2100 Winding Oaks Way,Naples,FL,34109,US,26.2668788,-81.7778134,2026-10-11T15:12:01Z
+caec59c1-8f49-4ea3-b111-1c674fb2aab8,way/163728440,Stonebridge Country Club,,course,,,active,18,71,,,+1-239-594-5200,https://www.stonebridgecountryclub.com/,https://www.stonebridgecountryclub.com/golf/scorecard,,2100 Winding Oaks Way,Naples,FL,34109,US,26.2668788,-81.7778134,2026-11-13T05:41:25Z
 cb0e0b06-5d3c-453a-974e-8a224bc5b200,relation/21310739,Casselberry Golf Course,,course,,,active,,,,,,https://www.casselberrygolf.com/,,,,,FL,,US,28.6644006,-81.3275658,2026-10-22T11:37:04Z
 cb217324-f1d6-4e9a-837b-1911769af7e1,relation/4751778,,,course,,,active,,,,,,,,,,,FL,,US,28.0775752,-82.5927324,2026-10-11T15:12:36Z
 cb2acf4f-34ed-4595-b0c1-bc5cb610a5d3,way/302524792,Bentley Village Golf Course,,par3,,,active,,,,,+1-888-506-9426,https://naples.viliving.com/,,,,,FL,,US,26.306154,-81.8096757,2026-10-11T15:12:12Z
@@ -1628,7 +1641,7 @@ cef8d331-a8b4-4cc8-b803-1af9eea603fc,relation/19873245,Esplanade Golf,,course,,,
 cf137385-68af-4dfe-b377-fdc10e6792a3,way/1177151008,,,course,,,active,,,,,,,,,,,FL,,US,30.6004106,-81.4481442,2026-10-11T15:12:27Z
 cf138e21-ac7f-43bd-84d4-3b8ca6c94e62,relation/16064018,,,course,,,active,,,,,,,,,,,FL,,US,29.3866073,-81.1616787,2026-10-11T15:12:43Z
 cf44f987-69bf-46a8-9c3a-fcd6ec9c890b,relation/1910999,Naval Air Station Jacksonville Golf Course,,course,,,active,18,73,,,,,,,,,FL,,US,30.2147847,-81.686988,2026-10-11T13:31:18Z
-cf4a01fe-0ce7-48fa-834e-c3b9cad1205e,relation/4066797,Club at Boca Pointe,,course,,private,active,,,,,+1-561-864-8500,http://www.bocapointecc.com/,,,7144 Boca Pointe Drive,Boca Raton,FL,33433,US,26.337091,-80.1616706,2026-10-11T15:06:45Z
+cf4a01fe-0ce7-48fa-834e-c3b9cad1205e,relation/4066797,Club at Boca Pointe,,course,,private,active,18,72,,,+1-561-864-8500,http://www.bocapointecc.com/,https://www.bocapointecc.com/golf/scorecard,,7144 Boca Pointe Drive,Boca Raton,FL,33433,US,26.337091,-80.1616706,2026-11-14T06:48:04Z
 cf4f4480-c6c0-4e92-9f06-50cd4caa8396,relation/5462725,Crystal Lake Country Club - Tam O'Shanter Golf Course (closed),,course,,,active,,,,,,,,,,,FL,,US,26.2877882,-80.1418137,2026-10-11T15:12:36Z
 cf4fe9fc-dab9-421a-9beb-b20ebcae5ea7,way/1234410994,,,course,,,active,,,,,,,,,,,FL,,US,27.0873756,-82.3954459,2026-10-11T15:12:28Z
 cfc720d2-0fcc-4a9c-bf9d-f38fd971c009,relation/4030596,The Club at Westminster,,course,,,active,18,72,,,+1-239-368-1110,https://westminster-golf.com/,,,2199 Berkley Way,Lehigh Acres,FL,33973,US,26.6061508,-81.7306602,2026-10-11T15:12:35Z
@@ -1664,7 +1677,7 @@ d32f1f27-8773-4227-b022-08c7e2f1d6b5,relation/21355288,,,course,,,active,,,,,,,,
 d342f761-5a1a-4524-8d5e-3d287debf724,relation/4682070,Mallory Hill Country Club (The Villages),,course,,,active,,,,,+1-352-753-3730,https://golfthevillages.com/,,,1675 Odell Circle,The Villages,FL,32612,US,28.8941031,-81.9677623,2026-10-11T15:06:47Z
 d3456d52-dde5-4276-b8e1-a8a1e129e89e,way/1151306660,,,course,,,active,,,,,,,,,,,FL,,US,30.4386263,-86.9292384,2026-10-11T15:12:27Z
 d345a22c-95b4-48af-bdc7-d135cb823028,way/413052240,Trident Golf Club,,course,,,active,,,,,,,,,,,FL,,US,27.2517381,-80.3110968,2026-10-11T15:12:15Z
-d362859a-8926-4c5a-ba63-f19e42620513,relation/5464227,Deer Creek Golf Club,,course,,,active,,,,,+1-954-421-5550,https://www.deercreekflorida.com/,,,,,FL,,US,26.3235553,-80.1368234,2026-10-11T15:12:36Z
+d362859a-8926-4c5a-ba63-f19e42620513,relation/5464227,Deer Creek Golf Club,,course,,,active,18,72,,,+1-954-421-5550,https://www.deercreekflorida.com/,https://deercreekflorida.com/our-course/course-tour-scorecard,,,,FL,,US,26.3235553,-80.1368234,2026-11-13T11:44:59Z
 d391a577-df9e-4747-902f-d2ac65df7926,relation/8276053,,,course,,,active,,,,,,,,,,,FL,,US,25.9999242,-80.3518874,2026-10-11T15:12:38Z
 d3974b28-cca7-4c11-9741-63f441291908,relation/4030594,Gateway Golf & Country Club,,course,,,active,,,,,+1-239-561-1036,https://www.gatewaygolf.com/,,,11360 Championship Drive,Fort Myers,FL,33913,US,26.5768391,-81.7569041,2026-10-11T15:12:35Z
 d3c39791-7843-446e-991a-05ca31d9d9ce,way/803720353,Saint James Bay Golf Resort,,course,,,active,18,72,,,,,,,,,FL,,US,29.9022059,-84.5618941,2026-10-11T13:30:58Z
@@ -1679,7 +1692,7 @@ d5409a29-8827-48c0-9ebb-aa8259f78ea1,relation/4052505,Alaqua Country Club,,cours
 d544d977-2317-4d8c-95d6-4f45c9a9f6ff,relation/4681937,Havana Country Club (The Villages),,course,,,active,,,,,+1-352-750-8085,https://golfthevillages.com/,,,2488 O'Dell Circle,The Villages,FL,32162,US,28.8734209,-81.9686131,2026-10-11T15:12:36Z
 d5692c43-5268-4ab9-91a8-d583018d5254,relation/21196020,Royal Wood Golf & Country Club,,course,,,active,,,,,+1-239-774-2213,https://royalwoodgcc.com/,,,4300 Royal Wood Boulevard,Naples,FL,34112,US,26.1148485,-81.7220852,2026-10-11T15:12:45Z
 d57cef2a-eaa6-4144-8ba6-3f6323a9c09b,relation/16937992,,,course,,,active,,,,,,,,,,,FL,,US,28.1635185,-82.500936,2026-10-11T15:06:53Z
-d58673db-b9dc-4a10-9bfe-8c6be1cf28cd,relation/4013135,Cypress Head Golf Club,,course,,,active,18,72,,,+1-386-756-5449,https://www.cypressheadgolf.com/,,,6231 Palm Vista Street,Port Orange,FL,32128,US,29.0621588,-81.0247103,2026-10-11T15:12:35Z
+d58673db-b9dc-4a10-9bfe-8c6be1cf28cd,relation/4013135,Cypress Head Golf Club,,course,,,active,18,72,,,+1-386-756-5449,https://www.cypressheadgolf.com/,https://cypressheadgolf.com/scorecard/,,6231 Palm Vista Street,Port Orange,FL,32128,US,29.0621588,-81.0247103,2026-11-13T06:41:43Z
 d587c1aa-044a-47aa-8d70-dde6649f338c,relation/4012075,Lakes of Lady Lake Golf Course,,course,,,active,,,,,+1-352-750-4414,https://www.lakesgc.com/,,,,,FL,,US,28.9497752,-81.9330324,2026-10-22T11:34:29Z
 d59e547d-077a-4c6c-bd9c-f2f8a7f22fd9,relation/4012050,Lake Diamond Golf and Country Club,,course,,,active,18,73,,,+1 352-687-1000,https://www.lakediamondgolfcountryclub.com/,,,16 Golf View Drive,Ocala,FL,34472,US,29.1294232,-82.0139785,2026-10-11T15:12:35Z
 d603d70c-3311-488e-a31d-f4fd7915d8bb,way/415390662,,,course,,,active,,,,,,,,,,,FL,,US,27.3323689,-80.4288514,2026-10-11T15:12:15Z
@@ -1705,10 +1718,11 @@ d80dde07-6dda-4313-bc1c-af08a377927d,way/842824129,Red and Gray Fox Executive Go
 d82f1d18-525e-47cb-9ea7-475a1350a298,relation/4680202,Marsh Creek Country Club,,course,,,active,18,72,,,+1-904-461-1101,https://www.marshcreek.com/,,,,,FL,,US,29.8399482,-81.2822663,2026-10-11T15:06:47Z
 d84ae8d8-88ad-4111-acc4-7746e3d66445,way/1075330841,The Clutch,,course,,,active,,,,,,,,,,,FL,,US,26.5512619,-82.1992349,2026-10-11T15:12:24Z
 d8527466-6f2e-4e3d-88f5-9047b94eb011,relation/16841069,,,course,,,active,,,,,,,,,,,FL,,US,28.7339148,-81.7988048,2026-10-11T15:12:43Z
-d856d496-7089-4b4a-adeb-49115895945d,way/125704238,Abacoa Golf Club,,course,,,active,,,,,,https://abacoagolfclub.com/,,,105 Barbados Drive,Jupiter,FL,33458,US,26.8885419,-80.1234602,2026-10-11T15:06:10Z
+d856d496-7089-4b4a-adeb-49115895945d,way/125704238,Abacoa Golf Club,,course,,,active,18,72,,,,https://abacoagolfclub.com/,https://abacoagolfclub.com/course-details/,,105 Barbados Drive,Jupiter,FL,33458,US,26.8885419,-80.1234602,2026-11-14T06:48:05Z
 d85ff78a-3f05-4523-933e-0c149258383d,relation/16181942,,,course,,,active,,,,,,,,,,,FL,,US,28.5137566,-82.4020091,2026-10-11T15:12:43Z
 d8606687-6ce7-44ba-96c7-043181418211,way/1232366847,,,course,,,active,,,,,,,,,,,FL,,US,28.7195239,-81.7778205,2026-10-11T15:12:28Z
 d8cf6fa0-773f-4c6e-80b1-d16af6ea96f8,way/1235529035,,,course,,,active,,,,,,,,,,,FL,,US,27.4059672,-82.4650892,2026-10-11T15:12:28Z
+d90e753a-7c01-4eca-8d35-3dd872d87482,,West Course,Orangebrook Golf & Country Club,course,7f93889b-cca3-480d-82d0-044d6546c226,,active,18,71,,,+1-954-967-4653,https://www.orangebrook.com/,https://www.orangebrook.com/scorecard/,,400 Entrada Drive,Hollywood,FL,33021,US,26.0031509,-80.1714973,2026-11-13T11:45:02Z
 d961e609-a8bc-4635-895e-b118ee1ce58e,relation/3203203,Forest Glen Golf & Country Club,,course,,,active,,,,,+1-239-348-1332,https://www.forestglengcc.com/,,,,,FL,,US,26.1458983,-81.680107,2026-10-11T15:06:43Z
 d9c53918-cf0d-4346-9448-dde48ba9e296,way/1300652842,,,course,,,active,,,,,,,,,,,FL,,US,28.2024862,-82.4277559,2026-10-11T15:06:40Z
 d9c93241-aba6-4736-a5af-78f3fad470a4,way/1228286611,Sweet Swing driving range,,practice,,,active,,,,,,,,,10810 Suncoast Blvd,Homosassa,FL,34446,US,28.7051078,-82.5549918,2026-10-11T15:12:27Z
@@ -1719,9 +1733,10 @@ da4a4c46-2015-4832-8ded-4c223f1392e9,way/252838512,Orange Blossom Hills Golf & C
 da5874fa-ed3b-4e2a-b075-65f82733b919,way/302499170,The Old Collier Golf Club,,course,,,active,18,72,,,+1-239-597-9898,https://www.theoldcolliergc.com/,,,790 Main House Drive,Naples,FL,34110,US,26.2771582,-81.8098989,2026-10-11T15:12:12Z
 dabfc2cd-c0c7-4b64-b508-8f43733c1dae,relation/16169732,,,course,,,active,,,,,,,,,,,FL,,US,28.2759573,-82.4697124,2026-10-11T15:12:43Z
 dae4cc12-2f81-45ee-b766-84210a95047e,way/677766656,,,course,,,active,,,,,,,,,,,FL,,US,27.3698161,-82.4574089,2026-10-11T15:06:32Z
-daf73aff-e29e-45db-8508-e0e51aa04628,relation/4025327,Highland Woods Golf & Country Club,,course,,,active,,,,,+1-239-495-9332,https://www.hwgcc.com/,,,9100 Highland Woods Boulevard,Bonita Springs,FL,34135,US,26.3545846,-81.7998391,2026-10-11T15:12:35Z
+daf73aff-e29e-45db-8508-e0e51aa04628,relation/4025327,Highland Woods Golf & Country Club,,course,,,active,18,72,,,+1-239-495-9332,https://www.hwgcc.com/,https://www.hwgcc.com/web/pages/scorecard,,9100 Highland Woods Boulevard,Bonita Springs,FL,34135,US,26.3545846,-81.7998391,2026-11-13T10:42:27Z
+db978935-c878-4b26-8e6e-5bd84b7a0a06,,Bayou/Lakeview,A.C. Read Golf Course,course,dbe1091f-2ab2-4d92-b4fd-bb3fb0756639,,active,18,72,,,,https://www.navymwrpensacola.com/programs/6e429faf-c74d-44dc-9690-b872b66401cc,https://www.navymwrpensacola.com/modules/media/?do=download&id=b72ce099-f6e2-44f0-85f5-81815559167e&__cb=639168865159270000&__cb=639168865159270000,,,,FL,,US,30.3634324,-87.2820004,2026-11-14T07:40:47Z
 dba128dd-5990-457d-9d5a-314866547f2d,way/1234402520,,,course,,,active,,,,,,,,,,,FL,,US,27.0709374,-82.2172809,2026-10-11T15:12:28Z
-dbe1091f-2ab2-4d92-b4fd-bb3fb0756639,relation/1249091,A.C. Read Golf Course,,course,,,active,,,,,,https://www.navymwrpensacola.com/programs/6e429faf-c74d-44dc-9690-b872b66401cc,,,,,FL,,US,30.3634324,-87.2820004,2026-10-11T15:12:30Z
+dbe1091f-2ab2-4d92-b4fd-bb3fb0756639,relation/1249091,A.C. Read Golf Course,,facility,,,active,,,,,,https://www.navymwrpensacola.com/programs/6e429faf-c74d-44dc-9690-b872b66401cc,https://www.navymwrpensacola.com/modules/media/?do=download&id=b72ce099-f6e2-44f0-85f5-81815559167e&__cb=639168865159270000&__cb=639168865159270000,,,,FL,,US,30.3634324,-87.2820004,2026-11-14T07:40:38Z
 dbe4f5f7-8d88-4d20-bd3d-1a11610e93b2,relation/19846822,Links Golf Course,,course,,,active,18,72,,,,,,,1570 Evermore Way,Orlando,FL,32836,US,28.4157874,-81.5275568,2026-10-11T15:12:45Z
 dc8b00cd-7865-4985-9e34-dcf3900b51ac,way/1178683847,,,course,,,active,,,,,,,,,,,FL,,US,27.5470128,-81.5251937,2026-10-11T15:12:27Z
 dc8b32a8-fe8a-4748-ba41-2e5859fb1012,way/98965416,Rocky Point Golf Course,,course,,,active,,,,,+1-813-673-4316,https://www.rockypointgolf.net/,,,4151 Dana Shores Drive,Tampa,FL,33634,US,27.9778909,-82.5547703,2026-10-11T15:11:55Z
@@ -1731,7 +1746,7 @@ dd031a5b-2e9f-44f8-993e-9dbd45058289,way/1234065180,,,course,,,active,,,,,,,,,,,
 dd1ef2ba-5dc1-48a6-91bd-c743add79446,relation/16841059,,,course,,,active,,,,,,,,,,,FL,,US,28.823534,-81.5288043,2026-10-11T15:12:43Z
 dd2f7ee3-77d5-4cf6-ab2c-5e7971712dbb,way/1232366623,,,course,,,active,,,,,,,,,,,FL,,US,28.531595,-81.8265502,2026-10-11T15:12:28Z
 dd9c056a-bc7e-4556-95a6-ab60af7729ec,relation/4015459,The Savannahs Golf Course,,course,,,active,,,,,+1-321-455-1375,http://www.brevardcounty.us/ParksRecreation/Golf/Savannahs/Home,,,3915 Savannahs Trail,Merritt Island,FL,32953,US,28.425347,-80.6791897,2026-10-11T15:12:35Z
-dd9c2de7-3705-48a8-8d89-0f32d5f50719,way/303054303,Hunters Run Executive Golf Course,,course,,,active,9,,,,+1-239-574-4454,https://www.huntersrungolf.com/,,,1006 Southeast 4th Place,Cape Coral,FL,33990,US,26.6344462,-81.9684281,2026-10-11T15:12:12Z
+dd9c2de7-3705-48a8-8d89-0f32d5f50719,way/303054303,Hunters Run Executive Golf Course,,course,,,active,9,30,,,+1-239-574-4454,https://www.huntersrungolf.com/,https://www.huntersrungolf.com/golf-course/scorecard,,1006 Southeast 4th Place,Cape Coral,FL,33990,US,26.6344462,-81.9684281,2026-11-13T10:42:27Z
 dda36ff1-a8b7-41ef-831d-a9bcf231e9de,way/140779005,,,course,,,active,,,,,,,,,,,FL,,US,26.2940808,-81.7396781,2026-10-11T13:29:58Z
 dda3c99c-ba99-42d3-8eb0-5d2d87663f28,relation/4064932,Villa Del Ray Golf Club,,course,,,active,,,,,+1-561-498-1444,https://www.villadelraygolf.com/,,,6200 Via Delray,Delray Beach,FL,33484,US,26.4764994,-80.134908,2026-10-11T15:12:35Z
 ddc3a019-cae4-4ab8-bbf2-6611e2daca99,way/185479031,The Falls Club of the Palm Beaches,,course,,,active,,,,,+1-561-964-5700,https://www.thefallsclub.com/,,,6455 Jog Road,Lake Worth,FL,33467,US,26.5763343,-80.1516077,2026-10-11T15:12:01Z
@@ -1764,12 +1779,12 @@ e26b4bd6-270a-4c70-991d-44ffdf920ee2,way/332585329,Indian River Preserve Golf Cl
 e29769fc-a30a-4b2c-83d8-4a0fd29d1da2,way/1178683788,,,course,,,active,,,,,,,,,,,FL,,US,27.4487084,-81.3176572,2026-10-11T15:12:27Z
 e29f8437-bc1f-4842-8262-bbf518c469bc,way/1237004357,,,course,,,active,,,,,,,,,,,FL,,US,27.9096952,-82.2472441,2026-10-11T15:12:28Z
 e2a0e966-4be6-4998-8f87-b5d987166985,way/757053268,Twisted Oaks Golf Club,,course,,,active,,,,,,https://twistedoaksgc.com/,,,,,FL,,US,28.9343402,-82.4395582,2026-10-23T15:50:45Z
-e2aaaac0-e2bf-449e-9b23-12ff4c519465,way/32968949,Bobby Jones Golf Club,,course,,,active,18,71,,,,https://www.bobbyjonesgolfclub.com/,,,1000 Circus Blvd,Sarasota,FL,34232,US,27.3449173,-82.486082,2026-10-11T15:11:51Z
+e2aaaac0-e2bf-449e-9b23-12ff4c519465,way/32968949,Bobby Jones Golf Club,,course,,,active,18,71,,,,https://www.bobbyjonesgolfclub.com/,https://www.bobbyjonesgolfclub.com/the-course/,,1000 Circus Blvd,Sarasota,FL,34232,US,27.3449173,-82.486082,2026-11-14T07:40:46Z
 e339575c-a0cd-4c97-9a5d-0ea147cb232d,way/415390665,PGA Golf Club,,course,,,active,,,,,,https://www.pgavillage.com/,,,1916 Perfect Drive,Port St. Lucie,FL,34986,US,27.3101908,-80.4282187,2026-10-11T15:12:15Z
 e3d1cd9b-498d-4cda-bdf1-80487411ae20,way/1051055549,,,course,,,active,,,,,,,,,,,FL,,US,26.3199737,-81.4248539,2026-10-11T15:12:24Z
 e3d4d221-3366-4eba-b10c-1398ebf9eeda,relation/4677237,Country Club at Mirasol,,course,,,active,,,,,+1-561-776-4949,https://www.mirasolcc.com/,,,11600 Mirasol Way,Palm Beach Gardens,FL,33418,US,26.851717,-80.1501554,2026-10-11T13:31:32Z
 e3dd3db0-1305-4260-9855-2a8e9c52ca9d,way/1158761860,Sebring Golf Links,,course,,,active,,,,,,https://sebringgolfclub.com/,,,,,FL,,US,27.5172516,-81.4836832,2026-10-22T11:32:26Z
-e3ea309f-23ea-48a5-9932-12506a3d01cd,relation/5462434,Windstar on Naples Bay,,course,,private,active,,,,,+1-239-775-3400,https://www.windstarclub.com/,,,,,FL,,US,26.1152775,-81.7797094,2026-10-11T15:12:36Z
+e3ea309f-23ea-48a5-9932-12506a3d01cd,relation/5462434,Windstar on Naples Bay,,course,,private,active,18,72,,,+1-239-775-3400,https://www.windstarclub.com/,https://www.windstarclub.com/golf/scorecard,,,,FL,,US,26.1152775,-81.7797094,2026-11-13T11:44:45Z
 e3f9558e-86cf-4c91-917f-87a05b77c06d,way/1232366581,,,course,,,active,,,,,,,,,,,FL,,US,28.5891209,-81.7772988,2026-10-11T15:12:28Z
 e404abcc-9177-43e8-a9a5-ec2ac1e85585,relation/4012045,Ocala Palms Golf & Country Club,,course,,,active,,,,,+1-352-732-4653,https://ocalapalmsgolf.com/,,,,,FL,,US,29.2097669,-82.2095626,2026-10-11T15:12:35Z
 e40b928d-8ec4-4923-a8e4-ff3f08b4537e,way/1232366839,,,course,,,active,,,,,,,,,,,FL,,US,28.7300695,-81.8852835,2026-10-11T15:12:28Z
@@ -1805,7 +1820,7 @@ e752494b-802f-4028-beea-ee5a406a7949,way/450350400,,,course,,,active,,,,,,,,,,,F
 e75dd16d-a4e3-4ddb-ae79-2f5e67ffd1b3,relation/16938041,,,course,,,active,,,,,,,,,,,FL,,US,27.6830343,-82.4610795,2026-10-11T15:12:43Z
 e779b01f-8d3d-491e-948a-12fddbb72232,relation/16933276,,,course,,,active,,,,,,,,,,,FL,,US,28.0904292,-81.6969739,2026-10-11T15:12:43Z
 e78dc3f1-87a6-4f9a-82bf-728b5398fcac,way/1232366630,,,course,,,active,,,,,,,,,,,FL,,US,28.5408207,-81.8295935,2026-10-11T15:12:28Z
-e7c119fa-2564-4557-b360-874533a99dc1,relation/4498879,Magnolia Point Golf and Country Club,,course,,,active,,,,,+1-904-269-9276,https://www.magnoliapointgolfclub.com/,,,3570 Clubhouse Drive,Green Cove Springs,FL,32043,US,30.0038552,-81.7097059,2026-10-11T15:06:47Z
+e7c119fa-2564-4557-b360-874533a99dc1,relation/4498879,Magnolia Point Golf and Country Club,,course,,,active,18,72,,,+1-904-269-9276,https://www.magnoliapointgolfclub.com/,https://www.magnoliapointgolfclub.com/wp-content/uploads/2022/10/New-Scorecard.pdf,,3570 Clubhouse Drive,Green Cove Springs,FL,32043,US,30.0038552,-81.7097059,2026-11-13T06:41:49Z
 e8282b0f-d4c0-4079-80d2-b56aa3a8871d,relation/4053380,Orange Tree Golf Club,,course,,,active,,,,,+1-407-351-4034,https://www.orangetreegolfclub.com/,,,7540 Woodgreen Drive,Orlando,FL,32819,US,28.4663041,-81.4830769,2026-10-11T15:12:35Z
 e899652d-a974-4d32-8544-9d0f8b87c76b,way/1236823352,,,course,,,active,,,,,,,,,,,FL,,US,27.9545002,-81.653736,2026-10-11T13:31:12Z
 e89c60d0-a1f3-48fb-a121-2b6bc74a6e84,way/1195424772,,,course,,,active,,,,,,,,,,,FL,,US,28.3418734,-82.5416292,2026-10-11T15:12:27Z
@@ -1815,14 +1830,14 @@ e98556f4-8f00-4045-9681-31f44125c3f9,way/553749182,,,course,,,active,,,,,,,,,,,F
 e9868ac7-8b72-4da0-8ab1-b563bc097b32,node/1800131827,Heritage Palms Golf & Country Club,,course,,,active,,,,,,,,,,,FL,,US,26.5882102,-81.8255738,2026-10-11T13:29:32Z
 e9b34b1a-868d-407e-8bce-c88a60b4001d,way/1234402263,,,course,,,active,,,,,,,,,,,FL,,US,27.3709544,-82.4643026,2026-10-11T15:06:39Z
 e9e09ef5-d46d-46df-a835-186818d72415,way/287211525,,,course,,,active,,,,,,,,,,,FL,,US,26.0016415,-80.3204737,2026-10-11T15:06:19Z
-e9e9c740-b42a-4fcc-9c19-a91fa0567a64,way/406000107,Champions Gate Country Club,,course,,,active,,,,,,https://championsgatecountryclub.com/,,,8950 Clifton Draw Drive,Champions Gate,FL,33896,US,28.2672088,-81.6528211,2026-10-11T15:12:15Z
+e9e9c740-b42a-4fcc-9c19-a91fa0567a64,way/406000107,Champions Gate Country Club,,course,,,active,18,72,,,,https://championsgatecountryclub.com/,https://www.championsgatecountryclub.com/golf/about-the-club,,8950 Clifton Draw Drive,Champions Gate,FL,33896,US,28.2672088,-81.6528211,2026-11-14T05:37:29Z
 ea114f1a-c4ca-4a5e-9db7-54651a7e76bc,relation/15935653,,,course,,,active,,,,,,,,,,,FL,,US,27.2198669,-81.8263443,2026-10-11T15:06:53Z
 ea320718-fd1a-4e07-8c91-71aab86f9537,way/1232597384,,,course,,,active,,,,,,,,,,,FL,,US,26.8884329,-82.3105202,2026-10-11T15:12:28Z
 ea589ff2-63ab-4ae3-ad9f-ac8a177f93fc,relation/16881701,,,course,,,active,,,,,,,,,,,FL,,US,27.2506593,-82.501131,2026-10-11T15:12:43Z
 ea70a979-48f7-4965-bd34-bcea682c3df5,way/547715663,,,course,,,active,,,,,,,,,,,FL,,US,28.7473897,-82.5417141,2026-10-11T15:12:18Z
 ea785263-55fe-4dce-bf17-3672cf46d7e7,way/1151308893,,,course,,,active,,,,,,,,,,,FL,,US,30.4343584,-86.9277112,2026-10-11T13:31:09Z
 ea7fe766-fe7b-4a2a-a716-21e5c7e67e81,way/1235985488,,,course,,,active,,,,,,,,,,,FL,,US,28.6566283,-80.8364785,2026-10-11T15:12:28Z
-ea89d7ba-f2eb-4ce6-b7e5-21cb80e3a43b,way/485953895,River Hills golf course and country club,,course,,,active,,,,,,https://riverhillscountryclub.com/,,,3943 New River Hills Club,Valrico,FL,33596,US,27.8881706,-82.2054989,2026-10-11T15:12:17Z
+ea89d7ba-f2eb-4ce6-b7e5-21cb80e3a43b,way/485953895,River Hills golf course and country club,,course,,,active,18,72,,,,https://riverhillscountryclub.com/,https://www.riverhillscountryclub.com/golf/scorecard,,3943 New River Hills Club,Valrico,FL,33596,US,27.8881706,-82.2054989,2026-11-14T10:41:27Z
 ea8c01a5-6f5d-45d6-a444-daedfc612c4e,node/3713754953,The Groves Golf Course,,course,,,active,,,,,+1-941-306-3144,https://www.grovesgolf.com/,,,,,FL,,US,27.3645083,-82.4784988,2026-10-11T13:29:32Z
 ea8fbc20-54d6-4010-a865-23c6f629b75f,way/1232593294,,,course,,,active,,,,,,,,,,,FL,,US,26.9749531,-82.2225895,2026-10-11T15:12:28Z
 ea97db5d-7772-4f04-aa64-d098c21e1790,relation/4026457,Shadow Wood Country Club - North Course,,course,,,active,,,,,+1-239-992-6000,https://shadowwoodcc.com/,,,22801 Oakwilde Boulevard,Bonita Springs,FL,34135,US,26.4141738,-81.7894555,2026-10-11T15:12:35Z
@@ -1833,10 +1848,10 @@ eae3091e-9ea7-4c12-8443-0246d8eaad60,relation/16181947,,,course,,,active,,,,,,,,
 eb280809-8fb5-4400-bac3-269ec1a2c5aa,relation/16169725,,,course,,,active,,,,,,,,,,,FL,,US,28.3511695,-82.5967304,2026-10-11T15:12:43Z
 eb3f7e7b-f47e-49ae-a8ed-b76fe66b5bd9,relation/4062363,Emerald Dunes Club,,course,,,active,,,,,+1-561-687-1700,https://www.emeralddunesclub.com/,,,2100 Emerald Dunes Drive,West Palm Beach,FL,33411,US,26.7142877,-80.143685,2026-10-11T15:12:35Z
 eb599d4d-570a-4225-aede-81f109e22142,way/1232366646,,,course,,,active,,,,,,,,,,,FL,,US,28.5081645,-81.7148309,2026-10-11T13:31:12Z
-eb939fa7-05b8-465b-b36c-c3cccc2bd9d4,way/304039301,Mount Dora Golf Club,,course,,,active,18,70,,,+1-352-383-3954,https://www.mountdoragolf.com/,,,1100 South Highland Street,Mount Dora,FL,32757,US,28.7877278,-81.6307743,2026-10-11T15:12:12Z
+eb939fa7-05b8-465b-b36c-c3cccc2bd9d4,way/304039301,Mount Dora Golf Club,,course,,,active,18,70,,,+1-352-383-3954,https://www.mountdoragolf.com/,https://www.mountdoragolf.com/aboutus/scorecard/,,1100 South Highland Street,Mount Dora,FL,32757,US,28.7877278,-81.6307743,2026-11-13T10:42:20Z
 eba1d763-429e-4d57-bef1-a7b450531fe9,way/45841744,Buffalo Creek Golf Course,,course,,,active,,,,,,,,,,,FL,,US,27.580464,-82.4792694,2026-10-11T15:11:53Z
 ec1599c4-428a-4a48-86df-282e90427745,way/738679644,,,course,,,active,,,,,,,,,,,FL,,US,26.9041578,-80.0988805,2026-10-11T15:12:21Z
-ec2b0e7b-7de4-4cad-ae3e-9a945c223bf9,relation/4064855,Westchester Golf & Country Club,,course,,,active,,,,,+1-561-369-1000,https://westchestercc.com/,,,12250 Westchester Club Drive,Boynton Beach,FL,33437,US,26.4965954,-80.1474223,2026-10-11T15:12:35Z
+ec2b0e7b-7de4-4cad-ae3e-9a945c223bf9,relation/4064855,Westchester Golf & Country Club,,facility,,,active,,,,,+1-561-369-1000,https://westchestercc.com/,https://westchestercc.com/course-details/,,12250 Westchester Club Drive,Boynton Beach,FL,33437,US,26.4965954,-80.1474223,2026-11-14T06:48:05Z
 ec4d95d3-993c-4c78-a236-8b630d9b0119,relation/4021877,The Rookery,,course,,,active,,,,,+1-239-389-6600,http://www.marcoislandmarriott.com/florida-golf-resort/The-Rookery-Course-106.html,,,3433 Club Center Boulevard,Naples,FL,34114,US,26.0268112,-81.6810543,2026-10-11T15:12:35Z
 ec73b789-e7be-4a34-9a97-f6d2d5ca3714,relation/5454239,The Classics Course at Lely Resort,,course,,private,active,18,72,,,+1-239-732-1220,https://www.theclassicsclub.com/,,,7989 Grand Lely Drive,Naples,FL,34113,US,26.0971854,-81.697909,2026-10-11T13:31:32Z
 ec9f3ae5-5486-4a86-9c6b-5c78350bc314,way/204620019,Largo Golf Course,,course,,,active,,,,,+1-727-518-3024,https://www.playlargo.com/largo_golf_course/index.php,,,12500 131st Street N,Largo,FL,33774,US,27.8840794,-82.8221209,2026-10-25T18:51:17Z
@@ -1882,7 +1897,7 @@ f0b93da6-19d6-4540-829b-c459f9928aa6,relation/2525484,Rocky Bayou Country Club,,
 f0ee6a6f-9913-4093-88b3-b31ac398af94,way/1232366637,,,course,,,active,,,,,,,,,,,FL,,US,28.5214463,-81.7163201,2026-10-11T15:12:28Z
 f10f1e1d-cfaf-4a68-9eb5-9ebdb0c2ea4f,relation/2694848,Village Golf Club,,course,,,active,,,,,,www.thevillagegolfclub.com/,,,122 Country Club Dr,Royal Palm Beach,FL,,US,26.7166115,-80.2243883,2026-10-11T15:12:33Z
 f173ac9c-ec82-4ac8-abab-c4e34fb0bfa6,way/1232366848,,,course,,,active,,,,,,,,,,,FL,,US,28.7234927,-81.777997,2026-10-11T15:12:28Z
-f1757971-90ff-45e1-a706-e29d350195f5,relation/5450236,TPC Tampa Bay,,course,,,active,18,71,,,+1-813-949-0090,https://www.tpctampabay.com/,,,5300 West Lutz Lake Fern Road,Lutz,FL,33558,US,28.1501475,-82.5357446,2026-10-11T15:12:36Z
+f1757971-90ff-45e1-a706-e29d350195f5,relation/5450236,TPC Tampa Bay,,course,,,active,18,71,,,+1-813-949-0090,https://www.tpctampabay.com/,https://www.tpctampabay.com/championship-golf/,,5300 West Lutz Lake Fern Road,Lutz,FL,33558,US,28.1501475,-82.5357446,2026-11-14T10:41:27Z
 f19cc365-7996-48a6-8431-3cdee856ad42,relation/4010678,,,course,,,active,,,,,,,,,,,FL,,US,29.7842872,-82.0548247,2026-10-11T15:12:35Z
 f1cf3420-a7f5-4029-8af8-e0121582066e,relation/2688072,Cleveland Heights Golf Course,,course,,,active,,,,,,https://www.clevelandheightsgolf.com/,,,,,FL,,US,28.0057818,-81.9425939,2026-10-23T15:47:53Z
 f1d276a0-974c-4848-845d-81aea7a1d482,way/1234410996,,,course,,,active,,,,,,,,,,,FL,,US,27.0815805,-82.4134732,2026-10-11T15:12:28Z
@@ -1893,7 +1908,7 @@ f22ba030-3ab8-4699-a08c-217ca5a34d3c,relation/16903500,,,course,,,active,,,,,,,,
 f2431c0e-13b3-4921-8b0e-c6a6209292fc,way/1172923717,,,course,,,active,,,,,,,,,,,FL,,US,30.1648691,-82.669552,2026-10-11T13:31:09Z
 f2a8a76f-798a-4e40-b2cd-504f35f7309e,relation/16841066,,,course,,,active,,,,,,,,,,,FL,,US,28.7841423,-81.6608465,2026-10-11T15:12:43Z
 f2af1fd4-3a14-46b1-bf76-835f9ee62a63,relation/21154927,Biltmore Golf Course,,course,,,active,18,71,,,+1 305 460 5364,https://www.biltmorehotel.com/golf/,,,1210 Anastasia Avenue,Coral Gables,FL,33134,US,25.7394885,-80.2792778,2026-10-11T15:12:45Z
-f2f8bda9-9a22-4798-bfb8-8110403c5243,way/516185216,Mayfair Country Club,,course,,,active,18,72,,,,https://www.mayfaircc.com/,,,3536 Country Club Rd,Sanford,FL,32773,US,28.7810985,-81.3180011,2026-10-11T15:12:18Z
+f2f8bda9-9a22-4798-bfb8-8110403c5243,way/516185216,Mayfair Country Club,,course,,,active,18,72,,,,https://www.mayfaircc.com/,https://www.mayfaircc.com/scorecard/,,3536 Country Club Rd,Sanford,FL,32773,US,28.7810985,-81.3180011,2026-11-14T05:37:30Z
 f31668e3-cfd4-4340-908c-88d8835a2bfc,relation/16882354,,,course,,,active,,,,,,,,,,,FL,,US,27.1282429,-82.4047761,2026-10-11T15:06:53Z
 f31ea342-696e-4188-8584-271389becb8b,way/965782904,,,course,,,active,,,,,,,,,,,FL,,US,26.1277794,-81.7040236,2026-10-11T15:12:24Z
 f3517f14-8767-4024-907f-237e483c399a,way/1232366886,,,course,,,active,,,,,,,,,,,FL,,US,28.7200636,-81.8802549,2026-10-11T15:06:39Z
@@ -1923,9 +1938,9 @@ f60085fc-7af0-45b2-9352-7c401bb24f33,relation/16841055,,,course,,,active,,,,,,,,
 f624d9dd-12f8-4a9e-9dfa-95589cfac6f6,way/1116989074,River Ranch Golf Course,,course,,,active,,,,,,,,,,,FL,,US,27.7665625,-81.2007873,2026-10-11T15:12:24Z
 f628ac9f-8fbb-49cf-acff-8ae591e037a9,relation/16872593,,,course,,,active,,,,,,,,,,,FL,,US,26.3201014,-81.754506,2026-10-11T15:12:43Z
 f64c36e2-97a4-48fd-82a1-281d14f6d459,way/114805741,Quality Inn & Suites Golf Resort,,course,,,active,,,,,,,,,,,FL,,US,26.177124,-81.6913742,2026-10-11T15:11:57Z
-f6678d18-06af-4258-9568-6145b71b35a7,way/305086186,Seven Bridges at Springtree,,course,,,active,18,62,,,+1 954 572 2270,https://www.springtreegc.com/,,,8150 Springtree Drive,Sunrise,FL,33351,US,26.1719971,-80.2606559,2026-10-11T15:12:12Z
+f6678d18-06af-4258-9568-6145b71b35a7,way/305086186,Seven Bridges at Springtree,,course,,,active,18,62,,,+1 954 572 2270,https://www.springtreegc.com/,https://www.springtreegc.com/course/course-map-and-scorecard/,,8150 Springtree Drive,Sunrise,FL,33351,US,26.1719971,-80.2606559,2026-11-13T11:44:59Z
 f6843b69-7a3e-4ea9-9f19-710d6755f4be,way/653663491,,,course,,,active,,,,,,,,,,,FL,,US,27.2052685,-80.8238171,2026-10-11T15:12:20Z
-f6a21045-903d-4257-a5cf-5e646d0d1d95,relation/7398953,Gator Trace Golf & Country Club,,course,,,active,18,70,,,+1-772-464-0407,https://www.gatortracecountryclub.com/,,,4302 Gator Trace Drive,Fort Pierce,FL,34982,US,27.3865433,-80.3137569,2026-10-11T15:12:38Z
+f6a21045-903d-4257-a5cf-5e646d0d1d95,relation/7398953,Gator Trace Golf & Country Club,,course,,,active,18,70,,,+1-772-464-0407,https://www.gatortracecountryclub.com/,https://www.gatortracecountryclub.com/course-details/,,4302 Gator Trace Drive,Fort Pierce,FL,34982,US,27.3865433,-80.3137569,2026-11-14T10:41:32Z
 f6f586ce-3f22-48ed-a630-96c3d9ffba49,way/842422417,,,course,,,active,,,,,,,,,,,FL,,US,28.5345723,-82.2240418,2026-10-11T15:12:23Z
 f742967e-047e-4dbe-9a2c-1ea67b5698e8,way/1233381148,,,course,,,active,,,,,,,,,,,FL,,US,27.0456968,-80.1459801,2026-10-11T13:31:12Z
 f747149c-080f-4917-8132-e96ded490b63,relation/1230389,Suntree Country Club,,course,,,active,,,,,+1 321-242-6230,https://www.suntree.com/,,,300 Country Club Drive,Melbourne,FL,32940,US,28.2161336,-80.6881288,2026-10-11T15:12:30Z
@@ -1948,7 +1963,7 @@ f8a9de15-76f5-41b9-8fa5-5fcfa7a07577,way/1234402103,,,course,,,active,,,,,,,,,,,
 f8ed85dc-be49-486e-902c-0ee43fbb5c5b,relation/16937985,,,course,,,active,,,,,,,,,,,FL,,US,28.1695104,-82.5127662,2026-10-11T15:12:43Z
 f944acd3-b020-4850-a631-a081e476bfe2,way/1138222628,,,course,,,active,,,,,,,,,,,FL,,US,30.4926537,-86.0384713,2026-10-11T15:12:27Z
 f9560915-0608-4a23-843e-f9d4dfd32745,relation/15439888,,,course,,,active,,,,,,,,,,,FL,,US,30.7422785,-86.3355601,2026-10-11T15:12:43Z
-f96e07e7-6e26-4eb5-b2a8-47e4410347e7,way/91776833,Amelia River Club,,course,,,active,,,,,+1-904-491-8500,https://www.ameliarivergolf.com,,,4477 Buccaneer Trail,Fernandina Beach,FL,32034,US,30.6040967,-81.4613824,2026-10-11T15:11:55Z
+f96e07e7-6e26-4eb5-b2a8-47e4410347e7,way/91776833,Amelia River Club,,course,,,active,18,72,,,+1-904-491-8500,https://www.ameliarivergolf.com,https://www.ameliarivergolf.com/scorecard/,,4477 Buccaneer Trail,Fernandina Beach,FL,32034,US,30.6040967,-81.4613824,2026-11-13T06:41:50Z
 f9959303-10e0-43ee-a98f-f21679a22fcb,way/1177151011,,,course,,,active,,,,,,,,,,,FL,,US,30.5986731,-81.4459041,2026-10-11T15:12:27Z
 f9e340ae-1d62-4b3c-9418-153d454939d3,node/12292420849,Wakulla Sands Country Club,,course,,,active,,,,,,,,,,,FL,,US,30.1320575,-84.3623151,2026-10-11T13:29:32Z
 f9f28707-eec6-4093-9416-0b0ab9b439d1,way/561666702,Cecil Field Golf Course,,course,,,active,,,,,,,,,,,FL,,US,30.2376444,-81.8974367,2026-10-11T15:12:18Z
@@ -1971,6 +1986,7 @@ fc3f9369-45ba-406e-b132-7dd7ceb93431,way/1140741068,,,course,,,active,,,,,,,,,,,
 fc73a15a-119b-4ff0-801e-038a9d5a40ea,node/13635056130,Beautyberry Executive Golf Course,,course,,,active,,,,,,,,,7600 Busche Boulevard,,FL,,US,28.7488396,-81.9740418,2026-10-11T13:29:32Z
 fc762e0e-ad40-4dc3-a73e-b4ed15c13c2a,relation/16872635,,,course,,,active,,,,,,,,,,,FL,,US,26.6961694,-81.7506544,2026-10-11T15:12:43Z
 fc95d8f6-9591-401f-96e9-e6d92aac72ee,relation/5454459,Hunter’s Green Country Club,,course,,private,active,,,,,+1-813-973-1000,https://www.clubcorp.com/Clubs/Hunter-s-Green-Country-Club/,,,,,FL,,US,28.1332111,-82.3467017,2026-10-11T15:12:36Z
+fcab82b7-213e-40c8-83ef-5f376e5c0ebf,,Bayview/Bayou,A.C. Read Golf Course,course,dbe1091f-2ab2-4d92-b4fd-bb3fb0756639,,active,18,72,,,,https://www.navymwrpensacola.com/programs/6e429faf-c74d-44dc-9690-b872b66401cc,https://www.navymwrpensacola.com/modules/media/?do=download&id=b72ce099-f6e2-44f0-85f5-81815559167e&__cb=639168865159270000&__cb=639168865159270000,,,,FL,,US,30.3634324,-87.2820004,2026-11-14T07:40:49Z
 fcfe559d-2d06-4ba3-8a8b-ed9c0c088a38,relation/16181948,Rivard Golf Club,,course,,,active,,,,,,,,,,,FL,,US,28.4696242,-82.4348738,2026-10-11T15:06:53Z
 fd1ccf95-0581-4973-9d93-0516dd51d1b7,way/1195424788,,,course,,,active,,,,,,,,,,,FL,,US,28.2645215,-82.4700976,2026-10-11T15:12:27Z
 fd24f7f8-8413-4458-b03c-485831e9c774,relation/4061355,Palm Cove Golf & Yacht Club,,course,,,active,,,,,+1-772-287-5605,https://www.palmcovegolf.com/,,,2363 Southwest Carriage Hill Terrace,Palm City,FL,34990,US,27.199173,-80.2828602,2026-10-11T15:06:45Z
@@ -1993,6 +2009,7 @@ fe927abd-4b87-4cf4-b67c-9e783ad1984c,way/842420129,,,course,,,active,,,,,,,,,,,F
 fea52b11-280d-4f85-955e-953fd87133c7,relation/16872623,,,course,,,active,,,,,,,,,,,FL,,US,26.4264187,-81.8245407,2026-10-11T15:12:43Z
 fea7df2c-03cf-434a-bae7-d3e8597fd0ec,way/1232366928,,,course,,,active,,,,,,,,,,,FL,,US,28.9295784,-81.9436669,2026-10-11T15:12:28Z
 fee569c5-bdf6-4d28-9e37-d7ed4a1709ae,way/302007388,Heritage Isles,,course,,,active,,,,,,,,,,,FL,,US,28.1486535,-82.3001374,2026-10-11T13:30:33Z
+ff3bc6cf-bfa6-46a4-9ae2-25ae567da66c,,Pine Valley/White Marsh,Long Marsh,course,41f7ea07-c286-4996-9f72-13e9cd0d5d9e,,active,18,72,,,+1-941-698-0918,https://rotondagolf.com/long-marsh-course/,https://rotondagolf.com/wp-content/uploads/sites/219/2026/01/Long-Marsh-Scorecard-New.jpg,,20 White Marsh Road,Rotonda,FL,33947,US,26.8889747,-82.259438,2026-11-13T05:41:28Z
 ff3d8a13-b04d-4320-b20b-45b3ac84c6c5,relation/5464155,Hideout Golf Club,,course,,private,active,,,,,+1-239-352-4141,https://www.hideoutgolfclub.com/,,,,,FL,,US,26.185808,-81.6667812,2026-10-11T15:12:36Z
 ff535dab-ce39-4339-a0fe-beeb90baaf7f,relation/18364355,Palmetto Golf Course (The Villages),,course,,,active,,,,,,,,,3106 Hendry Drive,The Villages,FL,32163,US,28.8608594,-82.0105435,2026-10-11T15:12:45Z
 ff55821a-a126-4971-b855-c0f4b99936ab,way/1178683818,,,course,,,active,,,,,,,,,,,FL,,US,27.6413809,-81.514194,2026-10-11T13:31:09Z

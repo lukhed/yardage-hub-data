@@ -1,5 +1,89 @@
 course_id,tee_key,name,color,total_yardage
+05fa1407-a0b8-4801-a9ea-3fe4076c6dc9,championship,Championship,,5970
+05fa1407-a0b8-4801-a9ea-3fe4076c6dc9,forward,Forward,,5360
+08edace7-9eb4-4fa8-b4eb-bfcf7270db75,blue,Blue,blue,6472
+08edace7-9eb4-4fa8-b4eb-bfcf7270db75,red,Red,red,5067
+08edace7-9eb4-4fa8-b4eb-bfcf7270db75,white,White,white,6225
+08edace7-9eb4-4fa8-b4eb-bfcf7270db75,white-red-combo,White/Red Combo,,5731
+08edace7-9eb4-4fa8-b4eb-bfcf7270db75,yellow,Yellow,yellow,4754
+28421077-f13c-47cd-875c-888019731158,black,Black,black,6321
+28421077-f13c-47cd-875c-888019731158,gray,Gray,gray,4434
+28421077-f13c-47cd-875c-888019731158,white,White,white,5206
+28421077-f13c-47cd-875c-888019731158,yellow,Yellow,yellow,5965
+7a7d0739-46df-4a06-8875-5557bc83878e,blue,Blue,blue,4692
+7a7d0739-46df-4a06-8875-5557bc83878e,white,White,white,4218
+7b2a84d6-3b2b-4f8e-98e3-7680701d5fa3,blue,Blue,blue,6615
+7b2a84d6-3b2b-4f8e-98e3-7680701d5fa3,gold,Gold,gold,5592
+7b2a84d6-3b2b-4f8e-98e3-7680701d5fa3,red,Red,red,4746
+7b2a84d6-3b2b-4f8e-98e3-7680701d5fa3,white,White,white,6108
+7f709dd0-52c1-4030-ba50-78cacacf9477,black,Black,black,6756
+7f709dd0-52c1-4030-ba50-78cacacf9477,blue,Blue,blue,6471
+7f709dd0-52c1-4030-ba50-78cacacf9477,blue-white,Blue/White,,6150
+7f709dd0-52c1-4030-ba50-78cacacf9477,red,Red,red,5284
+7f709dd0-52c1-4030-ba50-78cacacf9477,white,White,white,5833
+7f709dd0-52c1-4030-ba50-78cacacf9477,white-red,White/Red,,5545
+9600b9bd-dbef-4a7a-9109-791f3fed6b8f,blue,Blue,blue,2980
+9600b9bd-dbef-4a7a-9109-791f3fed6b8f,red,Red,red,2505
+9600b9bd-dbef-4a7a-9109-791f3fed6b8f,white,White,white,2739
+9c6559f4-58ac-438f-a3a3-75ef6ec8ae2c,black,Black,black,7022
+9c6559f4-58ac-438f-a3a3-75ef6ec8ae2c,blue,Blue,blue,6304
+9c6559f4-58ac-438f-a3a3-75ef6ec8ae2c,gold,Gold,gold,6646
+9c6559f4-58ac-438f-a3a3-75ef6ec8ae2c,green,Green,green,5152
+9c6559f4-58ac-438f-a3a3-75ef6ec8ae2c,white,White,white,5861
+9d9e2b2f-e3d4-4076-91d9-be5299a927cd,blue,Blue,blue,
+9d9e2b2f-e3d4-4076-91d9-be5299a927cd,gold,Gold,gold,
+9d9e2b2f-e3d4-4076-91d9-be5299a927cd,red,Red,red,
+9d9e2b2f-e3d4-4076-91d9-be5299a927cd,white,White,white,
+a07f3d9a-5d07-41f0-9168-f1ba79a77aaa,blue-tees,Blue Tees,blue,6246
+a07f3d9a-5d07-41f0-9168-f1ba79a77aaa,red-tees,Red Tees,red,4916
+a07f3d9a-5d07-41f0-9168-f1ba79a77aaa,white-tees,White Tees,white,5789
+a07f3d9a-5d07-41f0-9168-f1ba79a77aaa,yellow-tees,Yellow Tees,yellow,5230
+a8bb6c7a-258b-40b5-b157-a01292555e7c,blue,Blue,blue,6647
+a8bb6c7a-258b-40b5-b157-a01292555e7c,gold,Gold,gold,5642
+a8bb6c7a-258b-40b5-b157-a01292555e7c,red,Red,red,5560
+a8bb6c7a-258b-40b5-b157-a01292555e7c,white,White,white,6357
+b77b861d-824d-4272-a867-36214d5710b5,black,Black,black,6609
+b77b861d-824d-4272-a867-36214d5710b5,red,Red,red,5061
+b77b861d-824d-4272-a867-36214d5710b5,white,White,white,6303
+b77b861d-824d-4272-a867-36214d5710b5,yellow,Yellow,yellow,5347
+b8191624-d78f-44fd-95eb-03ee3a1a67ef,blue,Blue,blue,6004
+b8191624-d78f-44fd-95eb-03ee3a1a67ef,blue-white,Blue/White,,5774
+b8191624-d78f-44fd-95eb-03ee3a1a67ef,family,Family,navy,2725
+b8191624-d78f-44fd-95eb-03ee3a1a67ef,gold,Gold,gold,5042
+b8191624-d78f-44fd-95eb-03ee3a1a67ef,red,Red,red,4810
+b8191624-d78f-44fd-95eb-03ee3a1a67ef,white,White,white,5602
+b975f133-e56a-4590-ba75-4700b7ef3359,blue,Blue,blue,6338
+b975f133-e56a-4590-ba75-4700b7ef3359,gold,Gold,gold,4598
+b975f133-e56a-4590-ba75-4700b7ef3359,red,Red,red,5426
+b975f133-e56a-4590-ba75-4700b7ef3359,white,White,white,5942
+cc9b2d4a-fafd-402c-b2fe-a8644c8c147b,black,Black,black,6520
+cc9b2d4a-fafd-402c-b2fe-a8644c8c147b,blue,Blue,blue,3533
+cc9b2d4a-fafd-402c-b2fe-a8644c8c147b,gold,Gold,gold,5454
+cc9b2d4a-fafd-402c-b2fe-a8644c8c147b,green,Green,green,5303
+cc9b2d4a-fafd-402c-b2fe-a8644c8c147b,white,White,white,6219
+d54c8019-825f-4d52-8345-7fcc20c31991,blue,Blue,blue,6708
+d54c8019-825f-4d52-8345-7fcc20c31991,gold,Gold,gold,5800
+d54c8019-825f-4d52-8345-7fcc20c31991,red,Red,red,5465
+d54c8019-825f-4d52-8345-7fcc20c31991,white,White,white,6444
+e0081ea1-711c-4601-a683-f5d582478e23,blue-tees,Blue Tees,blue,5978
+e0081ea1-711c-4601-a683-f5d582478e23,gold-tees,Gold Tees,gold,5016
+e0081ea1-711c-4601-a683-f5d582478e23,red-tees,Red Tees,red,4362
+e0081ea1-711c-4601-a683-f5d582478e23,white-tees,White Tees,white,5668
+e1dd166b-2ac0-4827-bbf9-410ec0212e5a,i-tee,I Tee,,6662
+e1dd166b-2ac0-4827-bbf9-410ec0212e5a,ii-tee,II Tee,,6305
+e1dd166b-2ac0-4827-bbf9-410ec0212e5a,ii-v-combo-tee,II.V Combo Tee,,5992
+e1dd166b-2ac0-4827-bbf9-410ec0212e5a,iii-tee,III Tee,,5671
+e1dd166b-2ac0-4827-bbf9-410ec0212e5a,iv-tee,IV Tee,,5079
+e1dd166b-2ac0-4827-bbf9-410ec0212e5a,l-m-tee,L&M Tee,,7160
+e1dd166b-2ac0-4827-bbf9-410ec0212e5a,v-tee,V Tee,,4378
+ec24eeb6-fd7e-4880-a193-d44fb4dfab83,blue,Blue,blue,3108
+ec24eeb6-fd7e-4880-a193-d44fb4dfab83,gold,Gold,gold,2598
+ec24eeb6-fd7e-4880-a193-d44fb4dfab83,red,Red,red,2466
+ec24eeb6-fd7e-4880-a193-d44fb4dfab83,white,White,white,2882
+f2e360e3-1387-4358-bda5-0baecfd1429a,ash-oak,Ash/Oak,,5836
 f2e360e3-1387-4358-bda5-0baecfd1429a,blue,Blue,blue,
+f2e360e3-1387-4358-bda5-0baecfd1429a,pine-spruce,Pine/Spruce,,5042
 f2e360e3-1387-4358-bda5-0baecfd1429a,red,Red,red,
+f2e360e3-1387-4358-bda5-0baecfd1429a,rose-jasmine,Rose/Jasmine,,4992
 f2e360e3-1387-4358-bda5-0baecfd1429a,white,White,white,
 f2e360e3-1387-4358-bda5-0baecfd1429a,yellow,Yellow,yellow,
