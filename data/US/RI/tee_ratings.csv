@@ -1,0 +1,8 @@
+course_id,tee_key,gender,par,rating,slope
+f6d53532-8ac8-432c-aa3f-e54586ba9bd3,blue,M,72,71.5,125
+f6d53532-8ac8-432c-aa3f-e54586ba9bd3,blue-white-combo,M,72,69.9,123
+f6d53532-8ac8-432c-aa3f-e54586ba9bd3,gold,M,72,73.5,128
+f6d53532-8ac8-432c-aa3f-e54586ba9bd3,red,F,72,70.8,118
+f6d53532-8ac8-432c-aa3f-e54586ba9bd3,white,F,72,73.2,125
+f6d53532-8ac8-432c-aa3f-e54586ba9bd3,white,M,72,68.2,121
+f6d53532-8ac8-432c-aa3f-e54586ba9bd3,white-red-combo,F,72,71.9,122

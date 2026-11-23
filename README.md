@@ -15,7 +15,7 @@ database, as plain CSV files you can open in a spreadsheet or load into anything
 
 ## How complete is the data
 
-Of **16,269 golf courses** in the 2026-11-16 snapshot, **56%** have a website, **37%** have their holes and pars, and **5%** have a scorecard. Every measure, by state and region, and how it's grown: the [coverage dashboard](https://lukeheide.com/sports/yardage-hub/coverage).
+Of **16,281 golf courses** in the 2026-11-23 snapshot, **57%** have a website, **38%** have their holes and pars, and **6%** have a scorecard. Every measure, by state and region, and how it's grown: the [coverage dashboard](https://lukeheide.com/sports/yardage-hub/coverage).
 
 ## Download
 
