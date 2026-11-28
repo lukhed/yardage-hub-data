@@ -1,7 +1,7 @@
 id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,year_built,phone,website,scorecard_url,scorecard_image_url,address,city,state,postcode,country,lat,lon,updated_at
 08cd3db3-d1f9-4199-ad26-82c6ff918187,way/513193873,East Golf Course,,course,,,active,,,,,,,,,,,PR,,US,18.4708344,-66.2903305,2026-10-11T15:12:18Z
-0a4e2c20-7f34-4752-a955-20eda8ea6d49,way/308753984,Río Bayamón Golf Course,,course,,,active,,,,,,,,,,,PR,,US,18.3787958,-66.1373454,2026-10-11T15:12:12Z
-0bb37e89-01e5-4e44-bf63-42ecd7c7b6ea,way/308753982,Río Bayamón Golf Course,,course,,,active,,,,,,,,,,,PR,,US,18.3872191,-66.1360553,2026-10-11T15:12:12Z
+0a4e2c20-7f34-4752-a955-20eda8ea6d49,way/308753984,Río Bayamón Golf Course,,course,,,active,,,,,,https://riobayamongolfcourse.com/,,,,,PR,,US,18.3787958,-66.1373454,2026-11-24T21:12:27Z
+0bb37e89-01e5-4e44-bf63-42ecd7c7b6ea,way/308753982,Río Bayamón Golf Course,,course,,,active,,,,,,https://riobayamongolfcourse.com/,,,,,PR,,US,18.3872191,-66.1360553,2026-11-25T20:28:20Z
 33cd4e65-2f58-4f9b-b85e-ab9b2cf98e8f,way/894061675,,,course,,,active,,,,,,,,,,,PR,,US,18.4098025,-65.8067641,2026-10-11T15:12:23Z
 363e203a-697b-431f-b66d-217655fe784e,relation/6747327,,,course,,,active,,,,,,,,,,,PR,,US,18.0989007,-65.7977702,2026-10-11T15:12:38Z
 3f42c61c-b342-451b-b14c-2fc1c740f493,way/503381561,,,course,,,active,,,,,,,,,,,PR,,US,18.4233223,-65.947806,2026-10-11T15:12:18Z
@@ -16,7 +16,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 89751bf6-73c8-48e1-9f2b-d038de8bda2d,relation/2752841,,,course,,,active,,,,,,,,,,,PR,,US,18.4101035,-65.8175442,2026-10-11T15:12:33Z
 89773f18-262c-453e-80f6-2a6431ef4d96,way/191708541,Ramey Golf Course,,course,,,active,,,,,,,,,,,PR,,US,18.4893787,-67.1518643,2026-10-11T13:30:03Z
 8b8b5fc3-0fe6-426f-8815-8c892d392d60,way/1512634277,,,course,,,active,,,,,,,,,,,PR,,US,18.3880485,-65.7611172,2026-10-11T13:31:14Z
-8e8aed75-db47-4ef8-b654-2eb736726d43,way/308753983,Río Bayamón Golf Course,,course,,,active,,,,,,,,,,,PR,,US,18.381453,-66.136123,2026-10-11T15:12:12Z
+8e8aed75-db47-4ef8-b654-2eb736726d43,way/308753983,Río Bayamón Golf Course,,course,,,active,,,,,,https://riobayamongolfcourse.com/,,,,,PR,,US,18.381453,-66.136123,2026-11-25T20:28:22Z
 8ec74c0a-cbfa-47b5-87de-6ae34123196f,node/6032061178,Punta Borinquen Golf Club,,course,,,active,,,,,+1 787-890-2987,https://www.puntaborinquengolfclub.org/,,,,Aguadilla,PR,00603,US,18.4929106,-67.1499667,2026-10-11T13:29:32Z
 9d791587-4671-4910-b198-07af5d328114,way/534967836,,,course,,,active,,,,,,,,,,,PR,,US,18.0934218,-67.1889368,2026-10-11T13:30:51Z
 a118c45b-055b-4e13-b7b0-547a4a67685d,way/456485908,,,course,,,active,,,,,,,,,,,PR,,US,18.1047625,-65.7933414,2026-10-11T13:30:48Z

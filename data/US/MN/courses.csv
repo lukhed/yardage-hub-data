@@ -4,7 +4,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 01948e73-e660-4833-a0cb-231f9aa23d3c,way/145749202,Babbitt Golf Course,,course,,,active,9,35,,,,,,,2808 Ely-Babbitt Rd,Babbitt,MN,55706,US,47.7138135,-91.9803402,2026-10-11T15:12:00Z
 0229eb82-9493-4971-bde6-a8b38830c353,relation/21084336,Grand National Golf Course,,course,,,active,,,,,,http://www.grandnationalgolf.com,,,300 Lady Luck Drive,Hinckley,MN,55037,US,46.0050371,-92.9167418,2026-10-11T15:12:45Z
 039daf53-59db-49b2-88b5-a1c4f4689619,way/43635994,Columbia Golf Course,,course,,public,active,18,70,,,,,,,,,MN,,US,45.0278869,-93.2537787,2026-10-11T15:11:53Z
-03e78c9a-4a48-4ede-8c26-c5b85b1a9a70,relation/21193418,Bois de Sioux Golf Course,,course,,,active,18,71,,,+1 (701) 642-3673,https://www.bdsgolfcourse.com/,,,1305 R.J. Hughes Drive,Wahpeton,MN,58075,US,46.2805434,-96.597841,2026-10-11T15:12:45Z
+03e78c9a-4a48-4ede-8c26-c5b85b1a9a70,relation/21193418,Bois de Sioux Golf Course,,course,,,active,18,71,,,+1 (701) 642-3673,https://www.bdsgolfcourse.com/,https://www.bdsgolfcourse.com/about/scorecard-2/,,1305 R.J. Hughes Drive,Wahpeton,MN,58075,US,46.2805434,-96.597841,2026-11-27T05:38:13Z
 046f792f-eac3-481a-a63b-1ea1ad6927df,way/1040390808,Shamrock Golf Course,,course,,,active,18,,,,+1-763-478-9977,https://www.shamrockgolfcourse.com/,,,19625 Larkin Road,Corcoran,MN,55340,US,45.0840833,-93.534315,2026-10-30T00:57:02Z
 0496d51e-7b13-4898-a619-d1d3773e18ea,way/1040862065,Wapicada Golf Club,,course,,,active,18,72,,,,,,,,,MN,,US,45.5877734,-94.067254,2026-10-11T15:06:36Z
 05afd411-2e61-42ec-83d1-fcd220cfb299,way/151555138,Little Willow Executive Course,,course,,,active,,,,,,,,,,,MN,,US,43.9487297,-92.4820307,2026-10-11T15:12:00Z
@@ -15,12 +15,12 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 0adc1d3a-2dcd-4459-a09a-40b6e119318f,way/1029425042,,,course,,,active,9,36,,,,,,,,,MN,,US,45.6555009,-93.8988388,2026-10-11T13:31:06Z
 0aea4d94-4128-424a-882a-171a4e3d7c59,way/45022711,Golden Valley Country Club,,course,,,active,18,73,,,,,,,7001 Golden Valley Road,Golden Valley,MN,55427,US,44.9891468,-93.36958,2026-10-11T15:11:53Z
 0b7a7927-d5db-47ff-a3f2-c80b785c9864,way/371543806,The Ledgend,,course,,,active,18,72,,,,,,,6325 Wynne Creek Dr,Aurora,MN,55705,US,47.5893145,-92.3093614,2026-10-11T15:12:14Z
-0be3f48b-59d4-48f4-bd20-6940f8a74cdc,way/486006170,Hendricks Golf Club,,course,,,active,9,,,,,https://hendricksgolfclub.com/,,,,Hendricks,MN,56136,US,44.5082368,-96.4483481,2026-10-11T15:12:17Z
+0be3f48b-59d4-48f4-bd20-6940f8a74cdc,way/486006170,Hendricks Golf Club,,course,,,active,9,36,,,,https://hendricksgolfclub.com/,https://hendricksgolfclub.com/wp-content/uploads/sites/70/2024/04/Scorecard.pdf,,,Hendricks,MN,56136,US,44.5082368,-96.4483481,2026-11-26T05:40:38Z
 0c30b793-f726-4a48-b78f-a5c61e760627,way/296377728,StoneRidge Golf Club,,course,,,active,18,72,,,+1-651-436-4653,https://stoneridgegc.com/,,,13600 North Hudson Boulevard,Stillwater,MN,55082,US,44.9534695,-92.8296488,2026-10-11T15:12:10Z
 0caaee17-c6da-4f73-afca-67efdfb29a07,way/804703141,Oakwood Supper Club & Golf Course,,course,,,active,,,,,,,,,,,MN,,US,46.3237801,-95.5002752,2026-10-11T13:30:58Z
 0e192043-2cc2-45ed-b2e8-92607f45c4b0,relation/20146766,Theodore Wirth Golf Course,,course,,,active,,,,,,https://www.minneapolisparks.org/golf/courses/theodore_wirth_golf_club/,,,1301 Theodore Wirth Parkway,Minneapolis,MN,55422,US,44.9924572,-93.3254311,2026-10-11T15:06:54Z
-0e817f1f-c460-48c2-942c-3abc6fb59bec,relation/12935145,Whitebirch Golf Course,,course,,,active,,,,,,https://breezypointresort.com/whitebirch-brainerd-golf-course/,,,,,MN,,US,46.5923718,-94.2359254,2026-10-11T15:12:41Z
-0f8c449f-b164-43e0-948e-68b671553c48,relation/3469523,Prestwick Golf Club,,course,,,active,18,72,,,+1-651-731-4779,https://www.prestwick.com/,,,9555 Wedgewood Drive,Woodbury,MN,55125,US,44.8962242,-92.9118802,2026-10-11T13:31:22Z
+0e817f1f-c460-48c2-942c-3abc6fb59bec,relation/12935145,Whitebirch Golf Course,,course,,,active,18,72,,,,https://breezypointresort.com/whitebirch-brainerd-golf-course/,https://breezypointresort.com/whitebirch-brainerd-golf-course/,,,,MN,,US,46.5923718,-94.2359254,2026-11-26T08:37:35Z
+0f8c449f-b164-43e0-948e-68b671553c48,relation/3469523,Prestwick Golf Club,,course,,,active,18,72,,,+1-651-731-4779,https://www.prestwick.com/,https://www.prestwick.com/about-us/,,9555 Wedgewood Drive,Woodbury,MN,55125,US,44.8962242,-92.9118802,2026-11-27T05:38:19Z
 0fa333f6-9ee9-4e55-837d-241c875935d5,way/761304012,Pheasant Acres Golf Course,,course,,,active,18,71,,,,,,,10705 Fletcher Lane,Corcoran,MN,55374,US,45.1472663,-93.5479009,2026-10-11T15:12:21Z
 0feac811-08ad-4986-81a5-05a78bc45af4,way/1134538284,,,course,,,active,9,35,,,,,,,,,MN,,US,43.7094249,-91.9747066,2026-10-11T15:12:24Z
 10296bd1-25c9-4290-9d54-b6bde5640c90,way/143215316,Valleywood Golf Course,,course,,,active,18,72,,,,https://www.valleywoodgolf.com/,,,,,MN,,US,44.7715879,-93.1588551,2026-10-29T17:45:51Z
@@ -67,9 +67,9 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 26f3b949-dc2c-4221-9bf3-61d619ced32e,way/158299995,Ferndale Country Club,,course,,,active,,,,,,https://www.ferndalegolfcourse.com/,,,,,MN,,US,43.7843819,-91.721074,2026-10-30T00:56:56Z
 27dd4cb6-8995-470c-af97-e678e8421341,way/1456285287,,,course,,,active,18,72,,,,,,,,,MN,,US,45.3223467,-96.4505012,2026-10-11T15:12:29Z
 27ee43eb-b48e-4543-9e1d-f0c0181f8a79,way/1153920088,,,course,,,active,9,36,,,,,,,,,MN,,US,43.518089,-94.0841195,2026-10-11T15:12:27Z
-28077b7f-fed8-4472-8002-ca87851f8290,way/146993065,Pine Island Golf Course,,course,,,active,18,,,,+1-507-356-8252,https://www.pineislandgolf.com/,,,920 8th Street SE,,MN,55963,US,44.1992178,-92.6266955,2026-10-11T15:12:00Z
+28077b7f-fed8-4472-8002-ca87851f8290,way/146993065,Pine Island Golf Course,,course,,,active,18,71,,,+1-507-356-8252,https://www.pineislandgolf.com/,https://pineislandgolf.com/scorecard/,,920 8th Street SE,,MN,55963,US,44.1992178,-92.6266955,2026-11-27T05:38:14Z
 284db349-cd25-4c22-b087-da4c051a908a,way/704021650,,,course,,,active,18,64,,,,,,,,,MN,,US,46.7640755,-95.8835494,2026-10-11T15:06:33Z
-2942b07b-cc13-4303-843d-1722dd59becf,way/689944238,Rum River Hills Golf Club,,course,,,active,,,,,,https://www.rumriverhills.com/,,,,,MN,,US,45.2780743,-93.4127693,2026-10-11T15:06:33Z
+2942b07b-cc13-4303-843d-1722dd59becf,way/689944238,Rum River Hills Golf Club,,course,,,active,18,71,,,,https://www.rumriverhills.com/,https://www.rumriverhills.com/aboutus/scorecard/,,,,MN,,US,45.2780743,-93.4127693,2026-11-27T05:38:20Z
 2986e543-8951-4824-8d68-7924457099b1,way/584274253,Redwood Falls Golf Club,,course,,,active,,,,,,https://redwoodfallsgolf.com/,,,,,MN,,US,44.5491346,-95.1157578,2026-10-28T17:27:15Z
 2a1f16e4-bf33-4e84-a349-b962646d0e94,way/320064386,Water's Edge Golf Course,,course,,,active,9,,,,,,,,,,MN,,US,44.7481666,-93.5251269,2026-10-11T15:12:12Z
 2a402b65-b412-4c20-adab-a1c6f3e4449f,way/562758719,,,course,,,active,,,,,,,,,,,MN,,US,45.0074636,-96.2036032,2026-10-11T13:30:51Z
@@ -84,14 +84,14 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 2e9d4beb-6074-4d99-a5d9-931773d901dd,way/154253777,,,course,,,active,18,71,,,,,,,,,MN,,US,44.6875374,-93.3111032,2026-10-11T15:12:00Z
 2ed939d8-fe83-4ea3-8265-23c4143845bb,node/6516594242,Oneka Ridge Golf Course,,course,,,active,,,,,,https://onekaridgegc.com/,,,5610 120th Street North,White Bear Lake,MN,55110,US,45.1271291,-92.990285,2026-10-29T17:45:28Z
 2ffc19c7-8e8e-4fe5-84f0-dbed9d52bbb7,way/147599113,St. Charles Golf Club,,course,,,active,,,,,+1-507-932-5444,https://www.stcharlesgolfclub.com/,,,1920 Gladiola Drive,,MN,55972,US,43.9579252,-92.0462271,2026-10-11T15:12:00Z
-3030e4ca-7444-47d2-9603-e8b0bf8cd1d6,way/1387572439,Whispering Pines Golf Course,,course,,,active,,,,,,https://www.whisperingpinesgolf.com/,,,8713 70th Street Northwest,Annandale,MN,55302,US,45.2499715,-94.0718027,2026-10-11T13:31:14Z
+3030e4ca-7444-47d2-9603-e8b0bf8cd1d6,way/1387572439,Whispering Pines Golf Course,,course,,,active,18,71,,,,https://www.whisperingpinesgolf.com/,https://www.whisperingpinesgolf.com/scorecard/,,8713 70th Street Northwest,Annandale,MN,55302,US,45.2499715,-94.0718027,2026-11-26T08:37:36Z
 303604f2-7eb2-434a-b458-614b839fa8ba,way/908870688,,,par3,,,active,9,27,,,,,,,,,MN,,US,44.2365351,-95.8620222,2026-10-11T15:12:23Z
 313bc9dc-b971-4a98-a972-fc5c5f05653b,way/928691949,,,course,,,active,,,,,,,,,,,MN,,US,45.1771978,-93.2193677,2026-10-11T15:06:35Z
 31737a1b-15d2-40f6-b3ea-fefc73f2b704,relation/12483492,Valley View Golf Club,,course,,,active,,,,,,,,,,,MN,,US,44.6016669,-93.7546843,2026-10-11T15:12:41Z
 31d614dc-7e81-4b4e-872c-260d1b678db9,relation/13918701,Gem Lake Hills Golf Course,,course,,,active,18,57,,,,https://gemlakehillsgolf.com/,,,4039 Scheuneman Road,Gem Lake,MN,55110,US,45.064267,-93.0362445,2026-10-29T17:44:51Z
 31daad16-b622-4f88-96e9-e75a26cc4ba8,way/39394246,Highland National Golf Course,,course,,,active,18,73,,,,,,,,,MN,,US,44.9161306,-93.1619158,2026-10-11T15:11:51Z
 3377b8ff-77b6-4f93-9375-83260706d75a,way/765533675,Sundance Golf Banquet Bowl,,course,,,active,,,,,,,,,15240 113th Avenue North,Dayton,MN,55369,US,45.1610041,-93.4770582,2026-10-11T15:12:21Z
-338f2a20-5aa3-4644-912d-cde62a41a997,relation/12916174,Legends Golf Club,,course,,,active,18,72,,,,https://www.legendsgc.com/,,,8670 Credit River Boulevard,Prior Lake,MN,55372,US,44.6734468,-93.3487636,2026-10-11T15:12:41Z
+338f2a20-5aa3-4644-912d-cde62a41a997,relation/12916174,Legends Golf Club,,course,,,active,18,72,,,,https://www.legendsgc.com/,https://legendsgc.com/golf-overview/,,8670 Credit River Boulevard,Prior Lake,MN,55372,US,44.6734468,-93.3487636,2026-11-26T08:37:37Z
 3397538b-6273-426a-9db3-142894c821df,way/149967693,Maple Valley Golf & Country Club,,course,,,active,,,,,+1-507-285-9100,https://www.maplevalleygolf.com/,,,8600 Maple Valley Road SE,Rochester,MN,55904,US,43.8956928,-92.3774583,2026-10-11T15:12:00Z
 339b0370-570b-4c02-8195-ab954fc4876a,relation/19924486,Bent Creek Golf Club,,course,,,active,18,,,,,https://www.bentcreekgolfclub.com/,,,,,MN,,US,44.8741278,-93.4620964,2026-10-30T00:56:32Z
 33b13c07-da8e-4701-b3bd-a2d7f92128e6,way/120402158,Brookland Golf Park,,course,,,active,9,30,,,+1-763-488-6497,https://www.brooklandgolfpark.org/,,,8232 Regent Avenue North,Brooklyn Park,MN,55443,US,45.1037334,-93.3438256,2026-10-11T15:06:10Z
@@ -111,7 +111,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 3b5daf3f-c7b1-48dd-a0a5-f5706bdb601e,way/255218235,Green Haven Golf Course,,course,,,active,18,,,,,https://greenhavengolfcourse.com,,,,,MN,,US,45.2104404,-93.4016295,2026-10-11T15:12:05Z
 3b950202-5fa7-4621-911e-7a16c7c2c723,way/469515573,Fox Lake Golf Course,,course,,,active,,,,,,,,,,,MN,,US,43.6713072,-94.7173085,2026-10-11T15:12:17Z
 3c2856ce-c8de-4332-9e1a-704d995499b8,way/1040390809,Rush Creek Golf Club,,course,,,active,18,,,,,https://www.rushcreek.com/,,,,,MN,,US,45.0983564,-93.5223735,2026-10-29T17:36:34Z
-3c2e4bcb-768f-4aa2-be24-27a94e1fae35,relation/12280271,Crystal Lake Golf Club,,course,,,active,18,71,,,+1-952-432-6566,https://crystallakegolfcourse.com/,,,16725 Innsbrook Drive,Lakeville,MN,55044,US,44.7087619,-93.2507308,2026-10-11T15:12:41Z
+3c2e4bcb-768f-4aa2-be24-27a94e1fae35,relation/12280271,Crystal Lake Golf Club,,course,,,active,18,71,,,+1-952-432-6566,https://crystallakegolfcourse.com/,https://crystallakegolfcourse.com/scorecard/,,16725 Innsbrook Drive,Lakeville,MN,55044,US,44.7087619,-93.2507308,2026-11-27T05:38:21Z
 3c2efc94-28e0-4700-994d-fcaaadbd5624,way/124009749,Westfield Golf Club,,course,,,active,,,,,+1-507-452-6901,https://www.westfieldgolfclub.com/,,,1460 West 5th Street,Winona,MN,55987,US,44.0568435,-91.6768867,2026-10-11T15:11:57Z
 3ce5d43a-05fe-4523-8d10-ee9bdaa766bd,relation/17381216,Viking Meadows Golf Club,,course,,,active,,,,,+1-763-434-4205,https://www.vikingmeadows.com/,,,1788 Viking Boulevard NE,East Bethel,MN,55011,US,45.3118243,-93.2229624,2026-10-11T15:12:45Z
 3cf21bf5-d4ad-45a9-a74c-58d3aa936139,way/259004652,River Oaks Golf Club,,course,,,active,,,,,+1-507-433-9098,"http://www.rivergolf1.com/riveroaks/Course%20layout,%20leagues,%20scorecard.htm",,,54384 244th Street,,MN,55912,US,43.7119203,-92.9616386,2026-10-11T15:12:05Z
@@ -136,14 +136,14 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 465857e9-888a-4f7f-b1b8-b1de5fbd8b5b,way/1376569843,,,course,,,active,18,72,,,,,,,,,MN,,US,44.8637392,-93.7507483,2026-10-11T15:12:29Z
 4766b6b6-c084-466d-b7a9-05da17d0ae9c,way/460171350,Pokegama Golf Course,,course,,,active,18,72,,,+1 218 326 3444,https://www.pokegamagolf.com/,,,3910 Golf Course Road,Grand Rapids,MN,55744,US,47.2042005,-93.5726236,2026-10-11T15:12:17Z
 4808eda0-ed58-490d-8076-d997776fd516,way/1260733776,Vermillion Fairways,,course,,,active,,,,,,,,,,,MN,,US,47.8978353,-92.6636052,2026-10-11T13:31:12Z
-485a0c00-6674-4dac-811f-1e17eda517d5,way/769761764,Territory Golf Club,,course,,,active,18,72,,,+1-320-258-4653,https://www.territorygc.com/,,,488 55th Avenue Southeast,St. Cloud,MN,56304,US,45.5646943,-94.0400246,2026-10-11T15:12:21Z
+485a0c00-6674-4dac-811f-1e17eda517d5,way/769761764,Territory Golf Club,,course,,,active,18,72,,,+1-320-258-4653,https://www.territorygc.com/,https://www.territorygc.com/score-card/,,488 55th Avenue Southeast,St. Cloud,MN,56304,US,45.5646943,-94.0400246,2026-11-26T05:40:39Z
 488ce607-eaee-46ee-86d4-6eebb902c1b5,way/132778552,Wayzata Country Club,,course,,,active,18,72,,,+1-952-473-8846,http://wayzatacc.com,,,200 Wayzata Boulevard,Wayzata,MN,55391,US,44.9808778,-93.5311703,2026-10-11T15:11:57Z
 48b52138-9721-4429-8bdb-5d2827f568f2,way/1002685481,Castle Highlands Golf Course,,course,,,active,,,,,,https://golfcastles.com,,,13860 Gull Lake Loop Road Northeast,Bemidji,MN,56601,US,47.6080842,-94.7516037,2026-10-11T13:31:06Z
 48d06378-65c6-451e-9ddd-d7896d1faf02,way/356998390,Swan Lake Country Club,,course,,,active,,,,,,https://www.swanlakecc.com/,,,,,MN,,US,47.3291732,-93.2011604,2026-10-29T17:29:23Z
 49214e59-b7de-4a84-a3a1-8b08e4d25729,way/570526332,Forest Hills Golf Club,,course,,,active,18,72,,,,https://foresthillsgc.com/,,,,,MN,,US,45.2546478,-92.9504696,2026-10-29T17:44:30Z
 4a26c3d1-7e18-4995-bacb-0205a3e6ab63,way/220685227,Hidden Greens,,course,,,active,18,72,,,,https://www.hiddengreensgolf.com/,,,,,MN,,US,44.6595231,-92.8389274,2026-10-29T17:44:55Z
 4aa297a3-2382-47de-bb8e-e597c495d68d,way/1074580210,The Oaks Golf Club,,course,,,active,18,72,,,,,,,,,MN,,US,43.8814859,-92.9043981,2026-10-11T13:31:06Z
-4c56e5b1-2bd4-41cf-97f6-7957df33d3da,way/985405281,Blooming Prairie Country Club,,course,,,active,,,,,+1 507 583 2887,https://www.bpcountryclub.com/,,,7701 Southeast 118th Street,Blooming Prairie,MN,55917,US,43.9230876,-93.0774088,2026-10-11T15:12:24Z
+4c56e5b1-2bd4-41cf-97f6-7957df33d3da,way/985405281,Blooming Prairie Country Club,,course,,,active,18,70,,,+1 507 583 2887,https://www.bpcountryclub.com/,https://static1.squarespace.com/static/62683731ef46ac64010e1ab8/t/64c97cb4b54e1314dd8d9c3f/1690926261824/BPCC+Scorecard+2023.pdf,,7701 Southeast 118th Street,Blooming Prairie,MN,55917,US,43.9230876,-93.0774088,2026-11-27T05:38:15Z
 4c8183e6-99a1-45d7-ace3-4c52405af00a,way/668163728,Fosston Golf Club,,course,,,active,,,,,,,,,,,MN,,US,47.5901083,-95.780575,2026-10-11T15:12:20Z
 4d60d98b-ceb7-449c-bbcd-fc2935e53eed,way/491767050,Montgomery National Golf Club,,course,,,active,18,,,,,https://www.montgomerynationalgolf.com/,,,,,MN,,US,44.4535859,-93.5772836,2026-10-28T17:26:53Z
 4d6d758b-d86b-442b-b295-e9cc4076dfc1,relation/20312737,Windsong Farm Golf Club,,course,,,active,18,71,,,,,,,18 Golf Walk,Independence,MN,55359,US,44.9855961,-93.7397404,2026-10-11T15:12:45Z
@@ -151,7 +151,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 4df45a17-cd69-4482-b2db-e6b553c4928e,way/1229468439,B's On The  River,,course,,,active,,,,,,,,,,,MN,,US,44.9760619,-93.8297438,2026-10-11T15:12:27Z
 4ef2d4fc-6ded-425a-8c34-9a4e21b71d80,relation/14773731,Dellwood Country Club,,course,,,active,,,,,,https://www.dellwoodcountryclub.com/,,,,,MN,,US,45.102668,-92.9762523,2026-10-29T17:44:27Z
 4f18c650-e393-4503-a05f-edf268b85918,way/740417562,Oak Harbor Golf Course,,course,,,active,18,72,,,,,,,,,MN,,US,48.797585,-94.708057,2026-10-11T13:30:58Z
-50238459-f424-43f5-a12f-40e05f6f95ff,way/963006067,Deacon's Lodge,,course,,,active,18,72,,,,https://breezypointresort.com/deacons-lodge-golf-course/,,,,,MN,,US,46.6094892,-94.2054552,2026-10-11T15:12:23Z
+50238459-f424-43f5-a12f-40e05f6f95ff,way/963006067,Deacon's Lodge,,course,,,active,18,72,,,,https://breezypointresort.com/deacons-lodge-golf-course/,https://breezypointresort.com/wp-content/uploads/2025/05/breezy-point-deacons-lodge-scorecard.pdf,,,,MN,,US,46.6094892,-94.2054552,2026-11-26T05:40:43Z
 50abc0cf-3ff7-40a8-82cc-464c63e27443,relation/21096888,,,course,,,active,18,70,,,,,,,,,MN,,US,45.8800178,-93.2491056,2026-10-11T15:12:45Z
 518011a1-6e27-4647-a2a5-c9851cd01975,way/805559806,Farmers Golf & Health Club,,course,,,active,,,,,,,,,,,MN,,US,44.2117193,-95.1438075,2026-10-11T15:12:21Z
 51ba9fda-0469-49f4-8241-e5572b6698b9,way/819310371,Wolfridge Golf Course,,course,,,active,,,,,,,,,,,MN,,US,47.7317309,-92.7188374,2026-10-11T15:12:23Z
@@ -160,7 +160,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 5371af94-5dde-41ab-b7cf-3bf5ec5a09bd,way/468973887,Luverne Country Club,,course,,,active,9,36,,,,http://www.luvernecountryclub.com/,,,,,MN,,US,43.6440745,-96.1665714,2026-10-28T17:24:41Z
 537985ae-ac36-48b8-949e-60b102227063,way/149792052,,,course,,,active,18,71,,,,,,,,,MN,,US,44.1923826,-93.974004,2026-10-11T15:12:00Z
 537d17eb-2d0e-4766-86ac-36208d2d4091,way/142328137,Eastwood Golf Club,,course,,,active,,,,,,,,,,,MN,,US,44.0062583,-92.4062347,2026-10-11T15:12:00Z
-5385670b-f0c5-4e35-8c49-53c7dae31505,way/458210116,New Ulm Country Club,,course,,,active,18,71,,,+1-507-354-8896,https://www.golfnewulm.com/,,,1 Golf Drive,New Ulm,MN,56073,US,44.2903226,-94.458465,2026-10-11T15:12:17Z
+5385670b-f0c5-4e35-8c49-53c7dae31505,way/458210116,New Ulm Country Club,,course,,,active,18,71,,,+1-507-354-8896,https://www.golfnewulm.com/,https://www.golfnewulm.com/coursetour,,1 Golf Drive,New Ulm,MN,56073,US,44.2903226,-94.458465,2026-11-26T05:40:40Z
 53d9f2b9-5f2d-4364-98b8-ae2ca4c31ec3,way/971780099,,,course,,,active,,,,,,,,,,,MN,,US,46.9170321,-94.9814874,2026-10-11T15:12:24Z
 54c37f95-208a-4596-ad82-2e5db999dd73,way/55971130,Goodrich Golf Course,,course,,,active,18,70,,,,https://www.goodrichgc.com/,,,,,MN,,US,45.0000895,-93.0177538,2026-10-29T17:44:52Z
 55364a0d-3b8a-4b5e-850a-0a0c142d117e,way/592412087,Pathfinder Village Golf Course,,course,,,active,,,,,,https://www.pathfindervillage.net/,,,,,MN,,US,46.0058372,-92.6432899,2026-10-30T16:59:56Z
@@ -171,7 +171,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 58db9bac-d7f4-4dba-a0ac-701d96e4f55e,way/311341168,,,course,,,active,,,,,,,,,,,MN,,US,45.8612574,-95.133083,2026-10-11T15:12:12Z
 58e6915f-c5ae-4043-acb1-387bfe845dd4,way/123662161,Southview Country Club,,course,,,active,,,,,,https://www.southviewcc.com/,,,,,MN,,US,44.8857115,-93.0754228,2026-10-29T17:45:36Z
 59922fe2-a516-43b4-a75b-449a3bb6c4ff,way/1448302363,,,course,,,active,9,36,,,,,,,,,MN,,US,44.561573,-95.9737463,2026-10-11T15:06:40Z
-5a707033-b265-4061-833c-12a21ba0fc09,way/236505345,Red Wing Golf Club,,course,,,active,,,,,+1-651-388-9524,http://www.redwinggolfclub.com/,,,1311 West 6th Street,Red Wing,MN,55066,US,44.5542503,-92.5449055,2026-10-11T13:30:07Z
+5a707033-b265-4061-833c-12a21ba0fc09,way/236505345,Red Wing Golf Club,,course,,,active,18,71,,,+1-651-388-9524,http://www.redwinggolfclub.com/,https://www.redwinggolfcourse.com/scorecard,,1311 West 6th Street,Red Wing,MN,55066,US,44.5542503,-92.5449055,2026-11-27T05:38:16Z
 5b5d226c-c8a4-4957-9a32-c7f7830b8047,way/1538497173,,,course,,,active,,,,,,,,,,,MN,,US,45.8028897,-92.9854157,2026-10-11T15:06:41Z
 5c215214-4068-46bb-a1da-1245f80a10db,way/866752733,Golden Eagle Golf Club,,course,,,active,,,,,,,,,,,MN,,US,46.7583238,-94.0643759,2026-10-11T15:12:23Z
 5c64dc72-41a0-43a7-8073-53b588d215fa,way/1157579103,,,course,,,active,9,36,,,,,,,,,MN,,US,43.8874002,-95.1556489,2026-10-11T15:12:27Z
@@ -180,7 +180,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 60abc0a2-02a9-4927-a3c6-cc1fc5b4f42d,way/56434764,Virginia Golf Course,,course,,,active,18,71,,,+1-218-748-7530,https://www.virginiamn.us/department/golf_course/index.php,,,1308 18th Street North,Virginia,MN,55792,US,47.5349391,-92.5536063,2026-10-11T15:11:55Z
 61c7fb16-6c96-4706-801b-8a79058f7e20,way/48579445,Northland Country Club,,course,,,active,18,69,,,,https://www.northlandcountryclub.com/,,,,,MN,,US,46.8301413,-92.0497366,2026-10-29T17:28:39Z
 63155601-6195-4185-8131-70c4dadc86e7,way/781375103,Tipsinah Mounds,,course,,,active,18,70,,,,https://tipsinahgolf.com/,,,,,MN,,US,46.0031922,-95.87531,2026-10-28T17:27:35Z
-6402b3b8-8a5c-40da-883c-763fd3579c21,way/460182705,Cloquet Country Club,,course,,,active,18,71,,,+1 218 879 7997,https://cloquetcc.com/,,,400 Country Club Drive,Cloquet,MN,55720,US,46.7235802,-92.4824517,2026-10-11T15:12:17Z
+6402b3b8-8a5c-40da-883c-763fd3579c21,way/460182705,Cloquet Country Club,,course,,,active,18,71,,,+1 218 879 7997,https://cloquetcc.com/,https://cloquetcc.com/course-details,,400 Country Club Drive,Cloquet,MN,55720,US,46.7235802,-92.4824517,2026-11-26T05:40:44Z
 65164583-34ee-487b-b53b-d3e707517647,way/163982855,,,course,,,active,,,,,,,,,,,MN,,US,44.4519671,-94.7316297,2026-10-11T15:12:01Z
 65b5b629-ad5b-4e2f-9b15-b38be6d79fec,way/336409475,Fountain Valley Golf Course,,course,,,active,18,,,,,,,,2830 220th Street West,Farmington,MN,55024,US,44.6269652,-93.1215428,2026-10-11T15:12:14Z
 66283513-cf59-4780-8be7-146c14d76239,way/38452498,Cedarholm Golf Course,,course,,,active,,,,,,,,,,,MN,,US,45.0119268,-93.1591661,2026-10-11T15:11:51Z
@@ -211,7 +211,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 6ed4bc57-fe54-4987-b65b-a4910656ba50,relation/19235089,,,course,,,active,,,,,,,,,,,MN,,US,45.2500664,-94.1451024,2026-10-11T15:12:45Z
 6eef10d0-5652-410e-8d96-2d72f38db2c5,way/1369337566,,,course,,,active,,,,,,,,,,,MN,,US,45.0750851,-94.0555045,2026-10-11T15:12:29Z
 6f3d8c5b-96c8-4cba-94ef-2e708d9898aa,way/491030579,Heritage Links Golf Club,,course,,,active,,,,,,https://www.heritagelinks.com/,,,,,MN,,US,44.6336769,-93.3569936,2026-10-11T13:30:48Z
-7013c5ca-2953-4276-b20f-d3d5606ecf0d,relation/4084782,Edinburgh USA,,course,,,active,18,72,,,+1-763-315-8550,https://www.edinburghusa.com/,,,8700 Edinbrook Crossing,Brooklyn Park,MN,55443,US,45.1156326,-93.3242802,2026-10-11T13:31:27Z
+7013c5ca-2953-4276-b20f-d3d5606ecf0d,relation/4084782,Edinburgh USA,,course,,,active,18,72,,,+1-763-315-8550,https://www.edinburghusa.com/,https://www.edinburghusa.com/course/,,8700 Edinbrook Crossing,Brooklyn Park,MN,55443,US,45.1156326,-93.3242802,2026-11-26T08:37:38Z
 703ea974-ebd1-43c0-acc0-acfd7e1dcf71,relation/12935146,The Traditional,,course,,,active,,,,,,https://breezypointresort.com/traditional-golf-course-brainerd/,,,,,MN,,US,46.5883071,-94.2215753,2026-10-11T15:12:41Z
 706cde49-a8dd-4978-bb09-922f44c87e38,way/442097372,Arbor Pointe Golf Club,,course,,,active,,,,,+1-651-451-9678,https://www.arborpointegolf.com/,,,8919 Cahill Avenue,Inver Grove Heights,MN,55076,US,44.8218519,-93.044179,2026-10-11T15:12:15Z
 70867eb2-cba5-4901-a61f-af075f1b41b6,way/273638782,Long Prairie Country Club,,course,,,active,,,,,+1-320-732-3312,https://www.longprairiecountryclub.com/,,,406 6th Street SE,Long Prairie,MN,56347,US,45.9655213,-94.8502619,2026-10-11T15:12:07Z
@@ -250,7 +250,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 81cbdf10-2195-4845-97ba-0b7603b5275d,relation/12796462,Wildflower GC,,course,,,active,,,,,,https://wildflowergolfcourse.com/,,,19790 Co Hwy 20,Detroit Lakes,MN,56501,US,46.7191747,-95.9955719,2026-10-11T15:12:41Z
 82b40490-9ee9-46f4-9d25-0a97aca221b9,relation/17480009,Spring Hill Golf Club,,course,,private,active,18,72,,,,https://springhillgc.com/,,,725 Sixth Avenue North,,MN,,US,44.9976339,-93.5431313,2026-10-11T15:12:45Z
 840c13c5-5dba-4158-9bad-a57c43db0005,relation/3227780,Chaska Town Course,,course,,,active,18,,,,,https://www.chaskatowncourse.com/,,,,,MN,,US,44.8295091,-93.6303084,2026-10-29T17:32:35Z
-85066a05-78ad-4169-9986-8412c09f15fa,way/178310986,Oak Marsh Golf Course,,course,,,active,18,70,,,+1-651-730-8886,https://www.oakmarshgolf.com/,,,526 Inwood Avenue North,Oakdale,MN,55128,US,44.9567678,-92.9432166,2026-10-11T15:12:01Z
+85066a05-78ad-4169-9986-8412c09f15fa,way/178310986,Oak Marsh Golf Course,,course,,,active,18,70,,,+1-651-730-8886,https://www.oakmarshgolf.com/,https://www.oakmarshgolf.com/the-course/scorecard/,,526 Inwood Avenue North,Oakdale,MN,55128,US,44.9567678,-92.9432166,2026-11-27T05:38:22Z
 8629fa64-3d81-467f-9211-73d9cb0d939e,way/807580095,Albion Ridges Golf Course,,course,,,active,,,,,,https://www.albionridgesgc.com/,,,,,MN,,US,45.1829489,-94.0477498,2026-10-29T17:31:57Z
 863e5226-deda-49c1-a736-74493c6caf82,way/208261618,Proctor Golf Club and Course,,course,,,active,,,,,,https://proctorgolfcourse.com/,,,,,MN,,US,46.7397093,-92.2243039,2026-10-29T17:29:04Z
 86a3d2e2-13ff-4474-8aec-971745d35094,way/734596224,Coffee Mill Country Club,,course,,,active,,,,,,https://coffeemillgolf.com/,,,,,MN,,US,44.3552066,-92.0420163,2026-10-29T17:41:07Z
@@ -281,12 +281,12 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 96cc3443-8a06-46d3-bfe3-342a7c253943,way/1482367249,Eagle Lake - Birdie Course,,par3,,,active,9,27,,,,,,,,,MN,,US,45.0597226,-93.4169603,2026-10-11T15:12:29Z
 975a4571-edd5-4dbe-a41b-eb73e649fcfa,way/921431307,Bentwood Golf Course,,course,,,active,,,,,,,,,,,MN,,US,47.6124061,-96.8204022,2026-10-11T15:12:23Z
 97ec434c-3489-4217-b124-ef2e3e6e2e2a,way/1141839605,Brookside resort,,par3,,,active,9,27,,,,https://www.brookside-resort.com/,,,,,MN,,US,47.0347773,-95.1897793,2026-10-29T17:38:27Z
-980c7839-e981-442a-8ed9-975c992a9eff,way/320696223,Glencoe Country Club,,course,,,active,,,,,+1- 320-864-3023,https://glencoecountryclub.com/,,,,,MN,,US,44.7637112,-94.1406686,2026-10-11T13:30:33Z
+980c7839-e981-442a-8ed9-975c992a9eff,way/320696223,Glencoe Country Club,,course,,,active,18,71,,,+1- 320-864-3023,https://glencoecountryclub.com/,https://glencoecountryclub.com/scorecard/,,,,MN,,US,44.7637112,-94.1406686,2026-11-26T05:40:41Z
 988eadbc-48f2-40a8-9dde-9d8240f3bafb,way/543736522,Ridgeview Country Club,,course,,,active,,,,,,https://www.ridgeviewcountryclub.com/,,,700 W Redwing St,Duluth,MN,55803,US,46.8478096,-92.1057988,2026-10-29T17:29:05Z
 98b5e140-0e17-4eed-a746-35e6185bade2,way/325511395,,,course,,,active,18,71,,,,,,,,,MN,,US,45.5577324,-93.572676,2026-10-11T15:12:12Z
 98cd1eea-e46a-4ce8-b88d-8a980b08035a,way/239526144,,,course,,,active,,,,,,,,,,,MN,,US,47.4336878,-92.9307889,2026-10-11T15:12:03Z
 98d5ea97-9a31-4aa3-abb0-db878de430f5,relation/7873853,Alexandria Golf Club,,course,,,active,,,,,+1-320-763-3605,https://alexandriagolfclub.com/,,,2300 N Nokomis NE,Alexandria,MN,56308,US,45.9178384,-95.3751989,2026-10-28T17:24:00Z
-99b47f49-4443-4932-877c-4881ebaaa5bf,relation/20344653,Oak Glen Golf Course,,course,,,active,,,,,+1-651-439-6981,https://www.oakglengolf.com/,,,1599 McKusick Road North,Stillwater,MN,55082,US,45.0701598,-92.8339803,2026-10-11T15:12:45Z
+99b47f49-4443-4932-877c-4881ebaaa5bf,relation/20344653,Oak Glen Golf Course,,course,,,active,18,72,,,+1-651-439-6981,https://www.oakglengolf.com/,https://oakglengolf.com/championship-course/scorecard/,,1599 McKusick Road North,Stillwater,MN,55082,US,45.0701598,-92.8339803,2026-11-27T05:38:23Z
 9a0a03a4-f15c-4424-b57c-7988139d33cf,way/161134706,IBM Disc Golf Course,,disc,,,active,,,,,,https://www.dgcoursereview.com/course.php?id=655,,,,,MN,,US,44.0549652,-92.4997815,2026-10-11T15:12:01Z
 9ab60df5-d1ac-4da1-b679-50d2eb18edd0,way/944863290,,,course,,,active,,,,,,,,,,,MN,,US,46.4895307,-94.4532047,2026-10-11T15:12:23Z
 9aba2594-a625-4319-9936-d23a11acdfbd,way/532953313,Valley High Golf Course,,course,,,active,,,,,,,,,,,MN,,US,43.7587692,-91.4264941,2026-10-11T15:12:18Z
@@ -294,7 +294,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 9b1737fb-e0a6-4eed-9a85-50f5dae2321c,way/198340121,Majestic Oaks Golf Club,,course,,,active,,,,,+1-763-755-2140,https://www.majesticoaksgolfclub.com,,,701 Bunker Lake Boulevard Northeast,Ham Lake,MN,55304,US,45.2206816,-93.2494181,2026-10-11T15:06:16Z
 9b542ecd-c4f5-412c-b5f9-145273e27486,way/813674536,Kimball Golf Club,,course,,,active,18,,,,,https://www.kimballgolfclub.com/,,,,,MN,,US,45.2957516,-94.297032,2026-10-28T17:24:35Z
 9baacc3c-887c-42b7-b65d-01b33753a820,way/131704977,Blackduck Municipal Golf Course,,course,,,active,,,,,+1-218-835-7757,https://blackduckgolf.com/,,,20857 Blackduck Lake Rd NE,Blackduck,MN,56630,US,47.7332397,-94.5826152,2026-10-29T17:38:22Z
-9bd3fda6-34b9-43db-a969-2e1743a83507,way/106940629,Monticello Country Club,,course,,,active,18,,,,+1 763 295 4653,https://montigolf.com/,,,,,MN,,US,45.3102866,-93.8188971,2026-10-11T15:11:57Z
+9bd3fda6-34b9-43db-a969-2e1743a83507,way/106940629,Monticello Country Club,,course,,,active,18,71,,,+1 763 295 4653,https://montigolf.com/,https://montigolf.com/scorecard/,,,,MN,,US,45.3102866,-93.8188971,2026-11-26T08:37:38Z
 9bdee498-06af-4bfa-b7b6-3c55b52dcaaa,way/805626527,Fulda Town and Country Golf,,course,,,active,9,,,,,https://www.fuldatownandcountrygolf.com/,,,,,MN,,US,43.8751919,-95.5872391,2026-10-28T17:24:30Z
 9c00da4f-a8bb-4375-a51f-d9fcd9cad76f,way/762730452,,,course,,,active,,,,,,,,,,,MN,,US,45.3074144,-93.8143738,2026-10-11T15:12:21Z
 9e3dc640-2b35-43cd-947a-bf7008e19d8c,way/1482367255,Rush Creek Golf Club - Mac 9,,par3,,,active,9,27,,,,https://www.rushcreek.com/,,,,,MN,,US,45.0995398,-93.5135873,2026-10-29T17:36:35Z
@@ -322,10 +322,10 @@ a8443b16-c22f-469e-a1db-caf0413da261,way/1564571705,mississippi national golf li
 a84e29cf-2c37-4249-90b3-988683cdc47f,way/476312796,,,course,,,active,,,,,,,,,,,MN,,US,43.5151003,-93.4746181,2026-10-11T13:30:48Z
 a9180fdf-51a9-410b-8bb3-417b6c646101,way/132629200,Sandtrap Golf Course,,course,,,active,,,,,,https://www.sandtrapgolfmn.com/,,,,,MN,,US,47.3740525,-94.6256847,2026-10-29T17:29:09Z
 a926216b-dead-4126-99ae-309290ee25ed,way/805504208,Grandy Nine Golf & Camp,,course,,,active,,,,,,,,,,,MN,,US,45.6250474,-93.2425954,2026-10-11T15:12:21Z
-a9297ace-27cc-4287-80f4-f6877eb59598,way/590544250,Litchfield Golf Club,,course,,,active,,,,,+1 320 693 6059,https://www.litchfieldgolfcourse.com/,,,405 West Pleasure Drive,Litchfield,MN,55355,US,45.1177915,-94.537964,2026-10-11T15:12:20Z
+a9297ace-27cc-4287-80f4-f6877eb59598,way/590544250,Litchfield Golf Club,,course,,,active,18,70,,,+1 320 693 6059,https://www.litchfieldgolfcourse.com/,https://www.litchfieldgolfcourse.com/golf-course,,405 West Pleasure Drive,Litchfield,MN,55355,US,45.1177915,-94.537964,2026-11-26T05:40:41Z
 aa6289cd-3e4a-40b9-88ae-fe511ea395b0,way/556084252,Interlaken Golf Club,,course,,,active,,,,,,https://interlakengolf.com/,,,259 Lake Aries Road,Fairmont,MN,56031,US,43.599693,-94.4681691,2026-10-28T17:24:33Z
 aad20ee6-50c9-4767-b7b0-95187989fc26,way/296331946,Valley Golf Course,,course,,,active,9,35,,,+1-218-773-1207,https://www.valleygolfegf.com/,,,2407 River Road Northwest,East Grand Forks,MN,56271,US,47.9506346,-97.0440377,2026-10-11T15:12:10Z
-ab0876da-d0c5-4a90-b4ab-b3edd8b91410,way/111780595,Faribault Golf Club,,course,,,active,18,72,,,,https://www.faribaultgolf.com/,,,,,MN,,US,44.3125469,-93.2978629,2026-10-11T15:11:57Z
+ab0876da-d0c5-4a90-b4ab-b3edd8b91410,way/111780595,Faribault Golf Club,,course,,,active,18,72,,,,https://www.faribaultgolf.com/,https://www.faribaultgolf.com/course/,,,,MN,,US,44.3125469,-93.2978629,2026-11-27T05:38:16Z
 ab2c415d-35f2-418d-b7f2-1cf22c7e252b,way/43327353,Edina Country Club,,course,,,active,,,,,,https://edinacountryclub.org/,,,,,MN,,US,44.9085388,-93.3444382,2026-10-30T00:56:37Z
 abef331c-9cbe-4407-b650-0c7738141475,way/583967064,Stones Throw Golf Course,,course,,,active,,,,,,https://stonesthrowgolf.com/,,,,,MN,,US,45.7706557,-93.6577278,2026-10-29T17:29:16Z
 ae6dfffe-cdaf-4628-9707-f3121e843bb0,way/1042450840,,,course,,,active,,,,,,,,,,,MN,,US,45.0229834,-95.2329929,2026-10-11T15:12:24Z
@@ -335,7 +335,7 @@ b0a1fb4d-6238-4744-8bf1-3f308621b7fa,way/256204548,Hawley Golf and Country Club,
 b0bb6dc0-b903-4f7b-9004-9e5ec360c6a5,way/974432437,Headwaters Golf Club,,course,,public,active,18,72,,,+1 218-732-4832,https://www.headwaters.golf/,,,,,MN,,US,46.9524819,-95.041008,2026-10-11T15:06:36Z
 b11314f0-f752-4cdc-b097-8667dfb00f86,relation/12586575,Sugarbrooke Golf Course,,course,,,active,18,71,,,,,,,,,MN,,US,47.1678538,-93.6471736,2026-10-11T15:12:41Z
 b2046aa7-e34d-4cfd-b6bd-4fb97295d2f7,way/576854921,The Wilderness at Fortune Bay,,course,,,active,18,,,,,,,,,,MN,,US,47.8201221,-92.3479109,2026-10-11T13:30:51Z
-b21108a9-c5f5-4e34-b861-1a5666b0f5be,way/590548460,Old Course Sauk Centre,,course,,,active,,,,,+1 320 238 8001,http://www.saukgolf.com/,,,606 Lake Shore Drive,Sauk Centre,MN,56378,US,45.7516296,-94.9557422,2026-10-11T13:30:54Z
+b21108a9-c5f5-4e34-b861-1a5666b0f5be,way/590548460,Old Course Sauk Centre,,course,,,active,18,65,,,+1 320 238 8001,http://www.saukgolf.com/,https://www.saukgolf.com/course/,,606 Lake Shore Drive,Sauk Centre,MN,56378,US,45.7516296,-94.9557422,2026-11-26T05:40:42Z
 b2313272-d92d-4d71-8e13-c363956e1c98,relation/10121818,Deer Run Golf Club,,course,,,active,18,71,,,,https://www.deerrungolf.com/,,,,,MN,,US,44.8470016,-93.6629035,2026-10-29T17:32:44Z
 b28b099f-849f-495d-9200-9737c02727e5,way/600885311,Kenyon Country Club,,course,,,active,,,,,+1 507 789 6307,https://www.kenyoncountryclub.com/,,,46000 State Highway 56,Kenyon,MN,55946,US,44.2816482,-92.9744822,2026-10-29T17:42:02Z
 b444bd00-8c0d-4521-83b3-a9d4cfbaef8f,way/1383828811,Lancaster Riverside Golf Club,,course,,,active,,,,,,,,,,,MN,,US,48.8694607,-96.793223,2026-10-11T15:12:29Z
@@ -353,7 +353,7 @@ bad9c6b4-6c72-4e94-a05d-3ac19f197784,way/1552117122,Big Lake Golf Resort,,course
 bb1fc1a9-b9d9-4255-a199-3632e59493da,way/151555137,Willow Creek Country Club,,course,,,active,,,,,,https://www.willowcreekgolfmn.com/,,,,,MN,,US,43.9479612,-92.4859182,2026-10-29T17:43:47Z
 bbe2c156-9a4c-4eda-8949-1b4587b9325e,way/406994612,Victory Links Golf Course,,course,,,active,18,,,,,https://victorylinks.nscsports.org/,,,,,MN,,US,45.1535469,-93.2210372,2026-10-29T17:45:53Z
 bc7a9fbe-6076-4b51-a99c-f269f797acb6,way/171477289,,,course,,,active,,,,,,,,,,,MN,,US,46.7222249,-94.4243105,2026-10-11T15:12:01Z
-bc966704-60e6-4ce7-a0a1-3d5efe83c655,way/331313065,Valley Golf Course,,course,,,active,9,35,,,+1-320-235-6790,https://www.valleygolfwillmar.com/,,,1900 Becker Avenue SE,Willmar,MN,56201,US,45.1184576,-95.0154372,2026-10-11T15:06:24Z
+bc966704-60e6-4ce7-a0a1-3d5efe83c655,way/331313065,Valley Golf Course,,course,,,active,9,35,,,+1-320-235-6790,https://www.valleygolfwillmar.com/,https://valleygolfwillmar.com/course-info/,,1900 Becker Avenue SE,Willmar,MN,56201,US,45.1184576,-95.0154372,2026-11-26T05:40:43Z
 bd67665d-7118-4480-b5a7-c5a8a62a3005,way/242402746,,,course,,,active,18,70,,,,,,,,,MN,,US,44.9877492,-93.0608274,2026-10-11T15:12:05Z
 bdb95041-bf01-4586-87e9-1528ae45388e,way/583002620,Twin Pines Golf Course,,course,,,active,,,,,+1 218 694 2454,https://www.bagleymn.us/twinpinesgolfcourse,,,531 7th Street Northeast,Bagley,MN,56621,US,47.5300297,-95.3893197,2026-10-11T15:12:20Z
 be204894-4f57-477c-9200-1dba30ef2c00,way/242307204,Adrian Country Club,,course,,,active,18,72,,,,http://www.adriancountryclub.com/,,,,,MN,,US,43.626303,-95.9384043,2026-10-11T13:30:12Z
@@ -391,9 +391,9 @@ d2969360-6ddf-4785-9921-687dc9e273eb,way/268196024,Root River Country Club,,cour
 d3585f02-65b6-408d-ab65-892d5642b873,way/322158907,Wild Marsh Golf Club,,course,,,active,18,71,,,,https://www.wildmarsh.com/,,,,,MN,,US,45.1480595,-93.8801501,2026-10-11T15:06:24Z
 d47bf901-ddd5-421f-b415-fa20be77723f,way/571131591,Lakeside Country Club,,course,,,active,,,,,,,,,,,MN,,US,44.0985644,-93.4832421,2026-10-11T15:12:18Z
 d4c4bfeb-d978-49d5-8934-00f839a71c0d,way/235260997,Straight River Golf Course,,course,,,active,,,,,,http://www.straightrivergc.com/,,,,,MN,,US,44.2486238,-93.2364321,2026-10-11T15:12:03Z
-d4c7bbde-484e-4256-afe4-d239bd739fa9,way/296377726,River Oaks Golf Course,,course,,,active,18,71,,,+1-651-438-2121,https://www.riveroaksmunigolf.com/,,,11099 South Highway 61,Cottage Grove,MN,55016,US,44.7901892,-92.8911478,2026-10-11T13:30:27Z
+d4c7bbde-484e-4256-afe4-d239bd739fa9,way/296377726,River Oaks Golf Course,,course,,,active,18,71,,,+1-651-438-2121,https://www.riveroaksmunigolf.com/,https://riveroaksmunigolf.com/the-course/,,11099 South Highway 61,Cottage Grove,MN,55016,US,44.7901892,-92.8911478,2026-11-27T05:38:23Z
 d500a51d-96d1-4885-a84b-dd0c24983dc9,way/57388890,Hyland Greens Golf Course,,course,,,active,9,28,,,,,,,,,MN,,US,44.820939,-93.354469,2026-10-11T15:11:55Z
-d65bbdc8-dfe3-4751-ba09-54eed5d37271,way/749328505,Daytona Golf Course,,course,,,active,18,72,,,+1-763-427-6110,https://www.daytonagolfclub.com,,,14730 Lawndale Lane North,Dayton,MN,55327,US,45.2190212,-93.4978249,2026-10-11T13:30:58Z
+d65bbdc8-dfe3-4751-ba09-54eed5d37271,way/749328505,Daytona Golf Course,,course,,,active,18,72,,,+1-763-427-6110,https://www.daytonagolfclub.com,https://www.daytonagolfclub.com/golf,,14730 Lawndale Lane North,Dayton,MN,55327,US,45.2190212,-93.4978249,2026-11-26T08:37:39Z
 d70ab563-cf15-4d56-bb98-bfe6e02240c6,relation/12032463,Terrace View Golf Course,,course,,,active,,,,,,,,,,,MN,,US,44.1036387,-93.9597131,2026-10-11T15:12:41Z
 d9d11e50-e3c6-4088-bbde-09186f097295,way/178805835,,,course,,,active,18,70,,,,,,,,,MN,,US,43.7101751,-92.0383014,2026-10-11T15:12:01Z
 d9ff0e5e-fc3f-45b4-8d12-539fccf03e3f,way/804702387,Red Rock Golf Course,,course,,,active,9,36,,,,,,,,,MN,,US,45.8433507,-95.7343905,2026-10-11T15:12:21Z
@@ -404,7 +404,7 @@ dcfcc723-9f06-447c-a823-df6eb74487af,way/959182082,Lida Greens,,course,,,active,
 dd63cbd3-e842-4f11-8500-947caffe91c7,way/928691954,,,course,,,active,,,,,,,,,,,MN,,US,45.1733473,-93.2105824,2026-10-11T15:12:23Z
 dd940a2c-8f46-4943-8a9e-510a5a28cd1f,way/704021649,Detroit Country Club,,course,,,active,18,71,,,,https://detroitcountryclub.com/,,,,,MN,,US,46.7578597,-95.8865945,2026-10-29T17:38:28Z
 dda1957f-346b-4894-afa7-7a7d0c8ba0c4,node/11215302363,Sota Sims Golf,,course,,,active,,,,,+1-952-905-1966,,,,23740 Minnesota State Highway 7,Shorewood,MN,55331,US,44.8934326,-93.5807667,2026-10-11T13:29:32Z
-de249816-ecb8-4321-a741-44f396c54191,way/296377718,Applewood Hills Golf Course,,course,,,active,18,62,,,+1-651-439-7276,https://www.applewoodhillsgolf.com/,,,11840 60th Street North,Stillwater,MN,55082,US,45.0398454,-92.8682378,2026-10-11T13:30:27Z
+de249816-ecb8-4321-a741-44f396c54191,way/296377718,Applewood Hills Golf Course,,course,,,active,18,62,,,+1-651-439-7276,https://www.applewoodhillsgolf.com/,https://applewoodhillsgolf.com/scorecard/,,11840 60th Street North,Stillwater,MN,55082,US,45.0398454,-92.8682378,2026-11-27T05:38:24Z
 df748419-0e94-4837-8df1-ccf1222bbe5c,way/615634118,Mahnomen County Country Club,,course,,,active,,,,,,,,,,,MN,,US,47.3163955,-95.939885,2026-10-11T15:12:20Z
 e0440943-285b-4608-9479-243442a94465,way/423001952,Lewiston Golf & Country Club,,course,,,active,,,,,,,,,,,MN,,US,43.9806072,-91.8789412,2026-10-11T15:06:28Z
 e04cda33-d6f3-450d-991f-4ed672c46244,relation/2094157,Como Park Golf Course,,course,,,active,18,,,,,,,,,,MN,,US,44.9846749,-93.1491509,2026-10-11T15:12:30Z
@@ -426,7 +426,7 @@ e783bc61-b2c2-4076-bff0-0929b913aec5,way/23441306,Enger Park Golf Course,,course
 e7a74049-a29c-4e6d-bb0b-8b9716371c92,way/234946669,Ma Cal Grove Country Club,,course,,,active,,,,,,https://macalgrove.com/,,,,,MN,,US,43.6162808,-91.5015432,2026-10-29T17:42:17Z
 e7b7b923-dac5-4007-a481-9dc6d85e9064,way/727594992,Stephen Golf Course,,course,,,active,,,,,,,,,,,MN,,US,48.4479433,-96.8842167,2026-10-11T13:30:58Z
 e7cd6032-3434-4af7-aed2-d65c516a481f,relation/16135348,TPC Twin Cities,,course,,,active,,,,,,,,,11444 Tournament Players Parkway,Blaine,MN,55449,US,45.1750037,-93.2135101,2026-10-11T15:12:43Z
-e7e68f8a-d0ea-436f-8173-2cd3060268c0,way/296377725,Mount Frontenac Golf Course,,course,,,active,,,,,+1-800-488-5826,https://mountfrontenac.com/,,,32420 Ski Road,Frontenac,MN,55026,US,44.5105411,-92.3934171,2026-10-11T15:12:10Z
+e7e68f8a-d0ea-436f-8173-2cd3060268c0,way/296377725,Mount Frontenac Golf Course,,course,,,active,18,71,,,+1-800-488-5826,https://mountfrontenac.com/,https://mountfrontenac.com/course-info/,,32420 Ski Road,Frontenac,MN,55026,US,44.5105411,-92.3934171,2026-11-27T05:38:17Z
 e8089f15-93f2-45cd-b35f-c0641cf56b11,way/296377723,Loggers Trail Golf Course,,course,,,active,,,,,+1-651-439-7862,https://www.loggerstrail.com/,,,11950 80th Street North,Stillwater,MN,55082,US,45.0667435,-92.8710433,2026-10-11T15:12:10Z
 e82bff1f-6210-45e1-a35a-e80c75c995df,way/252840746,Green Lea Golf Course,,course,,,active,18,,,,,https://www.greenlea.com/,,,,,MN,,US,43.6684395,-93.3679426,2026-10-29T17:41:17Z
 e8306ccb-fa36-40e6-bf59-f8791f3dcfbc,way/870851795,,,course,,,active,,,,,,,,,,,MN,,US,43.6066254,-94.4661171,2026-10-11T15:12:23Z
@@ -444,13 +444,13 @@ f222c191-586f-4168-865f-e4ebc9fba2b6,way/1552405678,,,course,,,active,,,,,,,,,,,
 f2d3794e-6bd1-434c-8d72-94909f9e1f13,way/454598728,Putting Green Mini Golf,,mini,,,active,,,,,,,,,,,MN,,US,44.2963271,-94.4355953,2026-10-11T15:12:17Z
 f2ebf655-87cd-4ed6-9f9b-8d056ccc038b,way/148771677,Cannon Golf Club,,course,,,active,,,,,,https://www.cannongolfclub.com/,,,,,MN,,US,44.5168658,-92.9313022,2026-10-30T00:57:00Z
 f3896f6b-dd10-47f1-8471-4a252cfb6b45,relation/6157551,,,course,,,active,,,,,,,,,,,MN,,US,44.4928934,-92.9490735,2026-10-11T15:12:36Z
-f3a71a80-9249-4897-ab6d-de23333c2f26,relation/9820870,Pebble Creek Golf Course,,course,,,active,18,72,,,,https://pebblecreekgolf.com/,,,14000 Club House Lane,Becker,MN,55308,US,45.4082779,-93.8696719,2026-10-11T15:12:38Z
+f3a71a80-9249-4897-ab6d-de23333c2f26,relation/9820870,Pebble Creek Golf Course,,course,,,active,18,72,,,,https://pebblecreekgolf.com/,https://www.pebblecreekgolf.com/golf/scorecard,,14000 Club House Lane,Becker,MN,55308,US,45.4082779,-93.8696719,2026-11-27T05:38:25Z
 f3d96873-cd8a-4c9f-ae34-617dad38d68f,way/307772540,Wells Golf Course,,course,,,active,,,,,,,,,,,MN,,US,43.7367565,-93.7240036,2026-10-11T15:12:12Z
 f49a8da8-ed19-4b26-b2e7-95d79e3b0bbc,way/488936990,Esquagama Golf Course,,course,,,active,,,,,,,,,6469 White Pine Lane,Gilbert,MN,55741,US,47.4575766,-92.3737913,2026-10-11T15:06:29Z
 f4f9a384-e4e6-4466-b7be-80694c45a165,way/592412089,Pathfinder Village Golf Course,,course,,,active,,,,,,https://www.pathfindervillage.net/,,,,,MN,,US,46.0022653,-92.6471185,2026-10-29T17:28:48Z
 f5173f52-d794-4ed6-b8b9-897017998ade,way/1123456706,Eagle's Landing Golf Club and Grill,,course,,,active,18,71,,,,https://eagleslanding-golf.com/,,,,,MN,,US,46.1393223,-94.3431564,2026-10-29T17:27:21Z
 f56da155-f02a-4574-a160-390a2c023996,node/6499058795,Hawley Golf Club,,course,,,active,,,,,,https://hawleygolf.com/,,,,,MN,,US,46.873791,-96.3112789,2026-10-29T17:39:14Z
-f5b4da37-a54e-4462-9f55-c9d2a2b9576e,way/240741400,Lake City Golf,,course,,,active,,,,,+1 651 345 3221,https://www.lakecitygolf.com/,,,33587 Lakeview Drive,Lake City,MN,55041,US,44.465726,-92.2981673,2026-10-11T15:12:05Z
+f5b4da37-a54e-4462-9f55-c9d2a2b9576e,way/240741400,Lake City Golf,,course,,,active,18,71,,,+1 651 345 3221,https://www.lakecitygolf.com/,https://www.lakecitygolf.com/scorecard,,33587 Lakeview Drive,Lake City,MN,55041,US,44.465726,-92.2981673,2026-11-27T05:38:18Z
 f61afc51-4152-4092-b831-9dce793de10f,way/1376553580,The Loop at Chaska,,course,,,active,,,,,,,,,,,MN,,US,44.8371344,-93.5975356,2026-10-11T15:12:29Z
 f6db5a6f-2b0b-47a4-aba2-5a1c7a970b90,way/851335825,Cedar River Golf Course,,course,,,active,18,72,,,,https://www.cedarrivercountryclub.com/,,,,,MN,,US,43.5654253,-92.7491369,2026-10-29T17:41:03Z
 f7b56912-f765-4fee-bd57-8aeb189d69a1,way/240736361,The Jewel Golf Club,,course,,,active,18,71,,,,https://www.jewelgolfclub.com/,,,,,MN,,US,44.4423974,-92.2941901,2026-10-29T17:43:36Z
@@ -462,11 +462,11 @@ fa8140a1-a0bb-4c20-a3af-e9756c45347d,way/1458118597,Timber Creek Golf Course,,co
 fa8fdeaa-ad86-4bfe-9b82-7f59fceae900,way/58199586,Lost Spur Country Club,,course,,,active,,,,,,https://www.lostspurgolf.com/,,,,,MN,,US,44.8580611,-93.1746563,2026-10-29T17:45:15Z
 faa1aed8-d68a-40a6-81c7-493155871a14,way/133871689,,,course,,,active,,,,,,,,,,,MN,,US,44.7701464,-94.9836989,2026-10-11T15:06:10Z
 fb4f7c33-f0c6-4712-83a8-ee9aa3553761,way/1492330196,Shoreland Country Club,,course,,,active,18,69,,,,https://www.shorelandcc.com/,,,,,MN,,US,44.3145031,-93.9243966,2026-10-28T17:27:24Z
-fc6b536c-cd92-47b4-8da1-5e4c45aba276,way/102360465,Rochester Golf & Country Club,,course,,,active,,,,,+1 507 282 2708,https://www.rgcc.org/,,,3100 Country Club Road SW,Rochester,MN,55902,US,44.0182905,-92.5101049,2026-10-11T15:11:55Z
+fc6b536c-cd92-47b4-8da1-5e4c45aba276,way/102360465,Rochester Golf & Country Club,,course,,,active,18,70,,,+1 507 282 2708,https://www.rgcc.org/,https://www.rgcc.org/golf/scorecard,,3100 Country Club Road SW,Rochester,MN,55902,US,44.0182905,-92.5101049,2026-11-27T05:38:19Z
 fc908195-e7b2-4cc7-bf7c-aa8376c980d3,way/1508657250,Greenwood Golf Course,,course,,,active,,,,,,https://www.greenwoodgolfcourse.com/,,,1361 Swenson Road,Bemidji,MN,56601,US,47.4789287,-94.7050594,2026-10-29T17:39:09Z
 fce637b6-8f09-43b9-82ff-5785a86e9c30,way/69813042,Prairie Ridge Golf Course,,course,,,active,,,,,,https://www.prairieridge.golf/,,,,,MN,,US,44.1288584,-93.7120774,2026-10-28T17:27:11Z
 fd9acdcc-8eda-45f4-abf0-a918731cf745,relation/12586027,The Wilds,,course,,,active,,,,,,https://www.golfthewilds.com,,,3151 Wilds Ridge,Prior Lake,MN,55372,US,44.7358515,-93.4585244,2026-10-29T17:37:09Z
-fdc12c9e-5d22-4825-afa2-40fefdb6928d,way/974432439,Long Bow Golf Club,,course,,,active,18,,,,+1-218-547-4124,https://longbowgolfclub.com,,,6516 Long Bow Trail NW,Walker,MN,56484,US,47.1699197,-94.6315739,2026-10-11T15:06:36Z
+fdc12c9e-5d22-4825-afa2-40fefdb6928d,way/974432439,Long Bow Golf Club,,course,,,active,18,72,,,+1-218-547-4124,https://longbowgolfclub.com,https://www.longbowgolfclub.com/scorecard,,6516 Long Bow Trail NW,Walker,MN,56484,US,47.1699197,-94.6315739,2026-11-26T05:40:45Z
 fe47420b-f9f5-497b-ab2f-9fa7e6a42e53,way/242308777,Pipestone Golf & Country Club,,course,,,active,,,,,,https://pipestonecc.com/,,,,,MN,,US,43.9887832,-96.3043198,2026-10-11T13:30:12Z
 feeca90b-212c-475b-bf3d-a68439d3db43,way/157303945,Burl Oaks Golf Club,,course,,,active,18,71,,,,,,,,,MN,,US,44.9752962,-93.6642856,2026-10-11T15:12:01Z
 ff1aa4c7-28cf-4069-a35b-93b61e9e7200,way/442097376,Arbor Pointe Golf Club,,course,,,active,,,,,+1-651-451-9678,https://www.arborpointegolf.com/,,,8919 Cahill Avenue,Inver Grove Heights,MN,55076,US,44.8256639,-93.0483149,2026-10-11T15:12:15Z

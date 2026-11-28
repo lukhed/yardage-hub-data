@@ -7,8 +7,8 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 1ae723fe-9e67-4fbb-ab47-a3bcf9942cdb,way/699620148,Richmond Country Club,,course,,,active,18,71,,,+1-401-364-9200,https://www.richmondcountryclub.net/,,,74 Sandy Pond Road,Richmond,RI,02832,US,41.4710061,-71.710904,2026-10-11T15:12:21Z
 1b269e55-2606-459e-a01d-56cc638dbba9,relation/4122943,Kings Crossing Golf Club,,course,,,active,9,36,,,+1 401-294-2872,https://kingscrossinggolfclub.com/,,,655 Old Baptist Road,North Kingstown,RI,02852,US,41.6009732,-71.4885101,2026-10-11T13:31:27Z
 1c093306-f969-470f-a956-48fd8f5c1e47,way/380875578,Country View Golf Club,,course,,,active,18,70,,,+1 401 568 7157,https://www.countryviewgolf.net/,,,49 Club Lane,Harrisville,RI,02830,US,41.9455012,-71.6062237,2026-10-11T15:12:14Z
-1fc6bd83-13bd-4788-88c1-bcd43dcbc805,relation/10547414,Louisquisset Golf Club,,course,,,active,9,34,,,+1 401 353 8610,,,,1 Overlook Circle,North Providence,RI,02904,US,41.8732821,-71.4429701,2026-10-11T15:12:38Z
-2096f8f4-0c31-4f64-af7e-0113761920ae,way/886549980,Silver Spring Golf Club,,par3,,,active,,,,,,,,,,,RI,,US,41.7845674,-71.3661326,2026-10-11T15:06:35Z
+1fc6bd83-13bd-4788-88c1-bcd43dcbc805,relation/10547414,Louisquisset Golf Club,,course,,,active,9,34,,,+1 401 353 8610,https://www.louisquissetgc.com/,,,1 Overlook Circle,North Providence,RI,02904,US,41.8732821,-71.4429701,2026-11-25T20:28:41Z
+2096f8f4-0c31-4f64-af7e-0113761920ae,way/886549980,Silver Spring Golf Club,,par3,,,active,,,,,,https://www.silversprings.cc/,,,,,RI,,US,41.7845674,-71.3661326,2026-11-25T20:28:54Z
 2213357b-5ec2-4f4d-be91-0570f21d3d4d,relation/4124326,Agawam Hunt,,course,,,active,18,69,,,+1 401-434-3254,https://www.agawamhunt.org/,,,,,RI,,US,41.8316236,-71.3560619,2026-10-11T15:12:35Z
 26ce383a-d7db-43a7-82c0-a95cc52baf59,relation/16603382,Glocester Country Club,,course,,,active,9,35,,,+1 401 949 3330,https://glocestercc.com/,,,156 Putnam Pike,Chepachet,RI,02814,US,41.8860855,-71.5907441,2026-10-11T13:31:48Z
 2c4562d6-d3a7-4140-9664-fc1376501a88,way/141527481,North Kingstown Golf Course,,course,,,active,18,70,,,+1 401-294-0684,http://www.nkgc.com/,,,615 Callahan Raod,North Kingstown,RI,02852,US,41.5990285,-71.4289557,2026-10-11T15:12:00Z
@@ -19,7 +19,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 59887469-f086-46d9-ac83-d09ad1e7127b,relation/6589291,Quidnessett Country Club,,course,,,active,18,72,,,+1 401 884 1100,https://www.quidnessett.com/,,,950 North Quidnessett Road,North Kingstown,RI,02852,US,41.641148,-71.4155289,2026-10-11T15:12:38Z
 5fbbf83f-ec24-41a9-837e-6930a8c3ba08,way/330546813,Kirkbrae Country Club,,course,,,active,18,71,,,,,,,,,RI,,US,41.9467594,-71.4576,2026-10-11T15:12:12Z
 6547984f-048b-4638-b2da-d3b59343581b,relation/19205634,,,course,,,active,9,,,,,,,,,,RI,,US,41.4167628,-71.5896604,2026-10-11T15:12:45Z
-66ac4c2c-c078-4f53-9e1a-fe54b68987fc,relation/11756738,Warwick Country Club,,course,,,active,18,69,,,,,,,,,RI,,US,41.673383,-71.384429,2026-10-11T15:12:41Z
+66ac4c2c-c078-4f53-9e1a-fe54b68987fc,relation/11756738,Warwick Country Club,,course,,,active,18,69,,,,https://www.warwickcc.com/,,,,,RI,,US,41.673383,-71.384429,2026-11-25T20:28:57Z
 6ae3be99-2681-4d35-84e5-23cba77ba083,relation/21281175,,,course,,,active,18,71,,,,,,,,,RI,,US,41.3588898,-71.7317656,2026-10-11T15:12:45Z
 6c63ff6e-d6fd-4429-a4a7-ecacf97713a0,relation/11833408,Weekapaug Golf Club,,course,,,active,9,36,,,+1 401-322-7870,https://www.weekapauggolfclub.com/,,,265 Shore Road,Westerly,RI,02891,US,41.3379963,-71.7759378,2026-10-11T15:12:41Z
 6d8b81c9-4c73-4f20-ab3a-5f04efb24b84,relation/12040815,Wannamoisett Country Club,,course,,,active,18,,,,+1 401-434-1200,https://www.wannamoisett.com/,,,96 Hoyt Avenue,Rumford,RI,02916,US,41.8475737,-71.3597496,2026-10-11T13:31:42Z
@@ -29,7 +29,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 82d9a429-8ed1-48d4-b9cb-aea9c30f45b9,way/185319906,Button Hole,,par3,,,active,9,27,,,+1 401-421-1664,https://www.buttonhole.org/,,,1 Button Hole Drive,Providence,RI,02909,US,41.8259252,-71.4638755,2026-10-11T15:12:01Z
 8b94cb5f-b6a5-49de-8723-de5760626bb3,way/1466373448,The Misquamicut Club,,course,,,active,18,69,,,,https://themisquamicutclub.com/Main,,,60 Ocean View Highway,Watch Hill,RI,,US,41.3224778,-71.830869,2026-10-11T15:12:29Z
 906851a2-9c59-42b9-8a9d-31b6adb199bf,way/141111883,Cranston Country Club,,course,,,active,18,71,,,+1 401 826 1683,https://cranstoncc.com/,,,69 Burlingame Road,Cranston,RI,02921,US,41.7398437,-71.5170718,2026-10-11T15:06:12Z
-94c43660-86e1-43f5-bdc7-06a676c7ba2c,relation/13096532,Point Judith Country Club,,course,,,active,18,71,,,,,,,,,RI,,US,41.4086756,-71.4696923,2026-10-11T15:12:41Z
+94c43660-86e1-43f5-bdc7-06a676c7ba2c,relation/13096532,Point Judith Country Club,,course,,,active,18,71,,,,https://www.pointjudithcountryclub.net/,,,,,RI,,US,41.4086756,-71.4696923,2026-11-26T20:05:56Z
 9d745fb6-8812-4a87-b56f-e4524480c0b0,relation/11649908,Wood River Golf,,course,,,active,18,70,,,+1-401-364-0700,http://www.woodrivergolf.com/,,,,,RI,,US,41.4508843,-71.723204,2026-10-11T15:12:41Z
 a216ee2b-a0fc-47df-af8b-973c015a0d5d,way/857689301,Rolling Greens Golf Course,,course,,,active,9,35,,,+1-401-294-9859,https://rollinggreensri.com/,,,,,RI,,US,41.5806336,-71.5126268,2026-10-11T15:06:35Z
 a360c2e4-5144-4f8f-9796-6949e745ec29,way/49551430,Montaup Country Club,,course,,,active,18,71,,,+1 401-683-0955,https://www.montaupcc.com/,,,500 Anthony Road,Portsmouth,RI,02871,US,41.636885,-71.2337509,2026-10-11T15:11:53Z
@@ -43,8 +43,8 @@ c46d1d63-4b3a-41f0-9c81-a953de8d8a17,way/289927950,Jamestown Golf Course,,course
 ca0569f8-9f81-46e3-8484-983403fa5d85,way/380508996,Wanumetonomy Golf and Country Club,,course,,,active,18,70,,,+1 401 847 5141,https://www.wanumetonomy.com/,,,152 Browns Lane,Middletown,RI,02842,US,41.5377757,-71.3033385,2026-10-11T15:12:14Z
 cab96bab-f689-4265-8244-fbef73c28a76,way/1449453291,Pinecrest Golf Club,,course,,,active,,,,,,https://www.pinecrestri.com/,,,,,RI,,US,41.4670474,-71.6554965,2026-10-11T13:31:14Z
 cc967738-1c4b-473d-83cb-1c37c4bb47c1,way/1284262007,Crystal Lake Golf Club,,course,,,active,18,71,,,+1-401-567-4500,https://crystallakegolfclub.com/,,,100 Broncos Highway,Mapleville,RI,02839,US,41.9380803,-71.6701513,2026-10-11T15:12:28Z
-ccbb29fa-dda9-40a5-aa15-549230491764,way/895324526,Newport National Golf Club,,course,,,active,18,71,,,,,,,324 Mitchells Lane,Middletown,RI,02842,US,41.5306871,-71.2531039,2026-10-11T15:12:23Z
-d6cc30b8-f188-4110-82c8-53008658c416,relation/13922079,Newport Country Club,,course,,,active,18,71,,,,,,,,,RI,,US,41.4596863,-71.3475667,2026-10-11T15:12:41Z
+ccbb29fa-dda9-40a5-aa15-549230491764,way/895324526,Newport National Golf Club,,course,,,active,18,71,,,,https://newportnational.com/,,,324 Mitchells Lane,Middletown,RI,02842,US,41.5306871,-71.2531039,2026-11-25T20:28:45Z
+d6cc30b8-f188-4110-82c8-53008658c416,relation/13922079,Newport Country Club,,course,,,active,18,71,,,,https://www.newportcountryclub.us/,,,,,RI,,US,41.4596863,-71.3475667,2026-11-25T20:28:43Z
 d8c5ac75-442e-47aa-90f3-aaf552514ffc,way/1217811724,The Preserve Golf Course,,par3,,private,active,18,54,,,+1 401-539-4653,https://www.thepreserveri.com/,,,87 Kingstown Road,Wyoming,RI,02898,US,41.4924983,-71.6834095,2026-10-11T15:06:38Z
 de40cc13-2348-4642-9cab-c0e0d98db89a,way/185117570,Meadow Brook,,course,,,active,18,71,,,+1 401-539-8491,https://www.meadowbrookgolfri.com/,,,163 Kingstown Road,Richmond,RI,02898,US,41.494847,-71.6665511,2026-10-11T15:06:14Z
 de4827e1-1e7f-4dae-b7f5-11d5c633e004,way/146265848,Rhode Island Country Club,,course,,,active,,,,,+1 401-245-5700,https://www.ricc.org/,,,150 Nayatt Road,Barrington,RI,02806,US,41.7328937,-71.3311432,2026-10-11T13:29:58Z
@@ -52,7 +52,7 @@ e25f1775-18b5-4da7-9ad0-11032cc7bdcb,relation/11621156,Potowomut Golf Club,,cour
 e764dd14-728e-4193-8559-c3a22f554ce8,way/325263047,The Aquidneck Club,,course,,,active,18,71,,,,https://www.aquidneckclub.com/,,,,,RI,,US,41.6060717,-71.2663203,2026-10-11T15:12:12Z
 ea88c759-af44-46c7-9181-02656ced8ef2,way/1473729982,Wentworth Hills Country Club,,course,,,active,18,71,,,,https://www.wentworthhillscountryclub.com/,,,27 Bow Street,Plainville,RI,02762,US,42.0151651,-71.378755,2026-10-28T17:14:13Z
 ede150d7-cc36-42a4-bb06-05651cdaa0f9,way/182073615,Sakonnet Golf Club,,course,,,active,18,70,,,+1 401-635-4821,http://sakonnetgc.com/,,,79 Sakonnet Point Road,Little Compton,RI,02837,US,41.4744053,-71.1856901,2026-10-11T15:12:01Z
-f05cfbf2-2789-4b47-ab74-12188a94719a,way/1245155294,Lincoln Country Club,,course,,,active,9,35,,,,,,,,,RI,,US,41.9150099,-71.4274896,2026-10-11T15:12:28Z
+f05cfbf2-2789-4b47-ab74-12188a94719a,way/1245155294,Lincoln Country Club,,course,,,active,9,35,,,,https://www.lincolncountryclub.com/,,,,,RI,,US,41.9150099,-71.4274896,2026-11-26T20:05:54Z
 f4eb90a3-a0cf-45d1-a899-f94ee3cecdd9,way/77709865,Coventry Pines Golf Course,,course,,,active,9,36,,,,https://coventrypines.com/,,,,,RI,,US,41.6700098,-71.6315998,2026-10-11T15:11:55Z
 f6d53532-8ac8-432c-aa3f-e54586ba9bd3,way/892134158,Swansea Country Club,,course,,,active,18,72,,,+1 508-379-9886,https://www.swanseacountryclub.com/,https://irp.cdn-website.com/787a4e2e/files/uploaded/scorecard.pdf,,299 Market Street,Swansea,RI,02777,US,41.7602971,-71.2737923,2026-11-23T05:38:44Z
 f8d8345d-4df4-4be2-a1ec-2b6d9dc43574,relation/4116773,Winnapaug Country Club,,course,,,active,18,72,,,+1 401-596-1237,http://www.winnapaugcountryclub.com/,,,184 Shore Road,Westerly,RI,02891,US,41.3403687,-71.7961682,2026-10-11T15:12:35Z

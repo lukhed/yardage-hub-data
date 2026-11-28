@@ -7,15 +7,15 @@ would overwrite them.
 Instead, fix the data at the source, where your change is reviewed, credited to you, and reaches
 everyone using the data or the API:
 
-1. Find the course on [lukeheide.com/sports/yardage-hub](https://lukeheide.com/sports/yardage-hub),
-   or open `https://lukeheide.com/sports/yardage-hub?course=<id>` with its `id` from `courses.csv`.
-2. **Easiest:** click **Add the scorecard link** and paste the link to the course's published
-   scorecard. We read the card and fill in its tees, ratings, slopes, pars, and yardages.
+1. Find the course on [loopdiaries.com](https://loopdiaries.com),
+   or open `https://loopdiaries.com/courses/c/<id>` with its `id` from `courses.csv`.
+2. **Easiest:** add the link to the course's published scorecard (or send photos of the
+   card). We read the card and fill in its tees, ratings, slopes, pars, and yardages.
 3. Or click **Suggest an edit** to change values directly, **vote** on edits waiting for review,
    or **report a dead link**.
 
-A free lukeheide.com account is needed to send edits. Apps can send them through the
-[API](https://lukeheide.com/sports/yardage-hub/docs).
+A free Loop Diaries account is needed to send edits. Apps can send them through the
+[API](https://loopdiaries.com/developers).
 
 **What does belong here:** a course that's missing entirely
 ([open an issue](https://github.com/lukhed/yardage-hub-data/issues/new?template=missing-course.yml)), or a problem with the files

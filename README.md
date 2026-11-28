@@ -4,18 +4,18 @@ Open golf course data for the United States: **16,000+ courses** with their loca
 details, holes and pars, and, for a growing number, tees, course ratings, slopes, and hole-by-hole
 yardages. Free to use under the [Open Database License](#license).
 
-This repo is a weekly snapshot of the [yardage-hub](https://lukeheide.com/sports/yardage-hub)
+This repo is a weekly snapshot of the [yardage-hub](https://loopdiaries.com/developers)
 database, as plain CSV files you can open in a spreadsheet or load into anything.
 
 > **See something wrong or missing? Fix it on the site, not here.**
 > This repo is generated, so pull requests here are closed automatically. Corrections go through
-> [lukeheide.com/sports/yardage-hub](https://lukeheide.com/sports/yardage-hub), where they're
+> [loopdiaries.com](https://loopdiaries.com), where they're
 > reviewed, credited to you, and land in the live API right away and in this repo with the next
 > snapshot. The fastest way to help is to [add a course's scorecard link](#the-easiest-way-to-help-add-a-scorecard-link).
 
 ## How complete is the data
 
-Of **16,281 golf courses** in the 2026-11-23 snapshot, **57%** have a website, **38%** have their holes and pars, and **6%** have a scorecard. Every measure, by state and region, and how it's grown: the [coverage dashboard](https://lukeheide.com/sports/yardage-hub/coverage).
+Of **16,282 golf courses** in the 2026-11-28 snapshot, **58%** have a website, **38%** have their holes and pars, and **7%** have a scorecard. Every measure, by state and region, and how it's grown: the [coverage dashboard](https://lukeheide.com/sports/yardage-hub/coverage).
 
 ## Download
 
@@ -28,12 +28,12 @@ Of **16,281 golf courses** in the 2026-11-23 snapshot, **57%** have a website, *
 
 ## Help fix the data
 
-Every course has a page on the site. Find it by searching
-[lukeheide.com/sports/yardage-hub](https://lukeheide.com/sports/yardage-hub), or go straight to
+Every course has a page on Loop Diaries. Find it by searching
+[loopdiaries.com](https://loopdiaries.com), or go straight to
 it with the course's `id` from `courses.csv`:
 
 ```
-https://lukeheide.com/sports/yardage-hub?course=<id>
+https://loopdiaries.com/courses/c/<id>
 ```
 
 ### The easiest way to help: add a scorecard link
@@ -56,11 +56,11 @@ of each value. It takes a minute and fills in a whole course.
 - **A course that isn't listed at all?** [Open an issue here](https://github.com/lukhed/yardage-hub-data/issues/new?template=missing-course.yml)
   with its name, city, and website.
 
-You'll need a free account on lukeheide.com to send edits, so they can be credited to you. Every
+You'll need a free Loop Diaries account to send edits, so they can be credited to you. Every
 change is reviewed before it goes live, and every value keeps a record of where it came from.
 
 **Building an app?** Your app can send edits too, through the
-[yardage-hub API](https://lukeheide.com/sports/yardage-hub/docs). They go through the same review.
+[yardage-hub API](https://loopdiaries.com/developers). They go through the same review.
 
 ## What's in the files
 
@@ -108,7 +108,7 @@ published).
 `manifest.json` has the snapshot date, row counts, and the courses per state. `coverage.json` has
 how complete the data is nationally, by state, and by region (the same numbers as the
 [coverage dashboard](https://lukeheide.com/sports/yardage-hub/coverage)). Every course in `courses.csv` belongs
-to one region; the [API](https://lukeheide.com/sports/yardage-hub/docs) gives each course's region.
+to one region; the [API](https://loopdiaries.com/developers/docs) gives each course's region.
 
 ### Things to know
 
@@ -145,4 +145,4 @@ Forks are welcome under these terms. If you correct something in your copy, plea
 The yardage-hub repo exports the database every week (`python -m pipeline export`) and commits
 the result here, with a release holding the zip. Only reviewed, live data is exported, never
 pending edits or any account details. For live data between snapshots, use the
-[API](https://lukeheide.com/sports/yardage-hub/docs).
+[API](https://loopdiaries.com/developers).

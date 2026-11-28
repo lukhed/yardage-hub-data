@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Check [lukeheide.com/sports/yardage-hub](https://lukeheide.com/sports/yardage-hub) first: if the course is there, fix it on its page instead.
+        Search [loopdiaries.com](https://loopdiaries.com) first: if the course is there, fix it on its page instead.
   - type: input
     id: name
     attributes:

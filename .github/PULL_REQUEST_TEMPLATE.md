@@ -3,6 +3,6 @@ Thanks! This repo is generated from the yardage-hub database every week, so pull
 are closed automatically: the next snapshot would overwrite the change.
 
 Please send data fixes through the site instead, where they're reviewed and credited to you:
-https://lukeheide.com/sports/yardage-hub
-The easiest fix: open the course's page and click "Add the scorecard link".
+https://loopdiaries.com
+The easiest fix: find the course and add the link to its published scorecard.
 -->

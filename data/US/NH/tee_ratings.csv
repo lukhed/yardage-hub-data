@@ -1,0 +1,10 @@
+course_id,tee_key,gender,par,rating,slope
+b7677dc2-5c71-4f9d-aa19-29af382f5a57,balsam,F,71,74.2,132
+b7677dc2-5c71-4f9d-aa19-29af382f5a57,balsam,M,71,69.4,125
+b7677dc2-5c71-4f9d-aa19-29af382f5a57,birch,F,71,73.0,129
+b7677dc2-5c71-4f9d-aa19-29af382f5a57,birch,M,71,67.4,121
+b7677dc2-5c71-4f9d-aa19-29af382f5a57,hemlock,F,71,68.8,121
+b7677dc2-5c71-4f9d-aa19-29af382f5a57,hemlock,M,71,64.1,112
+b7677dc2-5c71-4f9d-aa19-29af382f5a57,maple,F,71,64.9,111
+b7677dc2-5c71-4f9d-aa19-29af382f5a57,oak,M,71,70.6,130
+b7677dc2-5c71-4f9d-aa19-29af382f5a57,pine,,71,,
