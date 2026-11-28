@@ -128,7 +128,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 443a0ed8-56d0-490e-a30f-820e2311e828,way/974432440,,,course,,,active,,,,,,,,,,,MN,,US,47.1614676,-94.6291752,2026-10-11T15:12:24Z
 447acf64-65cb-4e86-a31f-132dc1354782,way/41434937,Oak Ridge Country Club,,course,,,active,18,,,,,https://oakridgecountryclub.clubhouseonline-e3.com/,,,,,MN,,US,44.9386241,-93.4126217,2026-10-30T00:56:44Z
 4482e52f-dd4c-42df-bcd2-dc8ccb5621c1,way/943015138,,,course,,,active,9,35,,,,,,,,,MN,,US,46.7518719,-95.7714006,2026-10-11T15:12:23Z
-44899814-ac49-4494-9f3e-9851eafd3d39,way/321277104,The Bridges,,course,,,active,,,,,+1-507-452-3535,https://www.winonagolf.com/,,,22852 County Road 17,Winona,MN,55987,US,44.0118336,-91.6062613,2026-10-11T15:12:12Z
+44899814-ac49-4494-9f3e-9851eafd3d39,way/321277104,The Bridges,,course,,,active,18,71,,,+1-507-452-3535,https://www.winonagolf.com/,https://www.winonagolf.com/golf-course/,,22852 County Road 17,Winona,MN,55987,US,44.0118336,-91.6062613,2026-11-28T05:43:01Z
 44c3b7bd-0876-40ed-b9fc-04f1ad243d3b,relation/3262914,Village Green Golf Course,,course,,,active,18,72,,,+1 218 299 7888,https://www.cityofmoorhead.com/departments/parks-recreation/golf-courses/village-green,,,,,MN,,US,46.8400703,-96.72771,2026-10-11T15:06:43Z
 44ede213-b60f-413b-a963-d823fbbca593,way/819279916,Tanner's Brook,,course,,,active,18,71,,,,https://www.tannersbrook.com/,,,,,MN,,US,45.2250907,-92.991296,2026-10-29T17:45:38Z
 4568ac94-6b14-4459-b88a-e70af6cbb193,way/460083260,Minakwa Golf Course,,course,,,active,9,35,,,,,,,,,MN,,US,47.7868465,-96.6185681,2026-10-11T15:12:17Z
@@ -247,7 +247,7 @@ id,osm_id,name,club_name,kind,facility_id,type,status,holes_count,par,architect,
 8135bdbb-73c3-4f51-97b5-75a470fb8bfd,way/200045218,Slayton Country Club,,course,,,active,,,,,,https://www.slaytoncountry.club/,,,,,MN,,US,44.0032908,-95.7566487,2026-10-28T17:27:26Z
 814ed2ab-09d2-47ee-bb12-f2608906653c,way/436648206,Angushire Golf Club,,course,,,active,,,,,,https://angushiregolf.com/,,,,,MN,,US,45.546272,-94.2112759,2026-10-28T17:24:02Z
 81958d62-2123-4eae-9bab-3a89b6f6f560,way/583976889,Black Bear Golf Course,,course,,,active,18,72,,,,,,,,,MN,,US,46.6730208,-92.4797554,2026-10-11T15:12:20Z
-81cbdf10-2195-4845-97ba-0b7603b5275d,relation/12796462,Wildflower GC,,course,,,active,,,,,,https://wildflowergolfcourse.com/,,,19790 Co Hwy 20,Detroit Lakes,MN,56501,US,46.7191747,-95.9955719,2026-10-11T15:12:41Z
+81cbdf10-2195-4845-97ba-0b7603b5275d,relation/12796462,Wildflower GC,,course,,,active,18,72,,,,https://wildflowergolfcourse.com/,https://wildflowergolfcourse.com/maps/scorecard/,,19790 Co Hwy 20,Detroit Lakes,MN,56501,US,46.7191747,-95.9955719,2026-11-28T05:43:00Z
 82b40490-9ee9-46f4-9d25-0a97aca221b9,relation/17480009,Spring Hill Golf Club,,course,,private,active,18,72,,,,https://springhillgc.com/,,,725 Sixth Avenue North,,MN,,US,44.9976339,-93.5431313,2026-10-11T15:12:45Z
 840c13c5-5dba-4158-9bad-a57c43db0005,relation/3227780,Chaska Town Course,,course,,,active,18,,,,,https://www.chaskatowncourse.com/,,,,,MN,,US,44.8295091,-93.6303084,2026-10-29T17:32:35Z
 85066a05-78ad-4169-9986-8412c09f15fa,way/178310986,Oak Marsh Golf Course,,course,,,active,18,70,,,+1-651-730-8886,https://www.oakmarshgolf.com/,https://www.oakmarshgolf.com/the-course/scorecard/,,526 Inwood Avenue North,Oakdale,MN,55128,US,44.9567678,-92.9432166,2026-11-27T05:38:22Z
@@ -355,7 +355,7 @@ bbe2c156-9a4c-4eda-8949-1b4587b9325e,way/406994612,Victory Links Golf Course,,co
 bc7a9fbe-6076-4b51-a99c-f269f797acb6,way/171477289,,,course,,,active,,,,,,,,,,,MN,,US,46.7222249,-94.4243105,2026-10-11T15:12:01Z
 bc966704-60e6-4ce7-a0a1-3d5efe83c655,way/331313065,Valley Golf Course,,course,,,active,9,35,,,+1-320-235-6790,https://www.valleygolfwillmar.com/,https://valleygolfwillmar.com/course-info/,,1900 Becker Avenue SE,Willmar,MN,56201,US,45.1184576,-95.0154372,2026-11-26T05:40:43Z
 bd67665d-7118-4480-b5a7-c5a8a62a3005,way/242402746,,,course,,,active,18,70,,,,,,,,,MN,,US,44.9877492,-93.0608274,2026-10-11T15:12:05Z
-bdb95041-bf01-4586-87e9-1528ae45388e,way/583002620,Twin Pines Golf Course,,course,,,active,,,,,+1 218 694 2454,https://www.bagleymn.us/twinpinesgolfcourse,,,531 7th Street Northeast,Bagley,MN,56621,US,47.5300297,-95.3893197,2026-10-11T15:12:20Z
+bdb95041-bf01-4586-87e9-1528ae45388e,way/583002620,Twin Pines Golf Course,,course,,,active,9,36,,,+1 218 694 2454,https://www.bagleymn.us/twinpinesgolfcourse,https://www.bagleymn.us/index.asp?SEC=06FE04B5-13D5-4F43-9BC9-FFF9A24579CD&Type=B_BASIC,,531 7th Street Northeast,Bagley,MN,56621,US,47.5300297,-95.3893197,2026-11-28T05:43:00Z
 be204894-4f57-477c-9200-1dba30ef2c00,way/242307204,Adrian Country Club,,course,,,active,18,72,,,,http://www.adriancountryclub.com/,,,,,MN,,US,43.626303,-95.9384043,2026-10-11T13:30:12Z
 bea1a5ac-fbf0-4a29-831c-7fd24114822a,way/303123384,Preston Golf and Country Club,,course,,,active,9,35,,,,https://www.prestongolfcourse.com/,,,,,MN,,US,43.682979,-92.1009364,2026-10-29T17:42:54Z
 bfb34212-e2b9-437c-a733-9d0e92635cba,relation/13704287,,,course,,,active,,,,,,,,,,,MN,,US,46.4841814,-95.0812379,2026-10-11T15:12:41Z

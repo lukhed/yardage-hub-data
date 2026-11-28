@@ -4,11 +4,11 @@
  "attribution": "yardage-hub (lukeheide.com/sports/yardage-hub). Contains information from OpenStreetMap (\u00a9 OpenStreetMap contributors), available under the ODbL.",
  "contribute": "https://lukeheide.com/sports/yardage-hub",
  "counts": {
-  "courses": 16640,
-  "holes": 132498,
-  "tees": 5264,
-  "tee_ratings": 6354,
-  "tee_holes": 91730
+  "courses": 16646,
+  "holes": 132721,
+  "tees": 5416,
+  "tee_ratings": 6549,
+  "tee_holes": 94394
  },
  "regions": {
   "US/AK": 25,
@@ -37,7 +37,7 @@
   "US/ME": 123,
   "US/MI": 922,
   "US/MN": 471,
-  "US/MO": 322,
+  "US/MO": 328,
   "US/MP": 6,
   "US/MS": 113,
   "US/MT": 96,

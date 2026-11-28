@@ -40,6 +40,13 @@ course_id,tee_key,name,color,total_yardage
 3c2e4bcb-768f-4aa2-be24-27a94e1fae35,red,Red,red,4805
 3c2e4bcb-768f-4aa2-be24-27a94e1fae35,white,White,white,5847
 3c2e4bcb-768f-4aa2-be24-27a94e1fae35,yellow,Yellow,yellow,5472
+44899814-ac49-4494-9f3e-9851eafd3d39,black,Black,black,6778
+44899814-ac49-4494-9f3e-9851eafd3d39,blk-blue,Blk/Blue,,6594
+44899814-ac49-4494-9f3e-9851eafd3d39,blue,Blue,blue,6395
+44899814-ac49-4494-9f3e-9851eafd3d39,blue-wh,Blue/WH,,6155
+44899814-ac49-4494-9f3e-9851eafd3d39,gold,Gold,gold,3841
+44899814-ac49-4494-9f3e-9851eafd3d39,red,Red,red,5091
+44899814-ac49-4494-9f3e-9851eafd3d39,white,White,white,5871
 485a0c00-6674-4dac-811f-1e17eda517d5,black,Black,black,6502
 485a0c00-6674-4dac-811f-1e17eda517d5,blue,Blue,blue,6079
 485a0c00-6674-4dac-811f-1e17eda517d5,gold,Gold,gold,4814
@@ -75,6 +82,11 @@ course_id,tee_key,name,color,total_yardage
 7013c5ca-2953-4276-b20f-d3d5606ecf0d,blue,Blue,blue,6383
 7013c5ca-2953-4276-b20f-d3d5606ecf0d,red,Red,red,5319
 7013c5ca-2953-4276-b20f-d3d5606ecf0d,white,White,white,5858
+81cbdf10-2195-4845-97ba-0b7603b5275d,black,Black,black,7000
+81cbdf10-2195-4845-97ba-0b7603b5275d,blue,Blue,blue,6551
+81cbdf10-2195-4845-97ba-0b7603b5275d,gold,Gold,gold,6191
+81cbdf10-2195-4845-97ba-0b7603b5275d,green,Green,green,5301
+81cbdf10-2195-4845-97ba-0b7603b5275d,maroon,Maroon,maroon,5824
 85066a05-78ad-4169-9986-8412c09f15fa,blue,Blue,blue,6179
 85066a05-78ad-4169-9986-8412c09f15fa,gold,Gold,gold,5273
 85066a05-78ad-4169-9986-8412c09f15fa,red,Red,red,4707
@@ -115,6 +127,8 @@ b21108a9-c5f5-4e34-b861-1a5666b0f5be,red,Red,red,3119
 b21108a9-c5f5-4e34-b861-1a5666b0f5be,white,White,white,3310
 bc966704-60e6-4ce7-a0a1-3d5efe83c655,red,Red,red,2212
 bc966704-60e6-4ce7-a0a1-3d5efe83c655,white,White,white,2479
+bdb95041-bf01-4586-87e9-1528ae45388e,ladies,Ladies',,2847
+bdb95041-bf01-4586-87e9-1528ae45388e,men-s,Men's,,3242
 d4c7bbde-484e-4256-afe4-d239bd739fa9,blue,Blue,blue,6503
 d4c7bbde-484e-4256-afe4-d239bd739fa9,gold,Gold,gold,5681
 d4c7bbde-484e-4256-afe4-d239bd739fa9,red,Red,red,5301

@@ -1,0 +1,45 @@
+name: List my app
+description: You built an app with this data or the yardage-hub API, and want it listed in the README.
+title: "List my app: "
+labels: ["app listing"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for building with yardage-hub. Listed apps appear under "Apps built on yardage-hub" in the README, from the next weekly snapshot.
+  - type: input
+    id: name
+    attributes:
+      label: App name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Link
+      description: Where people can use or download it.
+    validations:
+      required: true
+  - type: input
+    id: what
+    attributes:
+      label: What it does, in one line
+      description: e.g. "A shot tracker with yardages for every tee."
+    validations:
+      required: true
+  - type: dropdown
+    id: uses
+    attributes:
+      label: How it uses yardage-hub
+      multiple: true
+      options:
+        - The CSV snapshots in this repo
+        - The API, reading course data
+        - The API, sending edits
+  - type: checkboxes
+    id: attribution
+    attributes:
+      label: Attribution
+      options:
+        - label: My app credits the data as the [license](https://github.com/lukhed/yardage-hub-data#license) asks.
+          required: true
